@@ -14,7 +14,7 @@ const MIN_BUDGET: usize = 15;
 // factor/contributor counts saturate for very active repos. Raise if needed.
 const MAX_COMMIT_PAGES: u8 = 10;
 
-pub async fn run(cfg: &Config, category: &str, force: bool) -> anyhow::Result<()> {
+pub async fn run(cfg: &Config, category: &str, force: bool, limit: Option<usize>) -> anyhow::Result<()> {
     let cat = cfg.category(category)?;
     let repos: Vec<String> = load_repo_list(&cat.data_dir.join("repos.yaml"))?;
     let raw_dir = cat.data_dir.join("raw");
@@ -67,6 +67,10 @@ pub async fn run(cfg: &Config, category: &str, force: bool) -> anyhow::Result<()
         };
         std::fs::write(&path, serde_json::to_string_pretty(&record)?)?;
         done += 1;
+        if limit.is_some_and(|n| done >= n) {
+            println!("batch limit reached: {done} fetched this run, {skipped} cached. Re-run for next batch.");
+            return Ok(());
+        }
         if done.is_multiple_of(25) {
             println!("{done} fetched, {skipped} cached…");
         }
@@ -131,8 +135,10 @@ async fn fetch_repo(
     // Closed issues+PRs sample (issues API mixes both; split by `pull_request` field).
     let (issue_close, pr_close, closed_issues) = fetch_closed_items(crab, owner, repo).await?;
 
-    let open_issues = search_count(crab, &format!("repo:{owner}/{repo} is:issue is:open")).await?;
-    let open_prs = search_count(crab, &format!("repo:{owner}/{repo} is:pr is:open")).await?;
+    // AIDEV-NOTE: repo.open_issues_count (issues + PRs combined) replaces two
+    // search-API calls: cheaper, and the search bucket (30/min) 422s on
+    // renamed/deleted repos. Approximation documented in methodology.
+    let open_issues = meta.open_issues_count.unwrap_or(0).into();
 
     let has_ci = has_workflows(crab, owner, repo).await?;
     let has_tests = has_test_files(crab, owner, repo).await?;
@@ -158,7 +164,7 @@ async fn fetch_repo(
             releases_365d,
             median_issue_close_days: issue_close,
             median_pr_close_days: pr_close,
-            open_issues: open_issues + open_prs,
+            open_issues,
             closed_issues_sampled: closed_issues,
             contributors_12mo,
             top_author_commit_share: top_share,
@@ -279,16 +285,6 @@ async fn fetch_closed_items(
     }
     let n_issues = issues.len() as u32;
     Ok((median(&mut issues), median(&mut prs), n_issues))
-}
-
-async fn search_count(crab: &octocrab::Octocrab, q: &str) -> anyhow::Result<u64> {
-    let res = crab
-        .search()
-        .issues_and_pull_requests(q)
-        .per_page(1)
-        .send()
-        .await?;
-    Ok(res.total_count.unwrap_or(0))
 }
 
 async fn has_workflows(crab: &octocrab::Octocrab, owner: &str, repo: &str) -> anyhow::Result<bool> {

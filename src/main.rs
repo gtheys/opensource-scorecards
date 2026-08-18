@@ -26,6 +26,9 @@ enum Cmd {
         /// Ignore cache freshness, refetch everything
         #[arg(long)]
         force: bool,
+        /// Fetch at most N repos this run (batching)
+        #[arg(long)]
+        limit: Option<usize>,
     },
     /// Compute scores from the raw cache
     Score {
@@ -45,7 +48,7 @@ async fn main() -> anyhow::Result<()> {
     let cfg = config::Config::load(PathBuf::from("config/weights.toml"))?;
     match cli.cmd {
         Cmd::Seed { source, category } => seed::run(&cfg, source.as_deref(), &category).await,
-        Cmd::Collect { category, force } => collect::run(&cfg, &category, force).await,
+        Cmd::Collect { category, force, limit } => collect::run(&cfg, &category, force, limit).await,
         Cmd::Score { category } => score::run(&cfg, &category),
         Cmd::Render { category } => render::run(&cfg, &category),
     }
