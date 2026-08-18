@@ -1,0 +1,214 @@
+{
+  "category": "neovim",
+  "generated_at": "2026-08-18T09:39:06.853106335Z",
+  "weights": {
+    "buckets": {
+      "community": 0.35,
+      "quality": 0.25,
+      "maintenance": 0.4
+    },
+    "signals": {
+      "maintenance": {
+        "days_since_last_commit": 0.25,
+        "median_pr_close_days": 0.15,
+        "release_cadence": 0.15,
+        "commit_frequency_90d": 0.2,
+        "median_issue_close_days": 0.15,
+        "open_closed_issue_ratio": 0.1
+      },
+      "quality": {
+        "ci_configured": 0.3,
+        "tests_present": 0.3,
+        "readme_present": 0.2,
+        "license_osi": 0.2
+      },
+      "community": {
+        "forks_log": 0.15,
+        "author_track_record": 0.15,
+        "stars_log": 0.3,
+        "bus_factor": 0.15,
+        "contributors_12mo": 0.25
+      }
+    }
+  },
+  "projects": [
+    {
+      "slug": "nvim-telescope/telescope.nvim",
+      "status": "ok",
+      "total": 64.1,
+      "buckets": {
+        "community": 49.8,
+        "maintenance": 54.2,
+        "quality": 100.0
+      },
+      "signals": {
+        "release_cadence": {
+          "raw": 3.0,
+          "score": 0.0,
+          "weight": 0.15
+        },
+        "tests_present": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.3
+        },
+        "open_closed_issue_ratio": {
+          "raw": 0.04771784232365145,
+          "score": 0.04771784232365145,
+          "weight": 0.1
+        },
+        "days_since_last_commit": {
+          "raw": 0.9895413161006535,
+          "score": 0.9895413161006535,
+          "weight": 0.25
+        },
+        "author_track_record": {
+          "raw": 1.3010299956639813,
+          "score": 0.0,
+          "weight": 0.15
+        },
+        "readme_present": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.2
+        },
+        "median_issue_close_days": {
+          "raw": 0.17523151246699198,
+          "score": 0.17523151246699198,
+          "weight": 0.15
+        },
+        "ci_configured": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.3
+        },
+        "commit_frequency_90d": {
+          "raw": 1.0986122886681098,
+          "score": 1.0,
+          "weight": 0.2
+        },
+        "forks_log": {
+          "raw": 2.9827233876685453,
+          "score": 1.0,
+          "weight": 0.15
+        },
+        "median_pr_close_days": {
+          "raw": 0.42387640862863224,
+          "score": 0.42387640862863224,
+          "weight": 0.15
+        },
+        "stars_log": {
+          "raw": 4.294686624279443,
+          "score": 0.0,
+          "weight": 0.3
+        },
+        "bus_factor": {
+          "raw": 0.65,
+          "score": 0.65,
+          "weight": 0.15
+        },
+        "license_osi": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.2
+        },
+        "contributors_12mo": {
+          "raw": 3.4011973816621555,
+          "score": 1.0,
+          "weight": 0.25
+        }
+      }
+    },
+    {
+      "slug": "folke/lazy.nvim",
+      "status": "ok",
+      "total": 52.0,
+      "buckets": {
+        "quality": 100.0,
+        "maintenance": 28.0,
+        "community": 45.0
+      },
+      "signals": {
+        "tests_present": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.3
+        },
+        "stars_log": {
+          "raw": 4.3309816377008215,
+          "score": 1.0,
+          "weight": 0.3
+        },
+        "readme_present": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.2
+        },
+        "median_issue_close_days": {
+          "raw": 0.2703595540676641,
+          "score": 0.2703595540676641,
+          "weight": 0.15
+        },
+        "contributors_12mo": {
+          "raw": 0.6931471805599453,
+          "score": 0.0,
+          "weight": 0.25
+        },
+        "ci_configured": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.3
+        },
+        "author_track_record": {
+          "raw": 4.62260771535978,
+          "score": 1.0,
+          "weight": 0.15
+        },
+        "forks_log": {
+          "raw": 2.7701152947871015,
+          "score": 0.0,
+          "weight": 0.15
+        },
+        "release_cadence": {
+          "raw": 4.0,
+          "score": 1.0,
+          "weight": 0.15
+        },
+        "license_osi": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.2
+        },
+        "days_since_last_commit": {
+          "raw": 0.04213910150973847,
+          "score": 0.04213910150973847,
+          "weight": 0.25
+        },
+        "median_pr_close_days": {
+          "raw": 0.2804478509817839,
+          "score": 0.2804478509817839,
+          "weight": 0.15
+        },
+        "bus_factor": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.15
+        },
+        "open_closed_issue_ratio": {
+          "raw": 0.36792452830188677,
+          "score": 0.36792452830188677,
+          "weight": 0.1
+        },
+        "commit_frequency_90d": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.2
+        }
+      }
+    },
+    {
+      "slug": "definitely-not/exists-xyz-123",
+      "status": "not_found"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{% extends "base.html" %}
+{% block title %}Methodology — Scorecards{% endblock %}
+{% block content %}
+<h1>Methodology</h1>
+<p>Each project gets a 0–100 health score answering:
+<em>"If I adopt this project today, how likely is it to be maintained, supported,
+and safe a year from now?"</em></p>
+
+<h2>Formula</h2>
+<pre>score = {{ weights.buckets.maintenance }} × maintenance
+      + {{ weights.buckets.community }} × community
+      + {{ weights.buckets.quality }} × quality</pre>
+<p>Signals are min-max normalized <strong>within each category</strong> (popularity
+counts) or mapped through absolute curves (time decays, ratios, flags) before
+weighting. Scores are <strong>not comparable across categories</strong>.</p>
+
+{% for bucket, signals in weights.signals %}
+<h2>{{ bucket | capitalize }} (weight {{ weights.buckets[bucket] }})</h2>
+<table>
+  <thead><tr><th>Signal</th><th class="num">Weight within bucket</th></tr></thead>
+  <tbody>
+  {% for name, w in signals %}<tr><td>{{ name }}</td><td class="num">{{ w }}</td></tr>{% endfor %}
+  </tbody>
+</table>
+{% endfor %}
+
+<h2>What this score is NOT</h2>
+<ul>
+  <li>Not a code-quality judgment.</li>
+  <li>Not a security audit (see OpenSSF Scorecard for that).</li>
+  <li>Not comparable across categories.</li>
+</ul>
+<p>Bot activity (dependabot, renovate, <code>*[bot]</code>) is filtered from all
+activity metrics. Archived repos are penalized, not zeroed; projects whose
+maintainers still answer issues keep a non-zero maintenance floor.</p>
+{% endblock %}

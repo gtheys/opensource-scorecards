@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% block title %}Open Source Scorecards{% endblock %}</title>
+  <style>
+    :root { color-scheme: light dark; }
+    body { font-family: system-ui, sans-serif; max-width: 72rem; margin: 2rem auto; padding: 0 1rem; line-height: 1.5; }
+    table { border-collapse: collapse; width: 100%; }
+    th, td { text-align: left; padding: .35rem .6rem; border-bottom: 1px solid #8884; }
+    th { position: sticky; top: 0; background: Canvas; }
+    .num { text-align: right; font-variant-numeric: tabular-nums; }
+    .bar { display: inline-block; width: 6rem; height: .6rem; background: #8884; border-radius: 3px; vertical-align: middle; }
+    .bar .fill { display: block; height: 100%; background: #4c9a2a; border-radius: 3px; }
+    .notice { padding: .75rem 1rem; background: #b8860b22; border-left: 3px solid #b8860b; }
+    .muted { opacity: .65; }
+    nav a { margin-right: 1rem; }
+  </style>
+</head>
+<body>
+<nav><a href="index.html">Leaderboard</a><a href="methodology.html">Methodology</a><a href="https://github.com/">GitHub</a></nav>
+{% block content %}{% endblock %}
+<footer class="muted"><small>Scores measure maintenance likelihood, not code quality. <a href="methodology.html">How scores work</a>.</small></footer>
+</body>
+</html>

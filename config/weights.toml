@@ -1,0 +1,45 @@
+# Scoring configuration — edit and re-run `scorecards score` to retune.
+# Methodology page is generated from this file; keep comments accurate.
+
+staleness_hours = 20
+
+# Logins treated as bots in addition to any "*[bot]" suffix.
+bot_logins = ["dependabot", "renovate", "renovate-bot", "github-actions", "greenkeeper"]
+
+[buckets]
+maintenance = 0.40
+community = 0.35
+quality = 0.25
+
+# Per-signal weights within each bucket. Each table should sum to 1.0.
+[maintenance]
+days_since_last_commit = 0.25
+commit_frequency_90d    = 0.20
+release_cadence         = 0.15
+median_issue_close_days = 0.15
+median_pr_close_days    = 0.15
+open_closed_issue_ratio = 0.10
+
+[community]
+stars_log          = 0.30
+forks_log          = 0.15
+contributors_12mo  = 0.25
+bus_factor         = 0.15
+author_track_record = 0.15
+
+[quality]
+ci_configured = 0.30
+tests_present = 0.30
+readme_present = 0.20
+license_osi   = 0.20
+
+# Hard penalty multiplier applied to the maintenance bucket when archived.
+[penalties]
+archived_multiplier = 0.3
+# Floor for maintenance when issues are still being answered ("done, not dead").
+maintenance_floor = 15.0
+
+[categories.neovim]
+name = "Neovim Plugins"
+data_dir = "data/neovim"
+seed_source = "https://raw.githubusercontent.com/rockerBOO/awesome-neovim/main/README.md"

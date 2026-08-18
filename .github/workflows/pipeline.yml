@@ -1,0 +1,50 @@
+name: pipeline
+
+# AIDEV-NOTE: GITHUB_TOKEN in Actions is limited to ~1k req/hr — not enough for a
+# full 1393-repo refresh. Set a classic PAT as secret GH_TOKEN for real runs;
+# GITHUB_TOKEN fallback keeps small/incremental runs working.
+on:
+  schedule:
+    - cron: "17 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  pipeline:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: dtolnay/rust-toolchain@stable
+      - uses: Swatinem/rust-cache@v2
+      - run: cargo build --release
+      - run: ./target/release/scorecards seed
+      - run: ./target/release/scorecards collect
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN || secrets.GITHUB_TOKEN }}
+      - run: ./target/release/scorecards score
+      - run: ./target/release/scorecards render
+      - name: Commit refreshed data
+        run: |
+          git config user.name "scorecards-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/
+          git diff --cached --quiet || git commit -m "data: nightly refresh $(date -u +%F)"
+          git push
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site/
+
+  deploy:
+    needs: pipeline
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
