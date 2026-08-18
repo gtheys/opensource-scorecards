@@ -1,0 +1,29 @@
+{
+  "slug": "lewistg/pesto.nvim",
+  "fetched_at": "2026-08-18T10:13:49.527241731Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 8,
+    "forks": 0,
+    "description": "Neovim Bazel plugin with quickfix support powered by the Build Event Protocol",
+    "license_spdx": "Apache-2.0",
+    "last_commit_at": "2026-07-11T18:54:25Z",
+    "commits_90d": 59,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.0008333333333333333,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "lewistg",
+      "account_created_at": "2012-08-27T14:42:50Z",
+      "other_repos_star_sum": 21
+    },
+    "has_ci": false,
+    "has_tests": true,
+    "readme_len": 13165
+  }
+}

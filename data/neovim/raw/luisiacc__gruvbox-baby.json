@@ -1,0 +1,25 @@
+{
+  "slug": "luisiacc/gruvbox-baby",
+  "fetched_at": "2026-08-18T10:14:43.121137008Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 460,
+    "forks": 34,
+    "description": "Gruvbox theme for neovim with full 🎄TreeSitter support. ",
+    "license_spdx": "MIT",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 1.405625,
+    "median_pr_close_days": 0.3424421296296296,
+    "open_issues": 7,
+    "closed_issues_sampled": 33,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 10907
+  }
+}

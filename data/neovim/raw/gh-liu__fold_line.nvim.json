@@ -1,0 +1,29 @@
+{
+  "slug": "gh-liu/fold_line.nvim",
+  "fetched_at": "2026-08-18T10:06:36.662177927Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 57,
+    "forks": 0,
+    "description": "Lines indicating code folds.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-06T05:29:01Z",
+    "commits_90d": 8,
+    "releases_365d": 0,
+    "median_issue_close_days": 1.6424537037037037,
+    "median_pr_close_days": 0.05455439814814815,
+    "open_issues": 0,
+    "closed_issues_sampled": 4,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "gh-liu",
+      "account_created_at": "2019-01-02T07:08:54Z",
+      "other_repos_star_sum": 91
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 3130
+  }
+}

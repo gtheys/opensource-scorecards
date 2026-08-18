@@ -1,0 +1,29 @@
+{
+  "slug": "jghauser/follow-md-links.nvim",
+  "fetched_at": "2026-08-18T10:10:08.212082845Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 176,
+    "forks": 29,
+    "description": "Easily follow markdown links with this neovim plugin",
+    "license_spdx": "GPL-3.0",
+    "last_commit_at": "2026-02-24T11:03:59Z",
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 17.693344907407408,
+    "median_pr_close_days": 17.91142361111111,
+    "open_issues": 9,
+    "closed_issues_sampled": 14,
+    "contributors_12mo": 2,
+    "top_author_commit_share": 0.8333333333333334,
+    "top_author": {
+      "login": "jghauser",
+      "account_created_at": "2014-12-26T23:29:44Z",
+      "other_repos_star_sum": 848
+    },
+    "has_ci": false,
+    "has_tests": true,
+    "readme_len": 1697
+  }
+}

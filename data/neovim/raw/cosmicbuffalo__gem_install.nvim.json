@@ -1,0 +1,29 @@
+{
+  "slug": "cosmicbuffalo/gem_install.nvim",
+  "fetched_at": "2026-08-18T09:59:39.571710320Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 2,
+    "forks": 0,
+    "description": "Install gems from inside neovim",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-02-09T18:27:32Z",
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.002789351851851852,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "cosmicbuffalo",
+      "account_created_at": "2017-01-16T19:03:05Z",
+      "other_repos_star_sum": 105
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 2036
+  }
+}

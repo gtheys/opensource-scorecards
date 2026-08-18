@@ -1,0 +1,25 @@
+{
+  "slug": "liangxianzhe/nap.nvim",
+  "fetched_at": "2026-08-18T10:14:00.600385353Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 103,
+    "forks": 5,
+    "description": "Quickly move between next and previous NeoVim buffer, tab, file, quickfix, diagnostic, etc.",
+    "license_spdx": "MIT",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 0.08505787037037037,
+    "median_pr_close_days": 0.02693287037037037,
+    "open_issues": 1,
+    "closed_issues_sampled": 6,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 7733
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "cpea2506/one_monokai.nvim",
+  "fetched_at": "2026-08-18T09:59:50.813294018Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 192,
+    "forks": 11,
+    "description": "One Monokai for Neovim",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-06-21T23:04:28Z",
+    "commits_90d": 1,
+    "releases_365d": 3,
+    "median_issue_close_days": 71.20775462962963,
+    "median_pr_close_days": 0.004641203703703704,
+    "open_issues": 1,
+    "closed_issues_sampled": 5,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "cpea2506",
+      "account_created_at": "2018-08-25T11:02:33Z",
+      "other_repos_star_sum": 270
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 5020
+  }
+}

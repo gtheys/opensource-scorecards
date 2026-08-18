@@ -1,0 +1,29 @@
+{
+  "slug": "bydlw98/blink-cmp-sshconfig",
+  "fetched_at": "2026-08-18T09:57:28.485053578Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 7,
+    "forks": 1,
+    "description": "Ssh_config(5) files source for blink.cmp",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-05-03T16:01:36Z",
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 10.248923611111111,
+    "median_pr_close_days": 4.725127314814815,
+    "open_issues": 0,
+    "closed_issues_sampled": 1,
+    "contributors_12mo": 2,
+    "top_author_commit_share": 0.6153846153846154,
+    "top_author": {
+      "login": "bydlw98",
+      "account_created_at": "2022-07-02T14:29:30Z",
+      "other_repos_star_sum": 45
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 2362
+  }
+}

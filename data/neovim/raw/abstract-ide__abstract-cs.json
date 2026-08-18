@@ -1,0 +1,25 @@
+{
+  "slug": "abstract-ide/abstract-cs",
+  "fetched_at": "2026-08-18T09:53:17.158381358Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 119,
+    "forks": 10,
+    "description": "Colorscheme for (neo)vim written in lua, specially made for roshnivim with Tree-sitter support.",
+    "license_spdx": "MIT",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 17.87085648148148,
+    "median_pr_close_days": 26.447662037037038,
+    "open_issues": 2,
+    "closed_issues_sampled": 6,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 2523
+  }
+}

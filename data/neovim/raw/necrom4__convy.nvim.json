@@ -1,0 +1,29 @@
+{
+  "slug": "necrom4/convy.nvim",
+  "fetched_at": "2026-08-18T10:19:41.591255261Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 52,
+    "forks": 1,
+    "description": "A powerful neovim plugin to easily convert between various formats",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-06-07T10:49:08Z",
+    "commits_90d": 58,
+    "releases_365d": 0,
+    "median_issue_close_days": 59.257847222222225,
+    "median_pr_close_days": 0.830775462962963,
+    "open_issues": 0,
+    "closed_issues_sampled": 4,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "Necrom4",
+      "account_created_at": "2024-03-06T13:26:08Z",
+      "other_repos_star_sum": 469
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 6889
+  }
+}

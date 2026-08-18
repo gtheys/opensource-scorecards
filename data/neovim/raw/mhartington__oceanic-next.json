@@ -1,0 +1,25 @@
+{
+  "slug": "mhartington/oceanic-next",
+  "fetched_at": "2026-08-18T10:16:40.103665983Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1179,
+    "forks": 142,
+    "description": "Oceanic Next theme for neovim",
+    "license_spdx": "NOASSERTION",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 0.9283738425925926,
+    "median_pr_close_days": 46.351278935185185,
+    "open_issues": 10,
+    "closed_issues_sampled": 30,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": true,
+    "readme_len": 2876
+  }
+}

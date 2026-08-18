@@ -1,0 +1,29 @@
+{
+  "slug": "axieax/urlview.nvim",
+  "fetched_at": "2026-08-18T09:55:37.775365734Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 281,
+    "forks": 9,
+    "description": "🔎 Neovim plugin for viewing all the URLs in a buffer",
+    "license_spdx": "MIT",
+    "last_commit_at": "2025-11-30T09:50:53Z",
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 1.989224537037037,
+    "median_pr_close_days": 0.02533564814814815,
+    "open_issues": 7,
+    "closed_issues_sampled": 25,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "Fabrice-Bernes",
+      "account_created_at": "2023-04-17T22:28:52Z",
+      "other_repos_star_sum": 0
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 6437
+  }
+}

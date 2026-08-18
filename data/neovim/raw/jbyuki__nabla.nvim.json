@@ -1,0 +1,25 @@
+{
+  "slug": "jbyuki/nabla.nvim",
+  "fetched_at": "2026-08-18T10:09:37.055224932Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 747,
+    "forks": 27,
+    "description": "take your scientific notes :pencil2: in Neovim",
+    "license_spdx": "MIT",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 0.5577546296296296,
+    "median_pr_close_days": 2.7610763888888887,
+    "open_issues": 25,
+    "closed_issues_sampled": 34,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 3968
+  }
+}

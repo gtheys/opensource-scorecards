@@ -1,0 +1,25 @@
+{
+  "slug": "luukvbaal/nnn.nvim",
+  "fetched_at": "2026-08-18T10:15:10.586072896Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 464,
+    "forks": 11,
+    "description": "File manager for Neovim powered by nnn.",
+    "license_spdx": "BSD-3-Clause",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 0.7831134259259259,
+    "median_pr_close_days": 0.13976851851851851,
+    "open_issues": 1,
+    "closed_issues_sampled": 39,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 7935
+  }
+}

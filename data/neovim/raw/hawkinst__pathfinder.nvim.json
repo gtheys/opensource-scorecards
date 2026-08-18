@@ -1,0 +1,25 @@
+{
+  "slug": "hawkinst/pathfinder.nvim",
+  "fetched_at": "2026-08-18T10:07:29.354083425Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 65,
+    "forks": 4,
+    "description": "A Neovim plugin which enhances gf/gF/gx with look-ahead and smarter file, line/column number, and link resolution. Also provides visual targets for files/links, new motion commands, and link description retrieval.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2025-11-17T17:59:38Z",
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 109.32646990740741,
+    "median_pr_close_days": 0.1399247685185185,
+    "open_issues": 5,
+    "closed_issues_sampled": 2,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 12072
+  }
+}

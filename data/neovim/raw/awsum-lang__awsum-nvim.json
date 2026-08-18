@@ -1,0 +1,29 @@
+{
+  "slug": "awsum-lang/awsum-nvim",
+  "fetched_at": "2026-08-18T09:55:35.535581885Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 4,
+    "forks": 0,
+    "description": null,
+    "license_spdx": "Apache-2.0",
+    "last_commit_at": "2026-06-22T18:56:02Z",
+    "commits_90d": 10,
+    "releases_365d": 3,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.0012499999999999998,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "vladimirlogachev",
+      "account_created_at": "2016-03-10T22:48:06Z",
+      "other_repos_star_sum": 33
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 6579
+  }
+}

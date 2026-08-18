@@ -1,0 +1,29 @@
+{
+  "slug": "carcuis/dap-breakpoints.nvim",
+  "fetched_at": "2026-08-18T09:57:43.546421887Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 21,
+    "forks": 1,
+    "description": "A Lua plugin for Neovim that helps manage breakpoints (including exception filters), create advanced breakpoints using vim.ui.input, and display breakpoint properties as virtual text with nvim-dap",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-01-09T11:26:37Z",
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 1.6436111111111111,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 4,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "Carcuis",
+      "account_created_at": "2020-03-11T18:22:19Z",
+      "other_repos_star_sum": 40
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 6444
+  }
+}

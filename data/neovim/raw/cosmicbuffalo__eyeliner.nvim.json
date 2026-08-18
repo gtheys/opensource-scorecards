@@ -1,0 +1,29 @@
+{
+  "slug": "cosmicbuffalo/eyeliner.nvim",
+  "fetched_at": "2026-08-18T09:59:35.972238314Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 6,
+    "forks": 0,
+    "description": "👀 Move faster with unique f/F indicators.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-01-06T21:24:31Z",
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.0012268518518518518,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "cosmicbuffalo",
+      "account_created_at": "2017-01-16T19:03:05Z",
+      "other_repos_star_sum": 105
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 6428
+  }
+}

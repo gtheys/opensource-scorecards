@@ -1,0 +1,25 @@
+{
+  "slug": "dmshvedchenko/persist.nvim",
+  "fetched_at": "2026-08-18T10:01:55.787799490Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 7,
+    "forks": 0,
+    "description": "A lightweight Neovim session persistence plugin that restores tabs, windows, split layouts, and unsaved scratch buffers with interactive recovery.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-07-27T14:10:14Z",
+    "commits_90d": 9,
+    "releases_365d": 1,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 3509
+  }
+}

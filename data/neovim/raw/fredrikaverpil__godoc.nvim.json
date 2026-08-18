@@ -1,0 +1,29 @@
+{
+  "slug": "fredrikaverpil/godoc.nvim",
+  "fetched_at": "2026-08-18T10:05:55.186587998Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 175,
+    "forks": 7,
+    "description": "Fuzzy search Go packages/symbols and view docs from within Neovim",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-06-12T17:52:26Z",
+    "commits_90d": 5,
+    "releases_365d": 3,
+    "median_issue_close_days": 0.01119212962962963,
+    "median_pr_close_days": 0.0025578703703703705,
+    "open_issues": 4,
+    "closed_issues_sampled": 3,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "fredrikaverpil",
+      "account_created_at": "2011-08-21T14:11:42Z",
+      "other_repos_star_sum": 1645
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 11875
+  }
+}

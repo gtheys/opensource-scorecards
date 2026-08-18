@@ -1,0 +1,25 @@
+{
+  "slug": "bfredl/nvim-miniyank",
+  "fetched_at": "2026-08-18T09:56:50.971749093Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 240,
+    "forks": 14,
+    "description": "killring-alike plugin for neovim and vim 8 with no default mappings",
+    "license_spdx": "MIT",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 3.6913194444444444,
+    "median_pr_close_days": 4.136886574074074,
+    "open_issues": 12,
+    "closed_issues_sampled": 9,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 3255
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "daltongd/yanklock.nvim",
+  "fetched_at": "2026-08-18T10:00:48.877341442Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 21,
+    "forks": 0,
+    "description": "🔒 A simple neovim plugin that allows the user to temporarily lock the paste register to \"0, and use 'd', 'c', 'x', and 's' motions while keeping the most recent yanked content easily accessible.",
+    "license_spdx": "MIT",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 50.171909722222225,
+    "median_pr_close_days": 2.1454166666666667,
+    "open_issues": 0,
+    "closed_issues_sampled": 2,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 4926
+  }
+}

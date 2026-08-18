@@ -1,0 +1,29 @@
+{
+  "slug": "ellisonleao/nvim-plugin-template",
+  "fetched_at": "2026-08-18T10:03:23.456297524Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 474,
+    "forks": 28,
+    "description": "A neovim plugin template for github repos",
+    "license_spdx": "MIT",
+    "last_commit_at": "2025-10-08T02:40:16Z",
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 58.50962962962963,
+    "median_pr_close_days": 21.713975694444443,
+    "open_issues": 2,
+    "closed_issues_sampled": 8,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "dmtrKovalenko",
+      "account_created_at": "2016-01-27T19:57:58Z",
+      "other_repos_star_sum": 13277
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 1284
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "altermo/nwm",
+  "fetched_at": "2026-08-18T09:54:36.330446914Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 349,
+    "forks": 5,
+    "description": "A graphical display window manager in neovim",
+    "license_spdx": "MIT",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 8.022233796296296,
+    "median_pr_close_days": 0.46327546296296296,
+    "open_issues": 1,
+    "closed_issues_sampled": 1,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 9592
+  }
+}

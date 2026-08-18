@@ -1,0 +1,29 @@
+{
+  "slug": "desdic/marlin.nvim",
+  "fetched_at": "2026-08-18T10:01:27.165814035Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 32,
+    "forks": 2,
+    "description": "Smooth sailing through buffers of interest in neovim",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-04-26T06:14:20Z",
+    "commits_90d": 0,
+    "releases_365d": 1,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.004068287037037037,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "desdic",
+      "account_created_at": "2015-07-08T19:22:11Z",
+      "other_repos_star_sum": 258
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 11379
+  }
+}

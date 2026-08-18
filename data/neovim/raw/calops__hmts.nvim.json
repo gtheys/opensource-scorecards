@@ -1,0 +1,25 @@
+{
+  "slug": "calops/hmts.nvim",
+  "fetched_at": "2026-08-18T09:57:32.622844160Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 96,
+    "forks": 10,
+    "description": "Custom treesitter queries for Home Manager nix files, in Neovim",
+    "license_spdx": "MIT",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 5.045613425925926,
+    "median_pr_close_days": 0.0031018518518518517,
+    "open_issues": 16,
+    "closed_issues_sampled": 6,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 5317
+  }
+}

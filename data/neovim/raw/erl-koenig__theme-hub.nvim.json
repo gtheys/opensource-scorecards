@@ -1,0 +1,29 @@
+{
+  "slug": "erl-koenig/theme-hub.nvim",
+  "fetched_at": "2026-08-18T10:03:49.940808237Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 31,
+    "forks": 1,
+    "description": "Manage and install neovim themes via telescope-pickers",
+    "license_spdx": "MIT",
+    "last_commit_at": "2025-10-19T19:19:05Z",
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 1.5876620370370371,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 1,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "Erl-koenig",
+      "account_created_at": "2020-07-16T14:32:16Z",
+      "other_repos_star_sum": 61
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 4454
+  }
+}

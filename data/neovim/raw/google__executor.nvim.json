@@ -1,0 +1,25 @@
+{
+  "slug": "google/executor.nvim",
+  "fetched_at": "2026-08-18T10:07:02.732819863Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 159,
+    "forks": 12,
+    "description": null,
+    "license_spdx": "Apache-2.0",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 106.46795138888888,
+    "median_pr_close_days": 0.18006944444444445,
+    "open_issues": 10,
+    "closed_issues_sampled": 14,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": true,
+    "readme_len": 12004
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "alexvzyl/nordic.nvim",
+  "fetched_at": "2026-08-18T09:54:23.670347653Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1053,
+    "forks": 68,
+    "description": "🌒  Nord for Neovim, but warmer and darker.  Supports a variety of plugins and other platforms.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-05-03T11:23:25Z",
+    "commits_90d": 0,
+    "releases_365d": 1,
+    "median_issue_close_days": 120.11199652777778,
+    "median_pr_close_days": 35.42038194444444,
+    "open_issues": 3,
+    "closed_issues_sampled": 18,
+    "contributors_12mo": 5,
+    "top_author_commit_share": 0.6,
+    "top_author": {
+      "login": "DOD-101",
+      "account_created_at": "2023-04-26T18:05:40Z",
+      "other_repos_star_sum": 24
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 7091
+  }
+}

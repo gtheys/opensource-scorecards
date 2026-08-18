@@ -1,0 +1,25 @@
+{
+  "slug": "fenetikm/falcon",
+  "fetched_at": "2026-08-18T10:04:46.645236443Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 845,
+    "forks": 33,
+    "description": "A colour scheme for terminals, Vim and friends.",
+    "license_spdx": "MIT",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 12.99650462962963,
+    "median_pr_close_days": 0.26787037037037037,
+    "open_issues": 12,
+    "closed_issues_sampled": 21,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 1518
+  }
+}

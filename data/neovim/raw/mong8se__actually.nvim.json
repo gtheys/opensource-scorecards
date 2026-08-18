@@ -1,0 +1,29 @@
+{
+  "slug": "mong8se/actually.nvim",
+  "fetched_at": "2026-08-18T10:18:16.576212366Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 66,
+    "forks": 1,
+    "description": "A plugin to help load the file you actually meant to load.",
+    "license_spdx": "GPL-3.0",
+    "last_commit_at": "2025-10-13T13:30:06Z",
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 10.453622685185186,
+    "median_pr_close_days": null,
+    "open_issues": 2,
+    "closed_issues_sampled": 4,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "mong8se",
+      "account_created_at": "2010-05-20T20:12:59Z",
+      "other_repos_star_sum": 93
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 1485
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "bassamsdata/namu.nvim",
+  "fetched_at": "2026-08-18T09:56:13.260872901Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 430,
+    "forks": 18,
+    "description": "Flexible and sleek fuzzy picker, LSP symbol navigator, and more. inspired by Zed.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-02-17T15:53:22Z",
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 2.0344560185185188,
+    "median_pr_close_days": 0.3729224537037037,
+    "open_issues": 7,
+    "closed_issues_sampled": 34,
+    "contributors_12mo": 4,
+    "top_author_commit_share": 0.6666666666666666,
+    "top_author": {
+      "login": "bassamsdata",
+      "account_created_at": "2022-05-18T15:56:35Z",
+      "other_repos_star_sum": 462
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 20765
+  }
+}

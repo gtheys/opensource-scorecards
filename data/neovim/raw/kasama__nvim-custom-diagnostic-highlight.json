@@ -1,0 +1,25 @@
+{
+  "slug": "kasama/nvim-custom-diagnostic-highlight",
+  "fetched_at": "2026-08-18T10:11:33.919003613Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 62,
+    "forks": 1,
+    "description": "Simple plugin to add Highlights based on diagnostics",
+    "license_spdx": "MIT",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 2.77462962962963,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 3737
+  }
+}

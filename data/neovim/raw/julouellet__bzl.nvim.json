@@ -1,0 +1,29 @@
+{
+  "slug": "julouellet/bzl.nvim",
+  "fetched_at": "2026-08-18T10:11:02.919134743Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 2,
+    "forks": 0,
+    "description": "Neovim plugin for browsing, running, testing, and building Bazel targets, with streaming output and Python LSP support.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-16T21:51:44Z",
+    "commits_90d": 15,
+    "releases_365d": 3,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.1374826388888889,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "JulOuellet",
+      "account_created_at": "2021-04-30T19:51:47Z",
+      "other_repos_star_sum": 3
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 5217
+  }
+}

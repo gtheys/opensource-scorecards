@@ -1,0 +1,25 @@
+{
+  "slug": "eandrju/cellular-automaton.nvim",
+  "fetched_at": "2026-08-18T10:03:08.290582440Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 2097,
+    "forks": 47,
+    "description": "A useless plugin that might help you cope with stubbornly broken tests or overall lack of sense in life. It lets you execute aesthetically pleasing, cellular automaton animations based on the content of neovim buffer.",
+    "license_spdx": "MIT",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 7.970046296296296,
+    "median_pr_close_days": 5.742459490740741,
+    "open_issues": 13,
+    "closed_issues_sampled": 14,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 3218
+  }
+}

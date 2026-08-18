@@ -1,0 +1,29 @@
+{
+  "slug": "luukvbaal/statuscol.nvim",
+  "fetched_at": "2026-08-18T10:15:12.669391429Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 613,
+    "forks": 32,
+    "description": "Status column plugin that provides a configurable 'statuscolumn' and click handlers.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-07-09T13:15:37Z",
+    "commits_90d": 2,
+    "releases_365d": 0,
+    "median_issue_close_days": 0.7643171296296296,
+    "median_pr_close_days": 1.1278703703703703,
+    "open_issues": 9,
+    "closed_issues_sampled": 43,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "luukvbaal",
+      "account_created_at": "2017-09-07T11:14:10Z",
+      "other_repos_star_sum": 1410
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 11186
+  }
+}

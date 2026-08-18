@@ -1,0 +1,25 @@
+{
+  "slug": "cpea2506/relative-toggle.nvim",
+  "fetched_at": "2026-08-18T09:59:53.064171160Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 37,
+    "forks": 1,
+    "description": "Toggles smoothly between number and relative number, supports various number combinations",
+    "license_spdx": "MIT",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 158.0707175925926,
+    "median_pr_close_days": 0.005810185185185186,
+    "open_issues": 0,
+    "closed_issues_sampled": 2,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 2761
+  }
+}

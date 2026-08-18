@@ -1,0 +1,29 @@
+{
+  "slug": "acidsugarx/babel.nvim",
+  "fetched_at": "2026-08-18T09:53:20.733602979Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 14,
+    "forks": 3,
+    "description": "🌍 Translate text without leaving Neovim",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-10T09:54:13Z",
+    "commits_90d": 11,
+    "releases_365d": 4,
+    "median_issue_close_days": 29.225127314814817,
+    "median_pr_close_days": 4.550104166666666,
+    "open_issues": 2,
+    "closed_issues_sampled": 5,
+    "contributors_12mo": 2,
+    "top_author_commit_share": 0.9411764705882353,
+    "top_author": {
+      "login": "acidsugarx",
+      "account_created_at": "2019-12-15T09:14:11Z",
+      "other_repos_star_sum": 21
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 14179
+  }
+}

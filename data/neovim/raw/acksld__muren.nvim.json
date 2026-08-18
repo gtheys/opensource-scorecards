@@ -1,0 +1,25 @@
+{
+  "slug": "acksld/muren.nvim",
+  "fetched_at": "2026-08-18T09:53:23.067262010Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 366,
+    "forks": 7,
+    "description": "Multiple replacements in neovim",
+    "license_spdx": null,
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 18.43892361111111,
+    "median_pr_close_days": 0.006273148148148148,
+    "open_issues": 13,
+    "closed_issues_sampled": 11,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 7181
+  }
+}

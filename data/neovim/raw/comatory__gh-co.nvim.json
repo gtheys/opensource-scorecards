@@ -1,0 +1,29 @@
+{
+  "slug": "comatory/gh-co.nvim",
+  "fetched_at": "2026-08-18T09:59:29.504398120Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 6,
+    "forks": 4,
+    "description": "GIthub CODEOWNERS plugin for Neovim",
+    "license_spdx": "CC0-1.0",
+    "last_commit_at": "2025-12-28T07:48:48Z",
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 15.298518518518518,
+    "median_pr_close_days": 0.0028472222222222223,
+    "open_issues": 0,
+    "closed_issues_sampled": 3,
+    "contributors_12mo": 2,
+    "top_author_commit_share": 0.6,
+    "top_author": {
+      "login": "religiosa1",
+      "account_created_at": "2017-06-02T19:54:16Z",
+      "other_repos_star_sum": 29
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 2293
+  }
+}

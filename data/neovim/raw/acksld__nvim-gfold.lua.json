@@ -1,0 +1,25 @@
+{
+  "slug": "acksld/nvim-gfold.lua",
+  "fetched_at": "2026-08-18T09:53:24.816293962Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 32,
+    "forks": 3,
+    "description": "nvim plugin using gfold to switch repo and have statusline component",
+    "license_spdx": "MIT",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 86.9779050925926,
+    "median_pr_close_days": 0.1317361111111111,
+    "open_issues": 0,
+    "closed_issues_sampled": 1,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 4030
+  }
+}

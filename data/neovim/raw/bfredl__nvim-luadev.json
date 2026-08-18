@@ -1,0 +1,25 @@
+{
+  "slug": "bfredl/nvim-luadev",
+  "fetched_at": "2026-08-18T09:56:49.235341255Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 289,
+    "forks": 6,
+    "description": "REPL/debug console for nvim lua plugins",
+    "license_spdx": "MIT",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 0.045,
+    "median_pr_close_days": 2.1393402777777775,
+    "open_issues": 2,
+    "closed_issues_sampled": 1,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 1585
+  }
+}

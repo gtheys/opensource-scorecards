@@ -1,0 +1,29 @@
+{
+  "slug": "duane9/nvim-rg",
+  "fetched_at": "2026-08-18T10:03:00.235742105Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 45,
+    "forks": 3,
+    "description": "Run ripgrep from Neovim asynchronously.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-14T21:01:41Z",
+    "commits_90d": 4,
+    "releases_365d": 0,
+    "median_issue_close_days": 3.377314814814815,
+    "median_pr_close_days": 3.3753125,
+    "open_issues": 0,
+    "closed_issues_sampled": 5,
+    "contributors_12mo": 2,
+    "top_author_commit_share": 0.875,
+    "top_author": {
+      "login": "duane9",
+      "account_created_at": "2010-01-07T22:41:27Z",
+      "other_repos_star_sum": 48
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 1017
+  }
+}

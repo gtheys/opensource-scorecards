@@ -1,0 +1,25 @@
+{
+  "slug": "ludopinelli/comment-box.nvim",
+  "fetched_at": "2026-08-18T10:14:41.108491555Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 503,
+    "forks": 16,
+    "description": ":sparkles: Clarify and beautify your comments and plain text files using boxes and lines.",
+    "license_spdx": "MIT",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 6.1742939814814815,
+    "median_pr_close_days": 0.18461805555555555,
+    "open_issues": 17,
+    "closed_issues_sampled": 19,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 20576
+  }
+}

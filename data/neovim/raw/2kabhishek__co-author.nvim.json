@@ -1,0 +1,29 @@
+{
+  "slug": "2kabhishek/co-author.nvim",
+  "fetched_at": "2026-08-18T09:52:22.836691711Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 42,
+    "forks": 4,
+    "description": "Quickly add co-authors to commits 💻🪄",
+    "license_spdx": "GPL-3.0",
+    "last_commit_at": "2025-10-16T04:51:50Z",
+    "commits_90d": 0,
+    "releases_365d": 1,
+    "median_issue_close_days": 0.19885416666666667,
+    "median_pr_close_days": 0.24020833333333333,
+    "open_issues": 0,
+    "closed_issues_sampled": 3,
+    "contributors_12mo": 2,
+    "top_author_commit_share": 0.8571428571428571,
+    "top_author": {
+      "login": "2KAbhishek",
+      "account_created_at": "2017-01-30T01:00:13Z",
+      "other_repos_star_sum": 735
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 4058
+  }
+}

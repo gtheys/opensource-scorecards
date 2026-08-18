@@ -1,0 +1,29 @@
+{
+  "slug": "cwood-sdf/spaceport.nvim",
+  "fetched_at": "2026-08-18T10:00:34.139558974Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 166,
+    "forks": 4,
+    "description": "The blazingly fastest way to get to your projects",
+    "license_spdx": "Apache-2.0",
+    "last_commit_at": "2026-06-24T21:43:24Z",
+    "commits_90d": 2,
+    "releases_365d": 0,
+    "median_issue_close_days": 1.116087962962963,
+    "median_pr_close_days": 0.2669386574074074,
+    "open_issues": 0,
+    "closed_issues_sampled": 7,
+    "contributors_12mo": 2,
+    "top_author_commit_share": 0.5454545454545454,
+    "top_author": {
+      "login": "mhgit",
+      "account_created_at": "2009-10-07T16:42:41Z",
+      "other_repos_star_sum": 0
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 17282
+  }
+}

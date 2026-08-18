@@ -1,0 +1,25 @@
+{
+  "slug": "lukaspietzschmann/boo.nvim",
+  "fetched_at": "2026-08-18T10:14:50.083774237Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 39,
+    "forks": 2,
+    "description": "Quickly pop-up lsp-powered infos of the thing your cursor is on",
+    "license_spdx": "BSD-3-Clause",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 4.635480324074074,
+    "median_pr_close_days": null,
+    "open_issues": 4,
+    "closed_issues_sampled": 2,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 1996
+  }
+}

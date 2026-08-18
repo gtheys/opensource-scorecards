@@ -1,0 +1,29 @@
+{
+  "slug": "alexmozaidze/tree-comment.nvim",
+  "fetched_at": "2026-08-18T09:54:19.003037741Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 13,
+    "forks": 0,
+    "description": "A plugin to simplify integration with tree-sitter-comment parser.",
+    "license_spdx": "CC0-1.0",
+    "last_commit_at": "2025-11-19T02:58:43Z",
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 1,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "alexmozaidze",
+      "account_created_at": "2019-06-04T13:26:08Z",
+      "other_repos_star_sum": 71
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 2526
+  }
+}

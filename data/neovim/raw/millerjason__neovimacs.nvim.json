@@ -1,0 +1,29 @@
+{
+  "slug": "millerjason/neovimacs.nvim",
+  "fetched_at": "2026-08-18T10:17:27.728026621Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 7,
+    "forks": 0,
+    "description": "Vimacs for the Neovim era.",
+    "license_spdx": "GPL-2.0",
+    "last_commit_at": "2026-08-10T23:20:55Z",
+    "commits_90d": 6,
+    "releases_365d": 4,
+    "median_issue_close_days": 79.00587962962963,
+    "median_pr_close_days": 0.00018518518518518518,
+    "open_issues": 0,
+    "closed_issues_sampled": 2,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "millerjason",
+      "account_created_at": "2014-05-17T12:48:47Z",
+      "other_repos_star_sum": 8
+    },
+    "has_ci": false,
+    "has_tests": true,
+    "readme_len": 3237
+  }
+}

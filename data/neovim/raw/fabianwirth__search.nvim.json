@@ -1,0 +1,25 @@
+{
+  "slug": "fabianwirth/search.nvim",
+  "fetched_at": "2026-08-18T10:04:29.431432919Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 189,
+    "forks": 5,
+    "description": "nvim plugin that adds tabs for telescope search",
+    "license_spdx": "MIT",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 4.0567824074074075,
+    "median_pr_close_days": 0.3080729166666667,
+    "open_issues": 7,
+    "closed_issues_sampled": 8,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": true,
+    "readme_len": 6749
+  }
+}

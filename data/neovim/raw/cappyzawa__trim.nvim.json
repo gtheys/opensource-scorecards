@@ -1,0 +1,29 @@
+{
+  "slug": "cappyzawa/trim.nvim",
+  "fetched_at": "2026-08-18T09:57:39.321066290Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 157,
+    "forks": 17,
+    "description": "This plugin trims trailing whitespace and lines.",
+    "license_spdx": "Apache-2.0",
+    "last_commit_at": "2025-12-30T14:47:26Z",
+    "commits_90d": 0,
+    "releases_365d": 1,
+    "median_issue_close_days": 2.7766377314814816,
+    "median_pr_close_days": 1.7170023148148148,
+    "open_issues": 3,
+    "closed_issues_sampled": 12,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "cappyzawa",
+      "account_created_at": "2015-05-15T04:48:58Z",
+      "other_repos_star_sum": 74
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 1835
+  }
+}

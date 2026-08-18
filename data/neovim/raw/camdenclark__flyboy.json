@@ -1,0 +1,25 @@
+{
+  "slug": "camdenclark/flyboy",
+  "fetched_at": "2026-08-18T09:57:34.647246711Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 46,
+    "forks": 2,
+    "description": "a lightweight ChatGPT plugin for neovim",
+    "license_spdx": "MIT",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 13.26431712962963,
+    "median_pr_close_days": 0.04107060185185185,
+    "open_issues": 1,
+    "closed_issues_sampled": 8,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 5789
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "chrisgrieser/nvim-kickstart-python",
+  "fetched_at": "2026-08-18T09:58:31.701203506Z",
+  "status": "ok",
+  "data": {
+    "archived": true,
+    "stars": 154,
+    "forks": 11,
+    "description": "A launch point for your nvim configuration for Python",
+    "license_spdx": "MIT",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 0.36292824074074076,
+    "median_pr_close_days": 0.021493055555555557,
+    "open_issues": 0,
+    "closed_issues_sampled": 7,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 5650
+  }
+}

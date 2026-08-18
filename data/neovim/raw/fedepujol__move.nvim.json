@@ -1,0 +1,25 @@
+{
+  "slug": "fedepujol/move.nvim",
+  "fetched_at": "2026-08-18T10:04:40.297505766Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 369,
+    "forks": 7,
+    "description": "Gain the power to move lines and blocks and auto-indent them!",
+    "license_spdx": "GPL-3.0",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 136.36306712962963,
+    "median_pr_close_days": 0.00017361111111111112,
+    "open_issues": 8,
+    "closed_issues_sampled": 13,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 5224
+  }
+}

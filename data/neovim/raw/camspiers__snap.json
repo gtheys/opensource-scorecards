@@ -1,0 +1,29 @@
+{
+  "slug": "camspiers/snap",
+  "fetched_at": "2026-08-18T09:57:36.283385480Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 508,
+    "forks": 17,
+    "description": "A fast finder system for neovim.",
+    "license_spdx": "Unlicense",
+    "last_commit_at": "2026-04-09T23:02:11Z",
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 4.026446759259259,
+    "median_pr_close_days": 3.0294675925925927,
+    "open_issues": 28,
+    "closed_issues_sampled": 33,
+    "contributors_12mo": 2,
+    "top_author_commit_share": 0.6666666666666666,
+    "top_author": {
+      "login": "sjwalker189",
+      "account_created_at": "2017-06-01T21:09:01Z",
+      "other_repos_star_sum": 0
+    },
+    "has_ci": false,
+    "has_tests": true,
+    "readme_len": 25810
+  }
+}

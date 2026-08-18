@@ -1,0 +1,25 @@
+{
+  "slug": "0styx0/abbreinder.nvim",
+  "fetched_at": "2026-08-18T09:52:09.554116412Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 92,
+    "forks": 1,
+    "description": "Abbreviation reminder plugin for Neovim 0.5+",
+    "license_spdx": "GPL-3.0",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 7.793015046296297,
+    "median_pr_close_days": 5.997511574074074,
+    "open_issues": 0,
+    "closed_issues_sampled": 14,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 3113
+  }
+}

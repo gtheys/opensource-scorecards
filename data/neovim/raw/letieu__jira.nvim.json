@@ -1,0 +1,29 @@
+{
+  "slug": "letieu/jira.nvim",
+  "fetched_at": "2026-08-18T10:13:37.659775824Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 266,
+    "forks": 12,
+    "description": "I got tired of opening my browser for Jira",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-07-21T08:33:22Z",
+    "commits_90d": 3,
+    "releases_365d": 20,
+    "median_issue_close_days": 3.484861111111111,
+    "median_pr_close_days": 0.004398148148148148,
+    "open_issues": 7,
+    "closed_issues_sampled": 9,
+    "contributors_12mo": 7,
+    "top_author_commit_share": 0.8783783783783784,
+    "top_author": {
+      "login": "letieu",
+      "account_created_at": "2019-08-01T10:14:14Z",
+      "other_repos_star_sum": 897
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 7468
+  }
+}

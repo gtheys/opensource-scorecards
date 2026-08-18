@@ -1,0 +1,29 @@
+{
+  "slug": "myzel394/easytables.nvim",
+  "fetched_at": "2026-08-18T10:19:25.999663950Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 146,
+    "forks": 4,
+    "description": "Easily insert and edit markdown tables using Neovim with a live preview and useful helpers",
+    "license_spdx": "GPL-3.0",
+    "last_commit_at": "2025-11-02T09:18:29Z",
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 1.595966435185185,
+    "median_pr_close_days": 0.14006365740740742,
+    "open_issues": 2,
+    "closed_issues_sampled": 4,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "Myzel394",
+      "account_created_at": "2019-05-08T19:51:19Z",
+      "other_repos_star_sum": 2662
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 6848
+  }
+}

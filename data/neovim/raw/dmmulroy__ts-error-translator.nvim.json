@@ -1,0 +1,29 @@
+{
+  "slug": "dmmulroy/ts-error-translator.nvim",
+  "fetched_at": "2026-08-18T10:01:50.081545411Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 434,
+    "forks": 8,
+    "description": null,
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-01-03T23:49:04Z",
+    "commits_90d": 0,
+    "releases_365d": 3,
+    "median_issue_close_days": 2.769409722222222,
+    "median_pr_close_days": 0.15577546296296296,
+    "open_issues": 2,
+    "closed_issues_sampled": 11,
+    "contributors_12mo": 3,
+    "top_author_commit_share": 0.5,
+    "top_author": {
+      "login": "dmmulroy",
+      "account_created_at": "2012-11-09T02:59:48Z",
+      "other_repos_star_sum": 6877
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 4421
+  }
+}

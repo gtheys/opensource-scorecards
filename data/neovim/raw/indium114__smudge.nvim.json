@@ -1,0 +1,29 @@
+{
+  "slug": "indium114/smudge.nvim",
+  "fetched_at": "2026-08-18T10:08:36.965958820Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 11,
+    "forks": 1,
+    "description": "A performant cursor animation plugin for Neovim",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-03-27T16:39:34Z",
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 31.18582175925926,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 2,
+    "top_author_commit_share": 0.8823529411764706,
+    "top_author": {
+      "login": "indium114",
+      "account_created_at": "2024-01-10T05:28:54Z",
+      "other_repos_star_sum": 142
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 563
+  }
+}

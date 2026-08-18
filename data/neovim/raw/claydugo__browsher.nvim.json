@@ -1,0 +1,29 @@
+{
+  "slug": "claydugo/browsher.nvim",
+  "fetched_at": "2026-08-18T09:59:18.547722845Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 17,
+    "forks": 3,
+    "description": "🌐 Create commit pinned links to git(hub | lab) hosted files/lines directly from Neovim",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-13T17:59:38Z",
+    "commits_90d": 16,
+    "releases_365d": 3,
+    "median_issue_close_days": 1.5599594907407406,
+    "median_pr_close_days": 0.4015856481481481,
+    "open_issues": 0,
+    "closed_issues_sampled": 2,
+    "contributors_12mo": 2,
+    "top_author_commit_share": 0.9473684210526315,
+    "top_author": {
+      "login": "claydugo",
+      "account_created_at": "2015-09-30T21:21:01Z",
+      "other_repos_star_sum": 27
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 6631
+  }
+}

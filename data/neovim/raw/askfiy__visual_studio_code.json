@@ -1,0 +1,25 @@
+{
+  "slug": "askfiy/visual_studio_code",
+  "fetched_at": "2026-08-18T09:55:16.904803070Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 212,
+    "forks": 16,
+    "description": "A `neovim` theme that highly restores `vscode`, so that your friends will no longer be surprised that you use `neovim`, because they will think you are using `vscode` .. ",
+    "license_spdx": "MPL-2.0",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 1.5760474537037037,
+    "median_pr_close_days": 0.03989583333333333,
+    "open_issues": 4,
+    "closed_issues_sampled": 6,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 5119
+  }
+}

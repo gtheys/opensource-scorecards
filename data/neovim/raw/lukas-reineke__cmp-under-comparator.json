@@ -1,0 +1,25 @@
+{
+  "slug": "lukas-reineke/cmp-under-comparator",
+  "fetched_at": "2026-08-18T10:14:45.214124574Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 193,
+    "forks": 2,
+    "description": "nvim-cmp comparator function for completion items that start with one or more underlines",
+    "license_spdx": "MIT",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 9.892141203703703,
+    "median_pr_close_days": 0.14777777777777779,
+    "open_issues": 0,
+    "closed_issues_sampled": 1,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 1993
+  }
+}

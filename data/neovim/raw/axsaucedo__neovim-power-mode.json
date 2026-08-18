@@ -1,0 +1,29 @@
+{
+  "slug": "axsaucedo/neovim-power-mode",
+  "fetched_at": "2026-08-18T09:55:48.770634029Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 99,
+    "forks": 1,
+    "description": null,
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-08T18:20:40Z",
+    "commits_90d": 28,
+    "releases_365d": 0,
+    "median_issue_close_days": 2.182777777777778,
+    "median_pr_close_days": 0.01324074074074074,
+    "open_issues": 2,
+    "closed_issues_sampled": 2,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "axsaucedo",
+      "account_created_at": "2012-02-17T18:52:14Z",
+      "other_repos_star_sum": 83
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 13331
+  }
+}

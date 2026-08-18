@@ -1,0 +1,29 @@
+{
+  "slug": "gh-tui-tools/gh-review.nvim",
+  "fetched_at": "2026-08-18T10:06:41.089317915Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 27,
+    "forks": 2,
+    "description": "🤔 Review GitHub PRs in Neovim",
+    "license_spdx": "Apache-2.0",
+    "last_commit_at": "2026-08-01T17:16:09Z",
+    "commits_90d": 16,
+    "releases_365d": 0,
+    "median_issue_close_days": 4.719618055555555,
+    "median_pr_close_days": 11.194328703703704,
+    "open_issues": 0,
+    "closed_issues_sampled": 3,
+    "contributors_12mo": 2,
+    "top_author_commit_share": 0.5238095238095238,
+    "top_author": {
+      "login": "zachicecreamcohn",
+      "account_created_at": "2021-06-11T18:30:31Z",
+      "other_repos_star_sum": 8
+    },
+    "has_ci": false,
+    "has_tests": true,
+    "readme_len": 12030
+  }
+}

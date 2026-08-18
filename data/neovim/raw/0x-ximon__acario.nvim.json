@@ -1,0 +1,29 @@
+{
+  "slug": "0x-ximon/acario.nvim",
+  "fetched_at": "2026-08-18T09:52:11.428497299Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 12,
+    "forks": 0,
+    "description": "Acario.nvim: A port of the clean, high-contrast Doom Emacs Acario theme",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-07-05T16:39:03Z",
+    "commits_90d": 7,
+    "releases_365d": 1,
+    "median_issue_close_days": 0.013599537037037037,
+    "median_pr_close_days": 0.0008333333333333334,
+    "open_issues": 0,
+    "closed_issues_sampled": 3,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "0x-ximon",
+      "account_created_at": "2019-10-08T07:05:21Z",
+      "other_repos_star_sum": 22
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 765
+  }
+}

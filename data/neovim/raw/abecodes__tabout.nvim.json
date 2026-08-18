@@ -1,0 +1,25 @@
+{
+  "slug": "abecodes/tabout.nvim",
+  "fetched_at": "2026-08-18T09:53:10.416325680Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 861,
+    "forks": 23,
+    "description": "tabout plugin for neovim",
+    "license_spdx": "Unlicense",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 14.358269675925925,
+    "median_pr_close_days": 0.978900462962963,
+    "open_issues": 7,
+    "closed_issues_sampled": 36,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 11237
+  }
+}

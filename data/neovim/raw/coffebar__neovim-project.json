@@ -1,0 +1,29 @@
+{
+  "slug": "coffebar/neovim-project",
+  "fetched_at": "2026-08-18T09:59:26.680840423Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 301,
+    "forks": 24,
+    "description": "Neovim project plugin simplifies project management by maintaining project history and providing quick access to projects via Telescope, snacks.nvim or fzf-lua",
+    "license_spdx": "Apache-2.0",
+    "last_commit_at": "2026-05-01T18:04:16Z",
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 1.5704803240740741,
+    "median_pr_close_days": 0.6644155092592593,
+    "open_issues": 4,
+    "closed_issues_sampled": 30,
+    "contributors_12mo": 2,
+    "top_author_commit_share": 0.875,
+    "top_author": {
+      "login": "coffebar",
+      "account_created_at": "2012-12-21T18:04:37Z",
+      "other_repos_star_sum": 1061
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 11619
+  }
+}

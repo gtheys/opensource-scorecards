@@ -1,0 +1,29 @@
+{
+  "slug": "chrisgrieser/nvim-chainsaw",
+  "fetched_at": "2026-08-18T09:58:21.628188968Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 140,
+    "forks": 17,
+    "description": "Smart and highly customizable insertion of various kinds of log statements.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-06-22T14:27:21Z",
+    "commits_90d": 1,
+    "releases_365d": 0,
+    "median_issue_close_days": 0.4112037037037037,
+    "median_pr_close_days": 0.01721064814814815,
+    "open_issues": 0,
+    "closed_issues_sampled": 13,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "chrisgrieser",
+      "account_created_at": "2020-10-22T10:50:35Z",
+      "other_repos_star_sum": 8784
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 20901
+  }
+}

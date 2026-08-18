@@ -1,0 +1,29 @@
+{
+  "slug": "miversen33/netman.nvim",
+  "fetched_at": "2026-08-18T10:17:44.392279213Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 379,
+    "forks": 8,
+    "description": "Neovim (Lua powered) Network Resource Manager",
+    "license_spdx": "MIT",
+    "last_commit_at": "2025-09-13T18:08:27Z",
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 30.401099537037037,
+    "median_pr_close_days": 0.00011574074074074075,
+    "open_issues": 52,
+    "closed_issues_sampled": 27,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "miversen33",
+      "account_created_at": "2012-10-24T12:37:39Z",
+      "other_repos_star_sum": 754
+    },
+    "has_ci": false,
+    "has_tests": true,
+    "readme_len": 12519
+  }
+}

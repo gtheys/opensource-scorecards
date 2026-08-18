@@ -1,0 +1,25 @@
+{
+  "slug": "axkirillov/easypick.nvim",
+  "fetched_at": "2026-08-18T09:55:40.178954020Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 410,
+    "forks": 9,
+    "description": "A neovim plugin that lets you easily create Telescope pickers from arbitrary console commands",
+    "license_spdx": "MIT",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 2.7340625,
+    "median_pr_close_days": 0.12219907407407407,
+    "open_issues": 4,
+    "closed_issues_sampled": 13,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 2958
+  }
+}

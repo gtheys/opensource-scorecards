@@ -1,0 +1,29 @@
+{
+  "slug": "heilgar/nvim-http-client",
+  "fetched_at": "2026-08-18T10:07:44.138103042Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 24,
+    "forks": 3,
+    "description": "Easy to use HTTP client plugin for neovim.  Same syntax as IntelliJ HTTP client  ",
+    "license_spdx": "MIT",
+    "last_commit_at": "2025-10-06T02:55:26Z",
+    "commits_90d": 0,
+    "releases_365d": 1,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.0002662037037037037,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "heilgar",
+      "account_created_at": "2012-11-01T00:10:22Z",
+      "other_repos_star_sum": 92
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 9870
+  }
+}

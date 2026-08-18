@@ -1,0 +1,25 @@
+{
+  "slug": "jedrzejboczar/toggletasks.nvim",
+  "fetched_at": "2026-08-18T10:09:57.390273295Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 162,
+    "forks": 3,
+    "description": "Neovim task runner: JSON/YAML + toggleterm.nvim + telescope.nvim",
+    "license_spdx": "MIT",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 0.6529976851851852,
+    "median_pr_close_days": 1.0971122685185186,
+    "open_issues": 5,
+    "closed_issues_sampled": 13,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 15242
+  }
+}

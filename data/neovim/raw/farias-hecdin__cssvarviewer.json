@@ -1,0 +1,25 @@
+{
+  "slug": "farias-hecdin/cssvarviewer",
+  "fetched_at": "2026-08-18T10:04:34.871753948Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 11,
+    "forks": 1,
+    "description": "📌 This plugin allows you to easily identify the value of a CSS variable from any other files.",
+    "license_spdx": "MIT",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 1,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 2562
+  }
+}
