@@ -55,6 +55,12 @@ pub async fn run(cfg: &Config, category: &str, force: bool) -> anyhow::Result<()
         let record = match fetch_repo(&crab, owner, repo, &bots).await {
             Ok(record) => record,
             Err(e) => {
+                // AIDEV-NOTE: rate-limit errors (core or search bucket) must stop the
+                // run, not skip the repo — continuing just burns the rest of the list.
+                if format!("{e:#}").contains("rate limit") {
+                    println!("rate limited at {slug}; stopping. {done} fetched, {skipped} cached. Re-run later — cache resumes.");
+                    return Ok(());
+                }
                 eprintln!("warn: {slug}: {e:#}; keeping previous cache if any");
                 continue;
             }
