@@ -1,0 +1,25 @@
+{
+  "slug": "mangelozzi/rgflow.nvim",
+  "fetched_at": "2026-08-19T04:11:22.039632316Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 107,
+    "forks": 3,
+    "description": "Help you get in the flow with ripgrep in Neovim",
+    "license_spdx": null,
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 15.978460648148149,
+    "median_pr_close_days": 19.862974537037037,
+    "open_issues": 1,
+    "closed_issues_sampled": 21,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 16485
+  }
+}

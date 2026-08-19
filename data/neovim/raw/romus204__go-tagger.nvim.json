@@ -1,0 +1,29 @@
+{
+  "slug": "romus204/go-tagger.nvim",
+  "fetched_at": "2026-08-19T04:21:47.417513605Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 23,
+    "forks": 0,
+    "description": "Lightweight Neovim plugin to manage struct field tags in Go source files.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-02-15T17:18:07Z",
+    "commits_90d": 0,
+    "releases_365d": 2,
+    "median_issue_close_days": 11.877071759259259,
+    "median_pr_close_days": 0.0010069444444444444,
+    "open_issues": 0,
+    "closed_issues_sampled": 3,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "romus204",
+      "account_created_at": "2023-11-27T20:18:27Z",
+      "other_repos_star_sum": 945
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 3463
+  }
+}

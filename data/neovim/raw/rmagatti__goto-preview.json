@@ -1,0 +1,29 @@
+{
+  "slug": "rmagatti/goto-preview",
+  "fetched_at": "2026-08-19T04:21:21.484290581Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1054,
+    "forks": 35,
+    "description": "A small Neovim plugin for previewing definitions using floating windows.",
+    "license_spdx": "Apache-2.0",
+    "last_commit_at": "2025-12-26T08:51:02Z",
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 34.12693287037037,
+    "median_pr_close_days": 0.6608680555555555,
+    "open_issues": 11,
+    "closed_issues_sampled": 29,
+    "contributors_12mo": 3,
+    "top_author_commit_share": 0.5454545454545454,
+    "top_author": {
+      "login": "rmagatti",
+      "account_created_at": "2012-11-24T23:37:27Z",
+      "other_repos_star_sum": 3331
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 7001
+  }
+}

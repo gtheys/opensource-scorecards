@@ -1,0 +1,29 @@
+{
+  "slug": "hrsh7th/cmp-nvim-lsp",
+  "fetched_at": "2026-08-19T04:06:43.435980764Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1511,
+    "forks": 74,
+    "description": "nvim-cmp source for neovim builtin LSP client",
+    "license_spdx": "MIT",
+    "last_commit_at": "2025-11-13T07:27:45Z",
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 2.2335821759259256,
+    "median_pr_close_days": 9.361776620370371,
+    "open_issues": 29,
+    "closed_issues_sampled": 30,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "arjan-bal",
+      "account_created_at": "2019-01-09T06:18:44Z",
+      "other_repos_star_sum": 49
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 2001
+  }
+}

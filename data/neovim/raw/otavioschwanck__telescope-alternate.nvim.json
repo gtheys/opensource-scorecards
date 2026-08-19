@@ -1,0 +1,25 @@
+{
+  "slug": "otavioschwanck/telescope-alternate.nvim",
+  "fetched_at": "2026-08-19T04:17:19.138788064Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 107,
+    "forks": 14,
+    "description": "Alternate between common files using pre-defined regexp.  Just map the patterns and starting navigating between files that are related.",
+    "license_spdx": "NOASSERTION",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 1.389351851851852,
+    "median_pr_close_days": 1.1677314814814814,
+    "open_issues": 5,
+    "closed_issues_sampled": 13,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 8563
+  }
+}

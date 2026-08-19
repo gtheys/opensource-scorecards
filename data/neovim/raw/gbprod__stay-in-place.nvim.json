@@ -1,0 +1,25 @@
+{
+  "slug": "gbprod/stay-in-place.nvim",
+  "fetched_at": "2026-08-19T04:05:33.737349964Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 99,
+    "forks": 0,
+    "description": "Neovim plugin that prevent cursor from moving when using shift and filter actions.",
+    "license_spdx": "WTFPL",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.0038310185185185183,
+    "open_issues": 1,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 2325
+  }
+}

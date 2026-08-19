@@ -1,0 +1,29 @@
+{
+  "slug": "quarto-dev/quarto-nvim",
+  "fetched_at": "2026-08-19T04:19:06.505230887Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 530,
+    "forks": 22,
+    "description": "Quarto mode for Neovim",
+    "license_spdx": "NOASSERTION",
+    "last_commit_at": "2026-04-22T10:07:04Z",
+    "commits_90d": 0,
+    "releases_365d": 4,
+    "median_issue_close_days": 2.5870717592592594,
+    "median_pr_close_days": 0.022685185185185187,
+    "open_issues": 6,
+    "closed_issues_sampled": 29,
+    "contributors_12mo": 3,
+    "top_author_commit_share": 0.6,
+    "top_author": {
+      "login": "jmbuhr",
+      "account_created_at": "2016-02-24T10:51:01Z",
+      "other_repos_star_sum": 1475
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 8174
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "mellow-theme/mellow.nvim",
+  "fetched_at": "2026-08-19T04:11:48.846265581Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 430,
+    "forks": 19,
+    "description": "A soothing dark color scheme for neovim and friends.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-03-30T16:17:06Z",
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 9.706087962962963,
+    "median_pr_close_days": 0.6097395833333333,
+    "open_issues": 2,
+    "closed_issues_sampled": 16,
+    "contributors_12mo": 2,
+    "top_author_commit_share": 0.6666666666666666,
+    "top_author": {
+      "login": "Squibid",
+      "account_created_at": "2020-09-23T00:40:19Z",
+      "other_repos_star_sum": 0
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 5218
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "nvim-java/nvim-java",
+  "fetched_at": "2026-08-19T04:14:52.119513745Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1691,
+    "forks": 94,
+    "description": "Painless Java in Neovim",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-07-04T07:02:08Z",
+    "commits_90d": 6,
+    "releases_365d": 8,
+    "median_issue_close_days": 10.750914351851852,
+    "median_pr_close_days": 0.2240162037037037,
+    "open_issues": 36,
+    "closed_issues_sampled": 21,
+    "contributors_12mo": 8,
+    "top_author_commit_share": 0.7555555555555555,
+    "top_author": {
+      "login": "s1n7ax",
+      "account_created_at": "2016-04-14T08:59:47Z",
+      "other_repos_star_sum": 1116
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 13449
+  }
+}

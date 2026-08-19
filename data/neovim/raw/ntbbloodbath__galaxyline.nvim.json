@@ -1,0 +1,25 @@
+{
+  "slug": "ntbbloodbath/galaxyline.nvim",
+  "fetched_at": "2026-08-19T04:14:33.116080234Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 172,
+    "forks": 17,
+    "description": "neovim statusline plugin written in lua ",
+    "license_spdx": "MIT",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 0.13183449074074075,
+    "median_pr_close_days": 0.5703935185185185,
+    "open_issues": 13,
+    "closed_issues_sampled": 10,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 7043
+  }
+}

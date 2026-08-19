@@ -1,0 +1,25 @@
+{
+  "slug": "rrethy/nvim-treesitter-textsubjects",
+  "fetched_at": "2026-08-19T04:22:00.902476396Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 569,
+    "forks": 25,
+    "description": "Location and syntax aware text objects which *do what you mean*",
+    "license_spdx": "Apache-2.0",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 23.193848379629628,
+    "median_pr_close_days": 0.8894733796296297,
+    "open_issues": 7,
+    "closed_issues_sampled": 16,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 5538
+  }
+}

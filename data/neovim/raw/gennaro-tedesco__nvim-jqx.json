@@ -1,0 +1,25 @@
+{
+  "slug": "gennaro-tedesco/nvim-jqx",
+  "fetched_at": "2026-08-19T04:05:46.015919765Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 338,
+    "forks": 7,
+    "description": "Populate the quickfix with json entries",
+    "license_spdx": "MIT",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 2.2113194444444444,
+    "median_pr_close_days": 0.0016435185185185185,
+    "open_issues": 2,
+    "closed_issues_sampled": 4,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 5353
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "barrettruth/diffs.nvim",
+  "fetched_at": "2026-08-19T04:01:05.034822418Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 197,
+    "forks": 4,
+    "description": "treesitter syntax highlighting for diffs",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-17T10:20:28Z",
+    "commits_90d": 49,
+    "releases_365d": 0,
+    "median_issue_close_days": 0.8272800925925926,
+    "median_pr_close_days": 0.0061342592592592594,
+    "open_issues": 1,
+    "closed_issues_sampled": 15,
+    "contributors_12mo": 4,
+    "top_author_commit_share": 0.9922879177377892,
+    "top_author": {
+      "login": "barrettruth",
+      "account_created_at": "2020-03-25T20:00:03Z",
+      "other_repos_star_sum": 775
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 5469
+  }
+}

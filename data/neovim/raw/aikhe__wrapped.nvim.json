@@ -1,0 +1,29 @@
+{
+  "slug": "aikhe/wrapped.nvim",
+  "fetched_at": "2026-08-19T03:59:18.827564783Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 184,
+    "forks": 6,
+    "description": "View your Neovim configuration insights, history, and heatmaps.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-06-28T08:53:16Z",
+    "commits_90d": 3,
+    "releases_365d": 0,
+    "median_issue_close_days": 61.60484953703704,
+    "median_pr_close_days": 0.19243055555555555,
+    "open_issues": 0,
+    "closed_issues_sampled": 6,
+    "contributors_12mo": 4,
+    "top_author_commit_share": 0.8484848484848485,
+    "top_author": {
+      "login": "aikhe",
+      "account_created_at": "2023-09-01T15:24:05Z",
+      "other_repos_star_sum": 246
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 3796
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "hrsh7th/cmp-buffer",
+  "fetched_at": "2026-08-19T04:06:39.882205387Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 669,
+    "forks": 48,
+    "description": "nvim-cmp source for buffer words",
+    "license_spdx": "MIT",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 1.394369212962963,
+    "median_pr_close_days": 5.510671296296296,
+    "open_issues": 38,
+    "closed_issues_sampled": 30,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 6457
+  }
+}

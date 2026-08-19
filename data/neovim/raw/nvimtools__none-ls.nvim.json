@@ -1,0 +1,29 @@
+{
+  "slug": "nvimtools/none-ls.nvim",
+  "fetched_at": "2026-08-19T04:16:03.433776663Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 3257,
+    "forks": 121,
+    "description": "null-ls.nvim reloaded / Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.",
+    "license_spdx": "Unlicense",
+    "last_commit_at": "2026-08-10T16:55:26Z",
+    "commits_90d": 5,
+    "releases_365d": 0,
+    "median_issue_close_days": 3.6994212962962965,
+    "median_pr_close_days": 1.3190625,
+    "open_issues": 12,
+    "closed_issues_sampled": 17,
+    "contributors_12mo": 15,
+    "top_author_commit_share": 0.5789473684210527,
+    "top_author": {
+      "login": "mochaaP",
+      "account_created_at": "2016-08-21T09:21:05Z",
+      "other_repos_star_sum": 6
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 12096
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "nvim-pack/nvim-spectre",
+  "fetched_at": "2026-08-19T04:15:25.757983036Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 2407,
+    "forks": 82,
+    "description": "Find the enemy and replace them with dark power.",
+    "license_spdx": "MIT",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 127.80043981481481,
+    "median_pr_close_days": 4.458865740740741,
+    "open_issues": 15,
+    "closed_issues_sampled": 32,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 12221
+  }
+}

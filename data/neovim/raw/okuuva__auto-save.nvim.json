@@ -1,0 +1,29 @@
+{
+  "slug": "okuuva/auto-save.nvim",
+  "fetched_at": "2026-08-19T04:16:40.928035228Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 328,
+    "forks": 17,
+    "description": "🧶 Automatically save your changes in NeoVim",
+    "license_spdx": "GPL-3.0",
+    "last_commit_at": "2026-03-30T04:04:21Z",
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 4.930127314814815,
+    "median_pr_close_days": 5.977997685185185,
+    "open_issues": 3,
+    "closed_issues_sampled": 29,
+    "contributors_12mo": 2,
+    "top_author_commit_share": 0.5,
+    "top_author": {
+      "login": "primeapple",
+      "account_created_at": "2018-01-20T12:21:47Z",
+      "other_repos_star_sum": 11
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 10806
+  }
+}

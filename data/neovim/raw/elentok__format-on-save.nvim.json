@@ -1,0 +1,25 @@
+{
+  "slug": "elentok/format-on-save.nvim",
+  "fetched_at": "2026-08-19T04:04:36.371405239Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 172,
+    "forks": 5,
+    "description": "Automatically formats files when saving using either LSP or shell utilities like prettierd or shfmt",
+    "license_spdx": "MIT",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 2.103599537037037,
+    "median_pr_close_days": 24.655908564814816,
+    "open_issues": 6,
+    "closed_issues_sampled": 9,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": true,
+    "readme_len": 9522
+  }
+}

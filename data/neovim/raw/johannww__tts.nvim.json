@@ -1,0 +1,29 @@
+{
+  "slug": "johannww/tts.nvim",
+  "fetched_at": "2026-08-19T04:08:26.959650278Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 21,
+    "forks": 6,
+    "description": null,
+    "license_spdx": "NOASSERTION",
+    "last_commit_at": "2025-11-26T19:39:52Z",
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 22.063645833333332,
+    "median_pr_close_days": 0.05070601851851852,
+    "open_issues": 1,
+    "closed_issues_sampled": 3,
+    "contributors_12mo": 2,
+    "top_author_commit_share": 0.734375,
+    "top_author": {
+      "login": "johannww",
+      "account_created_at": "2017-03-11T06:17:58Z",
+      "other_repos_star_sum": 34
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 12117
+  }
+}

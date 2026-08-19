@@ -1,0 +1,25 @@
+{
+  "slug": "christianchiarulli/nvcode-color-schemes.vim",
+  "fetched_at": "2026-08-19T04:02:17.985901697Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 305,
+    "forks": 64,
+    "description": "A bunch of generated colorschemes (treesitter supported)",
+    "license_spdx": "MIT",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 1.0366435185185185,
+    "median_pr_close_days": 1.5024537037037038,
+    "open_issues": 21,
+    "closed_issues_sampled": 9,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 3826
+  }
+}

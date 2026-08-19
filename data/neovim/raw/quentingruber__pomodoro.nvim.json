@@ -1,0 +1,29 @@
+{
+  "slug": "quentingruber/pomodoro.nvim",
+  "fetched_at": "2026-08-19T04:19:09.728421371Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 49,
+    "forks": 3,
+    "description": "Use the Pomodoro Technique in Neovim with built-in session tracking and break reminders.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2025-11-24T21:49:50Z",
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 1.1225231481481481,
+    "median_pr_close_days": 0.007789351851851852,
+    "open_issues": 1,
+    "closed_issues_sampled": 7,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "QuentinGruber",
+      "account_created_at": "2019-01-26T14:53:45Z",
+      "other_repos_star_sum": 240
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 1844
+  }
+}

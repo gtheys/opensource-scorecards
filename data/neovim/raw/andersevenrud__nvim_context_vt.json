@@ -1,0 +1,29 @@
+{
+  "slug": "andersevenrud/nvim_context_vt",
+  "fetched_at": "2026-08-19T03:59:52.098937772Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 415,
+    "forks": 19,
+    "description": "Virtual text context for neovim treesitter",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-03T19:37:26Z",
+    "commits_90d": 11,
+    "releases_365d": 0,
+    "median_issue_close_days": 0.5865972222222222,
+    "median_pr_close_days": 0.0021412037037037038,
+    "open_issues": 3,
+    "closed_issues_sampled": 17,
+    "contributors_12mo": 3,
+    "top_author_commit_share": 0.8333333333333334,
+    "top_author": {
+      "login": "andersevenrud",
+      "account_created_at": "2009-12-03T19:35:57Z",
+      "other_repos_star_sum": 842
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 3094
+  }
+}

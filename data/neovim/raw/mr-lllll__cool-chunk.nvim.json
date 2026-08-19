@@ -1,0 +1,25 @@
+{
+  "slug": "mr-lllll/cool-chunk.nvim",
+  "fetched_at": "2026-08-19T04:12:39.663264620Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 26,
+    "forks": 2,
+    "description": "forked from hlchunk.nvim and removed indent. only chunk and context, simple and faster.",
+    "license_spdx": "MIT",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 2.0948148148148147,
+    "open_issues": 1,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 2994
+  }
+}

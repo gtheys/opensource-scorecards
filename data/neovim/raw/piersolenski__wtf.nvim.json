@@ -1,0 +1,29 @@
+{
+  "slug": "piersolenski/wtf.nvim",
+  "fetched_at": "2026-08-19T04:18:27.250959344Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 608,
+    "forks": 17,
+    "description": "Delicious diagnostic debugging in Neovim 🤤",
+    "license_spdx": "WTFPL",
+    "last_commit_at": "2026-06-02T12:59:47Z",
+    "commits_90d": 1,
+    "releases_365d": 0,
+    "median_issue_close_days": 1.7494097222222222,
+    "median_pr_close_days": 0.3553761574074074,
+    "open_issues": 0,
+    "closed_issues_sampled": 4,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "piersolenski",
+      "account_created_at": "2011-12-26T01:52:25Z",
+      "other_repos_star_sum": 966
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 10736
+  }
+}

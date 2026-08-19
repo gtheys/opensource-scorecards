@@ -1,0 +1,25 @@
+{
+  "slug": "nvzone/minty",
+  "fetched_at": "2026-08-19T04:16:05.724531388Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 604,
+    "forks": 8,
+    "description": "Most Beautifully crafted color tools for Neovim ",
+    "license_spdx": "GPL-3.0",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 0.7118518518518518,
+    "median_pr_close_days": 0.5254745370370371,
+    "open_issues": 2,
+    "closed_issues_sampled": 11,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 1169
+  }
+}

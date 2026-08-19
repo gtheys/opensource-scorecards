@@ -1,0 +1,29 @@
+{
+  "slug": "gregorias/coerce.nvim",
+  "fetched_at": "2026-08-19T04:06:02.523367566Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 174,
+    "forks": 7,
+    "description": "A Neovim plugin for changing keyword case.",
+    "license_spdx": "GPL-3.0",
+    "last_commit_at": "2026-06-02T08:27:02Z",
+    "commits_90d": 1,
+    "releases_365d": 0,
+    "median_issue_close_days": 2.8697453703703704,
+    "median_pr_close_days": 0.38068287037037035,
+    "open_issues": 0,
+    "closed_issues_sampled": 9,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "gregorias",
+      "account_created_at": "2011-04-11T12:53:33Z",
+      "other_repos_star_sum": 679
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 9380
+  }
+}

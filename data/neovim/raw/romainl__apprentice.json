@@ -1,0 +1,25 @@
+{
+  "slug": "romainl/apprentice",
+  "fetched_at": "2026-08-19T04:21:41.798291394Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 930,
+    "forks": 93,
+    "description": "A dark, low-contrast, Vim colorscheme.",
+    "license_spdx": "MIT",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 0.9541550925925926,
+    "median_pr_close_days": 0.5139236111111111,
+    "open_issues": 1,
+    "closed_issues_sampled": 27,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 12509
+  }
+}

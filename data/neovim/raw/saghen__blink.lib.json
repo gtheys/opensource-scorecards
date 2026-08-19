@@ -1,0 +1,29 @@
+{
+  "slug": "saghen/blink.lib",
+  "fetched_at": "2026-08-19T04:22:40.590602350Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 62,
+    "forks": 7,
+    "description": "Shared library for blink.* neovim plugins",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-08T11:02:42Z",
+    "commits_90d": 19,
+    "releases_365d": 0,
+    "median_issue_close_days": 0.3704861111111111,
+    "median_pr_close_days": 0.29032407407407407,
+    "open_issues": 6,
+    "closed_issues_sampled": 7,
+    "contributors_12mo": 6,
+    "top_author_commit_share": 0.6875,
+    "top_author": {
+      "login": "saghen",
+      "account_created_at": "2015-01-09T19:15:50Z",
+      "other_repos_star_sum": 0
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 13109
+  }
+}

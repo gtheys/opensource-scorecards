@@ -1,0 +1,25 @@
+{
+  "slug": "ldelossa/vimdark",
+  "fetched_at": "2026-08-19T04:10:09.025866918Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 69,
+    "forks": 8,
+    "description": "A dark theme for vim based on vim-monotonic and chrome's dark reader",
+    "license_spdx": "MIT",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 0.006006944444444444,
+    "median_pr_close_days": 0.00011574074074074075,
+    "open_issues": 0,
+    "closed_issues_sampled": 1,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 918
+  }
+}

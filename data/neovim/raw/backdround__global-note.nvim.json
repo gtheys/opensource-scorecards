@@ -1,0 +1,25 @@
+{
+  "slug": "backdround/global-note.nvim",
+  "fetched_at": "2026-08-19T04:00:54.429170871Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 148,
+    "forks": 6,
+    "description": "Opens global note in a float window",
+    "license_spdx": "MIT",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 0.2722222222222222,
+    "median_pr_close_days": 262.47461805555554,
+    "open_issues": 3,
+    "closed_issues_sampled": 1,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 6119
+  }
+}

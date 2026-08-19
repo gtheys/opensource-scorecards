@@ -1,0 +1,25 @@
+{
+  "slug": "kiran94/s3edit.nvim",
+  "fetched_at": "2026-08-19T04:09:21.398391175Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 49,
+    "forks": 5,
+    "description": "Edit files from S3 directly from Neovim",
+    "license_spdx": "MIT",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 14.248333333333333,
+    "median_pr_close_days": 0.0016493055555555556,
+    "open_issues": 0,
+    "closed_issues_sampled": 1,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 1423
+  }
+}

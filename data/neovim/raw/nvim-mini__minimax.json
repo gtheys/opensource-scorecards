@@ -1,0 +1,29 @@
+{
+  "slug": "nvim-mini/minimax",
+  "fetched_at": "2026-08-19T04:15:07.997712090Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 462,
+    "forks": 38,
+    "description": "Neovim config examples based on MINI",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-15T11:29:36Z",
+    "commits_90d": 17,
+    "releases_365d": 0,
+    "median_issue_close_days": 0.4395949074074074,
+    "median_pr_close_days": 0.09469907407407407,
+    "open_issues": 2,
+    "closed_issues_sampled": 12,
+    "contributors_12mo": 3,
+    "top_author_commit_share": 0.9436619718309859,
+    "top_author": {
+      "login": "echasnovski",
+      "account_created_at": "2016-12-31T14:13:38Z",
+      "other_repos_star_sum": 338
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 7370
+  }
+}

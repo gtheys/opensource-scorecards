@@ -1,0 +1,29 @@
+{
+  "slug": "adoyle-h/one.nvim",
+  "fetched_at": "2026-08-19T03:59:02.288376417Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 187,
+    "forks": 5,
+    "description": "All-in-one neovim config framework in Lua.",
+    "license_spdx": "BSD-3-Clause",
+    "last_commit_at": "2026-04-24T00:09:20Z",
+    "commits_90d": 0,
+    "releases_365d": 3,
+    "median_issue_close_days": 0.2755208333333333,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 9,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "adoyle-h",
+      "account_created_at": "2012-07-18T13:04:33Z",
+      "other_repos_star_sum": 513
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 13925
+  }
+}

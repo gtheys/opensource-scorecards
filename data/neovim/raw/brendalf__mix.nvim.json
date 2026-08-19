@@ -1,0 +1,25 @@
+{
+  "slug": "brendalf/mix.nvim",
+  "fetched_at": "2026-08-19T04:01:37.738581307Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 28,
+    "forks": 1,
+    "description": "A Mix Wrapper for Neovim",
+    "license_spdx": null,
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 2.589259259259259,
+    "median_pr_close_days": 0.12996527777777778,
+    "open_issues": 0,
+    "closed_issues_sampled": 3,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 2766
+  }
+}

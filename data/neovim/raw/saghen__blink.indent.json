@@ -1,0 +1,29 @@
+{
+  "slug": "saghen/blink.indent",
+  "fetched_at": "2026-08-19T04:22:37.070797274Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 232,
+    "forks": 9,
+    "description": "Performant indent guides for neovim",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-06-19T03:51:59Z",
+    "commits_90d": 7,
+    "releases_365d": 6,
+    "median_issue_close_days": 0.984068287037037,
+    "median_pr_close_days": 0.09859953703703703,
+    "open_issues": 5,
+    "closed_issues_sampled": 34,
+    "contributors_12mo": 8,
+    "top_author_commit_share": 0.8942307692307693,
+    "top_author": {
+      "login": "saghen",
+      "account_created_at": "2015-01-09T19:15:50Z",
+      "other_repos_star_sum": 8450
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 4609
+  }
+}

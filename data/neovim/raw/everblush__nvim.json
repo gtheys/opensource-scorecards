@@ -1,0 +1,25 @@
+{
+  "slug": "everblush/nvim",
+  "fetched_at": "2026-08-19T04:04:50.056710884Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 302,
+    "forks": 18,
+    "description": "A port of everblush.vim but written in lua",
+    "license_spdx": "MIT",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 3.921290509259259,
+    "median_pr_close_days": 1.4565972222222223,
+    "open_issues": 4,
+    "closed_issues_sampled": 6,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 5512
+  }
+}

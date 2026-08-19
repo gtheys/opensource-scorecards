@@ -1,0 +1,25 @@
+{
+  "slug": "alec-gibson/nvim-tetris",
+  "fetched_at": "2026-08-19T03:59:45.927742603Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 216,
+    "forks": 10,
+    "description": "Bringing emacs' greatest feature to neovim - Tetris!",
+    "license_spdx": "GPL-3.0",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 6.00521412037037,
+    "median_pr_close_days": 0.07595486111111112,
+    "open_issues": 7,
+    "closed_issues_sampled": 2,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": true,
+    "readme_len": 2315
+  }
+}

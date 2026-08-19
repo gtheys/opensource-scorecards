@@ -1,0 +1,25 @@
+{
+  "slug": "dasupradyumna/midnight.nvim",
+  "fetched_at": "2026-08-19T04:03:34.024737777Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 236,
+    "forks": 8,
+    "description": ":crescent_moon:  A modern black neovim theme written in Lua, with comfortable color contrast for a pleasant visual experience, with LSP and treesitter support",
+    "license_spdx": "Apache-2.0",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 9.214155092592593,
+    "median_pr_close_days": 142.16501157407407,
+    "open_issues": 2,
+    "closed_issues_sampled": 7,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 6781
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "s1n7ax/nvim-comment-frame",
+  "fetched_at": "2026-08-19T04:22:19.390868443Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 101,
+    "forks": 2,
+    "description": "Detects the language using treesitter and adds a comment block",
+    "license_spdx": "MIT",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 0.941875,
+    "median_pr_close_days": 0.5611689814814815,
+    "open_issues": 1,
+    "closed_issues_sampled": 9,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 6735
+  }
+}

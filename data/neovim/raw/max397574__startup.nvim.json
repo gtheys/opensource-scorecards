@@ -1,0 +1,29 @@
+{
+  "slug": "max397574/startup.nvim",
+  "fetched_at": "2026-08-19T04:11:36.275433469Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 502,
+    "forks": 35,
+    "description": "A highly configurable neovim startup screen",
+    "license_spdx": "GPL-2.0",
+    "last_commit_at": "2026-06-07T20:35:36Z",
+    "commits_90d": 1,
+    "releases_365d": 0,
+    "median_issue_close_days": 3.130613425925926,
+    "median_pr_close_days": 0.12309027777777778,
+    "open_issues": 10,
+    "closed_issues_sampled": 21,
+    "contributors_12mo": 2,
+    "top_author_commit_share": 0.6666666666666666,
+    "top_author": {
+      "login": "denxeiy",
+      "account_created_at": "2023-01-04T05:54:24Z",
+      "other_repos_star_sum": 1
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 9931
+  }
+}

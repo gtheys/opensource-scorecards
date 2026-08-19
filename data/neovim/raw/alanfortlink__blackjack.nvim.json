@@ -1,0 +1,29 @@
+{
+  "slug": "alanfortlink/blackjack.nvim",
+  "fetched_at": "2026-08-19T03:59:44.017270811Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 73,
+    "forks": 4,
+    "description": "Classic Black Jack game in Neovim",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-05-21T19:04:59Z",
+    "commits_90d": 1,
+    "releases_365d": 0,
+    "median_issue_close_days": 1.7396064814814816,
+    "median_pr_close_days": 3.204357638888889,
+    "open_issues": 0,
+    "closed_issues_sampled": 6,
+    "contributors_12mo": 2,
+    "top_author_commit_share": 0.5,
+    "top_author": {
+      "login": "orimaster-jumpman",
+      "account_created_at": "2024-11-26T19:49:46Z",
+      "other_repos_star_sum": 0
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 1367
+  }
+}

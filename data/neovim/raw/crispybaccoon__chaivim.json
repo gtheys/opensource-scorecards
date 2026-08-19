@@ -1,0 +1,25 @@
+{
+  "slug": "crispybaccoon/chaivim",
+  "fetched_at": "2026-08-19T04:02:59.191949695Z",
+  "status": "ok",
+  "data": {
+    "archived": true,
+    "stars": 74,
+    "forks": 1,
+    "description": ":tea: easily configurable neovim system with solid defaults and a cozy editor experience.",
+    "license_spdx": "Apache-2.0",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 0.951244212962963,
+    "median_pr_close_days": 1.3347222222222221,
+    "open_issues": 0,
+    "closed_issues_sampled": 6,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 3993
+  }
+}

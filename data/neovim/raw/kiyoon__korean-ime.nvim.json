@@ -1,0 +1,29 @@
+{
+  "slug": "kiyoon/korean-ime.nvim",
+  "fetched_at": "2026-08-19T04:09:27.183871321Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 40,
+    "forks": 3,
+    "description": "한글/한자 입력기 for Neovim. OS-independent Korean input method that converts English inputs to Korean in-place.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-01-28T12:04:19Z",
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 0.3901967592592593,
+    "median_pr_close_days": 0.0435474537037037,
+    "open_issues": 1,
+    "closed_issues_sampled": 1,
+    "contributors_12mo": 2,
+    "top_author_commit_share": 0.6666666666666666,
+    "top_author": {
+      "login": "kiyoon",
+      "account_created_at": "2015-06-20T17:30:29Z",
+      "other_repos_star_sum": 1221
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 4785
+  }
+}

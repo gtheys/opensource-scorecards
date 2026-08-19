@@ -1,0 +1,29 @@
+{
+  "slug": "oxy2dev/markdoc.nvim",
+  "fetched_at": "2026-08-19T04:17:36.934539703Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 53,
+    "forks": 0,
+    "description": "Tree-sitter based markdown -> vimdoc converter plugin for Neovim",
+    "license_spdx": "MIT",
+    "last_commit_at": "2025-11-14T17:56:29Z",
+    "commits_90d": 0,
+    "releases_365d": 2,
+    "median_issue_close_days": 0.07141782407407407,
+    "median_pr_close_days": 10.180613425925925,
+    "open_issues": 1,
+    "closed_issues_sampled": 6,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "OXY2DEV",
+      "account_created_at": "2023-01-18T04:51:04Z",
+      "other_repos_star_sum": 4793
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 18444
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "kiyoon/telescope-insert-path.nvim",
+  "fetched_at": "2026-08-19T04:09:32.567466094Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 46,
+    "forks": 6,
+    "description": "Insert file path on the current buffer using Telescope.nvim",
+    "license_spdx": "MIT",
+    "last_commit_at": "2025-12-20T07:34:31Z",
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 3.373854166666667,
+    "median_pr_close_days": 11.288229166666667,
+    "open_issues": 1,
+    "closed_issues_sampled": 7,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "kiyoon",
+      "account_created_at": "2015-06-20T17:30:29Z",
+      "other_repos_star_sum": 1221
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 2509
+  }
+}

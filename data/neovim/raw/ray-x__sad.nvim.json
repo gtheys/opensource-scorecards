@@ -1,0 +1,25 @@
+{
+  "slug": "ray-x/sad.nvim",
+  "fetched_at": "2026-08-19T04:20:22.794185817Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 208,
+    "forks": 0,
+    "description": "Space Age seD in Neovim. A project-wide find and replace plugin for Neovim.",
+    "license_spdx": "GPL-3.0",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 0.2890625,
+    "median_pr_close_days": 0.2873148148148148,
+    "open_issues": 4,
+    "closed_issues_sampled": 14,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 3131
+  }
+}

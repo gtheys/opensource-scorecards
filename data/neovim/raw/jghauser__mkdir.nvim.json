@@ -1,0 +1,25 @@
+{
+  "slug": "jghauser/mkdir.nvim",
+  "fetched_at": "2026-08-19T04:08:03.559874226Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 230,
+    "forks": 5,
+    "description": "This neovim plugin creates missing folders on save.",
+    "license_spdx": "GPL-3.0",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 5.143952546296297,
+    "median_pr_close_days": 0.1178587962962963,
+    "open_issues": 1,
+    "closed_issues_sampled": 2,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 332
+  }
+}

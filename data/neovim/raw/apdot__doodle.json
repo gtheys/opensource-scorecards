@@ -1,0 +1,29 @@
+{
+  "slug": "apdot/doodle",
+  "fetched_at": "2026-08-19T04:00:12.841866687Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 96,
+    "forks": 3,
+    "description": "Your second brain, inside Neovim.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2025-10-26T17:47:49Z",
+    "commits_90d": 0,
+    "releases_365d": 1,
+    "median_issue_close_days": 3.54427662037037,
+    "median_pr_close_days": 0.0001273148148148148,
+    "open_issues": 0,
+    "closed_issues_sampled": 2,
+    "contributors_12mo": 3,
+    "top_author_commit_share": 0.967741935483871,
+    "top_author": {
+      "login": "apdot",
+      "account_created_at": "2022-03-04T14:18:25Z",
+      "other_repos_star_sum": 96
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 9229
+  }
+}

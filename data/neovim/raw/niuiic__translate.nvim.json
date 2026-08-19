@@ -1,0 +1,25 @@
+{
+  "slug": "niuiic/translate.nvim",
+  "fetched_at": "2026-08-19T04:14:00.967157405Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 40,
+    "forks": 2,
+    "description": "Highly configurable translation plugin for neovim.",
+    "license_spdx": "MIT",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 0.10601851851851851,
+    "median_pr_close_days": 0.028043981481481482,
+    "open_issues": 0,
+    "closed_issues_sampled": 5,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 1346
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "natecraddock/workspaces.nvim",
+  "fetched_at": "2026-08-19T04:13:00.019954116Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 372,
+    "forks": 16,
+    "description": "a simple plugin to manage workspace directories in neovim",
+    "license_spdx": "MIT",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 2.3963252314814816,
+    "median_pr_close_days": 0.5897048611111111,
+    "open_issues": 8,
+    "closed_issues_sampled": 26,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 8829
+  }
+}

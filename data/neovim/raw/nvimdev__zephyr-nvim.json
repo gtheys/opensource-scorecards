@@ -1,0 +1,25 @@
+{
+  "slug": "nvimdev/zephyr-nvim",
+  "fetched_at": "2026-08-19T04:15:59.886617867Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 377,
+    "forks": 55,
+    "description": "A dark neovim colorscheme written in lua",
+    "license_spdx": "MIT",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 2.772523148148148,
+    "median_pr_close_days": 0.8488657407407407,
+    "open_issues": 3,
+    "closed_issues_sampled": 17,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 2519
+  }
+}

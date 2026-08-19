@@ -1,0 +1,29 @@
+{
+  "slug": "raymondware/focusmode.nvim",
+  "fetched_at": "2026-08-19T04:20:26.442640868Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 3,
+    "forks": 0,
+    "description": "A Pomodoro and deep-work timer that lives inside Neovim. Structured focus/break intervals, distraction blocking, session stats, and a dashboard.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-07-30T05:55:31Z",
+    "commits_90d": 5,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 5.394259259259259,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "raymondware",
+      "account_created_at": "2013-07-24T15:52:09Z",
+      "other_repos_star_sum": 3
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 7398
+  }
+}

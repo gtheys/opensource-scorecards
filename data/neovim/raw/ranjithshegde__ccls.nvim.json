@@ -1,0 +1,29 @@
+{
+  "slug": "ranjithshegde/ccls.nvim",
+  "fetched_at": "2026-08-19T04:19:51.417191024Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 79,
+    "forks": 4,
+    "description": "Neovim plugin for ccls language server. Leverages off-spec extensions to  LSP client with AST browser",
+    "license_spdx": "GPL-2.0",
+    "last_commit_at": "2026-04-10T16:55:23Z",
+    "commits_90d": 0,
+    "releases_365d": 1,
+    "median_issue_close_days": 139.53942708333335,
+    "median_pr_close_days": 0.054467592592592595,
+    "open_issues": 0,
+    "closed_issues_sampled": 6,
+    "contributors_12mo": 2,
+    "top_author_commit_share": 0.9,
+    "top_author": {
+      "login": "ranjithshegde",
+      "account_created_at": "2014-12-21T07:15:40Z",
+      "other_repos_star_sum": 122
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 10462
+  }
+}

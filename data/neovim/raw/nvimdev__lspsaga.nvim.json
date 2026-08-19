@@ -1,0 +1,29 @@
+{
+  "slug": "nvimdev/lspsaga.nvim",
+  "fetched_at": "2026-08-19T04:15:57.714967588Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 3797,
+    "forks": 306,
+    "description": "improve neovim lsp experience",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-07-16T02:03:07Z",
+    "commits_90d": 1,
+    "releases_365d": 0,
+    "median_issue_close_days": 8.018402777777778,
+    "median_pr_close_days": 0.31444444444444447,
+    "open_issues": 98,
+    "closed_issues_sampled": 19,
+    "contributors_12mo": 5,
+    "top_author_commit_share": 0.2,
+    "top_author": {
+      "login": "wiserfz",
+      "account_created_at": "2018-05-04T04:52:45Z",
+      "other_repos_star_sum": 0
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 770
+  }
+}

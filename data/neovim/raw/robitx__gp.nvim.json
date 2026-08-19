@@ -1,0 +1,25 @@
+{
+  "slug": "robitx/gp.nvim",
+  "fetched_at": "2026-08-19T04:21:26.831907598Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1321,
+    "forks": 129,
+    "description": "Gp.nvim (GPT prompt) Neovim AI plugin: ChatGPT sessions & Instructable text/code operations & Speech to text [OpenAI, Ollama, Anthropic, ..]",
+    "license_spdx": "MIT",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 18.7915625,
+    "median_pr_close_days": 23.40138888888889,
+    "open_issues": 68,
+    "closed_issues_sampled": 21,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 39935
+  }
+}

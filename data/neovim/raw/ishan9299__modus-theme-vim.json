@@ -1,0 +1,25 @@
+{
+  "slug": "ishan9299/modus-theme-vim",
+  "fetched_at": "2026-08-19T04:07:23.373720268Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 178,
+    "forks": 10,
+    "description": "Port of modus-themes in neovim",
+    "license_spdx": "MIT",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 2.259675925925926,
+    "median_pr_close_days": 0.3190914351851852,
+    "open_issues": 4,
+    "closed_issues_sampled": 19,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 4259
+  }
+}

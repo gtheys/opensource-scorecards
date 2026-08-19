@@ -1,0 +1,25 @@
+{
+  "slug": "oscarcreator/rsync.nvim",
+  "fetched_at": "2026-08-19T04:17:10.664400796Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 102,
+    "forks": 16,
+    "description": "neovim plugin which synchronises project with rsync on save.",
+    "license_spdx": "MIT",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 11.608969907407408,
+    "median_pr_close_days": 0.00947337962962963,
+    "open_issues": 8,
+    "closed_issues_sampled": 20,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 3842
+  }
+}

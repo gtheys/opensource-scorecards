@@ -1,0 +1,25 @@
+{
+  "slug": "pocco81/dap-buddy.nvim",
+  "fetched_at": "2026-08-19T04:18:35.399724651Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 394,
+    "forks": 46,
+    "description": "🐞 Debug Adapter Protocol manager for Neovim",
+    "license_spdx": "GPL-3.0",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 0.5579166666666666,
+    "median_pr_close_days": 0.22842592592592592,
+    "open_issues": 25,
+    "closed_issues_sampled": 19,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 2407
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "niuiic/format.nvim",
+  "fetched_at": "2026-08-19T04:13:43.940617009Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 33,
+    "forks": 1,
+    "description": "An asynchronous, multitasking, and highly configurable formatting plugin.",
+    "license_spdx": "MIT",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 0.4350462962962963,
+    "median_pr_close_days": 0.005763888888888889,
+    "open_issues": 0,
+    "closed_issues_sampled": 1,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 4574
+  }
+}

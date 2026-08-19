@@ -1,0 +1,25 @@
+{
+  "slug": "chuufmaster/buffer-vacuum",
+  "fetched_at": "2026-08-19T04:02:22.612915951Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 14,
+    "forks": 2,
+    "description": "A neovim plugin to vacuum up unused file buffers",
+    "license_spdx": "MIT",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 108.72174768518518,
+    "median_pr_close_days": 5.332118055555556,
+    "open_issues": 0,
+    "closed_issues_sampled": 1,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 3106
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "anuvyklack/windows.nvim",
+  "fetched_at": "2026-08-19T04:00:11.069584339Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 641,
+    "forks": 20,
+    "description": "Automatically expand width of the current window. Maximizes and restore it. And all this with nice animations!",
+    "license_spdx": "MIT",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 0.39045717592592594,
+    "median_pr_close_days": 0.35931712962962964,
+    "open_issues": 22,
+    "closed_issues_sampled": 16,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 2875
+  }
+}

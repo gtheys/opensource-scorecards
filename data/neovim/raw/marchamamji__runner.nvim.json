@@ -1,0 +1,25 @@
+{
+  "slug": "marchamamji/runner.nvim",
+  "fetched_at": "2026-08-19T04:11:23.609976228Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 52,
+    "forks": 3,
+    "description": "A customizable Neovim plugin to run code inside the editor",
+    "license_spdx": "MIT",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 9.731707175925926,
+    "median_pr_close_days": 0.0005844907407407407,
+    "open_issues": 2,
+    "closed_issues_sampled": 4,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 8218
+  }
+}

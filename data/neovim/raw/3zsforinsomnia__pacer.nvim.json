@@ -1,0 +1,29 @@
+{
+  "slug": "3zsforinsomnia/pacer.nvim",
+  "fetched_at": "2026-08-19T03:58:28.122396636Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 7,
+    "forks": 1,
+    "description": "A reading pacer for Neovim",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-03-17T01:10:55Z",
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 5.506111111111111,
+    "median_pr_close_days": 0.18675925925925926,
+    "open_issues": 0,
+    "closed_issues_sampled": 1,
+    "contributors_12mo": 2,
+    "top_author_commit_share": 0.75,
+    "top_author": {
+      "login": "3ZsForInsomnia",
+      "account_created_at": "2015-04-08T13:41:27Z",
+      "other_repos_star_sum": 42
+    },
+    "has_ci": false,
+    "has_tests": true,
+    "readme_len": 5964
+  }
+}

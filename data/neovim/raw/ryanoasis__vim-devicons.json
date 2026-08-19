@@ -1,0 +1,25 @@
+{
+  "slug": "ryanoasis/vim-devicons",
+  "fetched_at": "2026-08-19T04:22:17.628103251Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 5807,
+    "forks": 273,
+    "description": "Adds file type icons to Vim plugins such as: NERDTree, vim-airline, CtrlP, unite, Denite, lightline, vim-startify and many more",
+    "license_spdx": "MIT",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 15.798171296296296,
+    "median_pr_close_days": 0.07873842592592592,
+    "open_issues": 70,
+    "closed_issues_sampled": 31,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": true,
+    "readme_len": 6040
+  }
+}

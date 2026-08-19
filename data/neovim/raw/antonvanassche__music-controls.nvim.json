@@ -1,0 +1,25 @@
+{
+  "slug": "antonvanassche/music-controls.nvim",
+  "fetched_at": "2026-08-19T04:00:07.974222107Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 35,
+    "forks": 4,
+    "description": "Control you favorite music players with ease from within Neovim.",
+    "license_spdx": "MIT",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 4.365277777777778,
+    "median_pr_close_days": 0.5861284722222222,
+    "open_issues": 0,
+    "closed_issues_sampled": 5,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 5894
+  }
+}

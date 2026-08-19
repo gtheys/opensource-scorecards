@@ -1,0 +1,25 @@
+{
+  "slug": "max397574/colortils.nvim",
+  "fetched_at": "2026-08-19T04:11:34.627031375Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 431,
+    "forks": 13,
+    "description": "Some color utils for neovim",
+    "license_spdx": "GPL-2.0",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 1.4325694444444443,
+    "median_pr_close_days": 0.01545138888888889,
+    "open_issues": 8,
+    "closed_issues_sampled": 7,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 6519
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "chuwy/ucm.nvim",
+  "fetched_at": "2026-08-19T04:02:27.174858847Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 6,
+    "forks": 0,
+    "description": "A Neovim plugin helping to navigate in Unison codebase",
+    "license_spdx": "Apache-2.0",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 4.260648148148148,
+    "median_pr_close_days": 0.0002719907407407407,
+    "open_issues": 2,
+    "closed_issues_sampled": 1,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 1923
+  }
+}

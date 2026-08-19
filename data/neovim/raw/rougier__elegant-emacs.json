@@ -1,0 +1,25 @@
+{
+  "slug": "rougier/elegant-emacs",
+  "fetched_at": "2026-08-19T04:21:56.940064831Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1447,
+    "forks": 79,
+    "description": "A very minimal but elegant emacs (I think)",
+    "license_spdx": "GPL-3.0",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 1.837962962962963,
+    "median_pr_close_days": 4.875196759259259,
+    "open_issues": 8,
+    "closed_issues_sampled": 13,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 1237
+  }
+}

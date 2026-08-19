@@ -1,0 +1,25 @@
+{
+  "slug": "k2589/lluminate.nvim",
+  "fetched_at": "2026-08-19T04:08:45.309754528Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 17,
+    "forks": 0,
+    "description": "Neovim plugin for automaticaly passing extra context for LLM on code snippet copy to clipboard",
+    "license_spdx": "Apache-2.0",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.004791666666666666,
+    "open_issues": 1,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 4722
+  }
+}

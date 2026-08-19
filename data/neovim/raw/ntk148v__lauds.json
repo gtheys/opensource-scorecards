@@ -1,0 +1,29 @@
+{
+  "slug": "ntk148v/lauds",
+  "fetched_at": "2026-08-19T04:14:36.204923932Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 10,
+    "forks": 0,
+    "description": "Paper-light color theme for prose and code — warm off-white paper, terracotta orange, deep mint.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-07-09T07:08:55Z",
+    "commits_90d": 17,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "ntk148v",
+      "account_created_at": "2015-02-02T02:52:18Z",
+      "other_repos_star_sum": 800
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 11487
+  }
+}

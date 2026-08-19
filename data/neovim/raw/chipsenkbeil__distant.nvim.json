@@ -1,0 +1,25 @@
+{
+  "slug": "chipsenkbeil/distant.nvim",
+  "fetched_at": "2026-08-19T04:01:59.739879386Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1369,
+    "forks": 16,
+    "description": "🚧 (Alpha stage software) Edit files, run programs, and work with LSP on a remote machine from the comfort of your local environment 🚧",
+    "license_spdx": "Apache-2.0",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 181.62483796296297,
+    "median_pr_close_days": 0.024027777777777776,
+    "open_issues": 26,
+    "closed_issues_sampled": 41,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 2579
+  }
+}

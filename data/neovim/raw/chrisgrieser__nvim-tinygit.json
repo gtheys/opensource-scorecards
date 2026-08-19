@@ -1,0 +1,29 @@
+{
+  "slug": "chrisgrieser/nvim-tinygit",
+  "fetched_at": "2026-08-19T04:02:11.172046739Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 212,
+    "forks": 9,
+    "description": "A lightweight bundle of commands focused on quick and streamlined git operations.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-12T10:13:10Z",
+    "commits_90d": 5,
+    "releases_365d": 0,
+    "median_issue_close_days": 0.5375810185185185,
+    "median_pr_close_days": 0.13761574074074073,
+    "open_issues": 0,
+    "closed_issues_sampled": 17,
+    "contributors_12mo": 2,
+    "top_author_commit_share": 0.9759036144578314,
+    "top_author": {
+      "login": "chrisgrieser",
+      "account_created_at": "2020-10-22T10:50:35Z",
+      "other_repos_star_sum": 8784
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 16036
+  }
+}

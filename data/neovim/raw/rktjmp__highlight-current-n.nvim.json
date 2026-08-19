@@ -1,0 +1,25 @@
+{
+  "slug": "rktjmp/highlight-current-n.nvim",
+  "fetched_at": "2026-08-19T04:21:01.448563095Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 90,
+    "forks": 1,
+    "description": "Highlights the current /, ? or * match under your cursor when pressing n or N and gets out of the way afterwards.",
+    "license_spdx": "MIT",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 158.58015625,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 2,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 6395
+  }
+}

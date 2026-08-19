@@ -1,0 +1,25 @@
+{
+  "slug": "chomosuke/term-edit.nvim",
+  "fetched_at": "2026-08-19T04:02:06.667308962Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 214,
+    "forks": 4,
+    "description": "Vim Keybindings in Neovim's Built-in Terminal",
+    "license_spdx": "GPL-3.0",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 2.876545138888889,
+    "median_pr_close_days": 0.0003414351851851852,
+    "open_issues": 8,
+    "closed_issues_sampled": 20,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 4739
+  }
+}

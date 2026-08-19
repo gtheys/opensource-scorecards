@@ -1,0 +1,25 @@
+{
+  "slug": "norcalli/nvim-base16.lua",
+  "fetched_at": "2026-08-19T04:14:18.118123698Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 79,
+    "forks": 255,
+    "description": "Programmatic lua library for setting base16 themes in Neovim.",
+    "license_spdx": "NOASSERTION",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 5.548206018518519,
+    "median_pr_close_days": 0.0005439814814814814,
+    "open_issues": 2,
+    "closed_issues_sampled": 2,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 2961
+  }
+}

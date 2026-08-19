@@ -1,0 +1,25 @@
+{
+  "slug": "3v0k4/exit.nvim",
+  "fetched_at": "2026-08-19T03:58:24.715342722Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 18,
+    "forks": 3,
+    "description": "Prompt LLMs to write neovim commands",
+    "license_spdx": "MIT",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 23.071851851851854,
+    "median_pr_close_days": 29.16,
+    "open_issues": 3,
+    "closed_issues_sampled": 3,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 3781
+  }
+}

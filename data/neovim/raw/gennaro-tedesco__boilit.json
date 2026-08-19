@@ -1,0 +1,25 @@
+{
+  "slug": "gennaro-tedesco/boilit",
+  "fetched_at": "2026-08-19T04:05:43.026538661Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 86,
+    "forks": 1,
+    "description": "create boilerplate structure for neovim plugins",
+    "license_spdx": "Apache-2.0",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 0.19870949074074074,
+    "median_pr_close_days": 1.3767881944444444,
+    "open_issues": 0,
+    "closed_issues_sampled": 4,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 2616
+  }
+}

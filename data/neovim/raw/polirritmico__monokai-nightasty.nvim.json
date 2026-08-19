@@ -1,0 +1,29 @@
+{
+  "slug": "polirritmico/monokai-nightasty.nvim",
+  "fetched_at": "2026-08-19T04:18:37.150854563Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 167,
+    "forks": 7,
+    "description": "🫖 A dark/light theme for Neovim based on the Monokai color palette written in Lua, support for LSP, Treesitter and lots of plugins.",
+    "license_spdx": "Apache-2.0",
+    "last_commit_at": "2026-07-16T21:08:52Z",
+    "commits_90d": 4,
+    "releases_365d": 0,
+    "median_issue_close_days": 3.2028819444444445,
+    "median_pr_close_days": 0.002199074074074074,
+    "open_issues": 0,
+    "closed_issues_sampled": 6,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "polirritmico",
+      "account_created_at": "2016-12-08T17:17:44Z",
+      "other_repos_star_sum": 308
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 32184
+  }
+}

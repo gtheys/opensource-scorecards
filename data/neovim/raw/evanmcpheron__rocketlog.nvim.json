@@ -1,0 +1,29 @@
+{
+  "slug": "evanmcpheron/rocketlog.nvim",
+  "fetched_at": "2026-08-19T04:04:47.071491318Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 4,
+    "forks": 2,
+    "description": "A lightweight Neovim plugin for inserting structured console.* statements in JavaScript and TypeScript files.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-05-08T16:52:07Z",
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.00017361111111111112,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "evanmcpheron",
+      "account_created_at": "2019-08-18T20:52:01Z",
+      "other_repos_star_sum": 5
+    },
+    "has_ci": false,
+    "has_tests": true,
+    "readme_len": 9759
+  }
+}

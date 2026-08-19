@@ -1,0 +1,25 @@
+{
+  "slug": "nvim-lua/wishlist",
+  "fetched_at": "2026-08-19T04:15:00.308251569Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 251,
+    "forks": 0,
+    "description": "A public catalogue of Lua plugins Neovim users would like to see exist",
+    "license_spdx": "MIT",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 46.68398148148148,
+    "median_pr_close_days": null,
+    "open_issues": 39,
+    "closed_issues_sampled": 16,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 1174
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "rawnly/gist.nvim",
+  "fetched_at": "2026-08-19T04:20:03.427329677Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 217,
+    "forks": 8,
+    "description": "Neovim plugin that allows you to create a Github Gist from the current file",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-05-12T07:10:26Z",
+    "commits_90d": 0,
+    "releases_365d": 6,
+    "median_issue_close_days": 13.313929398148147,
+    "median_pr_close_days": 0.1704513888888889,
+    "open_issues": 0,
+    "closed_issues_sampled": 10,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "rawnly",
+      "account_created_at": "2015-12-24T16:16:32Z",
+      "other_repos_star_sum": 159
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 8229
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "backdround/improved-ft.nvim",
+  "fetched_at": "2026-08-19T04:00:55.964968055Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 45,
+    "forks": 2,
+    "description": "Improve default f/t hop abilities",
+    "license_spdx": "MIT",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 4.704479166666666,
+    "median_pr_close_days": 0.11211805555555555,
+    "open_issues": 1,
+    "closed_issues_sampled": 3,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 3540
+  }
+}

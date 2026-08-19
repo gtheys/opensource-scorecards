@@ -1,0 +1,29 @@
+{
+  "slug": "leblocks/hopcsharp.nvim",
+  "fetched_at": "2026-08-19T04:10:10.348594631Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 17,
+    "forks": 2,
+    "description": "cached treesitter navigation on a big projects, an attempt to make navigation in large c# projects better",
+    "license_spdx": "GPL-3.0",
+    "last_commit_at": "2026-08-18T19:44:06Z",
+    "commits_90d": 14,
+    "releases_365d": 8,
+    "median_issue_close_days": 31.41695023148148,
+    "median_pr_close_days": 2.8254108796296293,
+    "open_issues": 7,
+    "closed_issues_sampled": 26,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "leblocks",
+      "account_created_at": "2017-12-20T17:32:46Z",
+      "other_repos_star_sum": 33
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 7149
+  }
+}

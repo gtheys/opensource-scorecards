@@ -1,0 +1,25 @@
+{
+  "slug": "jvgrootveld/telescope-zoxide",
+  "fetched_at": "2026-08-19T04:08:40.073256577Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 370,
+    "forks": 21,
+    "description": "An extension for telescope.nvim that allows you operate zoxide within Neovim.",
+    "license_spdx": "MIT",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 4.795833333333333,
+    "median_pr_close_days": 4.730983796296297,
+    "open_issues": 8,
+    "closed_issues_sampled": 11,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 5902
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "ray-x/go.nvim",
+  "fetched_at": "2026-08-19T04:20:12.596726230Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 2653,
+    "forks": 160,
+    "description": "G'day Nvimer, Joyful Gopher: Explore the Feature-Packed Go Plugin for Neovim",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-06-04T03:59:24Z",
+    "commits_90d": 2,
+    "releases_365d": 1,
+    "median_issue_close_days": 34.20998842592593,
+    "median_pr_close_days": 2.261875,
+    "open_issues": 96,
+    "closed_issues_sampled": 23,
+    "contributors_12mo": 12,
+    "top_author_commit_share": 0.8194444444444444,
+    "top_author": {
+      "login": "ray-x",
+      "account_created_at": "2012-04-26T09:15:35Z",
+      "other_repos_star_sum": 8716
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 10795
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "nvim-neo-tree/neo-tree.nvim",
+  "fetched_at": "2026-08-19T04:15:10.114850253Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 5570,
+    "forks": 296,
+    "description": "Neovim plugin to manage the file system and other tree like structures.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-18T10:53:28Z",
+    "commits_90d": 32,
+    "releases_365d": 14,
+    "median_issue_close_days": 14.6953125,
+    "median_pr_close_days": 0.12975694444444444,
+    "open_issues": 171,
+    "closed_issues_sampled": 17,
+    "contributors_12mo": 27,
+    "top_author_commit_share": 0.7651006711409396,
+    "top_author": {
+      "login": "pynappo",
+      "account_created_at": "2018-09-21T22:37:57Z",
+      "other_repos_star_sum": 69
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 39941
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "dasupradyumna/launch.nvim",
+  "fetched_at": "2026-08-19T04:03:32.549271805Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 50,
+    "forks": 1,
+    "description": ":rocket: A task launcher plugin for neovim allowing dynamic task configuration per directory, with optional support for debugging",
+    "license_spdx": "GPL-3.0",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 6.527395833333333,
+    "median_pr_close_days": 0.0019328703703703704,
+    "open_issues": 14,
+    "closed_issues_sampled": 34,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": true,
+    "readme_len": 17180
+  }
+}

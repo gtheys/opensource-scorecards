@@ -1,0 +1,29 @@
+{
+  "slug": "piersolenski/plugin-addict.nvim",
+  "fetched_at": "2026-08-19T04:18:22.577249991Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 15,
+    "forks": 0,
+    "description": "For those who just can't help themselves",
+    "license_spdx": "WTFPL",
+    "last_commit_at": "2025-11-03T10:44:00Z",
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "piersolenski",
+      "account_created_at": "2011-12-26T01:52:25Z",
+      "other_repos_star_sum": 966
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 2592
+  }
+}

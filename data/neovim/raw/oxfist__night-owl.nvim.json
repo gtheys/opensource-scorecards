@@ -1,0 +1,25 @@
+{
+  "slug": "oxfist/night-owl.nvim",
+  "fetched_at": "2026-08-19T04:17:26.794144360Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 352,
+    "forks": 32,
+    "description": "🦉 🌌 Night Owl colorscheme implementation for Neovim with support for Treesitter and semantic tokens",
+    "license_spdx": "BSD-3-Clause",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 1.583599537037037,
+    "median_pr_close_days": 0.0011689814814814816,
+    "open_issues": 5,
+    "closed_issues_sampled": 15,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": true,
+    "readme_len": 15283
+  }
+}

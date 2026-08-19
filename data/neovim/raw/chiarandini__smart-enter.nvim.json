@@ -1,0 +1,29 @@
+{
+  "slug": "chiarandini/smart-enter.nvim",
+  "fetched_at": "2026-08-19T04:01:57.544345678Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 3,
+    "forks": 0,
+    "description": "A context dispatched newline for Neovim: continue LaTeX environments, Markdown lists, and more on one key.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-07T19:21:19Z",
+    "commits_90d": 9,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "Chiarandini",
+      "account_created_at": "2018-01-24T00:29:57Z",
+      "other_repos_star_sum": 32
+    },
+    "has_ci": false,
+    "has_tests": true,
+    "readme_len": 9988
+  }
+}

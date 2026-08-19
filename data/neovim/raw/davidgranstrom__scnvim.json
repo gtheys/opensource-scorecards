@@ -1,0 +1,29 @@
+{
+  "slug": "davidgranstrom/scnvim",
+  "fetched_at": "2026-08-19T04:03:43.565189470Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 272,
+    "forks": 31,
+    "description": "Neovim frontend for SuperCollider.",
+    "license_spdx": "GPL-3.0",
+    "last_commit_at": "2026-06-16T13:53:19Z",
+    "commits_90d": 2,
+    "releases_365d": 0,
+    "median_issue_close_days": 49.36813078703704,
+    "median_pr_close_days": 6.886076388888888,
+    "open_issues": 23,
+    "closed_issues_sampled": 24,
+    "contributors_12mo": 4,
+    "top_author_commit_share": 0.375,
+    "top_author": {
+      "login": "salkin-mada",
+      "account_created_at": "2015-04-23T10:13:15Z",
+      "other_repos_star_sum": 131
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 7299
+  }
+}

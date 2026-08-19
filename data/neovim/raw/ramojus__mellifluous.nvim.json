@@ -1,0 +1,29 @@
+{
+  "slug": "ramojus/mellifluous.nvim",
+  "fetched_at": "2026-08-19T04:19:44.198561586Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 450,
+    "forks": 17,
+    "description": "Pleasant and productive colorscheme for Neovim",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-04-20T10:52:57Z",
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 2.0472453703703706,
+    "median_pr_close_days": 0.022916666666666665,
+    "open_issues": 3,
+    "closed_issues_sampled": 9,
+    "contributors_12mo": 2,
+    "top_author_commit_share": 0.6,
+    "top_author": {
+      "login": "antoineco",
+      "account_created_at": "2013-01-17T19:03:15Z",
+      "other_repos_star_sum": 309
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 11711
+  }
+}

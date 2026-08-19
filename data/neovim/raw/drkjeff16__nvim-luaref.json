@@ -1,0 +1,29 @@
+{
+  "slug": "drkjeff16/nvim-luaref",
+  "fetched_at": "2026-08-19T04:04:24.485038007Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 3,
+    "forks": 0,
+    "description": "Add the Lua 5.1 reference manual as a Neovim helpdoc.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-06-09T16:56:28Z",
+    "commits_90d": 4,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "DrKJeff16",
+      "account_created_at": "2020-09-29T00:05:14Z",
+      "other_repos_star_sum": 264
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 532
+  }
+}

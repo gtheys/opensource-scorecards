@@ -1,0 +1,25 @@
+{
+  "slug": "moyiz/command-and-cursor.nvim",
+  "fetched_at": "2026-08-19T04:12:32.421255475Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 24,
+    "forks": 0,
+    "description": "Highlight cursor and visual selections in current buffer when entering command mode.",
+    "license_spdx": "BSD-3-Clause",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 2.9199189814814814,
+    "median_pr_close_days": 0.00024305555555555555,
+    "open_issues": 0,
+    "closed_issues_sampled": 1,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 1373
+  }
+}

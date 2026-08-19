@@ -1,0 +1,29 @@
+{
+  "slug": "bibekbhusal0/bufstack.nvim",
+  "fetched_at": "2026-08-19T04:01:08.317796025Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 6,
+    "forks": 0,
+    "description": "Track Recently visited and closed buffers ",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-06-26T15:47:31Z",
+    "commits_90d": 1,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "BibekBhusal0",
+      "account_created_at": "2023-06-29T12:50:02Z",
+      "other_repos_star_sum": 195
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 4393
+  }
+}

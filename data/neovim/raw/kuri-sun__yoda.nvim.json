@@ -1,0 +1,29 @@
+{
+  "slug": "kuri-sun/yoda.nvim",
+  "fetched_at": "2026-08-19T04:09:47.300266064Z",
+  "status": "ok",
+  "data": {
+    "archived": true,
+    "stars": 14,
+    "forks": 0,
+    "description": null,
+    "license_spdx": "MIT",
+    "last_commit_at": "2025-12-19T18:33:34Z",
+    "commits_90d": 0,
+    "releases_365d": 4,
+    "median_issue_close_days": 2.962326388888889,
+    "median_pr_close_days": 3.4089062500000002,
+    "open_issues": 0,
+    "closed_issues_sampled": 2,
+    "contributors_12mo": 2,
+    "top_author_commit_share": 0.9705882352941176,
+    "top_author": {
+      "login": "harukikuri",
+      "account_created_at": "2020-03-27T09:01:22Z",
+      "other_repos_star_sum": 85
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 8619
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "ntbbloodbath/nvenv",
+  "fetched_at": "2026-08-19T04:14:34.788298875Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 61,
+    "forks": 5,
+    "description": "A lightweight and blazing fast Neovim version manager.",
+    "license_spdx": "MIT",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 51.299762731481486,
+    "median_pr_close_days": 0.0023437500000000003,
+    "open_issues": 2,
+    "closed_issues_sampled": 2,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 3179
+  }
+}

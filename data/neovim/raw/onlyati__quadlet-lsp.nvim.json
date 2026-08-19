@@ -1,0 +1,29 @@
+{
+  "slug": "onlyati/quadlet-lsp.nvim",
+  "fetched_at": "2026-08-19T04:17:05.205953257Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 14,
+    "forks": 0,
+    "description": "Neovim plugin for Quadlet LSP",
+    "license_spdx": "CC0-1.0",
+    "last_commit_at": "2025-12-10T21:23:25Z",
+    "commits_90d": 0,
+    "releases_365d": 4,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.0003530092592592593,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "onlyati",
+      "account_created_at": "2015-09-20T13:25:42Z",
+      "other_repos_star_sum": 90
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 754
+  }
+}

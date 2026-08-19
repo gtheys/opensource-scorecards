@@ -1,0 +1,25 @@
+{
+  "slug": "aaronik/gptmodels.nvim",
+  "fetched_at": "2026-08-19T03:58:52.888981215Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 74,
+    "forks": 6,
+    "description": "GPTModels - a multi model, window based LLM AI plugin for neovim, with an emphasis on stability and clean code",
+    "license_spdx": "MIT",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 3.9852951388888886,
+    "median_pr_close_days": 1.8876273148148148,
+    "open_issues": 2,
+    "closed_issues_sampled": 8,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 7648
+  }
+}

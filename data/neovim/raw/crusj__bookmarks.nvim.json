@@ -1,0 +1,25 @@
+{
+  "slug": "crusj/bookmarks.nvim",
+  "fetched_at": "2026-08-19T04:03:04.793885823Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 248,
+    "forks": 23,
+    "description": "Remember file locations and sort by time and frequency and support telescope.",
+    "license_spdx": "MIT",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 4.084091435185185,
+    "median_pr_close_days": 0.4255671296296296,
+    "open_issues": 10,
+    "closed_issues_sampled": 30,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 8922
+  }
+}

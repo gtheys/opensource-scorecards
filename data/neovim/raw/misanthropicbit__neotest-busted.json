@@ -1,0 +1,29 @@
+{
+  "slug": "misanthropicbit/neotest-busted",
+  "fetched_at": "2026-08-19T04:12:12.775376469Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 18,
+    "forks": 7,
+    "description": "Neotest adapter for running busted tests using neovim as a lua interpreter ",
+    "license_spdx": "BSD-3-Clause",
+    "last_commit_at": "2026-04-02T18:10:08Z",
+    "commits_90d": 0,
+    "releases_365d": 4,
+    "median_issue_close_days": 62.62343171296297,
+    "median_pr_close_days": 4.217679398148148,
+    "open_issues": 7,
+    "closed_issues_sampled": 8,
+    "contributors_12mo": 2,
+    "top_author_commit_share": 0.9333333333333333,
+    "top_author": {
+      "login": "MisanthropicBit",
+      "account_created_at": "2012-06-13T11:11:26Z",
+      "other_repos_star_sum": 131
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 10029
+  }
+}

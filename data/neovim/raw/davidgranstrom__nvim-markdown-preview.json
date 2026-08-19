@@ -1,0 +1,25 @@
+{
+  "slug": "davidgranstrom/nvim-markdown-preview",
+  "fetched_at": "2026-08-19T04:03:42.122021088Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 112,
+    "forks": 17,
+    "description": "Markdown preview for neovim using pandoc and live-server",
+    "license_spdx": "GPL-3.0",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 17.837569444444448,
+    "median_pr_close_days": 4.432349537037037,
+    "open_issues": 11,
+    "closed_issues_sampled": 10,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 4605
+  }
+}

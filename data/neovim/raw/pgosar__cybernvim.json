@@ -1,0 +1,25 @@
+{
+  "slug": "pgosar/cybernvim",
+  "fetched_at": "2026-08-19T04:18:04.214841976Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 380,
+    "forks": 13,
+    "description": "CyberNvim: A IDE-like Neovim distribution. Simplicity is Power.",
+    "license_spdx": "Apache-2.0",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 3.270648148148148,
+    "median_pr_close_days": 0.307494212962963,
+    "open_issues": 2,
+    "closed_issues_sampled": 9,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 7489
+  }
+}
