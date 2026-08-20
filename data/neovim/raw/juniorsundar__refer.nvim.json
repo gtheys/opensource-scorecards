@@ -1,6 +1,6 @@
 {
   "slug": "juniorsundar/refer.nvim",
-  "fetched_at": "2026-08-18T10:11:09.934138161Z",
+  "fetched_at": "2026-08-20T04:30:03.388621654Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -8,15 +8,15 @@
     "forks": 4,
     "description": "Picker that doesn't get in your way",
     "license_spdx": "MIT",
-    "last_commit_at": "2026-08-12T12:14:00Z",
-    "commits_90d": 4,
+    "last_commit_at": "2026-08-19T12:47:50Z",
+    "commits_90d": 3,
     "releases_365d": 9,
     "median_issue_close_days": 4.38818287037037,
     "median_pr_close_days": 4.924554398148148,
     "open_issues": 2,
     "closed_issues_sampled": 3,
     "contributors_12mo": 3,
-    "top_author_commit_share": 0.9705882352941176,
+    "top_author_commit_share": 0.970873786407767,
     "top_author": {
       "login": "juniorsundar",
       "account_created_at": "2017-01-06T16:40:34Z",

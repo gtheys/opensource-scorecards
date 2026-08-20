@@ -1,6 +1,6 @@
 {
   "slug": "awsum-lang/awsum-nvim",
-  "fetched_at": "2026-08-18T09:55:35.535581885Z",
+  "fetched_at": "2026-08-20T04:04:26.710447252Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": null,
     "license_spdx": "Apache-2.0",
     "last_commit_at": "2026-06-22T18:56:02Z",
-    "commits_90d": 10,
+    "commits_90d": 8,
     "releases_365d": 3,
     "median_issue_close_days": null,
     "median_pr_close_days": 0.0012499999999999998,

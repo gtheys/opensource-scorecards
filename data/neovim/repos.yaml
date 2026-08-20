@@ -301,6 +301,7 @@ repos:
   - desdic/macrothis.nvim
   - desdic/marlin.nvim
   - desdic/telescope-rooter.nvim
+  - dev-addict/floatingfile.nvim
   - diegoulloao/neofusion.nvim
   - dimtion/guttermarks.nvim
   - disrupted/blink-cmp-conventional-commits
@@ -1090,6 +1091,7 @@ repos:
   - savq/melange-nvim
   - savq/paq-nvim
   - saxon1964/neovim-tips
+  - saya-ashen/agent-workbench.nvim
   - sbdchd/neoformat
   - scalameta/nvim-metals
   - schemastore/schemastore

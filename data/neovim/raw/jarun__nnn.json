@@ -1,6 +1,6 @@
 {
   "slug": "jarun/nnn",
-  "fetched_at": "2026-08-19T04:07:59.596529354Z",
+  "fetched_at": "2026-08-20T04:27:18.874681639Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "jarun",
       "account_created_at": "2013-11-17T05:30:04Z",
-      "other_repos_star_sum": 43396
+      "other_repos_star_sum": 43397
     },
     "has_ci": true,
     "has_tests": false,

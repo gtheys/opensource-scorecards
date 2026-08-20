@@ -1,10 +1,10 @@
 {
   "slug": "karnull/switchboard.nvim",
-  "fetched_at": "2026-08-19T04:08:59.127454701Z",
+  "fetched_at": "2026-08-20T04:30:50.378974562Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 35,
+    "stars": 34,
     "forks": 2,
     "description": "one keybind - different (project specific) commands",
     "license_spdx": "Apache-2.0",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "karnull",
       "account_created_at": "2021-11-24T20:36:23Z",
-      "other_repos_star_sum": 75
+      "other_repos_star_sum": 73
     },
     "has_ci": false,
     "has_tests": false,

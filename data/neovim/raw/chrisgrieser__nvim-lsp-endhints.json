@@ -1,6 +1,6 @@
 {
   "slug": "chrisgrieser/nvim-lsp-endhints",
-  "fetched_at": "2026-08-18T09:58:33.158436533Z",
+  "fetched_at": "2026-08-20T04:09:25.034010446Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "chrisgrieser",
       "account_created_at": "2020-10-22T10:50:35Z",
-      "other_repos_star_sum": 8784
+      "other_repos_star_sum": 8786
     },
     "has_ci": true,
     "has_tests": false,

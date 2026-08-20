@@ -1,10 +1,10 @@
 {
   "slug": "kiyoon/tmux-send.nvim",
-  "fetched_at": "2026-08-19T04:09:34.660260265Z",
+  "fetched_at": "2026-08-20T04:32:29.102121862Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 23,
+    "stars": 22,
     "forks": 1,
     "description": "Copy and paste buffer content or file path in Nvim-Tree, Neo-Tree, Oil to another tmux pane in Neovim.",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "kiyoon",
       "account_created_at": "2015-06-20T17:30:29Z",
-      "other_repos_star_sum": 1221
+      "other_repos_star_sum": 1222
     },
     "has_ci": false,
     "has_tests": false,

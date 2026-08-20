@@ -1,6 +1,6 @@
 {
   "slug": "drkjeff16/wezterm-types",
-  "fetched_at": "2026-08-18T10:02:38.313089471Z",
+  "fetched_at": "2026-08-20T04:16:16.361975997Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -16,11 +16,11 @@
     "open_issues": 2,
     "closed_issues_sampled": 2,
     "contributors_12mo": 10,
-    "top_author_commit_share": 0.9223140495867769,
+    "top_author_commit_share": 0.9192439862542955,
     "top_author": {
       "login": "DrKJeff16",
       "account_created_at": "2020-09-29T00:05:14Z",
-      "other_repos_star_sum": 264
+      "other_repos_star_sum": 265
     },
     "has_ci": true,
     "has_tests": false,

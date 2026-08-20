@@ -1,6 +1,6 @@
 {
   "slug": "cosmicnvim/cosmicnvim",
-  "fetched_at": "2026-08-18T09:59:48.433786457Z",
+  "fetched_at": "2026-08-20T04:11:31.998414969Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -8,8 +8,8 @@
     "forks": 63,
     "description": "CosmicNvim is a lightweight and opinionated Neovim config for web development, specifically designed to provide a 💫 COSMIC programming experience!",
     "license_spdx": "GPL-3.0",
-    "last_commit_at": "2026-08-10T15:03:31Z",
-    "commits_90d": 10,
+    "last_commit_at": "2026-08-19T06:02:39Z",
+    "commits_90d": 11,
     "releases_365d": 2,
     "median_issue_close_days": 23.339548611111113,
     "median_pr_close_days": 0.44447916666666665,

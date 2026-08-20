@@ -1,10 +1,10 @@
 {
   "slug": "celeste3z/celeste_comment.nvim",
-  "fetched_at": "2026-08-19T04:01:46.604176192Z",
+  "fetched_at": "2026-08-20T04:08:28.912312915Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 28,
+    "stars": 29,
     "forks": 1,
     "description": "Batteries-included commenting plugin with supports of line comment, block comment, textobjects, real sticky cursor and more!",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "celeste3z",
       "account_created_at": "2017-09-28T11:22:56Z",
-      "other_repos_star_sum": 31
+      "other_repos_star_sum": 32
     },
     "has_ci": true,
     "has_tests": true,

@@ -1,6 +1,6 @@
 {
   "slug": "laktak/tome",
-  "fetched_at": "2026-08-19T04:09:55.297985385Z",
+  "fetched_at": "2026-08-20T04:33:42.836090460Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -8,15 +8,15 @@
     "forks": 4,
     "description": "🔁 Interactive Script playbooks for your terminal with Vim/Neovim (and Tmux)",
     "license_spdx": "MIT",
-    "last_commit_at": "2026-08-13T18:17:27Z",
-    "commits_90d": 2,
+    "last_commit_at": "2026-08-19T18:55:32Z",
+    "commits_90d": 3,
     "releases_365d": 0,
-    "median_issue_close_days": 23.263425925925926,
+    "median_issue_close_days": 27.177141203703705,
     "median_pr_close_days": 2.2505960648148147,
-    "open_issues": 1,
-    "closed_issues_sampled": 4,
+    "open_issues": 0,
+    "closed_issues_sampled": 5,
     "contributors_12mo": 2,
-    "top_author_commit_share": 0.8823529411764706,
+    "top_author_commit_share": 0.8888888888888888,
     "top_author": {
       "login": "laktak",
       "account_created_at": "2011-08-04T20:28:49Z",
@@ -24,6 +24,6 @@
     },
     "has_ci": true,
     "has_tests": false,
-    "readme_len": 7911
+    "readme_len": 8174
   }
 }

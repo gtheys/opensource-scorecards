@@ -1,6 +1,6 @@
 {
   "slug": "code-biscuits/nvim-biscuits",
-  "fetched_at": "2026-08-18T09:59:23.818384914Z",
+  "fetched_at": "2026-08-20T04:10:57.560819701Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "cmgriffing",
       "account_created_at": "2011-11-15T03:19:24Z",
-      "other_repos_star_sum": 511
+      "other_repos_star_sum": 510
     },
     "has_ci": false,
     "has_tests": false,

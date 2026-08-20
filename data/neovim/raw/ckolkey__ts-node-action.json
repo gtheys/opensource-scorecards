@@ -1,10 +1,10 @@
 {
   "slug": "ckolkey/ts-node-action",
-  "fetched_at": "2026-08-19T04:02:41.217106903Z",
+  "fetched_at": "2026-08-20T04:10:41.901799373Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 379,
+    "stars": 378,
     "forks": 22,
     "description": "Neovim Plugin for running functions on nodes.",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "CKolkey",
       "account_created_at": "2014-04-08T16:29:48Z",
-      "other_repos_star_sum": 444
+      "other_repos_star_sum": 443
     },
     "has_ci": true,
     "has_tests": true,

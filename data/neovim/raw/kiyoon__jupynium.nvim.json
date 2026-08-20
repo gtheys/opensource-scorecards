@@ -1,10 +1,10 @@
 {
   "slug": "kiyoon/jupynium.nvim",
-  "fetched_at": "2026-08-19T04:09:24.955904629Z",
+  "fetched_at": "2026-08-20T04:32:14.830089332Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 773,
+    "stars": 774,
     "forks": 16,
     "description": "Selenium-automated Jupyter Notebook that is synchronised with Neovim in real-time.",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "kiyoon",
       "account_created_at": "2015-06-20T17:30:29Z",
-      "other_repos_star_sum": 1221
+      "other_repos_star_sum": 1222
     },
     "has_ci": true,
     "has_tests": true,

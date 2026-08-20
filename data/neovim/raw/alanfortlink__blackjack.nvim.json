@@ -1,6 +1,6 @@
 {
   "slug": "alanfortlink/blackjack.nvim",
-  "fetched_at": "2026-08-19T03:59:44.017270811Z",
+  "fetched_at": "2026-08-20T04:01:55.932985077Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "Classic Black Jack game in Neovim",
     "license_spdx": "MIT",
     "last_commit_at": "2026-05-21T19:04:59Z",
-    "commits_90d": 1,
+    "commits_90d": 0,
     "releases_365d": 0,
     "median_issue_close_days": 1.7396064814814816,
     "median_pr_close_days": 3.204357638888889,

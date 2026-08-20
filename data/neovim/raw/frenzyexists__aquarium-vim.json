@@ -1,6 +1,6 @@
 {
   "slug": "frenzyexists/aquarium-vim",
-  "fetched_at": "2026-08-18T10:05:58.166679492Z",
+  "fetched_at": "2026-08-20T04:21:06.108854616Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "FrenzyExists",
       "account_created_at": "2019-02-25T17:05:08Z",
-      "other_repos_star_sum": 789
+      "other_repos_star_sum": 790
     },
     "has_ci": false,
     "has_tests": false,

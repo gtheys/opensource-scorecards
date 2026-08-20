@@ -1,29 +1,29 @@
 {
   "slug": "emrearmagan/atlas.nvim",
-  "fetched_at": "2026-08-18T10:03:33.489557652Z",
+  "fetched_at": "2026-08-20T04:17:39.900294259Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 215,
-    "forks": 14,
+    "stars": 217,
+    "forks": 15,
     "description": "A Neovim plugin to browse and manage pull requests and issues across GitHub, GitLab, Bitbucket, and Jira without leaving your editor.",
     "license_spdx": "MIT",
-    "last_commit_at": "2026-08-16T11:38:04Z",
-    "commits_90d": 88,
-    "releases_365d": 11,
-    "median_issue_close_days": 2.1208680555555555,
-    "median_pr_close_days": 0.21751157407407407,
+    "last_commit_at": "2026-08-19T19:51:04Z",
+    "commits_90d": 115,
+    "releases_365d": 13,
+    "median_issue_close_days": 2.94306712962963,
+    "median_pr_close_days": 0.3178877314814815,
     "open_issues": 10,
-    "closed_issues_sampled": 14,
+    "closed_issues_sampled": 16,
     "contributors_12mo": 9,
-    "top_author_commit_share": 0.9672489082969432,
+    "top_author_commit_share": 0.9690721649484536,
     "top_author": {
       "login": "emrearmagan",
       "account_created_at": "2018-11-14T15:26:44Z",
-      "other_repos_star_sum": 366
+      "other_repos_star_sum": 368
     },
     "has_ci": true,
     "has_tests": true,
-    "readme_len": 26351
+    "readme_len": 27225
   }
 }

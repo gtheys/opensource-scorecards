@@ -1,10 +1,10 @@
 {
   "slug": "dan7h3x/signup.nvim",
-  "fetched_at": "2026-08-18T10:00:55.846131035Z",
+  "fetched_at": "2026-08-20T04:13:23.780774604Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 65,
+    "stars": 66,
     "forks": 1,
     "description": "A little (smart maybe) lsp signature helper for neovim.",
     "license_spdx": "GPL-3.0",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "Dan7h3x",
       "account_created_at": "2023-01-23T08:19:43Z",
-      "other_repos_star_sum": 335
+      "other_repos_star_sum": 350
     },
     "has_ci": false,
     "has_tests": false,

@@ -1,11 +1,11 @@
 {
   "slug": "inhesrom/remote-ssh.nvim",
-  "fetched_at": "2026-08-18T10:08:48.981658991Z",
+  "fetched_at": "2026-08-20T04:26:01.435795647Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 128,
-    "forks": 6,
+    "stars": 129,
+    "forks": 7,
     "description": null,
     "license_spdx": "MIT",
     "last_commit_at": "2026-02-23T05:44:23Z",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "inhesrom",
       "account_created_at": "2020-02-24T00:54:46Z",
-      "other_repos_star_sum": 133
+      "other_repos_star_sum": 134
     },
     "has_ci": true,
     "has_tests": true,

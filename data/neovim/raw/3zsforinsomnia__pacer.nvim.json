@@ -1,6 +1,6 @@
 {
   "slug": "3zsforinsomnia/pacer.nvim",
-  "fetched_at": "2026-08-19T03:58:28.122396636Z",
+  "fetched_at": "2026-08-20T03:59:16.519377447Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "3ZsForInsomnia",
       "account_created_at": "2015-04-08T13:41:27Z",
-      "other_repos_star_sum": 42
+      "other_repos_star_sum": 41
     },
     "has_ci": false,
     "has_tests": true,

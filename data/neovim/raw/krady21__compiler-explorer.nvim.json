@@ -1,10 +1,10 @@
 {
   "slug": "krady21/compiler-explorer.nvim",
-  "fetched_at": "2026-08-18T10:12:55.845657620Z",
+  "fetched_at": "2026-08-20T04:33:09.838247647Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 194,
+    "stars": 195,
     "forks": 11,
     "description": "Run compilers and inspect assembly directly from Neovim with the help of https://godbolt.org",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "krady21",
       "account_created_at": "2018-10-09T13:00:38Z",
-      "other_repos_star_sum": 202
+      "other_repos_star_sum": 203
     },
     "has_ci": false,
     "has_tests": false,

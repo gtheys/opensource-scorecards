@@ -1,10 +1,10 @@
 {
   "slug": "0xstepit/flow.nvim",
-  "fetched_at": "2026-08-18T09:52:19.428235186Z",
+  "fetched_at": "2026-08-20T03:58:30.433284724Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 285,
+    "stars": 286,
     "forks": 9,
     "description": "A flow-immersive Nvim colorscheme with fluorescent details.",
     "license_spdx": "Apache-2.0",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "0xstepit",
       "account_created_at": "2019-03-27T14:02:18Z",
-      "other_repos_star_sum": 307
+      "other_repos_star_sum": 308
     },
     "has_ci": true,
     "has_tests": false,
