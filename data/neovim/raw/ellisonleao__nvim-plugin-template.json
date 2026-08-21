@@ -1,6 +1,6 @@
 {
   "slug": "ellisonleao/nvim-plugin-template",
-  "fetched_at": "2026-08-20T04:17:24.730715535Z",
+  "fetched_at": "2026-08-21T04:19:26.005110403Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "dmtrKovalenko",
       "account_created_at": "2016-01-27T19:57:58Z",
-      "other_repos_star_sum": 13320
+      "other_repos_star_sum": 13330
     },
     "has_ci": true,
     "has_tests": true,

@@ -282,6 +282,7 @@ repos:
   - danielpieper/telescope-tmuxinator.nvim
   - danymat/neogen
   - darazaki/indent-o-matic
+  - darkskittlz/gitcompanion
   - dasupradyumna/launch.nvim
   - dasupradyumna/midnight.nvim
   - datsfilipe/min-theme.nvim
@@ -742,7 +743,6 @@ repos:
   - mhartington/formatter.nvim
   - mhartington/oceanic-next
   - mhinz/vim-startify
-  - micdzu/aalto.nvim
   - michaelb/sniprun
   - miikanissi/modus-themes.nvim
   - mikavilpas/blink-ripgrep.nvim
@@ -934,7 +934,6 @@ repos:
   - olimorris/persisted.nvim
   - onlyati/quadlet-lsp.nvim
   - onsails/lspkind.nvim
-  - origincoderpulse/synapse.nvim
   - oscarcreator/rsync.nvim
   - oskarnurm/koda.nvim
   - ostralyan/scribe.nvim
@@ -1098,7 +1097,6 @@ repos:
   - scjangra/table-nvim
   - scottmckendry/cyberdream.nvim
   - sdras/night-owl-vscode-theme
-  - sduras/duras_bridge
   - seandewar/actually-doom.nvim
   - seandewar/killersheep.nvim
   - seandewar/nvimesweeper

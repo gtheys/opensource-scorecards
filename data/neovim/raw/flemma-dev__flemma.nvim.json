@@ -1,6 +1,6 @@
 {
   "slug": "flemma-dev/flemma.nvim",
-  "fetched_at": "2026-08-20T04:19:47.018558199Z",
+  "fetched_at": "2026-08-21T04:21:14.345228785Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "AI knowledge workbench for Neovim.",
     "license_spdx": "AGPL-3.0",
     "last_commit_at": "2026-07-29T19:23:34Z",
-    "commits_90d": 238,
+    "commits_90d": 236,
     "releases_365d": 14,
     "median_issue_close_days": 46.82615740740741,
     "median_pr_close_days": 0.005190972222222222,

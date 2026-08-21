@@ -1,10 +1,10 @@
 {
   "slug": "folke/drop.nvim",
-  "fetched_at": "2026-08-20T04:20:02.951990374Z",
+  "fetched_at": "2026-08-21T04:21:27.537667879Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 350,
+    "stars": 351,
     "forks": 14,
     "description": "🍁 Fun little plugin that can be used as a screensaver and on your dashboard",
     "license_spdx": "Apache-2.0",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "folke",
       "account_created_at": "2010-05-31T14:14:10Z",
-      "other_repos_star_sum": 41954
+      "other_repos_star_sum": 41961
     },
     "has_ci": true,
     "has_tests": false,
