@@ -1,6 +1,6 @@
 {
   "slug": "drkjeff16/project.nvim",
-  "fetched_at": "2026-08-21T04:18:19.133186079Z",
+  "fetched_at": "2026-08-22T04:10:24.275122892Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -10,7 +10,7 @@
     "license_spdx": "GPL-2.0",
     "last_commit_at": "2026-08-20T16:12:04Z",
     "commits_90d": 104,
-    "releases_365d": 91,
+    "releases_365d": 90,
     "median_issue_close_days": 0.2427951388888889,
     "median_pr_close_days": 0.006348379629629629,
     "open_issues": 2,

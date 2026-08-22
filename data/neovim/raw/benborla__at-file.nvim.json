@@ -1,6 +1,6 @@
 {
   "slug": "benborla/at-file.nvim",
-  "fetched_at": "2026-08-21T04:10:25.274829467Z",
+  "fetched_at": "2026-08-22T04:04:25.103698112Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "Type @ in insert mode to fuzzy-pick and insert a file path",
     "license_spdx": "MIT",
     "last_commit_at": "2026-05-23T10:35:31Z",
-    "commits_90d": 8,
+    "commits_90d": 0,
     "releases_365d": 0,
     "median_issue_close_days": null,
     "median_pr_close_days": null,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "benborla",
       "account_created_at": "2016-10-10T12:05:49Z",
-      "other_repos_star_sum": 2092
+      "other_repos_star_sum": 2097
     },
     "has_ci": false,
     "has_tests": false,

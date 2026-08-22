@@ -1,6 +1,6 @@
 {
   "slug": "cljoly/telescope-repo.nvim",
-  "fetched_at": "2026-08-21T04:14:08.202512507Z",
+  "fetched_at": "2026-08-22T04:07:17.051954180Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "🦘 Jump into the repositories (git, mercurial…) of your filesystem with telescope.nvim, without any setup",
     "license_spdx": "MIT",
     "last_commit_at": "2026-05-24T00:55:54Z",
-    "commits_90d": 11,
+    "commits_90d": 0,
     "releases_365d": 0,
     "median_issue_close_days": 23.834351851851853,
     "median_pr_close_days": 0.801863425925926,

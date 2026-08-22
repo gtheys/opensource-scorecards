@@ -1,6 +1,6 @@
 {
   "slug": "f-person/auto-dark-mode.nvim",
-  "fetched_at": "2026-08-21T04:20:31.016253620Z",
+  "fetched_at": "2026-08-22T04:12:09.174564623Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "FineFindus",
       "account_created_at": "2020-04-08T19:15:49Z",
-      "other_repos_star_sum": 839
+      "other_repos_star_sum": 840
     },
     "has_ci": true,
     "has_tests": true,

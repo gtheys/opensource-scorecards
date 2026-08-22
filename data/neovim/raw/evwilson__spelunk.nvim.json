@@ -1,10 +1,10 @@
 {
   "slug": "evwilson/spelunk.nvim",
-  "fetched_at": "2026-08-21T04:20:26.516023113Z",
+  "fetched_at": "2026-08-22T04:12:05.534406937Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 150,
+    "stars": 149,
     "forks": 8,
     "description": "Create and manage bookmarks as stacks in Neovim with a friendly UI.",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "EvWilson",
       "account_created_at": "2016-05-21T18:33:22Z",
-      "other_repos_star_sum": 208
+      "other_repos_star_sum": 207
     },
     "has_ci": false,
     "has_tests": false,
