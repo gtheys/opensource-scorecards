@@ -1,10 +1,10 @@
 {
   "slug": "f-person/auto-dark-mode.nvim",
-  "fetched_at": "2026-08-22T04:12:09.174564623Z",
+  "fetched_at": "2026-08-23T04:16:31.569012363Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 504,
+    "stars": 503,
     "forks": 35,
     "description": "A Neovim plugin for macOS, Linux & Windows that automatically changes the editor appearance based on system settings.",
     "license_spdx": "GPL-3.0",

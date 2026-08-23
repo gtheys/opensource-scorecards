@@ -1,11 +1,11 @@
 {
   "slug": "joryeugene/dadbod-grip.nvim",
-  "fetched_at": "2026-08-22T04:18:34.498300218Z",
+  "fetched_at": "2026-08-23T04:22:45.200766405Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 164,
-    "forks": 5,
+    "stars": 165,
+    "forks": 6,
     "description": "Edit database tables like Vim buffers. Staged mutations + live SQL preview, transaction undo, schema browser + ER diagrams + DDL, FK navigation, cross-database federation, data profiling, SQL notebooks, AI SQL via Anthropic/OpenAI/Gemini/Ollama, Parquet/CSV/remote files. PostgreSQL · SQLite · MySQL · DuckDB · MotherDuck",
     "license_spdx": "MIT",
     "last_commit_at": "2026-07-31T20:28:46Z",
@@ -13,7 +13,7 @@
     "releases_365d": 27,
     "median_issue_close_days": 2.7851157407407405,
     "median_pr_close_days": 0.001099537037037037,
-    "open_issues": 5,
+    "open_issues": 9,
     "closed_issues_sampled": 19,
     "contributors_12mo": 4,
     "top_author_commit_share": 0.5025773195876289,

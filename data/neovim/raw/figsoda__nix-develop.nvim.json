@@ -1,6 +1,6 @@
 {
   "slug": "figsoda/nix-develop.nvim",
-  "fetched_at": "2026-08-22T04:12:29.538774905Z",
+  "fetched_at": "2026-08-23T04:16:50.278069947Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "figsoda",
       "account_created_at": "2018-06-27T04:49:00Z",
-      "other_repos_star_sum": 708
+      "other_repos_star_sum": 707
     },
     "has_ci": false,
     "has_tests": false,

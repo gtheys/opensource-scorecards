@@ -1,10 +1,10 @@
 {
   "slug": "atomicptr/defold.nvim",
-  "fetched_at": "2026-08-22T04:03:17.970837903Z",
+  "fetched_at": "2026-08-23T04:07:35.721560440Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 34,
+    "stars": 35,
     "forks": 2,
     "description": "Batteries-included development environment for the Defold game engine, powered by Neovim",
     "license_spdx": "GPL-3.0",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "atomicptr",
       "account_created_at": "2011-03-17T08:41:35Z",
-      "other_repos_star_sum": 350
+      "other_repos_star_sum": 352
     },
     "has_ci": true,
     "has_tests": false,

@@ -1,10 +1,10 @@
 {
   "slug": "gfanto/fzf-lsp.nvim",
-  "fetched_at": "2026-08-22T04:14:12.955511604Z",
+  "fetched_at": "2026-08-23T04:18:29.364979139Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 239,
+    "stars": 238,
     "forks": 15,
     "description": "Enable the power of fzf fuzzy search for the neovim built in lsp",
     "license_spdx": "MIT",

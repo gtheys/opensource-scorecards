@@ -1,6 +1,6 @@
 {
   "slug": "cxwx/lazyurlupdate.nvim",
-  "fetched_at": "2026-08-22T04:08:33.915810509Z",
+  "fetched_at": "2026-08-23T04:12:54.016382331Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "a neovim plug for easy update plugins using lazy.nvim",
     "license_spdx": "MIT",
     "last_commit_at": "2026-07-21T12:03:40Z",
-    "commits_90d": 6,
+    "commits_90d": 5,
     "releases_365d": 0,
     "median_issue_close_days": 0.00005787037037037037,
     "median_pr_close_days": null,

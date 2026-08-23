@@ -1,10 +1,10 @@
 {
   "slug": "dimtion/guttermarks.nvim",
-  "fetched_at": "2026-08-22T04:09:34.785357768Z",
+  "fetched_at": "2026-08-23T04:13:56.227974566Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 56,
+    "stars": 57,
     "forks": 7,
     "description": "Neovim plugin to display Marks in the gutter",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "dimtion",
       "account_created_at": "2012-07-12T16:39:54Z",
-      "other_repos_star_sum": 189
+      "other_repos_star_sum": 190
     },
     "has_ci": true,
     "has_tests": true,

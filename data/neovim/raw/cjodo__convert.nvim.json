@@ -1,10 +1,10 @@
 {
   "slug": "cjodo/convert.nvim",
-  "fetched_at": "2026-08-22T04:07:06.020174583Z",
+  "fetched_at": "2026-08-23T04:11:28.551395446Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 58,
+    "stars": 57,
     "forks": 1,
     "description": "A Neovim plugin to help with css unit, and number conversions.",
     "license_spdx": "GPL-3.0",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "cjodo",
       "account_created_at": "2023-03-05T00:01:42Z",
-      "other_repos_star_sum": 69
+      "other_repos_star_sum": 68
     },
     "has_ci": true,
     "has_tests": true,
