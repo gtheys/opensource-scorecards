@@ -1,11 +1,11 @@
 {
   "slug": "b0o/incline.nvim",
-  "fetched_at": "2026-08-23T04:08:07.536024447Z",
+  "fetched_at": "2026-08-24T04:12:46.731878088Z",
   "status": "ok",
   "data": {
     "archived": false,
     "stars": 1047,
-    "forks": 20,
+    "forks": 21,
     "description": "🎈 Floating statuslines for Neovim",
     "license_spdx": "MIT",
     "last_commit_at": "2026-05-07T13:15:39Z",
@@ -13,7 +13,7 @@
     "releases_365d": 0,
     "median_issue_close_days": 10.91318287037037,
     "median_pr_close_days": 4.033136574074074,
-    "open_issues": 10,
+    "open_issues": 11,
     "closed_issues_sampled": 39,
     "contributors_12mo": 1,
     "top_author_commit_share": 1.0,

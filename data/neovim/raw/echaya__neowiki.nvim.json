@@ -1,6 +1,6 @@
 {
   "slug": "echaya/neowiki.nvim",
-  "fetched_at": "2026-08-23T04:15:26.073482109Z",
+  "fetched_at": "2026-08-24T04:21:54.710005725Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -15,8 +15,8 @@
     "median_pr_close_days": 0.3161631944444444,
     "open_issues": 1,
     "closed_issues_sampled": 10,
-    "contributors_12mo": 2,
-    "top_author_commit_share": 0.96,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
     "top_author": {
       "login": "echaya",
       "account_created_at": "2017-12-04T22:57:10Z",

@@ -1,6 +1,6 @@
 {
   "slug": "drkjeff16/project.nvim",
-  "fetched_at": "2026-08-23T04:14:49.873928148Z",
+  "fetched_at": "2026-08-24T04:21:10.950940811Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -8,9 +8,9 @@
     "forks": 13,
     "description": "Actively maintained fork of ahmedkhalf/project.nvim. Detects and chdirs to the project root, with its own UI, provides lualine component, supports oil.nvim, includes pickers for telescope, snacks, fzf-lua, and picker.nvim.",
     "license_spdx": "GPL-2.0",
-    "last_commit_at": "2026-08-22T14:31:16Z",
-    "commits_90d": 107,
-    "releases_365d": 91,
+    "last_commit_at": "2026-08-24T02:10:57Z",
+    "commits_90d": 109,
+    "releases_365d": 90,
     "median_issue_close_days": 0.2427951388888889,
     "median_pr_close_days": 0.006348379629629629,
     "open_issues": 2,

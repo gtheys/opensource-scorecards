@@ -1,6 +1,6 @@
 {
   "slug": "bekaboo/deadcolumn.nvim",
-  "fetched_at": "2026-08-23T04:08:38.417554736Z",
+  "fetched_at": "2026-08-24T04:13:24.721237770Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "Bekaboo",
       "account_created_at": "2020-12-25T06:20:27Z",
-      "other_repos_star_sum": 2199
+      "other_repos_star_sum": 2200
     },
     "has_ci": true,
     "has_tests": false,

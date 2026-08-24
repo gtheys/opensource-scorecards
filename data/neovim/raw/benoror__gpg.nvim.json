@@ -1,6 +1,6 @@
 {
   "slug": "benoror/gpg.nvim",
-  "fetched_at": "2026-08-23T04:08:54.376288496Z",
+  "fetched_at": "2026-08-24T04:13:45.161662454Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "benoror",
       "account_created_at": "2009-08-25T02:37:08Z",
-      "other_repos_star_sum": 984
+      "other_repos_star_sum": 985
     },
     "has_ci": true,
     "has_tests": true,
