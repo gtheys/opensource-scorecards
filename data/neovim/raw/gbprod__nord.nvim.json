@@ -1,10 +1,10 @@
 {
   "slug": "gbprod/nord.nvim",
-  "fetched_at": "2026-08-24T04:25:14.928980739Z",
+  "fetched_at": "2026-08-25T04:19:25.252886306Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 312,
+    "stars": 311,
     "forks": 32,
     "description": " An arctic, north-bluish clean and elegant Neovim theme. ",
     "license_spdx": "WTFPL",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "gbprod",
       "account_created_at": "2013-03-02T20:23:41Z",
-      "other_repos_star_sum": 3070
+      "other_repos_star_sum": 3069
     },
     "has_ci": true,
     "has_tests": false,

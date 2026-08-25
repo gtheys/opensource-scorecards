@@ -1,12 +1,12 @@
 {
   "slug": "leolaurindo/tunnelvision.nvim",
-  "fetched_at": "2026-08-24T04:35:09.298145168Z",
+  "fetched_at": "2026-08-25T04:28:19.832730670Z",
   "status": "ok",
   "data": {
     "archived": false,
     "stars": 36,
     "forks": 0,
-    "description": "TunnelVision.nvim dims unrelated lines to keep you focused on the targeted symbol.",
+    "description": "tunnelvision.nvim dims unrelated lines to keep you focused on the targeted symbol.",
     "license_spdx": "MIT",
     "last_commit_at": "2026-07-30T06:03:51Z",
     "commits_90d": 70,

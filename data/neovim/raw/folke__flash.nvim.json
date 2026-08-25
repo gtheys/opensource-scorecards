@@ -1,6 +1,6 @@
 {
   "slug": "folke/flash.nvim",
-  "fetched_at": "2026-08-24T04:24:16.514315505Z",
+  "fetched_at": "2026-08-25T04:18:29.003868623Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "folke",
       "account_created_at": "2010-05-31T14:14:10Z",
-      "other_repos_star_sum": 41970
+      "other_repos_star_sum": 41969
     },
     "has_ci": true,
     "has_tests": true,

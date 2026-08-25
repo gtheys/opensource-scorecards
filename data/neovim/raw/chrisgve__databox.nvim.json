@@ -1,6 +1,6 @@
 {
   "slug": "chrisgve/databox.nvim",
-  "fetched_at": "2026-08-24T04:16:35.583311413Z",
+  "fetched_at": "2026-08-25T04:11:00.145234843Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "Simple encrypted databox plugin for neovim",
     "license_spdx": "Apache-2.0",
     "last_commit_at": "2026-05-26T08:57:38Z",
-    "commits_90d": 2,
+    "commits_90d": 0,
     "releases_365d": 0,
     "median_issue_close_days": null,
     "median_pr_close_days": null,

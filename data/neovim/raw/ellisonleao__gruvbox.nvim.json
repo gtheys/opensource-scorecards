@@ -1,6 +1,6 @@
 {
   "slug": "ellisonleao/gruvbox.nvim",
-  "fetched_at": "2026-08-24T04:22:13.121717285Z",
+  "fetched_at": "2026-08-25T04:16:18.825051985Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "ellisonleao",
       "account_created_at": "2010-01-08T16:40:45Z",
-      "other_repos_star_sum": 26511
+      "other_repos_star_sum": 26514
     },
     "has_ci": true,
     "has_tests": true,

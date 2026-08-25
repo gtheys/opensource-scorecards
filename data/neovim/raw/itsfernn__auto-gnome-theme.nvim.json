@@ -1,10 +1,10 @@
 {
   "slug": "itsfernn/auto-gnome-theme.nvim",
-  "fetched_at": "2026-08-24T04:29:17.516045930Z",
+  "fetched_at": "2026-08-25T04:23:06.606614006Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 15,
+    "stars": 16,
     "forks": 1,
     "description": null,
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "itsfernn",
       "account_created_at": "2020-11-10T16:56:52Z",
-      "other_repos_star_sum": 66
+      "other_repos_star_sum": 67
     },
     "has_ci": false,
     "has_tests": false,

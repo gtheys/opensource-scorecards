@@ -1,6 +1,6 @@
 {
   "slug": "embark-theme/vim",
-  "fetched_at": "2026-08-24T04:22:18.452448776Z",
+  "fetched_at": "2026-08-25T04:16:24.307748582Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "DrKJeff16",
       "account_created_at": "2020-09-29T00:05:14Z",
-      "other_repos_star_sum": 265
+      "other_repos_star_sum": 267
     },
     "has_ci": false,
     "has_tests": false,
