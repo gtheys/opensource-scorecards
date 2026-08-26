@@ -1,10 +1,10 @@
 {
   "slug": "ahkohd/buffer-sticks.nvim",
-  "fetched_at": "2026-08-25T04:05:00.736863913Z",
+  "fetched_at": "2026-08-26T04:08:51.656473830Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 85,
+    "stars": 86,
     "forks": 11,
     "description": "Elegant buffer indicator and picker",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "ahkohd",
       "account_created_at": "2015-06-25T00:39:28Z",
-      "other_repos_star_sum": 3399
+      "other_repos_star_sum": 3401
     },
     "has_ci": false,
     "has_tests": false,

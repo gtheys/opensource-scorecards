@@ -1,11 +1,11 @@
 {
   "slug": "iquzart/toggleword.nvim",
-  "fetched_at": "2026-08-25T04:22:49.792284840Z",
+  "fetched_at": "2026-08-26T04:25:39.938445829Z",
   "status": "ok",
   "data": {
     "archived": false,
     "stars": 4,
-    "forks": 1,
+    "forks": 0,
     "description": "Smart word toggling under the cursor for Neovim",
     "license_spdx": "MIT",
     "last_commit_at": null,

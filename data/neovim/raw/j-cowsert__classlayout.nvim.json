@@ -1,10 +1,10 @@
 {
   "slug": "j-cowsert/classlayout.nvim",
-  "fetched_at": "2026-08-25T04:23:12.644085468Z",
+  "fetched_at": "2026-08-26T04:26:01.016873819Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 61,
+    "stars": 62,
     "forks": 4,
     "description": "Neovim plugin to visualize C/C++ class/struct memory layouts using clang",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "J-Cowsert",
       "account_created_at": "2023-10-17T14:35:44Z",
-      "other_repos_star_sum": 61
+      "other_repos_star_sum": 62
     },
     "has_ci": false,
     "has_tests": false,

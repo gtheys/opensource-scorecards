@@ -1,6 +1,6 @@
 {
   "slug": "kkew3/jieba.vim",
-  "fetched_at": "2026-08-25T04:27:04.376830438Z",
+  "fetched_at": "2026-08-26T04:29:40.369949634Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "基于 jieba 的 Vim/Nvim 按词跳转插件",
     "license_spdx": "Apache-2.0",
     "last_commit_at": "2026-08-24T15:50:40Z",
-    "commits_90d": 159,
+    "commits_90d": 147,
     "releases_365d": 5,
     "median_issue_close_days": 61.037390046296295,
     "median_pr_close_days": 0.08265625,

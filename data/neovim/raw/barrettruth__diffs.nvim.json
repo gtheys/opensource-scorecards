@@ -1,15 +1,15 @@
 {
   "slug": "barrettruth/diffs.nvim",
-  "fetched_at": "2026-08-25T04:07:56.578778322Z",
+  "fetched_at": "2026-08-26T04:11:30.642672159Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 197,
+    "stars": 196,
     "forks": 4,
     "description": "treesitter syntax highlighting for diffs",
     "license_spdx": "MIT",
     "last_commit_at": "2026-08-17T10:20:28Z",
-    "commits_90d": 49,
+    "commits_90d": 48,
     "releases_365d": 0,
     "median_issue_close_days": 0.8603877314814815,
     "median_pr_close_days": 0.007482638888888889,

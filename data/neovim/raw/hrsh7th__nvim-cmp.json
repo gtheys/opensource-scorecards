@@ -1,11 +1,11 @@
 {
   "slug": "hrsh7th/nvim-cmp",
-  "fetched_at": "2026-08-25T04:21:57.081333757Z",
+  "fetched_at": "2026-08-26T04:24:50.285573742Z",
   "status": "ok",
   "data": {
     "archived": false,
     "stars": 9478,
-    "forks": 436,
+    "forks": 437,
     "description": "A completion plugin for neovim coded in Lua.",
     "license_spdx": "MIT",
     "last_commit_at": "2026-07-09T23:57:42Z",

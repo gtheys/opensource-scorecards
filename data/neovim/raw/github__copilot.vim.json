@@ -1,6 +1,6 @@
 {
   "slug": "github/copilot.vim",
-  "fetched_at": "2026-08-25T04:20:21.309745907Z",
+  "fetched_at": "2026-08-26T04:23:16.475512092Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "tpope",
       "account_created_at": "2008-02-18T18:08:55Z",
-      "other_repos_star_sum": 108239
+      "other_repos_star_sum": 108242
     },
     "has_ci": true,
     "has_tests": false,

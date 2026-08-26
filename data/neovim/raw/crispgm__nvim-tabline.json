@@ -1,10 +1,10 @@
 {
   "slug": "crispgm/nvim-tabline",
-  "fetched_at": "2026-08-25T04:12:13.799699817Z",
+  "fetched_at": "2026-08-26T04:15:28.744926858Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 97,
+    "stars": 94,
     "forks": 19,
     "description": "nvim port of tabline.vim with Lua",
     "license_spdx": "MIT",

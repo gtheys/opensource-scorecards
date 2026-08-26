@@ -1,6 +1,6 @@
 {
   "slug": "igorlfs/nvim-dap-view",
-  "fetched_at": "2026-08-25T04:22:21.396080881Z",
+  "fetched_at": "2026-08-26T04:25:13.768869790Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -8,15 +8,15 @@
     "forks": 36,
     "description": "Visualize debugging sessions in neovim",
     "license_spdx": "GPL-3.0",
-    "last_commit_at": "2026-08-25T00:18:16Z",
-    "commits_90d": 13,
+    "last_commit_at": "2026-08-25T13:27:57Z",
+    "commits_90d": 14,
     "releases_365d": 6,
-    "median_issue_close_days": 3.72953125,
+    "median_issue_close_days": 3.2336689814814816,
     "median_pr_close_days": 1.950763888888889,
     "open_issues": 11,
     "closed_issues_sampled": 30,
     "contributors_12mo": 10,
-    "top_author_commit_share": 0.9508196721311475,
+    "top_author_commit_share": 0.9510869565217391,
     "top_author": {
       "login": "igorlfs",
       "account_created_at": "2021-05-23T01:35:09Z",

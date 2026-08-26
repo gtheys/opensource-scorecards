@@ -1,10 +1,10 @@
 {
   "slug": "ggandor/flit.nvim",
-  "fetched_at": "2026-08-25T04:19:57.511730380Z",
+  "fetched_at": "2026-08-26T04:22:52.545532117Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 411,
+    "stars": 412,
     "forks": 16,
     "description": "Enhanced f/t motions for Leap",
     "license_spdx": "Unlicense",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "ggandor",
       "account_created_at": "2016-03-12T16:42:18Z",
-      "other_repos_star_sum": 7393
+      "other_repos_star_sum": 7394
     },
     "has_ci": false,
     "has_tests": false,

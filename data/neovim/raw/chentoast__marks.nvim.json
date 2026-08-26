@@ -1,11 +1,11 @@
 {
   "slug": "chentoast/marks.nvim",
-  "fetched_at": "2026-08-25T04:10:02.983333721Z",
+  "fetched_at": "2026-08-26T04:13:27.176078162Z",
   "status": "ok",
   "data": {
     "archived": false,
     "stars": 1183,
-    "forks": 54,
+    "forks": 55,
     "description": "A better user experience for viewing and interacting with Vim marks.",
     "license_spdx": "MIT",
     "last_commit_at": null,

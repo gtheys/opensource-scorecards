@@ -1,6 +1,6 @@
 {
   "slug": "iron-e/nvim-highlite",
-  "fetched_at": "2026-08-25T04:22:52.800039795Z",
+  "fetched_at": "2026-08-26T04:25:42.826598298Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -8,8 +8,8 @@
     "forks": 29,
     "description": "A colorscheme generator that is \"lite\" on logic for the developer.",
     "license_spdx": "NOASSERTION",
-    "last_commit_at": "2026-06-17T01:37:47Z",
-    "commits_90d": 2,
+    "last_commit_at": "2026-08-25T16:50:40Z",
+    "commits_90d": 3,
     "releases_365d": 0,
     "median_issue_close_days": 3.113414351851852,
     "median_pr_close_days": 0.21447916666666667,

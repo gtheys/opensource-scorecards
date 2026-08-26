@@ -1,6 +1,6 @@
 {
   "slug": "julwrites/llm-nvim",
-  "fetched_at": "2026-08-25T04:25:19.785506977Z",
+  "fetched_at": "2026-08-26T04:27:58.416696956Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -12,11 +12,11 @@
     "commits_90d": 2,
     "releases_365d": 0,
     "median_issue_close_days": null,
-    "median_pr_close_days": 0.0006018518518518519,
+    "median_pr_close_days": 0.0006076388888888889,
     "open_issues": 4,
     "closed_issues_sampled": 0,
-    "contributors_12mo": 2,
-    "top_author_commit_share": 0.8,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
     "top_author": {
       "login": "julwrites",
       "account_created_at": "2016-04-24T07:19:03Z",

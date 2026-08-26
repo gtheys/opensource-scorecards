@@ -1,11 +1,11 @@
 {
   "slug": "jbyuki/venn.nvim",
-  "fetched_at": "2026-08-25T04:23:50.162211888Z",
+  "fetched_at": "2026-08-26T04:26:34.912014399Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 1181,
-    "forks": 28,
+    "stars": 1182,
+    "forks": 29,
     "description": "Draw ASCII diagrams in Neovim",
     "license_spdx": "MIT",
     "last_commit_at": null,

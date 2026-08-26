@@ -1,11 +1,11 @@
 {
   "slug": "indium114/unobtrusive-relnums.nvim",
-  "fetched_at": "2026-08-25T04:22:37.962613012Z",
+  "fetched_at": "2026-08-26T04:25:29.364469389Z",
   "status": "ok",
   "data": {
     "archived": false,
     "stars": 13,
-    "forks": 1,
+    "forks": 0,
     "description": "A Neovim plugin that adds unobtrusive relative line numbers to the sign column.",
     "license_spdx": "MIT",
     "last_commit_at": "2026-06-26T08:08:32Z",
