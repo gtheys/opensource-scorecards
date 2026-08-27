@@ -1,15 +1,15 @@
 {
   "slug": "alex-popov-tech/store.nvim",
-  "fetched_at": "2026-08-26T04:09:26.223002925Z",
+  "fetched_at": "2026-08-27T14:18:29.769692234Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 370,
+    "stars": 371,
     "forks": 6,
     "description": "🤖 6200+ neovim plugins database with automatic installation! 🚀",
     "license_spdx": "MIT",
     "last_commit_at": "2026-07-22T06:31:18Z",
-    "commits_90d": 3,
+    "commits_90d": 2,
     "releases_365d": 0,
     "median_issue_close_days": 1.8045196759259259,
     "median_pr_close_days": 0.09305555555555556,

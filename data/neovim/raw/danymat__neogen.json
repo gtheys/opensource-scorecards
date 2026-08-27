@@ -1,6 +1,6 @@
 {
   "slug": "danymat/neogen",
-  "fetched_at": "2026-08-25T04:13:20.801551098Z",
+  "fetched_at": "2026-08-27T14:30:17.205568696Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "jonathf",
       "account_created_at": "2011-11-02T12:59:35Z",
-      "other_repos_star_sum": 713
+      "other_repos_star_sum": 714
     },
     "has_ci": true,
     "has_tests": true,

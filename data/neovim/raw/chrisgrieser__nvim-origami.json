@@ -1,6 +1,6 @@
 {
   "slug": "chrisgrieser/nvim-origami",
-  "fetched_at": "2026-08-26T04:13:55.897649415Z",
+  "fetched_at": "2026-08-27T14:26:02.508314778Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -11,16 +11,16 @@
     "last_commit_at": "2026-07-06T19:12:11Z",
     "commits_90d": 4,
     "releases_365d": 0,
-    "median_issue_close_days": 0.17949074074074073,
-    "median_pr_close_days": 0.05753472222222222,
-    "open_issues": 4,
-    "closed_issues_sampled": 24,
+    "median_issue_close_days": 0.18178240740740742,
+    "median_pr_close_days": 0.07165509259259259,
+    "open_issues": 3,
+    "closed_issues_sampled": 23,
     "contributors_12mo": 6,
     "top_author_commit_share": 0.8771929824561403,
     "top_author": {
       "login": "chrisgrieser",
       "account_created_at": "2020-10-22T10:50:35Z",
-      "other_repos_star_sum": 8790
+      "other_repos_star_sum": 8794
     },
     "has_ci": true,
     "has_tests": false,

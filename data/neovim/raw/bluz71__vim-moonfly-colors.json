@@ -1,10 +1,10 @@
 {
   "slug": "bluz71/vim-moonfly-colors",
-  "fetched_at": "2026-08-26T04:12:25.445568502Z",
+  "fetched_at": "2026-08-27T14:23:32.739057200Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 1321,
+    "stars": 1322,
     "forks": 75,
     "description": "A dark charcoal theme for modern Neovim & classic Vim",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "bluz71",
       "account_created_at": "2015-03-09T02:07:02Z",
-      "other_repos_star_sum": 2670
+      "other_repos_star_sum": 2672
     },
     "has_ci": false,
     "has_tests": false,

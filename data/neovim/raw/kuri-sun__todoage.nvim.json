@@ -1,6 +1,6 @@
 {
   "slug": "kuri-sun/todoage.nvim",
-  "fetched_at": "2026-08-26T04:30:16.077390095Z",
+  "fetched_at": "2026-08-27T14:49:30.662396922Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "shows how old your TODOs are.",
     "license_spdx": "MIT",
     "last_commit_at": "2026-06-28T19:20:29Z",
-    "commits_90d": 21,
+    "commits_90d": 20,
     "releases_365d": 10,
     "median_issue_close_days": 0.8598668981481482,
     "median_pr_close_days": 0.003993055555555555,

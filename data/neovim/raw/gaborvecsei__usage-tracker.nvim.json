@@ -1,10 +1,10 @@
 {
   "slug": "gaborvecsei/usage-tracker.nvim",
-  "fetched_at": "2026-08-26T04:22:17.676598966Z",
+  "fetched_at": "2026-08-27T14:38:26.179947444Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 144,
+    "stars": 145,
     "forks": 4,
     "description": "NeoVim plugin with which you can track the time you spent on files, projects, repos, filetypes",
     "license_spdx": "MIT",
