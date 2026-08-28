@@ -1,6 +1,6 @@
 {
   "slug": "kohei-wada/yadm-git.nvim",
-  "fetched_at": "2026-08-27T14:48:53.921101318Z",
+  "fetched_at": "2026-08-28T15:53:39.890906310Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "Kohei-Wada",
       "account_created_at": "2020-04-20T09:41:40Z",
-      "other_repos_star_sum": 494
+      "other_repos_star_sum": 496
     },
     "has_ci": true,
     "has_tests": true,

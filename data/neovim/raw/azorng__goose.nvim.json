@@ -1,6 +1,6 @@
 {
   "slug": "azorng/goose.nvim",
-  "fetched_at": "2026-08-27T14:21:23.399755608Z",
+  "fetched_at": "2026-08-28T15:29:25.234844341Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "azorng",
       "account_created_at": "2017-05-11T13:29:42Z",
-      "other_repos_star_sum": 472
+      "other_repos_star_sum": 470
     },
     "has_ci": false,
     "has_tests": true,

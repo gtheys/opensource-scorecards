@@ -172,9 +172,9 @@ repos:
   - brianaung/compl.nvim
   - brianhuster/live-preview.nvim
   - bronzowl/codux.nvim
-  - brunociccarino/gardenal
   - bydlw98/blink-cmp-env
   - bydlw98/blink-cmp-sshconfig
+  - bytehound-labs/nvim-flow
   - calind/selenized.nvim
   - calops/hmts.nvim
   - camdenclark/flyboy
@@ -747,7 +747,6 @@ repos:
   - miikanissi/modus-themes.nvim
   - mikavilpas/blink-ripgrep.nvim
   - mikavilpas/yazi.nvim
-  - mikeboiko/nvim-flow
   - mikesmithgh/git-prompt-string-lualine.nvim
   - mikesmithgh/kitty-scrollback.nvim
   - milanglacier/minuet-ai.nvim

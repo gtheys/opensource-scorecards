@@ -1,6 +1,6 @@
 {
   "slug": "davidyz/vectorcode",
-  "fetched_at": "2026-08-27T14:30:52.031748981Z",
+  "fetched_at": "2026-08-28T15:37:02.351163447Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -10,13 +10,13 @@
     "license_spdx": "MIT",
     "last_commit_at": "2025-12-26T10:10:07Z",
     "commits_90d": 0,
-    "releases_365d": 6,
+    "releases_365d": 5,
     "median_issue_close_days": 2.617962962962963,
     "median_pr_close_days": 0.9413194444444445,
     "open_issues": 19,
     "closed_issues_sampled": 11,
     "contributors_12mo": 4,
-    "top_author_commit_share": 0.8333333333333334,
+    "top_author_commit_share": 0.8,
     "top_author": {
       "login": "Davidyz",
       "account_created_at": "2017-08-12T09:41:13Z",

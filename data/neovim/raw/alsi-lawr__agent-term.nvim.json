@@ -1,6 +1,6 @@
 {
   "slug": "alsi-lawr/agent-term.nvim",
-  "fetched_at": "2026-08-27T14:18:49.968044471Z",
+  "fetched_at": "2026-08-28T15:27:20.350666820Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "Run agentic TUIs inside Neovim with persistent float/panel views and editor-context helpers.",
     "license_spdx": "MIT",
     "last_commit_at": "2026-07-23T01:00:05Z",
-    "commits_90d": 54,
+    "commits_90d": 35,
     "releases_365d": 2,
     "median_issue_close_days": 0.06139467592592593,
     "median_pr_close_days": 0.002025462962962963,
