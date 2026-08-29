@@ -1,0 +1,25 @@
+{
+  "slug": "toppair/peek.nvim",
+  "fetched_at": "2026-08-29T10:31:41.962486349Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 872,
+    "forks": 90,
+    "description": "Markdown preview plugin for Neovim",
+    "license_spdx": "MIT",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 52.16324074074074,
+    "median_pr_close_days": 50.3753125,
+    "open_issues": 39,
+    "closed_issues_sampled": 31,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 3588
+  }
+}

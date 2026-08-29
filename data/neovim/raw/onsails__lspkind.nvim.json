@@ -1,10 +1,10 @@
 {
   "slug": "onsails/lspkind.nvim",
-  "fetched_at": "2026-08-19T04:17:07.639215139Z",
+  "fetched_at": "2026-08-29T10:18:47.839106832Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 1691,
+    "stars": 1694,
     "forks": 40,
     "description": "VS Code–style pictograms for Neovim completion items",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "eeeXun",
       "account_created_at": "2019-12-08T12:48:44Z",
-      "other_repos_star_sum": 309
+      "other_repos_star_sum": 308
     },
     "has_ci": false,
     "has_tests": false,

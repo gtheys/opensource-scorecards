@@ -1,6 +1,6 @@
 {
   "slug": "romgrk/barbar.nvim",
-  "fetched_at": "2026-08-19T04:21:43.455370912Z",
+  "fetched_at": "2026-08-29T10:23:28.653359456Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "romgrk",
       "account_created_at": "2012-02-09T16:45:39Z",
-      "other_repos_star_sum": 3677
+      "other_repos_star_sum": 3678
     },
     "has_ci": true,
     "has_tests": false,

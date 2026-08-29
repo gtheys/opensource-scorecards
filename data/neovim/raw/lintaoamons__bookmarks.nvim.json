@@ -1,6 +1,6 @@
 {
   "slug": "lintaoamons/bookmarks.nvim",
-  "fetched_at": "2026-08-19T04:10:27.240900090Z",
+  "fetched_at": "2026-08-29T10:06:55.978980214Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "Persistent bookmarks: hard disk of your thoughts",
     "license_spdx": "MIT",
     "last_commit_at": "2026-07-10T04:20:15Z",
-    "commits_90d": 4,
+    "commits_90d": 1,
     "releases_365d": 1,
     "median_issue_close_days": 7.333912037037037,
     "median_pr_close_days": 0.0635300925925926,

@@ -1,0 +1,25 @@
+{
+  "slug": "winston0410/commented.nvim",
+  "fetched_at": "2026-08-29T10:33:57.481714647Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 114,
+    "forks": 2,
+    "description": "Neovim commenting plugin in Lua. Support operator, motions and more than 60 languages! :fire:",
+    "license_spdx": "MIT",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 0.9261921296296296,
+    "median_pr_close_days": 0.4337615740740741,
+    "open_issues": 4,
+    "closed_issues_sampled": 10,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 5584
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "vidocqh/lsp-lens.nvim",
+  "fetched_at": "2026-08-29T10:32:45.831215551Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 323,
+    "forks": 27,
+    "description": "Neovim plugin for displaying references and difinition infos upon functions like JB's IDEA.",
+    "license_spdx": "MIT",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 5.83984375,
+    "median_pr_close_days": 0.4096412037037037,
+    "open_issues": 21,
+    "closed_issues_sampled": 14,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 2153
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "wansmer/symbol-usage.nvim",
+  "fetched_at": "2026-08-29T10:33:24.251443739Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 502,
+    "forks": 13,
+    "description": "Display references, definitions and implementations of document symbols",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-04-06T06:32:07Z",
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 4.347129629629629,
+    "median_pr_close_days": 0.0014409722222222224,
+    "open_issues": 2,
+    "closed_issues_sampled": 24,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "anthraxx",
+      "account_created_at": "2010-02-13T12:54:00Z",
+      "other_repos_star_sum": 1265
+    },
+    "has_ci": false,
+    "has_tests": true,
+    "readme_len": 14837
+  }
+}

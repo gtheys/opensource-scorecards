@@ -1,0 +1,29 @@
+{
+  "slug": "theleop/powershell.nvim",
+  "fetched_at": "2026-08-29T10:30:49.747430901Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 83,
+    "forks": 5,
+    "description": "First class powershell editor integration into Neovim",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-10T03:03:33Z",
+    "commits_90d": 7,
+    "releases_365d": 0,
+    "median_issue_close_days": 0.41834490740740743,
+    "median_pr_close_days": 0.08488425925925926,
+    "open_issues": 0,
+    "closed_issues_sampled": 7,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "TheLeoP",
+      "account_created_at": "2019-07-31T06:07:36Z",
+      "other_repos_star_sum": 114
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 6630
+  }
+}

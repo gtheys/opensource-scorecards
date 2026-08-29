@@ -1,6 +1,6 @@
 {
   "slug": "onlyati/quadlet-lsp.nvim",
-  "fetched_at": "2026-08-19T04:17:05.205953257Z",
+  "fetched_at": "2026-08-29T10:18:45.129945378Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "onlyati",
       "account_created_at": "2015-09-20T13:25:42Z",
-      "other_repos_star_sum": 90
+      "other_repos_star_sum": 91
     },
     "has_ci": false,
     "has_tests": false,

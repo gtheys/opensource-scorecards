@@ -1,0 +1,25 @@
+{
+  "slug": "tomasiser/vim-code-dark",
+  "fetched_at": "2026-08-29T10:31:31.683311509Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1000,
+    "forks": 175,
+    "description": "Dark color scheme for Vim and vim-airline, inspired by Dark+ in Visual Studio Code",
+    "license_spdx": "MIT",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 130.2048900462963,
+    "median_pr_close_days": 19.77400462962963,
+    "open_issues": 15,
+    "closed_issues_sampled": 20,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 6446
+  }
+}

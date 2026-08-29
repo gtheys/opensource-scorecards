@@ -1,6 +1,6 @@
 {
   "slug": "oxy2dev/bars.nvim",
-  "fetched_at": "2026-08-19T04:17:28.930442551Z",
+  "fetched_at": "2026-08-29T10:19:09.074876838Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -16,11 +16,11 @@
     "open_issues": 1,
     "closed_issues_sampled": 3,
     "contributors_12mo": 2,
-    "top_author_commit_share": 0.978494623655914,
+    "top_author_commit_share": 0.9777777777777777,
     "top_author": {
       "login": "OXY2DEV",
       "account_created_at": "2023-01-18T04:51:04Z",
-      "other_repos_star_sum": 4793
+      "other_repos_star_sum": 4803
     },
     "has_ci": true,
     "has_tests": false,

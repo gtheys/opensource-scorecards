@@ -1,0 +1,25 @@
+{
+  "slug": "tjdevries/express_line.nvim",
+  "fetched_at": "2026-08-29T10:31:14.083588006Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 317,
+    "forks": 24,
+    "description": "WIP: Statusline written in pure lua. Supports co-routines, functions and jobs.",
+    "license_spdx": "MIT",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 17.03121527777778,
+    "median_pr_close_days": 4.997974537037037,
+    "open_issues": 20,
+    "closed_issues_sampled": 29,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 4629
+  }
+}

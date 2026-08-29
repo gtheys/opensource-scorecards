@@ -1,0 +1,29 @@
+{
+  "slug": "sbdchd/neoformat",
+  "fetched_at": "2026-08-29T10:25:30.105480537Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 2047,
+    "forks": 180,
+    "description": ":sparkles: A (Neo)vim plugin for formatting code.",
+    "license_spdx": "BSD-2-Clause",
+    "last_commit_at": "2026-02-24T23:44:29Z",
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 7.000775462962963,
+    "median_pr_close_days": 0.6359953703703703,
+    "open_issues": 130,
+    "closed_issues_sampled": 11,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "tenulty",
+      "account_created_at": "2022-11-15T03:54:37Z",
+      "other_repos_star_sum": 6
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 23426
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "vuki656/package-info.nvim",
+  "fetched_at": "2026-08-29T10:32:57.692104585Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 598,
+    "forks": 42,
+    "description": "✍️ All the npm/yarn/pnpm commands I don't want to type",
+    "license_spdx": "GPL-3.0",
+    "last_commit_at": "2026-08-25T13:34:19Z",
+    "commits_90d": 21,
+    "releases_365d": 0,
+    "median_issue_close_days": 1086.4559837962963,
+    "median_pr_close_days": 3.347372685185185,
+    "open_issues": 0,
+    "closed_issues_sampled": 35,
+    "contributors_12mo": 7,
+    "top_author_commit_share": 0.6538461538461539,
+    "top_author": {
+      "login": "vuki656",
+      "account_created_at": "2014-07-08T15:54:55Z",
+      "other_repos_star_sum": 685
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 11232
+  }
+}

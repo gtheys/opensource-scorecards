@@ -1,0 +1,25 @@
+{
+  "slug": "weissle/persistent-breakpoints.nvim",
+  "fetched_at": "2026-08-29T10:33:29.743698466Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 260,
+    "forks": 15,
+    "description": "Neovim plugin for persistent breakpoints.",
+    "license_spdx": "MIT",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 13.16025462962963,
+    "median_pr_close_days": 0.6069212962962963,
+    "open_issues": 2,
+    "closed_issues_sampled": 17,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 3199
+  }
+}

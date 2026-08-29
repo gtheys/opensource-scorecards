@@ -1,0 +1,29 @@
+{
+  "slug": "sang-it/fluoride",
+  "fetched_at": "2026-08-29T10:25:10.141978476Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 58,
+    "forks": 0,
+    "description": "A Neovim plugin that lets you view, reorder, and rename top-level code declarations through a floating window. Powered by Treesitter and LSP.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-04-03T19:52:11Z",
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 1.9647106481481482,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 5,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "Sang-it",
+      "account_created_at": "2021-02-20T02:17:56Z",
+      "other_repos_star_sum": 101
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 9879
+  }
+}

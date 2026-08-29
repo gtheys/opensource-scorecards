@@ -1,0 +1,29 @@
+{
+  "slug": "uloco/bluloco.nvim",
+  "fetched_at": "2026-08-29T10:32:31.660265097Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 457,
+    "forks": 13,
+    "description": "bluloco theme for neovim",
+    "license_spdx": "LGPL-3.0",
+    "last_commit_at": "2026-08-27T18:52:10Z",
+    "commits_90d": 12,
+    "releases_365d": 0,
+    "median_issue_close_days": 365.1526446759259,
+    "median_pr_close_days": 0.054774305555555555,
+    "open_issues": 11,
+    "closed_issues_sampled": 18,
+    "contributors_12mo": 3,
+    "top_author_commit_share": 0.68,
+    "top_author": {
+      "login": "uloco",
+      "account_created_at": "2014-09-18T09:00:15Z",
+      "other_repos_star_sum": 846
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 9704
+  }
+}

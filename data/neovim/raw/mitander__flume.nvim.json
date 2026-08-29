@@ -1,10 +1,10 @@
 {
   "slug": "mitander/flume.nvim",
-  "fetched_at": "2026-08-18T10:17:41.812925016Z",
+  "fetched_at": "2026-08-29T10:11:09.788380794Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 61,
+    "stars": 65,
     "forks": 1,
     "description": "A moody nvim theme with four palettes. Uses semantic coloring to make code more readable.",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "mitander",
       "account_created_at": "2018-10-22T14:18:01Z",
-      "other_repos_star_sum": 69
+      "other_repos_star_sum": 74
     },
     "has_ci": true,
     "has_tests": true,

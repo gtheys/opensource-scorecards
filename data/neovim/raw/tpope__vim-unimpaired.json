@@ -1,0 +1,25 @@
+{
+  "slug": "tpope/vim-unimpaired",
+  "fetched_at": "2026-08-29T10:31:48.332642277Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 3464,
+    "forks": 205,
+    "description": "unimpaired.vim: Pairs of handy bracket mappings",
+    "license_spdx": null,
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 4.359450231481482,
+    "median_pr_close_days": 110.06291666666667,
+    "open_issues": 56,
+    "closed_issues_sampled": 28,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 2651
+  }
+}

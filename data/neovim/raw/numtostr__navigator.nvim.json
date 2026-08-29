@@ -1,10 +1,10 @@
 {
   "slug": "numtostr/navigator.nvim",
-  "fetched_at": "2026-08-19T04:14:45.430747022Z",
+  "fetched_at": "2026-08-29T10:16:06.419997571Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 434,
+    "stars": 432,
     "forks": 26,
     "description": ":sparkles: Smoothly navigate between neovim and terminal multiplexer(s) :sparkles:",
     "license_spdx": "MIT",

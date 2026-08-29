@@ -1,0 +1,25 @@
+{
+  "slug": "tomasky/bookmarks.nvim",
+  "fetched_at": "2026-08-29T10:31:33.647889241Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 183,
+    "forks": 23,
+    "description": "A Bookmarks Plugin With Global File Store  For Neovim Written In Lua.",
+    "license_spdx": "MIT",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 2.4918287037037037,
+    "median_pr_close_days": 4.381967592592592,
+    "open_issues": 12,
+    "closed_issues_sampled": 11,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 2542
+  }
+}

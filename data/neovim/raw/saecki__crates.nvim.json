@@ -1,10 +1,10 @@
 {
   "slug": "saecki/crates.nvim",
-  "fetched_at": "2026-08-19T04:22:27.771469144Z",
+  "fetched_at": "2026-08-29T10:24:14.750480006Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 1116,
+    "stars": 1118,
     "forks": 44,
     "description": "A neovim plugin that helps managing crates.io dependencies",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "saecki",
       "account_created_at": "2018-09-05T15:29:33Z",
-      "other_repos_star_sum": 1332
+      "other_repos_star_sum": 1334
     },
     "has_ci": true,
     "has_tests": true,

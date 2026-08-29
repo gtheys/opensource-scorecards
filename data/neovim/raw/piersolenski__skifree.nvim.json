@@ -1,6 +1,6 @@
 {
   "slug": "piersolenski/skifree.nvim",
-  "fetched_at": "2026-08-19T04:18:25.292171584Z",
+  "fetched_at": "2026-08-29T10:20:05.515999667Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "piersolenski",
       "account_created_at": "2011-12-26T01:52:25Z",
-      "other_repos_star_sum": 966
+      "other_repos_star_sum": 963
     },
     "has_ci": true,
     "has_tests": false,

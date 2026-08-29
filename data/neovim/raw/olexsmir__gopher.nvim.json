@@ -1,6 +1,6 @@
 {
   "slug": "olexsmir/gopher.nvim",
-  "fetched_at": "2026-08-19T04:16:44.207547103Z",
+  "fetched_at": "2026-08-29T10:18:21.251109596Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -8,15 +8,15 @@
     "forks": 18,
     "description": "Minimalistic plugin for Go development",
     "license_spdx": "MIT",
-    "last_commit_at": "2026-03-04T11:56:21Z",
-    "commits_90d": 0,
-    "releases_365d": 7,
-    "median_issue_close_days": 76.99678240740741,
-    "median_pr_close_days": 0.0337037037037037,
-    "open_issues": 6,
-    "closed_issues_sampled": 17,
+    "last_commit_at": "2026-08-27T18:09:10Z",
+    "commits_90d": 2,
+    "releases_365d": 8,
+    "median_issue_close_days": 116.66242476851852,
+    "median_pr_close_days": 0.03321180555555556,
+    "open_issues": 5,
+    "closed_issues_sampled": 18,
     "contributors_12mo": 2,
-    "top_author_commit_share": 0.9722222222222222,
+    "top_author_commit_share": 0.9767441860465116,
     "top_author": {
       "login": "olexsmir",
       "account_created_at": "2019-05-13T13:20:16Z",
@@ -24,6 +24,6 @@
     },
     "has_ci": true,
     "has_tests": true,
-    "readme_len": 7530
+    "readme_len": 8040
   }
 }

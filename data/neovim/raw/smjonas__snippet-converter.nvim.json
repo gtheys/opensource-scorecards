@@ -1,0 +1,25 @@
+{
+  "slug": "smjonas/snippet-converter.nvim",
+  "fetched_at": "2026-08-29T10:27:17.951525321Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 183,
+    "forks": 6,
+    "description": "Bundle snippets from multiple sources and convert them to your format of choice.",
+    "license_spdx": "MPL-2.0",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 0.3270023148148148,
+    "median_pr_close_days": 0.06622685185185186,
+    "open_issues": 8,
+    "closed_issues_sampled": 9,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": true,
+    "readme_len": 5664
+  }
+}

@@ -1,10 +1,10 @@
 {
   "slug": "nvim-flutter/flutter-tools.nvim",
-  "fetched_at": "2026-08-19T04:14:46.966619998Z",
+  "fetched_at": "2026-08-29T10:16:08.541949390Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 1399,
+    "stars": 1403,
     "forks": 116,
     "description": "Tools to help create flutter apps in neovim using the native lsp",
     "license_spdx": "MIT",

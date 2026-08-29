@@ -1,0 +1,29 @@
+{
+  "slug": "wansmer/sibling-swap.nvim",
+  "fetched_at": "2026-08-29T10:33:22.028802505Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 184,
+    "forks": 3,
+    "description": "Neovim plugin for swaps closest siblings with Tree-Sitter",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-04-06T06:41:05Z",
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 0.7082002314814815,
+    "median_pr_close_days": 0.0006828703703703704,
+    "open_issues": 3,
+    "closed_issues_sampled": 14,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "Wansmer",
+      "account_created_at": "2019-01-23T21:03:53Z",
+      "other_repos_star_sum": 2374
+    },
+    "has_ci": false,
+    "has_tests": true,
+    "readme_len": 6365
+  }
+}

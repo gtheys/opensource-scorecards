@@ -1,0 +1,29 @@
+{
+  "slug": "wsdjeg/code-runner.nvim",
+  "fetched_at": "2026-08-29T10:34:15.399660767Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 6,
+    "forks": 1,
+    "description": "Async Code Runner for Neovim",
+    "license_spdx": "GPL-3.0",
+    "last_commit_at": "2026-07-17T00:18:44Z",
+    "commits_90d": 10,
+    "releases_365d": 2,
+    "median_issue_close_days": 8.651111111111112,
+    "median_pr_close_days": 10.468697916666667,
+    "open_issues": 1,
+    "closed_issues_sampled": 1,
+    "contributors_12mo": 2,
+    "top_author_commit_share": 0.84,
+    "top_author": {
+      "login": "wsdjeg",
+      "account_created_at": "2015-07-01T23:21:16Z",
+      "other_repos_star_sum": 1809
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 4463
+  }
+}

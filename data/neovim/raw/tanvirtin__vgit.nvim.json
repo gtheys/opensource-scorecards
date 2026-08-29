@@ -1,0 +1,29 @@
+{
+  "slug": "tanvirtin/vgit.nvim",
+  "fetched_at": "2026-08-29T10:29:57.454143944Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 849,
+    "forks": 24,
+    "description": "Visual git plugin for Neovim",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-03-04T23:25:40Z",
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 0.7378472222222222,
+    "median_pr_close_days": 0.2846296296296296,
+    "open_issues": 17,
+    "closed_issues_sampled": 16,
+    "contributors_12mo": 4,
+    "top_author_commit_share": 0.7692307692307693,
+    "top_author": {
+      "login": "MaxFangX",
+      "account_created_at": "2014-06-13T21:18:12Z",
+      "other_repos_star_sum": 26
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 16162
+  }
+}

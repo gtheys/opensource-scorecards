@@ -1,0 +1,29 @@
+{
+  "slug": "tednguyendev/recent_rails.nvim",
+  "fetched_at": "2026-08-29T10:30:02.811101752Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 5,
+    "forks": 0,
+    "description": "A plugin for navigating to recent Rails actions/views/errors",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-01-18T14:22:40Z",
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "tednguyendev",
+      "account_created_at": "2021-01-03T10:07:12Z",
+      "other_repos_star_sum": 49
+    },
+    "has_ci": false,
+    "has_tests": true,
+    "readme_len": 1343
+  }
+}

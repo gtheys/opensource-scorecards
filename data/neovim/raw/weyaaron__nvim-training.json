@@ -1,0 +1,29 @@
+{
+  "slug": "weyaaron/nvim-training",
+  "fetched_at": "2026-08-29T10:33:31.589682821Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 126,
+    "forks": 3,
+    "description": "A plugin to practice neovim movements",
+    "license_spdx": "GPL-3.0",
+    "last_commit_at": "2026-01-13T20:38:24Z",
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 81.06542824074074,
+    "median_pr_close_days": 0.0007638888888888889,
+    "open_issues": 4,
+    "closed_issues_sampled": 13,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "Weyaaron",
+      "account_created_at": "2019-07-04T09:19:01Z",
+      "other_repos_star_sum": 126
+    },
+    "has_ci": false,
+    "has_tests": true,
+    "readme_len": 14813
+  }
+}

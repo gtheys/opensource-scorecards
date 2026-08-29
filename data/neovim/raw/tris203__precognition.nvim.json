@@ -1,0 +1,29 @@
+{
+  "slug": "tris203/precognition.nvim",
+  "fetched_at": "2026-08-29T10:31:55.325055474Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1384,
+    "forks": 16,
+    "description": "💭👀precognition.nvim - Precognition uses virtual text and gutter signs to show available motions.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-07-26T13:40:00Z",
+    "commits_90d": 1,
+    "releases_365d": 2,
+    "median_issue_close_days": 439.62958333333336,
+    "median_pr_close_days": 0.6478472222222222,
+    "open_issues": 1,
+    "closed_issues_sampled": 17,
+    "contributors_12mo": 2,
+    "top_author_commit_share": 0.9473684210526315,
+    "top_author": {
+      "login": "tris203",
+      "account_created_at": "2016-04-13T14:27:34Z",
+      "other_repos_star_sum": 1890
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 6310
+  }
+}

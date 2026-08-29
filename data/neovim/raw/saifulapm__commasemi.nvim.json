@@ -1,0 +1,25 @@
+{
+  "slug": "saifulapm/commasemi.nvim",
+  "fetched_at": "2026-08-29T10:24:33.418911949Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 16,
+    "forks": 0,
+    "description": "Toggle comma and semicolon in Neovim",
+    "license_spdx": "MIT",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 28.91453125,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 4,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 3877
+  }
+}

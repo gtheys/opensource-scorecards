@@ -1,6 +1,6 @@
 {
   "slug": "lintaoamons/scratch.nvim",
-  "fetched_at": "2026-08-19T04:10:31.840050562Z",
+  "fetched_at": "2026-08-29T10:07:01.661493044Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "Create temporary playground files effortlessly. Find them later without worrying about filenames or locations.",
     "license_spdx": "NOASSERTION",
     "last_commit_at": "2026-05-26T04:03:18Z",
-    "commits_90d": 2,
+    "commits_90d": 0,
     "releases_365d": 0,
     "median_issue_close_days": 18.2246875,
     "median_pr_close_days": 3.167766203703704,

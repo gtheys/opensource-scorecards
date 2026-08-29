@@ -1,10 +1,10 @@
 {
   "slug": "pocco81/dap-buddy.nvim",
-  "fetched_at": "2026-08-19T04:18:35.399724651Z",
+  "fetched_at": "2026-08-29T10:20:15.066041028Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 394,
+    "stars": 392,
     "forks": 46,
     "description": "🐞 Debug Adapter Protocol manager for Neovim",
     "license_spdx": "GPL-3.0",

@@ -1,0 +1,25 @@
+{
+  "slug": "tjdevries/colorbuddy.nvim",
+  "fetched_at": "2026-08-29T10:31:11.899345189Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 784,
+    "forks": 24,
+    "description": "Your color buddy for making cool neovim color schemes",
+    "license_spdx": "MIT",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 151.07592592592593,
+    "median_pr_close_days": 4.564872685185185,
+    "open_issues": 4,
+    "closed_issues_sampled": 28,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": true,
+    "readme_len": 2300
+  }
+}

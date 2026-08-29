@@ -1,10 +1,10 @@
 {
   "slug": "nvim-neotest/neotest",
-  "fetched_at": "2026-08-19T04:15:17.655499635Z",
+  "fetched_at": "2026-08-29T10:16:41.457816718Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 3111,
+    "stars": 3112,
     "forks": 186,
     "description": "An extensible framework for interacting with tests within NeoVim.",
     "license_spdx": "MIT",
@@ -13,7 +13,7 @@
     "releases_365d": 22,
     "median_issue_close_days": 60.23086805555556,
     "median_pr_close_days": 13.048981481481482,
-    "open_issues": 101,
+    "open_issues": 102,
     "closed_issues_sampled": 12,
     "contributors_12mo": 37,
     "top_author_commit_share": 0.16417910447761194,

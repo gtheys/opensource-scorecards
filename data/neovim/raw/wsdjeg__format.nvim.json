@@ -1,0 +1,29 @@
+{
+  "slug": "wsdjeg/format.nvim",
+  "fetched_at": "2026-08-29T10:34:25.576841237Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 16,
+    "forks": 0,
+    "description": "asynchronous code formatting plugin",
+    "license_spdx": "GPL-3.0",
+    "last_commit_at": "2026-07-26T05:07:17Z",
+    "commits_90d": 4,
+    "releases_365d": 4,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 6.11271412037037,
+    "open_issues": 1,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "wsdjeg",
+      "account_created_at": "2015-07-01T23:21:16Z",
+      "other_repos_star_sum": 1809
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 9309
+  }
+}

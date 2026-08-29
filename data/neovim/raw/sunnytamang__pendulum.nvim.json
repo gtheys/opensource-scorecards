@@ -1,0 +1,25 @@
+{
+  "slug": "sunnytamang/pendulum.nvim",
+  "fetched_at": "2026-08-29T10:28:44.043989329Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 14,
+    "forks": 3,
+    "description": "pendulum is a simple timer plugin for Neovim designed to assist competitive programmers or coders in general who wants to practice coding for interviews.",
+    "license_spdx": "MIT",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 0.004166666666666667,
+    "median_pr_close_days": 0.00009259259259259259,
+    "open_issues": 1,
+    "closed_issues_sampled": 3,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 3335
+  }
+}

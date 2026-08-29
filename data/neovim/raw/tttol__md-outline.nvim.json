@@ -1,0 +1,29 @@
+{
+  "slug": "tttol/md-outline.nvim",
+  "fetched_at": "2026-08-29T10:32:02.910301768Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 5,
+    "forks": 1,
+    "description": "This is a NeoVim plugin that displays the outline of markdown file neovim",
+    "license_spdx": "MIT",
+    "last_commit_at": "2025-11-10T21:45:14Z",
+    "commits_90d": 0,
+    "releases_365d": 1,
+    "median_issue_close_days": 73.36043402777779,
+    "median_pr_close_days": 2.4485185185185183,
+    "open_issues": 3,
+    "closed_issues_sampled": 2,
+    "contributors_12mo": 2,
+    "top_author_commit_share": 0.9534883720930233,
+    "top_author": {
+      "login": "tttol",
+      "account_created_at": "2017-04-23T05:07:06Z",
+      "other_repos_star_sum": 24
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 1847
+  }
+}

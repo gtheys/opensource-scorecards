@@ -1,10 +1,10 @@
 {
   "slug": "miikanissi/modus-themes.nvim",
-  "fetched_at": "2026-08-18T10:16:48.231266088Z",
+  "fetched_at": "2026-08-29T10:10:16.843198389Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 446,
+    "stars": 449,
     "forks": 36,
     "description": "Highly accessible themes for Neovim, conforming with the highest standard for color contrast between background and foreground values (WCAG AAA). A Neovim port of the original Modus Themes built for GNU Emacs.",
     "license_spdx": "GPL-3.0",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "miikanissi",
       "account_created_at": "2019-03-25T22:50:44Z",
-      "other_repos_star_sum": 635
+      "other_repos_star_sum": 638
     },
     "has_ci": true,
     "has_tests": true,

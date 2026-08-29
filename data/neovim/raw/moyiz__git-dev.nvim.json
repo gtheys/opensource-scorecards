@@ -1,6 +1,6 @@
 {
   "slug": "moyiz/git-dev.nvim",
-  "fetched_at": "2026-08-19T04:12:33.939204440Z",
+  "fetched_at": "2026-08-29T10:12:02.827038336Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "moyiz",
       "account_created_at": "2014-08-31T05:15:07Z",
-      "other_repos_star_sum": 231
+      "other_repos_star_sum": 232
     },
     "has_ci": true,
     "has_tests": true,

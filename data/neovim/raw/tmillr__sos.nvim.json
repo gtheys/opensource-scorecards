@@ -1,0 +1,25 @@
+{
+  "slug": "tmillr/sos.nvim",
+  "fetched_at": "2026-08-29T10:31:17.891319326Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 22,
+    "forks": 0,
+    "description": "Never manually save/write a buffer again!",
+    "license_spdx": "MIT",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 4.450717592592593,
+    "median_pr_close_days": 0.23108796296296297,
+    "open_issues": 12,
+    "closed_issues_sampled": 3,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 10410
+  }
+}

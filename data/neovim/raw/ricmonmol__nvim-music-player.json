@@ -1,10 +1,10 @@
 {
   "slug": "ricmonmol/nvim-music-player",
-  "fetched_at": "2026-08-19T04:20:54.331170960Z",
+  "fetched_at": "2026-08-29T10:22:36.896164974Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 6,
+    "stars": 7,
     "forks": 1,
     "description": "A simple Neovim music player",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "ricmonmol",
       "account_created_at": "2016-09-11T18:52:56Z",
-      "other_repos_star_sum": 9
+      "other_repos_star_sum": 10
     },
     "has_ci": false,
     "has_tests": false,

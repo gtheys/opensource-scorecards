@@ -1,29 +1,29 @@
 {
   "slug": "olimorris/persisted.nvim",
-  "fetched_at": "2026-08-19T04:17:03.100630414Z",
+  "fetched_at": "2026-08-29T10:18:42.666213727Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 543,
+    "stars": 542,
     "forks": 33,
     "description": "💾 Simple session management for Neovim with git branching, autoloading and Telescope support",
     "license_spdx": "MIT",
-    "last_commit_at": "2026-04-11T13:08:48Z",
-    "commits_90d": 0,
-    "releases_365d": 1,
-    "median_issue_close_days": 0.13386574074074076,
-    "median_pr_close_days": 0.380625,
+    "last_commit_at": "2026-08-25T10:23:19Z",
+    "commits_90d": 5,
+    "releases_365d": 2,
+    "median_issue_close_days": 0.06565972222222222,
+    "median_pr_close_days": 0.3575925925925926,
     "open_issues": 0,
-    "closed_issues_sampled": 16,
+    "closed_issues_sampled": 15,
     "contributors_12mo": 2,
-    "top_author_commit_share": 0.75,
+    "top_author_commit_share": 0.8888888888888888,
     "top_author": {
       "login": "olimorris",
       "account_created_at": "2014-11-02T11:41:08Z",
-      "other_repos_star_sum": 9383
+      "other_repos_star_sum": 9404
     },
     "has_ci": true,
     "has_tests": true,
-    "readme_len": 16132
+    "readme_len": 18271
   }
 }

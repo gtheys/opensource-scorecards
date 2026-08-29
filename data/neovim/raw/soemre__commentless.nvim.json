@@ -1,0 +1,25 @@
+{
+  "slug": "soemre/commentless.nvim",
+  "fetched_at": "2026-08-29T10:27:26.053141411Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 45,
+    "forks": 2,
+    "description": "Hide comments, focus on the code flow, and reveal them if needed 🧘",
+    "license_spdx": "MIT",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 0.22324074074074074,
+    "median_pr_close_days": null,
+    "open_issues": 1,
+    "closed_issues_sampled": 1,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 2084
+  }
+}

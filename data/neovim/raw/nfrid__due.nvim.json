@@ -1,10 +1,10 @@
 {
   "slug": "nfrid/due.nvim",
-  "fetched_at": "2026-08-19T04:13:13.944117317Z",
+  "fetched_at": "2026-08-29T10:14:14.859363348Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 116,
+    "stars": 115,
     "forks": 3,
     "description": "Neovim plugin for displaying due dates",
     "license_spdx": "MIT",

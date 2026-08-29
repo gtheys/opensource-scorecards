@@ -1,0 +1,29 @@
+{
+  "slug": "sakhnik/nvim-gdb",
+  "fetched_at": "2026-08-29T10:24:47.026486274Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 783,
+    "forks": 41,
+    "description": "Neovim thin wrapper for GDB, LLDB, PDB/PDB++ and BashDB",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-06-15T06:57:06Z",
+    "commits_90d": 2,
+    "releases_365d": 0,
+    "median_issue_close_days": 22.69023726851852,
+    "median_pr_close_days": 1.9258912037037037,
+    "open_issues": 5,
+    "closed_issues_sampled": 34,
+    "contributors_12mo": 2,
+    "top_author_commit_share": 0.9722222222222222,
+    "top_author": {
+      "login": "sakhnik",
+      "account_created_at": "2010-08-15T09:46:31Z",
+      "other_repos_star_sum": 898
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 6999
+  }
+}

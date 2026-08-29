@@ -1,0 +1,29 @@
+{
+  "slug": "smjonas/inc-rename.nvim",
+  "fetched_at": "2026-08-29T10:27:11.088213886Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 863,
+    "forks": 20,
+    "description": "Incremental LSP renaming based on Neovim's command-preview feature.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-07-30T20:06:58Z",
+    "commits_90d": 1,
+    "releases_365d": 0,
+    "median_issue_close_days": 18.89364583333333,
+    "median_pr_close_days": 2.7958564814814815,
+    "open_issues": 10,
+    "closed_issues_sampled": 30,
+    "contributors_12mo": 5,
+    "top_author_commit_share": 0.2,
+    "top_author": {
+      "login": "JulianNymark",
+      "account_created_at": "2011-05-30T16:51:49Z",
+      "other_repos_star_sum": 15
+    },
+    "has_ci": false,
+    "has_tests": true,
+    "readme_len": 5659
+  }
+}

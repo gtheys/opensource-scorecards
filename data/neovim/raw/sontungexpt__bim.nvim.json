@@ -1,0 +1,29 @@
+{
+  "slug": "sontungexpt/bim.nvim",
+  "fetched_at": "2026-08-29T10:27:31.985791231Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 13,
+    "forks": 1,
+    "description": "A plugin that enhances insert-mode keymapping by showing typed keys in real time, without waiting for timeoutlen. It provides a responsive and intuitive insert-mode experience, ideal for complex input workflows such as ime.",
+    "license_spdx": "Apache-2.0",
+    "last_commit_at": "2026-06-11T01:55:31Z",
+    "commits_90d": 9,
+    "releases_365d": 2,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.00019675925925925926,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "sontungexpt",
+      "account_created_at": "2021-10-07T12:47:27Z",
+      "other_repos_star_sum": 667
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 1168
+  }
+}

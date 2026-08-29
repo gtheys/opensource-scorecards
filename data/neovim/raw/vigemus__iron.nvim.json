@@ -1,0 +1,29 @@
+{
+  "slug": "vigemus/iron.nvim",
+  "fetched_at": "2026-08-29T10:32:47.758783002Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1356,
+    "forks": 110,
+    "description": "Interactive Repl Over Neovim",
+    "license_spdx": "BSD-3-Clause",
+    "last_commit_at": "2026-07-27T01:59:46Z",
+    "commits_90d": 8,
+    "releases_365d": 0,
+    "median_issue_close_days": 191.9753298611111,
+    "median_pr_close_days": 19.698368055555555,
+    "open_issues": 56,
+    "closed_issues_sampled": 26,
+    "contributors_12mo": 6,
+    "top_author_commit_share": 0.7222222222222222,
+    "top_author": {
+      "login": "nickeisenberg",
+      "account_created_at": "2020-05-06T17:45:41Z",
+      "other_repos_star_sum": 2
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 8792
+  }
+}

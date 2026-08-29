@@ -1,0 +1,25 @@
+{
+  "slug": "seandewar/nvimesweeper",
+  "fetched_at": "2026-08-29T10:25:54.776232341Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 112,
+    "forks": 5,
+    "description": "Play Minesweeper in your favourite text editor (Neovim 0.7+)",
+    "license_spdx": "MIT",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.08256944444444445,
+    "open_issues": 1,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 830
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "walkersumida/deepl.nvim",
+  "fetched_at": "2026-08-29T10:33:12.372388590Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 7,
+    "forks": 1,
+    "description": "Neovim plugin that translates text using the DeepL API with multiple output modes (float, replace, append)",
+    "license_spdx": "MIT",
+    "last_commit_at": "2025-11-22T12:34:00Z",
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.00010995370370370372,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "walkersumida",
+      "account_created_at": "2015-05-31T13:19:25Z",
+      "other_repos_star_sum": 132
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 4695
+  }
+}

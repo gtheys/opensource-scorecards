@@ -1,6 +1,6 @@
 {
   "slug": "notomo/gesture.nvim",
-  "fetched_at": "2026-08-19T04:14:29.423357890Z",
+  "fetched_at": "2026-08-29T10:15:46.823625561Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "notomo",
       "account_created_at": "2016-04-17T22:42:57Z",
-      "other_repos_star_sum": 1229
+      "other_repos_star_sum": 1227
     },
     "has_ci": true,
     "has_tests": true,

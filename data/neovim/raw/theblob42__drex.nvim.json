@@ -1,0 +1,25 @@
+{
+  "slug": "theblob42/drex.nvim",
+  "fetched_at": "2026-08-29T10:30:24.819446066Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 96,
+    "forks": 9,
+    "description": "Another directory/file explorer for Neovim written in Lua ",
+    "license_spdx": "GPL-3.0",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 3.317065972222222,
+    "median_pr_close_days": 4.009224537037037,
+    "open_issues": 1,
+    "closed_issues_sampled": 14,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 11773
+  }
+}

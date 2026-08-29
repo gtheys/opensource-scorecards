@@ -1,0 +1,25 @@
+{
+  "slug": "svrana/neosolarized.nvim",
+  "fetched_at": "2026-08-29T10:29:00.717173811Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 166,
+    "forks": 36,
+    "description": "Truecolor solarized theme for neovim in Lua using colorbuddy",
+    "license_spdx": "NOASSERTION",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 0.7729745370370371,
+    "median_pr_close_days": 0.2228125,
+    "open_issues": 6,
+    "closed_issues_sampled": 10,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 3563
+  }
+}

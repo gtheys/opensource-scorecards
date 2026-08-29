@@ -1,0 +1,29 @@
+{
+  "slug": "sainnhe/edge",
+  "fetched_at": "2026-08-29T10:24:36.920592711Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1048,
+    "forks": 54,
+    "description": "Clean & Elegant Color Scheme inspired by Atom One and Material",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-01-21T13:24:54Z",
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 1.3953703703703704,
+    "median_pr_close_days": 0.41802083333333334,
+    "open_issues": 2,
+    "closed_issues_sampled": 29,
+    "contributors_12mo": 3,
+    "top_author_commit_share": 0.7692307692307693,
+    "top_author": {
+      "login": "antoineco",
+      "account_created_at": "2013-01-17T19:03:15Z",
+      "other_repos_star_sum": 309
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 3077
+  }
+}

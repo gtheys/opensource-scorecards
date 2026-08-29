@@ -1,10 +1,10 @@
 {
   "slug": "ravsii/timers.nvim",
-  "fetched_at": "2026-08-19T04:20:00.100489113Z",
+  "fetched_at": "2026-08-29T10:21:40.252805008Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 18,
+    "stars": 17,
     "forks": 0,
     "description": "Simple yet customizable timer manager for Neovim",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "ravsii",
       "account_created_at": "2013-07-14T14:43:43Z",
-      "other_repos_star_sum": 108
+      "other_repos_star_sum": 107
     },
     "has_ci": true,
     "has_tests": true,

@@ -1,6 +1,6 @@
 {
   "slug": "nxhung2304/lastplace.nvim",
-  "fetched_at": "2026-08-19T04:16:09.611507272Z",
+  "fetched_at": "2026-08-29T10:17:42.416952760Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "Nvim plugin that intelligently reopens files at your last edit position.",
     "license_spdx": "MIT",
     "last_commit_at": "2026-08-09T16:07:10Z",
-    "commits_90d": 13,
+    "commits_90d": 11,
     "releases_365d": 1,
     "median_issue_close_days": 108.0121412037037,
     "median_pr_close_days": 0.004293981481481481,

@@ -1,0 +1,29 @@
+{
+  "slug": "sschleemilch/slimline.nvim",
+  "fetched_at": "2026-08-29T10:28:05.142242166Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 138,
+    "forks": 12,
+    "description": "A neovim statusline",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-03T06:55:44Z",
+    "commits_90d": 1,
+    "releases_365d": 6,
+    "median_issue_close_days": 0.7666550925925926,
+    "median_pr_close_days": 0.012881944444444446,
+    "open_issues": 3,
+    "closed_issues_sampled": 14,
+    "contributors_12mo": 4,
+    "top_author_commit_share": 0.75,
+    "top_author": {
+      "login": "sschleemilch",
+      "account_created_at": "2015-04-22T14:03:00Z",
+      "other_repos_star_sum": 152
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 28371
+  }
+}

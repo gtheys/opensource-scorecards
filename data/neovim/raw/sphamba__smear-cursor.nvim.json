@@ -1,0 +1,29 @@
+{
+  "slug": "sphamba/smear-cursor.nvim",
+  "fetched_at": "2026-08-29T10:27:57.118187160Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 2003,
+    "forks": 30,
+    "description": "🌠 Neovim plugin to animate the cursor with a smear effect in all terminals",
+    "license_spdx": "GPL-3.0",
+    "last_commit_at": "2026-04-15T15:45:05Z",
+    "commits_90d": 0,
+    "releases_365d": 1,
+    "median_issue_close_days": 9.861041666666667,
+    "median_pr_close_days": 0.0016319444444444445,
+    "open_issues": 8,
+    "closed_issues_sampled": 23,
+    "contributors_12mo": 3,
+    "top_author_commit_share": 0.9375,
+    "top_author": {
+      "login": "sphamba",
+      "account_created_at": "2016-02-13T12:58:58Z",
+      "other_repos_star_sum": 2010
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 9384
+  }
+}

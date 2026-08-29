@@ -1,6 +1,6 @@
 {
   "slug": "misanthropicbit/decipher.nvim",
-  "fetched_at": "2026-08-19T04:12:10.667605272Z",
+  "fetched_at": "2026-08-29T10:10:55.249867366Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "A neovim plugin for encoding and decoding text",
     "license_spdx": "BSD-3-Clause",
     "last_commit_at": "2026-05-22T18:52:29Z",
-    "commits_90d": 1,
+    "commits_90d": 0,
     "releases_365d": 3,
     "median_issue_close_days": 29.503506944444446,
     "median_pr_close_days": 2.478715277777778,

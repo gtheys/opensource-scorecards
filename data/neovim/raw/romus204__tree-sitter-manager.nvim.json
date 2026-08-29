@@ -1,6 +1,6 @@
 {
   "slug": "romus204/tree-sitter-manager.nvim",
-  "fetched_at": "2026-08-19T04:21:51.497541778Z",
+  "fetched_at": "2026-08-29T10:23:35.785670242Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -8,15 +8,15 @@
     "forks": 44,
     "description": "A lightweight Tree-sitter parser manager for Neovim.",
     "license_spdx": "MIT",
-    "last_commit_at": "2026-07-30T09:41:07Z",
-    "commits_90d": 36,
-    "releases_365d": 1,
-    "median_issue_close_days": 2.4719675925925926,
-    "median_pr_close_days": 0.2332175925925926,
-    "open_issues": 17,
-    "closed_issues_sampled": 9,
+    "last_commit_at": "2026-08-23T14:36:50Z",
+    "commits_90d": 31,
+    "releases_365d": 2,
+    "median_issue_close_days": 6.763234953703703,
+    "median_pr_close_days": 0.26144675925925925,
+    "open_issues": 14,
+    "closed_issues_sampled": 14,
     "contributors_12mo": 23,
-    "top_author_commit_share": 0.35443037974683544,
+    "top_author_commit_share": 0.3625,
     "top_author": {
       "login": "tunaflsh",
       "account_created_at": "2021-07-05T08:55:46Z",
@@ -24,6 +24,6 @@
     },
     "has_ci": true,
     "has_tests": true,
-    "readme_len": 6465
+    "readme_len": 6658
   }
 }

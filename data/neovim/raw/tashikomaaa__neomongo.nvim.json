@@ -1,0 +1,29 @@
+{
+  "slug": "tashikomaaa/neomongo.nvim",
+  "fetched_at": "2026-08-29T10:30:00.079076697Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 8,
+    "forks": 1,
+    "description": "Manage your MongoDB databases directly from Neovim — connect, query, and explore data without leaving your editor.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2025-11-03T07:36:18Z",
+    "commits_90d": 0,
+    "releases_365d": 1,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 1,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "tashikomaaa",
+      "account_created_at": "2017-01-27T09:57:50Z",
+      "other_repos_star_sum": 23
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 8187
+  }
+}

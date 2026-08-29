@@ -1,0 +1,29 @@
+{
+  "slug": "sontungexpt/vietnamese.nvim",
+  "fetched_at": "2026-08-29T10:27:41.769369591Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 19,
+    "forks": 3,
+    "description": "IME giúp bạn gõ tiếng việt trực tiếp trong neovim một cách native",
+    "license_spdx": "Apache-2.0",
+    "last_commit_at": "2026-06-10T16:12:49Z",
+    "commits_90d": 12,
+    "releases_365d": 4,
+    "median_issue_close_days": 37.97822337962963,
+    "median_pr_close_days": 128.9922222222222,
+    "open_issues": 0,
+    "closed_issues_sampled": 2,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "sontungexpt",
+      "account_created_at": "2021-10-07T12:47:27Z",
+      "other_repos_star_sum": 667
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 5185
+  }
+}

@@ -1,10 +1,10 @@
 {
   "slug": "ribru17/bamboo.nvim",
-  "fetched_at": "2026-08-19T04:20:49.853134550Z",
+  "fetched_at": "2026-08-29T10:22:31.731262682Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 486,
+    "stars": 487,
     "forks": 24,
     "description": "Warm Green Theme for Neovim and Beyond",
     "license_spdx": "NOASSERTION",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "ribru17",
       "account_created_at": "2019-09-24T20:35:22Z",
-      "other_repos_star_sum": 589
+      "other_repos_star_sum": 590
     },
     "has_ci": true,
     "has_tests": false,

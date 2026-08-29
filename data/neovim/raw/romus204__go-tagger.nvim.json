@@ -1,6 +1,6 @@
 {
   "slug": "romus204/go-tagger.nvim",
-  "fetched_at": "2026-08-19T04:21:47.417513605Z",
+  "fetched_at": "2026-08-29T10:23:31.452732950Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -10,7 +10,7 @@
     "license_spdx": "MIT",
     "last_commit_at": "2026-02-15T17:18:07Z",
     "commits_90d": 0,
-    "releases_365d": 2,
+    "releases_365d": 1,
     "median_issue_close_days": 11.877071759259259,
     "median_pr_close_days": 0.0010069444444444444,
     "open_issues": 0,

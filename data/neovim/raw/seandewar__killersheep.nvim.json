@@ -1,0 +1,25 @@
+{
+  "slug": "seandewar/killersheep.nvim",
+  "fetched_at": "2026-08-29T10:25:53.072463114Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 76,
+    "forks": 3,
+    "description": "Neovim port of killersheep (with blood!)",
+    "license_spdx": "NOASSERTION",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 0.2648553240740741,
+    "median_pr_close_days": null,
+    "open_issues": 1,
+    "closed_issues_sampled": 4,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 963
+  }
+}

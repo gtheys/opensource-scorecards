@@ -1,0 +1,29 @@
+{
+  "slug": "smiteshp/nvim-navic",
+  "fetched_at": "2026-08-29T10:27:08.481534848Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1680,
+    "forks": 61,
+    "description": "Simple winbar/statusline plugin that shows your current code context",
+    "license_spdx": "Apache-2.0",
+    "last_commit_at": "2025-12-29T16:08:52Z",
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 5.887685185185186,
+    "median_pr_close_days": 2.623084490740741,
+    "open_issues": 30,
+    "closed_issues_sampled": 24,
+    "contributors_12mo": 4,
+    "top_author_commit_share": 0.5714285714285714,
+    "top_author": {
+      "login": "SmiteshP",
+      "account_created_at": "2018-09-10T16:58:40Z",
+      "other_repos_star_sum": 3059
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 16817
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "theknightsofrohan/csvlens.nvim",
+  "fetched_at": "2026-08-29T10:30:33.023085186Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 40,
+    "forks": 1,
+    "description": "A way to easily preview CSV files directly in Neovim using the csvlens CLI. ",
+    "license_spdx": "MIT",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 0.028101851851851854,
+    "median_pr_close_days": 0.022650462962962963,
+    "open_issues": 1,
+    "closed_issues_sampled": 1,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 2906
+  }
+}

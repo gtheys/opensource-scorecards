@@ -1,0 +1,29 @@
+{
+  "slug": "tadmccorkle/markdown.nvim",
+  "fetched_at": "2026-08-29T10:29:25.274674902Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 251,
+    "forks": 12,
+    "description": "Configurable tools for working with Markdown in Neovim.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2025-12-22T15:09:55Z",
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 8.617546296296297,
+    "median_pr_close_days": 0.7361921296296297,
+    "open_issues": 9,
+    "closed_issues_sampled": 6,
+    "contributors_12mo": 2,
+    "top_author_commit_share": 0.8888888888888888,
+    "top_author": {
+      "login": "tadmccorkle",
+      "account_created_at": "2018-07-24T23:31:45Z",
+      "other_repos_star_sum": 251
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 20354
+  }
+}

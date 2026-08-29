@@ -1,10 +1,10 @@
 {
   "slug": "prgebish/sigil.nvim",
-  "fetched_at": "2026-08-19T04:18:43.101183607Z",
+  "fetched_at": "2026-08-29T10:20:23.849687918Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 35,
+    "stars": 36,
     "forks": 0,
     "description": "Prettify symbols for Neovim",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "Prgebish",
       "account_created_at": "2018-10-07T01:34:35Z",
-      "other_repos_star_sum": 166
+      "other_repos_star_sum": 182
     },
     "has_ci": false,
     "has_tests": true,

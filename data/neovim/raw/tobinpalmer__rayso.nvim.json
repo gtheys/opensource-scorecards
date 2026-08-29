@@ -1,0 +1,29 @@
+{
+  "slug": "tobinpalmer/rayso.nvim",
+  "fetched_at": "2026-08-29T10:31:25.634116421Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 86,
+    "forks": 6,
+    "description": "A simple neovim plugin that enables you to instantly create snippets on ray.so",
+    "license_spdx": "Unlicense",
+    "last_commit_at": "2025-11-15T19:17:55Z",
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 34.30524884259259,
+    "median_pr_close_days": 0.6961053240740741,
+    "open_issues": 0,
+    "closed_issues_sampled": 4,
+    "contributors_12mo": 2,
+    "top_author_commit_share": 0.6666666666666666,
+    "top_author": {
+      "login": "guibes",
+      "account_created_at": "2019-08-07T15:48:42Z",
+      "other_repos_star_sum": 18
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 3381
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "waiting-for-dev/ergoterm.nvim",
+  "fetched_at": "2026-08-29T10:33:09.007604394Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 105,
+    "forks": 5,
+    "description": "A single, powerful terminal abstraction for neovim that adapts to any CLI tool",
+    "license_spdx": "GPL-3.0",
+    "last_commit_at": "2026-06-17T12:39:31Z",
+    "commits_90d": 3,
+    "releases_365d": 16,
+    "median_issue_close_days": 1.138165509259259,
+    "median_pr_close_days": 0.010949074074074075,
+    "open_issues": 0,
+    "closed_issues_sampled": 24,
+    "contributors_12mo": 3,
+    "top_author_commit_share": 0.9776119402985075,
+    "top_author": {
+      "login": "waiting-for-dev",
+      "account_created_at": "2009-02-07T21:29:52Z",
+      "other_repos_star_sum": 1786
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 8666
+  }
+}

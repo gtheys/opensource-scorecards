@@ -1,6 +1,6 @@
 {
   "slug": "ritschalex/jupyter_ascending.nvim",
-  "fetched_at": "2026-08-19T04:20:59.589928655Z",
+  "fetched_at": "2026-08-29T10:22:42.321866168Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "A Neovim plugin for seamless integration with Jupyter Notebooks through Jupyter Ascending",
     "license_spdx": "MIT",
     "last_commit_at": "2026-06-27T18:43:47Z",
-    "commits_90d": 5,
+    "commits_90d": 4,
     "releases_365d": 0,
     "median_issue_close_days": null,
     "median_pr_close_days": null,

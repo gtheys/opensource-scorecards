@@ -1,26 +1,26 @@
 {
   "slug": "nosduco/remote-sshfs.nvim",
-  "fetched_at": "2026-08-19T04:14:25.080608964Z",
+  "fetched_at": "2026-08-29T10:15:41.418336937Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 425,
+    "stars": 426,
     "forks": 24,
     "description": "Explore, edit, and develop on a remote machine via SSHFS with Neovim",
     "license_spdx": "MIT",
     "last_commit_at": "2026-04-05T04:04:35Z",
     "commits_90d": 0,
-    "releases_365d": 2,
+    "releases_365d": 1,
     "median_issue_close_days": 37.64413194444444,
     "median_pr_close_days": 0.06761574074074074,
     "open_issues": 21,
     "closed_issues_sampled": 14,
     "contributors_12mo": 2,
-    "top_author_commit_share": 0.8333333333333334,
+    "top_author_commit_share": 0.8,
     "top_author": {
       "login": "nosduco",
       "account_created_at": "2011-10-18T22:00:54Z",
-      "other_repos_star_sum": 608
+      "other_repos_star_sum": 609
     },
     "has_ci": true,
     "has_tests": true,

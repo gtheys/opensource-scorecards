@@ -1,6 +1,6 @@
 {
   "slug": "mizlan/iswap.nvim",
-  "fetched_at": "2026-08-18T10:17:49.408408659Z",
+  "fetched_at": "2026-08-29T10:11:18.253885257Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "Interactively select and swap function arguments, list elements, and much more. Powered by tree-sitter.",
     "license_spdx": "MIT",
     "last_commit_at": "2026-05-29T02:09:06Z",
-    "commits_90d": 2,
+    "commits_90d": 0,
     "releases_365d": 0,
     "median_issue_close_days": 86.49595486111112,
     "median_pr_close_days": 0.8264814814814815,

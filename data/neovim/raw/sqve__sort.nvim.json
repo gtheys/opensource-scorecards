@@ -1,0 +1,29 @@
+{
+  "slug": "sqve/sort.nvim",
+  "fetched_at": "2026-08-29T10:28:02.660210437Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 217,
+    "forks": 4,
+    "description": "Sorting plugin for Neovim that supports line-wise and delimiter sorting.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-04-17T13:24:24Z",
+    "commits_90d": 0,
+    "releases_365d": 4,
+    "median_issue_close_days": 0.5021122685185185,
+    "median_pr_close_days": 0.18612268518518518,
+    "open_issues": 0,
+    "closed_issues_sampled": 14,
+    "contributors_12mo": 2,
+    "top_author_commit_share": 0.8636363636363636,
+    "top_author": {
+      "login": "sQVe",
+      "account_created_at": "2012-09-05T12:42:29Z",
+      "other_repos_star_sum": 351
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 5734
+  }
+}

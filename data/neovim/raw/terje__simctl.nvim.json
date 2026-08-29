@@ -1,0 +1,25 @@
+{
+  "slug": "terje/simctl.nvim",
+  "fetched_at": "2026-08-29T10:30:14.901002571Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 42,
+    "forks": 0,
+    "description": "NeoVim plugin to interact with iOS Simulators",
+    "license_spdx": "MIT",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 0.02665509259259259,
+    "median_pr_close_days": 0.0006192129629629629,
+    "open_issues": 0,
+    "closed_issues_sampled": 1,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 12307
+  }
+}

@@ -1,10 +1,10 @@
 {
   "slug": "niuiic/track.nvim",
-  "fetched_at": "2026-08-19T04:13:59.607916028Z",
+  "fetched_at": "2026-08-29T10:15:12.392384841Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 26,
+    "stars": 25,
     "forks": 0,
     "description": "Neovim plugin to track the thought process of reading source code.",
     "license_spdx": "MIT",

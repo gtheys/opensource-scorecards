@@ -1,6 +1,6 @@
 {
   "slug": "nvim-treesitter/nvim-treesitter-context",
-  "fetched_at": "2026-08-19T04:15:41.541861517Z",
+  "fetched_at": "2026-08-29T10:17:10.785733326Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -13,7 +13,7 @@
     "releases_365d": 0,
     "median_issue_close_days": 0.1396585648148148,
     "median_pr_close_days": 0.03924189814814815,
-    "open_issues": 30,
+    "open_issues": 31,
     "closed_issues_sampled": 16,
     "contributors_12mo": 8,
     "top_author_commit_share": 0.3684210526315789,

@@ -1,0 +1,29 @@
+{
+  "slug": "saya-ashen/agent-workbench.nvim",
+  "fetched_at": "2026-08-29T10:25:26.580698447Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 16,
+    "forks": 0,
+    "description": "A workspace-aware Neovim workbench for coding agents, currently powered by pi.dev.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-29T07:30:51Z",
+    "commits_90d": 261,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.008125,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 5,
+    "top_author_commit_share": 0.45799457994579945,
+    "top_author": {
+      "login": "zgs225",
+      "account_created_at": "2013-02-07T12:17:03Z",
+      "other_repos_star_sum": 614
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 18558
+  }
+}

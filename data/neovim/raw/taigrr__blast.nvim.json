@@ -1,0 +1,29 @@
+{
+  "slug": "taigrr/blast.nvim",
+  "fetched_at": "2026-08-29T10:29:27.746829063Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 3,
+    "forks": 0,
+    "description": "Neovim plugin that tracks coding activity (time, filetypes, APM, WPM) and syncs it to the NvimBlast dashboard via a local blastd daemon",
+    "license_spdx": "0BSD",
+    "last_commit_at": "2026-08-08T23:03:33Z",
+    "commits_90d": 10,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 4.386585648148148,
+    "open_issues": 1,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "taigrr",
+      "account_created_at": "2014-07-24T21:33:05Z",
+      "other_repos_star_sum": 189
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 3040
+  }
+}

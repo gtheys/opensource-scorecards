@@ -1,10 +1,10 @@
 {
   "slug": "saghen/blink.indent",
-  "fetched_at": "2026-08-19T04:22:37.070797274Z",
+  "fetched_at": "2026-08-29T10:24:25.117958587Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 232,
+    "stars": 233,
     "forks": 9,
     "description": "Performant indent guides for neovim",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "saghen",
       "account_created_at": "2015-01-09T19:15:50Z",
-      "other_repos_star_sum": 8450
+      "other_repos_star_sum": 8467
     },
     "has_ci": true,
     "has_tests": false,

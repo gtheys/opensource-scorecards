@@ -1,0 +1,25 @@
+{
+  "slug": "tjdevries/vlog.nvim",
+  "fetched_at": "2026-08-29T10:31:16.180888847Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 143,
+    "forks": 8,
+    "description": "Single file, no dependency, easy copy & paste log file to add to your neovim lua plugins",
+    "license_spdx": "MIT",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 951.3207638888889,
+    "open_issues": 5,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 2379
+  }
+}

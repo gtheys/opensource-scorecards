@@ -1,0 +1,29 @@
+{
+  "slug": "silletr/lazydeveloperhelper",
+  "fetched_at": "2026-08-29T10:26:40.613587627Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 18,
+    "forks": 2,
+    "description": "Too lazy for write \"pip install -r requirements.txt\", or \"cargo add ...\".. or maybe.. \"luarocks install ..\" and writing it to requirements file? This plugin for you!",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-07-05T17:01:31Z",
+    "commits_90d": 19,
+    "releases_365d": 11,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.0004861111111111111,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "Silletr",
+      "account_created_at": "2023-12-16T13:19:32Z",
+      "other_repos_star_sum": 21
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 8812
+  }
+}

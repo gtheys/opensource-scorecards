@@ -1,0 +1,25 @@
+{
+  "slug": "tamton-aquib/staline.nvim",
+  "fetched_at": "2026-08-29T10:29:47.163227984Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 399,
+    "forks": 21,
+    "description": "A modern lightweight statusline and bufferline plugin for neovim in lua.",
+    "license_spdx": "MIT",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 1.0629513888888888,
+    "median_pr_close_days": 0.3422685185185185,
+    "open_issues": 8,
+    "closed_issues_sampled": 31,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 7022
+  }
+}

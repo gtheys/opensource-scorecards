@@ -1,10 +1,10 @@
 {
   "slug": "neo451/feed.nvim",
-  "fetched_at": "2026-08-18T10:19:56.575836565Z",
+  "fetched_at": "2026-08-29T10:13:46.115208595Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 206,
+    "stars": 205,
     "forks": 3,
     "description": "Neovim feed reader, rss, atom and jsonfeed, all in lua",
     "license_spdx": "GPL-3.0",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "neo451",
       "account_created_at": "2022-08-21T09:06:01Z",
-      "other_repos_star_sum": 386
+      "other_repos_star_sum": 385
     },
     "has_ci": true,
     "has_tests": true,

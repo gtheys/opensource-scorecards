@@ -1,16 +1,16 @@
 {
   "slug": "normalnvim/normalnvim",
-  "fetched_at": "2026-08-19T04:14:21.057679805Z",
+  "fetched_at": "2026-08-29T10:15:37.127635641Z",
   "status": "ok",
   "data": {
     "archived": false,
     "stars": 725,
-    "forks": 355,
+    "forks": 356,
     "description": "A normal Neovim distribution",
     "license_spdx": "GPL-3.0",
     "last_commit_at": "2026-08-17T21:47:24Z",
     "commits_90d": 3,
-    "releases_365d": 4,
+    "releases_365d": 3,
     "median_issue_close_days": 51.08844328703704,
     "median_pr_close_days": 0.00008101851851851852,
     "open_issues": 4,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "Zeioth",
       "account_created_at": "2013-01-23T18:25:04Z",
-      "other_repos_star_sum": 1937
+      "other_repos_star_sum": 1935
     },
     "has_ci": true,
     "has_tests": false,

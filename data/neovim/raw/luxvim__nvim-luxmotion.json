@@ -1,10 +1,10 @@
 {
   "slug": "luxvim/nvim-luxmotion",
-  "fetched_at": "2026-08-19T04:10:54.185995575Z",
+  "fetched_at": "2026-08-29T10:08:02.426302551Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 57,
+    "stars": 58,
     "forks": 2,
     "description": "Smooth, high‑performance motion & scrolling animations — 60fps fluid cursor moves, word jumps, and viewport scrolling, all in one.",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "josstei",
       "account_created_at": "2019-03-18T21:07:06Z",
-      "other_repos_star_sum": 542
+      "other_repos_star_sum": 547
     },
     "has_ci": false,
     "has_tests": true,

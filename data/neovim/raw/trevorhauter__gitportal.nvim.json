@@ -1,0 +1,29 @@
+{
+  "slug": "trevorhauter/gitportal.nvim",
+  "fetched_at": "2026-08-29T10:31:50.250378770Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 93,
+    "forks": 6,
+    "description": "Bridge the gap between your favorite git host & neovim.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2025-12-21T14:31:10Z",
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 49.11465277777778,
+    "median_pr_close_days": 0.012060185185185186,
+    "open_issues": 0,
+    "closed_issues_sampled": 19,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "trevorhauter",
+      "account_created_at": "2020-11-10T18:00:59Z",
+      "other_repos_star_sum": 103
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 232
+  }
+}

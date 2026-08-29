@@ -1,0 +1,25 @@
+{
+  "slug": "sontungexpt/better-diagnostic-virtual-text",
+  "fetched_at": "2026-08-29T10:27:30.359423371Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 94,
+    "forks": 2,
+    "description": "Enhances the display of virtual text for diagnostics in Neovim. This function aims to provide a more user-friendly and informative presentation of diagnostic messages directly within the editor.",
+    "license_spdx": "MIT",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 42.72893518518518,
+    "median_pr_close_days": null,
+    "open_issues": 3,
+    "closed_issues_sampled": 2,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": true,
+    "readme_len": 19272
+  }
+}

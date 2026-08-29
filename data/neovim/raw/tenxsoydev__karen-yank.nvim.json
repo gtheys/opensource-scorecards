@@ -1,0 +1,25 @@
+{
+  "slug": "tenxsoydev/karen-yank.nvim",
+  "fetched_at": "2026-08-29T10:30:05.091867838Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 94,
+    "forks": 1,
+    "description": "Neovim Lua plugin to improve register handling with delete, cut and yank mappings.",
+    "license_spdx": "MIT",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 0.13504050925925926,
+    "median_pr_close_days": 0.002939814814814815,
+    "open_issues": 1,
+    "closed_issues_sampled": 10,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 6180
+  }
+}

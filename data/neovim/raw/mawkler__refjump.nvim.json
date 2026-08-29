@@ -1,6 +1,6 @@
 {
   "slug": "mawkler/refjump.nvim",
-  "fetched_at": "2026-08-19T04:11:30.390100331Z",
+  "fetched_at": "2026-08-29T10:09:21.419826140Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "mawkler",
       "account_created_at": "2015-11-12T12:52:11Z",
-      "other_repos_star_sum": 723
+      "other_repos_star_sum": 722
     },
     "has_ci": true,
     "has_tests": false,

@@ -1,10 +1,10 @@
 {
   "slug": "olimorris/onedarkpro.nvim",
-  "fetched_at": "2026-08-19T04:17:01.107834248Z",
+  "fetched_at": "2026-08-29T10:18:39.988994001Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 1090,
+    "stars": 1093,
     "forks": 55,
     "description": "🎨 Atom's iconic One Dark theme. Cacheable, fully customisable, Tree-sitter and LSP semantic token support. Comes with variants",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "olimorris",
       "account_created_at": "2014-11-02T11:41:08Z",
-      "other_repos_star_sum": 9383
+      "other_repos_star_sum": 9404
     },
     "has_ci": true,
     "has_tests": true,

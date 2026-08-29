@@ -1,0 +1,25 @@
+{
+  "slug": "vidocqh/auto-indent.nvim",
+  "fetched_at": "2026-08-29T10:32:42.365663545Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 91,
+    "forks": 1,
+    "description": "Auto indent like VSCode when cursor at the first column and press <TAB> key",
+    "license_spdx": "MIT",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 4.931238425925926,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 5,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 1103
+  }
+}

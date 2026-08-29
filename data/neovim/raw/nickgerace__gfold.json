@@ -1,6 +1,6 @@
 {
   "slug": "nickgerace/gfold",
-  "fetched_at": "2026-08-19T04:13:20.134343822Z",
+  "fetched_at": "2026-08-29T10:14:22.368510279Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -10,7 +10,7 @@
     "license_spdx": "Apache-2.0",
     "last_commit_at": "2026-06-10T05:29:33Z",
     "commits_90d": 3,
-    "releases_365d": 4,
+    "releases_365d": 3,
     "median_issue_close_days": 147.43631944444445,
     "median_pr_close_days": 0.03794560185185185,
     "open_issues": 8,

@@ -1,6 +1,6 @@
 {
   "slug": "netmute/foldsigns.nvim",
-  "fetched_at": "2026-08-18T10:20:13.685777668Z",
+  "fetched_at": "2026-08-29T10:14:03.617183461Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "netmute",
       "account_created_at": "2011-01-20T14:17:30Z",
-      "other_repos_star_sum": 605
+      "other_repos_star_sum": 606
     },
     "has_ci": false,
     "has_tests": false,

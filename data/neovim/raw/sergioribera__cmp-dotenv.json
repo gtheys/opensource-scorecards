@@ -1,0 +1,25 @@
+{
+  "slug": "sergioribera/cmp-dotenv",
+  "fetched_at": "2026-08-29T10:26:11.336436424Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 94,
+    "forks": 0,
+    "description": "cmp import and use all environment variables from .env.* and system",
+    "license_spdx": "GPL-2.0",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 4.151712962962963,
+    "median_pr_close_days": 0.6559606481481481,
+    "open_issues": 3,
+    "closed_issues_sampled": 2,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 6331
+  }
+}
