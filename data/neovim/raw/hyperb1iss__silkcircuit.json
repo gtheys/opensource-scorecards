@@ -1,6 +1,6 @@
 {
   "slug": "hyperb1iss/silkcircuit",
-  "fetched_at": "2026-08-28T15:46:58.902559247Z",
+  "fetched_at": "2026-08-30T09:36:29.740102981Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "hyperb1iss",
       "account_created_at": "2009-07-06T14:26:47Z",
-      "other_repos_star_sum": 1361
+      "other_repos_star_sum": 1364
     },
     "has_ci": true,
     "has_tests": true,

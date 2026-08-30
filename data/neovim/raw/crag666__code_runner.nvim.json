@@ -1,6 +1,6 @@
 {
   "slug": "crag666/code_runner.nvim",
-  "fetched_at": "2026-08-28T15:35:02.261904182Z",
+  "fetched_at": "2026-08-30T09:26:28.807896477Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "Neovim plugin.The best code runner you could have, it is like the one in vscode but with super powers, it manages projects like in intellij but without being slow",
     "license_spdx": "MIT",
     "last_commit_at": "2026-08-20T22:14:45Z",
-    "commits_90d": 9,
+    "commits_90d": 7,
     "releases_365d": 0,
     "median_issue_close_days": 125.68704861111112,
     "median_pr_close_days": 2.1114351851851856,

@@ -1,6 +1,6 @@
 {
   "slug": "404pilo/aicommits.nvim",
-  "fetched_at": "2026-08-28T15:24:52.474138883Z",
+  "fetched_at": "2026-08-30T09:17:38.873748090Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "Generate conventional commit messages using AI, directly in Neovim",
     "license_spdx": "MIT",
     "last_commit_at": "2026-08-01T11:50:54Z",
-    "commits_90d": 7,
+    "commits_90d": 6,
     "releases_365d": 0,
     "median_issue_close_days": 5.268298611111111,
     "median_pr_close_days": 0.2200462962962963,

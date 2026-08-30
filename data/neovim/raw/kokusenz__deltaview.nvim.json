@@ -1,6 +1,6 @@
 {
   "slug": "kokusenz/deltaview.nvim",
-  "fetched_at": "2026-08-28T15:53:42.253704902Z",
+  "fetched_at": "2026-08-30T09:42:12.148775711Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "inline/unified diff view in neovim with delta highlighting",
     "license_spdx": "MIT",
     "last_commit_at": "2026-06-23T03:10:18Z",
-    "commits_90d": 29,
+    "commits_90d": 25,
     "releases_365d": 0,
     "median_issue_close_days": 6.9134375,
     "median_pr_close_days": 0.0025694444444444445,

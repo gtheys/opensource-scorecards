@@ -1,6 +1,6 @@
 {
   "slug": "ggandor/flit.nvim",
-  "fetched_at": "2026-08-28T15:44:16.600441095Z",
+  "fetched_at": "2026-08-30T09:34:19.004773608Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "ggandor",
       "account_created_at": "2016-03-12T16:42:18Z",
-      "other_repos_star_sum": 7395
+      "other_repos_star_sum": 7398
     },
     "has_ci": false,
     "has_tests": false,

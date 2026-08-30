@@ -1,29 +1,29 @@
 {
   "slug": "joryeugene/dadbod-grip.nvim",
-  "fetched_at": "2026-08-28T15:50:30.963338017Z",
+  "fetched_at": "2026-08-30T09:39:26.258944101Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 166,
-    "forks": 6,
-    "description": "Edit database tables like Vim buffers. Staged mutations + live SQL preview, transaction undo, schema browser + ER diagrams + DDL, FK navigation, cross-database federation, data profiling, SQL notebooks, AI SQL via Anthropic/OpenAI/Gemini/Ollama, Parquet/CSV/remote files. PostgreSQL · SQLite · MySQL · DuckDB · MotherDuck",
+    "stars": 168,
+    "forks": 7,
+    "description": "Dadbod Grip turns database tables into editable Vim buffers, with schema browsing, staged mutations, generated SQL, relationship navigation, and cross-database federation inside Neovim.",
     "license_spdx": "MIT",
-    "last_commit_at": "2026-07-31T20:28:46Z",
-    "commits_90d": 197,
-    "releases_365d": 27,
-    "median_issue_close_days": 2.7851157407407405,
-    "median_pr_close_days": 0.001099537037037037,
-    "open_issues": 9,
-    "closed_issues_sampled": 19,
-    "contributors_12mo": 4,
-    "top_author_commit_share": 0.5025773195876289,
+    "last_commit_at": "2026-08-30T03:28:02Z",
+    "commits_90d": 223,
+    "releases_365d": 28,
+    "median_issue_close_days": 12.770451388888889,
+    "median_pr_close_days": 0.0011458333333333333,
+    "open_issues": 3,
+    "closed_issues_sampled": 20,
+    "contributors_12mo": 5,
+    "top_author_commit_share": 0.5169082125603864,
     "top_author": {
-      "login": "GlebYavorski",
-      "account_created_at": "2010-09-07T16:38:58Z",
-      "other_repos_star_sum": 6
+      "login": "joryeugene",
+      "account_created_at": "2013-12-07T14:45:37Z",
+      "other_repos_star_sum": 225
     },
     "has_ci": true,
     "has_tests": true,
-    "readme_len": 53136
+    "readme_len": 53164
   }
 }

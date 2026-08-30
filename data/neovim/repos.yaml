@@ -136,7 +136,6 @@ repos:
   - backdround/tabscope.nvim
   - bakageddy/alduin.nvim
   - barreiroleo/ltex_extra.nvim
-  - barrettruth/cp.nvim
   - barrettruth/diffs.nvim
   - bassamsdata/namu.nvim
   - batoaqaa/nvim-pio
@@ -1377,7 +1376,6 @@ repos:
   - zeioth/markmap.nvim
   - zeioth/none-ls-autoload.nvim
   - zenbones-theme/zenbones.nvim
-  - zerochae/dbab.nvim
   - zeybek/camouflage.nvim
   - zgs225/pi2.nvim
   - zhisme/copy_with_context.nvim

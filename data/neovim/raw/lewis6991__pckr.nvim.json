@@ -1,6 +1,6 @@
 {
   "slug": "lewis6991/pckr.nvim",
-  "fetched_at": "2026-08-28T15:55:06.695566359Z",
+  "fetched_at": "2026-08-30T09:43:29.447594246Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -10,7 +10,7 @@
     "license_spdx": "MIT",
     "last_commit_at": "2025-09-25T15:37:57Z",
     "commits_90d": 0,
-    "releases_365d": 1,
+    "releases_365d": 0,
     "median_issue_close_days": 13.9509375,
     "median_pr_close_days": 0.14252314814814815,
     "open_issues": 8,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "lewis6991",
       "account_created_at": "2014-06-16T15:50:05Z",
-      "other_repos_star_sum": 11211
+      "other_repos_star_sum": 11210
     },
     "has_ci": true,
     "has_tests": true,

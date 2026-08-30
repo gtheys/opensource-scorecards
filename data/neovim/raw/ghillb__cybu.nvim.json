@@ -1,10 +1,10 @@
 {
   "slug": "ghillb/cybu.nvim",
-  "fetched_at": "2026-08-28T15:44:36.631152739Z",
+  "fetched_at": "2026-08-30T09:34:33.737729293Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 327,
+    "stars": 328,
     "forks": 10,
     "description": "Neovim plugin that offers context when cycling buffers in the form of a customizable notification window.",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "ghillb",
       "account_created_at": "2018-01-16T19:20:26Z",
-      "other_repos_star_sum": 341
+      "other_repos_star_sum": 342
     },
     "has_ci": true,
     "has_tests": true,

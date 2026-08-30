@@ -1,10 +1,10 @@
 {
   "slug": "hiphish/rainbow-delimiters.nvim",
-  "fetched_at": "2026-08-28T15:46:26.849087037Z",
+  "fetched_at": "2026-08-30T09:36:03.411458212Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 885,
+    "stars": 886,
     "forks": 73,
     "description": "Rainbow delimiters for Neovim with Tree-sitter",
     "license_spdx": "Apache-2.0",

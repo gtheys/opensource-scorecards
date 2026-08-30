@@ -1,10 +1,10 @@
 {
   "slug": "emmanueltouzery/decisive.nvim",
-  "fetched_at": "2026-08-28T15:40:06.706913911Z",
+  "fetched_at": "2026-08-30T09:30:56.724602056Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 127,
+    "stars": 126,
     "forks": 4,
     "description": "Neovim plugin to assist work with CSV files",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "emmanueltouzery",
       "account_created_at": "2010-07-21T07:50:29Z",
-      "other_repos_star_sum": 788
+      "other_repos_star_sum": 787
     },
     "has_ci": false,
     "has_tests": false,

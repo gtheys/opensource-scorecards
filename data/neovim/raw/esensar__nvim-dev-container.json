@@ -1,6 +1,6 @@
 {
   "slug": "esensar/nvim-dev-container",
-  "fetched_at": "2026-08-28T15:40:35.100057104Z",
+  "fetched_at": "2026-08-30T09:31:22.415371411Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "esensar",
       "account_created_at": "2012-11-10T08:26:31Z",
-      "other_repos_star_sum": 871
+      "other_repos_star_sum": 872
     },
     "has_ci": false,
     "has_tests": true,
