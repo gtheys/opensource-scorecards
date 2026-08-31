@@ -1,6 +1,6 @@
 {
   "slug": "h-hg/fcitx.nvim",
-  "fetched_at": "2026-08-30T09:35:13.567892172Z",
+  "fetched_at": "2026-08-31T10:03:15.491749823Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -18,9 +18,9 @@
     "contributors_12mo": 2,
     "top_author_commit_share": 0.5,
     "top_author": {
-      "login": "h-hg",
-      "account_created_at": "2018-05-04T14:23:51Z",
-      "other_repos_star_sum": 326
+      "login": "JunYang-tes",
+      "account_created_at": "2016-02-16T10:33:09Z",
+      "other_repos_star_sum": 28
     },
     "has_ci": false,
     "has_tests": false,

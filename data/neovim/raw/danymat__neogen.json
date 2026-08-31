@@ -1,10 +1,10 @@
 {
   "slug": "danymat/neogen",
-  "fetched_at": "2026-08-28T15:36:34.954193905Z",
+  "fetched_at": "2026-08-31T09:56:39.297527982Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 1659,
+    "stars": 1658,
     "forks": 74,
     "description": "A better annotation generator. Supports multiple languages and annotation conventions.",
     "license_spdx": "GPL-3.0",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "jonathf",
       "account_created_at": "2011-11-02T12:59:35Z",
-      "other_repos_star_sum": 714
+      "other_repos_star_sum": 713
     },
     "has_ci": true,
     "has_tests": true,

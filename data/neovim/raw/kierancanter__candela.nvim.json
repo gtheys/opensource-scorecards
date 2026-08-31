@@ -1,10 +1,10 @@
 {
   "slug": "kierancanter/candela.nvim",
-  "fetched_at": "2026-08-30T09:41:24.686337259Z",
+  "fetched_at": "2026-08-31T10:08:47.420969008Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 43,
+    "stars": 44,
     "forks": 1,
     "description": "Neovim plugin designed for log analysis. Define regex patterns to highlight matching lines. Use the \"lightbox\" to hide unmatched lines.",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "kicanter",
       "account_created_at": "2020-11-19T18:00:10Z",
-      "other_repos_star_sum": 55
+      "other_repos_star_sum": 56
     },
     "has_ci": true,
     "has_tests": true,
