@@ -1,11 +1,11 @@
 {
   "slug": "ashfinal/qfview.nvim",
-  "fetched_at": "2026-08-31T09:50:28.009004514Z",
+  "fetched_at": "2026-09-01T08:47:29.726081654Z",
   "status": "ok",
   "data": {
     "archived": false,
     "stars": 54,
-    "forks": 4,
+    "forks": 3,
     "description": "Pretty quickfix/location view for Neovim",
     "license_spdx": "MIT",
     "last_commit_at": null,
@@ -13,7 +13,7 @@
     "releases_365d": 0,
     "median_issue_close_days": null,
     "median_pr_close_days": 0.19466435185185185,
-    "open_issues": 1,
+    "open_issues": 0,
     "closed_issues_sampled": 0,
     "contributors_12mo": 0,
     "top_author_commit_share": 0.0,

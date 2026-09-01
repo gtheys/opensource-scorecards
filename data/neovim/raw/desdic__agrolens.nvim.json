@@ -1,6 +1,6 @@
 {
   "slug": "desdic/agrolens.nvim",
-  "fetched_at": "2026-08-31T09:57:12.993784545Z",
+  "fetched_at": "2026-09-01T08:56:58.967807082Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "Use Telescope or fzf to view pre-defined/custom treesitter queries",
     "license_spdx": "MIT",
     "last_commit_at": "2026-06-15T04:35:45Z",
-    "commits_90d": 6,
+    "commits_90d": 3,
     "releases_365d": 6,
     "median_issue_close_days": 1.9730324074074075,
     "median_pr_close_days": 0.0029745370370370373,

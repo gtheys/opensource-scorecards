@@ -1,6 +1,6 @@
 {
   "slug": "copilotc-nvim/copilotchat.nvim",
-  "fetched_at": "2026-08-31T09:55:05.710116885Z",
+  "fetched_at": "2026-09-01T08:53:46.597491493Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -10,13 +10,13 @@
     "license_spdx": "GPL-3.0",
     "last_commit_at": "2026-08-30T06:25:14Z",
     "commits_90d": 2,
-    "releases_365d": 6,
+    "releases_365d": 5,
     "median_issue_close_days": 18.192939814814814,
     "median_pr_close_days": 0.0011805555555555556,
     "open_issues": 22,
     "closed_issues_sampled": 19,
     "contributors_12mo": 15,
-    "top_author_commit_share": 0.7692307692307693,
+    "top_author_commit_share": 0.7662337662337663,
     "top_author": {
       "login": "deathbeam",
       "account_created_at": "2013-07-29T19:31:04Z",

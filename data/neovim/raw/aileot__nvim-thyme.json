@@ -1,11 +1,11 @@
 {
   "slug": "aileot/nvim-thyme",
-  "fetched_at": "2026-08-31T09:48:49.383114337Z",
+  "fetched_at": "2026-09-01T08:45:16.071833131Z",
   "status": "ok",
   "data": {
     "archived": false,
     "stars": 42,
-    "forks": 1,
+    "forks": 0,
     "description": "🕛 Zero-overhead Fennel JIT compiler at runtime of Neovim with safety rollbacks",
     "license_spdx": "MIT",
     "last_commit_at": "2025-10-28T21:58:25Z",
@@ -13,7 +13,7 @@
     "releases_365d": 4,
     "median_issue_close_days": 0.019560185185185184,
     "median_pr_close_days": 0.003553240740740741,
-    "open_issues": 3,
+    "open_issues": 2,
     "closed_issues_sampled": 9,
     "contributors_12mo": 1,
     "top_author_commit_share": 1.0,

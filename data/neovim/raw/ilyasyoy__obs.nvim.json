@@ -1,6 +1,6 @@
 {
   "slug": "ilyasyoy/obs.nvim",
-  "fetched_at": "2026-08-31T10:04:47.902444887Z",
+  "fetched_at": "2026-09-01T09:07:32.349288552Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "Obsidian-like Neovim plugin.",
     "license_spdx": "Apache-2.0",
     "last_commit_at": "2026-08-24T19:18:39Z",
-    "commits_90d": 5,
+    "commits_90d": 4,
     "releases_365d": 1,
     "median_issue_close_days": 825.7135706018519,
     "median_pr_close_days": 0.8693055555555556,

@@ -1,6 +1,6 @@
 {
   "slug": "chuyanlon/telegram.nvim",
-  "fetched_at": "2026-08-31T09:54:38.141408406Z",
+  "fetched_at": "2026-09-01T08:53:10.504722791Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,11 +9,11 @@
     "description": "A Telegram chat client inside Neovim, powered by TDLib + TypeScript + Lua",
     "license_spdx": "MIT",
     "last_commit_at": "2026-08-09T01:45:24Z",
-    "commits_90d": 273,
+    "commits_90d": 254,
     "releases_365d": 15,
     "median_issue_close_days": 3.7219675925925926,
     "median_pr_close_days": 0.00015046296296296297,
-    "open_issues": 0,
+    "open_issues": 4,
     "closed_issues_sampled": 20,
     "contributors_12mo": 2,
     "top_author_commit_share": 0.9988317757009346,

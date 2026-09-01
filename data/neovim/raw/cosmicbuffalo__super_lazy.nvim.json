@@ -1,6 +1,6 @@
 {
   "slug": "cosmicbuffalo/super_lazy.nvim",
-  "fetched_at": "2026-08-31T09:55:14.751651470Z",
+  "fetched_at": "2026-09-01T08:53:58.397702184Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "cosmicbuffalo",
       "account_created_at": "2017-01-16T19:03:05Z",
-      "other_repos_star_sum": 109
+      "other_repos_star_sum": 110
     },
     "has_ci": true,
     "has_tests": true,

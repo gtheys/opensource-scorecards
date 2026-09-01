@@ -1,6 +1,6 @@
 {
   "slug": "dnlhc/glance.nvim",
-  "fetched_at": "2026-08-31T09:57:58.422343965Z",
+  "fetched_at": "2026-09-01T08:58:06.025123838Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -8,16 +8,20 @@
     "forks": 30,
     "description": "Peek preview window for LSP locations in Neovim",
     "license_spdx": "MIT",
-    "last_commit_at": null,
-    "commits_90d": 0,
+    "last_commit_at": "2026-08-31T23:00:05Z",
+    "commits_90d": 8,
     "releases_365d": 0,
-    "median_issue_close_days": 1.3187037037037037,
-    "median_pr_close_days": 4.2321990740740745,
-    "open_issues": 22,
-    "closed_issues_sampled": 27,
-    "contributors_12mo": 0,
-    "top_author_commit_share": 0.0,
-    "top_author": null,
+    "median_issue_close_days": 1.5825462962962964,
+    "median_pr_close_days": 9.671319444444444,
+    "open_issues": 19,
+    "closed_issues_sampled": 21,
+    "contributors_12mo": 3,
+    "top_author_commit_share": 0.75,
+    "top_author": {
+      "login": "khaneliman",
+      "account_created_at": "2012-05-25T16:46:20Z",
+      "other_repos_star_sum": 715
+    },
     "has_ci": true,
     "has_tests": false,
     "readme_len": 10945

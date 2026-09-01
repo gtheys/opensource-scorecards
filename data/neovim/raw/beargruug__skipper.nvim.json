@@ -1,6 +1,6 @@
 {
   "slug": "beargruug/skipper.nvim",
-  "fetched_at": "2026-08-31T09:51:40.306869862Z",
+  "fetched_at": "2026-09-01T08:49:07.654359027Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "skip: Trough files like a pirate",
     "license_spdx": "MIT",
     "last_commit_at": "2026-07-07T05:58:57Z",
-    "commits_90d": 9,
+    "commits_90d": 8,
     "releases_365d": 7,
     "median_issue_close_days": 0.05443287037037037,
     "median_pr_close_days": 0.0005555555555555556,

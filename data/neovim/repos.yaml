@@ -557,6 +557,7 @@ repos:
   - joryeugene/dadbod-grip.nvim
   - josephburgess/nvumi
   - josephschmitt/pj.nvim
+  - jpease/hex-outdated.nvim
   - jpmcb/nvim-llama
   - jpwol/thorn.nvim
   - jrop/morph.nvim
@@ -937,6 +938,7 @@ repos:
   - ostralyan/scribe.nvim
   - otavioschwanck/arrow.nvim
   - otavioschwanck/telescope-alternate.nvim
+  - overflow/fs-review.nvim
   - ovk/endec.nvim
   - owen-dechow/videre.nvim
   - oxfist/night-owl.nvim
@@ -1010,6 +1012,7 @@ repos:
   - ray-x/sad.nvim
   - ray-x/starry.nvim
   - raymondware/focusmode.nvim
+  - raymondware/herdr.nvim
   - rcarriga/nvim-dap-ui
   - rcarriga/nvim-notify
   - rebelot/heirline.nvim

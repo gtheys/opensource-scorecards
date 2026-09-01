@@ -1,6 +1,6 @@
 {
   "slug": "gbprod/yanky.nvim",
-  "fetched_at": "2026-08-31T10:02:05.292740059Z",
+  "fetched_at": "2026-09-01T09:03:33.217645294Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "gbprod",
       "account_created_at": "2013-03-02T20:23:41Z",
-      "other_repos_star_sum": 3070
+      "other_repos_star_sum": 3071
     },
     "has_ci": true,
     "has_tests": true,
