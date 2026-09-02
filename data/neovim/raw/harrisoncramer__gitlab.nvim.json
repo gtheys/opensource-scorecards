@@ -1,15 +1,15 @@
 {
   "slug": "harrisoncramer/gitlab.nvim",
-  "fetched_at": "2026-09-01T09:05:35.811035719Z",
+  "fetched_at": "2026-09-02T08:16:05.860627336Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 397,
+    "stars": 398,
     "forks": 61,
     "description": "Manage Gitlab resources in Neovim",
     "license_spdx": "MIT",
     "last_commit_at": "2026-08-31T13:10:11Z",
-    "commits_90d": 27,
+    "commits_90d": 25,
     "releases_365d": 4,
     "median_issue_close_days": 26.4871875,
     "median_pr_close_days": 1.1721064814814814,

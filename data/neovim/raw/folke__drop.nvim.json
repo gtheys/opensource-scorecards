@@ -1,6 +1,6 @@
 {
   "slug": "folke/drop.nvim",
-  "fetched_at": "2026-09-01T09:02:08.982989756Z",
+  "fetched_at": "2026-09-02T08:13:34.289146416Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "folke",
       "account_created_at": "2010-05-31T14:14:10Z",
-      "other_repos_star_sum": 42042
+      "other_repos_star_sum": 42055
     },
     "has_ci": true,
     "has_tests": false,

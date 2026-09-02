@@ -1,6 +1,6 @@
 {
   "slug": "cwood-sdf/banana.nvim",
-  "fetched_at": "2026-09-01T08:55:22.749433538Z",
+  "fetched_at": "2026-09-02T08:08:03.360083050Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "CWood-sdf",
       "account_created_at": "2022-01-25T01:20:35Z",
-      "other_repos_star_sum": 406
+      "other_repos_star_sum": 407
     },
     "has_ci": true,
     "has_tests": true,

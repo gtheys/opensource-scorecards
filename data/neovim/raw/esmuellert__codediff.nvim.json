@@ -1,10 +1,10 @@
 {
   "slug": "esmuellert/codediff.nvim",
-  "fetched_at": "2026-09-01T09:00:34.385559453Z",
+  "fetched_at": "2026-09-02T08:12:15.756196011Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 1538,
+    "stars": 1541,
     "forks": 91,
     "description": "VSCode-style diff, merge and git history for Neovim. Side-by-side or inline, with character-level highlighting from VSCode's own diff algorithm in C.",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "esmuellert",
       "account_created_at": "2018-07-10T06:13:43Z",
-      "other_repos_star_sum": 1632
+      "other_repos_star_sum": 1635
     },
     "has_ci": true,
     "has_tests": true,

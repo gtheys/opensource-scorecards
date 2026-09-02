@@ -1,6 +1,6 @@
 {
   "slug": "julian/lean.nvim",
-  "fetched_at": "2026-09-01T09:11:06.635646166Z",
+  "fetched_at": "2026-09-02T08:20:10.284529950Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -15,8 +15,8 @@
     "median_pr_close_days": 3.9843171296296296,
     "open_issues": 38,
     "closed_issues_sampled": 13,
-    "contributors_12mo": 10,
-    "top_author_commit_share": 0.9204545454545454,
+    "contributors_12mo": 9,
+    "top_author_commit_share": 0.9223744292237442,
     "top_author": {
       "login": "Julian",
       "account_created_at": "2010-07-12T17:03:40Z",

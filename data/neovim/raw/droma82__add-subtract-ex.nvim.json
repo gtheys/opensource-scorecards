@@ -1,10 +1,10 @@
 {
   "slug": "droma82/add-subtract-ex.nvim",
-  "fetched_at": "2026-09-01T08:59:02.506673741Z",
+  "fetched_at": "2026-09-02T08:11:01.500436112Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 15,
+    "stars": 16,
     "forks": 0,
     "description": null,
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "DRoma82",
       "account_created_at": "2015-02-24T14:25:00Z",
-      "other_repos_star_sum": 15
+      "other_repos_star_sum": 16
     },
     "has_ci": true,
     "has_tests": true,
