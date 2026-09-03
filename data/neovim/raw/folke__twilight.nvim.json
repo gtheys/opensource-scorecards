@@ -1,6 +1,6 @@
 {
   "slug": "folke/twilight.nvim",
-  "fetched_at": "2026-09-02T08:14:05.473704146Z",
+  "fetched_at": "2026-09-03T08:27:32.377254112Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "folke",
       "account_created_at": "2010-05-31T14:14:10Z",
-      "other_repos_star_sum": 42055
+      "other_repos_star_sum": 42059
     },
     "has_ci": true,
     "has_tests": false,

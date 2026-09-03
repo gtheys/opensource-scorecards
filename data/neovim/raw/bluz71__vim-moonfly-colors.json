@@ -1,6 +1,6 @@
 {
   "slug": "bluz71/vim-moonfly-colors",
-  "fetched_at": "2026-09-02T08:03:38.582216639Z",
+  "fetched_at": "2026-09-03T08:14:14.972147505Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -8,8 +8,8 @@
     "forks": 75,
     "description": "A dark charcoal theme for modern Neovim & classic Vim",
     "license_spdx": "MIT",
-    "last_commit_at": "2026-05-30T10:42:28Z",
-    "commits_90d": 0,
+    "last_commit_at": "2026-09-03T05:36:05Z",
+    "commits_90d": 1,
     "releases_365d": 0,
     "median_issue_close_days": 0.6061168981481482,
     "median_pr_close_days": 0.5348437500000001,

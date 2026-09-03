@@ -1,6 +1,6 @@
 {
   "slug": "jesperlundberg/projektgunnar.nvim",
-  "fetched_at": "2026-09-02T08:19:04.248455756Z",
+  "fetched_at": "2026-09-03T08:34:36.802350450Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "Gunnar is the nice old Swedish man who helps you add projects or packages to dotnet solutions so you can take a Fika(tm) instead of having to remember how to do the different dotnet commands.",
     "license_spdx": "Apache-2.0",
     "last_commit_at": "2026-06-04T12:49:13Z",
-    "commits_90d": 1,
+    "commits_90d": 0,
     "releases_365d": 0,
     "median_issue_close_days": null,
     "median_pr_close_days": 0.001232638888888889,

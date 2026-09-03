@@ -1,6 +1,6 @@
 {
   "slug": "hakonharnes/img-clip.nvim",
-  "fetched_at": "2026-09-02T08:16:00.915409266Z",
+  "fetched_at": "2026-09-03T08:30:26.078228617Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -8,19 +8,19 @@
     "forks": 40,
     "description": "Embed images into any markup language, like LaTeX, Markdown or Typst",
     "license_spdx": "MIT",
-    "last_commit_at": "2025-12-19T08:17:25Z",
-    "commits_90d": 0,
+    "last_commit_at": "2026-09-02T15:46:52Z",
+    "commits_90d": 1,
     "releases_365d": 0,
     "median_issue_close_days": 1.1143402777777778,
     "median_pr_close_days": 0.0021180555555555558,
-    "open_issues": 13,
-    "closed_issues_sampled": 17,
-    "contributors_12mo": 3,
-    "top_author_commit_share": 0.3333333333333333,
+    "open_issues": 12,
+    "closed_issues_sampled": 15,
+    "contributors_12mo": 4,
+    "top_author_commit_share": 0.25,
     "top_author": {
-      "login": "chappertron",
-      "account_created_at": "2019-07-04T12:29:55Z",
-      "other_repos_star_sum": 7
+      "login": "engeir",
+      "account_created_at": "2018-04-30T11:52:21Z",
+      "other_repos_star_sum": 89
     },
     "has_ci": true,
     "has_tests": true,

@@ -1,10 +1,10 @@
 {
   "slug": "is0n/jaq-nvim",
-  "fetched_at": "2026-09-02T08:17:57.050252825Z",
+  "fetched_at": "2026-09-03T08:33:04.126189392Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 180,
+    "stars": 179,
     "forks": 21,
     "description": "⚙️ Just Another Quickrun Plugin for Neovim in Lua",
     "license_spdx": "GPL-3.0",

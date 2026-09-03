@@ -1,6 +1,6 @@
 {
   "slug": "chojs23/ts-bridge",
-  "fetched_at": "2026-09-02T08:04:57.179792570Z",
+  "fetched_at": "2026-09-03T08:15:56.208906202Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "chojs23",
       "account_created_at": "2019-09-25T11:32:37Z",
-      "other_repos_star_sum": 1793
+      "other_repos_star_sum": 1795
     },
     "has_ci": true,
     "has_tests": true,

@@ -1,6 +1,6 @@
 {
   "slug": "crivotz/nv-ide",
-  "fetched_at": "2026-09-02T08:07:28.403930031Z",
+  "fetched_at": "2026-09-03T08:18:47.265620702Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "Neovim custom configuration, oriented for full stack developers (Ruby on Rails, ruby, php, html, css, SCSS, javascript)",
     "license_spdx": "Apache-2.0",
     "last_commit_at": "2026-08-27T16:40:30Z",
-    "commits_90d": 5,
+    "commits_90d": 3,
     "releases_365d": 0,
     "median_issue_close_days": 1.0169618055555556,
     "median_pr_close_days": 1.4101967592592592,

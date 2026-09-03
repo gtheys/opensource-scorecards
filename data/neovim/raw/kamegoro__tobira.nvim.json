@@ -1,10 +1,10 @@
 {
   "slug": "kamegoro/tobira.nvim",
-  "fetched_at": "2026-09-02T08:20:42.068425063Z",
+  "fetched_at": "2026-09-03T08:36:47.916099454Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 54,
+    "stars": 55,
     "forks": 5,
     "description": "Open the next door in your Vim journey — personalized command discovery based on your actual usage",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "kamegoro",
       "account_created_at": "2020-04-17T10:10:03Z",
-      "other_repos_star_sum": 55
+      "other_repos_star_sum": 56
     },
     "has_ci": true,
     "has_tests": true,
