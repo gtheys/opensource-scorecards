@@ -1,10 +1,10 @@
 {
   "slug": "dmmulroy/ts-error-translator.nvim",
-  "fetched_at": "2026-09-03T08:21:56.666449867Z",
+  "fetched_at": "2026-09-04T08:13:49.275967718Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 435,
+    "stars": 436,
     "forks": 8,
     "description": null,
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "dmmulroy",
       "account_created_at": "2012-11-09T02:59:48Z",
-      "other_repos_star_sum": 8517
+      "other_repos_star_sum": 8562
     },
     "has_ci": true,
     "has_tests": true,

@@ -1,6 +1,6 @@
 {
   "slug": "fdschmidt93/telescope-egrepify.nvim",
-  "fetched_at": "2026-09-03T08:25:47.263902663Z",
+  "fetched_at": "2026-09-04T08:16:40.045460612Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "delphinus",
       "account_created_at": "2011-12-04T05:25:59Z",
-      "other_repos_star_sum": 303
+      "other_repos_star_sum": 304
     },
     "has_ci": true,
     "has_tests": false,

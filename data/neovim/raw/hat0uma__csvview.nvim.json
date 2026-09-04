@@ -1,6 +1,6 @@
 {
   "slug": "hat0uma/csvview.nvim",
-  "fetched_at": "2026-09-03T08:30:41.023125970Z",
+  "fetched_at": "2026-09-04T08:19:58.846712148Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -10,7 +10,7 @@
     "license_spdx": "MIT",
     "last_commit_at": "2026-08-31T23:42:09Z",
     "commits_90d": 1,
-    "releases_365d": 1,
+    "releases_365d": 0,
     "median_issue_close_days": 5.485214120370371,
     "median_pr_close_days": 0.6176678240740741,
     "open_issues": 16,

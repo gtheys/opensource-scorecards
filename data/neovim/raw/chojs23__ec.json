@@ -1,10 +1,10 @@
 {
   "slug": "chojs23/ec",
-  "fetched_at": "2026-09-03T08:15:52.525315952Z",
+  "fetched_at": "2026-09-04T08:09:23.721277754Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 292,
+    "stars": 293,
     "forks": 6,
     "description": "Easy terminal-native 3-way git mergetool vim-like workflow",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "chojs23",
       "account_created_at": "2019-09-25T11:32:37Z",
-      "other_repos_star_sum": 1795
+      "other_repos_star_sum": 1850
     },
     "has_ci": true,
     "has_tests": false,

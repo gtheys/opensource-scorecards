@@ -1,10 +1,10 @@
 {
   "slug": "acksld/swenv.nvim",
-  "fetched_at": "2026-09-03T08:08:40.332406617Z",
+  "fetched_at": "2026-09-04T08:03:41.872049931Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 252,
+    "stars": 253,
     "forks": 32,
     "description": "Tiny plugin to quickly switch python virtual environments from within neovim without restarting.",
     "license_spdx": null,

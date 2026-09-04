@@ -1,11 +1,11 @@
 {
   "slug": "ajeetdsouza/zoxide",
-  "fetched_at": "2026-09-03T08:09:26.281868182Z",
+  "fetched_at": "2026-09-04T08:04:18.194832649Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 39135,
-    "forks": 884,
+    "stars": 39154,
+    "forks": 885,
     "description": "A smarter cd command. Supports all major shells.",
     "license_spdx": "MIT",
     "last_commit_at": "2026-08-28T19:59:26Z",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "ajeetdsouza",
       "account_created_at": "2012-05-25T11:23:01Z",
-      "other_repos_star_sum": 40438
+      "other_repos_star_sum": 40457
     },
     "has_ci": true,
     "has_tests": true,

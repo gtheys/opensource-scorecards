@@ -1,6 +1,6 @@
 {
   "slug": "imranzero/multiterm.nvim",
-  "fetched_at": "2026-09-03T08:32:28.552576638Z",
+  "fetched_at": "2026-09-04T08:21:24.246957099Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "Effortlessly manage multiple floating terminal windows.",
     "license_spdx": "MIT",
     "last_commit_at": "2026-06-06T11:26:35Z",
-    "commits_90d": 9,
+    "commits_90d": 5,
     "releases_365d": 0,
     "median_issue_close_days": null,
     "median_pr_close_days": 2.5330671296296297,

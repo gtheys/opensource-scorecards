@@ -1,10 +1,10 @@
 {
   "slug": "folke/snacks.nvim",
-  "fetched_at": "2026-09-03T08:27:11.124497114Z",
+  "fetched_at": "2026-09-04T08:17:34.937086753Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 8049,
+    "stars": 8053,
     "forks": 495,
     "description": "🍿 A collection of QoL plugins for Neovim",
     "license_spdx": "Apache-2.0",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "folke",
       "account_created_at": "2010-05-31T14:14:10Z",
-      "other_repos_star_sum": 42059
+      "other_repos_star_sum": 42061
     },
     "has_ci": true,
     "has_tests": true,

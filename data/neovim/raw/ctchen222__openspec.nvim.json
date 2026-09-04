@@ -1,10 +1,10 @@
 {
   "slug": "ctchen222/openspec.nvim",
-  "fetched_at": "2026-09-03T08:19:16.694646215Z",
+  "fetched_at": "2026-09-04T08:12:03.839786533Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 9,
+    "stars": 10,
     "forks": 0,
     "description": "Neovim control surface for OpenSpec workflows.",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "ctchen222",
       "account_created_at": "2019-03-28T04:59:47Z",
-      "other_repos_star_sum": 13
+      "other_repos_star_sum": 14
     },
     "has_ci": true,
     "has_tests": true,

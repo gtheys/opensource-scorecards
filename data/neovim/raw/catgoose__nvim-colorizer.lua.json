@@ -1,10 +1,10 @@
 {
   "slug": "catgoose/nvim-colorizer.lua",
-  "fetched_at": "2026-09-03T08:15:19.447640287Z",
+  "fetched_at": "2026-09-04T08:08:54.850703645Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 1122,
+    "stars": 1124,
     "forks": 52,
     "description": "The fastest Neovim colorizer",
     "license_spdx": "NOASSERTION",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "catgoose",
       "account_created_at": "2016-08-13T15:22:05Z",
-      "other_repos_star_sum": 1517
+      "other_repos_star_sum": 1519
     },
     "has_ci": true,
     "has_tests": true,

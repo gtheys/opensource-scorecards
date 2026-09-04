@@ -1,10 +1,10 @@
 {
   "slug": "ajatdarojat45/commitmate.nvim",
-  "fetched_at": "2026-09-03T08:09:23.502632673Z",
+  "fetched_at": "2026-09-04T08:04:15.832222305Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 8,
+    "stars": 7,
     "forks": 0,
     "description": "An AI-assisted commit message generator following common commit conventions. 🤝",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "ajatdarojat45",
       "account_created_at": "2016-10-25T07:58:56Z",
-      "other_repos_star_sum": 14
+      "other_repos_star_sum": 13
     },
     "has_ci": false,
     "has_tests": false,

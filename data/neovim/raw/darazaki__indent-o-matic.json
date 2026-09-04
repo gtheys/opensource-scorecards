@@ -1,10 +1,10 @@
 {
   "slug": "darazaki/indent-o-matic",
-  "fetched_at": "2026-09-03T08:20:21.656024152Z",
+  "fetched_at": "2026-09-04T08:12:47.160024639Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 209,
+    "stars": 210,
     "forks": 13,
     "description": "Dumb automatic fast indentation detection for Neovim written in Lua",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "Darazaki",
       "account_created_at": "2018-02-22T12:17:13Z",
-      "other_repos_star_sum": 313
+      "other_repos_star_sum": 314
     },
     "has_ci": true,
     "has_tests": true,
