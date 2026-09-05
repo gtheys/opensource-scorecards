@@ -1,10 +1,10 @@
 {
   "slug": "hrsh7th/cmp-cmdline",
-  "fetched_at": "2026-09-04T08:20:39.822254299Z",
+  "fetched_at": "2026-09-05T08:00:25.472666639Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 621,
+    "stars": 622,
     "forks": 59,
     "description": "nvim-cmp source for vim's cmdline",
     "license_spdx": "MIT",

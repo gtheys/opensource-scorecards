@@ -1,6 +1,6 @@
 {
   "slug": "gbprod/cutlass.nvim",
-  "fetched_at": "2026-09-04T08:18:13.574076087Z",
+  "fetched_at": "2026-09-05T07:58:19.332851293Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "gbprod",
       "account_created_at": "2013-03-02T20:23:41Z",
-      "other_repos_star_sum": 3071
+      "other_repos_star_sum": 3073
     },
     "has_ci": true,
     "has_tests": true,

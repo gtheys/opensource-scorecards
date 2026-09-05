@@ -1,6 +1,6 @@
 {
   "slug": "emmanueltouzery/decisive.nvim",
-  "fetched_at": "2026-09-04T08:15:37.663423141Z",
+  "fetched_at": "2026-09-05T07:56:00.281143652Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "Neovim plugin to assist work with CSV files",
     "license_spdx": "MIT",
     "last_commit_at": "2026-06-06T09:36:46Z",
-    "commits_90d": 2,
+    "commits_90d": 0,
     "releases_365d": 0,
     "median_issue_close_days": 6.985549768518518,
     "median_pr_close_days": 29.606221064814818,

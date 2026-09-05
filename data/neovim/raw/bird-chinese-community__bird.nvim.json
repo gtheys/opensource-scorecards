@@ -1,6 +1,6 @@
 {
   "slug": "bird-chinese-community/bird.nvim",
-  "fetched_at": "2026-09-04T08:07:55.366509640Z",
+  "fetched_at": "2026-09-05T07:49:06.111378087Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "Alice39s",
       "account_created_at": "2024-09-04T07:33:44Z",
-      "other_repos_star_sum": 933
+      "other_repos_star_sum": 935
     },
     "has_ci": true,
     "has_tests": true,

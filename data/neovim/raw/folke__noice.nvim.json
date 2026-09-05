@@ -1,6 +1,6 @@
 {
   "slug": "folke/noice.nvim",
-  "fetched_at": "2026-09-04T08:17:29.445261950Z",
+  "fetched_at": "2026-09-05T07:57:40.895298201Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -11,7 +11,7 @@
     "last_commit_at": "2025-11-03T16:33:44Z",
     "commits_90d": 0,
     "releases_365d": 0,
-    "median_issue_close_days": 47.04894675925926,
+    "median_issue_close_days": 46.45709490740741,
     "median_pr_close_days": 212.87751157407408,
     "open_issues": 33,
     "closed_issues_sampled": 46,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "folke",
       "account_created_at": "2010-05-31T14:14:10Z",
-      "other_repos_star_sum": 42061
+      "other_repos_star_sum": 42069
     },
     "has_ci": true,
     "has_tests": true,

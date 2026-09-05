@@ -1,10 +1,10 @@
 {
   "slug": "jubnzv/mdeval.nvim",
-  "fetched_at": "2026-09-04T08:24:02.415481874Z",
+  "fetched_at": "2026-09-05T08:03:25.802999815Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 230,
+    "stars": 229,
     "forks": 18,
     "description": "Neovim plugin that evaluates code blocks inside documents",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "jubnzv",
       "account_created_at": "2015-04-19T20:58:34Z",
-      "other_repos_star_sum": 943
+      "other_repos_star_sum": 942
     },
     "has_ci": true,
     "has_tests": false,

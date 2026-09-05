@@ -1,6 +1,6 @@
 {
   "slug": "jackmort/chatgpt.nvim",
-  "fetched_at": "2026-09-04T08:22:14.099130949Z",
+  "fetched_at": "2026-09-05T08:01:49.849350769Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "jackMort",
       "account_created_at": "2009-12-07T11:58:08Z",
-      "other_repos_star_sum": 4206
+      "other_repos_star_sum": 4207
     },
     "has_ci": true,
     "has_tests": false,

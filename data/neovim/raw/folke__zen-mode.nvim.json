@@ -1,10 +1,10 @@
 {
   "slug": "folke/zen-mode.nvim",
-  "fetched_at": "2026-09-04T08:17:54.918257339Z",
+  "fetched_at": "2026-09-05T07:58:02.403864672Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 2156,
+    "stars": 2154,
     "forks": 76,
     "description": "🧘  Distraction-free coding for Neovim",
     "license_spdx": "Apache-2.0",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "folke",
       "account_created_at": "2010-05-31T14:14:10Z",
-      "other_repos_star_sum": 42061
+      "other_repos_star_sum": 42069
     },
     "has_ci": true,
     "has_tests": false,

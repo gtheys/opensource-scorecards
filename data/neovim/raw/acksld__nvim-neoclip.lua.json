@@ -1,10 +1,10 @@
 {
   "slug": "acksld/nvim-neoclip.lua",
-  "fetched_at": "2026-09-04T08:03:37.965644690Z",
+  "fetched_at": "2026-09-05T07:45:11.166269521Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 1133,
+    "stars": 1131,
     "forks": 27,
     "description": "Clipboard manager neovim plugin with telescope integration",
     "license_spdx": null,

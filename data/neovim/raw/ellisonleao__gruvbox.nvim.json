@@ -1,6 +1,6 @@
 {
   "slug": "ellisonleao/gruvbox.nvim",
-  "fetched_at": "2026-09-04T08:15:28.191206035Z",
+  "fetched_at": "2026-09-05T07:55:51.978108751Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -16,11 +16,11 @@
     "open_issues": 28,
     "closed_issues_sampled": 19,
     "contributors_12mo": 4,
-    "top_author_commit_share": 0.5833333333333334,
+    "top_author_commit_share": 0.5454545454545454,
     "top_author": {
       "login": "ellisonleao",
       "account_created_at": "2010-01-08T16:40:45Z",
-      "other_repos_star_sum": 26572
+      "other_repos_star_sum": 26577
     },
     "has_ci": true,
     "has_tests": true,
