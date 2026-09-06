@@ -1,10 +1,10 @@
 {
   "slug": "b0o/incline.nvim",
-  "fetched_at": "2026-09-05T07:48:04.650279133Z",
+  "fetched_at": "2026-09-06T08:02:28.665157758Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 1050,
+    "stars": 1051,
     "forks": 21,
     "description": "🎈 Floating statuslines for Neovim",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "b0o",
       "account_created_at": "2016-08-29T00:44:30Z",
-      "other_repos_star_sum": 2181
+      "other_repos_star_sum": 2183
     },
     "has_ci": true,
     "has_tests": true,

@@ -1,15 +1,15 @@
 {
   "slug": "jarun/nnn",
-  "fetched_at": "2026-09-05T08:02:05.838322210Z",
+  "fetched_at": "2026-09-06T08:16:12.090532403Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 21859,
+    "stars": 21866,
     "forks": 817,
     "description": "n³ The unorthodox terminal file manager",
     "license_spdx": "BSD-2-Clause",
     "last_commit_at": "2026-09-05T00:30:10Z",
-    "commits_90d": 50,
+    "commits_90d": 48,
     "releases_365d": 2,
     "median_issue_close_days": 0.5495833333333333,
     "median_pr_close_days": 1.5017476851851852,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "jarun",
       "account_created_at": "2013-11-17T05:30:04Z",
-      "other_repos_star_sum": 43476
+      "other_repos_star_sum": 43484
     },
     "has_ci": true,
     "has_tests": false,

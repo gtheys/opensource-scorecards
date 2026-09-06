@@ -1,10 +1,10 @@
 {
   "slug": "junnplus/lsp-setup.nvim",
-  "fetched_at": "2026-09-05T08:03:43.396144069Z",
+  "fetched_at": "2026-09-06T08:17:43.754793301Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 235,
+    "stars": 234,
     "forks": 17,
     "description": "A simple wrapper for nvim-lspconfig and mason-lspconfig to easily setup LSP servers.",
     "license_spdx": "Apache-2.0",

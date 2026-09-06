@@ -1,6 +1,6 @@
 {
   "slug": "hat0uma/prelive.nvim",
-  "fetched_at": "2026-09-05T07:59:54.293842141Z",
+  "fetched_at": "2026-09-06T08:14:05.523705294Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -15,12 +15,12 @@
     "median_pr_close_days": 1.0586284722222223,
     "open_issues": 0,
     "closed_issues_sampled": 3,
-    "contributors_12mo": 2,
-    "top_author_commit_share": 0.6666666666666666,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
     "top_author": {
-      "login": "DrKJeff16",
-      "account_created_at": "2020-09-29T00:05:14Z",
-      "other_repos_star_sum": 270
+      "login": "hat0uma",
+      "account_created_at": "2019-09-19T16:11:24Z",
+      "other_repos_star_sum": 714
     },
     "has_ci": true,
     "has_tests": true,

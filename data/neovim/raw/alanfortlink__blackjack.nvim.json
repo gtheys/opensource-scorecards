@@ -1,6 +1,6 @@
 {
   "slug": "alanfortlink/blackjack.nvim",
-  "fetched_at": "2026-09-05T07:46:04.692231110Z",
+  "fetched_at": "2026-09-06T08:00:29.723331568Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -18,9 +18,9 @@
     "contributors_12mo": 2,
     "top_author_commit_share": 0.5,
     "top_author": {
-      "login": "orimaster-jumpman",
-      "account_created_at": "2024-11-26T19:49:46Z",
-      "other_repos_star_sum": 0
+      "login": "alanfortlink",
+      "account_created_at": "2013-02-21T15:58:55Z",
+      "other_repos_star_sum": 150
     },
     "has_ci": false,
     "has_tests": false,

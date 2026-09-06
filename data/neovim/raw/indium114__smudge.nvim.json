@@ -1,6 +1,6 @@
 {
   "slug": "indium114/smudge.nvim",
-  "fetched_at": "2026-09-05T08:01:09.279620584Z",
+  "fetched_at": "2026-09-06T08:15:16.532751489Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "indium114",
       "account_created_at": "2024-01-10T05:28:54Z",
-      "other_repos_star_sum": 151
+      "other_repos_star_sum": 153
     },
     "has_ci": true,
     "has_tests": false,
