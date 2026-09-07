@@ -1,10 +1,10 @@
 {
   "slug": "declancm/cinnamon.nvim",
-  "fetched_at": "2026-09-06T08:08:06.938746099Z",
+  "fetched_at": "2026-09-07T08:33:44.948543604Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 397,
+    "stars": 396,
     "forks": 7,
     "description": "Smooth scrolling for ANY command 🤯. A Neovim plugin written in Lua!",
     "license_spdx": "MIT",

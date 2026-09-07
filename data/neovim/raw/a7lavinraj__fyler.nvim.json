@@ -1,10 +1,10 @@
 {
   "slug": "a7lavinraj/fyler.nvim",
-  "fetched_at": "2026-09-06T07:59:08.259132961Z",
+  "fetched_at": "2026-09-07T08:20:57.450216702Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 763,
+    "stars": 765,
     "forks": 52,
     "description": "A neovim file manager which can edit file system like a buffer with tree view",
     "license_spdx": "Apache-2.0",
@@ -13,7 +13,7 @@
     "releases_365d": 4,
     "median_issue_close_days": 11.222627314814815,
     "median_pr_close_days": 0.016886574074074075,
-    "open_issues": 23,
+    "open_issues": 24,
     "closed_issues_sampled": 28,
     "contributors_12mo": 25,
     "top_author_commit_share": 0.7863777089783281,

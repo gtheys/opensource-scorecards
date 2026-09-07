@@ -1,6 +1,6 @@
 {
   "slug": "jameswolensky/marker-groups.nvim",
-  "fetched_at": "2026-09-06T08:16:08.693829792Z",
+  "fetched_at": "2026-09-07T08:44:34.250426402Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "Create persistent code notes without modifying code",
     "license_spdx": "MIT",
     "last_commit_at": "2026-06-08T22:05:20Z",
-    "commits_90d": 6,
+    "commits_90d": 0,
     "releases_365d": 1,
     "median_issue_close_days": 129.03594907407407,
     "median_pr_close_days": 0.00837962962962963,

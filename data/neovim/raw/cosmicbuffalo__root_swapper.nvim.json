@@ -1,6 +1,6 @@
 {
   "slug": "cosmicbuffalo/root_swapper.nvim",
-  "fetched_at": "2026-09-06T08:06:21.385063427Z",
+  "fetched_at": "2026-09-07T08:31:18.596273743Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "cosmicbuffalo",
       "account_created_at": "2017-01-16T19:03:05Z",
-      "other_repos_star_sum": 113
+      "other_repos_star_sum": 116
     },
     "has_ci": false,
     "has_tests": false,

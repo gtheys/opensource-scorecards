@@ -1,29 +1,29 @@
 {
   "slug": "esmuellert/codediff.nvim",
-  "fetched_at": "2026-09-06T08:10:39.682590617Z",
+  "fetched_at": "2026-09-07T08:37:05.270347342Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 1544,
+    "stars": 1548,
     "forks": 91,
-    "description": "Live code review workspace for Neovim with VSCode style diffs. Inspect Git changes as coding agents work, stage or discard hunks, review pull requests and history, and resolve merge conflicts.",
+    "description": "Live code review for Neovim with VSCode style diffs",
     "license_spdx": "MIT",
-    "last_commit_at": "2026-09-06T03:45:52Z",
-    "commits_90d": 321,
+    "last_commit_at": "2026-09-07T06:23:17Z",
+    "commits_90d": 324,
     "releases_365d": 100,
-    "median_issue_close_days": 40.615069444444444,
-    "median_pr_close_days": 0.0030324074074074073,
+    "median_issue_close_days": 43.59540509259259,
+    "median_pr_close_days": 0.003177083333333333,
     "open_issues": 69,
-    "closed_issues_sampled": 17,
+    "closed_issues_sampled": 16,
     "contributors_12mo": 33,
-    "top_author_commit_share": 0.8104046242774566,
+    "top_author_commit_share": 0.8101851851851852,
     "top_author": {
       "login": "esmuellert",
       "account_created_at": "2018-07-10T06:13:43Z",
-      "other_repos_star_sum": 1638
+      "other_repos_star_sum": 1642
     },
     "has_ci": true,
     "has_tests": true,
-    "readme_len": 28337
+    "readme_len": 28260
   }
 }

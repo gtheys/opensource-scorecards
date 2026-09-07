@@ -1,10 +1,10 @@
 {
   "slug": "davidyz/vectorcode",
-  "fetched_at": "2026-09-06T08:08:00.663278829Z",
+  "fetched_at": "2026-09-07T08:33:36.207053704Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 873,
+    "stars": 872,
     "forks": 49,
     "description": "A code repository indexing tool to supercharge your LLM experience.",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "Davidyz",
       "account_created_at": "2017-08-12T09:41:13Z",
-      "other_repos_star_sum": 986
+      "other_repos_star_sum": 985
     },
     "has_ci": true,
     "has_tests": true,

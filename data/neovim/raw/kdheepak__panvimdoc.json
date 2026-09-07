@@ -1,10 +1,10 @@
 {
   "slug": "kdheepak/panvimdoc",
-  "fetched_at": "2026-09-06T08:18:20.327686812Z",
+  "fetched_at": "2026-09-07T08:47:33.552311236Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 324,
+    "stars": 323,
     "forks": 21,
     "description": "Write documentation in pandoc markdown. Generate documentation in vimdoc.",
     "license_spdx": "MIT",

@@ -1,10 +1,10 @@
 {
   "slug": "dominic-righthere/markdown-pipetable.nvim",
-  "fetched_at": "2026-09-06T08:09:01.931670928Z",
+  "fetched_at": "2026-09-07T08:34:56.211682451Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 7,
+    "stars": 8,
     "forks": 1,
     "description": "Interactive, fit-to-width markdown tables in Neovim: modal cell navigation, horizontal scroll, visual row/column selection, spreadsheet-like operations, and CSV/TSV conversion.",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "dominic-righthere",
       "account_created_at": "2020-05-07T12:32:35Z",
-      "other_repos_star_sum": 9
+      "other_repos_star_sum": 10
     },
     "has_ci": true,
     "has_tests": true,

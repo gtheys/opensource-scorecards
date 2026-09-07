@@ -1,10 +1,10 @@
 {
   "slug": "andythigpen/nvim-coverage",
-  "fetched_at": "2026-09-06T08:01:12.779975052Z",
+  "fetched_at": "2026-09-07T08:24:12.820192944Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 431,
+    "stars": 432,
     "forks": 57,
     "description": "Displays test coverage data in the sign column",
     "license_spdx": "MIT",

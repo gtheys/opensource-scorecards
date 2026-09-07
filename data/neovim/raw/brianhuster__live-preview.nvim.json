@@ -1,6 +1,6 @@
 {
   "slug": "brianhuster/live-preview.nvim",
-  "fetched_at": "2026-09-06T08:03:55.536882768Z",
+  "fetched_at": "2026-09-07T08:28:02.247200073Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -10,11 +10,11 @@
     "license_spdx": "GPL-3.0",
     "last_commit_at": "2026-08-25T04:45:07Z",
     "commits_90d": 3,
-    "releases_365d": 1,
-    "median_issue_close_days": 23.818686342592592,
-    "median_pr_close_days": 0.47539930555555554,
-    "open_issues": 27,
-    "closed_issues_sampled": 14,
+    "releases_365d": 2,
+    "median_issue_close_days": 38.881770833333334,
+    "median_pr_close_days": 0.4149421296296296,
+    "open_issues": 26,
+    "closed_issues_sampled": 15,
     "contributors_12mo": 13,
     "top_author_commit_share": 0.5,
     "top_author": {
