@@ -1,10 +1,10 @@
 {
   "slug": "everblush/nvim",
-  "fetched_at": "2026-09-07T08:37:21.379795419Z",
+  "fetched_at": "2026-09-08T08:23:37.771800645Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 302,
+    "stars": 303,
     "forks": 18,
     "description": "A port of everblush.vim but written in lua",
     "license_spdx": "MIT",

@@ -1,6 +1,6 @@
 {
   "slug": "folke/trouble.nvim",
-  "fetched_at": "2026-09-07T08:39:07.350213324Z",
+  "fetched_at": "2026-09-08T08:25:13.073838514Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "folke",
       "account_created_at": "2010-05-31T14:14:10Z",
-      "other_repos_star_sum": 42084
+      "other_repos_star_sum": 42083
     },
     "has_ci": true,
     "has_tests": true,

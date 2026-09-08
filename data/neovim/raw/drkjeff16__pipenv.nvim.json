@@ -1,6 +1,6 @@
 {
   "slug": "drkjeff16/pipenv.nvim",
-  "fetched_at": "2026-09-07T08:35:15.006288245Z",
+  "fetched_at": "2026-09-08T08:21:39.425274050Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "Asynchronous Pipenv management from within Neovim.",
     "license_spdx": "GPL-2.0",
     "last_commit_at": "2026-08-31T17:02:58Z",
-    "commits_90d": 6,
+    "commits_90d": 4,
     "releases_365d": 21,
     "median_issue_close_days": null,
     "median_pr_close_days": 0.009450231481481481,

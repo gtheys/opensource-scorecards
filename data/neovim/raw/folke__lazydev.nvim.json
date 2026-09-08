@@ -1,6 +1,6 @@
 {
   "slug": "folke/lazydev.nvim",
-  "fetched_at": "2026-09-07T08:38:45.917011572Z",
+  "fetched_at": "2026-09-08T08:24:51.873004247Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "folke",
       "account_created_at": "2010-05-31T14:14:10Z",
-      "other_repos_star_sum": 42084
+      "other_repos_star_sum": 42083
     },
     "has_ci": true,
     "has_tests": false,

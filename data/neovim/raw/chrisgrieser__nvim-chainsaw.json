@@ -1,12 +1,12 @@
 {
   "slug": "chrisgrieser/nvim-chainsaw",
-  "fetched_at": "2026-09-07T08:29:26.923979164Z",
+  "fetched_at": "2026-09-08T08:16:25.741765125Z",
   "status": "ok",
   "data": {
     "archived": false,
     "stars": 156,
     "forks": 18,
-    "description": "Smart and highly customizable insertion of various kinds of log statements.",
+    "description": "Smart and customizable creation of logs.",
     "license_spdx": "MIT",
     "last_commit_at": "2026-09-06T06:27:03Z",
     "commits_90d": 7,

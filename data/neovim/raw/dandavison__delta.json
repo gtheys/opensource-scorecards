@@ -1,10 +1,10 @@
 {
   "slug": "dandavison/delta",
-  "fetched_at": "2026-09-07T08:33:04.942808191Z",
+  "fetched_at": "2026-09-08T08:19:40.277208182Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 32103,
+    "stars": 32115,
     "forks": 570,
     "description": "A syntax-highlighting pager for git, diff, grep, rg --json, and blame output",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "dandavison",
       "account_created_at": "2009-02-05T23:34:07Z",
-      "other_repos_star_sum": 32449
+      "other_repos_star_sum": 32461
     },
     "has_ci": true,
     "has_tests": true,

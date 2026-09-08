@@ -1,10 +1,10 @@
 {
   "slug": "al1-ce/just.nvim",
-  "fetched_at": "2026-09-07T08:22:58.926279916Z",
+  "fetched_at": "2026-09-08T08:10:46.740838686Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 49,
+    "stars": 50,
     "forks": 4,
     "description": "Just task runner for neovim",
     "license_spdx": "GPL-3.0",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "nxuv",
       "account_created_at": "2020-02-12T22:08:05Z",
-      "other_repos_star_sum": 80
+      "other_repos_star_sum": 81
     },
     "has_ci": false,
     "has_tests": false,

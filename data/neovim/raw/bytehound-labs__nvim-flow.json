@@ -1,6 +1,6 @@
 {
   "slug": "bytehound-labs/nvim-flow",
-  "fetched_at": "2026-09-07T08:28:16.318854483Z",
+  "fetched_at": "2026-09-08T08:15:20.549356708Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "neovim command runner",
     "license_spdx": "MIT",
     "last_commit_at": "2026-08-28T00:43:37Z",
-    "commits_90d": 11,
+    "commits_90d": 9,
     "releases_365d": 0,
     "median_issue_close_days": null,
     "median_pr_close_days": null,

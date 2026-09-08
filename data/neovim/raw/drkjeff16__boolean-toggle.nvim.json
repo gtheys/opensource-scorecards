@@ -1,6 +1,6 @@
 {
   "slug": "drkjeff16/boolean-toggle.nvim",
-  "fetched_at": "2026-09-07T08:35:06.324965058Z",
+  "fetched_at": "2026-09-08T08:21:31.563891508Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "Toggle between boolean values under your cursor.",
     "license_spdx": "GPL-2.0",
     "last_commit_at": "2026-08-31T18:53:55Z",
-    "commits_90d": 19,
+    "commits_90d": 17,
     "releases_365d": 7,
     "median_issue_close_days": null,
     "median_pr_close_days": null,
