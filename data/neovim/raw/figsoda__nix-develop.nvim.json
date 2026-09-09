@@ -1,11 +1,11 @@
 {
   "slug": "figsoda/nix-develop.nvim",
-  "fetched_at": "2026-09-08T08:24:14.555662311Z",
+  "fetched_at": "2026-09-09T08:32:25.566510463Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 71,
-    "forks": 4,
+    "stars": 72,
+    "forks": 5,
     "description": "Run `nix develop` without restarting neovim",
     "license_spdx": "MPL-2.0",
     "last_commit_at": "2026-09-01T23:51:56Z",

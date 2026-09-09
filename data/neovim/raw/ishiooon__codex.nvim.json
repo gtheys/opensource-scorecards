@@ -1,6 +1,6 @@
 {
   "slug": "ishiooon/codex.nvim",
-  "fetched_at": "2026-09-08T08:29:47.116455325Z",
+  "fetched_at": "2026-09-09T08:39:25.075308998Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "The Neovim IDE integration for Codex",
     "license_spdx": "MIT",
     "last_commit_at": "2026-08-26T11:04:28Z",
-    "commits_90d": 5,
+    "commits_90d": 4,
     "releases_365d": 0,
     "median_issue_close_days": 0.8503935185185185,
     "median_pr_close_days": 25.575729166666665,

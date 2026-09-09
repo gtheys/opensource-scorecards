@@ -82,6 +82,7 @@ repos:
   - altermo/nwm
   - altermo/ultimate-autopair.nvim
   - alvarosevilla95/luatab.nvim
+  - alyxshang/nuwa.nvim
   - amansingh-afk/milli.nvim
   - amrbashir/nvim-docs-view
   - andersevenrud/nordic.nvim
@@ -232,6 +233,7 @@ repos:
   - claydugo/browsher.nvim
   - cljoly/telescope-repo.nvim
   - code-biscuits/nvim-biscuits
+  - coder/claudecode.nvim
   - coffebar/neovim-project
   - comatory/gh-co.nvim
   - copilotc-nvim/copilotchat.nvim
@@ -767,6 +769,7 @@ repos:
   - mkajsjo/windowcolumns.nvim
   - mluders/comfy-line-numbers.nvim
   - mm4cn/nvim-conan
+  - mm4cn/nvim-gitlab
   - mofiqul/adwaita.nvim
   - mofiqul/dracula.nvim
   - mofiqul/vscode.nvim
@@ -932,6 +935,7 @@ repos:
   - olimorris/codecompanion.nvim
   - olimorris/onedarkpro.nvim
   - olimorris/persisted.nvim
+  - olivgr/winbarbuf.nvim
   - onlyati/quadlet-lsp.nvim
   - onsails/lspkind.nvim
   - oscarcreator/rsync.nvim

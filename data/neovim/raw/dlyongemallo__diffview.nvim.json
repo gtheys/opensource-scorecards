@@ -1,6 +1,6 @@
 {
   "slug": "dlyongemallo/diffview.nvim",
-  "fetched_at": "2026-09-08T08:20:50.364769379Z",
+  "fetched_at": "2026-09-09T08:28:16.014128521Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "Single tabpage interface for easily cycling through diffs for all modified files for any git rev (actively maintained fork).",
     "license_spdx": "NOASSERTION",
     "last_commit_at": "2026-09-08T07:56:49Z",
-    "commits_90d": 64,
+    "commits_90d": 60,
     "releases_365d": 13,
     "median_issue_close_days": 1.8260648148148149,
     "median_pr_close_days": 0.0284375,

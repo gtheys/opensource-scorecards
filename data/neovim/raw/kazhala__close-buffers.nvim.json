@@ -1,10 +1,10 @@
 {
   "slug": "kazhala/close-buffers.nvim",
-  "fetched_at": "2026-09-08T08:33:03.405262314Z",
+  "fetched_at": "2026-09-09T08:43:25.066519777Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 174,
+    "stars": 173,
     "forks": 6,
     "description": ":bookmark_tabs: Delete multiple vim buffers based on different conditions",
     "license_spdx": "MIT",

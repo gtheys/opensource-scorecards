@@ -1,6 +1,6 @@
 {
   "slug": "inhesrom/remote-ssh.nvim",
-  "fetched_at": "2026-09-08T08:29:24.506482831Z",
+  "fetched_at": "2026-09-09T08:38:57.800959649Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -10,7 +10,7 @@
     "license_spdx": "MIT",
     "last_commit_at": "2026-02-23T05:44:23Z",
     "commits_90d": 0,
-    "releases_365d": 7,
+    "releases_365d": 6,
     "median_issue_close_days": 41.93302662037037,
     "median_pr_close_days": 0.02156828703703704,
     "open_issues": 1,

@@ -1,6 +1,6 @@
 {
   "slug": "54l1m/oshen.nvim",
-  "fetched_at": "2026-09-08T08:09:04.432102256Z",
+  "fetched_at": "2026-09-09T08:12:06.726233625Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "A dark Neovim colorscheme inspired by deep ocean water at night",
     "license_spdx": "MIT",
     "last_commit_at": "2026-06-12T08:52:18Z",
-    "commits_90d": 5,
+    "commits_90d": 4,
     "releases_365d": 0,
     "median_issue_close_days": 17.960150462962964,
     "median_pr_close_days": 1.0485416666666667,
