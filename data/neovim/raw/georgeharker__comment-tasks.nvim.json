@@ -1,6 +1,6 @@
 {
   "slug": "georgeharker/comment-tasks.nvim",
-  "fetched_at": "2026-09-09T08:34:57.776608533Z",
+  "fetched_at": "2026-09-10T08:33:10.102164940Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "Add tasks to your task manager (clickup/github/linear/monday....) from code",
     "license_spdx": "MIT",
     "last_commit_at": "2026-06-12T05:56:17Z",
-    "commits_90d": 1,
+    "commits_90d": 0,
     "releases_365d": 0,
     "median_issue_close_days": 0.6828993055555556,
     "median_pr_close_days": null,

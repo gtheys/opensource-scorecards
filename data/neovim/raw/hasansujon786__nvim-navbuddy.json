@@ -1,10 +1,10 @@
 {
   "slug": "hasansujon786/nvim-navbuddy",
-  "fetched_at": "2026-09-09T08:36:41.462548213Z",
+  "fetched_at": "2026-09-10T08:34:43.135135813Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 84,
+    "stars": 85,
     "forks": 3,
     "description": "A simple popup display that provides breadcrumbs feature using LSP server",
     "license_spdx": "Apache-2.0",

@@ -1,11 +1,11 @@
 {
   "slug": "jghauser/auto-pandoc.nvim",
-  "fetched_at": "2026-09-09T08:40:50.321394067Z",
+  "fetched_at": "2026-09-10T08:38:57.220384776Z",
   "status": "ok",
   "data": {
     "archived": false,
     "stars": 41,
-    "forks": 1,
+    "forks": 2,
     "description": "Use pandoc to convert markdown files according to options from a yaml block",
     "license_spdx": "GPL-3.0",
     "last_commit_at": null,

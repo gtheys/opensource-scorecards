@@ -1,6 +1,6 @@
 {
   "slug": "eraserhd/parinfer-rust",
-  "fetched_at": "2026-09-09T08:31:01.530865358Z",
+  "fetched_at": "2026-09-10T08:29:27.895977774Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "eraserhd",
       "account_created_at": "2009-11-01T03:20:12Z",
-      "other_repos_star_sum": 1035
+      "other_repos_star_sum": 1036
     },
     "has_ci": true,
     "has_tests": true,

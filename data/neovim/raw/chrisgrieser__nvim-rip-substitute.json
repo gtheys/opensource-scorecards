@@ -1,6 +1,6 @@
 {
   "slug": "chrisgrieser/nvim-rip-substitute",
-  "fetched_at": "2026-09-09T08:22:48.384339865Z",
+  "fetched_at": "2026-09-10T08:21:42.575595676Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "chrisgrieser",
       "account_created_at": "2020-10-22T10:50:35Z",
-      "other_repos_star_sum": 8827
+      "other_repos_star_sum": 8826
     },
     "has_ci": true,
     "has_tests": false,

@@ -1,6 +1,6 @@
 {
   "slug": "civitasv/cmake-tools.nvim",
-  "fetched_at": "2026-09-09T08:23:39.027758733Z",
+  "fetched_at": "2026-09-10T08:22:29.437293007Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -11,10 +11,10 @@
     "last_commit_at": "2026-08-31T09:23:42Z",
     "commits_90d": 8,
     "releases_365d": 0,
-    "median_issue_close_days": 67.62159722222222,
+    "median_issue_close_days": 67.67865740740741,
     "median_pr_close_days": 0.000462962962962963,
-    "open_issues": 16,
-    "closed_issues_sampled": 28,
+    "open_issues": 14,
+    "closed_issues_sampled": 29,
     "contributors_12mo": 8,
     "top_author_commit_share": 0.3333333333333333,
     "top_author": {

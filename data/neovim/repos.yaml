@@ -463,6 +463,7 @@ repos:
   - hawkinst/pathfinder.nvim
   - hawknewton/termyank.nvim
   - hdoc1509/gh-actions.nvim
+  - hebercosfer/floating-claude.nvim
   - hedyhli/outline.nvim
   - heilgar/bookmarks.nvim
   - heilgar/nochat.nvim
@@ -1026,6 +1027,7 @@ repos:
   - redpierrot/ballerina.nvim
   - rest-nvim/rest.nvim
   - retran/meow.yarn.nvim
+  - rezniqov/soviet.nvim
   - rgroli/other.nvim
   - ribru17/bamboo.nvim
   - richardbizik/nvim-toc
