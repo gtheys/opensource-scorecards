@@ -1,10 +1,10 @@
 {
   "slug": "aikhe/wrapped.nvim",
-  "fetched_at": "2026-09-10T08:13:15.129985269Z",
+  "fetched_at": "2026-09-11T08:09:16.218434062Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 188,
+    "stars": 189,
     "forks": 6,
     "description": "View your Neovim configuration insights, history, and heatmaps.",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "aikhe",
       "account_created_at": "2023-09-01T15:24:05Z",
-      "other_repos_star_sum": 250
+      "other_repos_star_sum": 251
     },
     "has_ci": false,
     "has_tests": false,

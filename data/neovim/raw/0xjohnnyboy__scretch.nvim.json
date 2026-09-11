@@ -1,6 +1,6 @@
 {
   "slug": "0xjohnnyboy/scretch.nvim",
-  "fetched_at": "2026-09-10T08:10:45.386207542Z",
+  "fetched_at": "2026-09-11T08:06:55.273567249Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -10,13 +10,13 @@
     "license_spdx": "AGPL-3.0",
     "last_commit_at": "2026-08-20T11:39:16Z",
     "commits_90d": 10,
-    "releases_365d": 3,
+    "releases_365d": 2,
     "median_issue_close_days": 10.233912037037037,
     "median_pr_close_days": 0.34132523148148153,
     "open_issues": 0,
     "closed_issues_sampled": 5,
     "contributors_12mo": 2,
-    "top_author_commit_share": 0.9473684210526315,
+    "top_author_commit_share": 0.9230769230769231,
     "top_author": {
       "login": "0xJohnnyboy",
       "account_created_at": "2019-04-20T13:44:20Z",

@@ -316,6 +316,7 @@ repos:
   - dnlhc/glance.nvim
   - doctorfree/cheatsheet.nvim
   - doctorfree/nvim-lazyman
+  - doehnert/laravel-log-watcher.nvim
   - dominic-righthere/markdown-pipetable.nvim
   - doodleesc/translator.nvim
   - dpezto/chezmoi-template.nvim

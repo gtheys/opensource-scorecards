@@ -1,6 +1,6 @@
 {
   "slug": "coffebar/neovim-project",
-  "fetched_at": "2026-09-10T08:23:05.778303739Z",
+  "fetched_at": "2026-09-11T08:17:53.152539317Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -11,10 +11,10 @@
     "last_commit_at": "2026-05-01T18:04:16Z",
     "commits_90d": 0,
     "releases_365d": 0,
-    "median_issue_close_days": 1.5704803240740741,
-    "median_pr_close_days": 0.6644155092592593,
-    "open_issues": 6,
-    "closed_issues_sampled": 30,
+    "median_issue_close_days": 2.1012962962962964,
+    "median_pr_close_days": 0.7532407407407408,
+    "open_issues": 5,
+    "closed_issues_sampled": 29,
     "contributors_12mo": 2,
     "top_author_commit_share": 0.8333333333333334,
     "top_author": {

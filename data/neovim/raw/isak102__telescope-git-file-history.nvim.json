@@ -1,11 +1,11 @@
 {
   "slug": "isak102/telescope-git-file-history.nvim",
-  "fetched_at": "2026-09-10T08:37:25.627576227Z",
+  "fetched_at": "2026-09-11T08:31:29.077195791Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 92,
-    "forks": 8,
+    "stars": 93,
+    "forks": 9,
     "description": "Open/preview contents of the current file at a specific commit, without using git checkout",
     "license_spdx": "MIT",
     "last_commit_at": "2026-02-16T17:20:58Z",
