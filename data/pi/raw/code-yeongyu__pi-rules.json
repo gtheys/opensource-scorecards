@@ -1,0 +1,29 @@
+{
+  "slug": "code-yeongyu/pi-rules",
+  "fetched_at": "2026-09-12T07:51:16.709125269Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 10,
+    "forks": 6,
+    "description": "Rule context loader extension for the pi coding agent",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-03T07:12:47Z",
+    "commits_90d": 24,
+    "releases_365d": 0,
+    "median_issue_close_days": 2.9483680555555556,
+    "median_pr_close_days": 2.4675636574074074,
+    "open_issues": 8,
+    "closed_issues_sampled": 1,
+    "contributors_12mo": 2,
+    "top_author_commit_share": 0.9230769230769231,
+    "top_author": {
+      "login": "code-yeongyu",
+      "account_created_at": "2015-02-23T03:17:05Z",
+      "other_repos_star_sum": 3916
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 8559
+  }
+}

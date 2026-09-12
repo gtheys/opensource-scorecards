@@ -1,0 +1,29 @@
+{
+  "slug": "juicesharp/rpiv-mono",
+  "fetched_at": "2026-09-12T07:54:50.834791224Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 780,
+    "forks": 147,
+    "description": "Monorepo for @juicesharp/rpiv-* Pi plugins (lockstep versions, single install, single publish pipeline)",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-08T12:04:58Z",
+    "commits_90d": 441,
+    "releases_365d": 0,
+    "median_issue_close_days": 1.8211921296296296,
+    "median_pr_close_days": 2.9286805555555557,
+    "open_issues": 63,
+    "closed_issues_sampled": 21,
+    "contributors_12mo": 30,
+    "top_author_commit_share": 0.21739130434782608,
+    "top_author": {
+      "login": "juicesharp",
+      "account_created_at": "2014-05-14T01:02:44Z",
+      "other_repos_star_sum": 808
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 13504
+  }
+}

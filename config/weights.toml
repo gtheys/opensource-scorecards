@@ -43,3 +43,9 @@ maintenance_floor = 15.0
 name = "Neovim Plugins"
 data_dir = "data/neovim"
 seed_source = "https://raw.githubusercontent.com/rockerBOO/awesome-neovim/main/README.md"
+
+# AIDEV-NOTE: pi seed must use README.en.md — the default README.md is Chinese.
+[categories.pi]
+name = "Pi Extensions"
+data_dir = "data/pi"
+seed_source = "https://raw.githubusercontent.com/BubblePtr/awesome-pi/main/README.en.md"

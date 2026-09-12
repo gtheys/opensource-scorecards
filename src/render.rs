@@ -4,10 +4,11 @@ use std::path::Path;
 use tera::{Context, Tera};
 
 pub fn run(cfg: &Config, category: &str) -> anyhow::Result<()> {
-    let cat = cfg.category(category)?;
     let scored: ScoredCategory =
-        serde_json::from_str(&std::fs::read_to_string(cat.data_dir.join("scores.json"))?)?;
-    render_to(cfg, &scored, Path::new("site"), &cat.name)
+        serde_json::from_str(&std::fs::read_to_string(
+            cfg.category(category)?.data_dir.join("scores.json"),
+        )?)?;
+    render_to(cfg, &scored, Path::new("site"), category)
 }
 
 fn templates() -> anyhow::Result<Tera> {
@@ -16,31 +17,54 @@ fn templates() -> anyhow::Result<Tera> {
     Ok(tera)
 }
 
+/// Renders one category. Leaderboard goes to `<key>.html`; every run also
+/// rewrites the shared `index.html` hub and `methodology.html` (idempotent).
 pub fn render_to(
-    _cfg: &Config,
+    cfg: &Config,
     scored: &ScoredCategory,
     out_dir: &Path,
-    category_name: &str,
+    category_key: &str,
 ) -> anyhow::Result<()> {
     let tera = templates()?;
     std::fs::create_dir_all(out_dir.join("projects"))?;
+    // AIDEV-NOTE: projects/ is a shared namespace across categories — a repo in
+    // two lists gets one page (last render wins). Lua/TS overlap ~zero; revisit if real.
+
+    let mut categories: Vec<_> = cfg
+        .categories
+        .iter()
+        .map(|(key, cat)| serde_json::json!({"key": key, "name": cat.name}))
+        .collect();
+    categories.sort_by(|a, b| a["key"].as_str().cmp(&b["key"].as_str()));
+    let category_name = &cfg.category(category_key)?.name;
 
     let ranked: Vec<_> = scored.projects.iter().filter(|p| p.total.is_some()).collect();
     let unavailable: Vec<_> = scored.projects.iter().filter(|p| p.total.is_none()).collect();
 
-    // Leaderboard
+    // Leaderboard (per-category page, root="" for top-level links)
     let mut ctx = Context::new();
     ctx.insert("category_name", category_name);
     ctx.insert("generated_at", &scored.generated_at.to_rfc3339());
     ctx.insert("ranked", &ranked);
     ctx.insert("unavailable", &unavailable);
-    write(&tera, "leaderboard.html", &ctx, &out_dir.join("index.html"))?;
+    ctx.insert("categories", &categories);
+    ctx.insert("root", "");
+    write(
+        &tera,
+        "leaderboard.html",
+        &ctx,
+        &out_dir.join(format!("{category_key}.html")),
+    )?;
 
     // Per-project breakdown
     for p in &scored.projects {
         let mut ctx = Context::new();
         ctx.insert("p", p);
         ctx.insert("weights", &scored.weights);
+        ctx.insert("category_key", category_key);
+        ctx.insert("category_name", category_name);
+        ctx.insert("categories", &categories);
+        ctx.insert("root", "../");
         let mut rows: Vec<_> = p
             .signals
             .as_ref()
@@ -69,7 +93,15 @@ pub fn render_to(
     // Methodology (from the same weights the scorer used → always in sync)
     let mut ctx = Context::new();
     ctx.insert("weights", &scored.weights);
+    ctx.insert("categories", &categories);
+    ctx.insert("root", "");
     write(&tera, "methodology.html", &ctx, &out_dir.join("methodology.html"))?;
+
+    // Category hub (rewritten by every render run; idempotent)
+    let mut ctx = Context::new();
+    ctx.insert("categories", &categories);
+    ctx.insert("root", "");
+    write(&tera, "categories.html", &ctx, &out_dir.join("index.html"))?;
 
     println!(
         "rendered {} projects ({} ranked) to {}",
@@ -109,12 +141,23 @@ mod tests {
         let scored = fixture_scores();
         let dir = std::env::temp_dir().join("scorecards-render-test");
         let _ = std::fs::remove_dir_all(&dir);
-        render_to(&cfg, &scored, &dir, "Neovim Plugins").unwrap();
+        // Render both categories like CI does; hub/methodology are rewritten per run.
+        render_to(&cfg, &scored, &dir, "neovim").unwrap();
+        render_to(&cfg, &scored, &dir, "pi").unwrap();
 
-        let index = std::fs::read_to_string(dir.join("index.html")).unwrap();
-        assert!(index.contains("Neovim Plugins"));
-        assert!(index.contains("not comparable across categories"));
-        assert!(index.contains("nvim-telescope/telescope.nvim"));
+        for page in ["neovim.html", "pi.html"] {
+            let html = std::fs::read_to_string(dir.join(page)).unwrap();
+            assert!(html.contains("not comparable across categories"));
+            assert!(html.contains("nvim-telescope/telescope.nvim"));
+            assert!(html.contains(r#"href="neovim.html""#));
+            assert!(html.contains(r#"href="pi.html""#));
+        }
+
+        let hub = std::fs::read_to_string(dir.join("index.html")).unwrap();
+        assert!(hub.contains(r#"href="neovim.html""#));
+        assert!(hub.contains(r#"href="pi.html""#));
+        assert!(hub.contains("Neovim Plugins"));
+        assert!(hub.contains("Pi Extensions"));
 
         let project = std::fs::read_to_string(
             dir.join("projects/nvim-telescope__telescope.nvim.html"),
@@ -123,6 +166,9 @@ mod tests {
         assert!(project.contains("Total score:"));
         assert!(project.contains("Signal breakdown"));
         assert!(project.contains("license_osi"));
+        // Project pages live one level deep — nav links must be ../-prefixed.
+        assert!(project.contains(r#"href="../pi.html""#));
+        assert!(project.contains(r#"href="../methodology.html""#));
 
         let meth = std::fs::read_to_string(dir.join("methodology.html")).unwrap();
         assert!(meth.contains("0.4")); // maintenance bucket weight from config

@@ -1,0 +1,29 @@
+{
+  "slug": "prateekmedia/pi-hooks",
+  "fetched_at": "2026-09-12T07:57:59.746320357Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 97,
+    "forks": 14,
+    "description": "For checkpoints/rewind, permission level & lsp in pi",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-05-16T21:29:14Z",
+    "commits_90d": 0,
+    "releases_365d": 3,
+    "median_issue_close_days": 0.0014699074074074074,
+    "median_pr_close_days": 1.3845254629629629,
+    "open_issues": 7,
+    "closed_issues_sampled": 1,
+    "contributors_12mo": 3,
+    "top_author_commit_share": 0.9752066115702479,
+    "top_author": {
+      "login": "prateekmedia",
+      "account_created_at": "2018-07-18T10:59:10Z",
+      "other_repos_star_sum": 1827
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 4220
+  }
+}

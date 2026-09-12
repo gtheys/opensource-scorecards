@@ -1,0 +1,29 @@
+{
+  "slug": "saravananravi08/pi-langfuse-extension",
+  "fetched_at": "2026-09-12T07:58:30.893075189Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1,
+    "forks": 1,
+    "description": "Langfuse observability and provenance-safe observational memory for Pi Coding Agent",
+    "license_spdx": null,
+    "last_commit_at": "2026-08-18T05:15:16Z",
+    "commits_90d": 54,
+    "releases_365d": 0,
+    "median_issue_close_days": 52.06658564814815,
+    "median_pr_close_days": 0.0015277777777777779,
+    "open_issues": 0,
+    "closed_issues_sampled": 1,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "saravananravi08",
+      "account_created_at": "2022-06-28T13:08:11Z",
+      "other_repos_star_sum": 10
+    },
+    "has_ci": false,
+    "has_tests": true,
+    "readme_len": 20990
+  }
+}

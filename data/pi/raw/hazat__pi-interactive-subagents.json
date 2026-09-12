@@ -1,0 +1,29 @@
+{
+  "slug": "hazat/pi-interactive-subagents",
+  "fetched_at": "2026-09-12T07:53:24.949301497Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 688,
+    "forks": 152,
+    "description": "Interactive subagents for pi — spawn, orchestrate, and manage sub-agent sessions in cmux terminals",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-05-12T22:21:02Z",
+    "commits_90d": 0,
+    "releases_365d": 29,
+    "median_issue_close_days": 9.05792824074074,
+    "median_pr_close_days": 1.7950173611111113,
+    "open_issues": 23,
+    "closed_issues_sampled": 12,
+    "contributors_12mo": 13,
+    "top_author_commit_share": 0.884393063583815,
+    "top_author": {
+      "login": "HazAT",
+      "account_created_at": "2010-08-13T19:50:10Z",
+      "other_repos_star_sum": 3845
+    },
+    "has_ci": false,
+    "has_tests": true,
+    "readme_len": 25220
+  }
+}

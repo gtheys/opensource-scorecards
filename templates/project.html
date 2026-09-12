@@ -24,5 +24,5 @@
 {% else %}
 <p class="notice">This repository is <strong>{{ p.status }}</strong> — no score could be computed.</p>
 {% endif %}
-<p><a href="index.html">← Back to leaderboard</a></p>
+<p><a href="{{ root }}{{ category_key }}.html">← Back to {{ category_name }}</a></p>
 {% endblock %}

@@ -1,0 +1,29 @@
+{
+  "slug": "spences10/my-pi",
+  "fetched_at": "2026-09-12T07:58:50.036790747Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 125,
+    "forks": 15,
+    "description": "Composable Pi coding agent with MCP, LSP, agent chains, prompt presets, and local eval telemetry",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-11T20:48:02Z",
+    "commits_90d": 538,
+    "releases_365d": 5,
+    "median_issue_close_days": 0.26839120370370373,
+    "median_pr_close_days": 0.4348611111111111,
+    "open_issues": 25,
+    "closed_issues_sampled": 5,
+    "contributors_12mo": 3,
+    "top_author_commit_share": 0.963265306122449,
+    "top_author": {
+      "login": "spences10",
+      "account_created_at": "2010-04-01T05:52:38Z",
+      "other_repos_star_sum": 618
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 12009
+  }
+}

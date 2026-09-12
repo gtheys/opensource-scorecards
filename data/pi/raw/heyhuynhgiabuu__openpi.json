@@ -1,0 +1,29 @@
+{
+  "slug": "heyhuynhgiabuu/openpi",
+  "fetched_at": "2026-09-12T07:53:33.391435009Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 214,
+    "forks": 15,
+    "description": "OpenPi is a desktop workbench for the Pi coding agent.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-04T15:09:15Z",
+    "commits_90d": 160,
+    "releases_365d": 29,
+    "median_issue_close_days": 11.446770833333334,
+    "median_pr_close_days": 0.5486226851851852,
+    "open_issues": 2,
+    "closed_issues_sampled": 2,
+    "contributors_12mo": 4,
+    "top_author_commit_share": 0.9792284866468842,
+    "top_author": {
+      "login": "buddingnewinsights",
+      "account_created_at": "2026-02-10T08:38:07Z",
+      "other_repos_star_sum": 167
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 6965
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "jmfederico/pi-web",
+  "fetched_at": "2026-09-12T07:54:27.944925926Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 749,
+    "forks": 147,
+    "description": "Web UI for Pi Coding Agent that keeps sessions alive in real workspaces.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-11T17:39:17Z",
+    "commits_90d": 882,
+    "releases_365d": 27,
+    "median_issue_close_days": 2.8247222222222224,
+    "median_pr_close_days": 1.0764467592592593,
+    "open_issues": 77,
+    "closed_issues_sampled": 15,
+    "contributors_12mo": 17,
+    "top_author_commit_share": 0.9720785935884177,
+    "top_author": {
+      "login": "jmfederico",
+      "account_created_at": "2010-04-06T14:03:32Z",
+      "other_repos_star_sum": 835
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 6195
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "quintinshaw/pi-dynamic-workflows",
+  "fetched_at": "2026-09-12T07:58:09.178698754Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 510,
+    "forks": 101,
+    "description": "Claude Code–style dynamic workflows for Pi: code-mode subagents with real model routing, journaled resume, git-worktree isolation, cost accounting, an interactive /workflows TUI, an /ultracode standing opt-in, and deep research.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-10T09:10:27Z",
+    "commits_90d": 118,
+    "releases_365d": 57,
+    "median_issue_close_days": 9.301793981481481,
+    "median_pr_close_days": 1.4691087962962963,
+    "open_issues": 13,
+    "closed_issues_sampled": 17,
+    "contributors_12mo": 27,
+    "top_author_commit_share": 0.7705882352941177,
+    "top_author": {
+      "login": "QuintinShaw",
+      "account_created_at": "2019-10-10T05:05:12Z",
+      "other_repos_star_sum": 786
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 28272
+  }
+}

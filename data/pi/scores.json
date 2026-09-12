@@ -1,0 +1,6395 @@
+{
+  "category": "pi",
+  "generated_at": "2026-09-12T08:00:34.216694941Z",
+  "weights": {
+    "buckets": {
+      "maintenance": 0.4,
+      "community": 0.35,
+      "quality": 0.25
+    },
+    "signals": {
+      "quality": {
+        "ci_configured": 0.3,
+        "readme_present": 0.2,
+        "tests_present": 0.3,
+        "license_osi": 0.2
+      },
+      "maintenance": {
+        "median_issue_close_days": 0.15,
+        "commit_frequency_90d": 0.2,
+        "days_since_last_commit": 0.25,
+        "median_pr_close_days": 0.15,
+        "open_closed_issue_ratio": 0.1,
+        "release_cadence": 0.15
+      },
+      "community": {
+        "stars_log": 0.3,
+        "bus_factor": 0.15,
+        "contributors_12mo": 0.25,
+        "author_track_record": 0.15,
+        "forks_log": 0.15
+      }
+    }
+  },
+  "projects": [
+    {
+      "slug": "nicobailon/pi-subagents",
+      "status": "ok",
+      "total": 89.6,
+      "buckets": {
+        "community": 72.8,
+        "quality": 100.0,
+        "maintenance": 97.7
+      },
+      "signals": {
+        "release_cadence": {
+          "raw": 100.0,
+          "score": 1.0,
+          "weight": 0.15
+        },
+        "days_since_last_commit": {
+          "raw": 0.9981461392508584,
+          "score": 0.9981461392508584,
+          "weight": 0.25
+        },
+        "readme_present": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.2
+        },
+        "tests_present": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.3
+        },
+        "commit_frequency_90d": {
+          "raw": 6.90875477931522,
+          "score": 1.0,
+          "weight": 0.2
+        },
+        "stars_log": {
+          "raw": 3.549248556854056,
+          "score": 0.7072950465735194,
+          "weight": 0.3
+        },
+        "median_issue_close_days": {
+          "raw": 0.9882893916578768,
+          "score": 0.9882893916578768,
+          "weight": 0.15
+        },
+        "forks_log": {
+          "raw": 2.829303772831025,
+          "score": 0.6873899706733572,
+          "weight": 0.15
+        },
+        "median_pr_close_days": {
+          "raw": 0.9893847263732866,
+          "score": 0.9893847263732866,
+          "weight": 0.15
+        },
+        "contributors_12mo": {
+          "raw": 4.276666119016055,
+          "score": 1.0,
+          "weight": 0.25
+        },
+        "open_closed_issue_ratio": {
+          "raw": 0.8095238095238095,
+          "score": 0.8095238095238095,
+          "weight": 0.1
+        },
+        "license_osi": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.2
+        },
+        "author_track_record": {
+          "raw": 3.778151250383644,
+          "score": 0.9654289826027085,
+          "weight": 0.15
+        },
+        "bus_factor": {
+          "raw": 0.12224448897795592,
+          "score": 0.12224448897795592,
+          "weight": 0.15
+        },
+        "ci_configured": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.3
+        }
+      }
+    },
+    {
+      "slug": "earendil-works/pi",
+      "status": "ok",
+      "total": 86.7,
+      "buckets": {
+        "quality": 70.0,
+        "community": 93.6,
+        "maintenance": 91.2
+      },
+      "signals": {
+        "median_pr_close_days": {
+          "raw": 0.9999517770169263,
+          "score": 0.9999517770169263,
+          "weight": 0.15
+        },
+        "ci_configured": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.3
+        },
+        "median_issue_close_days": {
+          "raw": 0.9999917328725788,
+          "score": 0.9999917328725788,
+          "weight": 0.15
+        },
+        "contributors_12mo": {
+          "raw": 4.02535169073515,
+          "score": 0.9412359016843882,
+          "weight": 0.25
+        },
+        "days_since_last_commit": {
+          "raw": 0.9934029012761927,
+          "score": 0.9934029012761927,
+          "weight": 0.25
+        },
+        "bus_factor": {
+          "raw": 0.7515527950310559,
+          "score": 0.7515527950310559,
+          "weight": 0.15
+        },
+        "stars_log": {
+          "raw": 5.018059399748859,
+          "score": 1.0,
+          "weight": 0.3
+        },
+        "license_osi": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.2
+        },
+        "commit_frequency_90d": {
+          "raw": 6.874198495453294,
+          "score": 0.9949981892590272,
+          "weight": 0.2
+        },
+        "tests_present": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.3
+        },
+        "readme_present": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.2
+        },
+        "release_cadence": {
+          "raw": 100.0,
+          "score": 1.0,
+          "weight": 0.15
+        },
+        "forks_log": {
+          "raw": 4.116009679424738,
+          "score": 1.0,
+          "weight": 0.15
+        },
+        "author_track_record": {
+          "raw": 3.6009728956867484,
+          "score": 0.9201546917185423,
+          "weight": 0.15
+        },
+        "open_closed_issue_ratio": {
+          "raw": 0.14814814814814814,
+          "score": 0.14814814814814814,
+          "weight": 0.1
+        }
+      }
+    },
+    {
+      "slug": "nicobailon/pi-mcp-adapter",
+      "status": "ok",
+      "total": 85.6,
+      "buckets": {
+        "community": 69.6,
+        "quality": 100.0,
+        "maintenance": 90.5
+      },
+      "signals": {
+        "tests_present": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.3
+        },
+        "bus_factor": {
+          "raw": 0.17391304347826086,
+          "score": 0.17391304347826086,
+          "weight": 0.15
+        },
+        "stars_log": {
+          "raw": 3.162862993321926,
+          "score": 0.630296045016968,
+          "weight": 0.3
+        },
+        "open_closed_issue_ratio": {
+          "raw": 0.9090909090909091,
+          "score": 0.9090909090909091,
+          "weight": 0.1
+        },
+        "author_track_record": {
+          "raw": 3.778151250383644,
+          "score": 0.9654289826027085,
+          "weight": 0.15
+        },
+        "median_pr_close_days": {
+          "raw": 0.997141681060848,
+          "score": 0.997141681060848,
+          "weight": 0.15
+        },
+        "license_osi": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.2
+        },
+        "median_issue_close_days": {
+          "raw": 0.9823655795213809,
+          "score": 0.9823655795213809,
+          "weight": 0.15
+        },
+        "forks_log": {
+          "raw": 2.5237464668115646,
+          "score": 0.6131536763451656,
+          "weight": 0.15
+        },
+        "days_since_last_commit": {
+          "raw": 0.9994000000308616,
+          "score": 0.9994000000308616,
+          "weight": 0.25
+        },
+        "commit_frequency_90d": {
+          "raw": 6.0063531596017325,
+          "score": 0.8693828846820162,
+          "weight": 0.2
+        },
+        "readme_present": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.2
+        },
+        "contributors_12mo": {
+          "raw": 4.174387269895637,
+          "score": 0.9760844437526608,
+          "weight": 0.25
+        },
+        "ci_configured": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.3
+        },
+        "release_cadence": {
+          "raw": 62.0,
+          "score": 0.62,
+          "weight": 0.15
+        }
+      }
+    },
+    {
+      "slug": "nicobailon/pi-web-access",
+      "status": "ok",
+      "total": 82.7,
+      "buckets": {
+        "maintenance": 84.4,
+        "quality": 100.0,
+        "community": 68.4
+      },
+      "signals": {
+        "median_pr_close_days": {
+          "raw": 0.9968176442876234,
+          "score": 0.9968176442876234,
+          "weight": 0.15
+        },
+        "bus_factor": {
+          "raw": 0.21884498480243164,
+          "score": 0.21884498480243164,
+          "weight": 0.15
+        },
+        "stars_log": {
+          "raw": 3.1528995963937474,
+          "score": 0.6283105370477563,
+          "weight": 0.3
+        },
+        "forks_log": {
+          "raw": 2.392696953259666,
+          "score": 0.5813147051670865,
+          "weight": 0.15
+        },
+        "ci_configured": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.3
+        },
+        "contributors_12mo": {
+          "raw": 3.9512437185814275,
+          "score": 0.9239074570288179,
+          "weight": 0.25
+        },
+        "author_track_record": {
+          "raw": 3.778151250383644,
+          "score": 0.9654289826027085,
+          "weight": 0.15
+        },
+        "tests_present": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.3
+        },
+        "readme_present": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.2
+        },
+        "median_issue_close_days": {
+          "raw": 0.9813577720842007,
+          "score": 0.9813577720842007,
+          "weight": 0.15
+        },
+        "days_since_last_commit": {
+          "raw": 0.9822029670835911,
+          "score": 0.9822029670835911,
+          "weight": 0.25
+        },
+        "release_cadence": {
+          "raw": 42.0,
+          "score": 0.42,
+          "weight": 0.15
+        },
+        "open_closed_issue_ratio": {
+          "raw": 0.7368421052631579,
+          "score": 0.7368421052631579,
+          "weight": 0.1
+        },
+        "commit_frequency_90d": {
+          "raw": 5.697093486505405,
+          "score": 0.824619438449672,
+          "weight": 0.2
+        },
+        "license_osi": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.2
+        }
+      }
+    },
+    {
+      "slug": "can1357/oh-my-pi",
+      "status": "ok",
+      "total": 81.2,
+      "buckets": {
+        "maintenance": 89.7,
+        "quality": 70.0,
+        "community": 79.6
+      },
+      "signals": {
+        "tests_present": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.3
+        },
+        "open_closed_issue_ratio": {
+          "raw": 0.008781173164734809,
+          "score": 0.008781173164734809,
+          "weight": 0.1
+        },
+        "stars_log": {
+          "raw": 4.488056919424047,
+          "score": 0.8943809871299377,
+          "weight": 0.3
+        },
+        "median_issue_close_days": {
+          "raw": 0.9992878752079785,
+          "score": 0.9992878752079785,
+          "weight": 0.15
+        },
+        "forks_log": {
+          "raw": 3.5029730590656314,
+          "score": 0.8510604522084638,
+          "weight": 0.15
+        },
+        "license_osi": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.2
+        },
+        "commit_frequency_90d": {
+          "raw": 6.90875477931522,
+          "score": 1.0,
+          "weight": 0.2
+        },
+        "median_pr_close_days": {
+          "raw": 0.977154489934404,
+          "score": 0.977154489934404,
+          "weight": 0.15
+        },
+        "readme_present": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.2
+        },
+        "ci_configured": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.3
+        },
+        "bus_factor": {
+          "raw": 0.6657681940700808,
+          "score": 0.6657681940700808,
+          "weight": 0.15
+        },
+        "days_since_last_commit": {
+          "raw": 0.996907953832001,
+          "score": 0.996907953832001,
+          "weight": 0.25
+        },
+        "author_track_record": {
+          "raw": 1.591064607026499,
+          "score": 0.4065638940899456,
+          "weight": 0.15
+        },
+        "contributors_12mo": {
+          "raw": 4.0943445622221,
+          "score": 0.9573682977066487,
+          "weight": 0.25
+        },
+        "release_cadence": {
+          "raw": 100.0,
+          "score": 1.0,
+          "weight": 0.15
+        }
+      }
+    },
+    {
+      "slug": "narumiruna/pi-extensions",
+      "status": "ok",
+      "total": 78.7,
+      "buckets": {
+        "quality": 100.0,
+        "community": 48.8,
+        "maintenance": 91.6
+      },
+      "signals": {
+        "forks_log": {
+          "raw": 1.9912260756924949,
+          "score": 0.4837758486444553,
+          "weight": 0.15
+        },
+        "commit_frequency_90d": {
+          "raw": 6.900730664045173,
+          "score": 0.9988385583905697,
+          "weight": 0.2
+        },
+        "open_closed_issue_ratio": {
+          "raw": 0.35294117647058826,
+          "score": 0.35294117647058826,
+          "weight": 0.1
+        },
+        "contributors_12mo": {
+          "raw": 2.772588722239781,
+          "score": 0.6483060975724891,
+          "weight": 0.25
+        },
+        "readme_present": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.2
+        },
+        "ci_configured": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.3
+        },
+        "days_since_last_commit": {
+          "raw": 0.9998487768674695,
+          "score": 0.9998487768674695,
+          "weight": 0.25
+        },
+        "bus_factor": {
+          "raw": 0.035282258064516014,
+          "score": 0.035282258064516014,
+          "weight": 0.15
+        },
+        "license_osi": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.2
+        },
+        "release_cadence": {
+          "raw": 100.0,
+          "score": 1.0,
+          "weight": 0.15
+        },
+        "median_pr_close_days": {
+          "raw": 0.9940403598794266,
+          "score": 0.9940403598794266,
+          "weight": 0.15
+        },
+        "tests_present": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.3
+        },
+        "median_issue_close_days": {
+          "raw": 0.881853437795833,
+          "score": 0.881853437795833,
+          "weight": 0.15
+        },
+        "author_track_record": {
+          "raw": 2.1958996524092336,
+          "score": 0.5611170720356466,
+          "weight": 0.15
+        },
+        "stars_log": {
+          "raw": 2.737987326333431,
+          "score": 0.5456267270312624,
+          "weight": 0.3
+        }
+      }
+    },
+    {
+      "slug": "betterwright/betterwright",
+      "status": "ok",
+      "total": 76.0,
+      "buckets": {
+        "quality": 100.0,
+        "maintenance": 92.7,
+        "community": 39.7
+      },
+      "signals": {
+        "author_track_record": {
+          "raw": 1.0,
+          "score": 0.2555294689445469,
+          "weight": 0.15
+        },
+        "readme_present": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.2
+        },
+        "days_since_last_commit": {
+          "raw": 0.9979324387094742,
+          "score": 0.9979324387094742,
+          "weight": 0.25
+        },
+        "forks_log": {
+          "raw": 1.2304489213782739,
+          "score": 0.29894218362242625,
+          "weight": 0.15
+        },
+        "median_issue_close_days": {
+          "raw": 0.9296863230967409,
+          "score": 0.9296863230967409,
+          "weight": 0.15
+        },
+        "contributors_12mo": {
+          "raw": 2.0794415416798357,
+          "score": 0.4862295731793668,
+          "weight": 0.25
+        },
+        "open_closed_issue_ratio": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.1
+        },
+        "commit_frequency_90d": {
+          "raw": 5.831882477283517,
+          "score": 0.8441293204882805,
+          "weight": 0.2
+        },
+        "release_cadence": {
+          "raw": 80.0,
+          "score": 0.8,
+          "weight": 0.15
+        },
+        "tests_present": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.3
+        },
+        "license_osi": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.2
+        },
+        "stars_log": {
+          "raw": 2.4313637641589874,
+          "score": 0.4845227149524517,
+          "weight": 0.3
+        },
+        "ci_configured": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.3
+        },
+        "bus_factor": {
+          "raw": 0.3130699088145896,
+          "score": 0.3130699088145896,
+          "weight": 0.15
+        },
+        "median_pr_close_days": {
+          "raw": 0.9939755570979902,
+          "score": 0.9939755570979902,
+          "weight": 0.15
+        }
+      }
+    },
+    {
+      "slug": "juicesharp/rpiv-mono",
+      "status": "ok",
+      "total": 74.9,
+      "buckets": {
+        "maintenance": 65.0,
+        "quality": 100.0,
+        "community": 68.2
+      },
+      "signals": {
+        "stars_log": {
+          "raw": 2.8926510338773004,
+          "score": 0.5764481452774494,
+          "weight": 0.3
+        },
+        "release_cadence": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.15
+        },
+        "days_since_last_commit": {
+          "raw": 0.9583342652587951,
+          "score": 0.9583342652587951,
+          "weight": 0.25
+        },
+        "contributors_12mo": {
+          "raw": 3.4339872044851463,
+          "score": 0.8029589191487349,
+          "weight": 0.25
+        },
+        "readme_present": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.2
+        },
+        "commit_frequency_90d": {
+          "raw": 6.091309882077698,
+          "score": 0.8816798506606504,
+          "weight": 0.2
+        },
+        "median_issue_close_days": {
+          "raw": 0.8848890706396938,
+          "score": 0.8848890706396938,
+          "weight": 0.15
+        },
+        "forks_log": {
+          "raw": 2.1702617153949575,
+          "score": 0.5272732292743971,
+          "weight": 0.15
+        },
+        "ci_configured": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.3
+        },
+        "open_closed_issue_ratio": {
+          "raw": 0.25,
+          "score": 0.25,
+          "weight": 0.1
+        },
+        "license_osi": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.2
+        },
+        "author_track_record": {
+          "raw": 2.9079485216122722,
+          "score": 0.7430665414456643,
+          "weight": 0.15
+        },
+        "median_pr_close_days": {
+          "raw": 0.5060147821910909,
+          "score": 0.5060147821910909,
+          "weight": 0.15
+        },
+        "bus_factor": {
+          "raw": 0.782608695652174,
+          "score": 0.782608695652174,
+          "weight": 0.15
+        },
+        "tests_present": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.3
+        }
+      }
+    },
+    {
+      "slug": "chandra447/pi-hermes-memory",
+      "status": "ok",
+      "total": 74.1,
+      "buckets": {
+        "maintenance": 74.7,
+        "community": 54.8,
+        "quality": 100.0
+      },
+      "signals": {
+        "readme_present": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.2
+        },
+        "release_cadence": {
+          "raw": 29.0,
+          "score": 0.29,
+          "weight": 0.15
+        },
+        "median_issue_close_days": {
+          "raw": 0.842311384329986,
+          "score": 0.842311384329986,
+          "weight": 0.15
+        },
+        "bus_factor": {
+          "raw": 0.16988416988416988,
+          "score": 0.16988416988416988,
+          "weight": 0.15
+        },
+        "author_track_record": {
+          "raw": 2.6414741105040993,
+          "score": 0.674974476687882,
+          "weight": 0.15
+        },
+        "stars_log": {
+          "raw": 2.6334684555795866,
+          "score": 0.5247981830807712,
+          "weight": 0.3
+        },
+        "open_closed_issue_ratio": {
+          "raw": 0.47058823529411764,
+          "score": 0.47058823529411764,
+          "weight": 0.1
+        },
+        "forks_log": {
+          "raw": 2.0086001717619175,
+          "score": 0.48799695049372277,
+          "weight": 0.15
+        },
+        "tests_present": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.3
+        },
+        "median_pr_close_days": {
+          "raw": 0.9659351347725469,
+          "score": 0.9659351347725469,
+          "weight": 0.15
+        },
+        "commit_frequency_90d": {
+          "raw": 4.718498871295094,
+          "score": 0.682973853033872,
+          "weight": 0.2
+        },
+        "contributors_12mo": {
+          "raw": 3.258096538021482,
+          "score": 0.7618309326356956,
+          "weight": 0.25
+        },
+        "days_since_last_commit": {
+          "raw": 0.9956189356839302,
+          "score": 0.9956189356839302,
+          "weight": 0.25
+        },
+        "license_osi": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.2
+        },
+        "ci_configured": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.3
+        }
+      }
+    },
+    {
+      "slug": "quintinshaw/pi-dynamic-workflows",
+      "status": "ok",
+      "total": 73.8,
+      "buckets": {
+        "community": 57.5,
+        "quality": 100.0,
+        "maintenance": 71.6
+      },
+      "signals": {
+        "median_pr_close_days": {
+          "raw": 0.67127477462312,
+          "score": 0.67127477462312,
+          "weight": 0.15
+        },
+        "forks_log": {
+          "raw": 2.0086001717619175,
+          "score": 0.48799695049372277,
+          "weight": 0.15
+        },
+        "release_cadence": {
+          "raw": 57.0,
+          "score": 0.57,
+          "weight": 0.15
+        },
+        "commit_frequency_90d": {
+          "raw": 4.77912349311153,
+          "score": 0.6917488962584405,
+          "weight": 0.2
+        },
+        "contributors_12mo": {
+          "raw": 3.332204510175204,
+          "score": 0.7791593772912657,
+          "weight": 0.25
+        },
+        "stars_log": {
+          "raw": 2.708420900134713,
+          "score": 0.5397347230027334,
+          "weight": 0.3
+        },
+        "author_track_record": {
+          "raw": 2.8959747323590648,
+          "score": 0.7400068854365383,
+          "weight": 0.15
+        },
+        "days_since_last_commit": {
+          "raw": 0.9785503873688459,
+          "score": 0.9785503873688459,
+          "weight": 0.25
+        },
+        "readme_present": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.2
+        },
+        "median_issue_close_days": {
+          "raw": 0.6008121096223814,
+          "score": 0.6008121096223814,
+          "weight": 0.15
+        },
+        "ci_configured": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.3
+        },
+        "open_closed_issue_ratio": {
+          "raw": 0.5666666666666667,
+          "score": 0.5666666666666667,
+          "weight": 0.1
+        },
+        "tests_present": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.3
+        },
+        "license_osi": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.2
+        },
+        "bus_factor": {
+          "raw": 0.22941176470588232,
+          "score": 0.22941176470588232,
+          "weight": 0.15
+        }
+      }
+    },
+    {
+      "slug": "tintinweb/pi-subagents",
+      "status": "ok",
+      "total": 72.1,
+      "buckets": {
+        "quality": 100.0,
+        "maintenance": 62.2,
+        "community": 63.6
+      },
+      "signals": {
+        "readme_present": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.2
+        },
+        "license_osi": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.2
+        },
+        "ci_configured": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.3
+        },
+        "tests_present": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.3
+        },
+        "days_since_last_commit": {
+          "raw": 0.9065825631736598,
+          "score": 0.9065825631736598,
+          "weight": 0.25
+        },
+        "contributors_12mo": {
+          "raw": 3.367295829986474,
+          "score": 0.7873646752581185,
+          "weight": 0.25
+        },
+        "median_issue_close_days": {
+          "raw": 0.7218070956215383,
+          "score": 0.7218070956215383,
+          "weight": 0.15
+        },
+        "bus_factor": {
+          "raw": 0.12631578947368416,
+          "score": 0.12631578947368416,
+          "weight": 0.15
+        },
+        "release_cadence": {
+          "raw": 55.0,
+          "score": 0.55,
+          "weight": 0.15
+        },
+        "forks_log": {
+          "raw": 2.406540180433955,
+          "score": 0.5846779691660731,
+          "weight": 0.15
+        },
+        "author_track_record": {
+          "raw": 3.913442954859396,
+          "score": 1.0,
+          "weight": 0.15
+        },
+        "stars_log": {
+          "raw": 3.0542299098633974,
+          "score": 0.6086476198381099,
+          "weight": 0.3
+        },
+        "open_closed_issue_ratio": {
+          "raw": 0.20869565217391303,
+          "score": 0.20869565217391303,
+          "weight": 0.1
+        },
+        "median_pr_close_days": {
+          "raw": 0.3002949076726392,
+          "score": 0.3002949076726392,
+          "weight": 0.15
+        },
+        "commit_frequency_90d": {
+          "raw": 4.795790545596741,
+          "score": 0.6941613501691095,
+          "weight": 0.2
+        }
+      }
+    },
+    {
+      "slug": "code-yeongyu/senpi",
+      "status": "ok",
+      "total": 72.0,
+      "buckets": {
+        "maintenance": 91.1,
+        "community": 51.7,
+        "quality": 70.0
+      },
+      "signals": {
+        "tests_present": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.3
+        },
+        "bus_factor": {
+          "raw": 0.0657894736842104,
+          "score": 0.0657894736842104,
+          "weight": 0.15
+        },
+        "median_issue_close_days": {
+          "raw": 0.9967631566803568,
+          "score": 0.9967631566803568,
+          "weight": 0.15
+        },
+        "author_track_record": {
+          "raw": 3.592953571547866,
+          "score": 0.9181055180800394,
+          "weight": 0.15
+        },
+        "ci_configured": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.3
+        },
+        "stars_log": {
+          "raw": 2.6273658565927325,
+          "score": 0.5235820557891813,
+          "weight": 0.3
+        },
+        "days_since_last_commit": {
+          "raw": 0.9994163226692989,
+          "score": 0.9994163226692989,
+          "weight": 0.25
+        },
+        "license_osi": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.2
+        },
+        "contributors_12mo": {
+          "raw": 2.3978952727983707,
+          "score": 0.5606926531244064,
+          "weight": 0.25
+        },
+        "open_closed_issue_ratio": {
+          "raw": 0.1206896551724138,
+          "score": 0.1206896551724138,
+          "weight": 0.1
+        },
+        "readme_present": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.2
+        },
+        "commit_frequency_90d": {
+          "raw": 6.90875477931522,
+          "score": 1.0,
+          "weight": 0.2
+        },
+        "forks_log": {
+          "raw": 1.9822712330395684,
+          "score": 0.48160023601222796,
+          "weight": 0.15
+        },
+        "release_cadence": {
+          "raw": 100.0,
+          "score": 1.0,
+          "weight": 0.15
+        },
+        "median_pr_close_days": {
+          "raw": 0.9961491456637536,
+          "score": 0.9961491456637536,
+          "weight": 0.15
+        }
+      }
+    },
+    {
+      "slug": "apmantza/pi-lens",
+      "status": "ok",
+      "total": 70.2,
+      "buckets": {
+        "quality": 100.0,
+        "community": 35.5,
+        "maintenance": 81.9
+      },
+      "signals": {
+        "median_issue_close_days": {
+          "raw": 0.900794897878634,
+          "score": 0.900794897878634,
+          "weight": 0.15
+        },
+        "days_since_last_commit": {
+          "raw": 0.999512593101189,
+          "score": 0.999512593101189,
+          "weight": 0.25
+        },
+        "author_track_record": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.15
+        },
+        "median_pr_close_days": {
+          "raw": 0.9737405612532402,
+          "score": 0.9737405612532402,
+          "weight": 0.15
+        },
+        "readme_present": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.2
+        },
+        "stars_log": {
+          "raw": 2.6085260335771943,
+          "score": 0.519827651643132,
+          "weight": 0.3
+        },
+        "contributors_12mo": {
+          "raw": 1.6094379124341003,
+          "score": 0.37633003551008753,
+          "weight": 0.25
+        },
+        "forks_log": {
+          "raw": 2.0569048513364727,
+          "score": 0.49973275369555253,
+          "weight": 0.15
+        },
+        "release_cadence": {
+          "raw": 58.0,
+          "score": 0.58,
+          "weight": 0.15
+        },
+        "ci_configured": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.3
+        },
+        "license_osi": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.2
+        },
+        "bus_factor": {
+          "raw": 0.19817073170731703,
+          "score": 0.19817073170731703,
+          "weight": 0.15
+        },
+        "tests_present": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.3
+        },
+        "commit_frequency_90d": {
+          "raw": 6.898714534329988,
+          "score": 0.9985467359450515,
+          "weight": 0.2
+        },
+        "open_closed_issue_ratio": {
+          "raw": 0.011538461538461539,
+          "score": 0.011538461538461539,
+          "weight": 0.1
+        }
+      }
+    },
+    {
+      "slug": "monotykamary/pi-fabric",
+      "status": "ok",
+      "total": 70.1,
+      "buckets": {
+        "maintenance": 78.2,
+        "community": 39.6,
+        "quality": 100.0
+      },
+      "signals": {
+        "tests_present": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.3
+        },
+        "open_closed_issue_ratio": {
+          "raw": 0.6136363636363636,
+          "score": 0.6136363636363636,
+          "weight": 0.1
+        },
+        "stars_log": {
+          "raw": 2.3324384599156054,
+          "score": 0.4648088581877564,
+          "weight": 0.3
+        },
+        "ci_configured": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.3
+        },
+        "bus_factor": {
+          "raw": 0.03076923076923077,
+          "score": 0.03076923076923077,
+          "weight": 0.15
+        },
+        "license_osi": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.2
+        },
+        "author_track_record": {
+          "raw": 1.6434526764861874,
+          "score": 0.4199505896580098,
+          "weight": 0.15
+        },
+        "days_since_last_commit": {
+          "raw": 0.9882313216971935,
+          "score": 0.9882313216971935,
+          "weight": 0.25
+        },
+        "commit_frequency_90d": {
+          "raw": 6.742880635791903,
+          "score": 0.9759907322199445,
+          "weight": 0.2
+        },
+        "release_cadence": {
+          "raw": 1.0,
+          "score": 0.01,
+          "weight": 0.15
+        },
+        "median_issue_close_days": {
+          "raw": 0.9119737264712136,
+          "score": 0.9119737264712136,
+          "weight": 0.15
+        },
+        "median_pr_close_days": {
+          "raw": 0.9360881483006317,
+          "score": 0.9360881483006317,
+          "weight": 0.15
+        },
+        "contributors_12mo": {
+          "raw": 2.3978952727983707,
+          "score": 0.5606926531244064,
+          "weight": 0.25
+        },
+        "readme_present": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.2
+        },
+        "forks_log": {
+          "raw": 1.3424226808222062,
+          "score": 0.3261466287440378,
+          "weight": 0.15
+        }
+      }
+    },
+    {
+      "slug": "carderne/pi-sandbox",
+      "status": "ok",
+      "total": 68.2,
+      "buckets": {
+        "community": 52.1,
+        "maintenance": 62.5,
+        "quality": 100.0
+      },
+      "signals": {
+        "tests_present": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.3
+        },
+        "forks_log": {
+          "raw": 1.7481880270062005,
+          "score": 0.4247288425353098,
+          "weight": 0.15
+        },
+        "license_osi": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.2
+        },
+        "median_pr_close_days": {
+          "raw": 0.9336637657771886,
+          "score": 0.9336637657771886,
+          "weight": 0.15
+        },
+        "open_closed_issue_ratio": {
+          "raw": 0.5,
+          "score": 0.5,
+          "weight": 0.1
+        },
+        "readme_present": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.2
+        },
+        "bus_factor": {
+          "raw": 0.22916666666666663,
+          "score": 0.22916666666666663,
+          "weight": 0.15
+        },
+        "ci_configured": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.3
+        },
+        "commit_frequency_90d": {
+          "raw": 3.6375861597263857,
+          "score": 0.5265183489530272,
+          "weight": 0.2
+        },
+        "median_issue_close_days": {
+          "raw": 0.3243271940147476,
+          "score": 0.3243271940147476,
+          "weight": 0.15
+        },
+        "stars_log": {
+          "raw": 2.367355921026019,
+          "score": 0.4717672176508112,
+          "weight": 0.3
+        },
+        "author_track_record": {
+          "raw": 2.8555191556678,
+          "score": 0.7296692934087741,
+          "weight": 0.15
+        },
+        "days_since_last_commit": {
+          "raw": 0.9570842922533532,
+          "score": 0.9570842922533532,
+          "weight": 0.25
+        },
+        "contributors_12mo": {
+          "raw": 2.9444389791664403,
+          "score": 0.6884893272528545,
+          "weight": 0.25
+        },
+        "release_cadence": {
+          "raw": 28.0,
+          "score": 0.28,
+          "weight": 0.15
+        }
+      }
+    },
+    {
+      "slug": "mjasnikovs/pi-task",
+      "status": "ok",
+      "total": 67.9,
+      "buckets": {
+        "quality": 100.0,
+        "community": 26.4,
+        "maintenance": 84.2
+      },
+      "signals": {
+        "stars_log": {
+          "raw": 1.919078092376074,
+          "score": 0.3824343116528511,
+          "weight": 0.3
+        },
+        "forks_log": {
+          "raw": 0.9030899869919435,
+          "score": 0.21940910185569856,
+          "weight": 0.15
+        },
+        "days_since_last_commit": {
+          "raw": 0.9943378499981121,
+          "score": 0.9943378499981121,
+          "weight": 0.25
+        },
+        "readme_present": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.2
+        },
+        "median_issue_close_days": {
+          "raw": 0.978974229895458,
+          "score": 0.978974229895458,
+          "weight": 0.15
+        },
+        "license_osi": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.2
+        },
+        "ci_configured": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.3
+        },
+        "release_cadence": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.15
+        },
+        "bus_factor": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.15
+        },
+        "commit_frequency_90d": {
+          "raw": 6.90875477931522,
+          "score": 1.0,
+          "weight": 0.2
+        },
+        "contributors_12mo": {
+          "raw": 0.6931471805599453,
+          "score": 0.16207652439312228,
+          "weight": 0.25
+        },
+        "tests_present": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.3
+        },
+        "median_pr_close_days": {
+          "raw": 0.9776612697903799,
+          "score": 0.9776612697903799,
+          "weight": 0.15
+        },
+        "author_track_record": {
+          "raw": 1.9731278535996986,
+          "score": 0.5041923125900247,
+          "weight": 0.15
+        },
+        "open_closed_issue_ratio": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.1
+        }
+      }
+    },
+    {
+      "slug": "jmfederico/pi-web",
+      "status": "ok",
+      "total": 65.7,
+      "buckets": {
+        "quality": 70.0,
+        "community": 53.6,
+        "maintenance": 73.7
+      },
+      "signals": {
+        "tests_present": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.3
+        },
+        "author_track_record": {
+          "raw": 2.9222062774390163,
+          "score": 0.7467098182204133,
+          "weight": 0.15
+        },
+        "days_since_last_commit": {
+          "raw": 0.9933763291259935,
+          "score": 0.9933763291259935,
+          "weight": 0.25
+        },
+        "commit_frequency_90d": {
+          "raw": 6.78332520060396,
+          "score": 0.9818448356154141,
+          "weight": 0.2
+        },
+        "license_osi": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.2
+        },
+        "bus_factor": {
+          "raw": 0.02792140641158236,
+          "score": 0.02792140641158236,
+          "weight": 0.15
+        },
+        "ci_configured": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.3
+        },
+        "open_closed_issue_ratio": {
+          "raw": 0.16304347826086957,
+          "score": 0.16304347826086957,
+          "weight": 0.1
+        },
+        "stars_log": {
+          "raw": 2.8750612633917,
+          "score": 0.5729428518792722,
+          "weight": 0.3
+        },
+        "median_pr_close_days": {
+          "raw": 0.7359350378330802,
+          "score": 0.7359350378330802,
+          "weight": 0.15
+        },
+        "readme_present": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.2
+        },
+        "release_cadence": {
+          "raw": 27.0,
+          "score": 0.27,
+          "weight": 0.15
+        },
+        "median_issue_close_days": {
+          "raw": 0.8321088345523289,
+          "score": 0.8321088345523289,
+          "weight": 0.15
+        },
+        "contributors_12mo": {
+          "raw": 2.8903717578961645,
+          "score": 0.6758469512137554,
+          "weight": 0.25
+        },
+        "forks_log": {
+          "raw": 2.1702617153949575,
+          "score": 0.5272732292743971,
+          "weight": 0.15
+        }
+      }
+    },
+    {
+      "slug": "heyhuynhgiabuu/openpi",
+      "status": "ok",
+      "total": 65.0,
+      "buckets": {
+        "maintenance": 67.9,
+        "quality": 100.0,
+        "community": 36.6
+      },
+      "signals": {
+        "commit_frequency_90d": {
+          "raw": 5.081404364984463,
+          "score": 0.735502203696412,
+          "weight": 0.2
+        },
+        "bus_factor": {
+          "raw": 0.020771513353115778,
+          "score": 0.020771513353115778,
+          "weight": 0.15
+        },
+        "stars_log": {
+          "raw": 2.3324384599156054,
+          "score": 0.4648088581877564,
+          "weight": 0.3
+        },
+        "license_osi": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.2
+        },
+        "readme_present": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.2
+        },
+        "contributors_12mo": {
+          "raw": 1.6094379124341003,
+          "score": 0.37633003551008753,
+          "weight": 0.25
+        },
+        "tests_present": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.3
+        },
+        "median_issue_close_days": {
+          "raw": 0.5501680386755032,
+          "score": 0.5501680386755032,
+          "weight": 0.15
+        },
+        "author_track_record": {
+          "raw": 2.225309281725863,
+          "score": 0.5686320989967809,
+          "weight": 0.15
+        },
+        "days_since_last_commit": {
+          "raw": 0.9179786487087392,
+          "score": 0.9179786487087392,
+          "weight": 0.25
+        },
+        "median_pr_close_days": {
+          "raw": 0.8453984168349092,
+          "score": 0.8453984168349092,
+          "weight": 0.15
+        },
+        "ci_configured": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.3
+        },
+        "forks_log": {
+          "raw": 1.2041199826559248,
+          "score": 0.29254546914093144,
+          "weight": 0.15
+        },
+        "open_closed_issue_ratio": {
+          "raw": 0.5,
+          "score": 0.5,
+          "weight": 0.1
+        },
+        "release_cadence": {
+          "raw": 29.0,
+          "score": 0.29,
+          "weight": 0.15
+        }
+      }
+    },
+    {
+      "slug": "nicobailon/pi-interactive-shell",
+      "status": "ok",
+      "total": 64.9,
+      "buckets": {
+        "community": 44.0,
+        "maintenance": 73.7,
+        "quality": 80.0
+      },
+      "signals": {
+        "author_track_record": {
+          "raw": 3.778151250383644,
+          "score": 0.9654289826027085,
+          "weight": 0.15
+        },
+        "readme_present": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.2
+        },
+        "bus_factor": {
+          "raw": 0.010000000000000009,
+          "score": 0.010000000000000009,
+          "weight": 0.15
+        },
+        "ci_configured": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.3
+        },
+        "days_since_last_commit": {
+          "raw": 0.9240812790090461,
+          "score": 0.9240812790090461,
+          "weight": 0.25
+        },
+        "release_cadence": {
+          "raw": 31.0,
+          "score": 0.31,
+          "weight": 0.15
+        },
+        "license_osi": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.2
+        },
+        "stars_log": {
+          "raw": 2.765668554759014,
+          "score": 0.5511430484257378,
+          "weight": 0.3
+        },
+        "median_pr_close_days": {
+          "raw": 0.9995603785372175,
+          "score": 0.9995603785372175,
+          "weight": 0.15
+        },
+        "contributors_12mo": {
+          "raw": 1.0986122886681098,
+          "score": 0.2568852134103166,
+          "weight": 0.25
+        },
+        "commit_frequency_90d": {
+          "raw": 3.5553480614894135,
+          "score": 0.5146148872057391,
+          "weight": 0.2
+        },
+        "forks_log": {
+          "raw": 1.7481880270062005,
+          "score": 0.4247288425353098,
+          "weight": 0.15
+        },
+        "open_closed_issue_ratio": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.1
+        },
+        "tests_present": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.3
+        },
+        "median_issue_close_days": {
+          "raw": 0.7106444504108707,
+          "score": 0.7106444504108707,
+          "weight": 0.15
+        }
+      }
+    },
+    {
+      "slug": "fitchmultz/pi-agent-browser-native",
+      "status": "ok",
+      "total": 64.7,
+      "buckets": {
+        "quality": 70.0,
+        "maintenance": 77.9,
+        "community": 45.7
+      },
+      "signals": {
+        "commit_frequency_90d": {
+          "raw": 4.9344739331306915,
+          "score": 0.714234922319791,
+          "weight": 0.2
+        },
+        "median_issue_close_days": {
+          "raw": 0.3375890127279654,
+          "score": 0.3375890127279654,
+          "weight": 0.15
+        },
+        "forks_log": {
+          "raw": 1.462397997898956,
+          "score": 0.35529508232433116,
+          "weight": 0.15
+        },
+        "tests_present": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.3
+        },
+        "stars_log": {
+          "raw": 2.3404441148401185,
+          "score": 0.46640422689242217,
+          "weight": 0.3
+        },
+        "readme_present": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.2
+        },
+        "ci_configured": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.3
+        },
+        "days_since_last_commit": {
+          "raw": 0.9968725703813436,
+          "score": 0.9968725703813436,
+          "weight": 0.25
+        },
+        "author_track_record": {
+          "raw": 3.0354297381845483,
+          "score": 0.7756417490167827,
+          "weight": 0.15
+        },
+        "release_cadence": {
+          "raw": 97.0,
+          "score": 0.97,
+          "weight": 0.15
+        },
+        "contributors_12mo": {
+          "raw": 2.302585092994046,
+          "score": 0.5384065599032098,
+          "weight": 0.25
+        },
+        "bus_factor": {
+          "raw": 0.08450704225352124,
+          "score": 0.08450704225352124,
+          "weight": 0.15
+        },
+        "open_closed_issue_ratio": {
+          "raw": 0.43902439024390244,
+          "score": 0.43902439024390244,
+          "weight": 0.1
+        },
+        "license_osi": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.2
+        },
+        "median_pr_close_days": {
+          "raw": 0.9798214245212408,
+          "score": 0.9798214245212408,
+          "weight": 0.15
+        }
+      }
+    },
+    {
+      "slug": "aliou/pi-processes",
+      "status": "ok",
+      "total": 64.4,
+      "buckets": {
+        "community": 40.9,
+        "maintenance": 75.1,
+        "quality": 80.0
+      },
+      "signals": {
+        "bus_factor": {
+          "raw": 0.06968641114982577,
+          "score": 0.06968641114982577,
+          "weight": 0.15
+        },
+        "release_cadence": {
+          "raw": 44.0,
+          "score": 0.44,
+          "weight": 0.15
+        },
+        "median_issue_close_days": {
+          "raw": 0.5976550340677205,
+          "score": 0.5976550340677205,
+          "weight": 0.15
+        },
+        "forks_log": {
+          "raw": 1.3424226808222062,
+          "score": 0.3261466287440378,
+          "weight": 0.15
+        },
+        "license_osi": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.2
+        },
+        "stars_log": {
+          "raw": 1.9542425094393248,
+          "score": 0.38944188455344503,
+          "weight": 0.3
+        },
+        "readme_present": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.2
+        },
+        "open_closed_issue_ratio": {
+          "raw": 0.8,
+          "score": 0.8,
+          "weight": 0.1
+        },
+        "days_since_last_commit": {
+          "raw": 0.9297848317313034,
+          "score": 0.9297848317313034,
+          "weight": 0.25
+        },
+        "author_track_record": {
+          "raw": 2.8976270912904414,
+          "score": 0.7404291118367787,
+          "weight": 0.15
+        },
+        "contributors_12mo": {
+          "raw": 2.0794415416798357,
+          "score": 0.4862295731793668,
+          "weight": 0.25
+        },
+        "ci_configured": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.3
+        },
+        "commit_frequency_90d": {
+          "raw": 4.927253685157205,
+          "score": 0.7131898355850435,
+          "weight": 0.2
+        },
+        "median_pr_close_days": {
+          "raw": 0.9321393893623907,
+          "score": 0.9321393893623907,
+          "weight": 0.15
+        },
+        "tests_present": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.3
+        }
+      }
+    },
+    {
+      "slug": "tintinweb/pi-tasks",
+      "status": "ok",
+      "total": 64.4,
+      "buckets": {
+        "quality": 100.0,
+        "maintenance": 52.9,
+        "community": 52.0
+      },
+      "signals": {
+        "commit_frequency_90d": {
+          "raw": 3.4657359027997265,
+          "score": 0.5016440753080604,
+          "weight": 0.2
+        },
+        "median_issue_close_days": {
+          "raw": 0.6793190971727892,
+          "score": 0.6793190971727892,
+          "weight": 0.15
+        },
+        "median_pr_close_days": {
+          "raw": 0.23100554252881553,
+          "score": 0.23100554252881553,
+          "weight": 0.15
+        },
+        "open_closed_issue_ratio": {
+          "raw": 0.6153846153846154,
+          "score": 0.6153846153846154,
+          "weight": 0.1
+        },
+        "forks_log": {
+          "raw": 1.7242758696007892,
+          "score": 0.41891929414553214,
+          "weight": 0.15
+        },
+        "release_cadence": {
+          "raw": 19.0,
+          "score": 0.19,
+          "weight": 0.15
+        },
+        "bus_factor": {
+          "raw": 0.16216216216216217,
+          "score": 0.16216216216216217,
+          "weight": 0.15
+        },
+        "tests_present": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.3
+        },
+        "ci_configured": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.3
+        },
+        "readme_present": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.2
+        },
+        "days_since_last_commit": {
+          "raw": 0.8100341402518045,
+          "score": 0.8100341402518045,
+          "weight": 0.25
+        },
+        "stars_log": {
+          "raw": 2.305351369446624,
+          "score": 0.45941093673821415,
+          "weight": 0.3
+        },
+        "contributors_12mo": {
+          "raw": 2.4849066497880004,
+          "score": 0.5810382621965612,
+          "weight": 0.25
+        },
+        "author_track_record": {
+          "raw": 3.913442954859396,
+          "score": 1.0,
+          "weight": 0.15
+        },
+        "license_osi": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.2
+        }
+      }
+    },
+    {
+      "slug": "acolomba/pi-claude-marketplace",
+      "status": "ok",
+      "total": 63.9,
+      "buckets": {
+        "quality": 100.0,
+        "maintenance": 69.2,
+        "community": 32.0
+      },
+      "signals": {
+        "commit_frequency_90d": {
+          "raw": 3.9889840465642745,
+          "score": 0.5773810439049414,
+          "weight": 0.2
+        },
+        "median_issue_close_days": {
+          "raw": 0.6624268282865455,
+          "score": 0.6624268282865455,
+          "weight": 0.15
+        },
+        "ci_configured": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.3
+        },
+        "author_track_record": {
+          "raw": 2.399673721481038,
+          "score": 0.6131873516902343,
+          "weight": 0.15
+        },
+        "readme_present": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.2
+        },
+        "median_pr_close_days": {
+          "raw": 0.9233761653527318,
+          "score": 0.9233761653527318,
+          "weight": 0.15
+        },
+        "license_osi": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.2
+        },
+        "stars_log": {
+          "raw": 1.380211241711606,
+          "score": 0.2750488050780511,
+          "weight": 0.3
+        },
+        "bus_factor": {
+          "raw": 0.0625,
+          "score": 0.0625,
+          "weight": 0.15
+        },
+        "open_closed_issue_ratio": {
+          "raw": 0.42857142857142855,
+          "score": 0.42857142857142855,
+          "weight": 0.1
+        },
+        "tests_present": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.3
+        },
+        "days_since_last_commit": {
+          "raw": 0.9628748923366679,
+          "score": 0.9628748923366679,
+          "weight": 0.25
+        },
+        "contributors_12mo": {
+          "raw": 1.6094379124341003,
+          "score": 0.37633003551008753,
+          "weight": 0.25
+        },
+        "forks_log": {
+          "raw": 1.146128035678238,
+          "score": 0.27845610796484405,
+          "weight": 0.15
+        },
+        "release_cadence": {
+          "raw": 37.0,
+          "score": 0.37,
+          "weight": 0.15
+        }
+      }
+    },
+    {
+      "slug": "gotgenes/pi-packages",
+      "status": "ok",
+      "total": 63.7,
+      "buckets": {
+        "quality": 80.0,
+        "maintenance": 78.3,
+        "community": 35.4
+      },
+      "signals": {
+        "ci_configured": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.3
+        },
+        "median_pr_close_days": {
+          "raw": 0.2152924950381808,
+          "score": 0.2152924950381808,
+          "weight": 0.15
+        },
+        "days_since_last_commit": {
+          "raw": 0.9926069394272787,
+          "score": 0.9926069394272787,
+          "weight": 0.25
+        },
+        "open_closed_issue_ratio": {
+          "raw": 0.31343283582089554,
+          "score": 0.31343283582089554,
+          "weight": 0.1
+        },
+        "forks_log": {
+          "raw": 1.9030899869919435,
+          "score": 0.4623628550985146,
+          "weight": 0.15
+        },
+        "tests_present": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.3
+        },
+        "stars_log": {
+          "raw": 2.3263358609287517,
+          "score": 0.46359273089616654,
+          "weight": 0.3
+        },
+        "release_cadence": {
+          "raw": 100.0,
+          "score": 1.0,
+          "weight": 0.15
+        },
+        "commit_frequency_90d": {
+          "raw": 6.8658910748834385,
+          "score": 0.9937957409401597,
+          "weight": 0.2
+        },
+        "median_issue_close_days": {
+          "raw": 0.8177448468418528,
+          "score": 0.8177448468418528,
+          "weight": 0.15
+        },
+        "contributors_12mo": {
+          "raw": 0.6931471805599453,
+          "score": 0.16207652439312228,
+          "weight": 0.25
+        },
+        "author_track_record": {
+          "raw": 2.751279103983342,
+          "score": 0.7030328883590924,
+          "weight": 0.15
+        },
+        "license_osi": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.2
+        },
+        "readme_present": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.2
+        },
+        "bus_factor": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.15
+        }
+      }
+    },
+    {
+      "slug": "jayzeng/pi-memory",
+      "status": "ok",
+      "total": 62.7,
+      "buckets": {
+        "quality": 100.0,
+        "community": 41.0,
+        "maintenance": 58.3
+      },
+      "signals": {
+        "forks_log": {
+          "raw": 1.5440680443502757,
+          "score": 0.37513712663719434,
+          "weight": 0.15
+        },
+        "bus_factor": {
+          "raw": 0.08045977011494243,
+          "score": 0.08045977011494243,
+          "weight": 0.15
+        },
+        "commit_frequency_90d": {
+          "raw": 3.258096538021482,
+          "score": 0.47158954718963364,
+          "weight": 0.2
+        },
+        "license_osi": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.2
+        },
+        "median_issue_close_days": {
+          "raw": 0.7478350435155171,
+          "score": 0.7478350435155171,
+          "weight": 0.15
+        },
+        "contributors_12mo": {
+          "raw": 1.791759469228055,
+          "score": 0.41896173780343887,
+          "weight": 0.25
+        },
+        "author_track_record": {
+          "raw": 2.761927838420529,
+          "score": 0.7057539538147583,
+          "weight": 0.15
+        },
+        "days_since_last_commit": {
+          "raw": 0.7002180965777071,
+          "score": 0.7002180965777071,
+          "weight": 0.25
+        },
+        "open_closed_issue_ratio": {
+          "raw": 0.5294117647058824,
+          "score": 0.5294117647058824,
+          "weight": 0.1
+        },
+        "median_pr_close_days": {
+          "raw": 0.9927573144995424,
+          "score": 0.9927573144995424,
+          "weight": 0.15
+        },
+        "release_cadence": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.15
+        },
+        "ci_configured": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.3
+        },
+        "readme_present": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.2
+        },
+        "tests_present": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.3
+        },
+        "stars_log": {
+          "raw": 2.1931245983544616,
+          "score": 0.4370463606836184,
+          "weight": 0.3
+        }
+      }
+    },
+    {
+      "slug": "ogulcancelik/pi-extensions",
+      "status": "ok",
+      "total": 61.6,
+      "buckets": {
+        "quality": 70.0,
+        "community": 51.1,
+        "maintenance": 65.6
+      },
+      "signals": {
+        "ci_configured": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.3
+        },
+        "days_since_last_commit": {
+          "raw": 0.9952287541200909,
+          "score": 0.9952287541200909,
+          "weight": 0.25
+        },
+        "author_track_record": {
+          "raw": 3.071513805095089,
+          "score": 0.7848622914717928,
+          "weight": 0.15
+        },
+        "readme_present": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.2
+        },
+        "contributors_12mo": {
+          "raw": 2.6390573296152584,
+          "score": 0.6170828528981435,
+          "weight": 0.25
+        },
+        "stars_log": {
+          "raw": 2.722633922533812,
+          "score": 0.5425670972866669,
+          "weight": 0.3
+        },
+        "forks_log": {
+          "raw": 1.6812412373755872,
+          "score": 0.4084638687269951,
+          "weight": 0.15
+        },
+        "release_cadence": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.15
+        },
+        "median_pr_close_days": {
+          "raw": 0.4874865292350863,
+          "score": 0.4874865292350863,
+          "weight": 0.15
+        },
+        "open_closed_issue_ratio": {
+          "raw": 0.76,
+          "score": 0.76,
+          "weight": 0.1
+        },
+        "commit_frequency_90d": {
+          "raw": 3.9318256327243257,
+          "score": 0.5691077130854598,
+          "weight": 0.2
+        },
+        "tests_present": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.3
+        },
+        "bus_factor": {
+          "raw": 0.1029411764705882,
+          "score": 0.1029411764705882,
+          "weight": 0.15
+        },
+        "license_osi": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.2
+        },
+        "median_issue_close_days": {
+          "raw": 0.9648518263266713,
+          "score": 0.9648518263266713,
+          "weight": 0.15
+        }
+      }
+    },
+    {
+      "slug": "jesset/pi-verdict",
+      "status": "ok",
+      "total": 60.7,
+      "buckets": {
+        "community": 12.9,
+        "quality": 100.0,
+        "maintenance": 77.9
+      },
+      "signals": {
+        "median_issue_close_days": {
+          "raw": 0.9966949871087194,
+          "score": 0.9966949871087194,
+          "weight": 0.15
+        },
+        "contributors_12mo": {
+          "raw": 0.6931471805599453,
+          "score": 0.16207652439312228,
+          "weight": 0.25
+        },
+        "bus_factor": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.15
+        },
+        "readme_present": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.2
+        },
+        "days_since_last_commit": {
+          "raw": 0.9683543930291262,
+          "score": 0.9683543930291262,
+          "weight": 0.25
+        },
+        "median_pr_close_days": {
+          "raw": 0.9982630530981972,
+          "score": 0.9982630530981972,
+          "weight": 0.15
+        },
+        "license_osi": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.2
+        },
+        "author_track_record": {
+          "raw": 1.3979400086720377,
+          "score": 0.3572148680323011,
+          "weight": 0.15
+        },
+        "forks_log": {
+          "raw": 0.47712125471966244,
+          "score": 0.11591839958606363,
+          "weight": 0.15
+        },
+        "ci_configured": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.3
+        },
+        "open_closed_issue_ratio": {
+          "raw": 0.78125,
+          "score": 0.78125,
+          "weight": 0.1
+        },
+        "commit_frequency_90d": {
+          "raw": 4.718498871295094,
+          "score": 0.682973853033872,
+          "weight": 0.2
+        },
+        "release_cadence": {
+          "raw": 15.0,
+          "score": 0.15,
+          "weight": 0.15
+        },
+        "tests_present": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.3
+        },
+        "stars_log": {
+          "raw": 0.3010299956639812,
+          "score": 0.05998932489301481,
+          "weight": 0.3
+        }
+      }
+    },
+    {
+      "slug": "aliou/pi-guardrails",
+      "status": "ok",
+      "total": 60.5,
+      "buckets": {
+        "community": 41.2,
+        "quality": 80.0,
+        "maintenance": 65.3
+      },
+      "signals": {
+        "tests_present": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.3
+        },
+        "commit_frequency_90d": {
+          "raw": 3.332204510175204,
+          "score": 0.4823162229106479,
+          "weight": 0.2
+        },
+        "release_cadence": {
+          "raw": 38.0,
+          "score": 0.38,
+          "weight": 0.15
+        },
+        "stars_log": {
+          "raw": 2.437750562820388,
+          "score": 0.4857954776187765,
+          "weight": 0.3
+        },
+        "days_since_last_commit": {
+          "raw": 0.8608223244702101,
+          "score": 0.8608223244702101,
+          "weight": 0.25
+        },
+        "readme_present": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.2
+        },
+        "open_closed_issue_ratio": {
+          "raw": 0.6153846153846154,
+          "score": 0.6153846153846154,
+          "weight": 0.1
+        },
+        "median_pr_close_days": {
+          "raw": 0.8257012248538618,
+          "score": 0.8257012248538618,
+          "weight": 0.15
+        },
+        "license_osi": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.2
+        },
+        "median_issue_close_days": {
+          "raw": 0.6613610883370318,
+          "score": 0.6613610883370318,
+          "weight": 0.15
+        },
+        "contributors_12mo": {
+          "raw": 1.6094379124341003,
+          "score": 0.37633003551008753,
+          "weight": 0.25
+        },
+        "author_track_record": {
+          "raw": 2.8976270912904414,
+          "score": 0.7404291118367787,
+          "weight": 0.15
+        },
+        "bus_factor": {
+          "raw": 0.04166666666666663,
+          "score": 0.04166666666666663,
+          "weight": 0.15
+        },
+        "ci_configured": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.3
+        },
+        "forks_log": {
+          "raw": 1.5185139398778875,
+          "score": 0.36892866104486866,
+          "weight": 0.15
+        }
+      }
+    },
+    {
+      "slug": "svkozak/pi-acp",
+      "status": "ok",
+      "total": 59.9,
+      "buckets": {
+        "maintenance": 42.7,
+        "community": 51.0,
+        "quality": 100.0
+      },
+      "signals": {
+        "readme_present": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.2
+        },
+        "median_issue_close_days": {
+          "raw": 0.5681036300675985,
+          "score": 0.5681036300675985,
+          "weight": 0.15
+        },
+        "median_pr_close_days": {
+          "raw": 0.2432975833566431,
+          "score": 0.2432975833566431,
+          "weight": 0.15
+        },
+        "ci_configured": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.3
+        },
+        "author_track_record": {
+          "raw": 2.8344207036815323,
+          "score": 0.724278017177171,
+          "weight": 0.15
+        },
+        "license_osi": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.2
+        },
+        "tests_present": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.3
+        },
+        "stars_log": {
+          "raw": 2.8254261177678233,
+          "score": 0.5630515489532126,
+          "weight": 0.3
+        },
+        "forks_log": {
+          "raw": 2.2068258760318495,
+          "score": 0.5361566293353033,
+          "weight": 0.15
+        },
+        "bus_factor": {
+          "raw": 0.11888111888111885,
+          "score": 0.11888111888111885,
+          "weight": 0.15
+        },
+        "days_since_last_commit": {
+          "raw": 0.617285279217919,
+          "score": 0.617285279217919,
+          "weight": 0.25
+        },
+        "commit_frequency_90d": {
+          "raw": 3.2188758248682006,
+          "score": 0.46591258883663084,
+          "weight": 0.2
+        },
+        "release_cadence": {
+          "raw": 20.0,
+          "score": 0.2,
+          "weight": 0.15
+        },
+        "open_closed_issue_ratio": {
+          "raw": 0.27884615384615385,
+          "score": 0.27884615384615385,
+          "weight": 0.1
+        },
+        "contributors_12mo": {
+          "raw": 2.302585092994046,
+          "score": 0.5384065599032098,
+          "weight": 0.25
+        }
+      }
+    },
+    {
+      "slug": "hypabolic/hypa",
+      "status": "ok",
+      "total": 59.5,
+      "buckets": {
+        "quality": 80.0,
+        "maintenance": 69.9,
+        "community": 32.9
+      },
+      "signals": {
+        "ci_configured": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.3
+        },
+        "commit_frequency_90d": {
+          "raw": 3.6635616461296463,
+          "score": 0.5302781417424646,
+          "weight": 0.2
+        },
+        "days_since_last_commit": {
+          "raw": 0.7142940836732379,
+          "score": 0.7142940836732379,
+          "weight": 0.25
+        },
+        "author_track_record": {
+          "raw": 0.3010299956639812,
+          "score": 0.07692203492839639,
+          "weight": 0.15
+        },
+        "license_osi": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.2
+        },
+        "open_closed_issue_ratio": {
+          "raw": 0.92,
+          "score": 0.92,
+          "weight": 0.1
+        },
+        "readme_present": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.2
+        },
+        "stars_log": {
+          "raw": 2.2624510897304293,
+          "score": 0.4508617593972003,
+          "weight": 0.3
+        },
+        "bus_factor": {
+          "raw": 0.08333333333333337,
+          "score": 0.08333333333333337,
+          "weight": 0.15
+        },
+        "release_cadence": {
+          "raw": 28.0,
+          "score": 0.28,
+          "weight": 0.15
+        },
+        "contributors_12mo": {
+          "raw": 2.0794415416798357,
+          "score": 0.4862295731793668,
+          "weight": 0.25
+        },
+        "median_issue_close_days": {
+          "raw": 0.8764455264759586,
+          "score": 0.8764455264759586,
+          "weight": 0.15
+        },
+        "forks_log": {
+          "raw": 1.3222192947339193,
+          "score": 0.3212381402656749,
+          "weight": 0.15
+        },
+        "tests_present": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.3
+        },
+        "median_pr_close_days": {
+          "raw": 0.9906590634602742,
+          "score": 0.9906590634602742,
+          "weight": 0.15
+        }
+      }
+    },
+    {
+      "slug": "spences10/my-pi",
+      "status": "ok",
+      "total": 59.5,
+      "buckets": {
+        "maintenance": 73.3,
+        "community": 36.3,
+        "quality": 70.0
+      },
+      "signals": {
+        "contributors_12mo": {
+          "raw": 1.3862943611198906,
+          "score": 0.32415304878624457,
+          "weight": 0.25
+        },
+        "median_pr_close_days": {
+          "raw": 0.8733977598964862,
+          "score": 0.8733977598964862,
+          "weight": 0.15
+        },
+        "bus_factor": {
+          "raw": 0.03673469387755102,
+          "score": 0.03673469387755102,
+          "weight": 0.15
+        },
+        "release_cadence": {
+          "raw": 5.0,
+          "score": 0.05,
+          "weight": 0.15
+        },
+        "author_track_record": {
+          "raw": 2.791690649020118,
+          "score": 0.7133592290015683,
+          "weight": 0.15
+        },
+        "commit_frequency_90d": {
+          "raw": 6.289715570908998,
+          "score": 0.9103978606594023,
+          "weight": 0.2
+        },
+        "license_osi": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.2
+        },
+        "stars_log": {
+          "raw": 2.100370545117563,
+          "score": 0.418562312200346,
+          "weight": 0.3
+        },
+        "tests_present": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.3
+        },
+        "ci_configured": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.3
+        },
+        "readme_present": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.2
+        },
+        "days_since_last_commit": {
+          "raw": 0.994824140747736,
+          "score": 0.994824140747736,
+          "weight": 0.25
+        },
+        "forks_log": {
+          "raw": 1.2041199826559248,
+          "score": 0.29254546914093144,
+          "weight": 0.15
+        },
+        "median_issue_close_days": {
+          "raw": 0.9811898062036569,
+          "score": 0.9811898062036569,
+          "weight": 0.15
+        },
+        "open_closed_issue_ratio": {
+          "raw": 0.16666666666666666,
+          "score": 0.16666666666666666,
+          "weight": 0.1
+        }
+      }
+    },
+    {
+      "slug": "tmdgusya/roach-pi",
+      "status": "ok",
+      "total": 59.4,
+      "buckets": {
+        "maintenance": 65.4,
+        "community": 37.8,
+        "quality": 80.0
+      },
+      "signals": {
+        "median_pr_close_days": {
+          "raw": 0.9988362324760502,
+          "score": 0.9988362324760502,
+          "weight": 0.15
+        },
+        "contributors_12mo": {
+          "raw": 1.6094379124341003,
+          "score": 0.37633003551008753,
+          "weight": 0.25
+        },
+        "release_cadence": {
+          "raw": 73.0,
+          "score": 0.73,
+          "weight": 0.15
+        },
+        "tests_present": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.3
+        },
+        "license_osi": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.2
+        },
+        "readme_present": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.2
+        },
+        "days_since_last_commit": {
+          "raw": 0.4861356933092338,
+          "score": 0.4861356933092338,
+          "weight": 0.25
+        },
+        "bus_factor": {
+          "raw": 0.16198704103671702,
+          "score": 0.16198704103671702,
+          "weight": 0.15
+        },
+        "stars_log": {
+          "raw": 2.439332693830263,
+          "score": 0.4861107650404348,
+          "weight": 0.3
+        },
+        "forks_log": {
+          "raw": 1.4471580313422192,
+          "score": 0.3515924752500769,
+          "weight": 0.15
+        },
+        "open_closed_issue_ratio": {
+          "raw": 0.8125,
+          "score": 0.8125,
+          "weight": 0.1
+        },
+        "commit_frequency_90d": {
+          "raw": 2.6390573296152584,
+          "score": 0.3819874078490358,
+          "weight": 0.2
+        },
+        "ci_configured": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.3
+        },
+        "author_track_record": {
+          "raw": 1.591064607026499,
+          "score": 0.4065638940899456,
+          "weight": 0.15
+        },
+        "median_issue_close_days": {
+          "raw": 0.7666215414568851,
+          "score": 0.7666215414568851,
+          "weight": 0.15
+        }
+      }
+    },
+    {
+      "slug": "jesset/pi-vetter",
+      "status": "ok",
+      "total": 58.1,
+      "buckets": {
+        "maintenance": 74.5,
+        "quality": 100.0,
+        "community": 9.4
+      },
+      "signals": {
+        "forks_log": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.15
+        },
+        "commit_frequency_90d": {
+          "raw": 4.060443010546419,
+          "score": 0.5877242918945924,
+          "weight": 0.2
+        },
+        "tests_present": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.3
+        },
+        "open_closed_issue_ratio": {
+          "raw": 0.9534883720930233,
+          "score": 0.9534883720930233,
+          "weight": 0.1
+        },
+        "contributors_12mo": {
+          "raw": 0.6931471805599453,
+          "score": 0.16207652439312228,
+          "weight": 0.25
+        },
+        "median_pr_close_days": {
+          "raw": 0.9960974653700491,
+          "score": 0.9960974653700491,
+          "weight": 0.15
+        },
+        "readme_present": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.2
+        },
+        "release_cadence": {
+          "raw": 6.0,
+          "score": 0.06,
+          "weight": 0.15
+        },
+        "days_since_last_commit": {
+          "raw": 0.897084751354141,
+          "score": 0.897084751354141,
+          "weight": 0.25
+        },
+        "ci_configured": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.3
+        },
+        "stars_log": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.3
+        },
+        "bus_factor": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.15
+        },
+        "license_osi": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.2
+        },
+        "median_issue_close_days": {
+          "raw": 0.9970326409495549,
+          "score": 0.9970326409495549,
+          "weight": 0.15
+        },
+        "author_track_record": {
+          "raw": 1.3979400086720377,
+          "score": 0.3572148680323011,
+          "weight": 0.15
+        }
+      }
+    },
+    {
+      "slug": "mitsuhiko/agent-stuff",
+      "status": "ok",
+      "total": 55.5,
+      "buckets": {
+        "quality": 70.0,
+        "maintenance": 47.9,
+        "community": 53.8
+      },
+      "signals": {
+        "release_cadence": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.15
+        },
+        "tests_present": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.3
+        },
+        "author_track_record": {
+          "raw": 3.8410464654093035,
+          "score": 0.9815005634973684,
+          "weight": 0.15
+        },
+        "ci_configured": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.3
+        },
+        "stars_log": {
+          "raw": 3.48826861549546,
+          "score": 0.6951429502149853,
+          "weight": 0.3
+        },
+        "contributors_12mo": {
+          "raw": 1.6094379124341003,
+          "score": 0.37633003551008753,
+          "weight": 0.25
+        },
+        "bus_factor": {
+          "raw": 0.019607843137254832,
+          "score": 0.019607843137254832,
+          "weight": 0.15
+        },
+        "open_closed_issue_ratio": {
+          "raw": 0.2647058823529412,
+          "score": 0.2647058823529412,
+          "weight": 0.1
+        },
+        "license_osi": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.2
+        },
+        "readme_present": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.2
+        },
+        "median_pr_close_days": {
+          "raw": 0.3224893390026097,
+          "score": 0.3224893390026097,
+          "weight": 0.15
+        },
+        "median_issue_close_days": {
+          "raw": 0.5537165983599991,
+          "score": 0.5537165983599991,
+          "weight": 0.15
+        },
+        "forks_log": {
+          "raw": 2.3443922736851106,
+          "score": 0.5695789019652567,
+          "weight": 0.15
+        },
+        "commit_frequency_90d": {
+          "raw": 2.995732273553991,
+          "score": 0.4336139245415396,
+          "weight": 0.2
+        },
+        "days_since_last_commit": {
+          "raw": 0.9362735339937583,
+          "score": 0.9362735339937583,
+          "weight": 0.25
+        }
+      }
+    },
+    {
+      "slug": "code-yeongyu/pi-rules",
+      "status": "ok",
+      "total": 54.6,
+      "buckets": {
+        "maintenance": 47.1,
+        "quality": 100.0,
+        "community": 30.7
+      },
+      "signals": {
+        "median_pr_close_days": {
+          "raw": 0.5486904566599105,
+          "score": 0.5486904566599105,
+          "weight": 0.15
+        },
+        "release_cadence": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.15
+        },
+        "bus_factor": {
+          "raw": 0.07692307692307676,
+          "score": 0.07692307692307676,
+          "weight": 0.15
+        },
+        "author_track_record": {
+          "raw": 3.592953571547866,
+          "score": 0.9181055180800394,
+          "weight": 0.15
+        },
+        "ci_configured": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.3
+        },
+        "commit_frequency_90d": {
+          "raw": 3.2188758248682006,
+          "score": 0.46591258883663084,
+          "weight": 0.2
+        },
+        "median_issue_close_days": {
+          "raw": 0.8260382329501571,
+          "score": 0.8260382329501571,
+          "weight": 0.15
+        },
+        "tests_present": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.3
+        },
+        "forks_log": {
+          "raw": 0.8450980400142568,
+          "score": 0.2053197406796112,
+          "weight": 0.15
+        },
+        "open_closed_issue_ratio": {
+          "raw": 0.1111111111111111,
+          "score": 0.1111111111111111,
+          "weight": 0.1
+        },
+        "contributors_12mo": {
+          "raw": 1.0986122886681098,
+          "score": 0.2568852134103166,
+          "weight": 0.25
+        },
+        "days_since_last_commit": {
+          "raw": 0.6409440297194869,
+          "score": 0.6409440297194869,
+          "weight": 0.25
+        },
+        "stars_log": {
+          "raw": 1.041392685158225,
+          "score": 0.20752896731560092,
+          "weight": 0.3
+        },
+        "readme_present": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.2
+        },
+        "license_osi": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.2
+        }
+      }
+    },
+    {
+      "slug": "jonjonrankin/pi-caveman",
+      "status": "ok",
+      "total": 54.0,
+      "buckets": {
+        "quality": 70.0,
+        "maintenance": 56.7,
+        "community": 39.6
+      },
+      "signals": {
+        "bus_factor": {
+          "raw": 0.16279069767441856,
+          "score": 0.16279069767441856,
+          "weight": 0.15
+        },
+        "tests_present": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.3
+        },
+        "license_osi": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.2
+        },
+        "readme_present": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.2
+        },
+        "stars_log": {
+          "raw": 2.0170333392987803,
+          "score": 0.4019548551776266,
+          "weight": 0.3
+        },
+        "days_since_last_commit": {
+          "raw": 0.6532668718730621,
+          "score": 0.6532668718730621,
+          "weight": 0.25
+        },
+        "median_issue_close_days": {
+          "raw": 0.9396816222559118,
+          "score": 0.9396816222559118,
+          "weight": 0.15
+        },
+        "contributors_12mo": {
+          "raw": 2.1972245773362196,
+          "score": 0.5137704268206332,
+          "weight": 0.25
+        },
+        "author_track_record": {
+          "raw": 2.0170333392987803,
+          "score": 0.5154114580344635,
+          "weight": 0.15
+        },
+        "commit_frequency_90d": {
+          "raw": 2.302585092994046,
+          "score": 0.33328510947992757,
+          "weight": 0.2
+        },
+        "release_cadence": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.15
+        },
+        "forks_log": {
+          "raw": 1.2304489213782739,
+          "score": 0.29894218362242625,
+          "weight": 0.15
+        },
+        "open_closed_issue_ratio": {
+          "raw": 0.5714285714285714,
+          "score": 0.5714285714285714,
+          "weight": 0.1
+        },
+        "ci_configured": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.3
+        },
+        "median_pr_close_days": {
+          "raw": 0.9275893413113651,
+          "score": 0.9275893413113651,
+          "weight": 0.15
+        }
+      }
+    },
+    {
+      "slug": "dbachelder/pi-btw",
+      "status": "ok",
+      "total": 53.7,
+      "buckets": {
+        "community": 44.5,
+        "quality": 100.0,
+        "maintenance": 32.9
+      },
+      "signals": {
+        "commit_frequency_90d": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.2
+        },
+        "readme_present": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.2
+        },
+        "bus_factor": {
+          "raw": 0.15625,
+          "score": 0.15625,
+          "weight": 0.15
+        },
+        "median_pr_close_days": {
+          "raw": 0.533777049234343,
+          "score": 0.533777049234343,
+          "weight": 0.15
+        },
+        "open_closed_issue_ratio": {
+          "raw": 0.34615384615384615,
+          "score": 0.34615384615384615,
+          "weight": 0.1
+        },
+        "author_track_record": {
+          "raw": 2.8830933585756897,
+          "score": 0.7367153148343962,
+          "weight": 0.15
+        },
+        "median_issue_close_days": {
+          "raw": 0.7932770816637308,
+          "score": 0.7932770816637308,
+          "weight": 0.15
+        },
+        "days_since_last_commit": {
+          "raw": 0.3500766987364206,
+          "score": 0.3500766987364206,
+          "weight": 0.25
+        },
+        "release_cadence": {
+          "raw": 5.0,
+          "score": 0.05,
+          "weight": 0.15
+        },
+        "stars_log": {
+          "raw": 2.2764618041732443,
+          "score": 0.4536538177063379,
+          "weight": 0.3
+        },
+        "contributors_12mo": {
+          "raw": 1.9459101490553132,
+          "score": 0.45500632850502115,
+          "weight": 0.25
+        },
+        "license_osi": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.2
+        },
+        "forks_log": {
+          "raw": 1.6901960800285136,
+          "score": 0.4106394813592224,
+          "weight": 0.15
+        },
+        "ci_configured": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.3
+        },
+        "tests_present": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.3
+        }
+      }
+    },
+    {
+      "slug": "code-yeongyu/pi-webfetch",
+      "status": "ok",
+      "total": 52.5,
+      "buckets": {
+        "community": 28.2,
+        "maintenance": 44.1,
+        "quality": 100.0
+      },
+      "signals": {
+        "contributors_12mo": {
+          "raw": 1.0986122886681098,
+          "score": 0.2568852134103166,
+          "weight": 0.25
+        },
+        "median_issue_close_days": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.15
+        },
+        "forks_log": {
+          "raw": 0.6020599913279624,
+          "score": 0.14627273457046572,
+          "weight": 0.15
+        },
+        "days_since_last_commit": {
+          "raw": 0.8311018255997775,
+          "score": 0.8311018255997775,
+          "weight": 0.25
+        },
+        "license_osi": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.2
+        },
+        "ci_configured": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.3
+        },
+        "median_pr_close_days": {
+          "raw": 0.9995430329883908,
+          "score": 0.9995430329883908,
+          "weight": 0.15
+        },
+        "tests_present": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.3
+        },
+        "commit_frequency_90d": {
+          "raw": 2.8903717578961645,
+          "score": 0.4183636342904982,
+          "weight": 0.2
+        },
+        "open_closed_issue_ratio": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.1
+        },
+        "bus_factor": {
+          "raw": 0.024390243902439046,
+          "score": 0.024390243902439046,
+          "weight": 0.15
+        },
+        "author_track_record": {
+          "raw": 3.592953571547866,
+          "score": 0.9181055180800394,
+          "weight": 0.15
+        },
+        "stars_log": {
+          "raw": 0.9030899869919435,
+          "score": 0.17996797467904443,
+          "weight": 0.3
+        },
+        "release_cadence": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.15
+        },
+        "readme_present": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.2
+        }
+      }
+    },
+    {
+      "slug": "championswimmer/pi-cache-graph",
+      "status": "ok",
+      "total": 51.9,
+      "buckets": {
+        "community": 29.1,
+        "quality": 80.0,
+        "maintenance": 54.3
+      },
+      "signals": {
+        "median_pr_close_days": {
+          "raw": 0.7970700296133657,
+          "score": 0.7970700296133657,
+          "weight": 0.15
+        },
+        "release_cadence": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.15
+        },
+        "forks_log": {
+          "raw": 0.6020599913279624,
+          "score": 0.14627273457046572,
+          "weight": 0.15
+        },
+        "bus_factor": {
+          "raw": 0.02857142857142858,
+          "score": 0.02857142857142858,
+          "weight": 0.15
+        },
+        "ci_configured": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.3
+        },
+        "median_issue_close_days": {
+          "raw": 0.3996917720858121,
+          "score": 0.3996917720858121,
+          "weight": 0.15
+        },
+        "stars_log": {
+          "raw": 1.5314789170422551,
+          "score": 0.3051934612649069,
+          "weight": 0.3
+        },
+        "open_closed_issue_ratio": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.1
+        },
+        "tests_present": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.3
+        },
+        "author_track_record": {
+          "raw": 2.8394780473741985,
+          "score": 0.725570317525228,
+          "weight": 0.15
+        },
+        "commit_frequency_90d": {
+          "raw": 1.6094379124341003,
+          "score": 0.23295629441831542,
+          "weight": 0.2
+        },
+        "contributors_12mo": {
+          "raw": 1.0986122886681098,
+          "score": 0.2568852134103166,
+          "weight": 0.25
+        },
+        "license_osi": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.2
+        },
+        "readme_present": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.2
+        },
+        "days_since_last_commit": {
+          "raw": 0.8694025093992425,
+          "score": 0.8694025093992425,
+          "weight": 0.25
+        }
+      }
+    },
+    {
+      "slug": "hazat/pi-interactive-subagents",
+      "status": "ok",
+      "total": 50.1,
+      "buckets": {
+        "community": 55.8,
+        "maintenance": 32.7,
+        "quality": 70.0
+      },
+      "signals": {
+        "readme_present": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.2
+        },
+        "commit_frequency_90d": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.2
+        },
+        "median_issue_close_days": {
+          "raw": 0.6071664311654674,
+          "score": 0.6071664311654674,
+          "weight": 0.15
+        },
+        "days_since_last_commit": {
+          "raw": 0.256653779610064,
+          "score": 0.256653779610064,
+          "weight": 0.25
+        },
+        "contributors_12mo": {
+          "raw": 2.6390573296152584,
+          "score": 0.6170828528981435,
+          "weight": 0.25
+        },
+        "author_track_record": {
+          "raw": 3.585009279902461,
+          "score": 0.9160755174547485,
+          "weight": 0.15
+        },
+        "ci_configured": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.3
+        },
+        "tests_present": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.3
+        },
+        "bus_factor": {
+          "raw": 0.11560693641618502,
+          "score": 0.11560693641618502,
+          "weight": 0.15
+        },
+        "median_pr_close_days": {
+          "raw": 0.625649455272219,
+          "score": 0.625649455272219,
+          "weight": 0.15
+        },
+        "release_cadence": {
+          "raw": 29.0,
+          "score": 0.29,
+          "weight": 0.15
+        },
+        "license_osi": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.2
+        },
+        "stars_log": {
+          "raw": 2.8382192219076257,
+          "score": 0.565600961608719,
+          "weight": 0.3
+        },
+        "open_closed_issue_ratio": {
+          "raw": 0.34285714285714286,
+          "score": 0.34285714285714286,
+          "weight": 0.1
+        },
+        "forks_log": {
+          "raw": 2.184691430817599,
+          "score": 0.5307789827945536,
+          "weight": 0.15
+        }
+      }
+    },
+    {
+      "slug": "code-yeongyu/pi-websearch",
+      "status": "ok",
+      "total": 50.0,
+      "buckets": {
+        "quality": 100.0,
+        "maintenance": 38.6,
+        "community": 27.3
+      },
+      "signals": {
+        "median_issue_close_days": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.15
+        },
+        "open_closed_issue_ratio": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.1
+        },
+        "commit_frequency_90d": {
+          "raw": 3.1354942159291497,
+          "score": 0.4538436109089882,
+          "weight": 0.2
+        },
+        "readme_present": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.2
+        },
+        "tests_present": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.3
+        },
+        "forks_log": {
+          "raw": 0.9030899869919435,
+          "score": 0.21940910185569856,
+          "weight": 0.15
+        },
+        "contributors_12mo": {
+          "raw": 0.6931471805599453,
+          "score": 0.16207652439312228,
+          "weight": 0.25
+        },
+        "bus_factor": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.15
+        },
+        "license_osi": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.2
+        },
+        "release_cadence": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.15
+        },
+        "ci_configured": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.3
+        },
+        "author_track_record": {
+          "raw": 3.592953571547866,
+          "score": 0.9181055180800394,
+          "weight": 0.15
+        },
+        "stars_log": {
+          "raw": 1.041392685158225,
+          "score": 0.20752896731560092,
+          "weight": 0.3
+        },
+        "median_pr_close_days": {
+          "raw": 0.9973968404222776,
+          "score": 0.9973968404222776,
+          "weight": 0.15
+        },
+        "days_since_last_commit": {
+          "raw": 0.582368720328276,
+          "score": 0.582368720328276,
+          "weight": 0.25
+        }
+      }
+    },
+    {
+      "slug": "championswimmer/pi-context-prune",
+      "status": "ok",
+      "total": 49.8,
+      "buckets": {
+        "community": 42.9,
+        "maintenance": 55.8,
+        "quality": 50.0
+      },
+      "signals": {
+        "release_cadence": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.15
+        },
+        "ci_configured": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.3
+        },
+        "median_issue_close_days": {
+          "raw": 0.6117736073501847,
+          "score": 0.6117736073501847,
+          "weight": 0.15
+        },
+        "median_pr_close_days": {
+          "raw": 0.5613816225488285,
+          "score": 0.5613816225488285,
+          "weight": 0.15
+        },
+        "open_closed_issue_ratio": {
+          "raw": 0.55,
+          "score": 0.55,
+          "weight": 0.1
+        },
+        "days_since_last_commit": {
+          "raw": 0.9122862748247954,
+          "score": 0.9122862748247954,
+          "weight": 0.25
+        },
+        "forks_log": {
+          "raw": 1.3979400086720377,
+          "score": 0.33963477191516633,
+          "weight": 0.15
+        },
+        "license_osi": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.2
+        },
+        "commit_frequency_90d": {
+          "raw": 3.4011973816621555,
+          "score": 0.4923025190943706,
+          "weight": 0.2
+        },
+        "stars_log": {
+          "raw": 2.376576957056512,
+          "score": 0.4736047877742247,
+          "weight": 0.3
+        },
+        "author_track_record": {
+          "raw": 2.8394780473741985,
+          "score": 0.725570317525228,
+          "weight": 0.15
+        },
+        "tests_present": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.3
+        },
+        "readme_present": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.2
+        },
+        "contributors_12mo": {
+          "raw": 1.791759469228055,
+          "score": 0.41896173780343887,
+          "weight": 0.25
+        },
+        "bus_factor": {
+          "raw": 0.15037593984962405,
+          "score": 0.15037593984962405,
+          "weight": 0.15
+        }
+      }
+    },
+    {
+      "slug": "sherif-fanous/pi-theme-sync",
+      "status": "ok",
+      "total": 49.0,
+      "buckets": {
+        "quality": 70.0,
+        "community": 15.7,
+        "maintenance": 65.1
+      },
+      "signals": {
+        "bus_factor": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.15
+        },
+        "license_osi": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.2
+        },
+        "median_issue_close_days": {
+          "raw": 0.31892333843339987,
+          "score": 0.31892333843339987,
+          "weight": 0.15
+        },
+        "readme_present": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.2
+        },
+        "commit_frequency_90d": {
+          "raw": 3.912023005428146,
+          "score": 0.566241403898243,
+          "weight": 0.2
+        },
+        "days_since_last_commit": {
+          "raw": 0.9611245877369483,
+          "score": 0.9611245877369483,
+          "weight": 0.25
+        },
+        "forks_log": {
+          "raw": 0.3010299956639812,
+          "score": 0.07313636728523286,
+          "weight": 0.15
+        },
+        "median_pr_close_days": {
+          "raw": 0.9996182013814169,
+          "score": 0.9996182013814169,
+          "weight": 0.15
+        },
+        "release_cadence": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.15
+        },
+        "author_track_record": {
+          "raw": 2.2764618041732443,
+          "score": 0.5817030758929344,
+          "weight": 0.15
+        },
+        "tests_present": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.3
+        },
+        "stars_log": {
+          "raw": 0.3010299956639812,
+          "score": 0.05998932489301481,
+          "weight": 0.3
+        },
+        "ci_configured": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.3
+        },
+        "open_closed_issue_ratio": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.1
+        },
+        "contributors_12mo": {
+          "raw": 0.6931471805599453,
+          "score": 0.16207652439312228,
+          "weight": 0.25
+        }
+      }
+    },
+    {
+      "slug": "jayshah5696/pi-agent-extensions",
+      "status": "ok",
+      "total": 48.8,
+      "buckets": {
+        "quality": 70.0,
+        "maintenance": 48.4,
+        "community": 34.0
+      },
+      "signals": {
+        "open_closed_issue_ratio": {
+          "raw": 0.6666666666666666,
+          "score": 0.6666666666666666,
+          "weight": 0.1
+        },
+        "median_pr_close_days": {
+          "raw": 0.6340051292776083,
+          "score": 0.6340051292776083,
+          "weight": 0.15
+        },
+        "days_since_last_commit": {
+          "raw": 0.7957076731701099,
+          "score": 0.7957076731701099,
+          "weight": 0.25
+        },
+        "stars_log": {
+          "raw": 1.8195439355418688,
+          "score": 0.36259912260762245,
+          "weight": 0.3
+        },
+        "forks_log": {
+          "raw": 1.0,
+          "score": 0.242953753242816,
+          "weight": 0.15
+        },
+        "tests_present": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.3
+        },
+        "contributors_12mo": {
+          "raw": 1.791759469228055,
+          "score": 0.41896173780343887,
+          "weight": 0.25
+        },
+        "bus_factor": {
+          "raw": 0.04347826086956519,
+          "score": 0.04347826086956519,
+          "weight": 0.15
+        },
+        "commit_frequency_90d": {
+          "raw": 3.4657359027997265,
+          "score": 0.5016440753080604,
+          "weight": 0.2
+        },
+        "median_issue_close_days": {
+          "raw": 0.12453885437741567,
+          "score": 0.12453885437741567,
+          "weight": 0.15
+        },
+        "release_cadence": {
+          "raw": 3.0,
+          "score": 0.03,
+          "weight": 0.15
+        },
+        "author_track_record": {
+          "raw": 2.184691430817599,
+          "score": 0.5582530411245235,
+          "weight": 0.15
+        },
+        "license_osi": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.2
+        },
+        "ci_configured": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.3
+        },
+        "readme_present": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.2
+        }
+      }
+    },
+    {
+      "slug": "code-yeongyu/pi-lsp-client",
+      "status": "ok",
+      "total": 47.4,
+      "buckets": {
+        "maintenance": 31.6,
+        "community": 28.0,
+        "quality": 100.0
+      },
+      "signals": {
+        "median_issue_close_days": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.15
+        },
+        "readme_present": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.2
+        },
+        "days_since_last_commit": {
+          "raw": 0.5824532058690712,
+          "score": 0.5824532058690712,
+          "weight": 0.25
+        },
+        "license_osi": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.2
+        },
+        "release_cadence": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.15
+        },
+        "open_closed_issue_ratio": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.1
+        },
+        "contributors_12mo": {
+          "raw": 0.6931471805599453,
+          "score": 0.16207652439312228,
+          "weight": 0.25
+        },
+        "commit_frequency_90d": {
+          "raw": 0.6931471805599453,
+          "score": 0.10032881506161208,
+          "weight": 0.2
+        },
+        "forks_log": {
+          "raw": 0.7781512503836436,
+          "score": 0.1890547668712965,
+          "weight": 0.15
+        },
+        "median_pr_close_days": {
+          "raw": 0.9996143463170073,
+          "score": 0.9996143463170073,
+          "weight": 0.15
+        },
+        "bus_factor": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.15
+        },
+        "author_track_record": {
+          "raw": 3.592953571547866,
+          "score": 0.9181055180800394,
+          "weight": 0.15
+        },
+        "tests_present": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.3
+        },
+        "stars_log": {
+          "raw": 1.2304489213782739,
+          "score": 0.24520413637189203,
+          "weight": 0.3
+        },
+        "ci_configured": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.3
+        }
+      }
+    },
+    {
+      "slug": "tomsej/pi-ext",
+      "status": "ok",
+      "total": 46.8,
+      "buckets": {
+        "quality": 40.0,
+        "community": 25.6,
+        "maintenance": 69.5
+      },
+      "signals": {
+        "readme_present": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.2
+        },
+        "median_issue_close_days": {
+          "raw": 0.9994232825304181,
+          "score": 0.9994232825304181,
+          "weight": 0.15
+        },
+        "open_closed_issue_ratio": {
+          "raw": 0.4,
+          "score": 0.4,
+          "weight": 0.1
+        },
+        "author_track_record": {
+          "raw": 1.9030899869919435,
+          "score": 0.4862955737297361,
+          "weight": 0.15
+        },
+        "ci_configured": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.3
+        },
+        "release_cadence": {
+          "raw": 1.0,
+          "score": 0.01,
+          "weight": 0.15
+        },
+        "commit_frequency_90d": {
+          "raw": 4.394449154672439,
+          "score": 0.6360696384577723,
+          "weight": 0.2
+        },
+        "license_osi": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.2
+        },
+        "days_since_last_commit": {
+          "raw": 0.9086289939058354,
+          "score": 0.9086289939058354,
+          "weight": 0.25
+        },
+        "median_pr_close_days": {
+          "raw": 0.9957243779603784,
+          "score": 0.9957243779603784,
+          "weight": 0.15
+        },
+        "contributors_12mo": {
+          "raw": 0.6931471805599453,
+          "score": 0.16207652439312228,
+          "weight": 0.25
+        },
+        "tests_present": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.3
+        },
+        "bus_factor": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.15
+        },
+        "forks_log": {
+          "raw": 0.8450980400142568,
+          "score": 0.2053197406796112,
+          "weight": 0.15
+        },
+        "stars_log": {
+          "raw": 1.863322860120456,
+          "score": 0.37132339649341545,
+          "weight": 0.3
+        }
+      }
+    },
+    {
+      "slug": "code-yeongyu/pi-ast-grep",
+      "status": "ok",
+      "total": 44.1,
+      "buckets": {
+        "quality": 100.0,
+        "community": 31.8,
+        "maintenance": 19.9
+      },
+      "signals": {
+        "median_pr_close_days": {
+          "raw": 0.7725471553305604,
+          "score": 0.7725471553305604,
+          "weight": 0.15
+        },
+        "contributors_12mo": {
+          "raw": 1.0986122886681098,
+          "score": 0.2568852134103166,
+          "weight": 0.25
+        },
+        "stars_log": {
+          "raw": 1.2787536009528289,
+          "score": 0.2548303037259438,
+          "weight": 0.3
+        },
+        "ci_configured": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.3
+        },
+        "forks_log": {
+          "raw": 0.9030899869919435,
+          "score": 0.21940910185569856,
+          "weight": 0.15
+        },
+        "bus_factor": {
+          "raw": 0.04166666666666663,
+          "score": 0.04166666666666663,
+          "weight": 0.15
+        },
+        "open_closed_issue_ratio": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.1
+        },
+        "readme_present": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.2
+        },
+        "median_issue_close_days": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.15
+        },
+        "license_osi": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.2
+        },
+        "tests_present": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.3
+        },
+        "days_since_last_commit": {
+          "raw": 0.3325537746461606,
+          "score": 0.3325537746461606,
+          "weight": 0.25
+        },
+        "commit_frequency_90d": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.2
+        },
+        "author_track_record": {
+          "raw": 3.592953571547866,
+          "score": 0.9181055180800394,
+          "weight": 0.15
+        },
+        "release_cadence": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.15
+        }
+      }
+    },
+    {
+      "slug": "dingdinglz/pi-worktree",
+      "status": "ok",
+      "total": 42.6,
+      "buckets": {
+        "community": 13.0,
+        "maintenance": 32.6,
+        "quality": 100.0
+      },
+      "signals": {
+        "open_closed_issue_ratio": {
+          "raw": 0.5,
+          "score": 0.5,
+          "weight": 0.1
+        },
+        "ci_configured": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.3
+        },
+        "forks_log": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.15
+        },
+        "commit_frequency_90d": {
+          "raw": 1.3862943611198906,
+          "score": 0.20065763012322416,
+          "weight": 0.2
+        },
+        "contributors_12mo": {
+          "raw": 0.6931471805599453,
+          "score": 0.16207652439312228,
+          "weight": 0.25
+        },
+        "tests_present": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.3
+        },
+        "release_cadence": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.15
+        },
+        "days_since_last_commit": {
+          "raw": 0.9434872255397634,
+          "score": 0.9434872255397634,
+          "weight": 0.25
+        },
+        "license_osi": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.2
+        },
+        "stars_log": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.3
+        },
+        "bus_factor": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.15
+        },
+        "median_pr_close_days": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.15
+        },
+        "median_issue_close_days": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.15
+        },
+        "author_track_record": {
+          "raw": 2.330413773349191,
+          "score": 0.5954893939249766,
+          "weight": 0.15
+        },
+        "readme_present": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.2
+        }
+      }
+    },
+    {
+      "slug": "leblancfg/pi-ansi-themes",
+      "status": "ok",
+      "total": 42.2,
+      "buckets": {
+        "maintenance": 45.7,
+        "quality": 61.7,
+        "community": 24.2
+      },
+      "signals": {
+        "days_since_last_commit": {
+          "raw": 0.7866572994655799,
+          "score": 0.7866572994655799,
+          "weight": 0.25
+        },
+        "median_pr_close_days": {
+          "raw": 0.9999614212414644,
+          "score": 0.9999614212414644,
+          "weight": 0.15
+        },
+        "readme_present": {
+          "raw": 0.585,
+          "score": 0.585,
+          "weight": 0.2
+        },
+        "stars_log": {
+          "raw": 1.2304489213782739,
+          "score": 0.24520413637189203,
+          "weight": 0.3
+        },
+        "contributors_12mo": {
+          "raw": 0.6931471805599453,
+          "score": 0.16207652439312228,
+          "weight": 0.25
+        },
+        "author_track_record": {
+          "raw": 2.8887409606828927,
+          "score": 0.7381584436016599,
+          "weight": 0.15
+        },
+        "commit_frequency_90d": {
+          "raw": 2.0794415416798357,
+          "score": 0.3009864451848362,
+          "weight": 0.2
+        },
+        "release_cadence": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.15
+        },
+        "license_osi": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.2
+        },
+        "open_closed_issue_ratio": {
+          "raw": 0.5,
+          "score": 0.5,
+          "weight": 0.1
+        },
+        "bus_factor": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.15
+        },
+        "ci_configured": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.3
+        },
+        "median_issue_close_days": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.15
+        },
+        "forks_log": {
+          "raw": 0.47712125471966244,
+          "score": 0.11591839958606363,
+          "weight": 0.15
+        },
+        "tests_present": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.3
+        }
+      }
+    },
+    {
+      "slug": "thinkscape/agent-smart-fetch",
+      "status": "ok",
+      "total": 42.2,
+      "buckets": {
+        "maintenance": 35.2,
+        "community": 30.3,
+        "quality": 70.0
+      },
+      "signals": {
+        "days_since_last_commit": {
+          "raw": 0.6051717024248738,
+          "score": 0.6051717024248738,
+          "weight": 0.25
+        },
+        "readme_present": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.2
+        },
+        "commit_frequency_90d": {
+          "raw": 1.0986122886681098,
+          "score": 0.15901740961444308,
+          "weight": 0.2
+        },
+        "forks_log": {
+          "raw": 1.1760912590556813,
+          "score": 0.2857357855436468,
+          "weight": 0.15
+        },
+        "median_pr_close_days": {
+          "raw": 0.421358931321908,
+          "score": 0.421358931321908,
+          "weight": 0.15
+        },
+        "contributors_12mo": {
+          "raw": 1.0986122886681098,
+          "score": 0.2568852134103166,
+          "weight": 0.25
+        },
+        "release_cadence": {
+          "raw": 2.0,
+          "score": 0.02,
+          "weight": 0.15
+        },
+        "bus_factor": {
+          "raw": 0.00877192982456143,
+          "score": 0.00877192982456143,
+          "weight": 0.15
+        },
+        "stars_log": {
+          "raw": 1.792391689498254,
+          "score": 0.35718821694058833,
+          "weight": 0.3
+        },
+        "ci_configured": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.3
+        },
+        "tests_present": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.3
+        },
+        "open_closed_issue_ratio": {
+          "raw": 0.18181818181818182,
+          "score": 0.18181818181818182,
+          "weight": 0.1
+        },
+        "license_osi": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.2
+        },
+        "author_track_record": {
+          "raw": 2.271841606536499,
+          "score": 0.5805224792443979,
+          "weight": 0.15
+        },
+        "median_issue_close_days": {
+          "raw": 0.564759405303117,
+          "score": 0.564759405303117,
+          "weight": 0.15
+        }
+      }
+    },
+    {
+      "slug": "gintasz/neuralyzer",
+      "status": "ok",
+      "total": 40.6,
+      "buckets": {
+        "maintenance": 37.6,
+        "quality": 70.0,
+        "community": 23.0
+      },
+      "signals": {
+        "bus_factor": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.15
+        },
+        "days_since_last_commit": {
+          "raw": 0.3944329678124821,
+          "score": 0.3944329678124821,
+          "weight": 0.25
+        },
+        "author_track_record": {
+          "raw": 2.161368002234975,
+          "score": 0.5522932178048394,
+          "weight": 0.15
+        },
+        "tests_present": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.3
+        },
+        "median_issue_close_days": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.15
+        },
+        "commit_frequency_90d": {
+          "raw": 2.4849066497880004,
+          "score": 0.35967503973766723,
+          "weight": 0.2
+        },
+        "readme_present": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.2
+        },
+        "license_osi": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.2
+        },
+        "open_closed_issue_ratio": {
+          "raw": 0.5,
+          "score": 0.5,
+          "weight": 0.1
+        },
+        "contributors_12mo": {
+          "raw": 0.6931471805599453,
+          "score": 0.16207652439312228,
+          "weight": 0.25
+        },
+        "forks_log": {
+          "raw": 0.3010299956639812,
+          "score": 0.07313636728523286,
+          "weight": 0.15
+        },
+        "ci_configured": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.3
+        },
+        "median_pr_close_days": {
+          "raw": 0.9993753903810119,
+          "score": 0.9993753903810119,
+          "weight": 0.15
+        },
+        "stars_log": {
+          "raw": 1.6020599913279625,
+          "score": 0.3192588735414614,
+          "weight": 0.3
+        },
+        "release_cadence": {
+          "raw": 4.0,
+          "score": 0.04,
+          "weight": 0.15
+        }
+      }
+    },
+    {
+      "slug": "saravananravi08/pi-langfuse-extension",
+      "status": "ok",
+      "total": 39.8,
+      "buckets": {
+        "maintenance": 58.7,
+        "community": 10.9,
+        "quality": 50.0
+      },
+      "signals": {
+        "bus_factor": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.15
+        },
+        "median_issue_close_days": {
+          "raw": 0.2119074243454932,
+          "score": 0.2119074243454932,
+          "weight": 0.15
+        },
+        "tests_present": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.3
+        },
+        "stars_log": {
+          "raw": 0.3010299956639812,
+          "score": 0.05998932489301481,
+          "weight": 0.3
+        },
+        "ci_configured": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.3
+        },
+        "days_since_last_commit": {
+          "raw": 0.7564996255424163,
+          "score": 0.7564996255424163,
+          "weight": 0.25
+        },
+        "license_osi": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.2
+        },
+        "median_pr_close_days": {
+          "raw": 0.9994909999537274,
+          "score": 0.9994909999537274,
+          "weight": 0.15
+        },
+        "author_track_record": {
+          "raw": 1.041392685158225,
+          "score": 0.26610651980121697,
+          "weight": 0.15
+        },
+        "commit_frequency_90d": {
+          "raw": 4.007333185232471,
+          "score": 0.5800369695028702,
+          "weight": 0.2
+        },
+        "open_closed_issue_ratio": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.1
+        },
+        "forks_log": {
+          "raw": 0.3010299956639812,
+          "score": 0.07313636728523286,
+          "weight": 0.15
+        },
+        "release_cadence": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.15
+        },
+        "contributors_12mo": {
+          "raw": 0.6931471805599453,
+          "score": 0.16207652439312228,
+          "weight": 0.25
+        },
+        "readme_present": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.2
+        }
+      }
+    },
+    {
+      "slug": "hasit/pi-community-themes",
+      "status": "ok",
+      "total": 37.1,
+      "buckets": {
+        "maintenance": 39.7,
+        "community": 32.1,
+        "quality": 40.0
+      },
+      "signals": {
+        "stars_log": {
+          "raw": 1.505149978319906,
+          "score": 0.2999466244650741,
+          "weight": 0.3
+        },
+        "median_issue_close_days": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.15
+        },
+        "contributors_12mo": {
+          "raw": 1.3862943611198906,
+          "score": 0.32415304878624457,
+          "weight": 0.25
+        },
+        "forks_log": {
+          "raw": 0.7781512503836436,
+          "score": 0.1890547668712965,
+          "weight": 0.15
+        },
+        "readme_present": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.2
+        },
+        "author_track_record": {
+          "raw": 2.7218106152125467,
+          "score": 0.6955028210728926,
+          "weight": 0.15
+        },
+        "ci_configured": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.3
+        },
+        "bus_factor": {
+          "raw": 0.11538461538461542,
+          "score": 0.11538461538461542,
+          "weight": 0.15
+        },
+        "tests_present": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.3
+        },
+        "days_since_last_commit": {
+          "raw": 0.8525804930165491,
+          "score": 0.8525804930165491,
+          "weight": 0.25
+        },
+        "median_pr_close_days": {
+          "raw": 0.395880521059408,
+          "score": 0.395880521059408,
+          "weight": 0.15
+        },
+        "release_cadence": {
+          "raw": 7.0,
+          "score": 0.07,
+          "weight": 0.15
+        },
+        "open_closed_issue_ratio": {
+          "raw": 0.5,
+          "score": 0.5,
+          "weight": 0.1
+        },
+        "commit_frequency_90d": {
+          "raw": 2.1972245773362196,
+          "score": 0.31803481922888616,
+          "weight": 0.2
+        },
+        "license_osi": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.2
+        }
+      }
+    },
+    {
+      "slug": "adstastic/pi-theme-flip",
+      "status": "ok",
+      "total": 36.6,
+      "buckets": {
+        "community": 9.5,
+        "quality": 98.3,
+        "maintenance": 21.7
+      },
+      "signals": {
+        "tests_present": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.3
+        },
+        "median_issue_close_days": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.15
+        },
+        "readme_present": {
+          "raw": 0.9135,
+          "score": 0.9135,
+          "weight": 0.2
+        },
+        "median_pr_close_days": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.15
+        },
+        "contributors_12mo": {
+          "raw": 0.6931471805599453,
+          "score": 0.16207652439312228,
+          "weight": 0.25
+        },
+        "license_osi": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.2
+        },
+        "forks_log": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.15
+        },
+        "commit_frequency_90d": {
+          "raw": 1.0986122886681098,
+          "score": 0.15901740961444308,
+          "weight": 0.2
+        },
+        "author_track_record": {
+          "raw": 1.414973347970818,
+          "score": 0.36156738817767076,
+          "weight": 0.15
+        },
+        "open_closed_issue_ratio": {
+          "raw": 0.5,
+          "score": 0.5,
+          "weight": 0.1
+        },
+        "release_cadence": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.15
+        },
+        "ci_configured": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.3
+        },
+        "stars_log": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.3
+        },
+        "bus_factor": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.15
+        },
+        "days_since_last_commit": {
+          "raw": 0.5396678397108263,
+          "score": 0.5396678397108263,
+          "weight": 0.25
+        }
+      }
+    },
+    {
+      "slug": "prateekmedia/pi-hooks",
+      "status": "ok",
+      "total": 36.5,
+      "buckets": {
+        "maintenance": 33.7,
+        "community": 37.2,
+        "quality": 40.0
+      },
+      "signals": {
+        "stars_log": {
+          "raw": 1.9912260756924949,
+          "score": 0.3968119779116506,
+          "weight": 0.3
+        },
+        "commit_frequency_90d": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.2
+        },
+        "median_issue_close_days": {
+          "raw": 0.9998950176362105,
+          "score": 0.9998950176362105,
+          "weight": 0.15
+        },
+        "bus_factor": {
+          "raw": 0.024793388429751984,
+          "score": 0.024793388429751984,
+          "weight": 0.15
+        },
+        "forks_log": {
+          "raw": 1.1760912590556813,
+          "score": 0.2857357855436468,
+          "weight": 0.15
+        },
+        "days_since_last_commit": {
+          "raw": 0.26821067399482906,
+          "score": 0.26821067399482906,
+          "weight": 0.25
+        },
+        "release_cadence": {
+          "raw": 3.0,
+          "score": 0.03,
+          "weight": 0.15
+        },
+        "median_pr_close_days": {
+          "raw": 0.6842245586989174,
+          "score": 0.6842245586989174,
+          "weight": 0.15
+        },
+        "contributors_12mo": {
+          "raw": 1.3862943611198906,
+          "score": 0.32415304878624457,
+          "weight": 0.25
+        },
+        "license_osi": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.2
+        },
+        "author_track_record": {
+          "raw": 3.2619761913978125,
+          "score": 0.8335310438976388,
+          "weight": 0.15
+        },
+        "readme_present": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.2
+        },
+        "ci_configured": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.3
+        },
+        "tests_present": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.3
+        },
+        "open_closed_issue_ratio": {
+          "raw": 0.125,
+          "score": 0.125,
+          "weight": 0.1
+        }
+      }
+    },
+    {
+      "slug": "milanglacier/pi-theme-switcher",
+      "status": "ok",
+      "total": 33.9,
+      "buckets": {
+        "maintenance": 23.6,
+        "quality": 74.1,
+        "community": 17.0
+      },
+      "signals": {
+        "tests_present": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.3
+        },
+        "readme_present": {
+          "raw": 0.7055,
+          "score": 0.7055,
+          "weight": 0.2
+        },
+        "days_since_last_commit": {
+          "raw": 0.6162898211322129,
+          "score": 0.6162898211322129,
+          "weight": 0.25
+        },
+        "author_track_record": {
+          "raw": 3.3669829759778507,
+          "score": 0.8603633717969504,
+          "weight": 0.15
+        },
+        "license_osi": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.2
+        },
+        "release_cadence": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.15
+        },
+        "median_issue_close_days": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.15
+        },
+        "open_closed_issue_ratio": {
+          "raw": 0.5,
+          "score": 0.5,
+          "weight": 0.1
+        },
+        "stars_log": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.3
+        },
+        "forks_log": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.15
+        },
+        "median_pr_close_days": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.15
+        },
+        "contributors_12mo": {
+          "raw": 0.6931471805599453,
+          "score": 0.16207652439312228,
+          "weight": 0.25
+        },
+        "bus_factor": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.15
+        },
+        "commit_frequency_90d": {
+          "raw": 1.0986122886681098,
+          "score": 0.15901740961444308,
+          "weight": 0.2
+        },
+        "ci_configured": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.3
+        }
+      }
+    },
+    {
+      "slug": "mavam/pi-terminal-theme",
+      "status": "ok",
+      "total": 30.8,
+      "buckets": {
+        "community": 29.7,
+        "quality": 70.0,
+        "maintenance": 7.2
+      },
+      "signals": {
+        "median_pr_close_days": {
+          "raw": 0.2945499732098163,
+          "score": 0.2945499732098163,
+          "weight": 0.15
+        },
+        "contributors_12mo": {
+          "raw": 1.0986122886681098,
+          "score": 0.2568852134103166,
+          "weight": 0.25
+        },
+        "forks_log": {
+          "raw": 0.6020599913279624,
+          "score": 0.14627273457046572,
+          "weight": 0.15
+        },
+        "commit_frequency_90d": {
+          "raw": 0.6931471805599453,
+          "score": 0.10032881506161208,
+          "weight": 0.2
+        },
+        "license_osi": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.2
+        },
+        "tests_present": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.3
+        },
+        "bus_factor": {
+          "raw": 0.05263157894736836,
+          "score": 0.05263157894736836,
+          "weight": 0.15
+        },
+        "author_track_record": {
+          "raw": 3.510813010512496,
+          "score": 0.8971161841398642,
+          "weight": 0.15
+        },
+        "median_issue_close_days": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.15
+        },
+        "release_cadence": {
+          "raw": 6.0,
+          "score": 0.06,
+          "weight": 0.15
+        },
+        "days_since_last_commit": {
+          "raw": 0.46690396388691285,
+          "score": 0.46690396388691285,
+          "weight": 0.25
+        },
+        "ci_configured": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.3
+        },
+        "readme_present": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.2
+        },
+        "open_closed_issue_ratio": {
+          "raw": 0.5,
+          "score": 0.5,
+          "weight": 0.1
+        },
+        "stars_log": {
+          "raw": 1.146128035678238,
+          "score": 0.22840065140233268,
+          "weight": 0.3
+        }
+      }
+    },
+    {
+      "slug": "zetaphor/pi-vscode-extension",
+      "status": "ok",
+      "total": 29.2,
+      "buckets": {
+        "maintenance": 6.2,
+        "quality": 70.0,
+        "community": 26.2
+      },
+      "signals": {
+        "forks_log": {
+          "raw": 1.0,
+          "score": 0.242953753242816,
+          "weight": 0.15
+        },
+        "release_cadence": {
+          "raw": 1.0,
+          "score": 0.01,
+          "weight": 0.15
+        },
+        "median_issue_close_days": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.15
+        },
+        "readme_present": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.2
+        },
+        "author_track_record": {
+          "raw": 2.2430380486862944,
+          "score": 0.5731623214032217,
+          "weight": 0.15
+        },
+        "median_pr_close_days": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.15
+        },
+        "license_osi": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.2
+        },
+        "tests_present": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.3
+        },
+        "ci_configured": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.3
+        },
+        "days_since_last_commit": {
+          "raw": 0.2430658609845391,
+          "score": 0.2430658609845391,
+          "weight": 0.25
+        },
+        "open_closed_issue_ratio": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.1
+        },
+        "stars_log": {
+          "raw": 1.662757831681574,
+          "score": 0.33135475274860055,
+          "weight": 0.3
+        },
+        "contributors_12mo": {
+          "raw": 0.6931471805599453,
+          "score": 0.16207652439312228,
+          "weight": 0.25
+        },
+        "bus_factor": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.15
+        },
+        "commit_frequency_90d": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.2
+        }
+      }
+    },
+    {
+      "slug": "acsezen/pi-memory-honcho",
+      "status": "ok",
+      "total": 27.3,
+      "buckets": {
+        "maintenance": 6.5,
+        "community": 20.7,
+        "quality": 70.0
+      },
+      "signals": {
+        "tests_present": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.3
+        },
+        "stars_log": {
+          "raw": 0.47712125471966244,
+          "score": 0.09508083039900667,
+          "weight": 0.3
+        },
+        "author_track_record": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.15
+        },
+        "forks_log": {
+          "raw": 0.7781512503836436,
+          "score": 0.1890547668712965,
+          "weight": 0.15
+        },
+        "days_since_last_commit": {
+          "raw": 0.1816916864954351,
+          "score": 0.1816916864954351,
+          "weight": 0.25
+        },
+        "open_closed_issue_ratio": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.1
+        },
+        "bus_factor": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.15
+        },
+        "contributors_12mo": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.25
+        },
+        "median_pr_close_days": {
+          "raw": 0.1231730460119281,
+          "score": 0.1231730460119281,
+          "weight": 0.15
+        },
+        "release_cadence": {
+          "raw": 1.0,
+          "score": 0.01,
+          "weight": 0.15
+        },
+        "ci_configured": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.3
+        },
+        "readme_present": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.2
+        },
+        "commit_frequency_90d": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.2
+        },
+        "license_osi": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.2
+        },
+        "median_issue_close_days": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.15
+        }
+      }
+    },
+    {
+      "slug": "samfoy/pi-rose-pine",
+      "status": "ok",
+      "total": 27.1,
+      "buckets": {
+        "community": 16.7,
+        "quality": 55.5,
+        "maintenance": 18.4
+      },
+      "signals": {
+        "median_issue_close_days": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.15
+        },
+        "bus_factor": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.15
+        },
+        "license_osi": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.2
+        },
+        "release_cadence": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.15
+        },
+        "open_closed_issue_ratio": {
+          "raw": 0.5,
+          "score": 0.5,
+          "weight": 0.1
+        },
+        "author_track_record": {
+          "raw": 2.5634810853944106,
+          "score": 0.6550449604002245,
+          "weight": 0.15
+        },
+        "days_since_last_commit": {
+          "raw": 0.20296510862340242,
+          "score": 0.20296510862340242,
+          "weight": 0.25
+        },
+        "tests_present": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.3
+        },
+        "readme_present": {
+          "raw": 0.2735,
+          "score": 0.2735,
+          "weight": 0.2
+        },
+        "stars_log": {
+          "raw": 0.47712125471966244,
+          "score": 0.09508083039900667,
+          "weight": 0.3
+        },
+        "median_pr_close_days": {
+          "raw": 0.5526287175048131,
+          "score": 0.5526287175048131,
+          "weight": 0.15
+        },
+        "ci_configured": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.3
+        },
+        "commit_frequency_90d": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.2
+        },
+        "forks_log": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.15
+        },
+        "contributors_12mo": {
+          "raw": 0.6931471805599453,
+          "score": 0.16207652439312228,
+          "weight": 0.25
+        }
+      }
+    },
+    {
+      "slug": "kylebrodeur/pi-agent-bus",
+      "status": "ok",
+      "total": 25.9,
+      "buckets": {
+        "community": 13.6,
+        "maintenance": 9.0,
+        "quality": 70.0
+      },
+      "signals": {
+        "median_issue_close_days": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.15
+        },
+        "release_cadence": {
+          "raw": 4.0,
+          "score": 0.04,
+          "weight": 0.15
+        },
+        "commit_frequency_90d": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.2
+        },
+        "author_track_record": {
+          "raw": 1.7403626894942439,
+          "score": 0.44471395381736756,
+          "weight": 0.15
+        },
+        "bus_factor": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.15
+        },
+        "tests_present": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.3
+        },
+        "ci_configured": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.3
+        },
+        "stars_log": {
+          "raw": 0.47712125471966244,
+          "score": 0.09508083039900667,
+          "weight": 0.3
+        },
+        "contributors_12mo": {
+          "raw": 0.6931471805599453,
+          "score": 0.16207652439312228,
+          "weight": 0.25
+        },
+        "days_since_last_commit": {
+          "raw": 0.3343980512772881,
+          "score": 0.3343980512772881,
+          "weight": 0.25
+        },
+        "forks_log": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.15
+        },
+        "readme_present": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.2
+        },
+        "license_osi": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.2
+        },
+        "open_closed_issue_ratio": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.1
+        },
+        "median_pr_close_days": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.15
+        }
+      }
+    },
+    {
+      "slug": "tunnckocore/pi-venice",
+      "status": "ok",
+      "total": 25.2,
+      "buckets": {
+        "quality": 20.0,
+        "maintenance": 28.7,
+        "community": 24.8
+      },
+      "signals": {
+        "median_issue_close_days": {
+          "raw": 0.6437038515266414,
+          "score": 0.6437038515266414,
+          "weight": 0.15
+        },
+        "contributors_12mo": {
+          "raw": 1.0986122886681098,
+          "score": 0.2568852134103166,
+          "weight": 0.25
+        },
+        "readme_present": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.2
+        },
+        "stars_log": {
+          "raw": 0.9542425094393249,
+          "score": 0.19016166079801333,
+          "weight": 0.3
+        },
+        "bus_factor": {
+          "raw": 0.09090909090909083,
+          "score": 0.09090909090909083,
+          "weight": 0.15
+        },
+        "median_pr_close_days": {
+          "raw": 0.6702679778956377,
+          "score": 0.6702679778956377,
+          "weight": 0.15
+        },
+        "commit_frequency_90d": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.2
+        },
+        "tests_present": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.3
+        },
+        "days_since_last_commit": {
+          "raw": 0.18858850008470548,
+          "score": 0.18858850008470548,
+          "weight": 0.25
+        },
+        "ci_configured": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.3
+        },
+        "license_osi": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.2
+        },
+        "author_track_record": {
+          "raw": 2.2095150145426308,
+          "score": 0.5645961982910813,
+          "weight": 0.15
+        },
+        "open_closed_issue_ratio": {
+          "raw": 0.42857142857142855,
+          "score": 0.42857142857142855,
+          "weight": 0.1
+        },
+        "release_cadence": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.15
+        },
+        "forks_log": {
+          "raw": 0.7781512503836436,
+          "score": 0.1890547668712965,
+          "weight": 0.15
+        }
+      }
+    },
+    {
+      "slug": "victor-software-house/pi-curated-themes",
+      "status": "ok",
+      "total": 24.7,
+      "buckets": {
+        "maintenance": 3.9,
+        "quality": 70.0,
+        "community": 16.1
+      },
+      "signals": {
+        "ci_configured": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.3
+        },
+        "days_since_last_commit": {
+          "raw": 0.14526371340081595,
+          "score": 0.14526371340081595,
+          "weight": 0.25
+        },
+        "contributors_12mo": {
+          "raw": 1.0986122886681098,
+          "score": 0.2568852134103166,
+          "weight": 0.25
+        },
+        "author_track_record": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.15
+        },
+        "open_closed_issue_ratio": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.1
+        },
+        "tests_present": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.3
+        },
+        "bus_factor": {
+          "raw": 0.0625,
+          "score": 0.0625,
+          "weight": 0.15
+        },
+        "median_pr_close_days": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.15
+        },
+        "readme_present": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.2
+        },
+        "license_osi": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.2
+        },
+        "commit_frequency_90d": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.2
+        },
+        "median_issue_close_days": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.15
+        },
+        "release_cadence": {
+          "raw": 2.0,
+          "score": 0.02,
+          "weight": 0.15
+        },
+        "stars_log": {
+          "raw": 1.1760912590556813,
+          "score": 0.23437172926142358,
+          "weight": 0.3
+        },
+        "forks_log": {
+          "raw": 0.47712125471966244,
+          "score": 0.11591839958606363,
+          "weight": 0.15
+        }
+      }
+    },
+    {
+      "slug": "codella/pi-packages",
+      "status": "ok",
+      "total": 17.9,
+      "buckets": {
+        "quality": 40.0,
+        "maintenance": 12.5,
+        "community": 8.2
+      },
+      "signals": {
+        "stars_log": {
+          "raw": 0.3010299956639812,
+          "score": 0.05998932489301481,
+          "weight": 0.3
+        },
+        "forks_log": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.15
+        },
+        "days_since_last_commit": {
+          "raw": 0.30104922738332074,
+          "score": 0.30104922738332074,
+          "weight": 0.25
+        },
+        "license_osi": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.2
+        },
+        "tests_present": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.3
+        },
+        "release_cadence": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.15
+        },
+        "median_issue_close_days": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.15
+        },
+        "median_pr_close_days": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.15
+        },
+        "contributors_12mo": {
+          "raw": 0.6931471805599453,
+          "score": 0.16207652439312228,
+          "weight": 0.25
+        },
+        "readme_present": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.2
+        },
+        "author_track_record": {
+          "raw": 0.6020599913279624,
+          "score": 0.15384406985679278,
+          "weight": 0.15
+        },
+        "bus_factor": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.15
+        },
+        "commit_frequency_90d": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.2
+        },
+        "ci_configured": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.3
+        },
+        "open_closed_issue_ratio": {
+          "raw": 0.5,
+          "score": 0.5,
+          "weight": 0.1
+        }
+      }
+    },
+    {
+      "slug": "robzolkos/pi-theme-synthwave-84",
+      "status": "ok",
+      "total": 17.9,
+      "buckets": {
+        "quality": 26.2,
+        "community": 19.8,
+        "maintenance": 11.1
+      },
+      "signals": {
+        "ci_configured": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.3
+        },
+        "tests_present": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.3
+        },
+        "release_cadence": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.15
+        },
+        "forks_log": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.15
+        },
+        "commit_frequency_90d": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.2
+        },
+        "median_issue_close_days": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.15
+        },
+        "author_track_record": {
+          "raw": 3.0277572046905536,
+          "score": 0.7736811906076031,
+          "weight": 0.15
+        },
+        "license_osi": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.2
+        },
+        "contributors_12mo": {
+          "raw": 0.6931471805599453,
+          "score": 0.16207652439312228,
+          "weight": 0.25
+        },
+        "median_pr_close_days": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.15
+        },
+        "open_closed_issue_ratio": {
+          "raw": 0.5,
+          "score": 0.5,
+          "weight": 0.1
+        },
+        "days_since_last_commit": {
+          "raw": 0.24595716967352851,
+          "score": 0.24595716967352851,
+          "weight": 0.25
+        },
+        "stars_log": {
+          "raw": 0.6989700043360189,
+          "score": 0.1392908988624169,
+          "weight": 0.3
+        },
+        "bus_factor": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.15
+        },
+        "readme_present": {
+          "raw": 0.308,
+          "score": 0.308,
+          "weight": 0.2
+        }
+      }
+    },
+    {
+      "slug": "michalvavra/agents",
+      "status": "ok",
+      "total": 17.1,
+      "buckets": {
+        "maintenance": 17.1,
+        "community": 21.0,
+        "quality": 11.6
+      },
+      "signals": {
+        "days_since_last_commit": {
+          "raw": 0.40416748264469954,
+          "score": 0.40416748264469954,
+          "weight": 0.25
+        },
+        "tests_present": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.3
+        },
+        "median_pr_close_days": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.15
+        },
+        "contributors_12mo": {
+          "raw": 0.6931471805599453,
+          "score": 0.16207652439312228,
+          "weight": 0.25
+        },
+        "open_closed_issue_ratio": {
+          "raw": 0.5,
+          "score": 0.5,
+          "weight": 0.1
+        },
+        "ci_configured": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.3
+        },
+        "stars_log": {
+          "raw": 1.2304489213782739,
+          "score": 0.24520413637189203,
+          "weight": 0.3
+        },
+        "author_track_record": {
+          "raw": 2.2095150145426308,
+          "score": 0.5645961982910813,
+          "weight": 0.15
+        },
+        "bus_factor": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.15
+        },
+        "median_issue_close_days": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.15
+        },
+        "readme_present": {
+          "raw": 0.579,
+          "score": 0.579,
+          "weight": 0.2
+        },
+        "release_cadence": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.15
+        },
+        "forks_log": {
+          "raw": 0.3010299956639812,
+          "score": 0.07313636728523286,
+          "weight": 0.15
+        },
+        "commit_frequency_90d": {
+          "raw": 0.6931471805599453,
+          "score": 0.10032881506161208,
+          "weight": 0.2
+        },
+        "license_osi": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.2
+        }
+      }
+    },
+    {
+      "slug": "marv1nnnnn/pi-workstation",
+      "status": "ok",
+      "total": 17.0,
+      "buckets": {
+        "maintenance": 8.4,
+        "community": 24.8,
+        "quality": 20.0
+      },
+      "signals": {
+        "release_cadence": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.15
+        },
+        "stars_log": {
+          "raw": 1.2304489213782739,
+          "score": 0.24520413637189203,
+          "weight": 0.3
+        },
+        "open_closed_issue_ratio": {
+          "raw": 0.5,
+          "score": 0.5,
+          "weight": 0.1
+        },
+        "median_pr_close_days": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.15
+        },
+        "commit_frequency_90d": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.2
+        },
+        "contributors_12mo": {
+          "raw": 0.6931471805599453,
+          "score": 0.16207652439312228,
+          "weight": 0.25
+        },
+        "author_track_record": {
+          "raw": 3.0330214446829107,
+          "score": 0.7750263590572467,
+          "weight": 0.15
+        },
+        "license_osi": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.2
+        },
+        "forks_log": {
+          "raw": 0.47712125471966244,
+          "score": 0.11591839958606363,
+          "weight": 0.15
+        },
+        "ci_configured": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.3
+        },
+        "median_issue_close_days": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.15
+        },
+        "readme_present": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.2
+        },
+        "bus_factor": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.15
+        },
+        "days_since_last_commit": {
+          "raw": 0.13500700317170689,
+          "score": 0.13500700317170689,
+          "weight": 0.25
+        },
+        "tests_present": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.3
+        }
+      }
+    },
+    {
+      "slug": "sherif-fanous/pi-catppuccin",
+      "status": "ok",
+      "total": 16.4,
+      "buckets": {
+        "maintenance": 9.2,
+        "quality": 25.8,
+        "community": 17.8
+      },
+      "signals": {
+        "tests_present": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.3
+        },
+        "commit_frequency_90d": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.2
+        },
+        "stars_log": {
+          "raw": 0.8450980400142568,
+          "score": 0.1684113265093179,
+          "weight": 0.3
+        },
+        "median_pr_close_days": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.15
+        },
+        "contributors_12mo": {
+          "raw": 0.6931471805599453,
+          "score": 0.16207652439312228,
+          "weight": 0.25
+        },
+        "median_issue_close_days": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.15
+        },
+        "ci_configured": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.3
+        },
+        "readme_present": {
+          "raw": 0.2895,
+          "score": 0.2895,
+          "weight": 0.2
+        },
+        "license_osi": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.2
+        },
+        "release_cadence": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.15
+        },
+        "forks_log": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.15
+        },
+        "bus_factor": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.15
+        },
+        "days_since_last_commit": {
+          "raw": 0.16834783495680958,
+          "score": 0.16834783495680958,
+          "weight": 0.25
+        },
+        "open_closed_issue_ratio": {
+          "raw": 0.5,
+          "score": 0.5,
+          "weight": 0.1
+        },
+        "author_track_record": {
+          "raw": 2.2764618041732443,
+          "score": 0.5817030758929344,
+          "weight": 0.15
+        }
+      }
+    },
+    {
+      "slug": "dkmnx/pi-cursor-theme",
+      "status": "ok",
+      "total": 15.7,
+      "buckets": {
+        "maintenance": 8.3,
+        "community": 9.0,
+        "quality": 37.1
+      },
+      "signals": {
+        "license_osi": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.2
+        },
+        "bus_factor": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.15
+        },
+        "release_cadence": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.15
+        },
+        "median_pr_close_days": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.15
+        },
+        "open_closed_issue_ratio": {
+          "raw": 0.5,
+          "score": 0.5,
+          "weight": 0.1
+        },
+        "ci_configured": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.3
+        },
+        "days_since_last_commit": {
+          "raw": 0.13124947863878222,
+          "score": 0.13124947863878222,
+          "weight": 0.25
+        },
+        "median_issue_close_days": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.15
+        },
+        "tests_present": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.3
+        },
+        "readme_present": {
+          "raw": 0.853,
+          "score": 0.853,
+          "weight": 0.2
+        },
+        "commit_frequency_90d": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.2
+        },
+        "author_track_record": {
+          "raw": 1.2787536009528289,
+          "score": 0.32675922856240347,
+          "weight": 0.15
+        },
+        "forks_log": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.15
+        },
+        "contributors_12mo": {
+          "raw": 0.6931471805599453,
+          "score": 0.16207652439312228,
+          "weight": 0.25
+        },
+        "stars_log": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.3
+        }
+      }
+    },
+    {
+      "slug": "mitoromisaka/pi-tokyo-night",
+      "status": "ok",
+      "total": 13.6,
+      "buckets": {
+        "quality": 20.0,
+        "maintenance": 12.3,
+        "community": 10.4
+      },
+      "signals": {
+        "bus_factor": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.15
+        },
+        "median_issue_close_days": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.15
+        },
+        "days_since_last_commit": {
+          "raw": 0.2925957026240943,
+          "score": 0.2925957026240943,
+          "weight": 0.25
+        },
+        "stars_log": {
+          "raw": 0.47712125471966244,
+          "score": 0.09508083039900667,
+          "weight": 0.3
+        },
+        "forks_log": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.15
+        },
+        "license_osi": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.2
+        },
+        "commit_frequency_90d": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.2
+        },
+        "open_closed_issue_ratio": {
+          "raw": 0.5,
+          "score": 0.5,
+          "weight": 0.1
+        },
+        "tests_present": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.3
+        },
+        "contributors_12mo": {
+          "raw": 0.6931471805599453,
+          "score": 0.16207652439312228,
+          "weight": 0.25
+        },
+        "release_cadence": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.15
+        },
+        "readme_present": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.2
+        },
+        "median_pr_close_days": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.15
+        },
+        "author_track_record": {
+          "raw": 0.9030899869919435,
+          "score": 0.23076610478518914,
+          "weight": 0.15
+        },
+        "ci_configured": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.3
+        }
+      }
+    },
+    {
+      "slug": "javierportillo/pi-hackerman",
+      "status": "ok",
+      "total": 12.0,
+      "buckets": {
+        "maintenance": 8.7,
+        "community": 7.0,
+        "quality": 24.4
+      },
+      "signals": {
+        "readme_present": {
+          "raw": 0.2215,
+          "score": 0.2215,
+          "weight": 0.2
+        },
+        "commit_frequency_90d": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.2
+        },
+        "contributors_12mo": {
+          "raw": 0.6931471805599453,
+          "score": 0.16207652439312228,
+          "weight": 0.25
+        },
+        "bus_factor": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.15
+        },
+        "release_cadence": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.15
+        },
+        "license_osi": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.2
+        },
+        "days_since_last_commit": {
+          "raw": 0.14709989136037216,
+          "score": 0.14709989136037216,
+          "weight": 0.25
+        },
+        "stars_log": {
+          "raw": 0.3010299956639812,
+          "score": 0.05998932489301481,
+          "weight": 0.3
+        },
+        "open_closed_issue_ratio": {
+          "raw": 0.5,
+          "score": 0.5,
+          "weight": 0.1
+        },
+        "tests_present": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.3
+        },
+        "forks_log": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.15
+        },
+        "author_track_record": {
+          "raw": 0.3010299956639812,
+          "score": 0.07692203492839639,
+          "weight": 0.15
+        },
+        "median_issue_close_days": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.15
+        },
+        "median_pr_close_days": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.15
+        },
+        "ci_configured": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.3
+        }
+      }
+    },
+    {
+      "slug": "eliemessiecode/pi-code-theme",
+      "status": "ok",
+      "total": 11.3,
+      "buckets": {
+        "maintenance": 8.4,
+        "community": 15.0,
+        "quality": 10.7
+      },
+      "signals": {
+        "readme_present": {
+          "raw": 0.5335,
+          "score": 0.5335,
+          "weight": 0.2
+        },
+        "release_cadence": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.15
+        },
+        "forks_log": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.15
+        },
+        "median_issue_close_days": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.15
+        },
+        "stars_log": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.3
+        },
+        "open_closed_issue_ratio": {
+          "raw": 0.5,
+          "score": 0.5,
+          "weight": 0.1
+        },
+        "ci_configured": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.3
+        },
+        "author_track_record": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.15
+        },
+        "tests_present": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.3
+        },
+        "license_osi": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.2
+        },
+        "contributors_12mo": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.25
+        },
+        "commit_frequency_90d": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.2
+        },
+        "days_since_last_commit": {
+          "raw": 0.1376215769447928,
+          "score": 0.1376215769447928,
+          "weight": 0.25
+        },
+        "median_pr_close_days": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.15
+        },
+        "bus_factor": {
+          "raw": 1.0,
+          "score": 1.0,
+          "weight": 0.15
+        }
+      }
+    },
+    {
+      "slug": "markacianfrani/pi-theme-flexoki",
+      "status": "ok",
+      "total": 9.8,
+      "buckets": {
+        "community": 13.6,
+        "quality": 5.4,
+        "maintenance": 9.3
+      },
+      "signals": {
+        "release_cadence": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.15
+        },
+        "days_since_last_commit": {
+          "raw": 0.17009620757388985,
+          "score": 0.17009620757388985,
+          "weight": 0.25
+        },
+        "stars_log": {
+          "raw": 0.47712125471966244,
+          "score": 0.09508083039900667,
+          "weight": 0.3
+        },
+        "forks_log": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.15
+        },
+        "license_osi": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.2
+        },
+        "bus_factor": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.15
+        },
+        "author_track_record": {
+          "raw": 1.7403626894942439,
+          "score": 0.44471395381736756,
+          "weight": 0.15
+        },
+        "median_pr_close_days": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.15
+        },
+        "median_issue_close_days": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.15
+        },
+        "open_closed_issue_ratio": {
+          "raw": 0.5,
+          "score": 0.5,
+          "weight": 0.1
+        },
+        "commit_frequency_90d": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.2
+        },
+        "contributors_12mo": {
+          "raw": 0.6931471805599453,
+          "score": 0.16207652439312228,
+          "weight": 0.25
+        },
+        "readme_present": {
+          "raw": 0.2685,
+          "score": 0.2685,
+          "weight": 0.2
+        },
+        "ci_configured": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.3
+        },
+        "tests_present": {
+          "raw": 0.0,
+          "score": 0.0,
+          "weight": 0.3
+        }
+      }
+    },
+    {
+      "slug": "indydevdan/pi-toolbox",
+      "status": "not_found"
+    },
+    {
+      "slug": "smoose/pi-themes",
+      "status": "not_found"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "gotgenes/pi-packages",
+  "fetched_at": "2026-09-12T07:53:02.382358939Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 211,
+    "forks": 79,
+    "description": "Monorepo for @gotgenes pi packages",
+    "license_spdx": null,
+    "last_commit_at": "2026-09-11T15:58:52Z",
+    "commits_90d": 958,
+    "releases_365d": 100,
+    "median_issue_close_days": 3.1202546296296294,
+    "median_pr_close_days": 10.934531250000001,
+    "open_issues": 92,
+    "closed_issues_sampled": 42,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "gotgenes",
+      "account_created_at": "2008-04-25T21:14:45Z",
+      "other_repos_star_sum": 563
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 13530
+  }
+}

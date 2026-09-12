@@ -1,0 +1,29 @@
+{
+  "slug": "championswimmer/pi-context-prune",
+  "fetched_at": "2026-09-12T07:50:46.741674735Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 237,
+    "forks": 24,
+    "description": "Pi coding-agent extension for pruning tool-call trees",
+    "license_spdx": null,
+    "last_commit_at": "2026-09-04T01:43:06Z",
+    "commits_90d": 29,
+    "releases_365d": 0,
+    "median_issue_close_days": 8.884282407407408,
+    "median_pr_close_days": 2.343958333333333,
+    "open_issues": 9,
+    "closed_issues_sampled": 11,
+    "contributors_12mo": 5,
+    "top_author_commit_share": 0.849624060150376,
+    "top_author": {
+      "login": "championswimmer",
+      "account_created_at": "2012-01-13T07:41:40Z",
+      "other_repos_star_sum": 690
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 26230
+  }
+}

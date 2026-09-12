@@ -1,0 +1,29 @@
+{
+  "slug": "code-yeongyu/pi-websearch",
+  "fetched_at": "2026-09-12T07:51:29.407097381Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 10,
+    "forks": 7,
+    "description": "Provider-backed web search tool for pi-coding-agent with config-gated activation, TUI status, and source-aware results.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-07-25T16:12:08Z",
+    "commits_90d": 22,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.00782986111111111,
+    "open_issues": 3,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "code-yeongyu",
+      "account_created_at": "2015-02-23T03:17:05Z",
+      "other_repos_star_sum": 3916
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 6956
+  }
+}

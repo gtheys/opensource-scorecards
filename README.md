@@ -27,6 +27,14 @@ export GITHUB_TOKEN=$(gh auth token)   # or any classic PAT
 ./target/release/scorecards collect    # fetch signals (resumable; ~11 calls/repo)
 ./target/release/scorecards score      # compute scores
 ./target/release/scorecards render     # static site → site/
+
+# Second category: pi agent extensions (seeded from BubblePtr/awesome-pi).
+# Same commands with --category pi; render writes one page per category plus a
+# shared index.html hub and methodology.html.
+./target/release/scorecards seed --category pi
+./target/release/scorecards collect --category pi
+./target/release/scorecards score --category pi
+./target/release/scorecards render --category pi
 ```
 
 Note: a full neovim-category refresh is ~15k API calls. Unauthenticated-free

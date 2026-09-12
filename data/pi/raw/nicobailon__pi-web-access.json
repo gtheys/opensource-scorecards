@@ -1,0 +1,29 @@
+{
+  "slug": "nicobailon/pi-web-access",
+  "fetched_at": "2026-09-12T07:57:39.686387327Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1421,
+    "forks": 246,
+    "description": "Web search and content extraction extension for Pi coding agent",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-10T17:13:18Z",
+    "commits_90d": 297,
+    "releases_365d": 42,
+    "median_issue_close_days": 0.2659490740740741,
+    "median_pr_close_days": 0.009577546296296296,
+    "open_issues": 5,
+    "closed_issues_sampled": 14,
+    "contributors_12mo": 51,
+    "top_author_commit_share": 0.7811550151975684,
+    "top_author": {
+      "login": "nicobailon",
+      "account_created_at": "2012-12-04T04:29:28Z",
+      "other_repos_star_sum": 5999
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 96490
+  }
+}

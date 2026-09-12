@@ -1,0 +1,29 @@
+{
+  "slug": "aliou/pi-processes",
+  "fetched_at": "2026-09-12T07:49:29.707259117Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 89,
+    "forks": 21,
+    "description": "Background process management for Pi. Start long-running commands without blocking the conversation.",
+    "license_spdx": null,
+    "last_commit_at": "2026-09-05T18:45:25Z",
+    "commits_90d": 137,
+    "releases_365d": 44,
+    "median_issue_close_days": 9.424884259259258,
+    "median_pr_close_days": 0.21840277777777778,
+    "open_issues": 3,
+    "closed_issues_sampled": 12,
+    "contributors_12mo": 7,
+    "top_author_commit_share": 0.9303135888501742,
+    "top_author": {
+      "login": "aliou",
+      "account_created_at": "2011-08-15T05:46:42Z",
+      "other_repos_star_sum": 789
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 9891
+  }
+}

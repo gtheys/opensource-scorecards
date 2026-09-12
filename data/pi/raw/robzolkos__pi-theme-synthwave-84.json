@@ -1,0 +1,29 @@
+{
+  "slug": "robzolkos/pi-theme-synthwave-84",
+  "fetched_at": "2026-09-12T07:58:18.708557564Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 4,
+    "forks": 0,
+    "description": "Synthwave '84 theme for the Pi coding agent TUI",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-05-09T02:23:53Z",
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "robzolkos",
+      "account_created_at": "2010-05-29T11:00:43Z",
+      "other_repos_star_sum": 1065
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 616
+  }
+}

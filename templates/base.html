@@ -19,8 +19,8 @@
   </style>
 </head>
 <body>
-<nav><a href="index.html">Leaderboard</a><a href="methodology.html">Methodology</a><a href="https://github.com/">GitHub</a></nav>
+<nav>{% for c in categories %}<a href="{{ root }}{{ c.key }}.html">{{ c.name }}</a>{% endfor %}<a href="{{ root }}methodology.html">Methodology</a><a href="https://github.com/">GitHub</a></nav>
 {% block content %}{% endblock %}
-<footer class="muted"><small>Scores measure maintenance likelihood, not code quality. <a href="methodology.html">How scores work</a>.</small></footer>
+<footer class="muted"><small>Scores measure maintenance likelihood, not code quality. <a href="{{ root }}methodology.html">How scores work</a>.</small></footer>
 </body>
 </html>

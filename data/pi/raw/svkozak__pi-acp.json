@@ -1,0 +1,29 @@
+{
+  "slug": "svkozak/pi-acp",
+  "fetched_at": "2026-09-12T07:59:11.239247437Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 668,
+    "forks": 160,
+    "description": "ACP adapter for pi coding agent",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-07-30T21:58:25Z",
+    "commits_90d": 24,
+    "releases_365d": 20,
+    "median_issue_close_days": 10.643391203703704,
+    "median_pr_close_days": 9.330578703703704,
+    "open_issues": 75,
+    "closed_issues_sampled": 29,
+    "contributors_12mo": 9,
+    "top_author_commit_share": 0.8811188811188811,
+    "top_author": {
+      "login": "svkozak",
+      "account_created_at": "2017-09-14T00:12:57Z",
+      "other_repos_star_sum": 682
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 7481
+  }
+}

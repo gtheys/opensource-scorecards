@@ -1,0 +1,29 @@
+{
+  "slug": "mitsuhiko/agent-stuff",
+  "fetched_at": "2026-09-12T07:55:51.443979462Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 3077,
+    "forks": 220,
+    "description": "These are commands I use with agents, mostly Claude",
+    "license_spdx": "Apache-2.0",
+    "last_commit_at": "2026-09-06T09:46:43Z",
+    "commits_90d": 19,
+    "releases_365d": 0,
+    "median_issue_close_days": 11.28369212962963,
+    "median_pr_close_days": 6.3026331018518515,
+    "open_issues": 25,
+    "closed_issues_sampled": 9,
+    "contributors_12mo": 4,
+    "top_author_commit_share": 0.9803921568627451,
+    "top_author": {
+      "login": "mitsuhiko",
+      "account_created_at": "2008-04-15T10:03:57Z",
+      "other_repos_star_sum": 6934
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 7020
+  }
+}

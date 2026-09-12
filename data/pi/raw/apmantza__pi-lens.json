@@ -1,0 +1,29 @@
+{
+  "slug": "apmantza/pi-lens",
+  "fetched_at": "2026-09-12T07:49:40.498006258Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 405,
+    "forks": 113,
+    "description": "Real-time code feedback for pi — LSP, linters, formatters, structural analysis",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-12T06:57:23Z",
+    "commits_90d": 990,
+    "releases_365d": 58,
+    "median_issue_close_days": 1.5418287037037037,
+    "median_pr_close_days": 0.08090277777777778,
+    "open_issues": 257,
+    "closed_issues_sampled": 3,
+    "contributors_12mo": 4,
+    "top_author_commit_share": 0.801829268292683,
+    "top_author": {
+      "login": "wastedC",
+      "account_created_at": "2011-07-15T12:23:41Z",
+      "other_repos_star_sum": 0
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 40159
+  }
+}

@@ -27,6 +27,13 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN || secrets.GITHUB_TOKEN }}
       - run: ./target/release/scorecards score
       - run: ./target/release/scorecards render
+      # AIDEV-NOTE: pi list is small (~75 repos) — negligible next to neovim's budget.
+      - run: ./target/release/scorecards seed --category pi
+      - run: ./target/release/scorecards collect --category pi
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN || secrets.GITHUB_TOKEN }}
+      - run: ./target/release/scorecards score --category pi
+      - run: ./target/release/scorecards render --category pi
       - name: Commit refreshed data
         run: |
           git config user.name "scorecards-bot"

@@ -1,0 +1,29 @@
+{
+  "slug": "gintasz/neuralyzer",
+  "fetched_at": "2026-09-12T07:52:57.459518805Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 39,
+    "forks": 1,
+    "description": "AI agent harness tool allowing it to wipe its own session context and re-run the first message",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-06-20T14:32:54Z",
+    "commits_90d": 11,
+    "releases_365d": 4,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.001875,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "gintasz",
+      "account_created_at": "2013-12-15T10:33:30Z",
+      "other_repos_star_sum": 144
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 2939
+  }
+}

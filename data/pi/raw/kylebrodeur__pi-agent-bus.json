@@ -1,0 +1,29 @@
+{
+  "slug": "kylebrodeur/pi-agent-bus",
+  "fetched_at": "2026-09-12T07:55:06.909654737Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 2,
+    "forks": 0,
+    "description": "Agent orchestration runtime with MessageBus pub/sub coordination for the Pi coding agent ecosystem. Monorepo containing pi-agent-bus-node (core) and pi-agent-bus (Pi extension).",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-06-05T17:53:43Z",
+    "commits_90d": 0,
+    "releases_365d": 4,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 1,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "kylebrodeur",
+      "account_created_at": "2011-05-26T01:55:33Z",
+      "other_repos_star_sum": 54
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 9729
+  }
+}
