@@ -1,6 +1,6 @@
 {
   "slug": "artemave/workspace-diagnostics.nvim",
-  "fetched_at": "2026-09-11T08:11:30.999963683Z",
+  "fetched_at": "2026-09-12T08:02:59.354430526Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "artemave",
       "account_created_at": "2008-09-08T21:14:32Z",
-      "other_repos_star_sum": 262
+      "other_repos_star_sum": 267
     },
     "has_ci": true,
     "has_tests": true,

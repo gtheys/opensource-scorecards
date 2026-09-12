@@ -1,11 +1,11 @@
 {
   "slug": "axkirillov/unified.nvim",
-  "fetched_at": "2026-09-11T08:12:20.631282012Z",
+  "fetched_at": "2026-09-12T08:03:46.700033268Z",
   "status": "ok",
   "data": {
     "archived": false,
     "stars": 142,
-    "forks": 13,
+    "forks": 14,
     "description": "an inline, unified diff viewer for neovim",
     "license_spdx": "MIT",
     "last_commit_at": "2026-08-10T14:04:35Z",
@@ -13,7 +13,7 @@
     "releases_365d": 7,
     "median_issue_close_days": 18.759623842592593,
     "median_pr_close_days": 0.6188078703703703,
-    "open_issues": 1,
+    "open_issues": 2,
     "closed_issues_sampled": 22,
     "contributors_12mo": 6,
     "top_author_commit_share": 0.6595744680851063,

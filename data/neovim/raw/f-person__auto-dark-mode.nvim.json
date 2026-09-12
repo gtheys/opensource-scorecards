@@ -1,6 +1,6 @@
 {
   "slug": "f-person/auto-dark-mode.nvim",
-  "fetched_at": "2026-09-11T08:24:49.158958364Z",
+  "fetched_at": "2026-09-12T08:14:29.429063576Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -8,15 +8,15 @@
     "forks": 36,
     "description": "A Neovim plugin for macOS, Linux & Windows that automatically changes the editor appearance based on system settings.",
     "license_spdx": "GPL-3.0",
-    "last_commit_at": "2026-03-29T16:55:52Z",
-    "commits_90d": 0,
+    "last_commit_at": "2026-09-11T23:24:18Z",
+    "commits_90d": 1,
     "releases_365d": 0,
-    "median_issue_close_days": 22.92369212962963,
-    "median_pr_close_days": 0.3071759259259259,
-    "open_issues": 11,
-    "closed_issues_sampled": 25,
-    "contributors_12mo": 1,
-    "top_author_commit_share": 1.0,
+    "median_issue_close_days": 27.932054398148146,
+    "median_pr_close_days": 0.3173726851851852,
+    "open_issues": 10,
+    "closed_issues_sampled": 24,
+    "contributors_12mo": 2,
+    "top_author_commit_share": 0.875,
     "top_author": {
       "login": "FineFindus",
       "account_created_at": "2020-04-08T19:15:49Z",
@@ -24,6 +24,6 @@
     },
     "has_ci": true,
     "has_tests": true,
-    "readme_len": 3806
+    "readme_len": 3844
   }
 }

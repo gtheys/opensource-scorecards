@@ -1,10 +1,10 @@
 {
   "slug": "folke/trouble.nvim",
-  "fetched_at": "2026-09-11T08:26:24.118773162Z",
+  "fetched_at": "2026-09-12T08:15:50.209893519Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 6891,
+    "stars": 6889,
     "forks": 212,
     "description": "🚦 A pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble your code is causing.",
     "license_spdx": "Apache-2.0",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "folke",
       "account_created_at": "2010-05-31T14:14:10Z",
-      "other_repos_star_sum": 42090
+      "other_repos_star_sum": 42094
     },
     "has_ci": true,
     "has_tests": true,

@@ -1,11 +1,11 @@
 {
   "slug": "anuvyklack/windows.nvim",
-  "fetched_at": "2026-09-11T08:11:11.329038331Z",
+  "fetched_at": "2026-09-12T08:02:42.499516668Z",
   "status": "ok",
   "data": {
     "archived": false,
     "stars": 642,
-    "forks": 20,
+    "forks": 21,
     "description": "Automatically expand width of the current window. Maximizes and restore it. And all this with nice animations!",
     "license_spdx": "MIT",
     "last_commit_at": null,

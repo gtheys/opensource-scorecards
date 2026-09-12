@@ -807,6 +807,7 @@ repos:
   - muniftanjim/prettier.nvim
   - myzel394/easytables.nvim
   - nacro90/numb.nvim
+  - nagato-yuzuru/bang.nvim
   - nanotee/sqls.nvim
   - nanozuki/tabby.nvim
   - nat-418/boole.nvim
@@ -1322,6 +1323,7 @@ repos:
   - wsdjeg/tabman.nvim
   - wsdjeg/tasks.nvim
   - wurli/cobalt.nvim
+  - wurli/jet.nvim
   - wurli/split.nvim
   - wurli/visimatch.nvim
   - x3ero0/dired.nvim

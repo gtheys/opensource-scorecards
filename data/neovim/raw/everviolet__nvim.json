@@ -1,6 +1,6 @@
 {
   "slug": "everviolet/nvim",
-  "fetched_at": "2026-09-11T08:24:39.301706787Z",
+  "fetched_at": "2026-09-12T08:14:20.799804974Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "comfysage",
       "account_created_at": "2020-07-06T15:54:31Z",
-      "other_repos_star_sum": 567
+      "other_repos_star_sum": 568
     },
     "has_ci": false,
     "has_tests": false,

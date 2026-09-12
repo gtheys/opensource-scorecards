@@ -1,6 +1,6 @@
 {
   "slug": "kawre/leetcode.nvim",
-  "fetched_at": "2026-09-11T08:35:10.296797237Z",
+  "fetched_at": "2026-09-12T08:23:31.726103816Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -13,14 +13,14 @@
     "releases_365d": 0,
     "median_issue_close_days": 4.8254166666666665,
     "median_pr_close_days": 53.00884259259259,
-    "open_issues": 65,
+    "open_issues": 66,
     "closed_issues_sampled": 33,
     "contributors_12mo": 4,
     "top_author_commit_share": 0.25,
     "top_author": {
-      "login": "phanen",
-      "account_created_at": "2021-09-28T13:06:19Z",
-      "other_repos_star_sum": 69
+      "login": "Sharmaharshitnone",
+      "account_created_at": "2024-08-21T12:49:49Z",
+      "other_repos_star_sum": 3
     },
     "has_ci": false,
     "has_tests": false,

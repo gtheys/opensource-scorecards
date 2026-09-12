@@ -1,10 +1,10 @@
 {
   "slug": "barreiroleo/ltex_extra.nvim",
-  "fetched_at": "2026-09-11T08:13:03.993277121Z",
+  "fetched_at": "2026-09-12T08:04:27.157343889Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 187,
+    "stars": 186,
     "forks": 27,
     "description": "Provides external LTeX file handling (off-spec lsp) and other functions.",
     "license_spdx": "GPL-3.0",
