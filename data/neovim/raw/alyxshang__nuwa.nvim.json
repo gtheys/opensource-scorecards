@@ -1,6 +1,6 @@
 {
   "slug": "alyxshang/nuwa.nvim",
-  "fetched_at": "2026-09-12T08:02:10.072954051Z",
+  "fetched_at": "2026-09-13T08:25:08.124182358Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -8,8 +8,8 @@
     "forks": 0,
     "description": "A light Neovim package manager.",
     "license_spdx": "NOASSERTION",
-    "last_commit_at": "2026-09-05T10:51:29Z",
-    "commits_90d": 2,
+    "last_commit_at": "2026-09-12T17:11:18Z",
+    "commits_90d": 3,
     "releases_365d": 1,
     "median_issue_close_days": null,
     "median_pr_close_days": null,
@@ -24,6 +24,6 @@
     },
     "has_ci": true,
     "has_tests": true,
-    "readme_len": 3261
+    "readme_len": 3269
   }
 }

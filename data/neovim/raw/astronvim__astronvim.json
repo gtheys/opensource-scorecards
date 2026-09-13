@@ -1,10 +1,10 @@
 {
   "slug": "astronvim/astronvim",
-  "fetched_at": "2026-09-12T08:03:16.382341047Z",
+  "fetched_at": "2026-09-13T08:26:12.374110750Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 14440,
+    "stars": 14439,
     "forks": 943,
     "description": "AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins ",
     "license_spdx": "GPL-3.0",
@@ -13,7 +13,7 @@
     "releases_365d": 13,
     "median_issue_close_days": 0.31222800925925925,
     "median_pr_close_days": 0.008501157407407409,
-    "open_issues": 0,
+    "open_issues": 1,
     "closed_issues_sampled": 22,
     "contributors_12mo": 4,
     "top_author_commit_share": 0.6161616161616161,

@@ -1,6 +1,6 @@
 {
   "slug": "akioweh/lsp-document-highlight.nvim",
-  "fetched_at": "2026-09-12T08:01:17.586679020Z",
+  "fetched_at": "2026-09-13T08:24:20.320540306Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -8,8 +8,8 @@
     "forks": 0,
     "description": "Snappy \"cursor word\" highlighting using modern mechanics for neovim",
     "license_spdx": "MIT",
-    "last_commit_at": "2026-04-27T14:25:58Z",
-    "commits_90d": 0,
+    "last_commit_at": "2026-09-12T14:33:24Z",
+    "commits_90d": 1,
     "releases_365d": 0,
     "median_issue_close_days": null,
     "median_pr_close_days": null,

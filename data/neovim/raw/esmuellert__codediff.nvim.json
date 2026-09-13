@@ -1,6 +1,6 @@
 {
   "slug": "esmuellert/codediff.nvim",
-  "fetched_at": "2026-09-12T08:14:02.856393952Z",
+  "fetched_at": "2026-09-13T08:36:50.787762210Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -11,10 +11,10 @@
     "last_commit_at": "2026-09-11T00:52:35Z",
     "commits_90d": 327,
     "releases_365d": 100,
-    "median_issue_close_days": 43.59540509259259,
-    "median_pr_close_days": 0.0030266203703703705,
+    "median_issue_close_days": 40.615069444444444,
+    "median_pr_close_days": 0.0030324074074074073,
     "open_issues": 68,
-    "closed_issues_sampled": 18,
+    "closed_issues_sampled": 19,
     "contributors_12mo": 33,
     "top_author_commit_share": 0.8064889918887601,
     "top_author": {

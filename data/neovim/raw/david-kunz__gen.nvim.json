@@ -1,10 +1,10 @@
 {
   "slug": "david-kunz/gen.nvim",
-  "fetched_at": "2026-09-12T08:10:42.719909377Z",
+  "fetched_at": "2026-09-13T08:33:32.961981624Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 1527,
+    "stars": 1528,
     "forks": 121,
     "description": "Neovim plugin to generate text using LLMs with customizable prompts",
     "license_spdx": "Unlicense",

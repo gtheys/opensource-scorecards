@@ -1,15 +1,15 @@
 {
-  "slug": "drkjeff16/nvim-luaref",
-  "fetched_at": "2026-09-13T08:35:09.408546192Z",
+  "slug": "7kill/copybara.nvim",
+  "fetched_at": "2026-09-13T08:22:49.113506210Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 3,
+    "stars": 2,
     "forks": 0,
-    "description": "Add the Lua 5.1 reference manual as a Neovim helpdoc.",
+    "description": "Copy file, line and selection references to the clipboard",
     "license_spdx": "MIT",
-    "last_commit_at": "2026-06-09T16:56:28Z",
-    "commits_90d": 0,
+    "last_commit_at": "2026-09-06T14:04:08Z",
+    "commits_90d": 13,
     "releases_365d": 0,
     "median_issue_close_days": null,
     "median_pr_close_days": null,
@@ -18,12 +18,12 @@
     "contributors_12mo": 1,
     "top_author_commit_share": 1.0,
     "top_author": {
-      "login": "DrKJeff16",
-      "account_created_at": "2020-09-29T00:05:14Z",
-      "other_repos_star_sum": 269
+      "login": "7KiLL",
+      "account_created_at": "2012-01-09T13:59:17Z",
+      "other_repos_star_sum": 6
     },
     "has_ci": false,
     "has_tests": false,
-    "readme_len": 532
+    "readme_len": 2899
   }
 }

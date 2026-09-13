@@ -1,6 +1,6 @@
 {
   "slug": "folke/todo-comments.nvim",
-  "fetched_at": "2026-09-12T08:15:45.315198667Z",
+  "fetched_at": "2026-09-13T08:38:31.955070224Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "folke",
       "account_created_at": "2010-05-31T14:14:10Z",
-      "other_repos_star_sum": 42094
+      "other_repos_star_sum": 42098
     },
     "has_ci": true,
     "has_tests": false,
