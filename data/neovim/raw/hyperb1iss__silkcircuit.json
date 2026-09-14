@@ -1,6 +1,6 @@
 {
   "slug": "hyperb1iss/silkcircuit",
-  "fetched_at": "2026-09-13T08:41:53.549523234Z",
+  "fetched_at": "2026-09-14T09:23:40.699822612Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -8,12 +8,12 @@
     "forks": 2,
     "description": "⚡💜 Electric meets elegant. A vibrant cyberpunk color system for Neovim, VS Code, Chrome, terminals, and 20+ tools.",
     "license_spdx": "MIT",
-    "last_commit_at": "2026-09-02T08:59:57Z",
-    "commits_90d": 173,
+    "last_commit_at": "2026-09-14T00:59:14Z",
+    "commits_90d": 189,
     "releases_365d": 1,
     "median_issue_close_days": 316.59784722222224,
-    "median_pr_close_days": 0.001574074074074074,
-    "open_issues": 0,
+    "median_pr_close_days": 0.0024074074074074076,
+    "open_issues": 1,
     "closed_issues_sampled": 1,
     "contributors_12mo": 1,
     "top_author_commit_share": 1.0,
@@ -24,6 +24,6 @@
     },
     "has_ci": true,
     "has_tests": true,
-    "readme_len": 29270
+    "readme_len": 30547
   }
 }

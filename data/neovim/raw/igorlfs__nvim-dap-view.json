@@ -1,6 +1,6 @@
 {
   "slug": "igorlfs/nvim-dap-view",
-  "fetched_at": "2026-09-13T08:42:18.336420475Z",
+  "fetched_at": "2026-09-14T09:24:15.421732190Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "igorlfs",
       "account_created_at": "2021-05-23T01:35:09Z",
-      "other_repos_star_sum": 1075
+      "other_repos_star_sum": 1074
     },
     "has_ci": true,
     "has_tests": false,

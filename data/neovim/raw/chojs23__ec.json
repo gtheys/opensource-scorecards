@@ -1,6 +1,6 @@
 {
   "slug": "chojs23/ec",
-  "fetched_at": "2026-09-13T08:29:44.220492179Z",
+  "fetched_at": "2026-09-14T09:08:08.988102876Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "chojs23",
       "account_created_at": "2019-09-25T11:32:37Z",
-      "other_repos_star_sum": 1983
+      "other_repos_star_sum": 1989
     },
     "has_ci": true,
     "has_tests": false,

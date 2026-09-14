@@ -1,6 +1,6 @@
 {
   "slug": "error311/wayfinder.nvim",
-  "fetched_at": "2026-09-13T08:36:44.932571826Z",
+  "fetched_at": "2026-09-14T09:17:01.032060555Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "error311",
       "account_created_at": "2013-08-05T08:16:48Z",
-      "other_repos_star_sum": 1185
+      "other_repos_star_sum": 1184
     },
     "has_ci": false,
     "has_tests": true,

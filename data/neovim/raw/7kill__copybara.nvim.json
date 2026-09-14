@@ -1,10 +1,10 @@
 {
   "slug": "7kill/copybara.nvim",
-  "fetched_at": "2026-09-13T08:22:49.113506210Z",
+  "fetched_at": "2026-09-14T08:58:57.042814689Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 2,
+    "stars": 4,
     "forks": 0,
     "description": "Copy file, line and selection references to the clipboard",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "7KiLL",
       "account_created_at": "2012-01-09T13:59:17Z",
-      "other_repos_star_sum": 6
+      "other_repos_star_sum": 8
     },
     "has_ci": false,
     "has_tests": false,

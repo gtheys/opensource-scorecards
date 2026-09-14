@@ -1,6 +1,6 @@
 {
   "slug": "catgoose/nvim-colorizer.lua",
-  "fetched_at": "2026-09-13T08:29:16.090045894Z",
+  "fetched_at": "2026-09-14T09:07:32.313893523Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "catgoose",
       "account_created_at": "2016-08-13T15:22:05Z",
-      "other_repos_star_sum": 1523
+      "other_repos_star_sum": 1524
     },
     "has_ci": true,
     "has_tests": true,

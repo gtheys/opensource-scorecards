@@ -1,15 +1,15 @@
 {
-  "slug": "doodleesc/translator.nvim",
-  "fetched_at": "2026-09-14T09:14:46.384187581Z",
+  "slug": "javanoo6/persist-toggle.nvim",
+  "fetched_at": "2026-09-14T09:26:02.841562361Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 5,
-    "forks": 1,
-    "description": "translator powered by LLm",
+    "stars": 1,
+    "forks": 0,
+    "description": "Persistent toggle state registry for Neovim",
     "license_spdx": "MIT",
-    "last_commit_at": null,
-    "commits_90d": 0,
+    "last_commit_at": "2026-09-09T21:59:40Z",
+    "commits_90d": 3,
     "releases_365d": 0,
     "median_issue_close_days": null,
     "median_pr_close_days": null,
@@ -18,8 +18,8 @@
     "contributors_12mo": 0,
     "top_author_commit_share": 0.0,
     "top_author": null,
-    "has_ci": false,
-    "has_tests": false,
-    "readme_len": 3187
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 3893
   }
 }
