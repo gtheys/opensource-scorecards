@@ -1,6 +1,6 @@
 {
   "slug": "blob42/codegpt-ng.nvim",
-  "fetched_at": "2026-09-14T09:06:23.105416176Z",
+  "fetched_at": "2026-09-15T08:50:57.465136737Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "blob42",
       "account_created_at": "2010-02-25T06:04:20Z",
-      "other_repos_star_sum": 2062
+      "other_repos_star_sum": 2065
     },
     "has_ci": false,
     "has_tests": true,

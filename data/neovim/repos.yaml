@@ -563,6 +563,7 @@ repos:
   - joryeugene/dadbod-grip.nvim
   - josephburgess/nvumi
   - josephschmitt/pj.nvim
+  - josstei/whisk.nvim
   - jpease/hex-outdated.nvim
   - jpmcb/nvim-llama
   - jpwol/thorn.nvim
@@ -695,7 +696,6 @@ repos:
   - lunarvim/lunarvim
   - luukvbaal/nnn.nvim
   - luukvbaal/statuscol.nvim
-  - luxvim/nvim-luxmotion
   - luxvim/nvim-luxterm
   - m-demare/attempt.nvim
   - m-demare/hlargs.nvim

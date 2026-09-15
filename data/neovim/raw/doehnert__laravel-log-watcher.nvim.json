@@ -1,10 +1,10 @@
 {
   "slug": "doehnert/laravel-log-watcher.nvim",
-  "fetched_at": "2026-09-14T09:14:41.490804467Z",
+  "fetched_at": "2026-09-15T08:59:17.224662722Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 1,
+    "stars": 2,
     "forks": 0,
     "description": "Neovim plugin: watch a Laravel app's storage/logs/laravel.log and notify on new writes",
     "license_spdx": "MIT",
