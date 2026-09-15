@@ -49,3 +49,8 @@ seed_source = "https://raw.githubusercontent.com/rockerBOO/awesome-neovim/main/R
 name = "Pi Extensions"
 data_dir = "data/pi"
 seed_source = "https://raw.githubusercontent.com/BubblePtr/awesome-pi/main/README.en.md"
+
+[categories.herdr]
+name = "Herdr Plugins"
+data_dir = "data/herdr"
+seed_source = "https://raw.githubusercontent.com/yigitkonur/awesome-herdr/main/README.md"

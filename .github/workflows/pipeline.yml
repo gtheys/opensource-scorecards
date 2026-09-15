@@ -34,6 +34,15 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN || secrets.GITHUB_TOKEN }}
       - run: ./target/release/scorecards score --category pi
       - run: ./target/release/scorecards render --category pi
+      # AIDEV-NOTE: herdr list is huge (~2085 repos ≈ 23k API calls) — one nightly run
+      # only inches forward; cache makes collect resumable, local collect-loop.sh does
+      # the bulk backfill.
+      - run: ./target/release/scorecards seed --category herdr
+      - run: ./target/release/scorecards collect --category herdr
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN || secrets.GITHUB_TOKEN }}
+      - run: ./target/release/scorecards score --category herdr
+      - run: ./target/release/scorecards render --category herdr
       - name: Commit refreshed data
         run: |
           git config user.name "scorecards-bot"

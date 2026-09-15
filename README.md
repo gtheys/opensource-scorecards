@@ -35,6 +35,14 @@ export GITHUB_TOKEN=$(gh auth token)   # or any classic PAT
 ./target/release/scorecards collect --category pi
 ./target/release/scorecards score --category pi
 ./target/release/scorecards render --category pi
+
+# Third category: herdr plugins (seeded from yigitkonur/awesome-herdr).
+# ~2085 repos ≈ 23k API calls — collect is staged/resumable; run
+# ./scripts/collect-loop.sh herdr repeatedly (or let nightly CI backfill).
+./target/release/scorecards seed --category herdr
+./target/release/scorecards collect --category herdr
+./target/release/scorecards score --category herdr
+./target/release/scorecards render --category herdr
 ```
 
 Note: a full neovim-category refresh is ~15k API calls. Unauthenticated-free
