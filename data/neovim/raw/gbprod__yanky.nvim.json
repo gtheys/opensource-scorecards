@@ -1,6 +1,6 @@
 {
   "slug": "gbprod/yanky.nvim",
-  "fetched_at": "2026-09-15T09:04:39.842274077Z",
+  "fetched_at": "2026-09-16T09:02:19.001805913Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -13,14 +13,14 @@
     "releases_365d": 0,
     "median_issue_close_days": 25.65558449074074,
     "median_pr_close_days": 0.44787037037037036,
-    "open_issues": 34,
+    "open_issues": 35,
     "closed_issues_sampled": 28,
     "contributors_12mo": 6,
     "top_author_commit_share": 0.36363636363636365,
     "top_author": {
       "login": "gbprod",
       "account_created_at": "2013-03-02T20:23:41Z",
-      "other_repos_star_sum": 3073
+      "other_repos_star_sum": 3074
     },
     "has_ci": true,
     "has_tests": true,

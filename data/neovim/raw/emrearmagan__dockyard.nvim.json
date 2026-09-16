@@ -1,11 +1,11 @@
 {
   "slug": "emrearmagan/dockyard.nvim",
-  "fetched_at": "2026-09-15T09:01:15.885033505Z",
+  "fetched_at": "2026-09-16T08:58:16.657941812Z",
   "status": "ok",
   "data": {
     "archived": false,
     "stars": 30,
-    "forks": 3,
+    "forks": 4,
     "description": "A Neovim plugin to manage Docker containers, images, networks, and logs directly from your editor.",
     "license_spdx": "MIT",
     "last_commit_at": "2026-05-18T19:35:28Z",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "emrearmagan",
       "account_created_at": "2018-11-14T15:26:44Z",
-      "other_repos_star_sum": 406
+      "other_repos_star_sum": 407
     },
     "has_ci": false,
     "has_tests": false,

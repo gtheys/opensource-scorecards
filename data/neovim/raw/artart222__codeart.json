@@ -1,10 +1,10 @@
 {
   "slug": "artart222/codeart",
-  "fetched_at": "2026-09-15T08:47:44.480620891Z",
+  "fetched_at": "2026-09-16T08:44:07.763396019Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 905,
+    "stars": 904,
     "forks": 34,
     "description": "Use NeoVim as general purpose IDE",
     "license_spdx": "GPL-3.0",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "artart222",
       "account_created_at": "2019-09-19T20:48:22Z",
-      "other_repos_star_sum": 922
+      "other_repos_star_sum": 921
     },
     "has_ci": true,
     "has_tests": false,

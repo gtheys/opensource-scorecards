@@ -1,6 +1,6 @@
 {
   "slug": "ecthelionvi/neocolumn.nvim",
-  "fetched_at": "2026-09-15T09:00:34.532282350Z",
+  "fetched_at": "2026-09-16T08:57:33.528722556Z",
   "status": "ok",
   "data": {
     "archived": true,
@@ -12,7 +12,7 @@
     "commits_90d": 0,
     "releases_365d": 0,
     "median_issue_close_days": 3.305671296296296,
-    "median_pr_close_days": null,
+    "median_pr_close_days": 0.0002314814814814815,
     "open_issues": 0,
     "closed_issues_sampled": 3,
     "contributors_12mo": 0,

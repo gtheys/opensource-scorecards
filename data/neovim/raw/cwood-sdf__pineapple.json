@@ -1,6 +1,6 @@
 {
   "slug": "cwood-sdf/pineapple",
-  "fetched_at": "2026-09-15T08:56:44.212087721Z",
+  "fetched_at": "2026-09-16T08:53:07.332621429Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "CWood-sdf",
       "account_created_at": "2022-01-25T01:20:35Z",
-      "other_repos_star_sum": 407
+      "other_repos_star_sum": 408
     },
     "has_ci": true,
     "has_tests": false,

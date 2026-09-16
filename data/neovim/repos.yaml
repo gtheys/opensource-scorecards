@@ -549,6 +549,7 @@ repos:
   - jghauser/kitty-runner.nvim
   - jghauser/mkdir.nvim
   - jghauser/papis.nvim
+  - jgonmor16/hdlsnip.nvim
   - jim-at-jibba/ariake.nvim
   - jim-fx/sudoku.nvim
   - jinzhongjia/lspui.nvim

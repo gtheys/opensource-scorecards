@@ -1,6 +1,6 @@
 {
   "slug": "creativenull/diagnosticls-configs-nvim",
-  "fetched_at": "2026-09-15T08:55:36.137574612Z",
+  "fetched_at": "2026-09-16T08:51:57.770449620Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "creativenull",
       "account_created_at": "2013-03-04T18:33:30Z",
-      "other_repos_star_sum": 597
+      "other_repos_star_sum": 599
     },
     "has_ci": false,
     "has_tests": true,
