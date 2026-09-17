@@ -1,10 +1,10 @@
 {
   "slug": "error311/wayfinder.nvim",
-  "fetched_at": "2026-09-16T08:58:40.858061346Z",
+  "fetched_at": "2026-09-17T08:59:19.944738046Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 120,
+    "stars": 119,
     "forks": 3,
     "description": "Guided code exploration for Neovim with definitions, refs, callers, tests, git, and persistent Trails from the current symbol",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "error311",
       "account_created_at": "2013-08-05T08:16:48Z",
-      "other_repos_star_sum": 1186
+      "other_repos_star_sum": 1187
     },
     "has_ci": false,
     "has_tests": true,

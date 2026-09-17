@@ -1,10 +1,10 @@
 {
   "slug": "juniorsundar/refer.nvim",
-  "fetched_at": "2026-09-16T09:10:37.726162338Z",
+  "fetched_at": "2026-09-17T09:09:07.086536090Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 59,
+    "stars": 58,
     "forks": 4,
     "description": "Picker that doesn't get in your way",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "juniorsundar",
       "account_created_at": "2017-01-06T16:40:34Z",
-      "other_repos_star_sum": 201
+      "other_repos_star_sum": 200
     },
     "has_ci": true,
     "has_tests": true,

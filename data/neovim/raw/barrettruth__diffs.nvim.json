@@ -1,6 +1,6 @@
 {
   "slug": "barrettruth/diffs.nvim",
-  "fetched_at": "2026-09-16T08:45:58.931847072Z",
+  "fetched_at": "2026-09-17T08:48:48.849858037Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "barrettruth",
       "account_created_at": "2020-03-25T20:00:03Z",
-      "other_repos_star_sum": 789
+      "other_repos_star_sum": 790
     },
     "has_ci": true,
     "has_tests": true,

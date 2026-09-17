@@ -1,6 +1,6 @@
 {
   "slug": "clang-engineer/jvm-env.nvim",
-  "fetched_at": "2026-09-16T08:50:59.783164948Z",
+  "fetched_at": "2026-09-17T08:53:03.172618734Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "Auto-detect installed JDKs into Neovim env vars (separate jdtls / Gradle JDKs)",
     "license_spdx": "MIT",
     "last_commit_at": "2026-07-20T04:02:17Z",
-    "commits_90d": 10,
+    "commits_90d": 7,
     "releases_365d": 2,
     "median_issue_close_days": null,
     "median_pr_close_days": null,

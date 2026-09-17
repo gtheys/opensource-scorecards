@@ -1,11 +1,11 @@
 {
   "slug": "dam9000/kickstart-modular.nvim",
-  "fetched_at": "2026-09-16T08:53:30.898873244Z",
+  "fetched_at": "2026-09-17T08:55:13.375956002Z",
   "status": "ok",
   "data": {
     "archived": false,
     "stars": 1019,
-    "forks": 2003,
+    "forks": 2001,
     "description": "A launch point for your personal nvim configuration",
     "license_spdx": "MIT",
     "last_commit_at": "2026-09-06T07:11:07Z",

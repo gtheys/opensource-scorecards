@@ -1,10 +1,10 @@
 {
   "slug": "ellisonleao/carbon-now.nvim",
-  "fetched_at": "2026-09-16T08:57:47.898072645Z",
+  "fetched_at": "2026-09-17T08:58:37.585906491Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 195,
+    "stars": 194,
     "forks": 6,
     "description": "Create beautiful code snippets directly from your neovim terminal",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "ellisonleao",
       "account_created_at": "2010-01-08T16:40:45Z",
-      "other_repos_star_sum": 26638
+      "other_repos_star_sum": 26642
     },
     "has_ci": true,
     "has_tests": true,
