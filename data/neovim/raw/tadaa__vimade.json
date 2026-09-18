@@ -1,10 +1,10 @@
 {
   "slug": "tadaa/vimade",
-  "fetched_at": "2026-08-29T10:29:22.071226218Z",
+  "fetched_at": "2026-09-18T08:44:38.616715663Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 675,
+    "stars": 674,
     "forks": 12,
     "description": "Vimade let's you dim, fade, tint, animate, and customize colors in your windows and buffers for (Neo)vim",
     "license_spdx": "Apache-2.0",
@@ -16,11 +16,11 @@
     "open_issues": 8,
     "closed_issues_sampled": 47,
     "contributors_12mo": 2,
-    "top_author_commit_share": 0.96875,
+    "top_author_commit_share": 0.967741935483871,
     "top_author": {
       "login": "TaDaa",
       "account_created_at": "2011-03-08T15:45:28Z",
-      "other_repos_star_sum": 702
+      "other_repos_star_sum": 701
     },
     "has_ci": false,
     "has_tests": false,

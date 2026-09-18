@@ -1,10 +1,10 @@
 {
   "slug": "soulis-1256/eagle.nvim",
-  "fetched_at": "2026-08-29T10:27:50.657305792Z",
+  "fetched_at": "2026-09-18T08:42:58.126089959Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 359,
+    "stars": 362,
     "forks": 9,
     "description": "A Neovim plugin that provides a floating window for diagnostics and LSP information.",
     "license_spdx": "Apache-2.0",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "soulis-1256",
       "account_created_at": "2022-11-15T12:23:57Z",
-      "other_repos_star_sum": 428
+      "other_repos_star_sum": 433
     },
     "has_ci": false,
     "has_tests": false,

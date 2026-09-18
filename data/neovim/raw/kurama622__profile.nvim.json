@@ -1,6 +1,6 @@
 {
   "slug": "kurama622/profile.nvim",
-  "fetched_at": "2026-08-31T10:09:47.506587712Z",
+  "fetched_at": "2026-09-18T08:16:03.725564458Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "A dashboard, similar to GitHub homepage.",
     "license_spdx": "MIT",
     "last_commit_at": "2026-06-07T04:28:24Z",
-    "commits_90d": 1,
+    "commits_90d": 0,
     "releases_365d": 0,
     "median_issue_close_days": 1.4221180555555555,
     "median_pr_close_days": 4.122395833333333,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "Kurama622",
       "account_created_at": "2018-07-20T01:41:42Z",
-      "other_repos_star_sum": 739
+      "other_repos_star_sum": 740
     },
     "has_ci": false,
     "has_tests": false,

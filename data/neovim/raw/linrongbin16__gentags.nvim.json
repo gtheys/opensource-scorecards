@@ -1,10 +1,10 @@
 {
   "slug": "linrongbin16/gentags.nvim",
-  "fetched_at": "2026-08-29T10:06:45.975676031Z",
+  "fetched_at": "2026-09-18T08:17:34.747730629Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 24,
+    "stars": 25,
     "forks": 3,
     "description": "Tags generator/management for old school vimers in Neovim.",
     "license_spdx": "MIT",

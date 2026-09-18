@@ -1,10 +1,10 @@
 {
   "slug": "nvimdev/dashboard-nvim",
-  "fetched_at": "2026-08-29T10:17:18.815460093Z",
+  "fetched_at": "2026-09-18T08:30:14.248250569Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 2868,
+    "stars": 2871,
     "forks": 201,
     "description": "vim dashboard",
     "license_spdx": "MIT",
@@ -13,14 +13,14 @@
     "releases_365d": 0,
     "median_issue_close_days": 9.465,
     "median_pr_close_days": 0.5734606481481481,
-    "open_issues": 73,
+    "open_issues": 74,
     "closed_issues_sampled": 25,
-    "contributors_12mo": 3,
-    "top_author_commit_share": 0.3333333333333333,
+    "contributors_12mo": 2,
+    "top_author_commit_share": 0.5,
     "top_author": {
-      "login": "flareseek",
-      "account_created_at": "2023-02-05T16:05:39Z",
-      "other_repos_star_sum": 0
+      "login": "hackardoX",
+      "account_created_at": "2015-01-31T18:03:56Z",
+      "other_repos_star_sum": 11
     },
     "has_ci": true,
     "has_tests": false,

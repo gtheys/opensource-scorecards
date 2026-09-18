@@ -1,11 +1,11 @@
 {
   "slug": "moyiz/blink-emoji.nvim",
-  "fetched_at": "2026-08-29T10:11:58.485222740Z",
+  "fetched_at": "2026-09-18T08:23:36.247678743Z",
   "status": "ok",
   "data": {
     "archived": false,
     "stars": 84,
-    "forks": 6,
+    "forks": 7,
     "description": "Emoji source for blink.cmp.",
     "license_spdx": "BSD-3-Clause",
     "last_commit_at": "2026-04-11T21:18:40Z",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "moyiz",
       "account_created_at": "2014-08-31T05:15:07Z",
-      "other_repos_star_sum": 232
+      "other_repos_star_sum": 233
     },
     "has_ci": false,
     "has_tests": false,

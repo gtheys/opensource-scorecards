@@ -1,10 +1,10 @@
 {
   "slug": "prichrd/netrw.nvim",
-  "fetched_at": "2026-08-29T10:20:25.842988636Z",
+  "fetched_at": "2026-09-18T08:34:04.608194361Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 274,
+    "stars": 275,
     "forks": 7,
     "description": "It's not because we use netrw that we cannot have nice things! ",
     "license_spdx": "MIT",
@@ -18,9 +18,9 @@
     "contributors_12mo": 2,
     "top_author_commit_share": 0.5,
     "top_author": {
-      "login": "prichrd",
-      "account_created_at": "2013-02-26T16:08:28Z",
-      "other_repos_star_sum": 305
+      "login": "mbaklor",
+      "account_created_at": "2021-02-08T16:10:45Z",
+      "other_repos_star_sum": 4
     },
     "has_ci": true,
     "has_tests": true,

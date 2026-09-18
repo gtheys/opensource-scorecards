@@ -1,11 +1,11 @@
 {
   "slug": "stevearc/overseer.nvim",
-  "fetched_at": "2026-08-29T10:28:25.579875069Z",
+  "fetched_at": "2026-09-18T08:43:38.170862661Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 1923,
-    "forks": 104,
+    "stars": 1928,
+    "forks": 107,
     "description": "A task runner and job management plugin for Neovim",
     "license_spdx": "MIT",
     "last_commit_at": "2026-05-24T17:38:28Z",
@@ -13,14 +13,14 @@
     "releases_365d": 2,
     "median_issue_close_days": 13.472291666666667,
     "median_pr_close_days": 22.239085648148148,
-    "open_issues": 84,
+    "open_issues": 86,
     "closed_issues_sampled": 13,
     "contributors_12mo": 21,
     "top_author_commit_share": 0.8523489932885906,
     "top_author": {
       "login": "stevearc",
       "account_created_at": "2010-12-02T16:02:29Z",
-      "other_repos_star_sum": 22105
+      "other_repos_star_sum": 22206
     },
     "has_ci": true,
     "has_tests": true,

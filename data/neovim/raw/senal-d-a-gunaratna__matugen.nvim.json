@@ -1,29 +1,29 @@
 {
   "slug": "senal-d-a-gunaratna/matugen.nvim",
-  "fetched_at": "2026-08-29T10:26:01.594648896Z",
+  "fetched_at": "2026-09-18T08:40:57.018965314Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 23,
-    "forks": 1,
+    "stars": 29,
+    "forks": 2,
     "description": "Matugen color palette integration for Neovim",
     "license_spdx": "MIT",
-    "last_commit_at": "2026-08-27T14:26:10Z",
-    "commits_90d": 216,
+    "last_commit_at": "2026-09-18T07:34:43Z",
+    "commits_90d": 187,
     "releases_365d": 0,
-    "median_issue_close_days": 0.8639930555555555,
+    "median_issue_close_days": 0.9767592592592592,
     "median_pr_close_days": null,
     "open_issues": 0,
-    "closed_issues_sampled": 4,
+    "closed_issues_sampled": 7,
     "contributors_12mo": 1,
     "top_author_commit_share": 1.0,
     "top_author": {
       "login": "Senal-D-A-Gunaratna",
       "account_created_at": "2025-09-07T14:19:24Z",
-      "other_repos_star_sum": 41
+      "other_repos_star_sum": 47
     },
     "has_ci": true,
     "has_tests": false,
-    "readme_len": 5974
+    "readme_len": 6095
   }
 }

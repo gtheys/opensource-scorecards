@@ -1,6 +1,6 @@
 {
   "slug": "ptdewey/darkearth-nvim",
-  "fetched_at": "2026-08-29T10:20:32.604196375Z",
+  "fetched_at": "2026-09-18T08:34:12.634465335Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "A dark and earthy colorscheme for Neovim.",
     "license_spdx": "MIT",
     "last_commit_at": "2026-06-03T12:50:14Z",
-    "commits_90d": 2,
+    "commits_90d": 0,
     "releases_365d": 7,
     "median_issue_close_days": 4.110179398148148,
     "median_pr_close_days": 0.07077546296296296,

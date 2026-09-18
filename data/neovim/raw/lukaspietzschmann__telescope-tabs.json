@@ -1,6 +1,6 @@
 {
   "slug": "lukaspietzschmann/telescope-tabs",
-  "fetched_at": "2026-08-29T10:07:42.908795191Z",
+  "fetched_at": "2026-09-18T08:18:38.970163363Z",
   "status": "ok",
   "data": {
     "archived": true,
@@ -15,12 +15,12 @@
     "median_pr_close_days": 0.6550578703703703,
     "open_issues": 1,
     "closed_issues_sampled": 18,
-    "contributors_12mo": 2,
-    "top_author_commit_share": 0.6666666666666666,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
     "top_author": {
-      "login": "DaiterGG",
-      "account_created_at": "2020-05-01T21:50:11Z",
-      "other_repos_star_sum": 10
+      "login": "LukasPietzschmann",
+      "account_created_at": "2019-04-02T22:26:05Z",
+      "other_repos_star_sum": 544
     },
     "has_ci": false,
     "has_tests": false,

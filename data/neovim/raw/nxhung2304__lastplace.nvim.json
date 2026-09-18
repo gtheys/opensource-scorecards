@@ -1,29 +1,29 @@
 {
   "slug": "nxhung2304/lastplace.nvim",
-  "fetched_at": "2026-08-29T10:17:42.416952760Z",
+  "fetched_at": "2026-09-18T08:30:46.361183055Z",
   "status": "ok",
   "data": {
     "archived": false,
     "stars": 29,
-    "forks": 3,
+    "forks": 2,
     "description": "Nvim plugin that intelligently reopens files at your last edit position.",
     "license_spdx": "MIT",
-    "last_commit_at": "2026-08-09T16:07:10Z",
-    "commits_90d": 11,
-    "releases_365d": 1,
-    "median_issue_close_days": 108.0121412037037,
-    "median_pr_close_days": 0.004293981481481481,
+    "last_commit_at": "2026-09-13T06:57:33Z",
+    "commits_90d": 16,
+    "releases_365d": 2,
+    "median_issue_close_days": 108.0024074074074,
+    "median_pr_close_days": 0.003599537037037037,
     "open_issues": 0,
-    "closed_issues_sampled": 12,
+    "closed_issues_sampled": 15,
     "contributors_12mo": 2,
-    "top_author_commit_share": 0.7692307692307693,
+    "top_author_commit_share": 0.8421052631578947,
     "top_author": {
       "login": "nxhung2304",
       "account_created_at": "2019-08-23T12:29:01Z",
       "other_repos_star_sum": 60
     },
     "has_ci": true,
-    "has_tests": false,
-    "readme_len": 3141
+    "has_tests": true,
+    "readme_len": 3194
   }
 }

@@ -1,15 +1,15 @@
 {
   "slug": "rktjmp/hotpot.nvim",
-  "fetched_at": "2026-08-29T10:22:46.349759488Z",
+  "fetched_at": "2026-09-18T08:36:58.396085656Z",
   "status": "ok",
   "data": {
     "archived": false,
     "stars": 400,
-    "forks": 14,
+    "forks": 15,
     "description": ":stew: Carl Weathers #1 Neovim Plugin.",
     "license_spdx": "MIT",
     "last_commit_at": "2026-07-29T15:39:40Z",
-    "commits_90d": 9,
+    "commits_90d": 5,
     "releases_365d": 0,
     "median_issue_close_days": 10.091666666666667,
     "median_pr_close_days": 0.6404282407407408,

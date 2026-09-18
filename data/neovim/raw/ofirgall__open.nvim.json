@@ -1,6 +1,6 @@
 {
   "slug": "ofirgall/open.nvim",
-  "fetched_at": "2026-08-29T10:18:07.557076985Z",
+  "fetched_at": "2026-09-18T08:31:17.007713008Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -8,8 +8,8 @@
     "forks": 1,
     "description": "Open the current word with custom openers, GitHub shorthands for example.",
     "license_spdx": "GPL-3.0",
-    "last_commit_at": "2026-06-01T13:38:00Z",
-    "commits_90d": 1,
+    "last_commit_at": "2026-09-07T12:18:32Z",
+    "commits_90d": 3,
     "releases_365d": 0,
     "median_issue_close_days": 35.30637731481481,
     "median_pr_close_days": 0.045162037037037035,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "ofirgall",
       "account_created_at": "2013-07-06T13:05:51Z",
-      "other_repos_star_sum": 1009
+      "other_repos_star_sum": 1012
     },
     "has_ci": true,
     "has_tests": false,

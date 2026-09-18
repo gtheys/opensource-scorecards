@@ -1,6 +1,6 @@
 {
   "slug": "smjonas/live-command.nvim",
-  "fetched_at": "2026-08-29T10:27:15.191152916Z",
+  "fetched_at": "2026-09-18T08:42:21.096146982Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -18,9 +18,9 @@
     "contributors_12mo": 2,
     "top_author_commit_share": 0.5,
     "top_author": {
-      "login": "sellithy",
-      "account_created_at": "2016-01-18T05:21:53Z",
-      "other_repos_star_sum": 0
+      "login": "smjonas",
+      "account_created_at": "2018-07-03T09:59:51Z",
+      "other_repos_star_sum": 1636
     },
     "has_ci": true,
     "has_tests": true,

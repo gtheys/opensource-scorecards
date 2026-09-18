@@ -1,10 +1,10 @@
 {
   "slug": "nvim-focus/focus.nvim",
-  "fetched_at": "2026-08-29T10:16:11.419215973Z",
+  "fetched_at": "2026-09-18T08:28:40.725454260Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 813,
+    "stars": 814,
     "forks": 40,
     "description": "Auto-Focusing and Auto-Resizing Splits/Windows for Neovim written in Lua. A full suite of window management enhancements. Vim splits on steroids!",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "cryptomilk",
       "account_created_at": "2011-01-03T14:40:04Z",
-      "other_repos_star_sum": 285
+      "other_repos_star_sum": 294
     },
     "has_ci": true,
     "has_tests": true,

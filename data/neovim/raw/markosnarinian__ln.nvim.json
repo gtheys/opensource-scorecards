@@ -1,6 +1,6 @@
 {
   "slug": "markosnarinian/ln.nvim",
-  "fetched_at": "2026-08-29T10:08:52.483866881Z",
+  "fetched_at": "2026-09-18T08:19:57.256595807Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "Smart line number toggling with sane defaults. Switches based on window focus, mode, and filetype with configurable events and excluded filetypes out of the box.",
     "license_spdx": "MIT",
     "last_commit_at": "2026-06-25T17:31:29Z",
-    "commits_90d": 6,
+    "commits_90d": 5,
     "releases_365d": 0,
     "median_issue_close_days": null,
     "median_pr_close_days": null,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "markosnarinian",
       "account_created_at": "2020-12-08T07:08:41Z",
-      "other_repos_star_sum": 19
+      "other_repos_star_sum": 22
     },
     "has_ci": false,
     "has_tests": false,

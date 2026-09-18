@@ -1,10 +1,10 @@
 {
   "slug": "salanoid/gitlogdiff.nvim",
-  "fetched_at": "2026-08-29T10:24:50.076480052Z",
+  "fetched_at": "2026-09-18T08:39:29.806766858Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 23,
+    "stars": 24,
     "forks": 2,
     "description": "Diff between multiple git commits, similar to JetBrains's git log.",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "Salanoid",
       "account_created_at": "2016-01-04T13:49:45Z",
-      "other_repos_star_sum": 87
+      "other_repos_star_sum": 88
     },
     "has_ci": true,
     "has_tests": true,

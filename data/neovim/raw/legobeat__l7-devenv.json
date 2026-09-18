@@ -1,11 +1,11 @@
 {
   "slug": "legobeat/l7-devenv",
-  "fetched_at": "2026-08-31T10:10:23.934164569Z",
+  "fetched_at": "2026-09-18T08:16:44.919041358Z",
   "status": "ok",
   "data": {
     "archived": false,
     "stars": 27,
-    "forks": 0,
+    "forks": 1,
     "description": "Secure terminal-based IDE for local JS development",
     "license_spdx": "AGPL-3.0",
     "last_commit_at": null,

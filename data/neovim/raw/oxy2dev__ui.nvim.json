@@ -1,10 +1,10 @@
 {
   "slug": "oxy2dev/ui.nvim",
-  "fetched_at": "2026-08-29T10:19:23.898600152Z",
+  "fetched_at": "2026-09-18T08:32:50.603043695Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 158,
+    "stars": 159,
     "forks": 4,
     "description": "A blueprint/template/guide to customize Neovim's UI using Lua.",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "OXY2DEV",
       "account_created_at": "2023-01-18T04:51:04Z",
-      "other_repos_star_sum": 4803
+      "other_repos_star_sum": 4838
     },
     "has_ci": true,
     "has_tests": false,

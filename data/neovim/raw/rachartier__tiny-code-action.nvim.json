@@ -1,10 +1,10 @@
 {
   "slug": "rachartier/tiny-code-action.nvim",
-  "fetched_at": "2026-08-29T10:20:58.869739105Z",
+  "fetched_at": "2026-09-18T08:34:47.756892584Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 493,
+    "stars": 501,
     "forks": 24,
     "description": "A Neovim plugin that provides a simple way to run and visualize code actions with Telescope.",
     "license_spdx": "MIT",
@@ -16,11 +16,11 @@
     "open_issues": 0,
     "closed_issues_sampled": 31,
     "contributors_12mo": 10,
-    "top_author_commit_share": 0.6964285714285714,
+    "top_author_commit_share": 0.7058823529411765,
     "top_author": {
       "login": "rachartier",
       "account_created_at": "2012-07-28T18:09:58Z",
-      "other_repos_star_sum": 3009
+      "other_repos_star_sum": 3054
     },
     "has_ci": false,
     "has_tests": false,

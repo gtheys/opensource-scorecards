@@ -1,6 +1,6 @@
 {
   "slug": "slugbyte/unruly-worker.nvim",
-  "fetched_at": "2026-08-29T10:27:04.349038548Z",
+  "fetched_at": "2026-09-18T08:42:09.373240860Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "slugbyte",
       "account_created_at": "2013-02-13T07:16:44Z",
-      "other_repos_star_sum": 643
+      "other_repos_star_sum": 640
     },
     "has_ci": false,
     "has_tests": false,

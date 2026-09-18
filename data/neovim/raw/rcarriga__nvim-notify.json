@@ -1,27 +1,23 @@
 {
   "slug": "rcarriga/nvim-notify",
-  "fetched_at": "2026-08-29T10:22:11.203668002Z",
+  "fetched_at": "2026-09-18T08:36:13.563817503Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 3568,
+    "stars": 3572,
     "forks": 100,
     "description": "A fancy, configurable, notification manager for NeoVim",
     "license_spdx": "MIT",
-    "last_commit_at": "2025-09-06T20:22:11Z",
+    "last_commit_at": null,
     "commits_90d": 0,
     "releases_365d": 0,
     "median_issue_close_days": 20.97832175925926,
     "median_pr_close_days": 36.56068865740741,
     "open_issues": 80,
     "closed_issues_sampled": 18,
-    "contributors_12mo": 1,
-    "top_author_commit_share": 1.0,
-    "top_author": {
-      "login": "GR3YH4TT3R93",
-      "account_created_at": "2020-12-29T08:27:11Z",
-      "other_repos_star_sum": 116
-    },
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
     "has_ci": true,
     "has_tests": true,
     "readme_len": 10357

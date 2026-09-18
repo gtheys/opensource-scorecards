@@ -1,10 +1,10 @@
 {
   "slug": "rachartier/tiny-glimmer.nvim",
-  "fetched_at": "2026-08-29T10:21:04.709135931Z",
+  "fetched_at": "2026-09-18T08:34:54.298252469Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 431,
+    "stars": 437,
     "forks": 7,
     "description": "A Neovim plugin that adds smooth, customizable animations to text operations like yank, paste, search, undo/redo, and more.",
     "license_spdx": "MIT",
@@ -16,11 +16,11 @@
     "open_issues": 1,
     "closed_issues_sampled": 44,
     "contributors_12mo": 2,
-    "top_author_commit_share": 0.9333333333333333,
+    "top_author_commit_share": 0.9302325581395349,
     "top_author": {
       "login": "rachartier",
       "account_created_at": "2012-07-28T18:09:58Z",
-      "other_repos_star_sum": 3009
+      "other_repos_star_sum": 3054
     },
     "has_ci": true,
     "has_tests": true,

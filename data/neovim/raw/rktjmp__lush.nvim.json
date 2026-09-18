@@ -1,27 +1,23 @@
 {
   "slug": "rktjmp/lush.nvim",
-  "fetched_at": "2026-08-29T10:22:49.597786807Z",
+  "fetched_at": "2026-09-18T08:37:03.800340947Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 1781,
+    "stars": 1782,
     "forks": 48,
     "description": "Create Neovim themes with real-time feedback, export anywhere.",
     "license_spdx": "MIT",
-    "last_commit_at": "2025-09-01T04:50:01Z",
+    "last_commit_at": null,
     "commits_90d": 0,
     "releases_365d": 0,
     "median_issue_close_days": 0.7707175925925925,
     "median_pr_close_days": 0.343125,
     "open_issues": 13,
     "closed_issues_sampled": 25,
-    "contributors_12mo": 1,
-    "top_author_commit_share": 1.0,
-    "top_author": {
-      "login": "KonradMagnusson",
-      "account_created_at": "2014-05-09T13:44:12Z",
-      "other_repos_star_sum": 0
-    },
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
     "has_ci": true,
     "has_tests": true,
     "readme_len": 3059

@@ -1,6 +1,6 @@
 {
   "slug": "kuri-sun/yoda.nvim",
-  "fetched_at": "2026-08-31T10:09:52.807528669Z",
+  "fetched_at": "2026-09-18T08:16:09.308062706Z",
   "status": "ok",
   "data": {
     "archived": true,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "harukikuri",
       "account_created_at": "2020-03-27T09:01:22Z",
-      "other_repos_star_sum": 85
+      "other_repos_star_sum": 86
     },
     "has_ci": true,
     "has_tests": false,

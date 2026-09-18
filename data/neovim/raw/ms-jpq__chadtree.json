@@ -1,10 +1,10 @@
 {
   "slug": "ms-jpq/chadtree",
-  "fetched_at": "2026-08-29T10:12:48.964739176Z",
+  "fetched_at": "2026-09-18T08:24:32.539758946Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 1691,
+    "stars": 1689,
     "forks": 62,
     "description": "File manager for Neovim. Better than NERDTree.",
     "license_spdx": "GPL-3.0",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "ms-jpq",
       "account_created_at": "2019-05-13T20:56:35Z",
-      "other_repos_star_sum": 9641
+      "other_repos_star_sum": 9643
     },
     "has_ci": true,
     "has_tests": false,

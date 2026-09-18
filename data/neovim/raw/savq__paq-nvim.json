@@ -1,6 +1,6 @@
 {
   "slug": "savq/paq-nvim",
-  "fetched_at": "2026-08-29T10:25:21.734749497Z",
+  "fetched_at": "2026-09-18T08:40:07.428247052Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -11,10 +11,10 @@
     "last_commit_at": null,
     "commits_90d": 0,
     "releases_365d": 0,
-    "median_issue_close_days": 375.9204976851852,
-    "median_pr_close_days": 4.2588483796296295,
-    "open_issues": 7,
-    "closed_issues_sampled": 32,
+    "median_issue_close_days": 398.820625,
+    "median_pr_close_days": 4.748530092592593,
+    "open_issues": 6,
+    "closed_issues_sampled": 31,
     "contributors_12mo": 0,
     "top_author_commit_share": 0.0,
     "top_author": null,

@@ -1,0 +1,29 @@
+{
+  "slug": "nagato-yuzuru/bang.nvim",
+  "fetched_at": "2026-09-18T08:25:01.660465693Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 8,
+    "forks": 0,
+    "description": "Pipe a selection, motion, or text object through a shell command",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-09T14:04:06Z",
+    "commits_90d": 33,
+    "releases_365d": 2,
+    "median_issue_close_days": 1.3388773148148148,
+    "median_pr_close_days": 0.00375,
+    "open_issues": 5,
+    "closed_issues_sampled": 19,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "Nagato-Yuzuru",
+      "account_created_at": "2024-05-13T18:04:36Z",
+      "other_repos_star_sum": 25
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 3609
+  }
+}

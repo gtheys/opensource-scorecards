@@ -1,10 +1,10 @@
 {
   "slug": "ldelossa/nvim-ide",
-  "fetched_at": "2026-08-31T10:10:15.586711036Z",
+  "fetched_at": "2026-09-18T08:16:36.343644059Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 881,
+    "stars": 876,
     "forks": 32,
     "description": "A full featured IDE layer for Neovim. Heavily inspired by VSCode.",
     "license_spdx": "MIT",

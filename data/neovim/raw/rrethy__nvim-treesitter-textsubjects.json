@@ -1,10 +1,10 @@
 {
   "slug": "rrethy/nvim-treesitter-textsubjects",
-  "fetched_at": "2026-08-29T10:23:46.265002877Z",
+  "fetched_at": "2026-09-18T08:38:15.534127241Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 569,
+    "stars": 570,
     "forks": 25,
     "description": "Location and syntax aware text objects which *do what you mean*",
     "license_spdx": "Apache-2.0",

@@ -1,10 +1,10 @@
 {
   "slug": "slugbyte/lackluster.nvim",
-  "fetched_at": "2026-08-29T10:27:01.603699988Z",
+  "fetched_at": "2026-09-18T08:42:06.470237242Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 576,
+    "stars": 573,
     "forks": 31,
     "description": "a delightful and customizable mostly monochrome colorscheme thats soft on the eyes and supports treesitter, lsp, and heaps of neovim plugins.",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "slugbyte",
       "account_created_at": "2013-02-13T07:16:44Z",
-      "other_repos_star_sum": 643
+      "other_repos_star_sum": 640
     },
     "has_ci": false,
     "has_tests": false,

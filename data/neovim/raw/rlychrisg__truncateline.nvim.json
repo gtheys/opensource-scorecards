@@ -1,10 +1,10 @@
 {
   "slug": "rlychrisg/truncateline.nvim",
-  "fetched_at": "2026-08-29T10:22:59.649240472Z",
+  "fetched_at": "2026-09-18T08:37:14.177267440Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 22,
+    "stars": 23,
     "forks": 1,
     "description": "Show the start of long lines when scrolling way off to the right.",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "rlychrisg",
       "account_created_at": "2024-02-22T19:10:39Z",
-      "other_repos_star_sum": 42
+      "other_repos_star_sum": 43
     },
     "has_ci": false,
     "has_tests": false,

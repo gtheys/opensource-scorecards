@@ -1,15 +1,15 @@
 {
   "slug": "romgrk/barbar.nvim",
-  "fetched_at": "2026-08-29T10:23:28.653359456Z",
+  "fetched_at": "2026-09-18T08:37:50.013191496Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 2723,
-    "forks": 95,
+    "stars": 2730,
+    "forks": 96,
     "description": "The neovim tabline plugin.",
     "license_spdx": null,
     "last_commit_at": "2026-06-10T23:25:38Z",
-    "commits_90d": 2,
+    "commits_90d": 0,
     "releases_365d": 0,
     "median_issue_close_days": 3.690028935185185,
     "median_pr_close_days": 1.0558333333333332,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "romgrk",
       "account_created_at": "2012-02-09T16:45:39Z",
-      "other_repos_star_sum": 3678
+      "other_repos_star_sum": 3688
     },
     "has_ci": true,
     "has_tests": false,

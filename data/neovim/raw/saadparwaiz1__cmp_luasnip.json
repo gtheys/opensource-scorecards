@@ -1,11 +1,11 @@
 {
   "slug": "saadparwaiz1/cmp_luasnip",
-  "fetched_at": "2026-08-29T10:24:11.053718064Z",
+  "fetched_at": "2026-09-18T08:38:45.203986978Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 775,
-    "forks": 40,
+    "stars": 773,
+    "forks": 41,
     "description": "luasnip completion source for nvim-cmp",
     "license_spdx": "Apache-2.0",
     "last_commit_at": null,
@@ -13,7 +13,7 @@
     "releases_365d": 0,
     "median_issue_close_days": 1.1902662037037037,
     "median_pr_close_days": 0.8073958333333333,
-    "open_issues": 11,
+    "open_issues": 13,
     "closed_issues_sampled": 28,
     "contributors_12mo": 0,
     "top_author_commit_share": 0.0,

@@ -1,6 +1,6 @@
 {
   "slug": "linrongbin16/lin.nvim",
-  "fetched_at": "2026-08-29T10:06:50.684025740Z",
+  "fetched_at": "2026-09-18T08:17:39.334195527Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -8,11 +8,11 @@
     "forks": 8,
     "description": "Lin Rongbin's Neovim Distribution",
     "license_spdx": "MIT",
-    "last_commit_at": "2026-08-19T02:10:32Z",
-    "commits_90d": 16,
+    "last_commit_at": "2026-09-16T07:41:44Z",
+    "commits_90d": 28,
     "releases_365d": 0,
     "median_issue_close_days": null,
-    "median_pr_close_days": 0.003697916666666667,
+    "median_pr_close_days": 0.003900462962962963,
     "open_issues": 0,
     "closed_issues_sampled": 0,
     "contributors_12mo": 1,

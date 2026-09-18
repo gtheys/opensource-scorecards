@@ -1,29 +1,29 @@
 {
   "slug": "simonw/llm",
-  "fetched_at": "2026-08-29T10:26:49.041188388Z",
+  "fetched_at": "2026-09-18T08:41:51.579554634Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 12422,
-    "forks": 967,
+    "stars": 12526,
+    "forks": 991,
     "description": "Access large language models from the command-line",
     "license_spdx": "Apache-2.0",
-    "last_commit_at": "2026-08-22T16:52:22Z",
-    "commits_90d": 193,
-    "releases_365d": 14,
+    "last_commit_at": "2026-09-08T02:01:48Z",
+    "commits_90d": 201,
+    "releases_365d": 16,
     "median_issue_close_days": 6.763599537037037,
-    "median_pr_close_days": 3.151400462962963,
-    "open_issues": 680,
-    "closed_issues_sampled": 23,
-    "contributors_12mo": 16,
-    "top_author_commit_share": 0.9333333333333333,
+    "median_pr_close_days": 9.547384259259259,
+    "open_issues": 696,
+    "closed_issues_sampled": 17,
+    "contributors_12mo": 21,
+    "top_author_commit_share": 0.9184952978056427,
     "top_author": {
       "login": "simonw",
       "account_created_at": "2008-05-07T17:22:14Z",
-      "other_repos_star_sum": 4957
+      "other_repos_star_sum": 5001
     },
     "has_ci": true,
     "has_tests": true,
-    "readme_len": 32489
+    "readme_len": 32482
   }
 }

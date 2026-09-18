@@ -1,11 +1,11 @@
 {
   "slug": "ldelossa/gh.nvim",
-  "fetched_at": "2026-08-31T10:10:13.816023651Z",
+  "fetched_at": "2026-09-18T08:16:34.410104266Z",
   "status": "ok",
   "data": {
     "archived": false,
     "stars": 651,
-    "forks": 31,
+    "forks": 32,
     "description": "A fully featured GitHub integration for performing code reviews in Neovim.",
     "license_spdx": "MIT",
     "last_commit_at": null,

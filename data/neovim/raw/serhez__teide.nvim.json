@@ -1,11 +1,11 @@
 {
   "slug": "serhez/teide.nvim",
-  "fetched_at": "2026-08-29T10:26:13.313948610Z",
+  "fetched_at": "2026-09-18T08:41:09.929475801Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 163,
-    "forks": 4,
+    "stars": 164,
+    "forks": 5,
     "description": "A Neovim theme. Forked from folke's TokyoNight.",
     "license_spdx": "Apache-2.0",
     "last_commit_at": "2026-01-12T01:00:53Z",
@@ -16,11 +16,11 @@
     "open_issues": 2,
     "closed_issues_sampled": 5,
     "contributors_12mo": 16,
-    "top_author_commit_share": 0.5604395604395604,
+    "top_author_commit_share": 0.5454545454545454,
     "top_author": {
       "login": "folke",
       "account_created_at": "2010-05-31T14:14:10Z",
-      "other_repos_star_sum": 41998
+      "other_repos_star_sum": 42124
     },
     "has_ci": true,
     "has_tests": true,

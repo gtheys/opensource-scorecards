@@ -1,22 +1,22 @@
 {
   "slug": "shatur/neovim-tasks",
-  "fetched_at": "2026-08-29T10:26:21.308013999Z",
+  "fetched_at": "2026-09-18T08:41:18.924245851Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 129,
+    "stars": 130,
     "forks": 15,
     "description": "A statefull task manager focused on integration with build systems.",
     "license_spdx": "GPL-3.0",
-    "last_commit_at": "2026-07-01T15:20:51Z",
-    "commits_90d": 2,
+    "last_commit_at": "2026-09-03T15:11:51Z",
+    "commits_90d": 5,
     "releases_365d": 0,
     "median_issue_close_days": 0.6551909722222222,
     "median_pr_close_days": 0.029010416666666667,
     "open_issues": 4,
     "closed_issues_sampled": 16,
     "contributors_12mo": 3,
-    "top_author_commit_share": 0.8333333333333334,
+    "top_author_commit_share": 0.8571428571428571,
     "top_author": {
       "login": "DoDoENT",
       "account_created_at": "2009-11-27T12:10:26Z",
@@ -24,6 +24,6 @@
     },
     "has_ci": true,
     "has_tests": false,
-    "readme_len": 28932
+    "readme_len": 28961
   }
 }

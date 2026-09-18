@@ -1,11 +1,11 @@
 {
   "slug": "luukvbaal/statuscol.nvim",
-  "fetched_at": "2026-08-29T10:08:00.031667744Z",
+  "fetched_at": "2026-09-18T08:18:59.912298970Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 612,
-    "forks": 34,
+    "stars": 614,
+    "forks": 33,
     "description": "Status column plugin that provides a configurable 'statuscolumn' and click handlers.",
     "license_spdx": "MIT",
     "last_commit_at": "2026-07-09T13:15:37Z",

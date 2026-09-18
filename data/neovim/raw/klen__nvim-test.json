@@ -1,11 +1,11 @@
 {
   "slug": "klen/nvim-test",
-  "fetched_at": "2026-08-31T10:09:21.962215380Z",
+  "fetched_at": "2026-09-18T08:15:27.688708924Z",
   "status": "ok",
   "data": {
     "archived": false,
     "stars": 200,
-    "forks": 24,
+    "forks": 25,
     "description": "A Neovim wrapper for running tests",
     "license_spdx": "MIT",
     "last_commit_at": "2026-05-16T11:27:33Z",
@@ -13,7 +13,7 @@
     "releases_365d": 0,
     "median_issue_close_days": 1233.8986284722223,
     "median_pr_close_days": 14.599155092592593,
-    "open_issues": 3,
+    "open_issues": 4,
     "closed_issues_sampled": 20,
     "contributors_12mo": 1,
     "top_author_commit_share": 1.0,

@@ -1,10 +1,10 @@
 {
   "slug": "mozanunal/sllm.nvim",
-  "fetched_at": "2026-08-29T10:12:05.329143156Z",
+  "fetched_at": "2026-09-18T08:23:43.062244646Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 113,
+    "stars": 114,
     "forks": 8,
     "description": "Integrate ChatGPT-style LLMs into Neovim: ask questions, keep multi-file context, pull diagnostics / command output, and chat without leaving your editor. Highly configurable, async, lua-only plugin.",
     "license_spdx": "Apache-2.0",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "mozanunal",
       "account_created_at": "2015-07-21T19:42:15Z",
-      "other_repos_star_sum": 482
+      "other_repos_star_sum": 485
     },
     "has_ci": true,
     "has_tests": true,

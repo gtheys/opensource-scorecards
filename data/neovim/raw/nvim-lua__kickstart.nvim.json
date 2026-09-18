@@ -1,22 +1,22 @@
 {
   "slug": "nvim-lua/kickstart.nvim",
-  "fetched_at": "2026-08-29T10:16:17.477662037Z",
+  "fetched_at": "2026-09-18T08:28:51.590919125Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 31350,
-    "forks": 46674,
+    "stars": 31480,
+    "forks": 46564,
     "description": "A launch point for your personal nvim configuration",
     "license_spdx": "MIT",
-    "last_commit_at": "2026-08-07T15:44:41Z",
-    "commits_90d": 17,
+    "last_commit_at": "2026-09-14T14:52:52Z",
+    "commits_90d": 25,
     "releases_365d": 0,
-    "median_issue_close_days": 5.893449074074074,
-    "median_pr_close_days": 0.0011226851851851851,
-    "open_issues": 23,
-    "closed_issues_sampled": 9,
-    "contributors_12mo": 18,
-    "top_author_commit_share": 0.6470588235294118,
+    "median_issue_close_days": 118.46682291666667,
+    "median_pr_close_days": 0.01724537037037037,
+    "open_issues": 18,
+    "closed_issues_sampled": 10,
+    "contributors_12mo": 22,
+    "top_author_commit_share": 0.6504854368932039,
     "top_author": {
       "login": "oriori1703",
       "account_created_at": "2019-02-27T13:24:20Z",
@@ -24,6 +24,6 @@
     },
     "has_ci": true,
     "has_tests": false,
-    "readme_len": 12411
+    "readme_len": 12795
   }
 }

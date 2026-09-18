@@ -1,11 +1,11 @@
 {
   "slug": "sustech-data/neopyter",
-  "fetched_at": "2026-08-29T10:28:51.680090828Z",
+  "fetched_at": "2026-09-18T08:44:05.150191112Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 174,
-    "forks": 8,
+    "stars": 173,
+    "forks": 9,
     "description": "The  bridge between Neovim and Jupyterlab",
     "license_spdx": "BSD-3-Clause",
     "last_commit_at": "2026-05-20T13:59:25Z",
@@ -13,10 +13,10 @@
     "releases_365d": 1,
     "median_issue_close_days": 32.018171296296295,
     "median_pr_close_days": 0.1439351851851852,
-    "open_issues": 4,
+    "open_issues": 5,
     "closed_issues_sampled": 25,
     "contributors_12mo": 2,
-    "top_author_commit_share": 0.96,
+    "top_author_commit_share": 0.9583333333333334,
     "top_author": {
       "login": "AbaoFromCUG",
       "account_created_at": "2017-01-07T07:47:09Z",

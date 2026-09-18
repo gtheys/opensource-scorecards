@@ -1,6 +1,6 @@
 {
   "slug": "neur1n/hyphen.nvim",
-  "fetched_at": "2026-08-29T10:14:05.809499897Z",
+  "fetched_at": "2026-09-18T08:26:11.054695079Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "A Neovim plugin for showing TeX-style hyphenation breakpoints in text.",
     "license_spdx": "MulanPSL-2.0",
     "last_commit_at": "2026-06-15T14:36:42Z",
-    "commits_90d": 2,
+    "commits_90d": 0,
     "releases_365d": 0,
     "median_issue_close_days": null,
     "median_pr_close_days": null,

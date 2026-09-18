@@ -1,22 +1,22 @@
 {
   "slug": "silentium-theme/silentium.nvim",
-  "fetched_at": "2026-08-29T10:26:38.165388112Z",
+  "fetched_at": "2026-09-18T08:41:38.468899177Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 31,
+    "stars": 33,
     "forks": 3,
     "description": "Pragmatic, logical and monochrome theme for Neovim.",
     "license_spdx": "MIT",
-    "last_commit_at": "2026-08-05T04:55:10Z",
-    "commits_90d": 14,
+    "last_commit_at": "2026-09-03T08:07:37Z",
+    "commits_90d": 15,
     "releases_365d": 0,
-    "median_issue_close_days": 2.6063425925925925,
-    "median_pr_close_days": 0.0645949074074074,
-    "open_issues": 1,
-    "closed_issues_sampled": 3,
+    "median_issue_close_days": 2.8097916666666665,
+    "median_pr_close_days": 0.06886574074074074,
+    "open_issues": 0,
+    "closed_issues_sampled": 4,
     "contributors_12mo": 2,
-    "top_author_commit_share": 0.7380952380952381,
+    "top_author_commit_share": 0.7441860465116279,
     "top_author": {
       "login": "arkriny",
       "account_created_at": "2022-03-19T11:00:28Z",
@@ -24,6 +24,6 @@
     },
     "has_ci": false,
     "has_tests": false,
-    "readme_len": 3434
+    "readme_len": 3451
   }
 }

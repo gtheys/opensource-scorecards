@@ -1,15 +1,15 @@
 {
   "slug": "linrongbin16/gitlinker.nvim",
-  "fetched_at": "2026-08-29T10:06:47.844514840Z",
+  "fetched_at": "2026-09-18T08:17:36.740200881Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 284,
+    "stars": 282,
     "forks": 16,
     "description": "Maintained fork of ruifm's gitlinker, refactored with bug fixes, ssh aliases, blame support and other improvements.",
     "license_spdx": "GPL-3.0",
     "last_commit_at": "2026-06-07T04:37:50Z",
-    "commits_90d": 1,
+    "commits_90d": 0,
     "releases_365d": 4,
     "median_issue_close_days": 11.696805555555555,
     "median_pr_close_days": 0.060787037037037035,

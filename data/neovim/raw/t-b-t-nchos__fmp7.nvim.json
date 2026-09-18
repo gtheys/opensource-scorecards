@@ -1,6 +1,6 @@
 {
   "slug": "t-b-t-nchos/fmp7.nvim",
-  "fetched_at": "2026-08-29T10:29:14.721218875Z",
+  "fetched_at": "2026-09-18T08:44:30.999763880Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "A plugin to control FMP7 (Frequency Modulation Music Driver) from Neovim.",
     "license_spdx": "MIT",
     "last_commit_at": "2026-06-10T15:05:18Z",
-    "commits_90d": 2,
+    "commits_90d": 0,
     "releases_365d": 0,
     "median_issue_close_days": 1.1944560185185185,
     "median_pr_close_days": 1.0524305555555555,

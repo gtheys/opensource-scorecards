@@ -1,6 +1,6 @@
 {
   "slug": "negativo/nx-nvim",
-  "fetched_at": "2026-08-29T10:13:38.060213392Z",
+  "fetched_at": "2026-09-18T08:25:34.842441874Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "Neovim plugin for NX ",
     "license_spdx": "MIT",
     "last_commit_at": "2026-06-03T10:37:30Z",
-    "commits_90d": 4,
+    "commits_90d": 0,
     "releases_365d": 0,
     "median_issue_close_days": null,
     "median_pr_close_days": null,

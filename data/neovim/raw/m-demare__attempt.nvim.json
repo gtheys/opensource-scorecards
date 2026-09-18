@@ -1,6 +1,6 @@
 {
   "slug": "m-demare/attempt.nvim",
-  "fetched_at": "2026-08-29T10:08:08.454712880Z",
+  "fetched_at": "2026-09-18T08:19:05.265106869Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "Manage temporary buffers",
     "license_spdx": "MIT",
     "last_commit_at": "2026-06-05T19:19:58Z",
-    "commits_90d": 2,
+    "commits_90d": 0,
     "releases_365d": 0,
     "median_issue_close_days": 4.813645833333333,
     "median_pr_close_days": 0.8529050925925926,

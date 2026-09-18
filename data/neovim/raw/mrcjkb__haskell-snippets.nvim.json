@@ -1,6 +1,6 @@
 {
   "slug": "mrcjkb/haskell-snippets.nvim",
-  "fetched_at": "2026-08-29T10:12:21.417372249Z",
+  "fetched_at": "2026-09-18T08:23:59.940763972Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "mrcjkb",
       "account_created_at": "2015-06-12T07:36:11Z",
-      "other_repos_star_sum": 669
+      "other_repos_star_sum": 671
     },
     "has_ci": true,
     "has_tests": true,

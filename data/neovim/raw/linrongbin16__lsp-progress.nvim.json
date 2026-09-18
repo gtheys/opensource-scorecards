@@ -1,11 +1,11 @@
 {
   "slug": "linrongbin16/lsp-progress.nvim",
-  "fetched_at": "2026-08-29T10:06:53.529705852Z",
+  "fetched_at": "2026-09-18T08:17:42.463885718Z",
   "status": "ok",
   "data": {
     "archived": false,
     "stars": 238,
-    "forks": 7,
+    "forks": 8,
     "description": "A performant lsp progress status for Neovim.",
     "license_spdx": "MIT",
     "last_commit_at": "2026-02-02T05:06:52Z",

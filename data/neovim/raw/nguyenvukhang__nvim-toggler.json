@@ -1,10 +1,10 @@
 {
   "slug": "nguyenvukhang/nvim-toggler",
-  "fetched_at": "2026-08-29T10:14:20.421263891Z",
+  "fetched_at": "2026-09-18T08:26:26.460283836Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 202,
+    "stars": 203,
     "forks": 6,
     "description": "invert text in vim, purely with lua.",
     "license_spdx": "MIT",

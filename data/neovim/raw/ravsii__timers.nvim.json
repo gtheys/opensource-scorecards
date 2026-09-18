@@ -1,6 +1,6 @@
 {
   "slug": "ravsii/timers.nvim",
-  "fetched_at": "2026-08-29T10:21:40.252805008Z",
+  "fetched_at": "2026-09-18T08:35:36.832713796Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -10,7 +10,7 @@
     "license_spdx": "MIT",
     "last_commit_at": "2025-10-13T20:19:19Z",
     "commits_90d": 0,
-    "releases_365d": 10,
+    "releases_365d": 3,
     "median_issue_close_days": null,
     "median_pr_close_days": 0.0004166666666666667,
     "open_issues": 1,

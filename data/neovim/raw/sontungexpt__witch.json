@@ -1,10 +1,10 @@
 {
   "slug": "sontungexpt/witch",
-  "fetched_at": "2026-08-29T10:27:44.350383710Z",
+  "fetched_at": "2026-09-18T08:42:51.565178038Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 80,
+    "stars": 81,
     "forks": 2,
     "description": "The main theme for stinvim  Easy to use, easy to config, easy to extend.",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "sontungexpt",
       "account_created_at": "2021-10-07T12:47:27Z",
-      "other_repos_star_sum": 667
+      "other_repos_star_sum": 670
     },
     "has_ci": false,
     "has_tests": false,

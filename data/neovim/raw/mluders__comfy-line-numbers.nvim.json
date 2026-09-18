@@ -1,10 +1,10 @@
 {
   "slug": "mluders/comfy-line-numbers.nvim",
-  "fetched_at": "2026-08-29T10:11:26.553652033Z",
+  "fetched_at": "2026-09-18T08:22:54.695269990Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 141,
+    "stars": 145,
     "forks": 15,
     "description": "A Neovim plugin that makes vertical motions more comfortable",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "zachtheyek",
       "account_created_at": "2021-05-31T22:13:38Z",
-      "other_repos_star_sum": 29
+      "other_repos_star_sum": 31
     },
     "has_ci": false,
     "has_tests": true,

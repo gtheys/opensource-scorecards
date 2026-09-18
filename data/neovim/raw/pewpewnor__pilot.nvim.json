@@ -1,29 +1,29 @@
 {
   "slug": "pewpewnor/pilot.nvim",
-  "fetched_at": "2026-08-29T10:19:42.146775329Z",
+  "fetched_at": "2026-09-18T08:33:12.080201847Z",
   "status": "ok",
   "data": {
     "archived": false,
     "stars": 11,
     "forks": 1,
-    "description": "✈️ Run your projects and source files with command placeholders & without reloading",
+    "description": "✈️ Run projects, source files, and arbitrary shell commands with placeholders & without reloading",
     "license_spdx": "Apache-2.0",
-    "last_commit_at": "2026-08-19T14:59:21Z",
-    "commits_90d": 18,
+    "last_commit_at": "2026-09-16T05:57:45Z",
+    "commits_90d": 31,
     "releases_365d": 0,
     "median_issue_close_days": 16.072413194444447,
     "median_pr_close_days": 1.0049479166666666,
     "open_issues": 0,
     "closed_issues_sampled": 2,
     "contributors_12mo": 2,
-    "top_author_commit_share": 0.989247311827957,
+    "top_author_commit_share": 0.9905660377358491,
     "top_author": {
       "login": "pewpewnor",
       "account_created_at": "2023-02-16T09:01:16Z",
-      "other_repos_star_sum": 12
+      "other_repos_star_sum": 13
     },
     "has_ci": true,
     "has_tests": true,
-    "readme_len": 14480
+    "readme_len": 14736
   }
 }

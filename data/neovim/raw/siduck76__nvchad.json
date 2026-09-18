@@ -1,26 +1,26 @@
 {
   "slug": "siduck76/nvchad",
-  "fetched_at": "2026-08-29T10:26:34.205827692Z",
+  "fetched_at": "2026-09-18T08:41:34.754855951Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 28441,
-    "forks": 2234,
+    "stars": 28489,
+    "forks": 2220,
     "description": "Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.",
     "license_spdx": "GPL-3.0",
     "last_commit_at": "2026-07-03T12:44:30Z",
     "commits_90d": 1,
     "releases_365d": 0,
-    "median_issue_close_days": 0.17695601851851853,
+    "median_issue_close_days": 0.2164699074074074,
     "median_pr_close_days": 0.449525462962963,
     "open_issues": 3,
     "closed_issues_sampled": 35,
-    "contributors_12mo": 6,
-    "top_author_commit_share": 0.4444444444444444,
+    "contributors_12mo": 5,
+    "top_author_commit_share": 0.5,
     "top_author": {
       "login": "siduck",
       "account_created_at": "2019-12-19T15:48:42Z",
-      "other_repos_star_sum": 5232
+      "other_repos_star_sum": 5237
     },
     "has_ci": true,
     "has_tests": false,

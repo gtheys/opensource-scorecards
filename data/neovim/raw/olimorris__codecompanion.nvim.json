@@ -1,29 +1,29 @@
 {
   "slug": "olimorris/codecompanion.nvim",
-  "fetched_at": "2026-08-29T10:18:33.372938448Z",
+  "fetched_at": "2026-09-18T08:31:47.058068707Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 6827,
-    "forks": 448,
+    "stars": 6864,
+    "forks": 456,
     "description": "✨ AI Coding, Vim Style",
     "license_spdx": "Apache-2.0",
-    "last_commit_at": "2026-08-29T08:56:08Z",
-    "commits_90d": 114,
-    "releases_365d": 55,
-    "median_issue_close_days": 0.03333333333333333,
-    "median_pr_close_days": 0.017627314814814814,
-    "open_issues": 11,
-    "closed_issues_sampled": 13,
-    "contributors_12mo": 91,
-    "top_author_commit_share": 0.7465648854961832,
+    "last_commit_at": "2026-09-17T19:27:16Z",
+    "commits_90d": 119,
+    "releases_365d": 52,
+    "median_issue_close_days": 0.1424710648148148,
+    "median_pr_close_days": 0.02682291666666667,
+    "open_issues": 15,
+    "closed_issues_sampled": 8,
+    "contributors_12mo": 85,
+    "top_author_commit_share": 0.7451923076923077,
     "top_author": {
       "login": "olimorris",
       "account_created_at": "2014-11-02T11:41:08Z",
-      "other_repos_star_sum": 9404
+      "other_repos_star_sum": 9450
     },
     "has_ci": true,
     "has_tests": true,
-    "readme_len": 10437
+    "readme_len": 10683
   }
 }

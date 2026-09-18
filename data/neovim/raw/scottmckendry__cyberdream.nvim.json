@@ -1,26 +1,26 @@
 {
   "slug": "scottmckendry/cyberdream.nvim",
-  "fetched_at": "2026-08-29T10:25:45.738295301Z",
+  "fetched_at": "2026-09-18T08:40:36.284144872Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 1399,
-    "forks": 57,
+    "stars": 1403,
+    "forks": 58,
     "description": "🤖💤 High-contrast, Futuristic & Vibrant Neovim Colorscheme",
     "license_spdx": "MIT",
     "last_commit_at": "2026-08-19T08:44:46Z",
-    "commits_90d": 17,
+    "commits_90d": 15,
     "releases_365d": 3,
     "median_issue_close_days": 1.0630266203703704,
     "median_pr_close_days": 0.3426793981481482,
     "open_issues": 2,
     "closed_issues_sampled": 20,
-    "contributors_12mo": 11,
-    "top_author_commit_share": 0.75,
+    "contributors_12mo": 10,
+    "top_author_commit_share": 0.7454545454545455,
     "top_author": {
       "login": "scottmckendry",
       "account_created_at": "2018-05-21T09:15:43Z",
-      "other_repos_star_sum": 2144
+      "other_repos_star_sum": 2147
     },
     "has_ci": true,
     "has_tests": true,

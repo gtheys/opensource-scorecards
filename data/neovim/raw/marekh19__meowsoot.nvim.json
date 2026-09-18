@@ -1,15 +1,15 @@
 {
   "slug": "marekh19/meowsoot.nvim",
-  "fetched_at": "2026-08-29T10:08:39.444360639Z",
+  "fetched_at": "2026-09-18T08:19:39.507736699Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 34,
+    "stars": 37,
     "forks": 1,
     "description": "A pink–cyan–lavender Neovim colorscheme. Strings are yellow, functions are pink, types are lavender — and green never reaches code. Pure Lua, zero deps, 22 plugin integrations, AAA contrast. Matching Ghostty / Kitty / Alacritty / WezTerm / Tmux / Fish configs.",
     "license_spdx": "MIT",
     "last_commit_at": "2026-07-19T21:17:41Z",
-    "commits_90d": 12,
+    "commits_90d": 7,
     "releases_365d": 6,
     "median_issue_close_days": 3.0072916666666667,
     "median_pr_close_days": 0.004560185185185185,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "marekh19",
       "account_created_at": "2021-03-03T14:23:18Z",
-      "other_repos_star_sum": 54
+      "other_repos_star_sum": 57
     },
     "has_ci": true,
     "has_tests": false,

@@ -1,10 +1,10 @@
 {
   "slug": "nvim-telekasten/telekasten.nvim",
-  "fetched_at": "2026-08-29T10:16:52.247579133Z",
+  "fetched_at": "2026-09-18T08:29:41.039635299Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 1689,
+    "stars": 1690,
     "forks": 103,
     "description": "A Neovim (lua) plugin for working with a markdown zettelkasten / wiki and mixing it with a journal, based on telescope.nvim",
     "license_spdx": "MIT",
@@ -13,7 +13,7 @@
     "releases_365d": 0,
     "median_issue_close_days": 94.5505324074074,
     "median_pr_close_days": 4.392592592592592,
-    "open_issues": 66,
+    "open_issues": 65,
     "closed_issues_sampled": 19,
     "contributors_12mo": 10,
     "top_author_commit_share": 0.2682926829268293,
