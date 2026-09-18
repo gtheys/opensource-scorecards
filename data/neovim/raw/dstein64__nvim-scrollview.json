@@ -1,6 +1,6 @@
 {
   "slug": "dstein64/nvim-scrollview",
-  "fetched_at": "2026-09-17T08:58:08.981070432Z",
+  "fetched_at": "2026-09-18T07:12:38.722421417Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "dstein64",
       "account_created_at": "2010-12-30T07:02:09Z",
-      "other_repos_star_sum": 2063
+      "other_repos_star_sum": 2064
     },
     "has_ci": true,
     "has_tests": true,

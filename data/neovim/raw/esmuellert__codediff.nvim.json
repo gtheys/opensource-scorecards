@@ -1,10 +1,10 @@
 {
   "slug": "esmuellert/codediff.nvim",
-  "fetched_at": "2026-09-17T08:59:26.789876482Z",
+  "fetched_at": "2026-09-18T07:13:53.445971268Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 1560,
+    "stars": 1563,
     "forks": 92,
     "description": "Live code review for Neovim with VSCode style diffs",
     "license_spdx": "MIT",
@@ -13,14 +13,14 @@
     "releases_365d": 100,
     "median_issue_close_days": 40.56395833333333,
     "median_pr_close_days": 0.003836805555555556,
-    "open_issues": 69,
+    "open_issues": 70,
     "closed_issues_sampled": 20,
     "contributors_12mo": 33,
     "top_author_commit_share": 0.8064889918887601,
     "top_author": {
       "login": "esmuellert",
       "account_created_at": "2018-07-10T06:13:43Z",
-      "other_repos_star_sum": 1655
+      "other_repos_star_sum": 1658
     },
     "has_ci": true,
     "has_tests": true,

@@ -1,10 +1,10 @@
 {
   "slug": "backdround/tabscope.nvim",
-  "fetched_at": "2026-09-17T08:48:43.589704707Z",
+  "fetched_at": "2026-09-18T07:03:54.020502934Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 59,
+    "stars": 60,
     "forks": 3,
     "description": "Manages buffers as tab-local buffers!",
     "license_spdx": "MIT",

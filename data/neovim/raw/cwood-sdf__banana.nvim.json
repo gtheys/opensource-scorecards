@@ -1,10 +1,10 @@
 {
   "slug": "cwood-sdf/banana.nvim",
-  "fetched_at": "2026-09-17T08:54:49.959821196Z",
+  "fetched_at": "2026-09-18T07:09:35.083865964Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 157,
+    "stars": 158,
     "forks": 1,
     "description": "An html renderer for neovim plugin UIs",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "CWood-sdf",
       "account_created_at": "2022-01-25T01:20:35Z",
-      "other_repos_star_sum": 408
+      "other_repos_star_sum": 411
     },
     "has_ci": true,
     "has_tests": true,
