@@ -1,0 +1,29 @@
+{
+  "slug": "scott-the-programmer/vscode-devcontainers-herdr",
+  "fetched_at": "2026-09-15T08:15:18.676808017Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 10,
+    "forks": 3,
+    "description": "Herdr relay for agents running inside a dev container",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-14T01:18:13Z",
+    "commits_90d": 38,
+    "releases_365d": 7,
+    "median_issue_close_days": 0.07550925925925926,
+    "median_pr_close_days": 0.3420486111111111,
+    "open_issues": 0,
+    "closed_issues_sampled": 1,
+    "contributors_12mo": 4,
+    "top_author_commit_share": 0.7027027027027027,
+    "top_author": {
+      "login": "scott-the-programmer",
+      "account_created_at": "2016-05-07T06:43:28Z",
+      "other_repos_star_sum": 95
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 6352
+  }
+}

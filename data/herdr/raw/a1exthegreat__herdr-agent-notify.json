@@ -1,0 +1,29 @@
+{
+  "slug": "a1exthegreat/herdr-agent-notify",
+  "fetched_at": "2026-09-15T03:49:26.583969579Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 2,
+    "forks": 0,
+    "description": "Herdr plugin: desktop notifications when agents finish working, need confirmation, or go idle",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-15T16:11:24Z",
+    "commits_90d": 6,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "A1exthegreat",
+      "account_created_at": "2022-02-06T12:39:34Z",
+      "other_repos_star_sum": 5
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 6560
+  }
+}

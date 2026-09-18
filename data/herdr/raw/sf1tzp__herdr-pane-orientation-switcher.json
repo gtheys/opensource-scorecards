@@ -1,0 +1,29 @@
+{
+  "slug": "sf1tzp/herdr-pane-orientation-switcher",
+  "fetched_at": "2026-09-15T08:17:20.053405614Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 2,
+    "forks": 0,
+    "description": "Workflow Ergonomics for Split Panes in Herdr",
+    "license_spdx": null,
+    "last_commit_at": "2026-07-25T03:00:22Z",
+    "commits_90d": 4,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "sf1tzp",
+      "account_created_at": "2021-05-12T01:18:55Z",
+      "other_repos_star_sum": 17
+    },
+    "has_ci": false,
+    "has_tests": true,
+    "readme_len": 3580
+  }
+}

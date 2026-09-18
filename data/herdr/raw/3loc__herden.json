@@ -1,0 +1,29 @@
+{
+  "slug": "3loc/herden",
+  "fetched_at": "2026-09-15T03:48:01.140611228Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "Persistent coding-agent runtime with a native iOS console, built from herdr and Heeler, with secure pairing over SSH.",
+    "license_spdx": "Apache-2.0",
+    "last_commit_at": "2026-09-14T19:15:32Z",
+    "commits_90d": 997,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 33,
+    "top_author_commit_share": 0.6489468405215647,
+    "top_author": {
+      "login": "ZingerLittleBee",
+      "account_created_at": "2017-11-04T16:54:17Z",
+      "other_repos_star_sum": 1523
+    },
+    "has_ci": false,
+    "has_tests": true,
+    "readme_len": 12610
+  }
+}

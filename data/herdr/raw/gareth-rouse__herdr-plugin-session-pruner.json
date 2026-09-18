@@ -1,0 +1,25 @@
+{
+  "slug": "gareth-rouse/herdr-plugin-session-pruner",
+  "fetched_at": "2026-09-15T04:42:13.753397878Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "Herdr plugin: track workspace last-use, show the age in the Spaces sidebar, and keep cold workspaces out of the restored session",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-07T07:02:53Z",
+    "commits_90d": 3,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 7644
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "smeltery/mav",
+  "fetched_at": "2026-09-15T08:22:44.111618957Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1,
+    "forks": 0,
+    "description": "zed + herdr + cmux = 🧙",
+    "license_spdx": "NOASSERTION",
+    "last_commit_at": "2026-08-29T15:36:14Z",
+    "commits_90d": 1000,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.0012847222222222223,
+    "open_issues": 1,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "nicholasadamou",
+      "account_created_at": "2014-12-07T14:33:33Z",
+      "other_repos_star_sum": 214
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 3529
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "patricio0312rev/anyssh",
+  "fetched_at": "2026-09-15T07:55:29.023167440Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 7,
+    "forks": 1,
+    "description": "Open-source SSH client for iPhone and iPad: terminal, remote git and files, tmux and herdr. No backend, no telemetry.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-18T22:56:12Z",
+    "commits_90d": 1000,
+    "releases_365d": 1,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.00866898148148148,
+    "open_issues": 1,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "patricio0312rev",
+      "account_created_at": "2019-09-10T00:58:50Z",
+      "other_repos_star_sum": 97
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 5674
+  }
+}

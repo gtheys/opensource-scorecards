@@ -1,0 +1,29 @@
+{
+  "slug": "getpipher/cursor",
+  "fetched_at": "2026-09-15T04:43:17.664519772Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 1,
+    "description": "Focus-aware, customizable editor cursor for the pi coding agent — truecolor + Ghostty/tmux deep; tmux + cmux + herdr; static fallback.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-06T03:52:48Z",
+    "commits_90d": 47,
+    "releases_365d": 2,
+    "median_issue_close_days": 0.06128472222222222,
+    "median_pr_close_days": 0.001724537037037037,
+    "open_issues": 0,
+    "closed_issues_sampled": 1,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "rz1989s",
+      "account_created_at": "2021-11-25T04:12:01Z",
+      "other_repos_star_sum": 480
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 8944
+  }
+}

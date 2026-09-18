@@ -1,0 +1,29 @@
+{
+  "slug": "astwys/herdr-quick-prompt",
+  "fetched_at": "2026-09-15T04:03:43.130141900Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1,
+    "forks": 0,
+    "description": "A Herdr plugin to send predefined prompts to an agent pane",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-24T14:17:53Z",
+    "commits_90d": 1,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "astwys",
+      "account_created_at": "2014-04-25T08:20:26Z",
+      "other_repos_star_sum": 26
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 3757
+  }
+}

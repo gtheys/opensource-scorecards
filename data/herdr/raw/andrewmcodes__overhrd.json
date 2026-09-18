@@ -1,0 +1,29 @@
+{
+  "slug": "andrewmcodes/overhrd",
+  "fetched_at": "2026-09-15T03:59:04.450202055Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "A Procfile process manager for herdr users — a herdr-backed reimplementation of Overmind",
+    "license_spdx": "NOASSERTION",
+    "last_commit_at": "2026-07-24T06:18:55Z",
+    "commits_90d": 27,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 1,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "andrewmcodes",
+      "account_created_at": "2016-04-12T15:24:58Z",
+      "other_repos_star_sum": 448
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 12543
+  }
+}

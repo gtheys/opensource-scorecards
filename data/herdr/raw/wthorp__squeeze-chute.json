@@ -1,0 +1,29 @@
+{
+  "slug": "wthorp/squeeze-chute",
+  "fetched_at": "2026-09-15T09:53:23.469809811Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "Coordinate GitHub issues through isolated Herdr worktree teams",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-24T18:36:10Z",
+    "commits_90d": 9,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 2.3807175925925925,
+    "open_issues": 1,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "wthorp",
+      "account_created_at": "2011-08-13T03:32:37Z",
+      "other_repos_star_sum": 4
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 1990
+  }
+}

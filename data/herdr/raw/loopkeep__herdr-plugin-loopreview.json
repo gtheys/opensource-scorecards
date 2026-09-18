@@ -1,0 +1,29 @@
+{
+  "slug": "loopkeep/herdr-plugin-loopreview",
+  "fetched_at": "2026-09-15T06:23:44.424174708Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 1,
+    "description": "Herdr plugin for loopreview",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-07-23T17:54:59Z",
+    "commits_90d": 7,
+    "releases_365d": 3,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 1,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "nanopx",
+      "account_created_at": "2014-05-26T03:13:19Z",
+      "other_repos_star_sum": 52
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 12049
+  }
+}

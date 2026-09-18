@@ -1,0 +1,29 @@
+{
+  "slug": "royal-lobster/herdr-spinup",
+  "fetched_at": "2026-09-15T08:11:01.477225653Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1,
+    "forks": 0,
+    "description": "Start screen for every new herdr tab: pick a tool and it runs in that tab. Tools defined in JSON.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-04T17:01:43Z",
+    "commits_90d": 26,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "Royal-lobster",
+      "account_created_at": "2019-06-20T12:53:03Z",
+      "other_repos_star_sum": 312
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 2331
+  }
+}

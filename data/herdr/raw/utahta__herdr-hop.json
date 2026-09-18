@@ -1,0 +1,29 @@
+{
+  "slug": "utahta/herdr-hop",
+  "fetched_at": "2026-09-15T08:43:07.423931729Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "herdr plugin: hop to a repository, worktree or workspace from one popup",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-10T12:52:49Z",
+    "commits_90d": 17,
+    "releases_365d": 5,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.00203125,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "utahta",
+      "account_created_at": "2009-06-21T17:47:05Z",
+      "other_repos_star_sum": 1753
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 11883
+  }
+}

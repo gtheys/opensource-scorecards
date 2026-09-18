@@ -1,0 +1,29 @@
+{
+  "slug": "wilbeibi/herdr-catchup",
+  "fetched_at": "2026-09-15T09:51:13.521100490Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 8,
+    "forks": 1,
+    "description": "Cross-agent coding-session handoff for herdr: from a live pane, summarize, fork, or hand a Claude Code, Codex, Cursor, Cline, or OpenCode session to another agent.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-07T03:58:00Z",
+    "commits_90d": 7,
+    "releases_365d": 2,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "wilbeibi",
+      "account_created_at": "2011-03-09T05:56:12Z",
+      "other_repos_star_sum": 86
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 12220
+  }
+}

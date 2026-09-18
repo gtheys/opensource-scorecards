@@ -1,0 +1,29 @@
+{
+  "slug": "groeponline/herdr-plugins",
+  "fetched_at": "2026-09-15T05:47:19.929842306Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": null,
+    "license_spdx": null,
+    "last_commit_at": "2026-09-15T03:28:41Z",
+    "commits_90d": 31,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.03404513888888889,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 4,
+    "top_author_commit_share": 0.5161290322580645,
+    "top_author": {
+      "login": "ChefGroep",
+      "account_created_at": "2026-07-06T18:32:21Z",
+      "other_repos_star_sum": 0
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 0
+  }
+}

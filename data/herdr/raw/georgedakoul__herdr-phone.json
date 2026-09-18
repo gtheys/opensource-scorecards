@@ -1,0 +1,29 @@
+{
+  "slug": "georgedakoul/herdr-phone",
+  "fetched_at": "2026-09-15T04:42:53.101433600Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "A phone-sized web view of the Herdr session on your desktop",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-14T12:12:33Z",
+    "commits_90d": 43,
+    "releases_365d": 0,
+    "median_issue_close_days": 0.08780092592592592,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 1,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "georgedakoul",
+      "account_created_at": "2018-09-10T12:43:29Z",
+      "other_repos_star_sum": 0
+    },
+    "has_ci": false,
+    "has_tests": true,
+    "readme_len": 6508
+  }
+}

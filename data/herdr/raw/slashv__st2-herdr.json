@@ -1,0 +1,25 @@
+{
+  "slug": "slashv/st2-herdr",
+  "fetched_at": "2026-09-15T08:22:15.161359320Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "Herdr control plane integration for ST2 agent workspaces",
+    "license_spdx": null,
+    "last_commit_at": "2026-08-14T18:16:20Z",
+    "commits_90d": 5,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 1,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": true,
+    "readme_len": 6010
+  }
+}

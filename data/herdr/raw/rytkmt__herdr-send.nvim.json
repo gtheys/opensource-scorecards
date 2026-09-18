@@ -1,0 +1,25 @@
+{
+  "slug": "rytkmt/herdr-send.nvim",
+  "fetched_at": "2026-09-15T08:12:22.762258970Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "Neovim plugin to send file references and prompts to AI agents in the same herdr workspace. 同一 herdr ワークスペース内の AI エージェントに Neovim からファイル参照やプロンプトを送信するプラグイン",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-20T01:24:10Z",
+    "commits_90d": 7,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 4238
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "sazardev/herdr-pomodoro",
+  "fetched_at": "2026-09-15T08:14:30.135423001Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "Minimal, elegant, theme-adaptive Pomodoro timer plugin for Herdr",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-08T22:21:09Z",
+    "commits_90d": 6,
+    "releases_365d": 2,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "sazardev",
+      "account_created_at": "2020-06-02T01:27:24Z",
+      "other_repos_star_sum": 401
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 9338
+  }
+}

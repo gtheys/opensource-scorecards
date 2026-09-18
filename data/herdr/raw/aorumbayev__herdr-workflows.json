@@ -1,0 +1,29 @@
+{
+  "slug": "aorumbayev/herdr-workflows",
+  "fetched_at": "2026-09-15T04:01:21.524410463Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 20,
+    "forks": 0,
+    "description": "Declarative automation for repetitive steps in herdr",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-08T06:53:22Z",
+    "commits_90d": 58,
+    "releases_365d": 21,
+    "median_issue_close_days": 0.17006944444444444,
+    "median_pr_close_days": 0.030208333333333334,
+    "open_issues": 1,
+    "closed_issues_sampled": 15,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "aorumbayev",
+      "account_created_at": "2014-05-26T03:52:56Z",
+      "other_repos_star_sum": 1150
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 3173
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "maro114510/herdr-toggle-popup",
+  "fetched_at": "2026-09-15T06:29:35.152236988Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 8,
+    "forks": 1,
+    "description": "One-keybinding overlay popup shell plugin for the Herdr terminal",
+    "license_spdx": "Apache-2.0",
+    "last_commit_at": "2026-09-13T04:35:51Z",
+    "commits_90d": 64,
+    "releases_365d": 9,
+    "median_issue_close_days": 0.04113425925925926,
+    "median_pr_close_days": 0.0008217592592592593,
+    "open_issues": 0,
+    "closed_issues_sampled": 21,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "maro114510",
+      "account_created_at": "2021-11-27T12:29:10Z",
+      "other_repos_star_sum": 10
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 2248
+  }
+}

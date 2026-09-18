@@ -1,0 +1,29 @@
+{
+  "slug": "neon-solutions/neon-herdr",
+  "fetched_at": "2026-09-15T06:43:32.769604538Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 10,
+    "forks": 1,
+    "description": "The official Neon Herdr Plugin",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-06T19:10:32Z",
+    "commits_90d": 8,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.0052430555555555555,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 2,
+    "top_author_commit_share": 0.875,
+    "top_author": {
+      "login": "mezotv",
+      "account_created_at": "2020-07-29T09:30:00Z",
+      "other_repos_star_sum": 405
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 16521
+  }
+}

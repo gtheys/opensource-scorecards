@@ -1,0 +1,29 @@
+{
+  "slug": "vekexasia/pi-extensible-workflows",
+  "fetched_at": "2026-09-15T08:44:20.890582539Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 218,
+    "forks": 24,
+    "description": "Deterministic multi-agent workflow orchestration for Pi",
+    "license_spdx": null,
+    "last_commit_at": "2026-09-10T11:14:59Z",
+    "commits_90d": 134,
+    "releases_365d": 22,
+    "median_issue_close_days": 0.6233217592592593,
+    "median_pr_close_days": 0.04842592592592593,
+    "open_issues": 12,
+    "closed_issues_sampled": 27,
+    "contributors_12mo": 3,
+    "top_author_commit_share": 0.9097744360902256,
+    "top_author": {
+      "login": "vekexasia",
+      "account_created_at": "2010-02-09T20:13:44Z",
+      "other_repos_star_sum": 2121
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 5003
+  }
+}

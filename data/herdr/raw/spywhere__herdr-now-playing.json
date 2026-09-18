@@ -1,0 +1,29 @@
+{
+  "slug": "spywhere/herdr-now-playing",
+  "fetched_at": "2026-09-15T08:25:31.399574494Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "Add music player with music control through key bindings to herdr",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-22T10:02:23Z",
+    "commits_90d": 26,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "spywhere",
+      "account_created_at": "2011-09-28T16:31:41Z",
+      "other_repos_star_sum": 711
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 15182
+  }
+}

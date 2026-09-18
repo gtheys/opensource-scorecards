@@ -1,0 +1,29 @@
+{
+  "slug": "edmnd-src/herdr-subagents",
+  "fetched_at": "2026-09-15T04:33:20.650427026Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1,
+    "forks": 0,
+    "description": "OpenCode plugin that launches subagents in named herdr multiplexor panes with auto-intercept, delegation tools, and dynamic grid layout",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-07-18T02:47:46Z",
+    "commits_90d": 2,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "EDMND-SRC",
+      "account_created_at": "2025-07-12T19:09:21Z",
+      "other_repos_star_sum": 1
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 6810
+  }
+}

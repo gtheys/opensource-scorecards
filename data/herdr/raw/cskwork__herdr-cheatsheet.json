@@ -1,0 +1,29 @@
+{
+  "slug": "cskwork/herdr-cheatsheet",
+  "fetched_at": "2026-09-15T04:22:21.833534603Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 3,
+    "forks": 0,
+    "description": "Single-page Herdr cheatsheet: keybindings, CLI, and an agent setup prompt. GitHub Pages landing.",
+    "license_spdx": null,
+    "last_commit_at": "2026-06-26T05:50:46Z",
+    "commits_90d": 2,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 2,
+    "top_author_commit_share": 0.5,
+    "top_author": {
+      "login": "csk917work-dev",
+      "account_created_at": "2025-07-30T13:08:38Z",
+      "other_repos_star_sum": 0
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 1929
+  }
+}

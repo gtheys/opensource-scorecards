@@ -1,0 +1,25 @@
+{
+  "slug": "nilm987521/herdr-load-worktree",
+  "fetched_at": "2026-09-15T06:45:38.716941877Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "把目前 repo 底下已存在、但尚未在 herdr 開成 workspace 的 git worktree 一鍵全部開啟。",
+    "license_spdx": null,
+    "last_commit_at": "2026-08-27T14:34:29Z",
+    "commits_90d": 6,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 2557
+  }
+}

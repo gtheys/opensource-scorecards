@@ -1,0 +1,29 @@
+{
+  "slug": "undivisible/herdr-gui",
+  "fetched_at": "2026-09-15T08:42:38.227844909Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 16,
+    "forks": 2,
+    "description": "a gui surface for herdr + more. built with crepuscular gpui.",
+    "license_spdx": "MPL-2.0",
+    "last_commit_at": "2026-07-27T03:43:59Z",
+    "commits_90d": 104,
+    "releases_365d": 11,
+    "median_issue_close_days": 0.4277662037037037,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 1,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "undivisible",
+      "account_created_at": "2023-06-12T07:58:06Z",
+      "other_repos_star_sum": 81
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 753
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "leoweigand/vsctask",
+  "fetched_at": "2026-09-15T06:20:30.671735581Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "Run VS Code tasks.json tasks outside VS Code, in a Herdr pane or a shell",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-31T15:10:44Z",
+    "commits_90d": 4,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "leoweigand",
+      "account_created_at": "2013-09-18T19:04:31Z",
+      "other_repos_star_sum": 29
+    },
+    "has_ci": false,
+    "has_tests": true,
+    "readme_len": 1728
+  }
+}

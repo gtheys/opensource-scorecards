@@ -1,0 +1,29 @@
+{
+  "slug": "persinac/agents-nexus",
+  "fetched_at": "2026-09-15T07:57:23.663459666Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 2,
+    "forks": 1,
+    "description": "Batteries-included toolkit for running fleets of AI coding agents on the herdr multiplexer — substrate, plugins, memory/observability, conductor missions, opt-in installer.",
+    "license_spdx": "Apache-2.0",
+    "last_commit_at": "2026-09-15T05:08:52Z",
+    "commits_90d": 351,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.0001851851851851852,
+    "open_issues": 3,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 3,
+    "top_author_commit_share": 0.6267806267806267,
+    "top_author": {
+      "login": "persinac",
+      "account_created_at": "2011-12-23T21:02:53Z",
+      "other_repos_star_sum": 12
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 20188
+  }
+}

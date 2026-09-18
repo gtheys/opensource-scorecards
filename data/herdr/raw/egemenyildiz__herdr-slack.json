@@ -1,0 +1,29 @@
+{
+  "slug": "egemenyildiz/herdr-slack",
+  "fetched_at": "2026-09-15T04:34:15.816530326Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "Drive your local herdr agents from Slack — browse, prompt, and launch from your phone. No tunnel.",
+    "license_spdx": "Apache-2.0",
+    "last_commit_at": "2026-08-19T17:43:35Z",
+    "commits_90d": 18,
+    "releases_365d": 2,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.07820601851851852,
+    "open_issues": 4,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "egemenyildiz",
+      "account_created_at": "2013-02-28T10:23:10Z",
+      "other_repos_star_sum": 13
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 10133
+  }
+}

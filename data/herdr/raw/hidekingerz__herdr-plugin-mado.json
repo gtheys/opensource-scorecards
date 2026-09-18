@@ -1,0 +1,29 @@
+{
+  "slug": "hidekingerz/herdr-plugin-mado",
+  "fetched_at": "2026-09-15T05:51:36.366291645Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "herdr plugins that open agent-written markdown in mado, a TUI viewer, beside the agent writing it",
+    "license_spdx": "Apache-2.0",
+    "last_commit_at": "2026-09-06T13:53:48Z",
+    "commits_90d": 38,
+    "releases_365d": 5,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.0008217592592592593,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 2,
+    "top_author_commit_share": 0.9736842105263158,
+    "top_author": {
+      "login": "hidekingerz",
+      "account_created_at": "2014-02-07T08:39:41Z",
+      "other_repos_star_sum": 3
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 8200
+  }
+}

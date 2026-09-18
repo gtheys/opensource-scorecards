@@ -1,0 +1,29 @@
+{
+  "slug": "rohanthewiz/herdr-web",
+  "fetched_at": "2026-09-15T08:09:42.004603943Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1,
+    "forks": 0,
+    "description": "A web client for herdr (alpha stage)",
+    "license_spdx": null,
+    "last_commit_at": "2026-07-22T21:51:32Z",
+    "commits_90d": 144,
+    "releases_365d": 1,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.0009837962962962962,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 2,
+    "top_author_commit_share": 0.9926470588235294,
+    "top_author": {
+      "login": "rohanallison",
+      "account_created_at": "2023-03-08T18:10:30Z",
+      "other_repos_star_sum": 0
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 6814
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "bradydibble/herdi",
+  "fetched_at": "2026-09-15T04:10:29.476558941Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "Herdi — private herdr remote client + relay (migrated off public fork)",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-06T20:26:38Z",
+    "commits_90d": 6,
+    "releases_365d": 2,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.0012152777777777778,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "bradydibble",
+      "account_created_at": "2015-06-08T03:31:05Z",
+      "other_repos_star_sum": 0
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 1991
+  }
+}

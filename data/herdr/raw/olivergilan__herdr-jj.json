@@ -1,0 +1,29 @@
+{
+  "slug": "olivergilan/herdr-jj",
+  "fetched_at": "2026-09-15T07:51:14.769648846Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 4,
+    "forks": 0,
+    "description": "Jujutsu workspace support for Herdr",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-12T21:52:19Z",
+    "commits_90d": 6,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 1,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "OliverGilan",
+      "account_created_at": "2015-04-23T21:14:23Z",
+      "other_repos_star_sum": 10
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 3935
+  }
+}

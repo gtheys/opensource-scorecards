@@ -1,0 +1,29 @@
+{
+  "slug": "jsutter909/corral",
+  "fetched_at": "2026-09-15T06:09:39.554409234Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 2,
+    "forks": 0,
+    "description": "Isolated AI-agent workspaces on top of herdr — one worktree, one workspace, one agent",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-07-10T21:40:54Z",
+    "commits_90d": 39,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.002332175925925926,
+    "open_issues": 1,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "jsutter909",
+      "account_created_at": "2016-08-15T17:36:16Z",
+      "other_repos_star_sum": 2
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 9082
+  }
+}

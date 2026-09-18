@@ -1,0 +1,29 @@
+{
+  "slug": "sina85/herdr-mobile",
+  "fetched_at": "2026-09-15T08:21:39.393361763Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "Password-protected, mobile-first Next.js control panel for a local Herdr terminal session, exposed via Cloudflare Tunnel + Access",
+    "license_spdx": null,
+    "last_commit_at": "2026-07-29T00:37:58Z",
+    "commits_90d": 35,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "sina85",
+      "account_created_at": "2021-09-28T00:45:10Z",
+      "other_repos_star_sum": 0
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 4104
+  }
+}

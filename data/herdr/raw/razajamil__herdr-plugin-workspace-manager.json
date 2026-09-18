@@ -1,0 +1,29 @@
+{
+  "slug": "razajamil/herdr-plugin-workspace-manager",
+  "fetched_at": "2026-09-15T08:05:48.809289130Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 40,
+    "forks": 6,
+    "description": "Declarative tab/pane layouts with per-workspace defaults applied automatically when a worktree is created.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-23T08:14:47Z",
+    "commits_90d": 25,
+    "releases_365d": 11,
+    "median_issue_close_days": 0.3141319444444444,
+    "median_pr_close_days": 3.2516550925925927,
+    "open_issues": 1,
+    "closed_issues_sampled": 1,
+    "contributors_12mo": 4,
+    "top_author_commit_share": 0.9032258064516129,
+    "top_author": {
+      "login": "razajamil",
+      "account_created_at": "2013-11-09T02:36:42Z",
+      "other_repos_star_sum": 45
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 32187
+  }
+}

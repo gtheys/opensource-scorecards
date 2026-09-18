@@ -1,0 +1,29 @@
+{
+  "slug": "hassox/herdr-kanban",
+  "fetched_at": "2026-09-15T05:49:43.464974642Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "Workspace panes as a kanban board.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-21T21:19:04Z",
+    "commits_90d": 1,
+    "releases_365d": 1,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "hassox",
+      "account_created_at": "2008-01-30T06:31:06Z",
+      "other_repos_star_sum": 881
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 4355
+  }
+}

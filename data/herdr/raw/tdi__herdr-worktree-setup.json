@@ -1,0 +1,29 @@
+{
+  "slug": "tdi/herdr-worktree-setup",
+  "fetched_at": "2026-09-15T08:31:02.548963364Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 25,
+    "forks": 3,
+    "description": "herdr plugin: run per-project setup steps when a worktree is created (copy .env from main, mise trust, direnv allow, install deps)",
+    "license_spdx": null,
+    "last_commit_at": "2026-09-11T09:09:46Z",
+    "commits_90d": 24,
+    "releases_365d": 2,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.8825115740740741,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 3,
+    "top_author_commit_share": 0.9166666666666666,
+    "top_author": {
+      "login": "tdi",
+      "account_created_at": "2010-08-26T12:35:12Z",
+      "other_repos_star_sum": 364
+    },
+    "has_ci": false,
+    "has_tests": true,
+    "readme_len": 3170
+  }
+}

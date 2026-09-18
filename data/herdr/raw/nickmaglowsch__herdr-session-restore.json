@@ -1,0 +1,29 @@
+{
+  "slug": "nickmaglowsch/herdr-session-restore",
+  "fetched_at": "2026-09-15T06:44:49.295106184Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1,
+    "forks": 0,
+    "description": null,
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-05-22T15:20:13Z",
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "nicholas-salgueiro-britecore",
+      "account_created_at": "2026-03-23T15:15:03Z",
+      "other_repos_star_sum": 0
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 2752
+  }
+}

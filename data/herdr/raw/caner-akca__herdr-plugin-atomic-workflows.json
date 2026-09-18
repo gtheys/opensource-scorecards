@@ -1,0 +1,29 @@
+{
+  "slug": "caner-akca/herdr-plugin-atomic-workflows",
+  "fetched_at": "2026-09-15T04:13:46.114862328Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "Herdr plugin: launch and monitor isolated Atomic workflow tasks — campaign board, sidebar tokens, run ledger, and an optional Telegram cockpit",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-29T17:31:24Z",
+    "commits_90d": 17,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "caner-akca",
+      "account_created_at": "2021-11-15T05:39:44Z",
+      "other_repos_star_sum": 0
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 8845
+  }
+}

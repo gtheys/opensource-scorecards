@@ -1,0 +1,29 @@
+{
+  "slug": "jovylle/herdr-pane-mark",
+  "fetched_at": "2026-09-15T06:08:58.981385659Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "Herdr plugin — custom $mark under Agents via palette/popup (no fork)",
+    "license_spdx": "NOASSERTION",
+    "last_commit_at": "2026-09-01T12:34:54Z",
+    "commits_90d": 2,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "jovylle",
+      "account_created_at": "2020-10-30T18:34:45Z",
+      "other_repos_star_sum": 12
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 3704
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "anrunt/herdr-pi-reloader",
+  "fetched_at": "2026-09-15T04:00:31.851562934Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1,
+    "forks": 0,
+    "description": "Reload or restart idle Pi agent sessions from a Herdr overlay TUI.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-07-18T20:06:23Z",
+    "commits_90d": 55,
+    "releases_365d": 3,
+    "median_issue_close_days": 1.0937152777777779,
+    "median_pr_close_days": 0.0001388888888888889,
+    "open_issues": 0,
+    "closed_issues_sampled": 1,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "anrunt",
+      "account_created_at": "2020-12-09T13:25:27Z",
+      "other_repos_star_sum": 4
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 3756
+  }
+}

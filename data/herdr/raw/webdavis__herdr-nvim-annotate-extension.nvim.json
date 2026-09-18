@@ -1,0 +1,29 @@
+{
+  "slug": "webdavis/herdr-nvim-annotate-extension.nvim",
+  "fetched_at": "2026-09-15T09:50:03.985350108Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1,
+    "forks": 0,
+    "description": "herdr-nvim extension: annotate the current line with its diagnostic and blame into the herdr-nvim comment store",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-07T04:58:44Z",
+    "commits_90d": 7,
+    "releases_365d": 1,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.012627314814814815,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "webdavis",
+      "account_created_at": "2016-11-18T11:20:56Z",
+      "other_repos_star_sum": 6
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 3863
+  }
+}

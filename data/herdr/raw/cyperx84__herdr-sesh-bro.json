@@ -1,0 +1,29 @@
+{
+  "slug": "cyperx84/herdr-sesh-bro",
+  "fetched_at": "2026-09-15T04:23:15.175100238Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 2,
+    "forks": 0,
+    "description": "sesh-style fuzzy session picker for Herdr — workspaces, agents, and zoxide dirs in one fzf popup with live previews",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-08T06:30:48Z",
+    "commits_90d": 57,
+    "releases_365d": 6,
+    "median_issue_close_days": 15.870324074074073,
+    "median_pr_close_days": 0.005555555555555556,
+    "open_issues": 0,
+    "closed_issues_sampled": 1,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "cyperx84",
+      "account_created_at": "2019-02-04T23:18:24Z",
+      "other_repos_star_sum": 46
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 21896
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "ra77a3l3-jar/herdnix",
+  "fetched_at": "2026-09-15T08:03:49.593652753Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 3,
+    "forks": 0,
+    "description": "herdr plugins and configuration module in Nix",
+    "license_spdx": null,
+    "last_commit_at": "2026-08-23T08:54:51Z",
+    "commits_90d": 22,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "Ra77a3l3-jar",
+      "account_created_at": "2024-07-12T14:58:16Z",
+      "other_repos_star_sum": 302
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 1036
+  }
+}

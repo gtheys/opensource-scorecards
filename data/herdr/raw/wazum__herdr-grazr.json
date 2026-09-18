@@ -1,0 +1,29 @@
+{
+  "slug": "wazum/herdr-grazr",
+  "fetched_at": "2026-09-15T09:49:38.117717145Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 3,
+    "forks": 0,
+    "description": "A simple and reliable auto account switcher for Claude Code: rotates to a fresh account before the 5-hour or weekly rate limit hits, so no pane ever stops at the usage quota. A Herdr plugin.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-13T07:50:28Z",
+    "commits_90d": 112,
+    "releases_365d": 8,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "wazum",
+      "account_created_at": "2009-10-30T10:50:00Z",
+      "other_repos_star_sum": 235
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 11412
+  }
+}

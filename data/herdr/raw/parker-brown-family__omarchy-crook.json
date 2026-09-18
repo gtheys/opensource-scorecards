@@ -1,0 +1,29 @@
+{
+  "slug": "parker-brown-family/omarchy-crook",
+  "fetched_at": "2026-09-15T07:55:06.095589188Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1,
+    "forks": 1,
+    "description": "Crook — which coding agent needs you, on the Omarchy bar. One icon that goes urgent the moment something is waiting on you, and a tray that says who.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-07T11:17:14Z",
+    "commits_90d": 19,
+    "releases_365d": 1,
+    "median_issue_close_days": 1.2993692129629628,
+    "median_pr_close_days": 0.2153877314814815,
+    "open_issues": 4,
+    "closed_issues_sampled": 4,
+    "contributors_12mo": 2,
+    "top_author_commit_share": 0.8421052631578947,
+    "top_author": {
+      "login": "parker-brown-family",
+      "account_created_at": "2026-03-11T14:28:58Z",
+      "other_repos_star_sum": 8
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 8216
+  }
+}

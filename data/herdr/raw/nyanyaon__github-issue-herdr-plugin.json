@@ -1,0 +1,29 @@
+{
+  "slug": "nyanyaon/github-issue-herdr-plugin",
+  "fetched_at": "2026-09-15T07:48:53.178278838Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "Claude Code plugin for herding GitHub issues",
+    "license_spdx": null,
+    "last_commit_at": "2026-07-27T21:17:27Z",
+    "commits_90d": 79,
+    "releases_365d": 0,
+    "median_issue_close_days": 0.20068287037037036,
+    "median_pr_close_days": 0.00015046296296296297,
+    "open_issues": 2,
+    "closed_issues_sampled": 23,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "nyanyaon",
+      "account_created_at": "2020-11-11T11:41:52Z",
+      "other_repos_star_sum": 0
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 8167
+  }
+}

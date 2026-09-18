@@ -1,0 +1,25 @@
+{
+  "slug": "machine-machine/ask-fable-skill",
+  "fetched_at": "2026-09-15T06:26:17.096523477Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1,
+    "forks": 1,
+    "description": "Hermes skill: delegate hyper-complex tasks to a Claude Code / Fable 5 worker inside herdr",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-06-11T20:46:33Z",
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 3581
+  }
+}

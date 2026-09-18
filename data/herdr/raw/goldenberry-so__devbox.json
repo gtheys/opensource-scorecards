@@ -1,0 +1,29 @@
+{
+  "slug": "goldenberry-so/devbox",
+  "fetched_at": "2026-09-15T05:46:19.201073233Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1,
+    "forks": 0,
+    "description": "One-command Hetzner dev box via Ansible. Your laptop can sleep, your agents don't.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-09T18:56:43Z",
+    "commits_90d": 7,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.0005092592592592592,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "PiXeL16",
+      "account_created_at": "2014-03-07T22:12:59Z",
+      "other_repos_star_sum": 2365
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 9083
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "ryonakae/shepherd",
+  "fetched_at": "2026-09-15T08:12:04.430806678Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 10,
+    "forks": 1,
+    "description": "Worker observability daemon and runtime bridges for Herdr-managed coding agents.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-28T10:45:29Z",
+    "commits_90d": 230,
+    "releases_365d": 6,
+    "median_issue_close_days": 21.014409722222222,
+    "median_pr_close_days": null,
+    "open_issues": 2,
+    "closed_issues_sampled": 1,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "ryonakae",
+      "account_created_at": "2013-11-23T15:56:45Z",
+      "other_repos_star_sum": 316
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 7142
+  }
+}

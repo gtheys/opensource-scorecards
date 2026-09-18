@@ -1,0 +1,29 @@
+{
+  "slug": "gabriel-cervo/pi-herdr-subagents",
+  "fetched_at": "2026-09-15T04:41:27.219429599Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "Native in-process subagents for Pi with configurable models and smart result joining",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-07-24T11:38:47Z",
+    "commits_90d": 19,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.00045138888888888887,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "Gabriel-Cervo",
+      "account_created_at": "2019-10-01T23:12:38Z",
+      "other_repos_star_sum": 8
+    },
+    "has_ci": false,
+    "has_tests": true,
+    "readme_len": 39664
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "sagmans/herdr-pickers",
+  "fetched_at": "2026-09-15T08:12:52.675553811Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1,
+    "forks": 0,
+    "description": "Several custom, pop-up pickers for agents, worktrees, workspaces and projects. ",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-10T11:01:53Z",
+    "commits_90d": 10,
+    "releases_365d": 3,
+    "median_issue_close_days": 0.9137962962962962,
+    "median_pr_close_days": 0.008599537037037037,
+    "open_issues": 0,
+    "closed_issues_sampled": 4,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "assagman",
+      "account_created_at": "2015-06-22T10:06:35Z",
+      "other_repos_star_sum": 38
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 13104
+  }
+}

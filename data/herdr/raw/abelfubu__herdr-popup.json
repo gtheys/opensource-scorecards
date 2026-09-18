@@ -1,0 +1,29 @@
+{
+  "slug": "abelfubu/herdr-popup",
+  "fetched_at": "2026-09-15T03:49:51.953007283Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "Generic Herdr popup pane plugin for ad-hoc shell commands",
+    "license_spdx": null,
+    "last_commit_at": "2026-08-21T11:38:47Z",
+    "commits_90d": 4,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "abel-delafuente-easor",
+      "account_created_at": "2026-04-16T09:21:29Z",
+      "other_repos_star_sum": 0
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 2447
+  }
+}

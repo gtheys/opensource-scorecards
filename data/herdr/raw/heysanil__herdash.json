@@ -1,0 +1,29 @@
+{
+  "slug": "heysanil/herdash",
+  "fetched_at": "2026-09-15T05:51:26.114321416Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "Terminal dashboard for herdr agent fleets: live agent status grouped by repo, with LLM-written summaries and an attention panel.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-01T04:37:09Z",
+    "commits_90d": 26,
+    "releases_365d": 2,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.00883101851851852,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "heysanil",
+      "account_created_at": "2014-01-08T04:06:42Z",
+      "other_repos_star_sum": 11
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 15078
+  }
+}

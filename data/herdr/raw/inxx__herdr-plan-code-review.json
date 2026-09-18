@@ -1,0 +1,29 @@
+{
+  "slug": "inxx/herdr-plan-code-review",
+  "fetched_at": "2026-09-15T05:57:58.954402739Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "herdr plugin: Opus plans, Sonnet codes, Claude+Codex review — one action opens the four agent panes",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-07-06T06:51:38Z",
+    "commits_90d": 10,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "inxx",
+      "account_created_at": "2012-09-10T03:25:23Z",
+      "other_repos_star_sum": 1
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 6935
+  }
+}

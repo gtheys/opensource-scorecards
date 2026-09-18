@@ -1,0 +1,29 @@
+{
+  "slug": "pi-dal/herdr-preview",
+  "fetched_at": "2026-09-15T07:58:52.971534871Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "A diff-first Herdr review pane with safe Files-only browsing, comments, and image previews.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-24T12:22:20Z",
+    "commits_90d": 206,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 21.191180555555555,
+    "open_issues": 2,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 6,
+    "top_author_commit_share": 0.9271844660194175,
+    "top_author": {
+      "login": "persiyanov",
+      "account_created_at": "2013-03-28T16:38:23Z",
+      "other_repos_star_sum": 806
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 11440
+  }
+}

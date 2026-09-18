@@ -1,0 +1,29 @@
+{
+  "slug": "phoobobo/herdr-traex-integration",
+  "fetched_at": "2026-09-15T07:58:39.464097595Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "Herdr plugin that supports traex integration",
+    "license_spdx": null,
+    "last_commit_at": "2026-07-02T03:30:24Z",
+    "commits_90d": 8,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "phoobobo-collab",
+      "account_created_at": "2026-04-10T04:05:25Z",
+      "other_repos_star_sum": 0
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 6948
+  }
+}

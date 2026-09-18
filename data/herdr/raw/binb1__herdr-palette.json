@@ -1,0 +1,29 @@
+{
+  "slug": "binb1/herdr-palette",
+  "fetched_at": "2026-09-15T04:07:49.458738867Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 2,
+    "forks": 0,
+    "description": "Command palette for Herdr. Jump to workspaces and agents, run plugin actions, run Herdr commands.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-03T02:18:02Z",
+    "commits_90d": 31,
+    "releases_365d": 3,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.0019965277777777776,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "Binb1",
+      "account_created_at": "2014-09-08T17:40:22Z",
+      "other_repos_star_sum": 19
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 4319
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "akmarwah03/pi-herdr-config",
+  "fetched_at": "2026-09-15T03:53:47.825181724Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "Portable pi coding-agent + Herdr config bootstrap",
+    "license_spdx": null,
+    "last_commit_at": "2026-08-07T06:48:07Z",
+    "commits_90d": 4,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "akmarwah03",
+      "account_created_at": "2021-02-09T02:31:25Z",
+      "other_repos_star_sum": 2
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 5223
+  }
+}

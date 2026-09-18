@@ -1,0 +1,29 @@
+{
+  "slug": "m2selfa/herdr-alias-setter",
+  "fetched_at": "2026-09-15T06:25:44.079774640Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "Herdr plugin: set pane name + agent alias (quick type-in or full menu)",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-21T07:57:09Z",
+    "commits_90d": 4,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "inter1965",
+      "account_created_at": "2011-04-18T04:25:32Z",
+      "other_repos_star_sum": 3
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 7984
+  }
+}

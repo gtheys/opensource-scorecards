@@ -1,0 +1,29 @@
+{
+  "slug": "barnuri/herdr-auto-update",
+  "fetched_at": "2026-09-15T04:05:49.904939172Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "Keep herdr always up to date — auto patch/minor/major updates with live handoff",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-09T12:27:14Z",
+    "commits_90d": 7,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "barnuri",
+      "account_created_at": "2015-06-23T15:16:28Z",
+      "other_repos_star_sum": 40
+    },
+    "has_ci": false,
+    "has_tests": true,
+    "readme_len": 2382
+  }
+}

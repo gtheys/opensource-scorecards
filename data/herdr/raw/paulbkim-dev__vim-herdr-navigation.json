@@ -1,0 +1,29 @@
+{
+  "slug": "paulbkim-dev/vim-herdr-navigation",
+  "fetched_at": "2026-09-15T07:55:45.081068629Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 107,
+    "forks": 13,
+    "description": "Seamless Ctrl+h/j/k/l navigation across herdr panes and Vim/Neovim splits — vim-tmux-navigator ported to herdr",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-23T03:33:52Z",
+    "commits_90d": 8,
+    "releases_365d": 1,
+    "median_issue_close_days": 0.9251157407407408,
+    "median_pr_close_days": 0.35077546296296297,
+    "open_issues": 6,
+    "closed_issues_sampled": 3,
+    "contributors_12mo": 2,
+    "top_author_commit_share": 0.875,
+    "top_author": {
+      "login": "paulbkim-dev",
+      "account_created_at": "2019-05-11T03:19:05Z",
+      "other_repos_star_sum": 107
+    },
+    "has_ci": false,
+    "has_tests": true,
+    "readme_len": 4688
+  }
+}

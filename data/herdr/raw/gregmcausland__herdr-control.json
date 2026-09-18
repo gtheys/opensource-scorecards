@@ -1,0 +1,29 @@
+{
+  "slug": "gregmcausland/herdr-control",
+  "fetched_at": "2026-09-15T05:47:05.790499059Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "A browser control and orchestration surface for Herdr panes",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-08T10:19:49Z",
+    "commits_90d": 44,
+    "releases_365d": 1,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "gregmcausland",
+      "account_created_at": "2011-05-30T15:05:28Z",
+      "other_repos_star_sum": 0
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 12605
+  }
+}

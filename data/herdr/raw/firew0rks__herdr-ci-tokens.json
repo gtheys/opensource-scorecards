@@ -1,0 +1,25 @@
+{
+  "slug": "firew0rks/herdr-ci-tokens",
+  "fetched_at": "2026-09-15T04:38:39.684874146Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "Show PR, CI and review status for every worktree in your herdr sidebar",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-25T22:45:35Z",
+    "commits_90d": 9,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 6489
+  }
+}

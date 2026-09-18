@@ -1,0 +1,29 @@
+{
+  "slug": "minhtran3124/brichan",
+  "fetched_at": "2026-09-15T06:35:41.508635898Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 5,
+    "forks": 0,
+    "description": "Repository-native AI Chief of Staff for Codex: bounded project work, Herdr agent orchestration, verified   outputs, and durable project memory.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-28T08:36:40Z",
+    "commits_90d": 167,
+    "releases_365d": 13,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.023599537037037037,
+    "open_issues": 2,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "minhtran3124",
+      "account_created_at": "2015-12-24T04:24:31Z",
+      "other_repos_star_sum": 16
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 9077
+  }
+}

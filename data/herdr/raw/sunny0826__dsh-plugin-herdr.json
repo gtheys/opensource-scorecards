@@ -1,0 +1,29 @@
+{
+  "slug": "sunny0826/dsh-plugin-herdr",
+  "fetched_at": "2026-09-15T08:27:28.263853939Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 2,
+    "forks": 0,
+    "description": "Herdr control-plane plugin for DeepSeek Harness (DSH): observe and drive Herdr — a terminal workspace manager for AI coding agents — from DSH sessions",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-25T03:50:22Z",
+    "commits_90d": 81,
+    "releases_365d": 1,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.007627314814814815,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "sunny0826",
+      "account_created_at": "2016-12-14T09:15:25Z",
+      "other_repos_star_sum": 97
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 1921
+  }
+}

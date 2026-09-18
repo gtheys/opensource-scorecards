@@ -1,0 +1,29 @@
+{
+  "slug": "shadowfax92/herdr-ferry",
+  "fetched_at": "2026-09-15T08:18:22.178237524Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1,
+    "forks": 0,
+    "description": "A native Rust popup for multi-moving live Herdr panes and tabs or merging workspaces.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-19T22:04:45Z",
+    "commits_90d": 9,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "shadowfax92",
+      "account_created_at": "2011-11-27T13:42:51Z",
+      "other_repos_star_sum": 375
+    },
+    "has_ci": false,
+    "has_tests": true,
+    "readme_len": 4641
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "bandoyer/swarm-forge-herdr",
+  "fetched_at": "2026-09-15T04:05:26.899119270Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "Disciplined AI agent swarms on herdr — a port of the swarm-forge philosophy",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-29T20:14:47Z",
+    "commits_90d": 132,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.009641203703703704,
+    "open_issues": 1,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "bandoyer",
+      "account_created_at": "2015-07-05T15:12:18Z",
+      "other_repos_star_sum": 2
+    },
+    "has_ci": false,
+    "has_tests": true,
+    "readme_len": 17848
+  }
+}

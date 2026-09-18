@@ -1,0 +1,29 @@
+{
+  "slug": "cxnmai/plexr",
+  "fetched_at": "2026-09-15T04:22:43.268047582Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "tmux but tui version inspired by herdr",
+    "license_spdx": "NOASSERTION",
+    "last_commit_at": "2026-06-20T13:32:09Z",
+    "commits_90d": 5,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "cxnmai",
+      "account_created_at": "2022-07-17T20:18:03Z",
+      "other_repos_star_sum": 4
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 3307
+  }
+}

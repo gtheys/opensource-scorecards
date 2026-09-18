@@ -1,0 +1,29 @@
+{
+  "slug": "luisgui1757/dotfiles",
+  "fetched_at": "2026-09-15T06:24:35.740771291Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "Cross-platform Rose Pine terminal/editor setup for Apple Silicon macOS, Linux, WSL2, and Windows: Neovim, Herdr, tmux/psmux, Starship, Ghostty, WezTerm, Windows Terminal, AeroSpace, zsh/PowerShell, lazygit, and CLI tooling. Nix on POSIX; chezmoi configs everywhere.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-07-26T07:43:40Z",
+    "commits_90d": 44,
+    "releases_365d": 8,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.17030092592592594,
+    "open_issues": 4,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "luisgui1757",
+      "account_created_at": "2023-07-17T08:35:28Z",
+      "other_repos_star_sum": 0
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 134293
+  }
+}

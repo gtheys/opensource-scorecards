@@ -1,0 +1,29 @@
+{
+  "slug": "0xthc/herdr-plugin-worktree-bootstrap",
+  "fetched_at": "2026-09-15T03:47:41.712360733Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "Seed new herdr worktrees with .env files and node_modules the moment they open",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-22T00:44:00Z",
+    "commits_90d": 3,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "0xthc",
+      "account_created_at": "2015-09-04T21:34:38Z",
+      "other_repos_star_sum": 1
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 3183
+  }
+}

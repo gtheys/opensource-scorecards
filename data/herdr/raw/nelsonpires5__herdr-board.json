@@ -1,0 +1,29 @@
+{
+  "slug": "nelsonpires5/herdr-board",
+  "fetched_at": "2026-09-15T06:43:12.594202406Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 129,
+    "forks": 13,
+    "description": "Kanban board for herdr — cards are prompts dispatched to AI agents in visible panes",
+    "license_spdx": null,
+    "last_commit_at": "2026-09-13T20:52:22Z",
+    "commits_90d": 410,
+    "releases_365d": 20,
+    "median_issue_close_days": 4.336909722222222,
+    "median_pr_close_days": 0.012453703703703703,
+    "open_issues": 7,
+    "closed_issues_sampled": 1,
+    "contributors_12mo": 3,
+    "top_author_commit_share": 0.9897260273972602,
+    "top_author": {
+      "login": "nelsonPires5",
+      "account_created_at": "2016-03-20T13:25:04Z",
+      "other_repos_star_sum": 132
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 15392
+  }
+}

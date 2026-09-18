@@ -1,0 +1,29 @@
+{
+  "slug": "iamhouser/herdr-claude-usage-multi",
+  "fetched_at": "2026-09-15T05:56:27.105689063Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 2,
+    "forks": 1,
+    "description": "Claude plan usage gauges in the Herdr sidebar - Session/Week %, color escalation, countdown to reset, multi-account via CLAUDE_CONFIG_DIR profiles",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-04T15:07:17Z",
+    "commits_90d": 5,
+    "releases_365d": 0,
+    "median_issue_close_days": 15.66119212962963,
+    "median_pr_close_days": 7.835625,
+    "open_issues": 0,
+    "closed_issues_sampled": 1,
+    "contributors_12mo": 2,
+    "top_author_commit_share": 0.8,
+    "top_author": {
+      "login": "iamhouser",
+      "account_created_at": "2022-05-31T19:27:16Z",
+      "other_repos_star_sum": 3
+    },
+    "has_ci": false,
+    "has_tests": true,
+    "readme_len": 5179
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "jeromychu23/herdr-popupx",
+  "fetched_at": "2026-09-15T06:04:38.833026417Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 3,
+    "forks": 1,
+    "description": "Persistent native floating scratch popups for Herdr.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-07-21T03:02:55Z",
+    "commits_90d": 24,
+    "releases_365d": 3,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.00012152777777777777,
+    "open_issues": 1,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "jeromychu23",
+      "account_created_at": "2022-07-22T14:59:26Z",
+      "other_repos_star_sum": 3
+    },
+    "has_ci": false,
+    "has_tests": true,
+    "readme_len": 8270
+  }
+}

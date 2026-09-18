@@ -1,0 +1,29 @@
+{
+  "slug": "shoaibkhanz/herdr-active-agent-jump",
+  "fetched_at": "2026-09-15T08:20:22.071358074Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "herdr plugin: cycle focus forward/backward through in-flight (working/blocked) agents in layout order — the vim-motion complement to attention-jump",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-07-12T12:21:47Z",
+    "commits_90d": 5,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "shoaibkhanz",
+      "account_created_at": "2014-03-13T18:07:11Z",
+      "other_repos_star_sum": 20
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 7218
+  }
+}

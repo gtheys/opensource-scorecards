@@ -1,0 +1,29 @@
+{
+  "slug": "spi-ca/pi-herdr-presence",
+  "fetched_at": "2026-09-15T08:25:02.491622490Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1,
+    "forks": 0,
+    "description": "pi-presence를 구현하는 herdr-side pi extension입니다.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-08T08:09:40Z",
+    "commits_90d": 65,
+    "releases_365d": 5,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.010167824074074074,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "spi-ca",
+      "account_created_at": "2015-08-25T09:12:36Z",
+      "other_repos_star_sum": 2
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 3944
+  }
+}

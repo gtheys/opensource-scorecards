@@ -1,0 +1,29 @@
+{
+  "slug": "didy-kpn/pi-herdr-taskforce",
+  "fetched_at": "2026-09-15T04:28:14.589197872Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "Async multi-agent taskforce for pi + Herdr (sqlite message box + pi extension + skill)",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-19T05:45:12Z",
+    "commits_90d": 6,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "didy-kpn",
+      "account_created_at": "2014-10-27T14:02:47Z",
+      "other_repos_star_sum": 1
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 6056
+  }
+}

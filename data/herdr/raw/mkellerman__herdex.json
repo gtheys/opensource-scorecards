@@ -1,0 +1,29 @@
+{
+  "slug": "mkellerman/herdex",
+  "fetched_at": "2026-09-15T06:36:53.343578038Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 2,
+    "forks": 2,
+    "description": "Herdex — a native VS Code client for Herdr: manage AI coding agents, workspaces, and their live state without leaving the editor (unofficial).",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-07-28T22:50:15Z",
+    "commits_90d": 25,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "mkellerman",
+      "account_created_at": "2014-10-27T03:55:59Z",
+      "other_repos_star_sum": 833
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 4936
+  }
+}

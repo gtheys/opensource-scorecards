@@ -1,0 +1,29 @@
+{
+  "slug": "jwarykowski/shepherd",
+  "fetched_at": "2026-09-15T06:10:48.945108601Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 3,
+    "forks": 0,
+    "description": "your todos herded",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-21T11:29:56Z",
+    "commits_90d": 52,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.0064988425925925925,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "jwarykowski",
+      "account_created_at": "2010-09-19T08:00:35Z",
+      "other_repos_star_sum": 76
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 24737
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "cdowell09/herdr-pr-board",
+  "fetched_at": "2026-09-15T04:15:23.288773593Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 4,
+    "forks": 2,
+    "description": "Configurable cross-repository GitHub pull request dashboard for Herdr",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-10T18:25:07Z",
+    "commits_90d": 90,
+    "releases_365d": 13,
+    "median_issue_close_days": 0.42769675925925926,
+    "median_pr_close_days": 0.0037847222222222223,
+    "open_issues": 8,
+    "closed_issues_sampled": 27,
+    "contributors_12mo": 2,
+    "top_author_commit_share": 0.9888888888888889,
+    "top_author": {
+      "login": "cdowell09",
+      "account_created_at": "2017-11-21T19:54:53Z",
+      "other_repos_star_sum": 5
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 7278
+  }
+}

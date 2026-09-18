@@ -1,0 +1,29 @@
+{
+  "slug": "ryanlewis/herdr-workspace-renamer",
+  "fetched_at": "2026-09-15T08:11:54.174595889Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1,
+    "forks": 0,
+    "description": "herdr plugin: syncs agent session names onto workspace labels",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-08T23:54:02Z",
+    "commits_90d": 19,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 1,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "ryanlewis",
+      "account_created_at": "2010-10-05T09:16:27Z",
+      "other_repos_star_sum": 71
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 6084
+  }
+}

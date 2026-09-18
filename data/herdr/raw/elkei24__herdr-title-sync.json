@@ -1,0 +1,29 @@
+{
+  "slug": "elkei24/herdr-title-sync",
+  "fetched_at": "2026-09-15T04:35:07.017550182Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "Herdr plugin: mirror each agent's terminal title onto its tab label",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-11T10:00:58Z",
+    "commits_90d": 11,
+    "releases_365d": 1,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.0017708333333333335,
+    "open_issues": 1,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "elKei24",
+      "account_created_at": "2015-06-26T10:18:24Z",
+      "other_repos_star_sum": 5
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 2112
+  }
+}

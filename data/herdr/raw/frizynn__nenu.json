@@ -1,0 +1,29 @@
+{
+  "slug": "frizynn/nenu",
+  "fetched_at": "2026-09-15T04:40:15.324413806Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 1,
+    "description": "Self-hosted web workbench for supervising Herdr coding agents from desktop or phone.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-12T17:19:04Z",
+    "commits_90d": 548,
+    "releases_365d": 8,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.002164351851851852,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 34,
+    "top_author_commit_share": 0.6684981684981685,
+    "top_author": {
+      "login": "AltanS",
+      "account_created_at": "2012-07-26T23:24:20Z",
+      "other_repos_star_sum": 986
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 7937
+  }
+}

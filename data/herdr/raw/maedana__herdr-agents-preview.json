@@ -1,0 +1,29 @@
+{
+  "slug": "maedana/herdr-agents-preview",
+  "fetched_at": "2026-09-15T06:26:52.687061908Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1,
+    "forks": 0,
+    "description": "Multi-agent terminal preview dashboard",
+    "license_spdx": null,
+    "last_commit_at": "2026-08-14T22:45:33Z",
+    "commits_90d": 6,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "maedana",
+      "account_created_at": "2008-06-22T03:17:00Z",
+      "other_repos_star_sum": 92
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 1284
+  }
+}

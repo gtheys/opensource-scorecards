@@ -1,0 +1,29 @@
+{
+  "slug": "sebastiangmz/herdr-plus",
+  "fetched_at": "2026-09-15T08:16:20.676267592Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "Agent skill: teach AI coding agents to operate the Herdr terminal runtime and orchestrate sub-agents in Herdr spaces",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-07-11T09:37:39Z",
+    "commits_90d": 14,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.00003472222222222222,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "Sebastiangmz",
+      "account_created_at": "2024-03-12T16:13:14Z",
+      "other_repos_star_sum": 5
+    },
+    "has_ci": false,
+    "has_tests": true,
+    "readme_len": 4871
+  }
+}

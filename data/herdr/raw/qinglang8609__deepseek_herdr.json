@@ -1,0 +1,29 @@
+{
+  "slug": "qinglang8609/deepseek_herdr",
+  "fetched_at": "2026-09-15T08:02:15.594477622Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "多智能体总指挥插件（DeepSeek Harness 原生版） ——让 DeepSeek 高效打开并指挥一个 claude / opencode / codex 智能体团队，实时看到每个智能体在做什么，通过共享记忆与任务看板编排多人协作。",
+    "license_spdx": null,
+    "last_commit_at": "2026-08-30T08:47:21Z",
+    "commits_90d": 44,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "qinglang8609",
+      "account_created_at": "2018-01-14T11:08:43Z",
+      "other_repos_star_sum": 4
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 9005
+  }
+}

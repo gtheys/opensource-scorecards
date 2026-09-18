@@ -1,0 +1,29 @@
+{
+  "slug": "iagogfe/herdr-ai-memory",
+  "fetched_at": "2026-09-15T05:56:12.744384570Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "Herdr plugin: launch coding agents through ai-memory managed workstreams - cross-agent session continuity",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-07-24T05:04:39Z",
+    "commits_90d": 15,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "iagogfe",
+      "account_created_at": "2021-04-06T01:35:31Z",
+      "other_repos_star_sum": 40
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 4318
+  }
+}

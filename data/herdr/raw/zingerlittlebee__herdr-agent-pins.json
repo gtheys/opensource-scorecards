@@ -1,0 +1,29 @@
+{
+  "slug": "zingerlittlebee/herdr-agent-pins",
+  "fetched_at": "2026-09-15T10:01:41.766519270Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1,
+    "forks": 0,
+    "description": "Persistently pin Herdr agent sessions to the top of the Agents sidebar.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-24T04:30:21Z",
+    "commits_90d": 20,
+    "releases_365d": 0,
+    "median_issue_close_days": 0.06576388888888889,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 5,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "ZingerLittleBee",
+      "account_created_at": "2017-11-04T16:54:17Z",
+      "other_repos_star_sum": 1526
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 7651
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "brenzim/herdr-db",
+  "fetched_at": "2026-09-15T04:10:49.265931932Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "A Herdr plugin that wraps lazysql and provides connection discovery for your current project",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-27T19:43:35Z",
+    "commits_90d": 35,
+    "releases_365d": 0,
+    "median_issue_close_days": 1.8165277777777777,
+    "median_pr_close_days": 0.01574074074074074,
+    "open_issues": 10,
+    "closed_issues_sampled": 5,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "brenzim",
+      "account_created_at": "2014-05-26T16:36:50Z",
+      "other_repos_star_sum": 3
+    },
+    "has_ci": false,
+    "has_tests": true,
+    "readme_len": 3935
+  }
+}

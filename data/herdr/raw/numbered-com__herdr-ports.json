@@ -1,0 +1,29 @@
+{
+  "slug": "numbered-com/herdr-ports",
+  "fetched_at": "2026-09-15T07:48:31.888195366Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 3,
+    "forks": 2,
+    "description": "Surface active dev servers in herdr: a generic $ports badge on every Space running at least one TCP listener",
+    "license_spdx": null,
+    "last_commit_at": "2026-07-23T16:21:19Z",
+    "commits_90d": 17,
+    "releases_365d": 1,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 1,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "leo-cheron",
+      "account_created_at": "2010-09-28T10:24:07Z",
+      "other_repos_star_sum": 253
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 3107
+  }
+}

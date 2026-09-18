@@ -1,0 +1,29 @@
+{
+  "slug": "horn553/herdr-ntfy",
+  "fetched_at": "2026-09-15T05:53:18.218046934Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 8,
+    "forks": 2,
+    "description": "Minimal dependencies: jq, curl, and sh — send ntfy notifications when Herdr agents finish or get blocked.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-01T23:13:07Z",
+    "commits_90d": 7,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 1,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "horn553",
+      "account_created_at": "2018-02-13T14:00:00Z",
+      "other_repos_star_sum": 10
+    },
+    "has_ci": false,
+    "has_tests": true,
+    "readme_len": 3209
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "xlinx/herdr-auto-yes-sir",
+  "fetched_at": "2026-09-15T09:54:45.470498521Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 2,
+    "forks": 0,
+    "description": "herdr-auto-yes-sir for non blocked running when agent ask for approve; like codex.",
+    "license_spdx": null,
+    "last_commit_at": "2026-08-20T21:30:55Z",
+    "commits_90d": 3,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 8100
+  }
+}

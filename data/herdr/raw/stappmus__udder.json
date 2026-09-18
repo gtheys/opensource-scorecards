@@ -1,0 +1,29 @@
+{
+  "slug": "stappmus/udder",
+  "fetched_at": "2026-09-15T08:25:38.891252977Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 4,
+    "forks": 2,
+    "description": "See your Herdr agents in the Omarchy bar, get notified when one finishes, and jump straight back to it.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-23T21:49:19Z",
+    "commits_90d": 15,
+    "releases_365d": 0,
+    "median_issue_close_days": 0.15635416666666666,
+    "median_pr_close_days": 0.00003472222222222222,
+    "open_issues": 0,
+    "closed_issues_sampled": 1,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "stappmus",
+      "account_created_at": "2019-05-07T15:34:37Z",
+      "other_repos_star_sum": 249
+    },
+    "has_ci": false,
+    "has_tests": true,
+    "readme_len": 5901
+  }
+}

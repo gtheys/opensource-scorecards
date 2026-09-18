@@ -1,0 +1,29 @@
+{
+  "slug": "c1trusovo831/herdr-codex-team",
+  "fetched_at": "2026-09-15T04:12:39.174987826Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "Turn Herdr into a multi-team Codex development workspace with isolated Planner, Coder, and Reviewer agents.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-26T14:08:35Z",
+    "commits_90d": 8,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "C1TRuSovo831",
+      "account_created_at": "2026-06-03T05:56:59Z",
+      "other_repos_star_sum": 0
+    },
+    "has_ci": false,
+    "has_tests": true,
+    "readme_len": 6869
+  }
+}

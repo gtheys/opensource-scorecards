@@ -1,0 +1,29 @@
+{
+  "slug": "brooswit-factory/butchr",
+  "fetched_at": "2026-09-15T04:11:12.310484169Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 2,
+    "forks": 0,
+    "description": "The software factory: watches your Jira, runs herdr agents on active tickets, pushes updates to them over MCP",
+    "license_spdx": null,
+    "last_commit_at": "2026-09-14T01:31:13Z",
+    "commits_90d": 923,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.006996527777777778,
+    "open_issues": 2,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 3,
+    "top_author_commit_share": 0.5522222222222222,
+    "top_author": {
+      "login": "wroosbit",
+      "account_created_at": "2026-07-10T19:05:19Z",
+      "other_repos_star_sum": 0
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 5956
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "ivanarama/promptpilot",
+  "fetched_at": "2026-09-15T05:59:58.966060024Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 16,
+    "forks": 7,
+    "description": "Background task queue for Claude Code and other AI CLIs — web UI + Telegram bot",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-14T02:37:08Z",
+    "commits_90d": 157,
+    "releases_365d": 3,
+    "median_issue_close_days": 0.09836805555555556,
+    "median_pr_close_days": 0.0022511574074074074,
+    "open_issues": 2,
+    "closed_issues_sampled": 4,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "ivanarama",
+      "account_created_at": "2021-05-07T09:42:44Z",
+      "other_repos_star_sum": 188
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 133434
+  }
+}

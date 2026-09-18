@@ -1,0 +1,29 @@
+{
+  "slug": "dkarter/vellum",
+  "fetched_at": "2026-09-15T04:29:42.245540636Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "📜 fast, customizable menu for terminal multiplexers (like herdr and tmux)",
+    "license_spdx": null,
+    "last_commit_at": "2026-09-15T04:08:19Z",
+    "commits_90d": 55,
+    "releases_365d": 13,
+    "median_issue_close_days": 0.00003472222222222222,
+    "median_pr_close_days": 0.010428240740740741,
+    "open_issues": 13,
+    "closed_issues_sampled": 1,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "dkarter",
+      "account_created_at": "2011-01-07T12:45:45Z",
+      "other_repos_star_sum": 298
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 1414
+  }
+}

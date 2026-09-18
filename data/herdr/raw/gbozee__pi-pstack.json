@@ -1,0 +1,25 @@
+{
+  "slug": "gbozee/pi-pstack",
+  "fetched_at": "2026-09-15T04:42:29.389159918Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "Native Pi port of poteto/pstack with multi-model routing, pi-subagents, Herdr, and Intercom integration",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-29T10:42:14Z",
+    "commits_90d": 2,
+    "releases_365d": 1,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": true,
+    "readme_len": 6572
+  }
+}

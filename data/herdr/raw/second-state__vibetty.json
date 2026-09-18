@@ -1,0 +1,29 @@
+{
+  "slug": "second-state/vibetty",
+  "fetched_at": "2026-09-15T08:16:31.525113874Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 10,
+    "forks": 6,
+    "description": "Share a live AI agent terminal to smart hardware (vibekeys, vibewatch, etc.) over MQTT; can also be used as a Herdr plugin.",
+    "license_spdx": null,
+    "last_commit_at": "2026-08-17T12:24:22Z",
+    "commits_90d": 104,
+    "releases_365d": 16,
+    "median_issue_close_days": 26.97517361111111,
+    "median_pr_close_days": 0.01990740740740741,
+    "open_issues": 2,
+    "closed_issues_sampled": 1,
+    "contributors_12mo": 2,
+    "top_author_commit_share": 0.9669811320754716,
+    "top_author": {
+      "login": "L-jasmine",
+      "account_created_at": "2015-09-22T15:33:50Z",
+      "other_repos_star_sum": 7
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 7527
+  }
+}

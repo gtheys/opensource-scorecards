@@ -1,0 +1,29 @@
+{
+  "slug": "moneycaringcoder/herdr-pulse",
+  "fetched_at": "2026-09-15T06:37:55.620055754Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1,
+    "forks": 0,
+    "description": "Per-workspace agent activity history for herdr, rendered as a sidebar sparkline.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-28T14:56:26Z",
+    "commits_90d": 38,
+    "releases_365d": 2,
+    "median_issue_close_days": 0.1038425925925926,
+    "median_pr_close_days": 0.0009606481481481482,
+    "open_issues": 1,
+    "closed_issues_sampled": 19,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "moneycaringcoder",
+      "account_created_at": "2026-03-02T15:30:47Z",
+      "other_repos_star_sum": 13
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 32664
+  }
+}

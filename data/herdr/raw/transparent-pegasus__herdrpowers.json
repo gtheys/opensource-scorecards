@@ -1,0 +1,29 @@
+{
+  "slug": "transparent-pegasus/herdrpowers",
+  "fetched_at": "2026-09-15T08:39:54.503715033Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 11,
+    "forks": 0,
+    "description": "brings agentic superpowers to the pane-driven.",
+    "license_spdx": "Apache-2.0",
+    "last_commit_at": "2026-08-27T16:33:33Z",
+    "commits_90d": 39,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.0003530092592592593,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "transparent-pegasus",
+      "account_created_at": "2026-01-30T14:07:05Z",
+      "other_repos_star_sum": 52
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 14723
+  }
+}

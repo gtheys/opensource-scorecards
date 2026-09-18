@@ -1,0 +1,29 @@
+{
+  "slug": "jordanhawkes/herdr-metrics",
+  "fetched_at": "2026-09-15T06:08:19.396103204Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 1,
+    "description": "Context, session-token and account-limit metrics for Claude Code, Codex and TraeX in the Herdr sidebar. Maintained continuation of szrenwei/herdr-agent-metrics.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-22T18:09:57Z",
+    "commits_90d": 18,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 2,
+    "top_author_commit_share": 0.8333333333333334,
+    "top_author": {
+      "login": "jordanhawkes",
+      "account_created_at": "2019-03-22T16:03:57Z",
+      "other_repos_star_sum": 0
+    },
+    "has_ci": false,
+    "has_tests": true,
+    "readme_len": 6166
+  }
+}

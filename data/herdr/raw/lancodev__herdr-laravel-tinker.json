@@ -1,0 +1,29 @@
+{
+  "slug": "lancodev/herdr-laravel-tinker",
+  "fetched_at": "2026-09-15T06:18:58.634006827Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "Split-style Laravel tinker REPL for herdr — editor beside live results, as a pane or popup",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-07-16T13:18:17Z",
+    "commits_90d": 1,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "kylekanderson",
+      "account_created_at": "2016-12-29T19:40:24Z",
+      "other_repos_star_sum": 1
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 2534
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "lufs-audio/snuze",
+  "fetched_at": "2026-09-15T06:24:13.536746669Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "Agent alarm clock in Rust: set timers, watch Jules sessions and herdr pane states, listen for webhook signals, get woken up. No polling, so fewer wasted tokens.",
+    "license_spdx": "NOASSERTION",
+    "last_commit_at": "2026-08-24T16:33:38Z",
+    "commits_90d": 36,
+    "releases_365d": 0,
+    "median_issue_close_days": 1.4387905092592592,
+    "median_pr_close_days": 0.0059259259259259265,
+    "open_issues": 0,
+    "closed_issues_sampled": 2,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "danialrami",
+      "account_created_at": "2016-10-25T05:13:09Z",
+      "other_repos_star_sum": 5
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 2241
+  }
+}

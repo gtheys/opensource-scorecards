@@ -1,0 +1,29 @@
+{
+  "slug": "vladzima/herd",
+  "fetched_at": "2026-09-15T08:46:41.240085586Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 3,
+    "forks": 0,
+    "description": "Multi-agent coordinator for herdr: a head Claude Code agent that delegates tasks to worker agents (claude, codex, gemini, ...) in their own tabs",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-07-24T18:06:13Z",
+    "commits_90d": 1,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "vladzima",
+      "account_created_at": "2010-12-27T04:08:12Z",
+      "other_repos_star_sum": 200
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 3023
+  }
+}

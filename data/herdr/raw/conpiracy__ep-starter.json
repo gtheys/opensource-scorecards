@@ -1,0 +1,25 @@
+{
+  "slug": "conpiracy/ep-starter",
+  "fetched_at": "2026-09-15T04:20:52.383789354Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "Starter factory for Pi inside Herdr — agent multiplexer + minimal extensible coding harness.",
+    "license_spdx": null,
+    "last_commit_at": "2026-07-15T23:02:11Z",
+    "commits_90d": 9,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 5056
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "theaileverage/marionette",
+  "fetched_at": "2026-09-15T08:33:26.620899544Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "Persistent outcome-driven orchestration for Codex, Claude Code, and AGY agents in Herdr.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-14T13:51:31Z",
+    "commits_90d": 18,
+    "releases_365d": 10,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.0020949074074074073,
+    "open_issues": 10,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "imankeeth",
+      "account_created_at": "2015-03-20T08:26:10Z",
+      "other_repos_star_sum": 0
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 12469
+  }
+}

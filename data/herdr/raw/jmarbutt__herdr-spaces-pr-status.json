@@ -1,0 +1,29 @@
+{
+  "slug": "jmarbutt/herdr-spaces-pr-status",
+  "fetched_at": "2026-09-15T06:06:21.907562483Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1,
+    "forks": 2,
+    "description": "Show GitHub pull request status on herdr spaces, with a Conductor-style PR board",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-09T00:01:46Z",
+    "commits_90d": 27,
+    "releases_365d": 0,
+    "median_issue_close_days": 0.6463541666666667,
+    "median_pr_close_days": 0.6442013888888889,
+    "open_issues": 1,
+    "closed_issues_sampled": 1,
+    "contributors_12mo": 3,
+    "top_author_commit_share": 0.8888888888888888,
+    "top_author": {
+      "login": "jmarbutt",
+      "account_created_at": "2012-01-28T03:26:38Z",
+      "other_repos_star_sum": 40
+    },
+    "has_ci": false,
+    "has_tests": true,
+    "readme_len": 12141
+  }
+}

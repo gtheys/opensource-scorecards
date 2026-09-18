@@ -1,0 +1,29 @@
+{
+  "slug": "ugurtarlig/herdr-pane-picker",
+  "fetched_at": "2026-09-15T08:41:58.117758571Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1,
+    "forks": 1,
+    "description": "Pick a Herdr pane by typing its on-pane character hint",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-07-17T22:47:50Z",
+    "commits_90d": 8,
+    "releases_365d": 2,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 2,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "ugurtarlig",
+      "account_created_at": "2010-09-28T12:57:57Z",
+      "other_repos_star_sum": 4
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 5641
+  }
+}

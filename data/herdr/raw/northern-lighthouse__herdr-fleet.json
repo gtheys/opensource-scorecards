@@ -1,0 +1,29 @@
+{
+  "slug": "northern-lighthouse/herdr-fleet",
+  "fetched_at": "2026-09-15T07:47:52.662637779Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 5,
+    "forks": 0,
+    "description": "Manage a fleet of herdr machines over Tailscale: dashboard plugin, auto-discovery, capacity-aware agent dispatch, diskless workspaces",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-14T13:05:36Z",
+    "commits_90d": 2,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "Northern-Lighthouse",
+      "account_created_at": "2023-08-10T16:01:42Z",
+      "other_repos_star_sum": 6
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 9971
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "thuanlm215/herdr-grid",
+  "fetched_at": "2026-09-15T08:35:05.361925155Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 9,
+    "forks": 0,
+    "description": "Visual Herdr pane layout editor with drag-and-drop, new shells, reusable layouts, and sending panes across tabs and workspaces.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-12T14:40:47Z",
+    "commits_90d": 22,
+    "releases_365d": 9,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "thuanlm215",
+      "account_created_at": "2020-08-14T14:33:45Z",
+      "other_repos_star_sum": 15
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 8413
+  }
+}

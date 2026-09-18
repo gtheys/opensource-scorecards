@@ -1,0 +1,29 @@
+{
+  "slug": "smarzban/herdr-file-viewer",
+  "fetched_at": "2026-09-15T08:22:33.791604835Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 576,
+    "forks": 40,
+    "description": "A git-aware, read-only file viewer for herdr. Mouse friendly,  keyboard-driven TUI: tree + content pane with diffs, rendered markdown, and syntax highlighting.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-10T13:53:57Z",
+    "commits_90d": 433,
+    "releases_365d": 22,
+    "median_issue_close_days": 3.279837962962963,
+    "median_pr_close_days": 0.45165509259259257,
+    "open_issues": 22,
+    "closed_issues_sampled": 15,
+    "contributors_12mo": 10,
+    "top_author_commit_share": 0.9606481481481481,
+    "top_author": {
+      "login": "smarzban",
+      "account_created_at": "2015-06-03T20:51:44Z",
+      "other_repos_star_sum": 627
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 7672
+  }
+}

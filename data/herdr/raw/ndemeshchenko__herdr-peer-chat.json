@@ -1,0 +1,29 @@
+{
+  "slug": "ndemeshchenko/herdr-peer-chat",
+  "fetched_at": "2026-09-15T06:42:53.490556181Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1,
+    "forks": 0,
+    "description": "Let Claude Code and Codex hold a conversation with each other in one herdr tab",
+    "license_spdx": "NOASSERTION",
+    "last_commit_at": "2026-09-01T09:39:07Z",
+    "commits_90d": 2,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "ndemeshchenko",
+      "account_created_at": "2014-06-24T01:28:09Z",
+      "other_repos_star_sum": 6
+    },
+    "has_ci": false,
+    "has_tests": true,
+    "readme_len": 18053
+  }
+}

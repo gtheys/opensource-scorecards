@@ -1,0 +1,29 @@
+{
+  "slug": "rcosteira79/herdr-account-switch",
+  "fetched_at": "2026-09-15T08:06:01.374172049Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1,
+    "forks": 0,
+    "description": "Hot-swap Claude Code / Codex logins without re-authenticating. Overlay picker, cycle-to-next keybinding, and a per-pane account badge ($acct).",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-07T22:47:18Z",
+    "commits_90d": 37,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.00017361111111111112,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 2,
+    "top_author_commit_share": 0.972972972972973,
+    "top_author": {
+      "login": "rcosteira79",
+      "account_created_at": "2013-07-17T00:21:46Z",
+      "other_repos_star_sum": 178
+    },
+    "has_ci": false,
+    "has_tests": true,
+    "readme_len": 29343
+  }
+}

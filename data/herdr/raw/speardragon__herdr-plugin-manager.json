@@ -1,0 +1,29 @@
+{
+  "slug": "speardragon/herdr-plugin-manager",
+  "fetched_at": "2026-09-15T08:24:37.472399096Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 34,
+    "forks": 3,
+    "description": "Manage herdr plugins from a popup — install, update, enable/disable, uninstall, and browse the herdr-plugin marketplace. Recommended key: prefix+p",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-04T04:28:58Z",
+    "commits_90d": 23,
+    "releases_365d": 0,
+    "median_issue_close_days": 22.040555555555557,
+    "median_pr_close_days": 1.022511574074074,
+    "open_issues": 3,
+    "closed_issues_sampled": 3,
+    "contributors_12mo": 2,
+    "top_author_commit_share": 0.9565217391304348,
+    "top_author": {
+      "login": "speardragon",
+      "account_created_at": "2021-02-23T13:29:48Z",
+      "other_repos_star_sum": 77
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 15676
+  }
+}

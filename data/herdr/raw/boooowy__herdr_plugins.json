@@ -1,0 +1,29 @@
+{
+  "slug": "boooowy/herdr_plugins",
+  "fetched_at": "2026-09-15T04:09:59.331911962Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": null,
+    "license_spdx": null,
+    "last_commit_at": "2026-08-05T00:50:02Z",
+    "commits_90d": 109,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.0001388888888888889,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 2,
+    "top_author_commit_share": 0.8440366972477065,
+    "top_author": {
+      "login": "boooowy",
+      "account_created_at": "2013-03-16T06:46:15Z",
+      "other_repos_star_sum": 0
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 764
+  }
+}

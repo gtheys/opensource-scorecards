@@ -1,0 +1,29 @@
+{
+  "slug": "salkhalil/herdr-sessionizer",
+  "fetched_at": "2026-09-15T08:13:12.533082172Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 6,
+    "forks": 1,
+    "description": "tmux-sessionizer for herdr: fzf over open workspaces and zoxide directories, create-or-focus with template tabs",
+    "license_spdx": null,
+    "last_commit_at": "2026-07-27T10:14:04Z",
+    "commits_90d": 13,
+    "releases_365d": 0,
+    "median_issue_close_days": 0.32828703703703704,
+    "median_pr_close_days": 0.08755787037037037,
+    "open_issues": 0,
+    "closed_issues_sampled": 1,
+    "contributors_12mo": 2,
+    "top_author_commit_share": 0.9230769230769231,
+    "top_author": {
+      "login": "salkhalil",
+      "account_created_at": "2017-09-27T15:06:21Z",
+      "other_repos_star_sum": 34
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 3647
+  }
+}

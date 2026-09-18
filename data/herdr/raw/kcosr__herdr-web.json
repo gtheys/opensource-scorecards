@@ -1,0 +1,29 @@
+{
+  "slug": "kcosr/herdr-web",
+  "fetched_at": "2026-09-15T06:12:46.858387438Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 122,
+    "forks": 23,
+    "description": "Web-based client for https://herdr.dev/ terminal session manager",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-13T02:42:06Z",
+    "commits_90d": 312,
+    "releases_365d": 18,
+    "median_issue_close_days": 0.12001157407407408,
+    "median_pr_close_days": 0.04994212962962963,
+    "open_issues": 4,
+    "closed_issues_sampled": 7,
+    "contributors_12mo": 6,
+    "top_author_commit_share": 0.7037037037037037,
+    "top_author": {
+      "login": "kcosr",
+      "account_created_at": "2025-05-22T02:13:32Z",
+      "other_repos_star_sum": 680
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 20215
+  }
+}

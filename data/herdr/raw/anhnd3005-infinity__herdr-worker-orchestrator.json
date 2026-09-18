@@ -1,0 +1,29 @@
+{
+  "slug": "anhnd3005-infinity/herdr-worker-orchestrator",
+  "fetched_at": "2026-09-15T04:00:09.638774661Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 4,
+    "forks": 0,
+    "description": " Dispatch tasks to CLI agent workers (agy, codex, ...) via Herdr-managed panes with stateful   task tracking, worktree isolation & diff-based review. Dual plugin for Claude Code & Herdr.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-25T02:50:18Z",
+    "commits_90d": 40,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.0001273148148148148,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "anhnd3005-infinity",
+      "account_created_at": "2025-11-10T06:48:53Z",
+      "other_repos_star_sum": 4
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 4628
+  }
+}

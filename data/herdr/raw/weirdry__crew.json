@@ -1,0 +1,29 @@
+{
+  "slug": "weirdry/crew",
+  "fetched_at": "2026-09-15T09:50:10.916879173Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "Bounded multi-model collaboration skill for Herdr: a lead agent scopes, delegates to a different-model worker in a sibling pane, supervises, and reviews across bounded rounds.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-31T05:46:34Z",
+    "commits_90d": 24,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "weirdry",
+      "account_created_at": "2022-05-04T21:37:37Z",
+      "other_repos_star_sum": 1
+    },
+    "has_ci": false,
+    "has_tests": true,
+    "readme_len": 6612
+  }
+}

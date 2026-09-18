@@ -1,0 +1,25 @@
+{
+  "slug": "phoobobo/herdr-agent-config-manager",
+  "fetched_at": "2026-09-15T07:58:36.096574672Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 8,
+    "forks": 0,
+    "description": "Hybrid CLI + Herdr plugin for detecting and centrally managing agent skills, MCP, plugins, and hooks",
+    "license_spdx": null,
+    "last_commit_at": "2026-09-06T07:51:06Z",
+    "commits_90d": 10,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 6222
+  }
+}

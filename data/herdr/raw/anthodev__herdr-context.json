@@ -1,0 +1,29 @@
+{
+  "slug": "anthodev/herdr-context",
+  "fetched_at": "2026-09-15T04:00:36.891900478Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1,
+    "forks": 0,
+    "description": "Project context dock for herdr — file tree with git status and LLM conversation history, always at your agent's side",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-11T19:20:24Z",
+    "commits_90d": 38,
+    "releases_365d": 7,
+    "median_issue_close_days": 0.2991608796296297,
+    "median_pr_close_days": 0.002309027777777778,
+    "open_issues": 0,
+    "closed_issues_sampled": 26,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "Anthodev",
+      "account_created_at": "2012-05-28T08:42:50Z",
+      "other_repos_star_sum": 9
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 17507
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "dpulpeiro/omarchy-herdr-collie",
+  "fetched_at": "2026-09-15T04:31:28.818331784Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "Omarchy bar widget to monitor and control Collie over Tailscale",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-30T12:54:28Z",
+    "commits_90d": 13,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "dpulpeiro",
+      "account_created_at": "2020-12-20T19:26:22Z",
+      "other_repos_star_sum": 5
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 4363
+  }
+}

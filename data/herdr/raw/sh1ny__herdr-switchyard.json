@@ -1,0 +1,29 @@
+{
+  "slug": "sh1ny/herdr-switchyard",
+  "fetched_at": "2026-09-15T08:18:02.169307701Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1,
+    "forks": 0,
+    "description": "Human-gated Hermes + Herdr orchestration for isolated OMP coding workers, with Beads as the task ledger.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-07-22T16:36:29Z",
+    "commits_90d": 111,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 3,
+    "top_author_commit_share": 0.627906976744186,
+    "top_author": {
+      "login": "sh1ny",
+      "account_created_at": "2010-06-20T08:35:04Z",
+      "other_repos_star_sum": 45
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 12504
+  }
+}

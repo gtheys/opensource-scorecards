@@ -1,0 +1,29 @@
+{
+  "slug": "erwins-enkel/shepherd",
+  "fetched_at": "2026-09-15T04:36:14.160730641Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 20,
+    "forks": 1,
+    "description": "Shepherd — self-hosted mission control for interactive Claude Code (herdr + Bun + SvelteKit)",
+    "license_spdx": "NOASSERTION",
+    "last_commit_at": "2026-09-14T18:59:31Z",
+    "commits_90d": 897,
+    "releases_365d": 49,
+    "median_issue_close_days": 0.5914699074074075,
+    "median_pr_close_days": 0.048032407407407406,
+    "open_issues": 64,
+    "closed_issues_sampled": 21,
+    "contributors_12mo": 2,
+    "top_author_commit_share": 0.6644370122630993,
+    "top_author": {
+      "login": "scoop",
+      "account_created_at": "2008-02-20T16:50:26Z",
+      "other_repos_star_sum": 124
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 64953
+  }
+}

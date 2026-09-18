@@ -1,0 +1,29 @@
+{
+  "slug": "ntindle/herdr-resurrect",
+  "fetched_at": "2026-09-15T07:48:25.491211981Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 29,
+    "forks": 6,
+    "description": "tmux-resurrect for herdr — snapshot workspaces, tabs, panes, cwd, running programs and agents, and restore them after a crash or reboot.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-24T08:10:56Z",
+    "commits_90d": 9,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 30.016516203703702,
+    "open_issues": 6,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 2,
+    "top_author_commit_share": 0.5555555555555556,
+    "top_author": {
+      "login": "ntindle",
+      "account_created_at": "2014-09-20T19:29:38Z",
+      "other_repos_star_sum": 86
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 13326
+  }
+}

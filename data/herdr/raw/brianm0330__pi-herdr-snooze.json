@@ -1,0 +1,29 @@
+{
+  "slug": "brianm0330/pi-herdr-snooze",
+  "fetched_at": "2026-09-15T04:11:02.768138327Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "Toggle a forced Herdr agent lifecycle state (snooze) via /snooze and a keybind — agent-agnostic pi lifecycle helper",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-03T21:21:48Z",
+    "commits_90d": 1,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "BrianM0330",
+      "account_created_at": "2018-02-15T16:30:55Z",
+      "other_repos_star_sum": 5
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 2549
+  }
+}

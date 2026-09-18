@@ -1,0 +1,29 @@
+{
+  "slug": "okonomi/herdr-agent-queue",
+  "fetched_at": "2026-09-15T07:50:48.268678733Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": null,
+    "license_spdx": null,
+    "last_commit_at": "2026-08-14T14:32:14Z",
+    "commits_90d": 8,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "okonomi",
+      "account_created_at": "2009-04-16T07:57:53Z",
+      "other_repos_star_sum": 28
+    },
+    "has_ci": false,
+    "has_tests": true,
+    "readme_len": 4762
+  }
+}

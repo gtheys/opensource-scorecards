@@ -1,0 +1,25 @@
+{
+  "slug": "inonprince/herdr-counting-sheep",
+  "fetched_at": "2026-09-15T05:57:55.063682575Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "Live Space and Agent indexes for Herdr, with shortcuts for jumping to the last tab, Space, or Agent.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-03T21:08:18Z",
+    "commits_90d": 2,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 2579
+  }
+}

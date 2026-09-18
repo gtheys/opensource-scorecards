@@ -1,0 +1,29 @@
+{
+  "slug": "taeyoung96/herdr-dotfiles",
+  "fetched_at": "2026-09-15T08:28:58.099701516Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 6,
+    "forks": 0,
+    "description": "herdr config with modifier-only pane navigation, catppuccin theme, and all-workspace agent panel",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-07-24T03:49:17Z",
+    "commits_90d": 1,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "Taeyoung96",
+      "account_created_at": "2018-07-29T12:21:16Z",
+      "other_repos_star_sum": 2144
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 2766
+  }
+}

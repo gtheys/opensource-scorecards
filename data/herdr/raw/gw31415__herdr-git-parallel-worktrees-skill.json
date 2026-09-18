@@ -1,0 +1,29 @@
+{
+  "slug": "gw31415/herdr-git-parallel-worktrees-skill",
+  "fetched_at": "2026-09-15T05:47:47.484839958Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "Agent-neutral SKILL.md source for safe Herdr Git worktree allocation",
+    "license_spdx": null,
+    "last_commit_at": "2026-07-29T07:37:38Z",
+    "commits_90d": 5,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "gw31415",
+      "account_created_at": "2016-12-22T06:02:23Z",
+      "other_repos_star_sum": 116
+    },
+    "has_ci": false,
+    "has_tests": true,
+    "readme_len": 5786
+  }
+}

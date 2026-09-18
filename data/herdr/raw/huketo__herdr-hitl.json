@@ -1,0 +1,29 @@
+{
+  "slug": "huketo/herdr-hitl",
+  "fetched_at": "2026-09-15T05:54:36.431583641Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "Block a Herdr coding agent on a human decision, delivered to your phone over Telegram or Discord",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-09T11:40:38Z",
+    "commits_90d": 44,
+    "releases_365d": 10,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.004791666666666666,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "huketo",
+      "account_created_at": "2020-12-14T06:11:53Z",
+      "other_repos_star_sum": 7
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 17475
+  }
+}

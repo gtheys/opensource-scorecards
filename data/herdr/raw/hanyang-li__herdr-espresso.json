@@ -1,0 +1,29 @@
+{
+  "slug": "hanyang-li/herdr-espresso",
+  "fetched_at": "2026-09-15T05:48:28.321325053Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 4,
+    "forks": 0,
+    "description": "Keeps your MacBook awake even when the lid closed when agent is running",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-07-25T16:13:26Z",
+    "commits_90d": 39,
+    "releases_365d": 1,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.0003356481481481481,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "Hanyang-Li",
+      "account_created_at": "2020-01-23T04:26:43Z",
+      "other_repos_star_sum": 51
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 6166
+  }
+}

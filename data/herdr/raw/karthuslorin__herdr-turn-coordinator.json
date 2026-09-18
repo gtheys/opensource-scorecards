@@ -1,0 +1,29 @@
+{
+  "slug": "karthuslorin/herdr-turn-coordinator",
+  "fetched_at": "2026-09-15T06:12:05.111677131Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1,
+    "forks": 0,
+    "description": "Preserve interactive Herdr agent TUIs without model-driven status polling",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-04T00:12:51Z",
+    "commits_90d": 23,
+    "releases_365d": 1,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "KarthusLorin",
+      "account_created_at": "2016-07-05T04:27:55Z",
+      "other_repos_star_sum": 56
+    },
+    "has_ci": false,
+    "has_tests": true,
+    "readme_len": 9268
+  }
+}

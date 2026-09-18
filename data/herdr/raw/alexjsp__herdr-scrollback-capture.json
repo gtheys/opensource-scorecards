@@ -1,0 +1,29 @@
+{
+  "slug": "alexjsp/herdr-scrollback-capture",
+  "fetched_at": "2026-09-15T03:56:24.619520451Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1,
+    "forks": 0,
+    "description": "Herdr plugin that saves the focused pane's scrollback to your Desktop as HTML or text",
+    "license_spdx": null,
+    "last_commit_at": "2026-06-30T14:26:36Z",
+    "commits_90d": 1,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "alexjsp",
+      "account_created_at": "2009-10-12T09:42:41Z",
+      "other_repos_star_sum": 395
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 3084
+  }
+}

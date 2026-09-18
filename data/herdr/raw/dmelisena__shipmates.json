@@ -1,0 +1,29 @@
+{
+  "slug": "dmelisena/shipmates",
+  "fetched_at": "2026-09-15T04:30:14.392910233Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "Hermes plugin for out of the box kun chen herdr opencode firstmate experience",
+    "license_spdx": null,
+    "last_commit_at": "2026-07-03T10:10:47Z",
+    "commits_90d": 1,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "DMelisena",
+      "account_created_at": "2020-05-27T03:59:10Z",
+      "other_repos_star_sum": 2
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 416
+  }
+}

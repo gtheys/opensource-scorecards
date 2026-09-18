@@ -1,0 +1,29 @@
+{
+  "slug": "larryboineuq/pi-herdr-ui-bridge",
+  "fetched_at": "2026-09-15T06:19:09.287691857Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "Bridge Pi blocking UI prompts into Herdr's blocked agent state for desktop notifications.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-03T14:32:05Z",
+    "commits_90d": 1,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "larryboiNEUQ",
+      "account_created_at": "2021-11-04T08:36:11Z",
+      "other_repos_star_sum": 1
+    },
+    "has_ci": false,
+    "has_tests": true,
+    "readme_len": 1292
+  }
+}

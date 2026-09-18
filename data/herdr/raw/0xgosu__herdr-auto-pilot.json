@@ -1,0 +1,29 @@
+{
+  "slug": "0xgosu/herdr-auto-pilot",
+  "fetched_at": "2026-09-15T03:47:25.832572733Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 20,
+    "forks": 0,
+    "description": "A Herdr plugin that will automatically prompt the running AI Coding CLI on-behalf of you via Herdr API. The plugin has training mode which learn from your actions and also has guards to prevent dangerous/malicious actions to be performed. Once it has been trained with enough interaction you can let it run on Full-Self Prompting mode (FSP)",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-13T07:37:24Z",
+    "commits_90d": 524,
+    "releases_365d": 100,
+    "median_issue_close_days": 0.1274074074074074,
+    "median_pr_close_days": 0.00045138888888888887,
+    "open_issues": 2,
+    "closed_issues_sampled": 1,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "0xGosu",
+      "account_created_at": "2012-07-04T09:09:34Z",
+      "other_repos_star_sum": 42
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 92792
+  }
+}

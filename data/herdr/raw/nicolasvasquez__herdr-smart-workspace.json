@@ -1,0 +1,29 @@
+{
+  "slug": "nicolasvasquez/herdr-smart-workspace",
+  "fetched_at": "2026-09-15T06:44:57.574740907Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "Herdr plugin for quickly switching workspaces within a session or creating new ones from zoxide with an overlay fzf picker.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-07-02T16:45:47Z",
+    "commits_90d": 2,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "nicolasvasquez",
+      "account_created_at": "2016-03-30T16:45:51Z",
+      "other_repos_star_sum": 0
+    },
+    "has_ci": false,
+    "has_tests": true,
+    "readme_len": 1896
+  }
+}

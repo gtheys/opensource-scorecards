@@ -1,0 +1,29 @@
+{
+  "slug": "tjg184/herdr-worktree",
+  "fetched_at": "2026-09-15T08:36:50.435947367Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "Herdr worktree plugin that works with worktrunk and native worktrees",
+    "license_spdx": null,
+    "last_commit_at": "2026-09-11T15:02:49Z",
+    "commits_90d": 25,
+    "releases_365d": 4,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.056846064814814815,
+    "open_issues": 1,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "tjg184",
+      "account_created_at": "2012-07-28T18:20:01Z",
+      "other_repos_star_sum": 1
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 2001
+  }
+}

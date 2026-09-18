@@ -1,0 +1,29 @@
+{
+  "slug": "vjeantet/herdr-scratchpad",
+  "fetched_at": "2026-09-15T08:46:35.798174884Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 5,
+    "forks": 0,
+    "description": "One buffer per tab to prepare your prompt, one key to drop it to your agent's input box.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-31T19:39:48Z",
+    "commits_90d": 27,
+    "releases_365d": 4,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 2,
+    "top_author_commit_share": 0.9629629629629629,
+    "top_author": {
+      "login": "vjeantet",
+      "account_created_at": "2011-10-31T10:33:30Z",
+      "other_repos_star_sum": 3196
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 13295
+  }
+}

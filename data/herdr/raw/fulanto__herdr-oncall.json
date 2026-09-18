@@ -1,0 +1,29 @@
+{
+  "slug": "fulanto/herdr-oncall",
+  "fetched_at": "2026-09-15T04:40:33.991852094Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "Answer your coding agent's permission prompts from a floating macOS panel or Telegram — a Herdr plugin for Claude Code and Codex.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-14T07:28:36Z",
+    "commits_90d": 48,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "fulanto",
+      "account_created_at": "2013-02-21T14:37:53Z",
+      "other_repos_star_sum": 0
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 7676
+  }
+}

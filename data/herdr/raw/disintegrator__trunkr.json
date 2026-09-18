@@ -1,0 +1,29 @@
+{
+  "slug": "disintegrator/trunkr",
+  "fetched_at": "2026-09-15T04:29:08.904870407Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 2,
+    "forks": 0,
+    "description": "Herdr 🤝 Worktrunk",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-12T18:39:02Z",
+    "commits_90d": 5,
+    "releases_365d": 3,
+    "median_issue_close_days": 0.0396875,
+    "median_pr_close_days": 0.004050925925925926,
+    "open_issues": 0,
+    "closed_issues_sampled": 27,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "disintegrator",
+      "account_created_at": "2011-03-19T11:33:23Z",
+      "other_repos_star_sum": 116
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 3658
+  }
+}

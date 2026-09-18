@@ -1,0 +1,29 @@
+{
+  "slug": "j0urneyk/herdrctx",
+  "fetched_at": "2026-09-15T06:00:58.417712512Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 2,
+    "forks": 0,
+    "description": "Terminal UI for managing local Herdr sessions",
+    "license_spdx": null,
+    "last_commit_at": "2026-09-09T09:04:53Z",
+    "commits_90d": 11,
+    "releases_365d": 4,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 4.994988425925926,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "j0urneyk",
+      "account_created_at": "2020-03-27T20:42:54Z",
+      "other_repos_star_sum": 3
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 9635
+  }
+}

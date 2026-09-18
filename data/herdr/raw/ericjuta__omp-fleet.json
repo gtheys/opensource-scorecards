@@ -1,0 +1,29 @@
+{
+  "slug": "ericjuta/omp-fleet",
+  "fetched_at": "2026-09-15T04:36:08.060110376Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1,
+    "forks": 0,
+    "description": "Bounded Herdr supervisor control for Oh My Pi",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-28T11:12:19Z",
+    "commits_90d": 30,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "ericjuta",
+      "account_created_at": "2013-03-11T15:47:33Z",
+      "other_repos_star_sum": 52
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 28039
+  }
+}

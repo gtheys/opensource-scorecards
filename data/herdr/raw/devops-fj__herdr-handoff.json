@@ -1,0 +1,25 @@
+{
+  "slug": "devops-fj/herdr-handoff",
+  "fetched_at": "2026-09-15T04:27:38.429723847Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1,
+    "forks": 0,
+    "description": "Preview and securely hand off local working context between Herdr coding agents.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-21T10:39:53Z",
+    "commits_90d": 3,
+    "releases_365d": 3,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 3933
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "evancetesha/mini-code-factory",
+  "fetched_at": "2026-09-15T04:36:55.322827778Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1,
+    "forks": 0,
+    "description": "A deliberately small three-role SDLC software factory: OpenCode agents orchestrated through Herdr for persistent panes, agent state, and file-based handoffs.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-19T21:40:16Z",
+    "commits_90d": 12,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.011267361111111112,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "evancetesha",
+      "account_created_at": "2016-12-12T09:12:25Z",
+      "other_repos_star_sum": 1
+    },
+    "has_ci": false,
+    "has_tests": true,
+    "readme_len": 10847
+  }
+}

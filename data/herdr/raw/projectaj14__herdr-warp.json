@@ -1,0 +1,29 @@
+{
+  "slug": "projectaj14/herdr-warp",
+  "fetched_at": "2026-09-15T08:01:46.705965776Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 2,
+    "forks": 0,
+    "description": "A simple plugin which lets Herdr send notification via Warp. ",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-30T16:30:26Z",
+    "commits_90d": 6,
+    "releases_365d": 1,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 2,
+    "top_author_commit_share": 0.8333333333333334,
+    "top_author": {
+      "login": "ProjectAJ14",
+      "account_created_at": "2018-01-13T10:29:09Z",
+      "other_repos_star_sum": 84
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 20587
+  }
+}

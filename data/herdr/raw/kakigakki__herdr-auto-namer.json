@@ -1,0 +1,29 @@
+{
+  "slug": "kakigakki/herdr-auto-namer",
+  "fetched_at": "2026-09-15T06:11:28.287140271Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 4,
+    "forks": 2,
+    "description": "ChatGPT-style auto-naming for herdr: agents get their Claude session title, workspaces get their working directory",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-27T03:41:46Z",
+    "commits_90d": 15,
+    "releases_365d": 0,
+    "median_issue_close_days": 41.87340277777778,
+    "median_pr_close_days": 24.744890046296298,
+    "open_issues": 0,
+    "closed_issues_sampled": 2,
+    "contributors_12mo": 3,
+    "top_author_commit_share": 0.5454545454545454,
+    "top_author": {
+      "login": "sujal-wpc",
+      "account_created_at": "2026-03-30T04:19:48Z",
+      "other_repos_star_sum": 0
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 5358
+  }
+}

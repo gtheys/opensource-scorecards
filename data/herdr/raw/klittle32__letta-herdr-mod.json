@@ -1,0 +1,29 @@
+{
+  "slug": "klittle32/letta-herdr-mod",
+  "fetched_at": "2026-09-15T06:15:20.478642195Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 2,
+    "forks": 2,
+    "description": "Letta Code mod that reports semantic agent state to Herdr",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-23T16:16:39Z",
+    "commits_90d": 7,
+    "releases_365d": 1,
+    "median_issue_close_days": 0.006435185185185185,
+    "median_pr_close_days": 0.0011631944444444446,
+    "open_issues": 0,
+    "closed_issues_sampled": 1,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "klittle32",
+      "account_created_at": "2013-02-03T15:49:26Z",
+      "other_repos_star_sum": 21
+    },
+    "has_ci": false,
+    "has_tests": true,
+    "readme_len": 6232
+  }
+}

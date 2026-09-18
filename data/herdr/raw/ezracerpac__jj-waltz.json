@@ -1,0 +1,29 @@
+{
+  "slug": "ezracerpac/jj-waltz",
+  "fetched_at": "2026-09-15T04:37:27.410785079Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 8,
+    "forks": 1,
+    "description": "A Jujutsu workspace switcher inspired by Worktrunk",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-07T11:18:32Z",
+    "commits_90d": 54,
+    "releases_365d": 14,
+    "median_issue_close_days": 4.379126157407407,
+    "median_pr_close_days": 7.000104166666667,
+    "open_issues": 7,
+    "closed_issues_sampled": 2,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "EzraCerpac",
+      "account_created_at": "2019-02-06T10:46:22Z",
+      "other_repos_star_sum": 20
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 12805
+  }
+}

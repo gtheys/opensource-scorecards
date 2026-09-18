@@ -1,0 +1,29 @@
+{
+  "slug": "sh1ma/herdr-auto-title",
+  "fetched_at": "2026-09-15T08:17:54.908780626Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 51,
+    "forks": 4,
+    "description": "Automatically generate titles for herdr tabs from Claude Code and Codex conversations.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-11T10:56:55Z",
+    "commits_90d": 11,
+    "releases_365d": 0,
+    "median_issue_close_days": 0.62875,
+    "median_pr_close_days": 0.005300925925925926,
+    "open_issues": 1,
+    "closed_issues_sampled": 1,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "sh1ma",
+      "account_created_at": "2016-09-24T11:21:27Z",
+      "other_repos_star_sum": 359
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 5140
+  }
+}

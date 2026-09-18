@@ -1,0 +1,29 @@
+{
+  "slug": "lalanikarim/herdr-skills",
+  "fetched_at": "2026-09-15T06:18:36.128919926Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "Pi agent skills for herdr terminal workspace management",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-07-14T13:46:15Z",
+    "commits_90d": 3,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.0006944444444444445,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "lalanikarim",
+      "account_created_at": "2011-12-31T17:12:18Z",
+      "other_repos_star_sum": 275
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 1120
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "egriff38/effect-herdr",
+  "fetched_at": "2026-09-15T04:34:22.231256222Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1,
+    "forks": 0,
+    "description": "Typed Effect-TS SDK for the herdr terminal-native agent multiplexer",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-20T19:54:16Z",
+    "commits_90d": 33,
+    "releases_365d": 0,
+    "median_issue_close_days": 0.16095486111111112,
+    "median_pr_close_days": 20.077881944444446,
+    "open_issues": 3,
+    "closed_issues_sampled": 20,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "egriff38",
+      "account_created_at": "2014-02-08T23:06:11Z",
+      "other_repos_star_sum": 5
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 5055
+  }
+}

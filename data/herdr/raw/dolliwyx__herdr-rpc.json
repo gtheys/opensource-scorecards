@@ -1,0 +1,29 @@
+{
+  "slug": "dolliwyx/herdr-rpc",
+  "fetched_at": "2026-09-15T04:30:54.355486964Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "Discord RPC for Herdr",
+    "license_spdx": null,
+    "last_commit_at": "2026-08-23T13:40:56Z",
+    "commits_90d": 17,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.05869212962962963,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "Dolliwyx",
+      "account_created_at": "2018-01-12T13:32:39Z",
+      "other_repos_star_sum": 0
+    },
+    "has_ci": false,
+    "has_tests": true,
+    "readme_len": 7386
+  }
+}

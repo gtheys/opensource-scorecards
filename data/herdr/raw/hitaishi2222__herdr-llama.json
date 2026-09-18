@@ -1,0 +1,29 @@
+{
+  "slug": "hitaishi2222/herdr-llama",
+  "fetched_at": "2026-09-15T05:52:25.247378357Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "Control your llama-server from your fingertips.",
+    "license_spdx": null,
+    "last_commit_at": "2026-07-16T04:30:56Z",
+    "commits_90d": 11,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "hitaishi2222",
+      "account_created_at": "2018-04-10T09:16:41Z",
+      "other_repos_star_sum": 6
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 10967
+  }
+}

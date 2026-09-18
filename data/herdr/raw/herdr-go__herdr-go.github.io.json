@@ -1,0 +1,29 @@
+{
+  "slug": "herdr-go/herdr-go.github.io",
+  "fetched_at": "2026-09-15T05:50:46.521520540Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1,
+    "forks": 0,
+    "description": "Official website for HerdrGo, the mobile companion for Herdr coding agents",
+    "license_spdx": null,
+    "last_commit_at": "2026-08-28T08:32:18Z",
+    "commits_90d": 4,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "KKRainbow",
+      "account_created_at": "2013-10-11T15:19:12Z",
+      "other_repos_star_sum": 31
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 592
+  }
+}

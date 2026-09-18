@@ -1,0 +1,29 @@
+{
+  "slug": "usrivastava92/herdr-wakeup",
+  "fetched_at": "2026-09-15T08:43:01.838782905Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 2,
+    "forks": 0,
+    "description": "Herdr plugin that keeps macOS or Linux awake while Herdr-managed agents are working",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-07-15T18:02:48Z",
+    "commits_90d": 15,
+    "releases_365d": 1,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.0031539351851851854,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "usrivastava92",
+      "account_created_at": "2016-10-08T20:28:54Z",
+      "other_repos_star_sum": 37
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 11651
+  }
+}

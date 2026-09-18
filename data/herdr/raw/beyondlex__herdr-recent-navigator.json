@@ -1,0 +1,29 @@
+{
+  "slug": "beyondlex/herdr-recent-navigator",
+  "fetched_at": "2026-09-15T04:07:33.654899601Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 14,
+    "forks": 8,
+    "description": "MRU switching across recent workspaces, tabs, panes, and agents — like JetBrains's recent file — plus fuzzy search over any pane's content, fully keyboard-driven.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-12T00:08:54Z",
+    "commits_90d": 49,
+    "releases_365d": 11,
+    "median_issue_close_days": 0.3593460648148148,
+    "median_pr_close_days": 0.38772569444444444,
+    "open_issues": 0,
+    "closed_issues_sampled": 6,
+    "contributors_12mo": 5,
+    "top_author_commit_share": 0.8484848484848485,
+    "top_author": {
+      "login": "beyondlex",
+      "account_created_at": "2014-06-12T09:47:05Z",
+      "other_repos_star_sum": 32
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 9818
+  }
+}

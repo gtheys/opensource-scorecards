@@ -1,0 +1,29 @@
+{
+  "slug": "ivoryheart/herdr-world",
+  "fetched_at": "2026-09-15T06:00:35.484804650Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 14,
+    "forks": 1,
+    "description": "Herdr World — a multi-surface web experience for Herdr",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-05T23:53:03Z",
+    "commits_90d": 480,
+    "releases_365d": 6,
+    "median_issue_close_days": 4.871863425925926,
+    "median_pr_close_days": 0.006805555555555555,
+    "open_issues": 4,
+    "closed_issues_sampled": 1,
+    "contributors_12mo": 5,
+    "top_author_commit_share": 0.7561837455830389,
+    "top_author": {
+      "login": "IvoryHeart",
+      "account_created_at": "2015-03-31T08:48:03Z",
+      "other_repos_star_sum": 15
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 6762
+  }
+}

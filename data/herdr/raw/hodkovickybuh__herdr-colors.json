@@ -1,0 +1,29 @@
+{
+  "slug": "hodkovickybuh/herdr-colors",
+  "fetched_at": "2026-09-15T05:53:10.293226486Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "herdr fork with a scannable sidebar: per-workspace colors, auto color by project, red = agent needs you",
+    "license_spdx": "NOASSERTION",
+    "last_commit_at": "2026-08-05T06:03:54Z",
+    "commits_90d": 7,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.015023148148148148,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "hodkovickybuh",
+      "account_created_at": "2025-11-28T07:07:21Z",
+      "other_repos_star_sum": 6
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 1651
+  }
+}

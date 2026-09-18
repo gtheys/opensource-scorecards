@@ -1,0 +1,29 @@
+{
+  "slug": "skysilver1223/herdr-agent-harness",
+  "fetched_at": "2026-09-15T08:22:10.751059597Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1,
+    "forks": 0,
+    "description": "Agent/Skills-based Herdr harness for orchestrating Claude, Codex and AGY on Ubuntu/WSL",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-11T16:45:16Z",
+    "commits_90d": 47,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.0020717592592592593,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "skysilver1223",
+      "account_created_at": "2022-07-25T05:23:26Z",
+      "other_repos_star_sum": 3
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 59135
+  }
+}

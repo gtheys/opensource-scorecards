@@ -1,0 +1,25 @@
+{
+  "slug": "pasta-disaster/herdr-nook",
+  "fetched_at": "2026-09-15T07:55:11.467492322Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "Toggleable popup panel for herdr which persists the session across invocations",
+    "license_spdx": null,
+    "last_commit_at": "2026-09-03T06:21:18Z",
+    "commits_90d": 1,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 5876
+  }
+}

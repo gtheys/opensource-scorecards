@@ -1,0 +1,29 @@
+{
+  "slug": "dmytr0x/herdr-task-picker",
+  "fetched_at": "2026-09-15T04:30:32.550063992Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "A Herdr plugin that fuzzy-searches and runs built-in or custom go-task commands in the focused workspace",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-07-26T10:41:50Z",
+    "commits_90d": 3,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "dmytr0x",
+      "account_created_at": "2022-01-17T13:49:41Z",
+      "other_repos_star_sum": 3
+    },
+    "has_ci": false,
+    "has_tests": true,
+    "readme_len": 3147
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "eszanon/omarchy-herdr",
+  "fetched_at": "2026-09-15T04:36:40.986678545Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 2,
+    "forks": 0,
+    "description": "Shows Herdr coding agents in the Omarchy bar and flags the ones waiting on you.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-09T00:08:06Z",
+    "commits_90d": 2,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 1,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "eszanon",
+      "account_created_at": "2012-06-15T11:28:51Z",
+      "other_repos_star_sum": 5
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 3782
+  }
+}

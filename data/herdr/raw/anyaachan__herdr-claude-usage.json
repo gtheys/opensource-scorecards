@@ -1,0 +1,29 @@
+{
+  "slug": "anyaachan/herdr-claude-usage",
+  "fetched_at": "2026-09-15T04:00:44.079390106Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 2,
+    "forks": 0,
+    "description": "Global Claude Code plan usage in Herdr: tab-bar summary + popup dashboard. statusLine-powered, multi-account aware.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-01T17:39:57Z",
+    "commits_90d": 13,
+    "releases_365d": 1,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "anyaachan",
+      "account_created_at": "2019-07-31T16:18:09Z",
+      "other_repos_star_sum": 2
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 6588
+  }
+}

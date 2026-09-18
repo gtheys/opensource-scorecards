@@ -1,0 +1,29 @@
+{
+  "slug": "langtind/gren-herdr",
+  "fetched_at": "2026-09-15T06:19:02.892910021Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "A herdr plugin for creating, switching, and removing git worktrees via gren — with gren's post-create setup.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-02T17:43:03Z",
+    "commits_90d": 38,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.007766203703703704,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "langtind",
+      "account_created_at": "2009-05-30T22:52:43Z",
+      "other_repos_star_sum": 5
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 15414
+  }
+}

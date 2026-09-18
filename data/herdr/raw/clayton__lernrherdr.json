@@ -1,0 +1,29 @@
+{
+  "slug": "clayton/lernrherdr",
+  "fetched_at": "2026-09-15T04:18:54.018496529Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "Learn stock Herdr key chords and CLI commands.",
+    "license_spdx": null,
+    "last_commit_at": "2026-08-28T17:35:07Z",
+    "commits_90d": 8,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "clayton",
+      "account_created_at": "2008-04-10T22:14:54Z",
+      "other_repos_star_sum": 119
+    },
+    "has_ci": false,
+    "has_tests": true,
+    "readme_len": 992
+  }
+}

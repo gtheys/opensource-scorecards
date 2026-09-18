@@ -1,0 +1,29 @@
+{
+  "slug": "cupsadarius/herdr-pr-glance",
+  "fetched_at": "2026-09-15T04:22:32.851039554Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "Herdr plugin: the current branch's pull request, CI checks, reviews and stack at a glance",
+    "license_spdx": null,
+    "last_commit_at": "2026-09-08T15:00:54Z",
+    "commits_90d": 46,
+    "releases_365d": 3,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.007152777777777778,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "cupsadarius",
+      "account_created_at": "2014-01-05T18:29:19Z",
+      "other_repos_star_sum": 7
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 10189
+  }
+}

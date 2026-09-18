@@ -1,0 +1,29 @@
+{
+  "slug": "mackt/herdr-window-title",
+  "fetched_at": "2026-09-15T06:26:39.424468076Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 1,
+    "description": "Configurable outer-terminal title for herdr: template-driven, session-aware, with live agent state (blocked/done/working) indicator",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-03T08:59:03Z",
+    "commits_90d": 30,
+    "releases_365d": 3,
+    "median_issue_close_days": 0.03487847222222222,
+    "median_pr_close_days": null,
+    "open_issues": 1,
+    "closed_issues_sampled": 8,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "mackt",
+      "account_created_at": "2022-04-05T07:56:22Z",
+      "other_repos_star_sum": 67
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 6125
+  }
+}

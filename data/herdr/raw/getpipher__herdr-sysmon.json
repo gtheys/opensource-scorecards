@@ -1,0 +1,29 @@
+{
+  "slug": "getpipher/herdr-sysmon",
+  "fetched_at": "2026-09-15T04:43:22.223537579Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 7,
+    "forks": 1,
+    "description": "System metrics in the Herdr sidebar — CPU, memory, battery, network, disk, clock. A faithful port of a tmux-cpu/tmux-battery/tmux-online-status status bar into Herdr workspace tokens. macOS-first.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-07-26T01:00:16Z",
+    "commits_90d": 6,
+    "releases_365d": 2,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 3,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "rz1989s",
+      "account_created_at": "2021-11-25T04:12:01Z",
+      "other_repos_star_sum": 480
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 4543
+  }
+}

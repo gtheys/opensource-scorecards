@@ -1,0 +1,29 @@
+{
+  "slug": "j1nn0/herdr-plugin-sdk",
+  "fetched_at": "2026-09-15T06:01:09.664609674Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "Unofficial TypeScript SDK and toolkit for building, testing, and integrating Herdr plugins.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-15T03:48:50Z",
+    "commits_90d": 18,
+    "releases_365d": 1,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "j1nn0",
+      "account_created_at": "2012-05-23T02:00:03Z",
+      "other_repos_star_sum": 2
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 11490
+  }
+}

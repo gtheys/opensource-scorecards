@@ -1,0 +1,29 @@
+{
+  "slug": "x0d7x/herdr-fzf-url",
+  "fetched_at": "2026-09-15T09:54:09.831982830Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1,
+    "forks": 0,
+    "description": "Scan herdr terminal panes for URLs and interactively pick one with fzf",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-06-26T23:44:40Z",
+    "commits_90d": 1,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 1,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "x0d7x",
+      "account_created_at": "2020-12-11T13:06:19Z",
+      "other_repos_star_sum": 63
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 1889
+  }
+}

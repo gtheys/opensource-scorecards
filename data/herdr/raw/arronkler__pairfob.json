@@ -1,0 +1,29 @@
+{
+  "slug": "arronkler/pairfob",
+  "fetched_at": "2026-09-15T04:02:11.974757433Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 36,
+    "forks": 4,
+    "description": "The phone surface for Herdr. Codex, Claude, and Grok keep running on your computer; the phone opens those same live sessions. Pair once. The computer dials out — no inbound ports, no Tailscale.",
+    "license_spdx": "Apache-2.0",
+    "last_commit_at": "2026-09-11T01:43:35Z",
+    "commits_90d": 103,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 4,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "arronKler",
+      "account_created_at": "2015-03-12T03:59:52Z",
+      "other_repos_star_sum": 100
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 7146
+  }
+}

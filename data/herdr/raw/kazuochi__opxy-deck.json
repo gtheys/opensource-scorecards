@@ -1,0 +1,29 @@
+{
+  "slug": "kazuochi/opxy-deck",
+  "fetched_at": "2026-09-15T06:12:29.902071022Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "Turn a Teenage Engineering OP-XY into a physical control deck for AI coding agents (Claude Code, Codex, herdr) — dictation PTT, model/effort knobs, per-agent routing, JSON profiles with hot-reload",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-07-21T20:54:30Z",
+    "commits_90d": 51,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "kazuochi",
+      "account_created_at": "2011-05-17T22:28:08Z",
+      "other_repos_star_sum": 1
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 13643
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "lucasleon2107/herdr-claude-launcher",
+  "fetched_at": "2026-09-15T06:23:59.304073555Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "herdr plugin: open a new tab with Claude Code already running",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-03T09:38:38Z",
+    "commits_90d": 3,
+    "releases_365d": 2,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "lucasleon2107",
+      "account_created_at": "2013-05-30T05:02:39Z",
+      "other_repos_star_sum": 2
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 2535
+  }
+}

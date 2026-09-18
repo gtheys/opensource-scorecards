@@ -1,0 +1,29 @@
+{
+  "slug": "lenaertsjan/herdr-factory-demo",
+  "fetched_at": "2026-09-15T06:19:49.555269176Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "A small local-first task manager for end-to-end herdr-factory tests",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-08T14:07:01Z",
+    "commits_90d": 1,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 10,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "test22345",
+      "account_created_at": "2016-03-21T12:57:59Z",
+      "other_repos_star_sum": 0
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 885
+  }
+}

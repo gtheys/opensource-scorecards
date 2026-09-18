@@ -1,0 +1,29 @@
+{
+  "slug": "ablause/herdr-flutter",
+  "fetched_at": "2026-09-15T03:50:09.928241250Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 2,
+    "forks": 0,
+    "description": "A herdr sidebar to watch, hot reload and inspect a running Flutter app beside the coding agent.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-07-27T22:29:01Z",
+    "commits_90d": 30,
+    "releases_365d": 4,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.04640046296296296,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "ablause",
+      "account_created_at": "2019-01-08T18:43:19Z",
+      "other_repos_star_sum": 3
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 10495
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "rockheung/herdr-kaku-bell",
+  "fetched_at": "2026-09-15T08:09:09.844837722Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "에이전트가 손을 기다릴 때 kaku 탭에 점을 켠다 — herdr plugin",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-06T08:15:15Z",
+    "commits_90d": 8,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.0027314814814814814,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "Rockheung",
+      "account_created_at": "2016-11-18T01:24:52Z",
+      "other_repos_star_sum": 11
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 7256
+  }
+}

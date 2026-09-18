@@ -1,0 +1,29 @@
+{
+  "slug": "t0msilver/localvoxtral",
+  "fetched_at": "2026-09-15T08:28:41.739496812Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 55,
+    "forks": 9,
+    "description": "Talk to your coding agents by voice. Realtime, fully local macOS dictation that streams words as you speak and grounds LLM polishing in the exact Claude Code session under your cursor — Ghostty, iTerm2, Terminal.app, even a herdr pane. 100% on-device on Apple Silicon.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-08T22:26:37Z",
+    "commits_90d": 264,
+    "releases_365d": 24,
+    "median_issue_close_days": 15.964646990740741,
+    "median_pr_close_days": 0.04748263888888889,
+    "open_issues": 13,
+    "closed_issues_sampled": 2,
+    "contributors_12mo": 3,
+    "top_author_commit_share": 0.9939024390243902,
+    "top_author": {
+      "login": "T0mSIlver",
+      "account_created_at": "2017-12-18T21:16:06Z",
+      "other_repos_star_sum": 67
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 4620
+  }
+}

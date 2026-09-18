@@ -1,0 +1,29 @@
+{
+  "slug": "matheus3301/herdr-shortcut",
+  "fetched_at": "2026-09-15T06:30:39.681519101Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1,
+    "forks": 0,
+    "description": "Shortcut task picker and coding-agent launcher for Herdr",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-07-24T03:46:34Z",
+    "commits_90d": 6,
+    "releases_365d": 2,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 5,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "matheus3301",
+      "account_created_at": "2019-02-02T01:14:27Z",
+      "other_repos_star_sum": 39
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 18478
+  }
+}

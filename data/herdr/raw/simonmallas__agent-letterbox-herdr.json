@@ -1,0 +1,29 @@
+{
+  "slug": "simonmallas/agent-letterbox-herdr",
+  "fetched_at": "2026-09-15T08:21:24.081544416Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 2,
+    "forks": 0,
+    "description": "Agent-to-agent mail for multi-agent AI coding teams in Herdr — durable letters for coordination and team memory. Teach Claude Code, Codex, Gemini CLI or other terminal agents to use it.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-09T16:50:35Z",
+    "commits_90d": 94,
+    "releases_365d": 4,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "SimonMallas",
+      "account_created_at": "2018-10-06T12:28:14Z",
+      "other_repos_star_sum": 8
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 12914
+  }
+}

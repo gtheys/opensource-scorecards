@@ -1,0 +1,29 @@
+{
+  "slug": "pepperhorn/herdr-remote",
+  "fetched_at": "2026-09-15T07:56:58.209203827Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "Small remote dashboard for a running Herdr server",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-15T01:58:37Z",
+    "commits_90d": 7,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.0018865740740740742,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "pepperhorn",
+      "account_created_at": "2011-07-30T01:21:13Z",
+      "other_repos_star_sum": 3
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 4212
+  }
+}

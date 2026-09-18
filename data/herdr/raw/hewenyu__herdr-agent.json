@@ -1,0 +1,29 @@
+{
+  "slug": "hewenyu/herdr-agent",
+  "fetched_at": "2026-09-15T05:51:06.647605528Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1,
+    "forks": 0,
+    "description": "专门用于管理herdr 的agent，方便手机上沟通开发",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-15T02:25:21Z",
+    "commits_90d": 21,
+    "releases_365d": 4,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.011354166666666667,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "hewenyu",
+      "account_created_at": "2017-08-28T05:53:42Z",
+      "other_repos_star_sum": 18
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 30051
+  }
+}

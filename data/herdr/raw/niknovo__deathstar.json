@@ -1,0 +1,29 @@
+{
+  "slug": "niknovo/deathstar",
+  "fetched_at": "2026-09-15T06:45:25.369851984Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "Local-first observability dashboard for host memory pressure and OMP/Herdr sessions.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-07T09:15:23Z",
+    "commits_90d": 7,
+    "releases_365d": 1,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.00011574074074074075,
+    "open_issues": 1,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "NikNovo",
+      "account_created_at": "2021-09-30T21:49:14Z",
+      "other_repos_star_sum": 0
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 8563
+  }
+}

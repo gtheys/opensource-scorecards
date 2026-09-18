@@ -1,0 +1,29 @@
+{
+  "slug": "edxeth/pi-subagents",
+  "fetched_at": "2026-09-15T04:33:55.789665427Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 123,
+    "forks": 20,
+    "description": "Pi multi-agent framework for power users: background/foreground agents, sync/async coordination, fresh/forked context, child-to-parent messaging, orchestrator mode, supports tmux | cmux | ZelliJ | WezTerm | Herdr",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-14T21:10:12Z",
+    "commits_90d": 135,
+    "releases_365d": 42,
+    "median_issue_close_days": 2.103645833333333,
+    "median_pr_close_days": 2.1808391203703703,
+    "open_issues": 2,
+    "closed_issues_sampled": 10,
+    "contributors_12mo": 5,
+    "top_author_commit_share": 0.9722222222222222,
+    "top_author": {
+      "login": "edxeth",
+      "account_created_at": "2022-05-13T11:21:58Z",
+      "other_repos_star_sum": 357
+    },
+    "has_ci": false,
+    "has_tests": true,
+    "readme_len": 66015
+  }
+}

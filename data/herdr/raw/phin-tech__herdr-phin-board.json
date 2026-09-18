@@ -1,0 +1,29 @@
+{
+  "slug": "phin-tech/herdr-phin-board",
+  "fetched_at": "2026-09-15T07:58:21.594907914Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "Herdr plugin: a status board over your spaces — todo, in progress, waiting on someone, done, plus any status you invent. List or kanban.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-07-29T15:02:24Z",
+    "commits_90d": 44,
+    "releases_365d": 5,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.5306712962962963,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "sam-phinizy",
+      "account_created_at": "2021-04-29T14:56:17Z",
+      "other_repos_star_sum": 4
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 24373
+  }
+}

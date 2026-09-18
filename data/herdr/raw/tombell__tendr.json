@@ -1,0 +1,29 @@
+{
+  "slug": "tombell/tendr",
+  "fetched_at": "2026-09-15T08:38:40.954744826Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "Tendr is a Go CLI for declaratively managing local Herdr projects",
+    "license_spdx": "BSD-3-Clause",
+    "last_commit_at": "2026-09-05T21:38:46Z",
+    "commits_90d": 26,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 1.5185243055555555,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "tombell",
+      "account_created_at": "2009-09-21T00:00:31Z",
+      "other_repos_star_sum": 39
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 3664
+  }
+}

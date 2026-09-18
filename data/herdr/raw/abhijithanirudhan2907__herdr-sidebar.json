@@ -1,0 +1,29 @@
+{
+  "slug": "abhijithanirudhan2907/herdr-sidebar",
+  "fetched_at": "2026-09-15T03:49:58.341783593Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "herdr-sidebar fork with an in-pane editor (edit/save, live syntax highlight, undo/redo, find/replace). Fork of alexarthurs/herdr-sidebar (MIT).",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-05T16:59:28Z",
+    "commits_90d": 11,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "AbhijithAnirudhan2907",
+      "account_created_at": "2022-01-06T12:44:32Z",
+      "other_repos_star_sum": 0
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 7713
+  }
+}

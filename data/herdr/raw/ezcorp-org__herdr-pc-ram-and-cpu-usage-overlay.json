@@ -1,0 +1,29 @@
+{
+  "slug": "ezcorp-org/herdr-pc-ram-and-cpu-usage-overlay",
+  "fetched_at": "2026-09-15T04:37:23.093960601Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 18,
+    "forks": 5,
+    "description": "herdr plugin: live CPU/RAM usage per space (workspace), as a share of the whole machine",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-13T02:34:59Z",
+    "commits_90d": 74,
+    "releases_365d": 0,
+    "median_issue_close_days": 1.2238194444444443,
+    "median_pr_close_days": 0.07844907407407407,
+    "open_issues": 2,
+    "closed_issues_sampled": 3,
+    "contributors_12mo": 3,
+    "top_author_commit_share": 0.9722222222222222,
+    "top_author": {
+      "login": "EZArchy",
+      "account_created_at": "2026-05-04T13:06:12Z",
+      "other_repos_star_sum": 0
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 33210
+  }
+}

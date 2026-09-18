@@ -1,0 +1,29 @@
+{
+  "slug": "codingfragments/herdr-nav",
+  "fetched_at": "2026-09-15T04:19:57.046228113Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "herdr Workspaces and pane navigation, modern version of herdr-navigation with better preview support and new workspace template handling",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-27T11:55:05Z",
+    "commits_90d": 36,
+    "releases_365d": 2,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.0015393518518518519,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "leika",
+      "account_created_at": "2012-03-05T08:24:31Z",
+      "other_repos_star_sum": 1
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 5181
+  }
+}

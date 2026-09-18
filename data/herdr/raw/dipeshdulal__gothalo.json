@@ -1,0 +1,29 @@
+{
+  "slug": "dipeshdulal/gothalo",
+  "fetched_at": "2026-09-15T04:28:57.522584158Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 8,
+    "forks": 1,
+    "description": "A self-hosted mobile remote for Herdr — control your coding agents from your phone, over your own Tailscale network.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-12T07:39:58Z",
+    "commits_90d": 437,
+    "releases_365d": 1,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.180625,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 3,
+    "top_author_commit_share": 0.9336384439359268,
+    "top_author": {
+      "login": "dipeshdulal",
+      "account_created_at": "2014-07-18T14:07:53Z",
+      "other_repos_star_sum": 836
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 9753
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "aigorahub/herdr-lantern",
+  "fetched_at": "2026-09-15T03:53:02.802816497Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 63,
+    "forks": 4,
+    "description": "Lantern, by Elves. A Herdr plugin: the herd is in the field; Lantern illuminates who needs you and what they are working toward.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-06T00:02:11Z",
+    "commits_90d": 176,
+    "releases_365d": 16,
+    "median_issue_close_days": 6.296238425925926,
+    "median_pr_close_days": 0.019004629629629628,
+    "open_issues": 1,
+    "closed_issues_sampled": 4,
+    "contributors_12mo": 3,
+    "top_author_commit_share": 0.7702702702702703,
+    "top_author": {
+      "login": "john-aigora",
+      "account_created_at": "2019-05-29T14:55:49Z",
+      "other_repos_star_sum": 1
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 27776
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "altans/collie",
+  "fetched_at": "2026-09-15T03:57:26.163979263Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 974,
+    "forks": 131,
+    "description": "PWA to manage 🐑 herdr on the go. Tailnet accessible, push notifications, quick actions and more.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-14T20:45:33Z",
+    "commits_90d": 995,
+    "releases_365d": 68,
+    "median_issue_close_days": 1.6101273148148147,
+    "median_pr_close_days": 0.6944444444444444,
+    "open_issues": 8,
+    "closed_issues_sampled": 17,
+    "contributors_12mo": 34,
+    "top_author_commit_share": 0.890020366598778,
+    "top_author": {
+      "login": "AltanS",
+      "account_created_at": "2012-07-26T23:24:20Z",
+      "other_repos_star_sum": 985
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 20166
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "corygforsythe/herdr-flight-radar",
+  "fetched_at": "2026-09-15T04:21:06.728869450Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "Herdr plugin: real-time ADS-B flight radar TUI backed by dump1090",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-05T22:50:11Z",
+    "commits_90d": 26,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.008425925925925925,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "corygforsythe",
+      "account_created_at": "2023-03-13T19:56:57Z",
+      "other_repos_star_sum": 0
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 6792
+  }
+}

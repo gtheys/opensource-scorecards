@@ -1,0 +1,29 @@
+{
+  "slug": "herdr-go/herdr-go",
+  "fetched_at": "2026-09-15T05:50:39.141690693Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 3,
+    "forks": 1,
+    "description": "Control your herdr coding agents from anywhere — private, P2P, EasyTier-secured.",
+    "license_spdx": null,
+    "last_commit_at": "2026-09-08T07:03:26Z",
+    "commits_90d": 101,
+    "releases_365d": 3,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "KKRainbow",
+      "account_created_at": "2013-10-11T15:19:12Z",
+      "other_repos_star_sum": 31
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 8760
+  }
+}

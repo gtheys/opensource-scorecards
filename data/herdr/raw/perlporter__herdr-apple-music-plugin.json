@@ -1,0 +1,25 @@
+{
+  "slug": "perlporter/herdr-apple-music-plugin",
+  "fetched_at": "2026-09-15T07:57:10.886631394Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "Shows a toast in herdr when the currently playing track changes in Apple Music (macOS)",
+    "license_spdx": null,
+    "last_commit_at": "2026-07-28T19:39:55Z",
+    "commits_90d": 6,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 5832
+  }
+}

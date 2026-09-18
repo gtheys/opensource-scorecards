@@ -1,0 +1,29 @@
+{
+  "slug": "ctbaum/herdr-deck",
+  "fetched_at": "2026-09-15T04:22:28.639836434Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 2,
+    "forks": 0,
+    "description": "The companion workspace launcher for herdr-agents.nvim: open or resume Claude and Codex in a ready-made Neovim, agent, shell, and lazygit deck.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-13T14:23:28Z",
+    "commits_90d": 27,
+    "releases_365d": 0,
+    "median_issue_close_days": 0.004768518518518518,
+    "median_pr_close_days": 0.0006828703703703704,
+    "open_issues": 0,
+    "closed_issues_sampled": 1,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "ctbaum",
+      "account_created_at": "2021-05-24T07:16:34Z",
+      "other_repos_star_sum": 5
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 18361
+  }
+}

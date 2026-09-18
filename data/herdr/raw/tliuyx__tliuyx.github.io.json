@@ -1,0 +1,29 @@
+{
+  "slug": "tliuyx/tliuyx.github.io",
+  "fetched_at": "2026-09-15T08:37:13.994312233Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "Private operator PWA for Herdr Mobile Relay",
+    "license_spdx": "NOASSERTION",
+    "last_commit_at": "2026-09-08T03:52:02Z",
+    "commits_90d": 6,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "tliuyx",
+      "account_created_at": "2018-05-01T11:13:46Z",
+      "other_repos_star_sum": 0
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 235
+  }
+}

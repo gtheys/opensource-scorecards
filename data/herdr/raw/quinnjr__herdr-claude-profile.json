@@ -1,0 +1,29 @@
+{
+  "slug": "quinnjr/herdr-claude-profile",
+  "fetched_at": "2026-09-15T08:03:28.579223534Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "herdr plugin: switch and manage claude-profile profiles from an overlay palette",
+    "license_spdx": null,
+    "last_commit_at": "2026-07-20T16:17:35Z",
+    "commits_90d": 4,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 1,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "quinnjr",
+      "account_created_at": "2010-10-01T19:20:06Z",
+      "other_repos_star_sum": 14
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 2379
+  }
+}

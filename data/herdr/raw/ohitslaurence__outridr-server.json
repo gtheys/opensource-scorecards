@@ -1,0 +1,29 @@
+{
+  "slug": "ohitslaurence/outridr-server",
+  "fetched_at": "2026-09-15T07:50:35.435050814Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "Ride flank on your coding agents — herdr tailnet server for the outridr app",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-05T16:37:00Z",
+    "commits_90d": 95,
+    "releases_365d": 12,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.0009548611111111112,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "ohitslaurence",
+      "account_created_at": "2016-07-22T08:34:28Z",
+      "other_repos_star_sum": 40
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 20289
+  }
+}

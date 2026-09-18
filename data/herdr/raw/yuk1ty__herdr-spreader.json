@@ -1,0 +1,29 @@
+{
+  "slug": "yuk1ty/herdr-spreader",
+  "fetched_at": "2026-09-15T09:58:33.482635421Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 112,
+    "forks": 9,
+    "description": "Spin up your whole herdr workspace layout — tabs, panes, commands, and all — from a single YAML file.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-16T13:41:19Z",
+    "commits_90d": 29,
+    "releases_365d": 4,
+    "median_issue_close_days": 2.3607118055555554,
+    "median_pr_close_days": 0.5035879629629629,
+    "open_issues": 13,
+    "closed_issues_sampled": 2,
+    "contributors_12mo": 2,
+    "top_author_commit_share": 0.9655172413793104,
+    "top_author": {
+      "login": "yuk1ty",
+      "account_created_at": "2016-12-10T03:28:24Z",
+      "other_repos_star_sum": 722
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 10688
+  }
+}

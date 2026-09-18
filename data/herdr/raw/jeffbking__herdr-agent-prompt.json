@@ -1,0 +1,29 @@
+{
+  "slug": "jeffbking/herdr-agent-prompt",
+  "fetched_at": "2026-09-15T06:04:02.613234435Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1,
+    "forks": 0,
+    "description": "Herdr plugin: view the focused coding agent's original prompt (Claude Code, Codex, Antigravity, Pi) in an overlay on prefix+p",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-08T01:17:44Z",
+    "commits_90d": 4,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.0034837962962962965,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "jeffbking",
+      "account_created_at": "2021-03-28T18:51:06Z",
+      "other_repos_star_sum": 1
+    },
+    "has_ci": false,
+    "has_tests": true,
+    "readme_len": 4736
+  }
+}

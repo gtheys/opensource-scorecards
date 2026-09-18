@@ -1,0 +1,29 @@
+{
+  "slug": "go-min/herdr-fwd",
+  "fetched_at": "2026-09-15T05:45:42.426561364Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 3,
+    "forks": 0,
+    "description": "Automatic loopback port forwarding for remote Herdr sessions.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-08T14:39:24Z",
+    "commits_90d": 13,
+    "releases_365d": 2,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.0021296296296296298,
+    "open_issues": 2,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "vkarabinovych",
+      "account_created_at": "2017-02-01T11:20:28Z",
+      "other_repos_star_sum": 0
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 11677
+  }
+}

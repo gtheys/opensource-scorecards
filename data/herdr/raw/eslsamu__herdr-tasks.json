@@ -1,0 +1,29 @@
+{
+  "slug": "eslsamu/herdr-tasks",
+  "fetched_at": "2026-09-15T04:36:36.060583425Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 1,
+    "description": "Agent-owned local task queues for Herdr, with a live read-only browser view.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-09T07:34:25Z",
+    "commits_90d": 17,
+    "releases_365d": 6,
+    "median_issue_close_days": 0.8817361111111112,
+    "median_pr_close_days": 0.0007523148148148148,
+    "open_issues": 3,
+    "closed_issues_sampled": 1,
+    "contributors_12mo": 2,
+    "top_author_commit_share": 0.9411764705882353,
+    "top_author": {
+      "login": "Eslsamu",
+      "account_created_at": "2016-10-30T17:45:59Z",
+      "other_repos_star_sum": 21
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 11011
+  }
+}

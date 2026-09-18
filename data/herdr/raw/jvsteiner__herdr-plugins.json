@@ -1,0 +1,29 @@
+{
+  "slug": "jvsteiner/herdr-plugins",
+  "fetched_at": "2026-09-15T06:10:35.652794298Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "Small herdr plugins: background dev servers, and a git branch picker.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-14T06:26:26Z",
+    "commits_90d": 14,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "jvsteiner",
+      "account_created_at": "2011-11-01T16:43:54Z",
+      "other_repos_star_sum": 202
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 1222
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "devenjarvis/herdr-review",
+  "fetched_at": "2026-09-15T04:27:27.229311878Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 1,
+    "description": null,
+    "license_spdx": null,
+    "last_commit_at": "2026-07-25T11:05:31Z",
+    "commits_90d": 8,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "devenjarvis",
+      "account_created_at": "2015-03-09T23:58:00Z",
+      "other_repos_star_sum": 1699
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 2740
+  }
+}

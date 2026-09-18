@@ -1,0 +1,29 @@
+{
+  "slug": "andischerer/herdr-plugin-echo",
+  "fetched_at": "2026-09-15T03:58:19.991922045Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "Herdr Plugin that broadcast keystrokes from one pane to multiple marked panes",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-23T11:16:16Z",
+    "commits_90d": 2,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "andischerer",
+      "account_created_at": "2011-07-21T16:22:33Z",
+      "other_repos_star_sum": 213
+    },
+    "has_ci": false,
+    "has_tests": true,
+    "readme_len": 3541
+  }
+}

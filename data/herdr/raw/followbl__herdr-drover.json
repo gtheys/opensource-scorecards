@@ -1,0 +1,29 @@
+{
+  "slug": "followbl/herdr-drover",
+  "fetched_at": "2026-09-15T04:39:24.893275336Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "Cattle-dog tab switcher for Herdr: hold Super+T to cycle, release to land.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-03T03:21:27Z",
+    "commits_90d": 3,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "followbl",
+      "account_created_at": "2011-07-20T06:08:08Z",
+      "other_repos_star_sum": 0
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 4383
+  }
+}

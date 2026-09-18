@@ -1,0 +1,29 @@
+{
+  "slug": "kvkenyon/herdr-quota",
+  "fetched_at": "2026-09-15T06:17:45.725654064Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 2,
+    "forks": 0,
+    "description": "See Claude, Codex, Cursor, and Kimi subscription quota at a glance in Herdr.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-05T05:46:07Z",
+    "commits_90d": 43,
+    "releases_365d": 6,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.003136574074074074,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "kvkenyon",
+      "account_created_at": "2012-03-25T08:33:27Z",
+      "other_repos_star_sum": 17
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 30342
+  }
+}

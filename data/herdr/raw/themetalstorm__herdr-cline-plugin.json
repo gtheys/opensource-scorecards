@@ -1,0 +1,29 @@
+{
+  "slug": "themetalstorm/herdr-cline-plugin",
+  "fetched_at": "2026-09-15T08:33:51.676731800Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 3,
+    "description": "Herdr plugin that makes a plain Cline CLI launched from any pane look like a native Herdr agent.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-07-31T22:34:54Z",
+    "commits_90d": 10,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.0020717592592592593,
+    "open_issues": 3,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "TheMetalStorm",
+      "account_created_at": "2021-04-02T22:47:49Z",
+      "other_repos_star_sum": 19
+    },
+    "has_ci": false,
+    "has_tests": true,
+    "readme_len": 4821
+  }
+}

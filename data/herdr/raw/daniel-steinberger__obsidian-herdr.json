@@ -1,0 +1,29 @@
+{
+  "slug": "daniel-steinberger/obsidian-herdr",
+  "fetched_at": "2026-09-15T04:23:58.855515315Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1,
+    "forks": 0,
+    "description": "Obsidian-Plugin: schickt To-Dos aus Notizen-Checklisten an Agents im Herdr-Terminal-Multiplexer und hakt sie automatisch ab.",
+    "license_spdx": null,
+    "last_commit_at": "2026-07-10T18:11:57Z",
+    "commits_90d": 17,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "Daniel-Steinberger",
+      "account_created_at": "2019-05-31T19:41:03Z",
+      "other_repos_star_sum": 5
+    },
+    "has_ci": false,
+    "has_tests": true,
+    "readme_len": 8454
+  }
+}

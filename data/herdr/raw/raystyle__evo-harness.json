@@ -1,0 +1,25 @@
+{
+  "slug": "raystyle/evo-harness",
+  "fetched_at": "2026-09-15T08:05:35.923839765Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "Six-stage Graph-of-Loops orchestrator driving codex/kimi/claude in rmux panes. Control plane rmux x ops plane herdr: single-pane console + decision-injection daemon, non-blocking human-in-the-loop.",
+    "license_spdx": null,
+    "last_commit_at": "2026-08-25T09:17:37Z",
+    "commits_90d": 19,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 4,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 6393
+  }
+}

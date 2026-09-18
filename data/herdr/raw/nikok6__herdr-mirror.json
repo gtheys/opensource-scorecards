@@ -1,0 +1,29 @@
+{
+  "slug": "nikok6/herdr-mirror",
+  "fetched_at": "2026-09-15T06:45:29.185445078Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 233,
+    "forks": 63,
+    "description": "Unify your local and remote sessions in one window: mirror remote herdr servers into your local sidebar and drive them over SSH",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-06T08:59:36Z",
+    "commits_90d": 107,
+    "releases_365d": 27,
+    "median_issue_close_days": 2.4833391203703705,
+    "median_pr_close_days": 4.08447337962963,
+    "open_issues": 23,
+    "closed_issues_sampled": 16,
+    "contributors_12mo": 23,
+    "top_author_commit_share": 0.660377358490566,
+    "top_author": {
+      "login": "nikok6",
+      "account_created_at": "2016-11-06T13:34:54Z",
+      "other_repos_star_sum": 247
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 19805
+  }
+}

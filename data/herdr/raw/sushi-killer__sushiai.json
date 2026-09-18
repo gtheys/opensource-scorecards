@@ -1,0 +1,29 @@
+{
+  "slug": "sushi-killer/sushiai",
+  "fetched_at": "2026-09-15T08:27:46.305440938Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1,
+    "forks": 0,
+    "description": "Your agents. One workspace. A macOS terminal workspace with Herdr, SSH, tabs, files and Git.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-13T11:16:19Z",
+    "commits_90d": 12,
+    "releases_365d": 7,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.022962962962962963,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "sushi-killer",
+      "account_created_at": "2019-01-02T16:56:33Z",
+      "other_repos_star_sum": 5
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 19308
+  }
+}

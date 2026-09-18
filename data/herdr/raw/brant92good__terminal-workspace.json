@@ -1,0 +1,29 @@
+{
+  "slug": "brant92good/terminal-workspace",
+  "fetched_at": "2026-09-15T04:10:33.476892314Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "Open a remote shell and its port forwards in Windows Terminal, with machine-aware shortcuts and optional local or remote Herdr.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-11T06:49:03Z",
+    "commits_90d": 61,
+    "releases_365d": 6,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.03892361111111111,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "brant92good",
+      "account_created_at": "2021-01-02T20:07:30Z",
+      "other_repos_star_sum": 4
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 9063
+  }
+}

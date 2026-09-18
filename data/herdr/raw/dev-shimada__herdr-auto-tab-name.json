@@ -1,0 +1,29 @@
+{
+  "slug": "dev-shimada/herdr-auto-tab-name",
+  "fetched_at": "2026-09-15T04:27:06.520229035Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1,
+    "forks": 2,
+    "description": "herdr plugin: automatically name tabs after their current directory",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-07-12T07:58:11Z",
+    "commits_90d": 10,
+    "releases_365d": 2,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.5208101851851852,
+    "open_issues": 1,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "dev-shimada",
+      "account_created_at": "2018-04-26T00:51:58Z",
+      "other_repos_star_sum": 5
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 4950
+  }
+}

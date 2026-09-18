@@ -1,0 +1,29 @@
+{
+  "slug": "joangil/herdr-unread-marker",
+  "fetched_at": "2026-09-15T06:06:45.780390332Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 3,
+    "forks": 0,
+    "description": "Mark/unmark the focused agent unread with a keybinding, manual only",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-07-17T15:26:43Z",
+    "commits_90d": 7,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "JoanGil",
+      "account_created_at": "2013-06-20T12:53:26Z",
+      "other_repos_star_sum": 5
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 3265
+  }
+}

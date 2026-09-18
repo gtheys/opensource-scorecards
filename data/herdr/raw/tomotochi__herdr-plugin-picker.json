@@ -1,0 +1,29 @@
+{
+  "slug": "tomotochi/herdr-plugin-picker",
+  "fetched_at": "2026-09-15T08:38:55.994462972Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": " A Herdr file picker plugin that inserts selections from terminal browsers and search tools into the invoking pane.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-07-19T05:59:31Z",
+    "commits_90d": 5,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "tomotochi",
+      "account_created_at": "2013-06-08T05:55:02Z",
+      "other_repos_star_sum": 0
+    },
+    "has_ci": false,
+    "has_tests": true,
+    "readme_len": 2394
+  }
+}

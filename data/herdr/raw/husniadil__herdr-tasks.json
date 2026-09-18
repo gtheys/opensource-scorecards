@@ -1,0 +1,29 @@
+{
+  "slug": "husniadil/herdr-tasks",
+  "fetched_at": "2026-09-15T05:55:38.475523242Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 3,
+    "forks": 1,
+    "description": "Task backlog and notes board for coding agents on Herdr - claims with leases, evidence-backed review, and a human decision gate, in one Go binary.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-30T08:02:38Z",
+    "commits_90d": 197,
+    "releases_365d": 2,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 1,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "husniadil",
+      "account_created_at": "2015-01-18T07:01:12Z",
+      "other_repos_star_sum": 135
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 28080
+  }
+}

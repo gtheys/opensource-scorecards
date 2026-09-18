@@ -1,0 +1,29 @@
+{
+  "slug": "i11v/orchestrate-skill",
+  "fetched_at": "2026-09-15T05:56:07.816470429Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "An Agent Skill for coordinating and actively steering subagents through Herdr across implementation, review, consultation, and log-monitoring workflows.",
+    "license_spdx": null,
+    "last_commit_at": "2026-09-14T13:16:23Z",
+    "commits_90d": 8,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "i11v",
+      "account_created_at": "2011-06-27T08:35:28Z",
+      "other_repos_star_sum": 12
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 2957
+  }
+}

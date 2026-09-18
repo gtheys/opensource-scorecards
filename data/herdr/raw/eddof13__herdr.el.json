@@ -1,0 +1,29 @@
+{
+  "slug": "eddof13/herdr.el",
+  "fetched_at": "2026-09-15T04:32:52.001234126Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 1,
+    "description": "Control the herdr terminal workspace manager from Emacs, with herdr's terminals hosted inside Emacs via ghostel",
+    "license_spdx": "GPL-3.0",
+    "last_commit_at": "2026-09-15T01:13:18Z",
+    "commits_90d": 42,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.0002777777777777778,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "eddof13",
+      "account_created_at": "2008-02-28T00:34:51Z",
+      "other_repos_star_sum": 9
+    },
+    "has_ci": false,
+    "has_tests": true,
+    "readme_len": 16403
+  }
+}

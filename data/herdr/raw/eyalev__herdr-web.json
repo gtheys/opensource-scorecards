@@ -1,0 +1,29 @@
+{
+  "slug": "eyalev/herdr-web",
+  "fetched_at": "2026-09-15T04:37:11.165825218Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 5,
+    "forks": 3,
+    "description": "Mobile-first web UI for the herdr agent multiplexer — drive your coding agents from a phone",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-07-29T21:52:00Z",
+    "commits_90d": 31,
+    "releases_365d": 0,
+    "median_issue_close_days": 0.8249074074074074,
+    "median_pr_close_days": null,
+    "open_issues": 3,
+    "closed_issues_sampled": 1,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "eyalev",
+      "account_created_at": "2009-08-19T21:56:57Z",
+      "other_repos_star_sum": 54
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 7896
+  }
+}

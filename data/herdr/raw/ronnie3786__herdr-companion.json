@@ -1,0 +1,25 @@
+{
+  "slug": "ronnie3786/herdr-companion",
+  "fetched_at": "2026-09-15T08:10:13.953618536Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "Native Mac and iPhone apps with a standalone companion server for Herdr.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-14T22:49:40Z",
+    "commits_90d": 73,
+    "releases_365d": 35,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.020381944444444446,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 33299
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "skinp/herdr-cwd-control",
+  "fetched_at": "2026-09-15T08:22:06.175306065Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "A herdr plugin for enhanced control over initial working directory for new workspaces, tabs & panes.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-10T14:54:01Z",
+    "commits_90d": 2,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "skinp",
+      "account_created_at": "2011-04-07T19:09:38Z",
+      "other_repos_star_sum": 15
+    },
+    "has_ci": false,
+    "has_tests": true,
+    "readme_len": 3070
+  }
+}

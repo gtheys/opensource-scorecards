@@ -1,0 +1,29 @@
+{
+  "slug": "imartisann/zed-herdr",
+  "fetched_at": "2026-09-15T05:57:18.840560564Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 27,
+    "forks": 4,
+    "description": "Automatically keeps your active HerdR workspace in sync with your existing Zed session.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-17T22:14:57Z",
+    "commits_90d": 11,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.7186284722222223,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "ImArtisann",
+      "account_created_at": "2018-03-15T05:49:14Z",
+      "other_repos_star_sum": 40
+    },
+    "has_ci": false,
+    "has_tests": true,
+    "readme_len": 6105
+  }
+}

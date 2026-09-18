@@ -1,0 +1,29 @@
+{
+  "slug": "aimdevlee/herdr-nvim-nav",
+  "fetched_at": "2026-09-15T03:53:25.179457821Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 18,
+    "forks": 1,
+    "description": "Seamless Ctrl+h/j/k/l across herdr panes and Neovim splits — socket-based, no per-keystroke process",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-02T14:11:12Z",
+    "commits_90d": 5,
+    "releases_365d": 1,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 1,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "aimdevlee",
+      "account_created_at": "2016-07-01T07:32:53Z",
+      "other_repos_star_sum": 18
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 7909
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "dkarter/foreman",
+  "fetched_at": "2026-09-15T04:29:29.305850905Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1,
+    "forks": 0,
+    "description": "👷‍♂️🐑 Live Herdr agent monitoring dashboard hardware",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-07-27T02:05:22Z",
+    "commits_90d": 25,
+    "releases_365d": 1,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.11247685185185186,
+    "open_issues": 12,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "dkarter",
+      "account_created_at": "2011-01-07T12:45:45Z",
+      "other_repos_star_sum": 298
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 4884
+  }
+}

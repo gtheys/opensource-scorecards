@@ -1,0 +1,29 @@
+{
+  "slug": "danilolucasmd/herdr-clone-layout",
+  "fetched_at": "2026-09-15T04:24:24.026459218Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 2,
+    "forks": 0,
+    "description": "Clone your workspace layout onto every new herdr worktree. No templates, no config — the layout you're in is the template.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-27T17:12:10Z",
+    "commits_90d": 17,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "danilolucasmd",
+      "account_created_at": "2015-07-01T11:39:02Z",
+      "other_repos_star_sum": 11
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 27188
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "luneth90/keycade",
+  "fetched_at": "2026-09-15T06:24:53.890178222Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 7,
+    "forks": 1,
+    "description": "A shortcut recall arcade for Omarchy, herdr, tmux, Vim, Neovim and LazyVim — six cabinets, each with its own deck, progress and mastery.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-05T04:08:43Z",
+    "commits_90d": 159,
+    "releases_365d": 2,
+    "median_issue_close_days": 0.6470543981481481,
+    "median_pr_close_days": 0.0010069444444444444,
+    "open_issues": 5,
+    "closed_issues_sampled": 2,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "luneth90",
+      "account_created_at": "2021-12-27T05:43:51Z",
+      "other_repos_star_sum": 47
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 9541
+  }
+}

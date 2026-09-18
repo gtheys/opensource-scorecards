@@ -1,0 +1,25 @@
+{
+  "slug": "code-yeongyu/web-terminal",
+  "fetched_at": "2026-09-15T04:19:34.252420639Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 22,
+    "forks": 5,
+    "description": "Mobile-first self-hosted web terminal powered by Ghostty WASM — disconnect-surviving sessions, file explorer, herdr integration",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-09T06:36:42Z",
+    "commits_90d": 57,
+    "releases_365d": 1,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.02309027777777778,
+    "open_issues": 7,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 7556
+  }
+}

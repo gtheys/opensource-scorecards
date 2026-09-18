@@ -1,0 +1,29 @@
+{
+  "slug": "msadig/herdr-peer-agents-skill",
+  "fetched_at": "2026-09-15T06:40:00.416027822Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1,
+    "forks": 0,
+    "description": "Agent skill for Herdr peer-agent collaboration: spawn reviewers/implementers, send prompts, wait, and read responses",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-05-19T12:15:50Z",
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "msadig",
+      "account_created_at": "2012-02-11T11:05:52Z",
+      "other_repos_star_sum": 6
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 5708
+  }
+}

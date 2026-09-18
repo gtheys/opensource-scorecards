@@ -1,0 +1,25 @@
+{
+  "slug": "bennettgarcia-hs/herdr-jail",
+  "fetched_at": "2026-09-15T04:07:05.669778488Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 1,
+    "description": "Herdr plugin: run coding agents in yolo-jail sandboxes (per-workspace jails, enforcement, sidebar visualization, workspace jail menu)",
+    "license_spdx": null,
+    "last_commit_at": "2026-07-23T20:26:41Z",
+    "commits_90d": 14,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 6367
+  }
+}

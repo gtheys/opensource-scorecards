@@ -1,0 +1,29 @@
+{
+  "slug": "mphaxise/omarchy-keepalive",
+  "fetched_at": "2026-09-15T06:39:12.136879094Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1,
+    "forks": 0,
+    "description": "Keepalive: coding agents that stay running on your Omarchy desktop. Named sessions on top of Herdr, with a bar panel, notifications, receipts, and permission modes.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-03T22:37:47Z",
+    "commits_90d": 6,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "mphaxise",
+      "account_created_at": "2013-05-03T06:13:57Z",
+      "other_repos_star_sum": 9
+    },
+    "has_ci": false,
+    "has_tests": true,
+    "readme_len": 9391
+  }
+}

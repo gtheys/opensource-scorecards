@@ -1,0 +1,29 @@
+{
+  "slug": "hiroshi57/corral",
+  "fetched_at": "2026-09-15T05:51:56.298366118Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "Claude Code/Codex 複数エージェントを1つの司令塔から統率するWebオーケストレーター。Orca/herdr等7ツールを統合・日本語化（worktree隔離+台数一括起動+broadcast+差分レビュー+セキュリティ設計）",
+    "license_spdx": null,
+    "last_commit_at": "2026-08-20T07:35:17Z",
+    "commits_90d": 24,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 2,
+    "top_author_commit_share": 0.7916666666666666,
+    "top_author": {
+      "login": "noreply",
+      "account_created_at": "2011-12-04T10:44:36Z",
+      "other_repos_star_sum": 5
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 8652
+  }
+}

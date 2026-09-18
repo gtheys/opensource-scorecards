@@ -1,0 +1,29 @@
+{
+  "slug": "themuuln/herdr-ghostty-theme-sync",
+  "fetched_at": "2026-09-15T08:34:04.636840229Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "Adapt herdr's theme and sidebar colors to the active Ghostty theme; keeps sidebar tokens alive across herdr restarts. herdr.dev plugin.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-12T17:10:15Z",
+    "commits_90d": 8,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "themuuln",
+      "account_created_at": "2020-11-25T10:21:16Z",
+      "other_repos_star_sum": 14
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 4746
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "mikedclarke/herdr-workspaces",
+  "fetched_at": "2026-09-15T06:34:43.358443492Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "Directories as workspaces for herdr: register the places you work, fuzzy-pick one, get a named workspace there",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-02T10:28:17Z",
+    "commits_90d": 6,
+    "releases_365d": 2,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "mikedclarke",
+      "account_created_at": "2021-01-19T16:20:42Z",
+      "other_repos_star_sum": 6
+    },
+    "has_ci": false,
+    "has_tests": true,
+    "readme_len": 5532
+  }
+}

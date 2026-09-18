@@ -1,0 +1,29 @@
+{
+  "slug": "aoprisan/hird",
+  "fetched_at": "2026-09-15T04:00:55.386219690Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "Cross-harness agent work queue and shared assertion memory, backed by one local SQLite database",
+    "license_spdx": null,
+    "last_commit_at": "2026-09-11T15:46:56Z",
+    "commits_90d": 74,
+    "releases_365d": 5,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.0001678240740740741,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 2,
+    "top_author_commit_share": 0.6081081081081081,
+    "top_author": {
+      "login": "aoprisan",
+      "account_created_at": "2009-06-29T10:25:21Z",
+      "other_repos_star_sum": 18
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 83529
+  }
+}

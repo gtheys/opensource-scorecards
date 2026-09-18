@@ -1,0 +1,29 @@
+{
+  "slug": "chouxcreams/herdr-dashboard",
+  "fetched_at": "2026-09-15T04:17:45.900708699Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1,
+    "forks": 0,
+    "description": "PR status dashboard TUI for herdr workspaces — PR state / CI / reviews per pane at a glance",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-07-28T15:22:44Z",
+    "commits_90d": 29,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "chouxcreams",
+      "account_created_at": "2018-06-26T13:09:22Z",
+      "other_repos_star_sum": 4
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 8345
+  }
+}

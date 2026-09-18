@@ -1,0 +1,29 @@
+{
+  "slug": "leonardotrapani/herdr-js-worktree-bootstrap",
+  "fetched_at": "2026-09-15T06:20:02.829881868Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 2,
+    "forks": 0,
+    "description": "Automatically bootstrap Herdr worktrees for JavaScript and TypeScript with lockfile-aware installs and safe env restoration",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-07-15T13:26:58Z",
+    "commits_90d": 4,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "LeonardoTrapani",
+      "account_created_at": "2021-10-31T14:58:48Z",
+      "other_repos_star_sum": 308
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 10315
+  }
+}

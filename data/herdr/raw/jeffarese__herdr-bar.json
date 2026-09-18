@@ -1,0 +1,29 @@
+{
+  "slug": "jeffarese/herdr-bar",
+  "fetched_at": "2026-09-15T06:03:51.872172939Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 39,
+    "forks": 2,
+    "description": "Cmd+K for herdr: fuzzy-jump to any tab, agent, repo or branch. Python stdlib only.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-31T19:05:55Z",
+    "commits_90d": 17,
+    "releases_365d": 3,
+    "median_issue_close_days": 3.881412037037037,
+    "median_pr_close_days": 1.6031886574074075,
+    "open_issues": 1,
+    "closed_issues_sampled": 3,
+    "contributors_12mo": 3,
+    "top_author_commit_share": 0.8823529411764706,
+    "top_author": {
+      "login": "jeffarese",
+      "account_created_at": "2012-12-30T20:17:17Z",
+      "other_repos_star_sum": 58
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 11036
+  }
+}

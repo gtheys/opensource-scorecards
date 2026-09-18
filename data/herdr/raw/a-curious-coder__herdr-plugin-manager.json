@@ -1,0 +1,29 @@
+{
+  "slug": "a-curious-coder/herdr-plugin-manager",
+  "fetched_at": "2026-09-15T03:49:21.451702335Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "Manage and discover herdr plugins from a single popup pane — install/uninstall/update, run or bind actions, browse the public registry.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-13T11:09:39Z",
+    "commits_90d": 5,
+    "releases_365d": 5,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "a-curious-coder",
+      "account_created_at": "2018-12-15T23:34:14Z",
+      "other_repos_star_sum": 10
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 5036
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "jillesme/pi-herdr-squad",
+  "fetched_at": "2026-09-15T06:05:32.368220030Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 26,
+    "forks": 0,
+    "description": "Visible, strictly read-only Herdr investigation squads for Pi",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-16T13:34:46Z",
+    "commits_90d": 5,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.003148148148148148,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "jillesme",
+      "account_created_at": "2012-12-03T21:09:53Z",
+      "other_repos_star_sum": 269
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 6081
+  }
+}

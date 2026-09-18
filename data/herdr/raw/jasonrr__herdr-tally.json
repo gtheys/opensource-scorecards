@@ -1,0 +1,29 @@
+{
+  "slug": "jasonrr/herdr-tally",
+  "fetched_at": "2026-09-15T06:02:52.996672761Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 7,
+    "forks": 1,
+    "description": "Project-scoped todos & scratchpads for you and your agents.",
+    "license_spdx": null,
+    "last_commit_at": "2026-09-08T17:16:18Z",
+    "commits_90d": 168,
+    "releases_365d": 21,
+    "median_issue_close_days": 0.04057870370370371,
+    "median_pr_close_days": 0.005341435185185185,
+    "open_issues": 6,
+    "closed_issues_sampled": 5,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "jasonrr",
+      "account_created_at": "2009-07-24T01:50:05Z",
+      "other_repos_star_sum": 23
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 14805
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "mo-arvan/herdr-claude-auto-retry",
+  "fetched_at": "2026-09-15T06:37:05.967696635Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 14,
+    "forks": 3,
+    "description": "Wait out Anthropic rate limits and auto-resume Claude Code, herdr-native: no tmux, no shell wrapper.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-03T02:38:38Z",
+    "commits_90d": 19,
+    "releases_365d": 4,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 17.557129629629628,
+    "open_issues": 5,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 2,
+    "top_author_commit_share": 0.8421052631578947,
+    "top_author": {
+      "login": "mo-arvan",
+      "account_created_at": "2014-02-05T12:13:35Z",
+      "other_repos_star_sum": 25
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 4730
+  }
+}

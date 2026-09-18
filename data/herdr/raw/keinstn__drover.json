@@ -1,0 +1,29 @@
+{
+  "slug": "keinstn/drover",
+  "fetched_at": "2026-09-15T06:13:03.675952772Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 4,
+    "forks": 2,
+    "description": "Drive your Herdr AI agents from your phone",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-15T06:11:55Z",
+    "commits_90d": 247,
+    "releases_365d": 0,
+    "median_issue_close_days": 4.9648611111111105,
+    "median_pr_close_days": 0.007228009259259259,
+    "open_issues": 6,
+    "closed_issues_sampled": 8,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "keinstn",
+      "account_created_at": "2016-07-16T10:05:48Z",
+      "other_repos_star_sum": 4
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 4091
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "jlimas/herdr-worktree-seed",
+  "fetched_at": "2026-09-15T06:06:17.669095182Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 5,
+    "forks": 1,
+    "description": "Herdr plugin that seeds new worktrees with copy-on-write node_modules and configurable local dotfiles",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-07-28T19:24:56Z",
+    "commits_90d": 5,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.0005439814814814814,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "jlimas",
+      "account_created_at": "2010-08-18T19:47:48Z",
+      "other_repos_star_sum": 6
+    },
+    "has_ci": false,
+    "has_tests": true,
+    "readme_len": 9167
+  }
+}

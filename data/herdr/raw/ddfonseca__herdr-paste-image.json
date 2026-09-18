@@ -1,0 +1,29 @@
+{
+  "slug": "ddfonseca/herdr-paste-image",
+  "fetched_at": "2026-09-15T04:26:18.071253514Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 3,
+    "forks": 1,
+    "description": "Paste clipboard images into herdr panes as file paths — tmux-paste-image, ported to herdr",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-07-30T13:23:57Z",
+    "commits_90d": 3,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "ddfonseca",
+      "account_created_at": "2014-11-12T16:23:49Z",
+      "other_repos_star_sum": 5
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 4923
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "dnzzl/herdr-automations",
+  "fetched_at": "2026-09-15T04:30:41.278056978Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 7,
+    "forks": 3,
+    "description": "Scheduled tasks for your coding agents, in the terminal. A prompt, a cron line, and a fresh git worktree per run — on Herdr. One YAML file, no store, prebuilt binaries, per-automation model, catch-up after sleep, and a live board.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-14T21:34:58Z",
+    "commits_90d": 49,
+    "releases_365d": 12,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 13.016938657407406,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 2,
+    "top_author_commit_share": 0.9795918367346939,
+    "top_author": {
+      "login": "DnzzL",
+      "account_created_at": "2016-03-25T16:02:46Z",
+      "other_repos_star_sum": 19
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 15661
+  }
+}

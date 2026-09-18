@@ -1,0 +1,29 @@
+{
+  "slug": "skellleks/lasso",
+  "fetched_at": "2026-09-15T08:21:58.253297998Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "Review pane for herdr: per-agent diffs with syntax highlighting and inline comments sent back to the agent",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-31T12:05:23Z",
+    "commits_90d": 21,
+    "releases_365d": 1,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.0001273148148148148,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "skellleks",
+      "account_created_at": "2021-08-01T16:22:42Z",
+      "other_repos_star_sum": 3
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 6230
+  }
+}

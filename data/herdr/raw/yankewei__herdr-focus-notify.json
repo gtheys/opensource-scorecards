@@ -1,0 +1,29 @@
+{
+  "slug": "yankewei/herdr-focus-notify",
+  "fetched_at": "2026-09-15T09:55:39.120849006Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 21,
+    "forks": 7,
+    "description": "Clickable macOS notifications for Herdr agents. Sends a native toast when an agent becomes blocked or done; clicking it brings the terminal forward and focuses the correct Herdr pane.",
+    "license_spdx": null,
+    "last_commit_at": "2026-09-08T14:02:35Z",
+    "commits_90d": 55,
+    "releases_365d": 3,
+    "median_issue_close_days": 22.87693287037037,
+    "median_pr_close_days": 0.016307870370370372,
+    "open_issues": 2,
+    "closed_issues_sampled": 1,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "yankewei",
+      "account_created_at": "2016-06-17T05:08:54Z",
+      "other_repos_star_sum": 102
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 4944
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "mitchnick/ai-dev-environment",
+  "fetched_at": "2026-09-15T06:36:16.068957774Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "Sanitized Claude Code, Pi, Herdr, and Ghostty configuration",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-13T08:09:35Z",
+    "commits_90d": 7,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "mitchnick",
+      "account_created_at": "2012-12-22T22:15:14Z",
+      "other_repos_star_sum": 0
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 936
+  }
+}

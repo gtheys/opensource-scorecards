@@ -1,0 +1,29 @@
+{
+  "slug": "mic92/herdr-eternal",
+  "fetched_at": "2026-09-15T06:33:37.832983067Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 5,
+    "forks": 0,
+    "description": "Roaming-friendly transport for herdr --remote: QUIC with WebSocket fallback, byte-exact resume, OIDC auth",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-10T06:28:58Z",
+    "commits_90d": 52,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.00016203703703703703,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "Mic92",
+      "account_created_at": "2009-06-17T04:11:42Z",
+      "other_repos_star_sum": 238
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 2658
+  }
+}

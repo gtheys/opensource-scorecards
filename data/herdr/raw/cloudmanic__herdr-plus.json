@@ -1,0 +1,29 @@
+{
+  "slug": "cloudmanic/herdr-plus",
+  "fetched_at": "2026-09-15T04:19:03.166444812Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 313,
+    "forks": 25,
+    "description": "An extension for herdr, built as a first-class herdr plugin — a collection of tools that make it better: Projects and Quick Actions.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-04T05:32:32Z",
+    "commits_90d": 22,
+    "releases_365d": 32,
+    "median_issue_close_days": 12.865034722222223,
+    "median_pr_close_days": 0.003715277777777778,
+    "open_issues": 7,
+    "closed_issues_sampled": 9,
+    "contributors_12mo": 11,
+    "top_author_commit_share": 0.7777777777777778,
+    "top_author": {
+      "login": "cloudmanic",
+      "account_created_at": "2009-09-10T23:55:45Z",
+      "other_repos_star_sum": 600
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 15190
+  }
+}

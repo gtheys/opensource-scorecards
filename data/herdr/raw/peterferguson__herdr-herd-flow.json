@@ -1,0 +1,29 @@
+{
+  "slug": "peterferguson/herdr-herd-flow",
+  "fetched_at": "2026-09-15T07:57:51.669105044Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "Route agent handoffs to coding harnesses (claude/codex/opencode) as named herdr tabs",
+    "license_spdx": null,
+    "last_commit_at": "2026-07-24T20:16:08Z",
+    "commits_90d": 7,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "peterferguson",
+      "account_created_at": "2014-03-19T18:41:26Z",
+      "other_repos_star_sum": 165
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 4607
+  }
+}

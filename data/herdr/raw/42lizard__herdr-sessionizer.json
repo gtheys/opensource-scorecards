@@ -1,0 +1,29 @@
+{
+  "slug": "42lizard/herdr-sessionizer",
+  "fetched_at": "2026-09-15T03:48:24.834156686Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1,
+    "forks": 0,
+    "description": "tmux-sessionizer style plugin for herdr",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-28T06:22:59Z",
+    "commits_90d": 4,
+    "releases_365d": 3,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "42lizard",
+      "account_created_at": "2025-07-24T14:20:34Z",
+      "other_repos_star_sum": 3
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 1616
+  }
+}

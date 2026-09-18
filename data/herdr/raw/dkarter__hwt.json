@@ -1,0 +1,29 @@
+{
+  "slug": "dkarter/hwt",
+  "fetched_at": "2026-09-15T04:29:36.029272942Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 2,
+    "forks": 0,
+    "description": "🌳 Frictionless Herdr Worktree Orchestration",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-14T17:08:30Z",
+    "commits_90d": 73,
+    "releases_365d": 31,
+    "median_issue_close_days": 36.50966435185185,
+    "median_pr_close_days": 0.009548611111111112,
+    "open_issues": 1,
+    "closed_issues_sampled": 1,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "dkarter",
+      "account_created_at": "2011-01-07T12:45:45Z",
+      "other_repos_star_sum": 298
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 4816
+  }
+}

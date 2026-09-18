@@ -1,0 +1,29 @@
+{
+  "slug": "dzwduan/herdr-convo-index",
+  "fetched_at": "2026-09-15T04:32:12.319200400Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 3,
+    "forks": 0,
+    "description": "Turn index for Claude Code panes in herdr — jump to any past turn and read it in a popup",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-07-27T15:05:01Z",
+    "commits_90d": 13,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "dzwduan",
+      "account_created_at": "2017-02-22T12:47:19Z",
+      "other_repos_star_sum": 43
+    },
+    "has_ci": false,
+    "has_tests": true,
+    "readme_len": 10513
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "schacon/micro-manager",
+  "fetched_at": "2026-09-15T08:15:04.544477250Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 31,
+    "forks": 11,
+    "description": "Mac bridge between the Creator Micro 2 and Herdr",
+    "license_spdx": null,
+    "last_commit_at": "2026-08-05T08:17:40Z",
+    "commits_90d": 60,
+    "releases_365d": 1,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.005451388888888889,
+    "open_issues": 3,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "schacon",
+      "account_created_at": "2008-01-27T17:19:28Z",
+      "other_repos_star_sum": 3860
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 9850
+  }
+}

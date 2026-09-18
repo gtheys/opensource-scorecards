@@ -1,0 +1,29 @@
+{
+  "slug": "llzx373/reasonix_herdr",
+  "fetched_at": "2026-09-15T06:22:46.091265963Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1,
+    "forks": 0,
+    "description": "reasonix integration for herdr",
+    "license_spdx": null,
+    "last_commit_at": "2026-07-27T03:38:43Z",
+    "commits_90d": 3,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "llzx373",
+      "account_created_at": "2012-06-24T09:26:19Z",
+      "other_repos_star_sum": 2
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 11307
+  }
+}

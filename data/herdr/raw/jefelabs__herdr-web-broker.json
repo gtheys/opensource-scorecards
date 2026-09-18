@@ -1,0 +1,29 @@
+{
+  "slug": "jefelabs/herdr-web-broker",
+  "fetched_at": "2026-09-15T06:03:42.472791561Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "Self-hosted REST/WS API for herdr: spawn and steer coding agents from anywhere — tokens, multi-user session ownership, git verbs, event streaming, parent↔child federation. TypeScript SDK + React packages.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-01T11:55:20Z",
+    "commits_90d": 205,
+    "releases_365d": 0,
+    "median_issue_close_days": 4.435185185185185,
+    "median_pr_close_days": null,
+    "open_issues": 1,
+    "closed_issues_sampled": 1,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "ecruz165",
+      "account_created_at": "2017-04-06T22:56:04Z",
+      "other_repos_star_sum": 4
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 14397
+  }
+}

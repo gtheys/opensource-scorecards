@@ -1,0 +1,29 @@
+{
+  "slug": "wicolian/dev-on-call",
+  "fetched_at": "2026-09-15T09:51:08.088399122Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "A quiet, local-first macOS menu-bar sentry for developers and their coding agents.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-06T04:04:57Z",
+    "commits_90d": 5,
+    "releases_365d": 6,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.36931712962962965,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "wicolian",
+      "account_created_at": "2023-06-15T10:52:26Z",
+      "other_repos_star_sum": 4
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 11608
+  }
+}

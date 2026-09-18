@@ -1,0 +1,29 @@
+{
+  "slug": "edouard-andrei/herdr-smart-rename",
+  "fetched_at": "2026-09-15T04:33:40.514404713Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "herdr plugin: AI names for tabs and panes from agent transcripts — one keypress, any OpenAI-compatible model",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-20T15:24:00Z",
+    "commits_90d": 3,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "edouard-andrei",
+      "account_created_at": "2016-06-22T20:05:19Z",
+      "other_repos_star_sum": 4
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 4054
+  }
+}

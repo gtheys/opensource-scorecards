@@ -1,0 +1,29 @@
+{
+  "slug": "danbuhler/herdr-pane-topic-sync",
+  "fetched_at": "2026-09-15T04:23:48.727982162Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 4,
+    "forks": 4,
+    "description": "herdr plugin: auto-name panes & tabs after each agent's live topic (Claude Code, Codex, …) instead of 1, 2, 3.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-02T17:49:17Z",
+    "commits_90d": 6,
+    "releases_365d": 3,
+    "median_issue_close_days": 6.968015046296296,
+    "median_pr_close_days": 6.070428240740741,
+    "open_issues": 3,
+    "closed_issues_sampled": 2,
+    "contributors_12mo": 2,
+    "top_author_commit_share": 0.8333333333333334,
+    "top_author": {
+      "login": "danbuhler",
+      "account_created_at": "2014-12-22T20:08:45Z",
+      "other_repos_star_sum": 107
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 5724
+  }
+}

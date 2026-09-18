@@ -1,0 +1,29 @@
+{
+  "slug": "douglascorrea/herdr-agent-inbox",
+  "fetched_at": "2026-09-15T04:31:13.832231024Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 9,
+    "forks": 2,
+    "description": "An inbox for your coding agents in herdr — session titles, settle/mark-unread triage, runtimes, workspace rollups, and resumable chat history",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-07-28T17:47:57Z",
+    "commits_90d": 28,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "douglascorrea",
+      "account_created_at": "2011-06-20T20:40:12Z",
+      "other_repos_star_sum": 501
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 8291
+  }
+}

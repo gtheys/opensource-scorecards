@@ -1,0 +1,29 @@
+{
+  "slug": "malone-c/herdr-agent-smart-rename",
+  "fetched_at": "2026-09-15T06:28:01.555331620Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "Names each herdr agent session from what it is actually doing",
+    "license_spdx": null,
+    "last_commit_at": "2026-08-14T07:35:51Z",
+    "commits_90d": 5,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "malone-c",
+      "account_created_at": "2015-12-25T01:54:38Z",
+      "other_repos_star_sum": 2
+    },
+    "has_ci": false,
+    "has_tests": true,
+    "readme_len": 6768
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "yuuta1219/claude-usage",
+  "fetched_at": "2026-09-15T09:59:32.935865060Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "herdr plugin: Claude Code usage (session % / week %) pinned to the bottom of the sidebar",
+    "license_spdx": null,
+    "last_commit_at": "2026-08-01T19:16:07Z",
+    "commits_90d": 4,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "yuuta1219",
+      "account_created_at": "2022-11-02T14:48:31Z",
+      "other_repos_star_sum": 15
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 3127
+  }
+}

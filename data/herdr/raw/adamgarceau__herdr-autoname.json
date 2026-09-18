@@ -1,0 +1,29 @@
+{
+  "slug": "adamgarceau/herdr-autoname",
+  "fetched_at": "2026-09-15T03:51:09.703592291Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "A Claude Code UserPromptSubmit hook that auto-names your herdr pane from the session's live topic using local Ollama, and renames it when the topic changes. Adds zero prompt latency.",
+    "license_spdx": null,
+    "last_commit_at": "2026-08-31T19:58:28Z",
+    "commits_90d": 8,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "AdamGarceau",
+      "account_created_at": "2026-02-19T17:45:11Z",
+      "other_repos_star_sum": 3
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 3052
+  }
+}

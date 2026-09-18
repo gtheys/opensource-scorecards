@@ -1,0 +1,29 @@
+{
+  "slug": "pedrogiroldo/agentbox",
+  "fetched_at": "2026-09-15T07:56:36.898820244Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 6,
+    "forks": 0,
+    "description": "Your personal coding-agent VM in a container: Ubuntu + Herdr + Claude Code/Codex/opencode + a mobile-friendly Neovim, over SSH.",
+    "license_spdx": "NOASSERTION",
+    "last_commit_at": "2026-09-09T15:13:59Z",
+    "commits_90d": 22,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.005931712962962962,
+    "open_issues": 1,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "pedrogiroldo",
+      "account_created_at": "2020-07-22T00:13:39Z",
+      "other_repos_star_sum": 30
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 14236
+  }
+}

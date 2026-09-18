@@ -1,0 +1,29 @@
+{
+  "slug": "iiii1224/herdr-statusline",
+  "fetched_at": "2026-09-15T05:56:51.175004081Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 2,
+    "forks": 2,
+    "description": "Customizable status line for herdr sessions.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-15T06:29:10Z",
+    "commits_90d": 64,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.001574074074074074,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 2,
+    "top_author_commit_share": 0.967741935483871,
+    "top_author": {
+      "login": "IIDA-Yusuke-21",
+      "account_created_at": "2022-06-26T05:47:59Z",
+      "other_repos_star_sum": 0
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 5000
+  }
+}

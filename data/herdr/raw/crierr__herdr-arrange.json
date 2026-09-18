@@ -1,0 +1,29 @@
+{
+  "slug": "crierr/herdr-arrange",
+  "fetched_at": "2026-09-15T04:21:47.519921398Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 4,
+    "forks": 0,
+    "description": "Interactive popup UI for herdr pane move / swap / re-split / layout",
+    "license_spdx": null,
+    "last_commit_at": "2026-09-05T00:27:12Z",
+    "commits_90d": 22,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "crierr",
+      "account_created_at": "2013-05-03T11:58:48Z",
+      "other_repos_star_sum": 11
+    },
+    "has_ci": false,
+    "has_tests": true,
+    "readme_len": 11625
+  }
+}

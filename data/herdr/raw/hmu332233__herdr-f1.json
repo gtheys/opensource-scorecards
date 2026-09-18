@@ -1,0 +1,29 @@
+{
+  "slug": "hmu332233/herdr-f1",
+  "fetched_at": "2026-09-15T05:52:46.726196431Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 15,
+    "forks": 3,
+    "description": "An F1-style dashboard for your Herdr agents.",
+    "license_spdx": null,
+    "last_commit_at": "2026-09-10T09:21:41Z",
+    "commits_90d": 43,
+    "releases_365d": 1,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.6187094907407407,
+    "open_issues": 2,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 3,
+    "top_author_commit_share": 0.8372093023255814,
+    "top_author": {
+      "login": "hmu332233",
+      "account_created_at": "2014-12-26T09:48:17Z",
+      "other_repos_star_sum": 135
+    },
+    "has_ci": false,
+    "has_tests": true,
+    "readme_len": 6823
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "lntvan166/paddock",
+  "fetched_at": "2026-09-15T06:23:13.054774452Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 7,
+    "forks": 0,
+    "description": "A mobile-first dashboard for herdr — reads its unix socket. Run on your phone without any configuration.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-03T10:33:14Z",
+    "commits_90d": 669,
+    "releases_365d": 18,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.009050925925925926,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "lntvan166",
+      "account_created_at": "2020-08-29T11:32:51Z",
+      "other_repos_star_sum": 47
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 12434
+  }
+}

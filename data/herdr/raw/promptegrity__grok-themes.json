@@ -1,0 +1,25 @@
+{
+  "slug": "promptegrity/grok-themes",
+  "fetched_at": "2026-09-15T08:01:53.849087898Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 8,
+    "forks": 0,
+    "description": "Grok Night/Day themes for Ghostty, Nushell, Herdr, Neovim and Starship (from xai-org/grok-build)",
+    "license_spdx": null,
+    "last_commit_at": "2026-07-27T17:06:57Z",
+    "commits_90d": 10,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 5514
+  }
+}

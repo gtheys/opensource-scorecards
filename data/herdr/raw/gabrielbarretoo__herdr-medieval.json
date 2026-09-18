@@ -1,0 +1,29 @@
+{
+  "slug": "gabrielbarretoo/herdr-medieval",
+  "fetched_at": "2026-09-15T04:41:38.805441897Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1,
+    "forks": 0,
+    "description": "A Herdr plugin that shows your workspaces and agents as a hexagonal medieval continent in 3D: each workspace is a fenced camp, each pane an adventurer that trains, rests by the campfire or stands guard in the tower depending on the agent's status. three.js embedded, no network and no dependencies.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-06T13:08:20Z",
+    "commits_90d": 131,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "gabrielbarretoo",
+      "account_created_at": "2020-07-27T13:44:16Z",
+      "other_repos_star_sum": 2
+    },
+    "has_ci": false,
+    "has_tests": true,
+    "readme_len": 15688
+  }
+}

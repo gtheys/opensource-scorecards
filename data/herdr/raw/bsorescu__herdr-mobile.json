@@ -1,0 +1,29 @@
+{
+  "slug": "bsorescu/herdr-mobile",
+  "fetched_at": "2026-09-15T04:11:57.957639906Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 5,
+    "forks": 1,
+    "description": "Phone-friendly TUI for controlling Herdr coding agents over SSH",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-25T11:22:32Z",
+    "commits_90d": 66,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.7645659722222222,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 2,
+    "top_author_commit_share": 0.9393939393939394,
+    "top_author": {
+      "login": "bsorescu",
+      "account_created_at": "2021-10-11T14:56:16Z",
+      "other_repos_star_sum": 5
+    },
+    "has_ci": false,
+    "has_tests": true,
+    "readme_len": 14239
+  }
+}

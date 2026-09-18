@@ -1,0 +1,25 @@
+{
+  "slug": "agrestisdavid/terminal-cards",
+  "fetched_at": "2026-09-15T03:52:36.794334929Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "Herdr-inspired terminal-style Lovelace card bundle for Home Assistant",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-30T23:54:56Z",
+    "commits_90d": 35,
+    "releases_365d": 30,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 18788
+  }
+}

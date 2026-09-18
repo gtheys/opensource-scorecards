@@ -1,0 +1,29 @@
+{
+  "slug": "luminexord/herdres",
+  "fetched_at": "2026-09-15T06:24:43.475318427Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 10,
+    "forks": 2,
+    "description": "Telegram interface for monitoring and messaging Herdr coding agents, powered by Tendwire.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-01T13:54:37Z",
+    "commits_90d": 533,
+    "releases_365d": 9,
+    "median_issue_close_days": 0.7316435185185185,
+    "median_pr_close_days": 0.05018518518518519,
+    "open_issues": 26,
+    "closed_issues_sampled": 13,
+    "contributors_12mo": 5,
+    "top_author_commit_share": 0.41638795986622074,
+    "top_author": {
+      "login": "gaijinjoe",
+      "account_created_at": "2016-11-15T05:19:04Z",
+      "other_repos_star_sum": 8
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 43770
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "luiscleto/shepherdr",
+  "fetched_at": "2026-09-15T06:24:26.574377054Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 12,
+    "forks": 0,
+    "description": "A phone-friendly web interface for Herdr: monitor agents, receive notifications, open real terminals, and send files.",
+    "license_spdx": "Apache-2.0",
+    "last_commit_at": "2026-09-13T14:09:24Z",
+    "commits_90d": 148,
+    "releases_365d": 6,
+    "median_issue_close_days": 2.6336226851851854,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 1,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "luiscleto",
+      "account_created_at": "2013-04-20T01:14:02Z",
+      "other_repos_star_sum": 20
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 7561
+  }
+}

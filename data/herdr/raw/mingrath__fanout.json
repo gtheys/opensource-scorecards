@@ -1,0 +1,29 @@
+{
+  "slug": "mingrath/fanout",
+  "fetched_at": "2026-09-15T06:35:31.586783316Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1,
+    "forks": 0,
+    "description": "Three frontier models attempt one task in parallel Herdr panes, blind-evaluated and merged into one tested result.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-30T15:08:53Z",
+    "commits_90d": 5,
+    "releases_365d": 0,
+    "median_issue_close_days": 0.056157407407407406,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 1,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "mingrath",
+      "account_created_at": "2017-08-07T06:14:38Z",
+      "other_repos_star_sum": 22
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 3663
+  }
+}

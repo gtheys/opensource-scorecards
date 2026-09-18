@@ -1,0 +1,29 @@
+{
+  "slug": "nicosuave/memex",
+  "fetched_at": "2026-09-15T06:45:10.233934064Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 210,
+    "forks": 26,
+    "description": "Search Claude Code, Codex, Pi, OpenCode, Github Copilot & Cursor transcripts. Resume sessions. Track tokens.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-15T01:16:59Z",
+    "commits_90d": 182,
+    "releases_365d": 66,
+    "median_issue_close_days": 0.2357986111111111,
+    "median_pr_close_days": 0.013715277777777778,
+    "open_issues": 10,
+    "closed_issues_sampled": 1,
+    "contributors_12mo": 15,
+    "top_author_commit_share": 0.872791519434629,
+    "top_author": {
+      "login": "nicosuave",
+      "account_created_at": "2010-11-02T19:19:14Z",
+      "other_repos_star_sum": 410
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 45298
+  }
+}

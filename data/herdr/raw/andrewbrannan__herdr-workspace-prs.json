@@ -1,0 +1,29 @@
+{
+  "slug": "andrewbrannan/herdr-workspace-prs",
+  "fetched_at": "2026-09-15T03:58:50.167551725Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1,
+    "forks": 0,
+    "description": "Herdr plugin for tracking workspace GitHub pull requests",
+    "license_spdx": null,
+    "last_commit_at": "2026-09-04T14:48:02Z",
+    "commits_90d": 5,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "andrewbrannan",
+      "account_created_at": "2013-06-24T22:21:55Z",
+      "other_repos_star_sum": 1
+    },
+    "has_ci": false,
+    "has_tests": true,
+    "readme_len": 4725
+  }
+}

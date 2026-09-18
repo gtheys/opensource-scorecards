@@ -1,0 +1,29 @@
+{
+  "slug": "yemeni/herdr-agent-timer",
+  "fetched_at": "2026-09-15T09:56:31.882911473Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 2,
+    "forks": 0,
+    "description": "A Herdr plugin that alternates each agent's status label with its elapsed time",
+    "license_spdx": null,
+    "last_commit_at": "2026-08-14T22:07:55Z",
+    "commits_90d": 25,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.0005439814814814814,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "Yemeni",
+      "account_created_at": "2013-06-22T19:16:49Z",
+      "other_repos_star_sum": 22
+    },
+    "has_ci": false,
+    "has_tests": true,
+    "readme_len": 2405
+  }
+}

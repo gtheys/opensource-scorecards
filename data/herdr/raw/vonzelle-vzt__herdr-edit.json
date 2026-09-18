@@ -1,0 +1,29 @@
+{
+  "slug": "vonzelle-vzt/herdr-edit",
+  "fetched_at": "2026-09-15T08:47:00.902307568Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 3,
+    "forks": 1,
+    "description": "Mouse-first terminal code editor with a real LSP client: diagnostics, autocomplete, hover, go-to-definition, rename, find-references and an outline. Plus a diff view, inline git blame, bookmarks and a command palette. One static Go binary, no CGO.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-07T16:43:41Z",
+    "commits_90d": 73,
+    "releases_365d": 41,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.005185185185185185,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 4,
+    "top_author_commit_share": 0.5645161290322581,
+    "top_author": {
+      "login": "vonzelle-vzt",
+      "account_created_at": "2025-11-10T21:29:28Z",
+      "other_repos_star_sum": 32
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 37430
+  }
+}

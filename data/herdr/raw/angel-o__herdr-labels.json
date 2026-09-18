@@ -1,0 +1,29 @@
+{
+  "slug": "angel-o/herdr-labels",
+  "fetched_at": "2026-09-15T04:00:03.922527250Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 2,
+    "forks": 0,
+    "description": "Herdr plugin that automatically names and numbers tabs while preserving manual labels",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-17T00:04:14Z",
+    "commits_90d": 9,
+    "releases_365d": 9,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.002939814814814815,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "Angel-O",
+      "account_created_at": "2015-12-14T00:13:00Z",
+      "other_repos_star_sum": 3
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 11564
+  }
+}

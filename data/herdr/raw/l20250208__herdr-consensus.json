@@ -1,0 +1,29 @@
+{
+  "slug": "l20250208/herdr-consensus",
+  "fetched_at": "2026-09-15T06:18:22.018735579Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "Herdr Consensus: dual-agent review consensus, human adjudication, locked fix plan, isolated worktree fix, and unified reporting",
+    "license_spdx": "NOASSERTION",
+    "last_commit_at": "2026-08-19T06:13:10Z",
+    "commits_90d": 8,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "l20250208",
+      "account_created_at": "2025-02-08T08:50:19Z",
+      "other_repos_star_sum": 2
+    },
+    "has_ci": false,
+    "has_tests": true,
+    "readme_len": 6487
+  }
+}

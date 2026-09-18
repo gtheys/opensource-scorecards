@@ -1,0 +1,29 @@
+{
+  "slug": "jal-co/pi-herdr-worktree",
+  "fetched_at": "2026-09-15T06:02:12.012568463Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1,
+    "forks": 0,
+    "description": "Pi extension: git worktrees via Herdr's native worktree API, with project-level post-create/pre-remove hooks",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-07-25T17:46:32Z",
+    "commits_90d": 3,
+    "releases_365d": 1,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.00020833333333333335,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "jal-co",
+      "account_created_at": "2016-07-22T11:20:32Z",
+      "other_repos_star_sum": 1468
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 2134
+  }
+}

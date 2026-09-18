@@ -1,0 +1,29 @@
+{
+  "slug": "dev-shimada/lazyworktree",
+  "fetched_at": "2026-09-15T04:27:12.191565686Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "A TUI for managing git worktrees, with optional herdr and GitHub integration",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-10T10:41:50Z",
+    "commits_90d": 9,
+    "releases_365d": 2,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 4,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "dev-shimada",
+      "account_created_at": "2018-04-26T00:51:58Z",
+      "other_repos_star_sum": 5
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 9167
+  }
+}

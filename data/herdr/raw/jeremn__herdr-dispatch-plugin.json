@@ -1,0 +1,25 @@
+{
+  "slug": "jeremn/herdr-dispatch-plugin",
+  "fetched_at": "2026-09-15T06:04:30.282336176Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "Herdr plugin that dispatches tickets through an AI-agent pipeline — one git worktree per ticket, each phase in a named pane, fail-closed, with a human approval gate.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-07-24T18:40:24Z",
+    "commits_90d": 1,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": true,
+    "readme_len": 11500
+  }
+}

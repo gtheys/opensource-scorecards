@@ -1,0 +1,25 @@
+{
+  "slug": "aktrov/herdr-tts",
+  "fetched_at": "2026-09-15T03:53:57.881707802Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1,
+    "forks": 1,
+    "description": "Herdr plugin that speaks the selected terminal text aloud in a natural neural voice (Piper) — right-click or a shortcut, with a stop key.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-07T15:32:34Z",
+    "commits_90d": 7,
+    "releases_365d": 2,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 1,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 7190
+  }
+}

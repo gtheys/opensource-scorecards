@@ -1,0 +1,29 @@
+{
+  "slug": "yordanbuilds/rig",
+  "fetched_at": "2026-09-15T09:57:36.284159016Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "Project stacks for Herdr — an Omarchy shell plugin. One command and the whole workspace is up.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-07T12:15:34Z",
+    "commits_90d": 78,
+    "releases_365d": 0,
+    "median_issue_close_days": 1.751863425925926,
+    "median_pr_close_days": null,
+    "open_issues": 2,
+    "closed_issues_sampled": 1,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "yordanbuilds",
+      "account_created_at": "2018-11-21T13:05:04Z",
+      "other_repos_star_sum": 2
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 6681
+  }
+}

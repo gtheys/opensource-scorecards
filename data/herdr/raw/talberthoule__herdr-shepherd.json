@@ -1,0 +1,29 @@
+{
+  "slug": "talberthoule/herdr-shepherd",
+  "fetched_at": "2026-09-15T08:29:32.088386776Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "Audited coordination and safe handoffs for Codex and Claude Code sessions running through Herdr.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-17T04:08:50Z",
+    "commits_90d": 62,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.008530092592592593,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "talberthoule",
+      "account_created_at": "2013-03-24T20:32:43Z",
+      "other_repos_star_sum": 8
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 7079
+  }
+}

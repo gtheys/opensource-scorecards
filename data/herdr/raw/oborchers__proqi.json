@@ -1,0 +1,29 @@
+{
+  "slug": "oborchers/proqi",
+  "fetched_at": "2026-09-15T07:49:20.703179248Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 29,
+    "forks": 3,
+    "description": "A terminal-native prompt composer for power users running multiple coding agents.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-15T07:27:54Z",
+    "commits_90d": 490,
+    "releases_365d": 11,
+    "median_issue_close_days": 2.0796064814814814,
+    "median_pr_close_days": 0.4819212962962963,
+    "open_issues": 7,
+    "closed_issues_sampled": 11,
+    "contributors_12mo": 2,
+    "top_author_commit_share": 0.9938080495356038,
+    "top_author": {
+      "login": "oborchers",
+      "account_created_at": "2017-03-28T07:31:55Z",
+      "other_repos_star_sum": 800
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 24898
+  }
+}

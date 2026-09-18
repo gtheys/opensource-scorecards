@@ -1,0 +1,29 @@
+{
+  "slug": "shivammehta25/herdr-file-picker",
+  "fetched_at": "2026-09-15T08:20:09.773640897Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "Vibecoded port of tmux-file-picker to herdr",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-07-29T22:23:31Z",
+    "commits_90d": 1,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "shivammehta25",
+      "account_created_at": "2014-10-08T17:44:21Z",
+      "other_repos_star_sum": 1692
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 11604
+  }
+}

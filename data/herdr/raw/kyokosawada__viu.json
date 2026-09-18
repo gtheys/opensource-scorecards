@@ -1,0 +1,29 @@
+{
+  "slug": "kyokosawada/viu",
+  "fetched_at": "2026-09-15T06:18:08.885699885Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "Mobile client for a herdr agent fleet - see your agents, answer them by voice or keyboard, from your phone",
+    "license_spdx": null,
+    "last_commit_at": "2026-08-28T16:36:57Z",
+    "commits_90d": 35,
+    "releases_365d": 0,
+    "median_issue_close_days": 0.4570486111111111,
+    "median_pr_close_days": 0.005902777777777778,
+    "open_issues": 6,
+    "closed_issues_sampled": 25,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "kyokosawada",
+      "account_created_at": "2023-04-16T09:25:23Z",
+      "other_repos_star_sum": 0
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 3187
+  }
+}

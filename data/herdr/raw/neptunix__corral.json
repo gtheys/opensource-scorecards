@@ -1,0 +1,29 @@
+{
+  "slug": "neptunix/corral",
+  "fetched_at": "2026-09-15T06:43:58.268110302Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 9,
+    "forks": 1,
+    "description": "Kanban dashboard and control surface for Claude Code sessions running in herdr",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-14T16:35:37Z",
+    "commits_90d": 67,
+    "releases_365d": 39,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.1257349537037037,
+    "open_issues": 6,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 2,
+    "top_author_commit_share": 0.9701492537313433,
+    "top_author": {
+      "login": "neptunix",
+      "account_created_at": "2011-06-11T15:29:17Z",
+      "other_repos_star_sum": 24
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 59224
+  }
+}

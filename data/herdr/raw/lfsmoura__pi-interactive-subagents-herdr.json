@@ -1,0 +1,29 @@
+{
+  "slug": "lfsmoura/pi-interactive-subagents-herdr",
+  "fetched_at": "2026-09-15T06:21:07.942826380Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "Interactive OMP subagents running in Herdr-managed panes",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-25T21:05:33Z",
+    "commits_90d": 1,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "lfsmoura",
+      "account_created_at": "2009-12-09T12:45:42Z",
+      "other_repos_star_sum": 12
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 2439
+  }
+}

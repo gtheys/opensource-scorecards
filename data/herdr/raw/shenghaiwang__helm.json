@@ -1,0 +1,29 @@
+{
+  "slug": "shenghaiwang/helm",
+  "fetched_at": "2026-09-15T08:19:31.248848369Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1,
+    "forks": 0,
+    "description": "Harness on top of herdr",
+    "license_spdx": "Apache-2.0",
+    "last_commit_at": "2026-09-14T01:01:21Z",
+    "commits_90d": 23,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "ShenghaiWang",
+      "account_created_at": "2015-04-15T05:23:19Z",
+      "other_repos_star_sum": 295
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 27068
+  }
+}

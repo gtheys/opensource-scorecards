@@ -1,0 +1,29 @@
+{
+  "slug": "rooseveltadvisors/herdr-floax-adapter",
+  "fetched_at": "2026-09-15T08:10:27.026453035Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "tmux-floax-inspired retained floating scratch shell for Herdr",
+    "license_spdx": "NOASSERTION",
+    "last_commit_at": "2026-09-08T00:24:00Z",
+    "commits_90d": 4,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.019363425925925926,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "RooseveltAdvisors",
+      "account_created_at": "2013-05-29T12:07:47Z",
+      "other_repos_star_sum": 39
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 2484
+  }
+}

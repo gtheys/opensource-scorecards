@@ -1,0 +1,29 @@
+{
+  "slug": "aliaksandr-haurylau-godel/herdr-voice",
+  "fetched_at": "2026-09-15T03:56:45.226591771Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1,
+    "forks": 0,
+    "description": "Voice dictation for herdr: hold a key, speak, and the text lands in your agent's input box — context-aware, with swappable speech and rewrite engines.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-14T21:53:46Z",
+    "commits_90d": 89,
+    "releases_365d": 0,
+    "median_issue_close_days": 0.6262094907407407,
+    "median_pr_close_days": 0.023275462962962963,
+    "open_issues": 27,
+    "closed_issues_sampled": 14,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "aliaksandr-haurylau-godel",
+      "account_created_at": "2023-11-06T08:02:16Z",
+      "other_repos_star_sum": 1
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 3619
+  }
+}

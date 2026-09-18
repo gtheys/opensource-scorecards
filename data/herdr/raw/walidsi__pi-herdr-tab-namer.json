@@ -1,0 +1,29 @@
+{
+  "slug": "walidsi/pi-herdr-tab-namer",
+  "fetched_at": "2026-09-15T08:47:51.615667184Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "A Pi extension that renames the current Herdr tab from a short summary of your first prompt in the session.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-07-31T12:26:27Z",
+    "commits_90d": 30,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "walidsi",
+      "account_created_at": "2018-08-06T15:24:32Z",
+      "other_repos_star_sum": 3
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 1963
+  }
+}

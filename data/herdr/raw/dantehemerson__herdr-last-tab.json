@@ -1,0 +1,29 @@
+{
+  "slug": "dantehemerson/herdr-last-tab",
+  "fetched_at": "2026-09-15T04:24:37.497792128Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1,
+    "forks": 0,
+    "description": "Plugin for swapping to the last tab you had focused",
+    "license_spdx": null,
+    "last_commit_at": "2026-08-12T03:25:49Z",
+    "commits_90d": 5,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 2,
+    "top_author_commit_share": 0.8,
+    "top_author": {
+      "login": "dantehemerson",
+      "account_created_at": "2016-04-10T22:27:01Z",
+      "other_repos_star_sum": 108
+    },
+    "has_ci": false,
+    "has_tests": true,
+    "readme_len": 2817
+  }
+}

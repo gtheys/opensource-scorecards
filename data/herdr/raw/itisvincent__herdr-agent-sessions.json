@@ -1,0 +1,29 @@
+{
+  "slug": "itisvincent/herdr-agent-sessions",
+  "fetched_at": "2026-09-15T05:59:17.491609756Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "Herdr plugin: browse and resume on-disk agent sessions, including Orca-managed Codex sessions.",
+    "license_spdx": null,
+    "last_commit_at": "2026-08-20T15:19:58Z",
+    "commits_90d": 1,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "itisvincent",
+      "account_created_at": "2024-09-13T08:17:40Z",
+      "other_repos_star_sum": 1
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 5019
+  }
+}

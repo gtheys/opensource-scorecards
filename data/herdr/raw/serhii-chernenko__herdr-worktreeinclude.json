@@ -1,0 +1,29 @@
+{
+  "slug": "serhii-chernenko/herdr-worktreeinclude",
+  "fetched_at": "2026-09-15T08:17:12.795430517Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 2,
+    "forks": 0,
+    "description": "Allow custom path for new worktrees and respects `.worktreeinclude` file like Claude CLI does",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-07-23T15:56:20Z",
+    "commits_90d": 10,
+    "releases_365d": 4,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "serhii-chernenko",
+      "account_created_at": "2017-05-19T20:48:55Z",
+      "other_repos_star_sum": 76
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 5276
+  }
+}

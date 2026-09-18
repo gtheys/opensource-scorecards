@@ -1,0 +1,29 @@
+{
+  "slug": "sblevins/claude-rename-tab",
+  "fetched_at": "2026-09-15T08:14:34.696761896Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "Claude Code skill: rename the herdr tab an agent runs in to a short (<=3 word) label based on its current task.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-07-27T05:52:22Z",
+    "commits_90d": 4,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "Stephen-BravoLabs",
+      "account_created_at": "2025-05-06T02:04:00Z",
+      "other_repos_star_sum": 0
+    },
+    "has_ci": false,
+    "has_tests": true,
+    "readme_len": 6095
+  }
+}

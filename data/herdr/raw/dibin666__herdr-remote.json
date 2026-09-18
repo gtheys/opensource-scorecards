@@ -1,0 +1,29 @@
+{
+  "slug": "dibin666/herdr-remote",
+  "fetched_at": "2026-09-15T04:28:07.738169038Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 2,
+    "forks": 0,
+    "description": "Remote browser access to your Herdr terminal workspaces",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-11T09:24:29Z",
+    "commits_90d": 55,
+    "releases_365d": 0,
+    "median_issue_close_days": 0.016712962962962964,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 1,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "dibin666",
+      "account_created_at": "2018-11-09T12:42:18Z",
+      "other_repos_star_sum": 13
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 5834
+  }
+}

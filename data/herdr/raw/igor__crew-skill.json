@@ -1,0 +1,29 @@
+{
+  "slug": "igor/crew-skill",
+  "fetched_at": "2026-09-15T05:56:36.277594166Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 5,
+    "forks": 0,
+    "description": "A Claude Code skill for running a fleet of AI agents: the premium model coordinates, cheaper subscription and local models do the volume — so most inference runs on hardware you own. Runs on herdr or cmux+tmux.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-03T13:35:43Z",
+    "commits_90d": 11,
+    "releases_365d": 2,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "igor",
+      "account_created_at": "2008-02-25T16:58:15Z",
+      "other_repos_star_sum": 29
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 7754
+  }
+}

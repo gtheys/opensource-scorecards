@@ -1,0 +1,29 @@
+{
+  "slug": "itsmaleen/merry",
+  "fetched_at": "2026-09-15T05:59:21.420262536Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 5,
+    "forks": 1,
+    "description": "iPhone companion for AI coding agents — mirror notifications, control workspaces and surfaces, paste photos/files, and send voice commands from your phone. Fronts cmux and herdr.",
+    "license_spdx": null,
+    "last_commit_at": "2026-09-08T16:03:54Z",
+    "commits_90d": 71,
+    "releases_365d": 0,
+    "median_issue_close_days": 0.017581018518518517,
+    "median_pr_close_days": 0.022546296296296297,
+    "open_issues": 10,
+    "closed_issues_sampled": 2,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "itsmaleen",
+      "account_created_at": "2016-09-08T20:42:52Z",
+      "other_repos_star_sum": 9
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 13822
+  }
+}

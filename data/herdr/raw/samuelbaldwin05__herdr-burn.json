@@ -1,0 +1,29 @@
+{
+  "slug": "samuelbaldwin05/herdr-burn",
+  "fetched_at": "2026-09-15T08:13:22.408569002Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "Live Claude Code cost/quota per pane in the herdr sidebar, with a workspace-total burn overlay.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-12T00:51:24Z",
+    "commits_90d": 18,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "samuelbaldwin05",
+      "account_created_at": "2024-02-28T02:26:40Z",
+      "other_repos_star_sum": 2
+    },
+    "has_ci": false,
+    "has_tests": true,
+    "readme_len": 7294
+  }
+}

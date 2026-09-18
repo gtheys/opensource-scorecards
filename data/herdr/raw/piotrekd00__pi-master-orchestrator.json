@@ -1,0 +1,29 @@
+{
+  "slug": "piotrekd00/pi-master-orchestrator",
+  "fetched_at": "2026-09-15T07:59:16.204620311Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "Drive one implementation ticket through a visible worker+reviewer pair in herdr",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-02T13:53:36Z",
+    "commits_90d": 1,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "piotrekd00",
+      "account_created_at": "2021-10-09T11:09:21Z",
+      "other_repos_star_sum": 0
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 4552
+  }
+}

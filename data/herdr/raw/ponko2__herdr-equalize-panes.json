@@ -1,0 +1,29 @@
+{
+  "slug": "ponko2/herdr-equalize-panes",
+  "fetched_at": "2026-09-15T08:00:36.523918541Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "Automatically keeps panes in each tab evenly sized as panes are created, closed, moved, or exited.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-14T15:09:14Z",
+    "commits_90d": 16,
+    "releases_365d": 3,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.003263888888888889,
+    "open_issues": 1,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "ponko2",
+      "account_created_at": "2011-07-08T00:43:29Z",
+      "other_repos_star_sum": 82
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 6401
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "andrewchng/herdr-sessionizer",
+  "fetched_at": "2026-09-15T03:58:54.122301268Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 47,
+    "forks": 6,
+    "description": "Fuzzy-open projects and worktrees, then bootstrap workspaces from declarative TOML layouts — tabs, pane splits, commands, and per-repo overrides.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-14T16:25:21Z",
+    "commits_90d": 162,
+    "releases_365d": 16,
+    "median_issue_close_days": 1.9070081018518517,
+    "median_pr_close_days": 0.2839814814814815,
+    "open_issues": 10,
+    "closed_issues_sampled": 18,
+    "contributors_12mo": 5,
+    "top_author_commit_share": 0.8288288288288288,
+    "top_author": {
+      "login": "andrewchng",
+      "account_created_at": "2014-08-18T16:15:46Z",
+      "other_repos_star_sum": 47
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 16559
+  }
+}

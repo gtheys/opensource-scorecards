@@ -1,0 +1,29 @@
+{
+  "slug": "steig/worktender",
+  "fetched_at": "2026-09-15T08:26:01.523601608Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1,
+    "forks": 0,
+    "description": "One command from a GitHub issue to a coding agent working on it in its own worktree.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-09T01:27:57Z",
+    "commits_90d": 105,
+    "releases_365d": 17,
+    "median_issue_close_days": 0.028952546296296296,
+    "median_pr_close_days": 0.002957175925925926,
+    "open_issues": 4,
+    "closed_issues_sampled": 22,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "steig",
+      "account_created_at": "2011-07-27T18:33:40Z",
+      "other_repos_star_sum": 2
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 29864
+  }
+}

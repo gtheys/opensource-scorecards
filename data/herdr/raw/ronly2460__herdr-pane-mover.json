@@ -1,0 +1,29 @@
+{
+  "slug": "ronly2460/herdr-pane-mover",
+  "fetched_at": "2026-09-15T08:10:08.612908123Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 2,
+    "forks": 0,
+    "description": "Move Herdr panes between workspaces with an interactive arrow-key picker",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-23T17:37:27Z",
+    "commits_90d": 8,
+    "releases_365d": 2,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.0005671296296296297,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "ronly2460",
+      "account_created_at": "2016-06-04T13:33:23Z",
+      "other_repos_star_sum": 9
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 1732
+  }
+}

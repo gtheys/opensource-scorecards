@@ -1,0 +1,29 @@
+{
+  "slug": "codingfragments/herdr-zextract",
+  "fetched_at": "2026-09-15T04:20:02.501782266Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "Port of zextract (Zellij plugin) to run as a native Herdr plugin",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-17T23:14:12Z",
+    "commits_90d": 58,
+    "releases_365d": 3,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.0021064814814814817,
+    "open_issues": 1,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "leika",
+      "account_created_at": "2012-03-05T08:24:31Z",
+      "other_repos_star_sum": 1
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 4490
+  }
+}

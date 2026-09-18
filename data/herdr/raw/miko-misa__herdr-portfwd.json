@@ -1,0 +1,29 @@
+{
+  "slug": "miko-misa/herdr-portfwd",
+  "fetched_at": "2026-09-15T06:35:16.180286110Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 4,
+    "forks": 1,
+    "description": "Automatic SSH port forwarding for coding agents on remote machines: Ctrl+click the localhost URL your agent printed and the page opens on your machine, same port. A Herdr plugin.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-10T14:02:12Z",
+    "commits_90d": 12,
+    "releases_365d": 3,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.10084490740740741,
+    "open_issues": 1,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "miko-misa",
+      "account_created_at": "2021-07-19T04:57:25Z",
+      "other_repos_star_sum": 14
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 28690
+  }
+}

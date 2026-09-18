@@ -1,0 +1,29 @@
+{
+  "slug": "stfl/herdr-bridge",
+  "fetched_at": "2026-09-15T08:26:22.687432138Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "Show a remote herdr agent inside a local herdr pane — one sidebar, several machines",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-04T21:09:17Z",
+    "commits_90d": 11,
+    "releases_365d": 4,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 2,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "stfl",
+      "account_created_at": "2012-01-11T11:50:45Z",
+      "other_repos_star_sum": 34
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 7716
+  }
+}

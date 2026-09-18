@@ -1,0 +1,29 @@
+{
+  "slug": "zvibaratz/herdr-draft",
+  "fetched_at": "2026-09-15T10:02:14.752078808Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "herdr plugin: a new-session creation dialog — Linear issue, worktree, placement, agent kind, clauth account and initial prompt in one submit",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-14T12:56:06Z",
+    "commits_90d": 157,
+    "releases_365d": 0,
+    "median_issue_close_days": 0.25633680555555555,
+    "median_pr_close_days": 0.0034375,
+    "open_issues": 20,
+    "closed_issues_sampled": 20,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "ZviBaratz",
+      "account_created_at": "2016-09-22T12:00:16Z",
+      "other_repos_star_sum": 36
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 59427
+  }
+}

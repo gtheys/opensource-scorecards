@@ -1,0 +1,29 @@
+{
+  "slug": "jone/herdr-wrangler",
+  "fetched_at": "2026-09-15T06:07:59.434474627Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "tmux-style pane layouts and rotation for herdr",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-05T13:56:46Z",
+    "commits_90d": 16,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "jone",
+      "account_created_at": "2008-04-15T19:45:55Z",
+      "other_repos_star_sum": 89
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 4644
+  }
+}

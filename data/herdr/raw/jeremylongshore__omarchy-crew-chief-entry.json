@@ -1,0 +1,29 @@
+{
+  "slug": "jeremylongshore/omarchy-crew-chief-entry",
+  "fetched_at": "2026-09-15T06:04:33.203190790Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "Crew Chief turns Claude Code, Codex, Herdr, and other command-capable agent sessions into a local attention queue. See working, blocked, and done; put NEEDS YOU first; dismiss stale rows; and focus the project window. No network, API key, telemetry, or transcript polling.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-09T16:07:13Z",
+    "commits_90d": 30,
+    "releases_365d": 1,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.02189236111111111,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "jeremylongshore",
+      "account_created_at": "2025-05-28T19:36:59Z",
+      "other_repos_star_sum": 360
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 7463
+  }
+}

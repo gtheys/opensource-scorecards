@@ -1,0 +1,29 @@
+{
+  "slug": "unayung/herdr-watch",
+  "fetched_at": "2026-09-15T08:42:30.312853619Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 27,
+    "forks": 0,
+    "description": "Agent status from herdr on an Apple Watch",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-14T03:04:07Z",
+    "commits_90d": 42,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "Unayung",
+      "account_created_at": "2012-06-15T07:47:24Z",
+      "other_repos_star_sum": 85
+    },
+    "has_ci": false,
+    "has_tests": true,
+    "readme_len": 15361
+  }
+}

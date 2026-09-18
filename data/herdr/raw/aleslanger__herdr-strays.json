@@ -1,0 +1,29 @@
+{
+  "slug": "aleslanger/herdr-strays",
+  "fetched_at": "2026-09-15T03:54:45.024352611Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1,
+    "forks": 1,
+    "description": "Terminal UI for herding stray git worktrees — browse projects, see changed files live, read diffs, and prompt Claude without leaving the panel.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-12T14:57:56Z",
+    "commits_90d": 22,
+    "releases_365d": 5,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "aleslanger",
+      "account_created_at": "2017-02-07T12:03:34Z",
+      "other_repos_star_sum": 6
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 19093
+  }
+}

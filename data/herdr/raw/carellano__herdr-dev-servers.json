@@ -1,0 +1,29 @@
+{
+  "slug": "carellano/herdr-dev-servers",
+  "fetched_at": "2026-09-15T04:14:14.091453226Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "Discover and safely manage development servers running in Herdr panes.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-12T16:34:22Z",
+    "commits_90d": 33,
+    "releases_365d": 2,
+    "median_issue_close_days": 0.010237268518518519,
+    "median_pr_close_days": 0.038009259259259257,
+    "open_issues": 0,
+    "closed_issues_sampled": 6,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "carellano",
+      "account_created_at": "2014-12-18T18:06:23Z",
+      "other_repos_star_sum": 0
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 5481
+  }
+}

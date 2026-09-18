@@ -1,0 +1,29 @@
+{
+  "slug": "tenmomo/fleet-commander",
+  "fetched_at": "2026-09-15T08:31:29.132913038Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "Field-tested fleet command discipline for coding agents — tmux, herdr, and remote seats. Every rule carries the date it was forged from a real incident.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-02T01:59:56Z",
+    "commits_90d": 9,
+    "releases_365d": 8,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.003425925925925926,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "ts7fx",
+      "account_created_at": "2013-09-16T20:51:41Z",
+      "other_repos_star_sum": 1
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 9331
+  }
+}

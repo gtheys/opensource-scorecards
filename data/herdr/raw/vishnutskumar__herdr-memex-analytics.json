@@ -1,0 +1,29 @@
+{
+  "slug": "vishnutskumar/herdr-memex-analytics",
+  "fetched_at": "2026-09-15T08:46:05.422437011Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 2,
+    "forks": 0,
+    "description": "Herdr plugin: session efficiency analytics and realtime agent guidance, powered by memex history",
+    "license_spdx": null,
+    "last_commit_at": "2026-09-01T03:43:57Z",
+    "commits_90d": 14,
+    "releases_365d": 3,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.0028587962962962963,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "vishnutskumar",
+      "account_created_at": "2020-05-06T18:58:24Z",
+      "other_repos_star_sum": 7
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 7323
+  }
+}

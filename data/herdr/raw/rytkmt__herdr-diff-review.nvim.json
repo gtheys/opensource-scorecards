@@ -1,0 +1,25 @@
+{
+  "slug": "rytkmt/herdr-diff-review.nvim",
+  "fetched_at": "2026-09-15T08:12:19.134024962Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "Review AI agent file changes in Neovim diff mode before applying — approve or deny edits from Claude Code and Kiro CLI with a single command. AIエージェントのファイル変更をNeovim diffモードで確認・承認/拒否するHerdrプラグイン",
+    "license_spdx": null,
+    "last_commit_at": "2026-08-18T04:37:34Z",
+    "commits_90d": 19,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 5834
+  }
+}

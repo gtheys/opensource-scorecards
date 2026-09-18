@@ -1,0 +1,29 @@
+{
+  "slug": "pjs-0457/herdr-yazi-explorer",
+  "fetched_at": "2026-09-15T07:59:36.226533037Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1,
+    "forks": 0,
+    "description": "Open Yazi in a herdr tab/split, labeled 🗂 yazi, in the workspace you triggered it from; auto-restarts on quit.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-13T13:34:13Z",
+    "commits_90d": 2,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "pjs-0457",
+      "account_created_at": "2024-12-08T13:28:16Z",
+      "other_repos_star_sum": 1
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 2283
+  }
+}

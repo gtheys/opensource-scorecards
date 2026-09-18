@@ -1,0 +1,29 @@
+{
+  "slug": "funsaized/herdr-mise",
+  "fetched_at": "2026-09-15T04:41:01.729211150Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 3,
+    "forks": 0,
+    "description": "Run the pass, not the prompts 🧑‍🍳 A visualizer for your agents (in herdr). Intentionally small footprint",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-13T19:37:31Z",
+    "commits_90d": 111,
+    "releases_365d": 3,
+    "median_issue_close_days": 5.048043981481482,
+    "median_pr_close_days": 0.24079861111111112,
+    "open_issues": 12,
+    "closed_issues_sampled": 19,
+    "contributors_12mo": 2,
+    "top_author_commit_share": 0.990990990990991,
+    "top_author": {
+      "login": "funsaized",
+      "account_created_at": "2016-05-24T19:02:08Z",
+      "other_repos_star_sum": 44
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 10153
+  }
+}

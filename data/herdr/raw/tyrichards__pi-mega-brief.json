@@ -1,0 +1,25 @@
+{
+  "slug": "tyrichards/pi-mega-brief",
+  "fetched_at": "2026-09-15T08:41:21.294134945Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 2,
+    "forks": 0,
+    "description": "Weekly multi-agent orchestration for Pi with Herdr and tmux support",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-26T04:20:11Z",
+    "commits_90d": 2,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": true,
+    "readme_len": 2718
+  }
+}

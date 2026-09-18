@@ -1,0 +1,29 @@
+{
+  "slug": "alecuba16/herdr-webui",
+  "fetched_at": "2026-09-15T03:54:20.896784261Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 19,
+    "forks": 6,
+    "description": "Standalone browser WebUI for Herdr sessions, with workspace/worktree navigation, terminal attach, agent status, settings, and macOS install/update support",
+    "license_spdx": "NOASSERTION",
+    "last_commit_at": "2026-09-13T12:25:55Z",
+    "commits_90d": 629,
+    "releases_365d": 100,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.0022743055555555555,
+    "open_issues": 2,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 2,
+    "top_author_commit_share": 0.9984101748807631,
+    "top_author": {
+      "login": "alecuba16",
+      "account_created_at": "2012-03-20T18:44:09Z",
+      "other_repos_star_sum": 47
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 8768
+  }
+}

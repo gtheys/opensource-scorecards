@@ -1,0 +1,29 @@
+{
+  "slug": "joshuadavidthomas/hrd",
+  "fetched_at": "2026-09-15T06:08:40.851891303Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 3,
+    "forks": 0,
+    "description": "Manage your herd of sandboxes and the Herdr sessions running on them",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-01T01:03:19Z",
+    "commits_90d": 57,
+    "releases_365d": 1,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.9923842592592592,
+    "open_issues": 4,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "joshuadavidthomas",
+      "account_created_at": "2016-06-13T00:10:31Z",
+      "other_repos_star_sum": 500
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 7159
+  }
+}

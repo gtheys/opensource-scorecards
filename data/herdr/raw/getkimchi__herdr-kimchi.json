@@ -1,0 +1,29 @@
+{
+  "slug": "getkimchi/herdr-kimchi",
+  "fetched_at": "2026-09-15T04:43:13.677561432Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1,
+    "forks": 2,
+    "description": "Herdr lifecycle bridge for Kimchi",
+    "license_spdx": "Apache-2.0",
+    "last_commit_at": "2026-09-08T11:54:56Z",
+    "commits_90d": 6,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.012939814814814815,
+    "open_issues": 1,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 2,
+    "top_author_commit_share": 0.5,
+    "top_author": {
+      "login": "igor-susic1",
+      "account_created_at": "2024-12-02T06:31:32Z",
+      "other_repos_star_sum": 0
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 3493
+  }
+}

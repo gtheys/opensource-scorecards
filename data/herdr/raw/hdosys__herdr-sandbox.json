@@ -1,0 +1,29 @@
+{
+  "slug": "hdosys/herdr-sandbox",
+  "fetched_at": "2026-09-15T05:50:17.144799703Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 2,
+    "forks": 0,
+    "description": "Windows-native counterpart to a dev container.",
+    "license_spdx": "Apache-2.0",
+    "last_commit_at": "2026-09-10T16:19:56Z",
+    "commits_90d": 332,
+    "releases_365d": 6,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "hdosys",
+      "account_created_at": "2020-09-25T11:19:33Z",
+      "other_repos_star_sum": 11
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 36471
+  }
+}

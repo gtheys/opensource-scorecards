@@ -1,0 +1,29 @@
+{
+  "slug": "crokily/herdr-lazygit",
+  "fetched_at": "2026-09-15T04:22:05.608805753Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 33,
+    "forks": 1,
+    "description": "Run lazygit in a herdr sidebar pane with AI commit messages — one key to open, one to expand, one to commit",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-14T01:47:47Z",
+    "commits_90d": 54,
+    "releases_365d": 2,
+    "median_issue_close_days": 39.5549537037037,
+    "median_pr_close_days": 0.0012962962962962963,
+    "open_issues": 0,
+    "closed_issues_sampled": 2,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "Crokily",
+      "account_created_at": "2014-04-05T09:10:02Z",
+      "other_repos_star_sum": 100
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 19540
+  }
+}

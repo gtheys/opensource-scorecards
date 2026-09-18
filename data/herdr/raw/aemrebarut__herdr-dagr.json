@@ -1,0 +1,29 @@
+{
+  "slug": "aemrebarut/herdr-dagr",
+  "fetched_at": "2026-09-15T03:51:43.405182762Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 80,
+    "forks": 2,
+    "description": "Your agent swarm as a live DAG: an orchestration graph with attempts, review gates, and evidence, in a herdr split pane.",
+    "license_spdx": "Apache-2.0",
+    "last_commit_at": "2026-08-23T06:07:00Z",
+    "commits_90d": 29,
+    "releases_365d": 4,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "aemrebarut",
+      "account_created_at": "2023-04-19T06:39:55Z",
+      "other_repos_star_sum": 81
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 16921
+  }
+}

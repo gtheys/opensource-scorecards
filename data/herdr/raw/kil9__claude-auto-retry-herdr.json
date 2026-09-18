@@ -1,0 +1,25 @@
+{
+  "slug": "kil9/claude-auto-retry-herdr",
+  "fetched_at": "2026-09-15T06:14:45.745554710Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "herdr 네이티브 Claude Code 레이트리밋 자동 재시도 (tmux 없이 herdr 소켓 API 사용)",
+    "license_spdx": null,
+    "last_commit_at": "2026-07-07T11:23:47Z",
+    "commits_90d": 11,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": true,
+    "readme_len": 5742
+  }
+}

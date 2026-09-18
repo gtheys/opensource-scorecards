@@ -1,0 +1,29 @@
+{
+  "slug": "goofansu/herdr-hunk",
+  "fetched_at": "2026-09-15T05:46:31.246248553Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "Provides quick Herdr review actions that open a temporary Hunk overlay. Quitting Hunk closes the overlay and restores your workspace.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-09T04:29:39Z",
+    "commits_90d": 57,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.0009722222222222222,
+    "open_issues": 1,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 2,
+    "top_author_commit_share": 0.8596491228070176,
+    "top_author": {
+      "login": "goofansu",
+      "account_created_at": "2011-10-21T13:35:33Z",
+      "other_repos_star_sum": 55
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 2247
+  }
+}

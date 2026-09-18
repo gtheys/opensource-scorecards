@@ -1,0 +1,29 @@
+{
+  "slug": "mholtzscher/herdr-worktree-picker",
+  "fetched_at": "2026-09-15T06:33:28.842606683Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "Create Herdr worktrees from local or remote branches",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-16T18:06:15Z",
+    "commits_90d": 24,
+    "releases_365d": 7,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.0014930555555555554,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "mholtzscher",
+      "account_created_at": "2012-03-01T04:11:47Z",
+      "other_repos_star_sum": 110
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 5042
+  }
+}

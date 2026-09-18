@@ -1,0 +1,29 @@
+{
+  "slug": "vaclavik-xyz/herdeck",
+  "fetched_at": "2026-09-15T08:43:36.003321992Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1,
+    "forks": 0,
+    "description": "Control panel for AI coding agents running under herdr — on a hardware Stream Deck (Ulanzi D200 or Elgato), a native desktop app, or a browser simulator. See blocked agents at a glance; Approve / Deny / Stop with one press.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-10T21:45:09Z",
+    "commits_90d": 1000,
+    "releases_365d": 7,
+    "median_issue_close_days": 0.05721643518518518,
+    "median_pr_close_days": 0.0015219907407407409,
+    "open_issues": 4,
+    "closed_issues_sampled": 6,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "vaclavik-xyz",
+      "account_created_at": "2019-04-01T22:43:48Z",
+      "other_repos_star_sum": 3
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 36607
+  }
+}

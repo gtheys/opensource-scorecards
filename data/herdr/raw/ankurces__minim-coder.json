@@ -1,0 +1,29 @@
+{
+  "slug": "ankurces/minim-coder",
+  "fetched_at": "2026-09-15T04:00:23.274754130Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1,
+    "forks": 0,
+    "description": "minim-coder — local-only agentic coding harness (llama.cpp + openbmb/MiniCPM5-1B-GGUF). herdr-aesthetic TUI, LAN WebSocket UI, thinking on by default, goal-based self-healing execution. Apache-2.0.",
+    "license_spdx": "NOASSERTION",
+    "last_commit_at": "2026-07-10T20:34:30Z",
+    "commits_90d": 3,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "titanx-ces",
+      "account_created_at": "2011-10-24T12:37:53Z",
+      "other_repos_star_sum": 0
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 3093
+  }
+}

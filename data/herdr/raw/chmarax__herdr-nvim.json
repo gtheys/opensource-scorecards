@@ -1,0 +1,29 @@
+{
+  "slug": "chmarax/herdr-nvim",
+  "fetched_at": "2026-09-15T04:17:10.932236105Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 181,
+    "forks": 21,
+    "description": "Neovim, fully integrated into your herdr workspace",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-13T17:16:57Z",
+    "commits_90d": 114,
+    "releases_365d": 5,
+    "median_issue_close_days": 2.0988425925925926,
+    "median_pr_close_days": 0.15325231481481483,
+    "open_issues": 1,
+    "closed_issues_sampled": 7,
+    "contributors_12mo": 8,
+    "top_author_commit_share": 0.9385964912280702,
+    "top_author": {
+      "login": "ChmaraX",
+      "account_created_at": "2017-09-20T10:41:25Z",
+      "other_repos_star_sum": 575
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 7778
+  }
+}

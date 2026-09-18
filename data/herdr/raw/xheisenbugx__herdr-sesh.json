@@ -1,0 +1,29 @@
+{
+  "slug": "xheisenbugx/herdr-sesh",
+  "fetched_at": "2026-09-15T09:54:33.203421214Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1,
+    "forks": 0,
+    "description": "A smart herdr workspace manager inspired by sesh",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-09T17:22:10Z",
+    "commits_90d": 15,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.0012731481481481483,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "xheisenbugx",
+      "account_created_at": "2013-07-07T23:00:00Z",
+      "other_repos_star_sum": 11
+    },
+    "has_ci": false,
+    "has_tests": true,
+    "readme_len": 11554
+  }
+}

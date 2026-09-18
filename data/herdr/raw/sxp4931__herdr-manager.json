@@ -1,0 +1,29 @@
+{
+  "slug": "sxp4931/herdr-manager",
+  "fetched_at": "2026-09-15T08:28:08.777413075Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1,
+    "forks": 0,
+    "description": "macOS menu-bar app + MCP server for monitoring AI coding agents via herdr",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-07T22:33:21Z",
+    "commits_90d": 51,
+    "releases_365d": 1,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.5596238425925926,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 2,
+    "top_author_commit_share": 0.9411764705882353,
+    "top_author": {
+      "login": "sxp4931",
+      "account_created_at": "2025-04-01T18:51:20Z",
+      "other_repos_star_sum": 2
+    },
+    "has_ci": false,
+    "has_tests": true,
+    "readme_len": 4808
+  }
+}

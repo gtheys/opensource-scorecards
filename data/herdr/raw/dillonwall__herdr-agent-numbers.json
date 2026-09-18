@@ -1,0 +1,29 @@
+{
+  "slug": "dillonwall/herdr-agent-numbers",
+  "fetched_at": "2026-09-15T04:28:29.923858585Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "Number herdr's agents panel to match focus_agent (prefix+1..9).",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-14T03:36:21Z",
+    "commits_90d": 17,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.004733796296296297,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "DillonWall",
+      "account_created_at": "2019-04-01T23:05:53Z",
+      "other_repos_star_sum": 38
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 8883
+  }
+}

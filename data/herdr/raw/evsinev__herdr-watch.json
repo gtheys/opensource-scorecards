@@ -1,0 +1,25 @@
+{
+  "slug": "evsinev/herdr-watch",
+  "fetched_at": "2026-09-15T04:36:59.365306831Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "One-screen live monitor for herdr AI-agent sessions (local + SSH)",
+    "license_spdx": null,
+    "last_commit_at": "2026-08-29T02:52:57Z",
+    "commits_90d": 50,
+    "releases_365d": 11,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.008917824074074075,
+    "open_issues": 1,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 28537
+  }
+}

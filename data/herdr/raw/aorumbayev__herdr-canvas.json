@@ -1,0 +1,29 @@
+{
+  "slug": "aorumbayev/herdr-canvas",
+  "fetched_at": "2026-09-15T04:01:05.000415575Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 7,
+    "forks": 0,
+    "description": "Mouse-driven ASCII diagram canvas for herdr agents - draw in the TUI, share structured JSON, and let AI edit it.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-31T15:48:01Z",
+    "commits_90d": 49,
+    "releases_365d": 8,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.002199074074074074,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "aorumbayev",
+      "account_created_at": "2014-05-26T03:52:56Z",
+      "other_repos_star_sum": 1150
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 6720
+  }
+}

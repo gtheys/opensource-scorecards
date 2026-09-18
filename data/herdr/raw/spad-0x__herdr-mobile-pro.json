@@ -1,0 +1,29 @@
+{
+  "slug": "spad-0x/herdr-mobile-pro",
+  "fetched_at": "2026-09-15T08:24:09.083734413Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 2,
+    "forks": 1,
+    "description": "A high-performance, mobile-first PWA dashboard with a Cyber-Dark design for orchestrating Herdr and autonomous AI agents directly from your smartphone. Features secure HTTPS, speech-to-text dictation, vision uploads, and real-time semantic parsing of terminal outputs into a chat-centric interface.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-12T22:19:52Z",
+    "commits_90d": 73,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "spad-0x",
+      "account_created_at": "2018-10-08T15:54:07Z",
+      "other_repos_star_sum": 19
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 6904
+  }
+}

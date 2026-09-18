@@ -1,0 +1,29 @@
+{
+  "slug": "fellnerse/herdr-mobile",
+  "fetched_at": "2026-09-15T04:38:05.122937721Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 1,
+    "description": "Minimal mobile web interface for Herdr agent management",
+    "license_spdx": "NOASSERTION",
+    "last_commit_at": "2026-09-14T22:20:29Z",
+    "commits_90d": 103,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.6156481481481482,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 2,
+    "top_author_commit_share": 0.92,
+    "top_author": {
+      "login": "fellnerse",
+      "account_created_at": "2018-07-12T18:55:01Z",
+      "other_repos_star_sum": 10
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 16701
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "moneycaringcoder/herdr-collide",
+  "fetched_at": "2026-09-15T06:37:45.848229736Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1,
+    "forks": 0,
+    "description": "Warns when agents working in different git worktrees of one repo are about to collide — and whether their edits merely overlap or will actually conflict.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-28T14:26:55Z",
+    "commits_90d": 62,
+    "releases_365d": 5,
+    "median_issue_close_days": 0.7266435185185185,
+    "median_pr_close_days": 0.04800925925925926,
+    "open_issues": 5,
+    "closed_issues_sampled": 11,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "moneycaringcoder",
+      "account_created_at": "2026-03-02T15:30:47Z",
+      "other_repos_star_sum": 13
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 29293
+  }
+}

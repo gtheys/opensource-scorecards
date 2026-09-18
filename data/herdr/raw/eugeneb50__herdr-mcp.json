@@ -1,0 +1,29 @@
+{
+  "slug": "eugeneb50/herdr-mcp",
+  "fetched_at": "2026-09-15T04:36:49.686763236Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 2,
+    "forks": 1,
+    "description": "MCP server for Herdr CLI and sample playground ",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-13T04:05:20Z",
+    "commits_90d": 20,
+    "releases_365d": 1,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.0001388888888888889,
+    "open_issues": 1,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "eugeneb50",
+      "account_created_at": "2025-08-09T22:30:11Z",
+      "other_repos_star_sum": 2
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 17728
+  }
+}

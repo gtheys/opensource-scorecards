@@ -1,0 +1,29 @@
+{
+  "slug": "exviolet/sendoff",
+  "fetched_at": "2026-09-15T04:37:02.948252465Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1,
+    "forks": 0,
+    "description": "Linux-native Tauri shell for Sendoff with tmux, Herdr, and Orca integration.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-05T12:05:54Z",
+    "commits_90d": 251,
+    "releases_365d": 4,
+    "median_issue_close_days": 39.024293981481485,
+    "median_pr_close_days": null,
+    "open_issues": 2,
+    "closed_issues_sampled": 9,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "exviolet",
+      "account_created_at": "2023-12-23T18:26:50Z",
+      "other_repos_star_sum": 3
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 16503
+  }
+}

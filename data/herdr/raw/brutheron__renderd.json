@@ -1,0 +1,29 @@
+{
+  "slug": "brutheron/renderd",
+  "fetched_at": "2026-09-15T04:11:39.714173551Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "Live Markdown reader for completed Claude Code and Codex responses in Herdr",
+    "license_spdx": null,
+    "last_commit_at": "2026-08-15T12:22:19Z",
+    "commits_90d": 9,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.03248842592592593,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "Brutheron",
+      "account_created_at": "2021-11-05T20:54:18Z",
+      "other_repos_star_sum": 0
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 5592
+  }
+}

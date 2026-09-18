@@ -1,0 +1,29 @@
+{
+  "slug": "ooiyeefei/pixtension",
+  "fetched_at": "2026-09-15T07:51:51.849763932Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "pichestrator: parallel-work orchestrator for pi — guarded sub-agents in git worktrees + herdr, with a fail-closed prod-data/credential/rm bash guard.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-07-04T15:39:06Z",
+    "commits_90d": 3,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "grootdev-ai",
+      "account_created_at": "2025-07-18T11:45:21Z",
+      "other_repos_star_sum": 0
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 1544
+  }
+}

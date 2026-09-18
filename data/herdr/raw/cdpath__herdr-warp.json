@@ -1,0 +1,29 @@
+{
+  "slug": "cdpath/herdr-warp",
+  "fetched_at": "2026-09-15T04:15:28.764957071Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "Herdr plugin that drives the interactive Warp Agent CLI (warp) in Herdr panes: open/send/status/wait/read/approve/deny/new/stop/exit, with screen-scraped idle/working/blocked state",
+    "license_spdx": null,
+    "last_commit_at": "2026-08-13T06:26:32Z",
+    "commits_90d": 11,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "cdpath",
+      "account_created_at": "2015-03-14T10:13:05Z",
+      "other_repos_star_sum": 120
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 11898
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "jtnovellis/herdr-nvim",
+  "fetched_at": "2026-09-15T06:09:44.141332659Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "Neovim inside Herdr: a per-tab full-height sidebar, and a real round trip with your coding agent — ask about the code you're looking at, read the answer without leaving Neovim, and step through the edits it made.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-06T19:51:20Z",
+    "commits_90d": 25,
+    "releases_365d": 5,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 2.5494328703703704,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "jtnovellis",
+      "account_created_at": "2022-06-22T23:32:21Z",
+      "other_repos_star_sum": 0
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 29424
+  }
+}

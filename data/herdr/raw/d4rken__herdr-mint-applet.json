@@ -1,0 +1,29 @@
+{
+  "slug": "d4rken/herdr-mint-applet",
+  "fetched_at": "2026-09-15T04:23:24.283008161Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "Cinnamon panel applet for herdr: see which AI agent sessions are idle, busy, or blocked — click to jump to the pane that needs you.",
+    "license_spdx": "GPL-3.0",
+    "last_commit_at": "2026-09-07T13:26:15Z",
+    "commits_90d": 18,
+    "releases_365d": 5,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "d4rken",
+      "account_created_at": "2012-02-15T08:59:55Z",
+      "other_repos_star_sum": 825
+    },
+    "has_ci": false,
+    "has_tests": true,
+    "readme_len": 5111
+  }
+}

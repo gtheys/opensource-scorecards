@@ -1,0 +1,29 @@
+{
+  "slug": "yassimba/loom",
+  "fetched_at": "2026-09-15T09:56:07.273496714Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 9,
+    "forks": 0,
+    "description": "Curated agent skills, Pi packages, and Herdr plugins with one setup CLI",
+    "license_spdx": "Apache-2.0",
+    "last_commit_at": "2026-09-15T09:30:16Z",
+    "commits_90d": 432,
+    "releases_365d": 100,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.004375,
+    "open_issues": 11,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "Yassimba",
+      "account_created_at": "2016-01-20T13:02:16Z",
+      "other_repos_star_sum": 11
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 10902
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "hasuwini77/herdr-tab-git",
+  "fetched_at": "2026-09-15T05:49:59.665921257Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "Git branch and status in the Herdr Spaces sidebar that follow the active tab instead of the first one",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-28T09:10:59Z",
+    "commits_90d": 2,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "hasuwini77",
+      "account_created_at": "2022-09-28T18:30:38Z",
+      "other_repos_star_sum": 9
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 3488
+  }
+}

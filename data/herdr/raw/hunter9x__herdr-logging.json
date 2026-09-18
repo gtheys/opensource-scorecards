@@ -1,0 +1,29 @@
+{
+  "slug": "hunter9x/herdr-logging",
+  "fetched_at": "2026-09-15T05:54:56.976726998Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1,
+    "forks": 0,
+    "description": "Easy logging and screen capturing for herdr.",
+    "license_spdx": "Apache-2.0",
+    "last_commit_at": "2026-08-03T20:13:31Z",
+    "commits_90d": 7,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "hunter9x",
+      "account_created_at": "2014-05-21T05:00:08Z",
+      "other_repos_star_sum": 1
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 6052
+  }
+}

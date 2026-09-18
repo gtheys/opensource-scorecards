@@ -1,0 +1,25 @@
+{
+  "slug": "zackshen/herdr-workspace",
+  "fetched_at": "2026-09-15T10:00:04.800891334Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1,
+    "forks": 1,
+    "description": "Herdr plugin: create a workspace and apply a layout profile from a centered popup",
+    "license_spdx": "NOASSERTION",
+    "last_commit_at": "2026-08-24T08:43:49Z",
+    "commits_90d": 8,
+    "releases_365d": 3,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 6275
+  }
+}

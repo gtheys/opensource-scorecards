@@ -1,0 +1,29 @@
+{
+  "slug": "firegnu/herdr-loop-lab",
+  "fetched_at": "2026-09-15T04:38:31.716466372Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 3,
+    "forks": 1,
+    "description": "Loop-engineering toolkit on herdr: verification-driven, bounded-convergence agent loops (inner / fleet / epic)",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-07-14T17:14:19Z",
+    "commits_90d": 38,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "firegnu",
+      "account_created_at": "2013-04-03T04:19:48Z",
+      "other_repos_star_sum": 13
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 10897
+  }
+}

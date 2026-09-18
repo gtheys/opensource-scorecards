@@ -1,0 +1,29 @@
+{
+  "slug": "kryptamine/herdr-auto-title",
+  "fetched_at": "2026-09-15T06:16:51.396617204Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 141,
+    "forks": 14,
+    "description": "Tab titles that automatically follow the work in each tab. Keep your tabs organized and instantly know what you're working on with Herdr.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-14T20:42:18Z",
+    "commits_90d": 174,
+    "releases_365d": 9,
+    "median_issue_close_days": 0.12512731481481482,
+    "median_pr_close_days": 0.002349537037037037,
+    "open_issues": 3,
+    "closed_issues_sampled": 9,
+    "contributors_12mo": 5,
+    "top_author_commit_share": 0.9137931034482759,
+    "top_author": {
+      "login": "kryptamine",
+      "account_created_at": "2014-05-23T17:47:07Z",
+      "other_repos_star_sum": 160
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 6606
+  }
+}

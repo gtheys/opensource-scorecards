@@ -1,0 +1,29 @@
+{
+  "slug": "zerodice0/herdr-plugin-worktree-bootstrap",
+  "fetched_at": "2026-09-15T10:00:55.298254855Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1,
+    "forks": 0,
+    "description": "Safely copy ignored local files and run setup commands in new Herdr Git worktrees",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-03T09:42:58Z",
+    "commits_90d": 16,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.04846064814814815,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "zerodice0",
+      "account_created_at": "2014-02-14T13:45:42Z",
+      "other_repos_star_sum": 12
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 15675
+  }
+}

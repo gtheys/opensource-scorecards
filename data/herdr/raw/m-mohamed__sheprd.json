@@ -1,0 +1,29 @@
+{
+  "slug": "m-mohamed/sheprd",
+  "fetched_at": "2026-09-15T06:25:32.970714056Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1,
+    "forks": 0,
+    "description": "Keep Pi, Codex, Claude Code, and OpenCode in one visible, isolated Herdr Flok.",
+    "license_spdx": "NOASSERTION",
+    "last_commit_at": "2026-08-25T02:26:13Z",
+    "commits_90d": 31,
+    "releases_365d": 8,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 6.999965277777778,
+    "open_issues": 8,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "m-mohamed",
+      "account_created_at": "2018-09-18T02:39:01Z",
+      "other_repos_star_sum": 1
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 2920
+  }
+}

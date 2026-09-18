@@ -1,0 +1,29 @@
+{
+  "slug": "iskwyuki/herdr-control-panel",
+  "fetched_at": "2026-09-15T05:58:20.060154152Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "One keybinding, one panel for herdr: open a workspace from history or any path, and add your own actions. Pure bash + fzf, no build step.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-11T06:33:57Z",
+    "commits_90d": 4,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.017135416666666667,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "iskwyuki",
+      "account_created_at": "2023-11-24T14:30:47Z",
+      "other_repos_star_sum": 0
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 9955
+  }
+}

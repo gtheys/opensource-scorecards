@@ -1,0 +1,29 @@
+{
+  "slug": "ryanthedev/herderp",
+  "fetched_at": "2026-09-15T08:11:58.482949632Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 5,
+    "forks": 0,
+    "description": "Claude Code plugin: MCP tools for the herdr CLI + session necromancy (revive a previous Claude Code agent session from a herdr space).",
+    "license_spdx": null,
+    "last_commit_at": "2026-07-31T04:15:07Z",
+    "commits_90d": 33,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.00006944444444444444,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 2,
+    "top_author_commit_share": 0.8181818181818182,
+    "top_author": {
+      "login": "ryanthedev",
+      "account_created_at": "2017-07-31T16:09:18Z",
+      "other_repos_star_sum": 819
+    },
+    "has_ci": false,
+    "has_tests": true,
+    "readme_len": 4661
+  }
+}

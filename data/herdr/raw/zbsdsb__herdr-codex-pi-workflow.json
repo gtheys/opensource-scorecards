@@ -1,0 +1,29 @@
+{
+  "slug": "zbsdsb/herdr-codex-pi-workflow",
+  "fetched_at": "2026-09-15T10:00:25.039105580Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "Evidence-driven stateful workflow and post-delivery triage Skills for Pi and coding agents",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-02T04:14:34Z",
+    "commits_90d": 2,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "zbsdsb",
+      "account_created_at": "2024-01-17T08:53:37Z",
+      "other_repos_star_sum": 7
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 4473
+  }
+}

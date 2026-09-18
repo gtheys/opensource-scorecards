@@ -1,0 +1,29 @@
+{
+  "slug": "natori-hrj/herdr-green",
+  "fetched_at": "2026-09-15T06:42:22.224745170Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "Per-agent test status for herdr — run a project's tests when its agent finishes and show pass/fail.",
+    "license_spdx": "Apache-2.0",
+    "last_commit_at": "2026-07-23T08:05:11Z",
+    "commits_90d": 12,
+    "releases_365d": 1,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.00037037037037037035,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "natori-hrj",
+      "account_created_at": "2025-03-18T23:22:28Z",
+      "other_repos_star_sum": 53
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 4240
+  }
+}

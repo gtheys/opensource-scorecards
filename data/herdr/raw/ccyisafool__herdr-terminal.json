@@ -1,0 +1,29 @@
+{
+  "slug": "ccyisafool/herdr-terminal",
+  "fetched_at": "2026-09-15T04:15:15.879860475Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "A thin, branded Ghostty client that starts Herdr by default",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-16T17:23:41Z",
+    "commits_90d": 1,
+    "releases_365d": 1,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "ccyisafool",
+      "account_created_at": "2022-02-12T11:12:25Z",
+      "other_repos_star_sum": 7
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 4932
+  }
+}

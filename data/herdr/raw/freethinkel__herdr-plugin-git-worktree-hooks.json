@@ -1,0 +1,29 @@
+{
+  "slug": "freethinkel/herdr-plugin-git-worktree-hooks",
+  "fetched_at": "2026-09-15T04:39:55.329542169Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 6,
+    "forks": 0,
+    "description": "Run shell commands when a git worktree is created/removed — one YAML config for all projects, living outside any repo.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-07-06T09:37:39Z",
+    "commits_90d": 4,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "freethinkel",
+      "account_created_at": "2017-03-20T18:48:46Z",
+      "other_repos_star_sum": 262
+    },
+    "has_ci": false,
+    "has_tests": true,
+    "readme_len": 2471
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "donghyunnn/ai-share-usage-herdr",
+  "fetched_at": "2026-09-15T04:31:03.627103785Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "herdr plugin for AI Share Usage: shared Codex quota tracking in the herdr terminal",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-12T05:41:14Z",
+    "commits_90d": 15,
+    "releases_365d": 11,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "web-flow",
+      "account_created_at": "2016-06-10T22:16:20Z",
+      "other_repos_star_sum": 0
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 6307
+  }
+}

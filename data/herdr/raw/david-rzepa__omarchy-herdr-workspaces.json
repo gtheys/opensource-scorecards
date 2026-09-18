@@ -1,0 +1,29 @@
+{
+  "slug": "david-rzepa/omarchy-herdr-workspaces",
+  "fetched_at": "2026-09-15T04:25:09.892633748Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "Theme-accent Omarchy workspace indicators for unread Herdr agent activity, cleared by exact-tab focus.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-08T20:40:04Z",
+    "commits_90d": 1,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "david-rzepa",
+      "account_created_at": "2014-01-19T15:38:54Z",
+      "other_repos_star_sum": 4
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 3540
+  }
+}

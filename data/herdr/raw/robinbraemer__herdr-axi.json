@@ -1,0 +1,29 @@
+{
+  "slug": "robinbraemer/herdr-axi",
+  "fetched_at": "2026-09-15T08:08:52.993215214Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "Agent-ergonomic CLI for Herdr terminal workspace operations",
+    "license_spdx": null,
+    "last_commit_at": "2026-07-11T14:31:38Z",
+    "commits_90d": 1,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "robinbraemer",
+      "account_created_at": "2016-09-05T11:13:18Z",
+      "other_repos_star_sum": 89
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 74
+  }
+}

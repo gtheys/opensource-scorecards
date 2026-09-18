@@ -1,0 +1,29 @@
+{
+  "slug": "yogevkr/rai",
+  "fetched_at": "2026-09-15T09:57:22.284868848Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 6,
+    "forks": 0,
+    "description": "Shepherd your coding-agent flock — a native macOS window for herdr: who's working, who's stuck, who's bleating for approval",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-15T06:44:40Z",
+    "commits_90d": 456,
+    "releases_365d": 62,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.003587962962962963,
+    "open_issues": 1,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "YogevKr",
+      "account_created_at": "2016-12-18T12:37:25Z",
+      "other_repos_star_sum": 22
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 17203
+  }
+}

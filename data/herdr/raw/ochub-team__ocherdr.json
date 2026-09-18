@@ -1,0 +1,29 @@
+{
+  "slug": "ochub-team/ocherdr",
+  "fetched_at": "2026-09-15T07:49:29.487786493Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 2,
+    "forks": 0,
+    "description": "Native macOS GUI client for Herdr, built with ochub-ui and libghostty-vt",
+    "license_spdx": "Apache-2.0",
+    "last_commit_at": "2026-09-05T20:37:48Z",
+    "commits_90d": 154,
+    "releases_365d": 18,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 1,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "Sleepstars",
+      "account_created_at": "2023-12-13T12:29:46Z",
+      "other_repos_star_sum": 66
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 11793
+  }
+}

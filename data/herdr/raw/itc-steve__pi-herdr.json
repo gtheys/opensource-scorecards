@@ -1,0 +1,29 @@
+{
+  "slug": "itc-steve/pi-herdr",
+  "fetched_at": "2026-09-15T05:58:53.560463883Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "Pi extension for Herdr-visible subagent herds - default-local workers, optional ranked-frontier think, markdown handoff.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-31T22:00:38Z",
+    "commits_90d": 16,
+    "releases_365d": 6,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "itc-steve",
+      "account_created_at": "2023-02-25T18:29:47Z",
+      "other_repos_star_sum": 0
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 7456
+  }
+}

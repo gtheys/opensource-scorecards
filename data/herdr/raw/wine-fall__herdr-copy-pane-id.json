@@ -1,0 +1,29 @@
+{
+  "slug": "wine-fall/herdr-copy-pane-id",
+  "fetched_at": "2026-09-15T09:52:03.637700527Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1,
+    "forks": 0,
+    "description": "Herdr plugin: copy the focused pane's id to the clipboard, or show every pane's id on its border",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-24T08:27:28Z",
+    "commits_90d": 2,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "wine-fall",
+      "account_created_at": "2020-03-29T08:32:50Z",
+      "other_repos_star_sum": 5
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 2716
+  }
+}

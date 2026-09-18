@@ -1,0 +1,29 @@
+{
+  "slug": "aboufama/claude-agents-tmux",
+  "fetched_at": "2026-09-15T03:50:15.543131478Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "Tmux and herdr mission control for running many AI coding agents in one session",
+    "license_spdx": null,
+    "last_commit_at": "2026-07-07T18:56:51Z",
+    "commits_90d": 19,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "ab3233-oss",
+      "account_created_at": "2025-11-12T02:38:37Z",
+      "other_repos_star_sum": 0
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 9139
+  }
+}

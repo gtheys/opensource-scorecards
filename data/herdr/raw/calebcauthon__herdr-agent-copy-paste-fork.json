@@ -1,0 +1,29 @@
+{
+  "slug": "calebcauthon/herdr-agent-copy-paste-fork",
+  "fetched_at": "2026-09-15T04:13:07.770207634Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 2,
+    "forks": 2,
+    "description": "fork by simply copying and pasting, or hotkey the fork into a new pane",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-07-24T12:46:39Z",
+    "commits_90d": 3,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 2,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "calebcauthon",
+      "account_created_at": "2009-11-04T13:37:49Z",
+      "other_repos_star_sum": 18
+    },
+    "has_ci": false,
+    "has_tests": true,
+    "readme_len": 10045
+  }
+}

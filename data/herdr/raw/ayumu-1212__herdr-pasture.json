@@ -1,0 +1,29 @@
+{
+  "slug": "ayumu-1212/herdr-pasture",
+  "fetched_at": "2026-09-15T04:04:48.370621122Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "herdr plugin: agents grouped by repository, docked on the left of every tab",
+    "license_spdx": null,
+    "last_commit_at": "2026-09-10T15:35:35Z",
+    "commits_90d": 52,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.0016898148148148148,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "ayumu-1212",
+      "account_created_at": "2019-05-23T01:58:11Z",
+      "other_repos_star_sum": 2
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 11484
+  }
+}

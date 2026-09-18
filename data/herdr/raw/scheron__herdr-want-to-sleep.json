@@ -1,0 +1,29 @@
+{
+  "slug": "scheron/herdr-want-to-sleep",
+  "fetched_at": "2026-09-15T08:15:13.942445635Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "A herdr plugin that puts your Mac to sleep once no coding agent is working any more. Arm it before bed and it waits for every agent to settle, then journals what each one was doing — including the ones that ended up blocked.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-07-28T17:54:48Z",
+    "commits_90d": 6,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "scheron",
+      "account_created_at": "2021-03-05T15:44:44Z",
+      "other_repos_star_sum": 11
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 6044
+  }
+}

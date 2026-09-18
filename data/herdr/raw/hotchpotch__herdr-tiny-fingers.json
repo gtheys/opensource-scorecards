@@ -1,0 +1,29 @@
+{
+  "slug": "hotchpotch/herdr-tiny-fingers",
+  "fetched_at": "2026-09-15T05:53:28.222104369Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 12,
+    "forks": 3,
+    "description": "tmux-fingers style visible-screen copy hints for Herdr",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-04T10:03:31Z",
+    "commits_90d": 20,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 4.118888888888889,
+    "open_issues": 2,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 2,
+    "top_author_commit_share": 0.9,
+    "top_author": {
+      "login": "hotchpotch",
+      "account_created_at": "2008-03-21T01:50:42Z",
+      "other_repos_star_sum": 717
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 6500
+  }
+}

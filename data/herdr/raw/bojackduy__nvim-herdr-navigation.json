@@ -1,0 +1,25 @@
+{
+  "slug": "bojackduy/nvim-herdr-navigation",
+  "fetched_at": "2026-09-15T04:09:10.817839029Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 6,
+    "forks": 2,
+    "description": "vim-tmux-navigator style ctrl+h/j/k/l navigation between Neovim splits and Herdr panes",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-07-20T08:00:45Z",
+    "commits_90d": 9,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 9502
+  }
+}

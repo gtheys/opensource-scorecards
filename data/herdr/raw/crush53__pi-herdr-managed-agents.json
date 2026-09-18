@@ -1,0 +1,29 @@
+{
+  "slug": "crush53/pi-herdr-managed-agents",
+  "fetched_at": "2026-09-15T04:22:12.342580227Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "Managed native Pi, Claude Code, and Codex agents in auditable Herdr tabs — community Pi extension",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-08T19:46:13Z",
+    "commits_90d": 3,
+    "releases_365d": 1,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 1,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "Crush53",
+      "account_created_at": "2020-03-27T02:11:41Z",
+      "other_repos_star_sum": 0
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 9965
+  }
+}

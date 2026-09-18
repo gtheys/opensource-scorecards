@@ -1,0 +1,29 @@
+{
+  "slug": "dcieslak19973/herdr-slackr",
+  "fetched_at": "2026-09-15T04:25:52.129763309Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "Real-time Slack feed pane for herdr — Socket Mode with polling fallback",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-07-30T22:23:15Z",
+    "commits_90d": 113,
+    "releases_365d": 17,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.006956018518518518,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "dcieslak19973",
+      "account_created_at": "2013-03-12T20:49:15Z",
+      "other_repos_star_sum": 1
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 39185
+  }
+}

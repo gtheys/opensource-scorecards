@@ -1,0 +1,29 @@
+{
+  "slug": "dark2momo/herdr-tty",
+  "fetched_at": "2026-09-15T04:25:00.910277315Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 3,
+    "forks": 2,
+    "description": "An independent, lightweight, mobile-friendly web terminal for Herdr, powered by ttyd",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-02T10:34:03Z",
+    "commits_90d": 76,
+    "releases_365d": 0,
+    "median_issue_close_days": 11.739363425925927,
+    "median_pr_close_days": 0.0006828703703703704,
+    "open_issues": 0,
+    "closed_issues_sampled": 1,
+    "contributors_12mo": 2,
+    "top_author_commit_share": 0.9736842105263158,
+    "top_author": {
+      "login": "dark2momo",
+      "account_created_at": "2025-02-25T14:54:38Z",
+      "other_repos_star_sum": 3
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 7198
+  }
+}

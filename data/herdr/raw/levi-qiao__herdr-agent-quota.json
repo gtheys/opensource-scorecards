@@ -1,0 +1,29 @@
+{
+  "slug": "levi-qiao/herdr-agent-quota",
+  "fetched_at": "2026-09-15T06:20:49.822459202Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 116,
+    "forks": 25,
+    "description": "Credential-scoped AI quota, context, and cache in Herdr for Claude, Codex, Grok, Agy, OpenCode, Pi, omp, Devin and Muse.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-14T09:13:21Z",
+    "commits_90d": 157,
+    "releases_365d": 12,
+    "median_issue_close_days": 0.1975462962962963,
+    "median_pr_close_days": 0.013680555555555555,
+    "open_issues": 1,
+    "closed_issues_sampled": 7,
+    "contributors_12mo": 11,
+    "top_author_commit_share": 0.7252747252747253,
+    "top_author": {
+      "login": "levi-qiao",
+      "account_created_at": "2019-02-26T05:59:33Z",
+      "other_repos_star_sum": 217
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 7521
+  }
+}

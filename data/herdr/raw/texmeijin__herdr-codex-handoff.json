@@ -1,0 +1,29 @@
+{
+  "slug": "texmeijin/herdr-codex-handoff",
+  "fetched_at": "2026-09-15T08:32:24.641147094Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "herdrで利用中のClaudeがUsage Limitで止まったときにスムーズに隣のPaneに引き継ぎCodexセッションを起動するPlugin",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-01T01:06:31Z",
+    "commits_90d": 2,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "TeXmeijin",
+      "account_created_at": "2014-05-02T07:22:15Z",
+      "other_repos_star_sum": 117
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 2547
+  }
+}

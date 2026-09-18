@@ -1,0 +1,29 @@
+{
+  "slug": "eden-sun/agents-manager",
+  "fetched_at": "2026-09-15T04:32:56.978544031Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "Web UI for managing multiple coding-agent CLIs (claude / codex / grok) running in herdr panes — Rust axum daemon + React",
+    "license_spdx": null,
+    "last_commit_at": "2026-09-15T02:51:10Z",
+    "commits_90d": 915,
+    "releases_365d": 0,
+    "median_issue_close_days": 2.8370659722222222,
+    "median_pr_close_days": null,
+    "open_issues": 5,
+    "closed_issues_sampled": 50,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "Eden-Sun",
+      "account_created_at": "2014-12-25T08:28:49Z",
+      "other_repos_star_sum": 6
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 16787
+  }
+}

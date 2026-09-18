@@ -1,0 +1,29 @@
+{
+  "slug": "sean1588/herdr-orchestrator",
+  "fetched_at": "2026-09-15T08:16:04.752380416Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 5,
+    "forks": 1,
+    "description": "A control-plane daemon that turns GitHub issues into pull requests by driving herdr through a deterministic state-graph engine.",
+    "license_spdx": null,
+    "last_commit_at": "2026-09-08T09:20:34Z",
+    "commits_90d": 49,
+    "releases_365d": 0,
+    "median_issue_close_days": 0.8862847222222222,
+    "median_pr_close_days": 0.0017476851851851852,
+    "open_issues": 5,
+    "closed_issues_sampled": 19,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "sean1588",
+      "account_created_at": "2016-01-18T03:21:09Z",
+      "other_repos_star_sum": 8
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 25845
+  }
+}

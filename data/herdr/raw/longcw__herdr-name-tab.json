@@ -1,0 +1,29 @@
+{
+  "slug": "longcw/herdr-name-tab",
+  "fetched_at": "2026-09-15T06:23:33.741930178Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "One-word Herdr tab names, from the first thing you type in the tab",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-02T13:20:52Z",
+    "commits_90d": 17,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "longcw",
+      "account_created_at": "2013-12-16T15:44:37Z",
+      "other_repos_star_sum": 5403
+    },
+    "has_ci": false,
+    "has_tests": true,
+    "readme_len": 11869
+  }
+}

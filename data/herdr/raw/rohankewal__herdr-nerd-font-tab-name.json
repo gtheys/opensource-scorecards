@@ -1,0 +1,29 @@
+{
+  "slug": "rohankewal/herdr-nerd-font-tab-name",
+  "fetched_at": "2026-09-15T08:09:25.813249446Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 4,
+    "forks": 0,
+    "description": "Nerd Font icons for your herdr tabs — a port of joshmedeski/tmux-nerd-font-window-name",
+    "license_spdx": "NOASSERTION",
+    "last_commit_at": "2026-07-31T18:27:53Z",
+    "commits_90d": 1,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "rohankewal",
+      "account_created_at": "2018-12-15T23:44:25Z",
+      "other_repos_star_sum": 4
+    },
+    "has_ci": false,
+    "has_tests": true,
+    "readme_len": 9508
+  }
+}

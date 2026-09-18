@@ -1,0 +1,29 @@
+{
+  "slug": "korvyashka/herdr-pr-relay",
+  "fetched_at": "2026-09-15T06:16:24.971217290Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "Pick pull requests, write a line, and send it to a running agent session as a prompt — a Herdr plugin",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-08T16:37:23Z",
+    "commits_90d": 10,
+    "releases_365d": 1,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "korvyashka",
+      "account_created_at": "2011-05-25T04:30:36Z",
+      "other_repos_star_sum": 0
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 5036
+  }
+}

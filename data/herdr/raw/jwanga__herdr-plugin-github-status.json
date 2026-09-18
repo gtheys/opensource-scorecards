@@ -1,0 +1,29 @@
+{
+  "slug": "jwanga/herdr-plugin-github-status",
+  "fetched_at": "2026-09-15T06:10:42.909870424Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "herdr plugin: a real-time GitHub project status pane (milestones, issues, PRs, Actions) docked on the right at sidebar width",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-04T15:01:14Z",
+    "commits_90d": 30,
+    "releases_365d": 0,
+    "median_issue_close_days": 0.16363425925925926,
+    "median_pr_close_days": 0.008217592592592592,
+    "open_issues": 3,
+    "closed_issues_sampled": 6,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "jwanga",
+      "account_created_at": "2011-07-08T15:29:42Z",
+      "other_repos_star_sum": 190
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 5539
+  }
+}

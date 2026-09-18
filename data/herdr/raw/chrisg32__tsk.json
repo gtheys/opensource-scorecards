@@ -1,0 +1,29 @@
+{
+  "slug": "chrisg32/tsk",
+  "fetched_at": "2026-09-15T04:18:05.522686280Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1,
+    "forks": 0,
+    "description": "tsk — a TaskPaper/PlainTasks-style plain-text task TUI, written in Rust. Runs standalone or as a herdr plugin.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-03T01:10:53Z",
+    "commits_90d": 4,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "chrisg32",
+      "account_created_at": "2012-06-09T02:13:29Z",
+      "other_repos_star_sum": 110
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 6267
+  }
+}

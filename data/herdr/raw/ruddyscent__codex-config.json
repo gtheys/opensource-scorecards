@@ -1,0 +1,29 @@
+{
+  "slug": "ruddyscent/codex-config",
+  "fetched_at": "2026-09-15T08:11:16.379256872Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "Reusable Codex instructions and skills for delegated open-source workflows, with worktree isolation and herdr pane management.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-15T04:27:21Z",
+    "commits_90d": 16,
+    "releases_365d": 0,
+    "median_issue_close_days": 0.008553240740740741,
+    "median_pr_close_days": 0.00032407407407407406,
+    "open_issues": 1,
+    "closed_issues_sampled": 1,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "ruddyscent",
+      "account_created_at": "2013-02-21T06:49:51Z",
+      "other_repos_star_sum": 37
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 7711
+  }
+}

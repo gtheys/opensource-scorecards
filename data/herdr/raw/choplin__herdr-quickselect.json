@@ -1,0 +1,29 @@
+{
+  "slug": "choplin/herdr-quickselect",
+  "fetched_at": "2026-09-15T04:17:32.522145870Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "Select visible terminal text and run configurable actions in Herdr.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-24T06:47:08Z",
+    "commits_90d": 9,
+    "releases_365d": 2,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "choplin",
+      "account_created_at": "2010-07-24T13:51:02Z",
+      "other_repos_star_sum": 265
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 8511
+  }
+}

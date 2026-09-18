@@ -1,0 +1,29 @@
+{
+  "slug": "tresnanda/mustr",
+  "fetched_at": "2026-09-15T08:40:05.500196312Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1,
+    "forks": 0,
+    "description": "Mustr: a native macOS desktop client for herdr, the terminal runtime for AI coding agents",
+    "license_spdx": null,
+    "last_commit_at": "2026-08-25T02:21:19Z",
+    "commits_90d": 62,
+    "releases_365d": 18,
+    "median_issue_close_days": 0.09655092592592593,
+    "median_pr_close_days": 0.0009953703703703704,
+    "open_issues": 1,
+    "closed_issues_sampled": 2,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "Tresnanda",
+      "account_created_at": "2022-08-29T10:01:35Z",
+      "other_repos_star_sum": 18
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 3988
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "nathanflurry/herdr-plugin-jj-workspace",
+  "fetched_at": "2026-09-15T06:42:00.862736569Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 47,
+    "forks": 7,
+    "description": "Create and remove Jujutsu (jj) workspaces as Herdr workspaces",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-03T05:51:53Z",
+    "commits_90d": 21,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.004612268518518519,
+    "open_issues": 4,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "NathanFlurry",
+      "account_created_at": "2013-01-20T18:30:40Z",
+      "other_repos_star_sum": 1323
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 2113
+  }
+}

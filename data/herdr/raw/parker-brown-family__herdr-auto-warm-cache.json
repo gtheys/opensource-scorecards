@@ -1,0 +1,29 @@
+{
+  "slug": "parker-brown-family/herdr-auto-warm-cache",
+  "fetched_at": "2026-09-15T07:54:59.982656803Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "A herdr plugin that keeps an idle agent's prompt cache warm before the one-hour TTL expires — 20x cheaper than letting it lapse. Asks before it types, and never types into a pane that is waiting on you.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-04T18:26:46Z",
+    "commits_90d": 9,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "parker-brown-family",
+      "account_created_at": "2026-03-11T14:28:58Z",
+      "other_repos_star_sum": 8
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 7018
+  }
+}

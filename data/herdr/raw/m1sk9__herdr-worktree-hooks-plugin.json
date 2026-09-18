@@ -1,0 +1,29 @@
+{
+  "slug": "m1sk9/herdr-worktree-hooks-plugin",
+  "fetched_at": "2026-09-15T06:25:38.221690097Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "A plugin that adds customizable hooks to Herdr's Worktree",
+    "license_spdx": "Apache-2.0",
+    "last_commit_at": "2026-08-11T12:19:56Z",
+    "commits_90d": 3,
+    "releases_365d": 3,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.002361111111111111,
+    "open_issues": 2,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "m1sk9",
+      "account_created_at": "2021-04-15T08:46:07Z",
+      "other_repos_star_sum": 28
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 4603
+  }
+}
