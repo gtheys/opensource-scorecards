@@ -1,6 +1,6 @@
 {
   "slug": "julwrites/llm-nvim",
-  "fetched_at": "2026-09-18T07:22:48.408498662Z",
+  "fetched_at": "2026-09-19T08:30:50.760764104Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,10 +9,10 @@
     "description": "Neovim plugin for llm CLI",
     "license_spdx": "Apache-2.0",
     "last_commit_at": "2026-06-20T07:52:19Z",
-    "commits_90d": 2,
+    "commits_90d": 0,
     "releases_365d": 0,
     "median_issue_close_days": null,
-    "median_pr_close_days": 0.0006076388888888889,
+    "median_pr_close_days": 0.0006018518518518519,
     "open_issues": 4,
     "closed_issues_sampled": 0,
     "contributors_12mo": 1,

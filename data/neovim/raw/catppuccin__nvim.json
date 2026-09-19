@@ -1,6 +1,6 @@
 {
   "slug": "catppuccin/nvim",
-  "fetched_at": "2026-09-18T07:06:05.485356904Z",
+  "fetched_at": "2026-09-19T08:10:46.047545565Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "comfysage",
       "account_created_at": "2020-07-06T15:54:31Z",
-      "other_repos_star_sum": 568
+      "other_repos_star_sum": 569
     },
     "has_ci": true,
     "has_tests": true,

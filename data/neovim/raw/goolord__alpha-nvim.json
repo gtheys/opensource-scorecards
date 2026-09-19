@@ -1,10 +1,10 @@
 {
   "slug": "goolord/alpha-nvim",
-  "fetched_at": "2026-09-18T07:17:24.741896465Z",
+  "fetched_at": "2026-09-19T08:24:17.052782383Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 2409,
+    "stars": 2411,
     "forks": 129,
     "description": "a lua powered greeter like vim-startify / dashboard-nvim",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "goolord",
       "account_created_at": "2017-01-04T02:55:06Z",
-      "other_repos_star_sum": 2502
+      "other_repos_star_sum": 2505
     },
     "has_ci": false,
     "has_tests": false,

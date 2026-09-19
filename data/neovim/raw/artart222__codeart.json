@@ -1,6 +1,6 @@
 {
   "slug": "artart222/codeart",
-  "fetched_at": "2026-09-18T07:02:30.955406577Z",
+  "fetched_at": "2026-09-19T08:06:33.292348550Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "artart222",
       "account_created_at": "2019-09-19T20:48:22Z",
-      "other_repos_star_sum": 921
+      "other_repos_star_sum": 923
     },
     "has_ci": true,
     "has_tests": false,

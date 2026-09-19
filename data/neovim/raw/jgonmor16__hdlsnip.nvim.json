@@ -1,10 +1,10 @@
 {
   "slug": "jgonmor16/hdlsnip.nvim",
-  "fetched_at": "2026-09-18T07:21:34.436816773Z",
+  "fetched_at": "2026-09-19T08:29:22.962830225Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 2,
+    "stars": 3,
     "forks": 0,
     "description": "Parameterised VHDL templates for Neovim — entities, FSMs, CDC, AXI4-Lite and testbenches, rendered from Lua rather than pasted.",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "jgonmor16",
       "account_created_at": "2020-12-15T14:48:34Z",
-      "other_repos_star_sum": 10
+      "other_repos_star_sum": 11
     },
     "has_ci": true,
     "has_tests": true,
