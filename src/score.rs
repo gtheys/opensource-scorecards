@@ -34,6 +34,9 @@ pub struct ScoredProject {
     pub buckets: Option<HashMap<String, f64>>,
     #[serde(skip_serializing_if = "Option::is_none")]
     pub signals: Option<HashMap<String, SignalScore>>,
+    // AIDEV-NOTE: display-only raw star count, not a scoring signal (stars_log scores it).
+    #[serde(skip_serializing_if = "Option::is_none")]
+    pub stars: Option<u64>,
 }
 
 #[derive(Debug, Clone, Serialize, serde::Deserialize)]
@@ -229,6 +232,7 @@ pub fn score_category(cfg: &Config, category: &str, records: Vec<RepoRecord>) ->
             total: Some((total * 10.0).round() / 10.0),
             buckets: Some(buckets),
             signals: Some(signals_map),
+            stars: Some(rec.data.as_ref().expect("ok").stars),
         });
     }
     // Unavailable repos: listed, unscored (spec: shown, excluded from ranking).
@@ -239,6 +243,7 @@ pub fn score_category(cfg: &Config, category: &str, records: Vec<RepoRecord>) ->
             total: None,
             buckets: None,
             signals: None,
+            stars: None,
         });
     }
     projects.sort_by(|a, b| {
@@ -382,6 +387,23 @@ mod tests {
         assert!(a > b, "small-cat {a} should beat huge-cat {b}");
         assert_eq!(a, 1.0);
         assert_eq!(b, 0.0);
+    }
+
+    #[test]
+    fn scored_project_without_stars_deserializes_none() {
+        let json = r#"{"slug":"a/b","status":"ok","total":50.0}"#;
+        let p: ScoredProject = serde_json::from_str(json).unwrap();
+        assert_eq!(p.stars, None);
+    }
+
+    #[test]
+    fn fixture_stars_carried_through_scoring() {
+        let rec: RepoRecord = serde_json::from_str(
+            include_str!("../tests/fixtures/nvim-telescope__telescope.nvim.json"),
+        )
+        .unwrap();
+        let scored = score_category(&cfg(), "t", vec![rec]);
+        assert_eq!(scored.projects[0].stars, Some(19709));
     }
 
     #[test]

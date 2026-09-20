@@ -14,7 +14,18 @@ pub fn run(cfg: &Config, category: &str) -> anyhow::Result<()> {
 fn templates() -> anyhow::Result<Tera> {
     let mut tera = Tera::new();
     tera.load_from_glob("templates/**/*.html")?;
+    tera.register_filter("stars_fmt", stars_fmt);
     Ok(tera)
+}
+
+/// Formats star counts for display: ≥1000 → `{:.1}k`, <1000 → digits, null → em dash.
+fn stars_fmt(value: &tera::Value, _kwargs: tera::Kwargs, _state: &tera::State) -> tera::TeraResult<tera::Value> {
+    let out = match value.as_u64() {
+        Some(n) if n >= 1000 => format!("{:.1}k", n as f64 / 1000.0),
+        Some(n) => n.to_string(),
+        None => "—".to_string(),
+    };
+    Ok(tera::Value::from(out))
 }
 
 /// Renders one category. Leaderboard goes to `<key>.html`; every run also
@@ -123,6 +134,22 @@ mod tests {
     use super::*;
     use crate::config::Config;
     use crate::score::{score_category, ScoredCategory};
+
+    #[test]
+    fn stars_fmt_cases() {
+        let mut tera = Tera::default();
+        tera.register_filter("stars_fmt", super::stars_fmt);
+        tera.add_raw_template("t", "{{ s | stars_fmt }}").unwrap();
+        let render = |s: Option<u64>| -> String {
+            let mut ctx = Context::new();
+            ctx.insert("s", &s);
+            tera.render("t", &ctx).unwrap()
+        };
+        assert_eq!(render(None), "—");
+        assert_eq!(render(Some(0)), "0");
+        assert_eq!(render(Some(999)), "999");
+        assert_eq!(render(Some(19709)), "19.7k");
+    }
 
     fn fixture_scores() -> ScoredCategory {
         // Golden-input test: render from the real 3-repo scores.json if present,
