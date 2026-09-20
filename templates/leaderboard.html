@@ -6,7 +6,7 @@
 <strong>not comparable across categories</strong>. Generated {{ generated_at }}.</p>
 <table>
   <thead><tr>
-    <th>#</th><th>Project</th><th class="num">Score</th>
+    <th>#</th><th>Project</th><th class="num">Score</th><th class="num">Stars</th>
     <th class="num">Maintenance</th><th class="num">Community</th><th class="num">Quality</th>
   </tr></thead>
   <tbody>
@@ -15,6 +15,7 @@
       <td class="num">{{ loop.index }}</td>
       <td><a href="{{ root }}projects/{{ p.slug | replace(from="/", to="__") }}.html">{{ p.slug }}</a></td>
       <td class="num"><span class="bar"><span class="fill" style="width: {{ p.total }}%"></span></span> {{ p.total }}</td>
+      <td class="num">{{ p.stars | stars_fmt }}</td>
       <td class="num">{{ p.buckets.maintenance }}</td>
       <td class="num">{{ p.buckets.community }}</td>
       <td class="num">{{ p.buckets.quality }}</td>

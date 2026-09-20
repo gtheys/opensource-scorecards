@@ -13,8 +13,9 @@ pub fn run(cfg: &Config, category: &str) -> anyhow::Result<()> {
 
 fn templates() -> anyhow::Result<Tera> {
     let mut tera = Tera::new();
-    tera.load_from_glob("templates/**/*.html")?;
+    // AIDEV-NOTE: register filters before load_from_glob — Tera validates filter names at template-parse time.
     tera.register_filter("stars_fmt", stars_fmt);
+    tera.load_from_glob("templates/**/*.html")?;
     Ok(tera)
 }
 
@@ -178,6 +179,8 @@ mod tests {
             assert!(html.contains("nvim-telescope/telescope.nvim"));
             assert!(html.contains(r#"href="neovim.html""#));
             assert!(html.contains(r#"href="pi.html""#));
+            assert!(html.contains("Stars"));
+            assert!(html.contains("19.7k"));
         }
 
         let hub = std::fs::read_to_string(dir.join("index.html")).unwrap();
@@ -193,6 +196,7 @@ mod tests {
         assert!(project.contains("Total score:"));
         assert!(project.contains("Signal breakdown"));
         assert!(project.contains("license_osi"));
+        assert!(project.contains("19.7k"));
         // Project pages live one level deep — nav links must be ../-prefixed.
         assert!(project.contains(r#"href="../pi.html""#));
         assert!(project.contains(r#"href="../methodology.html""#));

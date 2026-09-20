@@ -2,6 +2,7 @@
 {% block title %}{{ p.slug }} — Scorecards{% endblock %}
 {% block content %}
 <h1>{{ p.slug }}</h1>
+<p>★ {{ p.stars | stars_fmt }}</p>
 {% if p.total %}
 <p><strong>Total score: {{ p.total }} / 100</strong></p>
 <table>
