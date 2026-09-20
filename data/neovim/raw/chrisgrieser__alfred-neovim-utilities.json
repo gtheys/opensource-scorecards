@@ -1,6 +1,6 @@
 {
   "slug": "chrisgrieser/alfred-neovim-utilities",
-  "fetched_at": "2026-09-19T08:11:29.020292276Z",
+  "fetched_at": "2026-09-20T08:43:11.220428963Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "Search neovim plugins and the online :help via Alfred.",
     "license_spdx": "MIT",
     "last_commit_at": "2026-09-15T09:35:31Z",
-    "commits_90d": 7,
+    "commits_90d": 6,
     "releases_365d": 2,
     "median_issue_close_days": 0.2088599537037037,
     "median_pr_close_days": 0.039641203703703706,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "chrisgrieser",
       "account_created_at": "2020-10-22T10:50:35Z",
-      "other_repos_star_sum": 8838
+      "other_repos_star_sum": 8840
     },
     "has_ci": true,
     "has_tests": false,

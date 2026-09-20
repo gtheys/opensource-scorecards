@@ -1,6 +1,6 @@
 {
   "slug": "justinmk/guh.nvim",
-  "fetched_at": "2026-09-19T08:31:02.791130145Z",
+  "fetched_at": "2026-09-20T09:01:56.953599490Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "Work with GitHub in Neovim 🌊",
     "license_spdx": "MIT",
     "last_commit_at": "2026-06-24T12:56:30Z",
-    "commits_90d": 26,
+    "commits_90d": 20,
     "releases_365d": 1,
     "median_issue_close_days": 4.159097222222222,
     "median_pr_close_days": 0.011140046296296297,

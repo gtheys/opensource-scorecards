@@ -1,10 +1,10 @@
 {
   "slug": "dstein64/nvim-scrollview",
-  "fetched_at": "2026-09-19T08:18:37.367310953Z",
+  "fetched_at": "2026-09-20T08:49:59.114587457Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 702,
+    "stars": 703,
     "forks": 14,
     "description": "A Neovim plugin that displays interactive vertical scrollbars and signs.",
     "license_spdx": "MIT",

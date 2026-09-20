@@ -1,11 +1,11 @@
 {
   "slug": "francescarpi/buffon.nvim",
-  "fetched_at": "2026-09-19T08:22:24.161494835Z",
+  "fetched_at": "2026-09-20T08:53:37.429141072Z",
   "status": "ok",
   "data": {
     "archived": false,
     "stars": 34,
-    "forks": 2,
+    "forks": 1,
     "description": "Neovim plugin for navigating between buffers",
     "license_spdx": "MIT",
     "last_commit_at": "2026-06-26T05:18:03Z",

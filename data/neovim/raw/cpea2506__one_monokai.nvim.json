@@ -1,6 +1,6 @@
 {
   "slug": "cpea2506/one_monokai.nvim",
-  "fetched_at": "2026-09-19T08:13:47.922032800Z",
+  "fetched_at": "2026-09-20T08:45:22.845807254Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "One Monokai for Neovim",
     "license_spdx": "MIT",
     "last_commit_at": "2026-09-13T15:32:20Z",
-    "commits_90d": 2,
+    "commits_90d": 1,
     "releases_365d": 2,
     "median_issue_close_days": 71.20775462962963,
     "median_pr_close_days": 0.003715277777777778,

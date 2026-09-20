@@ -1,6 +1,6 @@
 {
   "slug": "chrisgrieser/nvim-justice",
-  "fetched_at": "2026-09-19T08:11:41.599333062Z",
+  "fetched_at": "2026-09-20T08:43:23.328982192Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "Just an integration of `just` in nvim.",
     "license_spdx": "MIT",
     "last_commit_at": "2026-06-22T08:02:30Z",
-    "commits_90d": 1,
+    "commits_90d": 0,
     "releases_365d": 0,
     "median_issue_close_days": 1.6408796296296297,
     "median_pr_close_days": 0.050659722222222224,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "chrisgrieser",
       "account_created_at": "2020-10-22T10:50:35Z",
-      "other_repos_star_sum": 8838
+      "other_repos_star_sum": 8840
     },
     "has_ci": true,
     "has_tests": false,

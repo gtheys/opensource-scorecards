@@ -1,6 +1,6 @@
 {
   "slug": "aejkatappaja/sora",
-  "fetched_at": "2026-09-19T08:04:08.154023109Z",
+  "fetched_at": "2026-09-20T08:36:12.715674221Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "Aejkatappaja",
       "account_created_at": "2022-11-28T15:33:05Z",
-      "other_repos_star_sum": 1097
+      "other_repos_star_sum": 1096
     },
     "has_ci": true,
     "has_tests": true,

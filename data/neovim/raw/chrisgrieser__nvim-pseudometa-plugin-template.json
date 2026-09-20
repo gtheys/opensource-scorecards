@@ -1,6 +1,6 @@
 {
   "slug": "chrisgrieser/nvim-pseudometa-plugin-template",
-  "fetched_at": "2026-09-19T08:11:52.487043428Z",
+  "fetched_at": "2026-09-20T08:43:33.390853227Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "chrisgrieser",
       "account_created_at": "2020-10-22T10:50:35Z",
-      "other_repos_star_sum": 8838
+      "other_repos_star_sum": 8840
     },
     "has_ci": true,
     "has_tests": false,
