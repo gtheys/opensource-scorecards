@@ -1,10 +1,10 @@
 {
   "slug": "jake-stewart/multicursor.nvim",
-  "fetched_at": "2026-09-20T08:59:07.119339173Z",
+  "fetched_at": "2026-09-21T09:21:36.720473603Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 1535,
+    "stars": 1536,
     "forks": 15,
     "description": "multiple cursors in neovim",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "jake-stewart",
       "account_created_at": "2021-05-02T05:28:58Z",
-      "other_repos_star_sum": 2614
+      "other_repos_star_sum": 2615
     },
     "has_ci": false,
     "has_tests": false,

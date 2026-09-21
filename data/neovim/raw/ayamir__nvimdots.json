@@ -1,6 +1,6 @@
 {
   "slug": "ayamir/nvimdots",
-  "fetched_at": "2026-09-20T08:39:35.139525898Z",
+  "fetched_at": "2026-09-21T09:00:46.352207932Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -18,9 +18,9 @@
     "contributors_12mo": 8,
     "top_author_commit_share": 0.2413793103448276,
     "top_author": {
-      "login": "charliie-dev",
-      "account_created_at": "2017-10-03T20:12:08Z",
-      "other_repos_star_sum": 1750
+      "login": "ayamir",
+      "account_created_at": "2020-03-01T14:36:37Z",
+      "other_repos_star_sum": 4391
     },
     "has_ci": true,
     "has_tests": false,

@@ -1,10 +1,10 @@
 {
   "slug": "jackmort/chatgpt.nvim",
-  "fetched_at": "2026-09-20T08:59:01.255978300Z",
+  "fetched_at": "2026-09-21T09:21:30.837122156Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 3997,
+    "stars": 3996,
     "forks": 317,
     "description": "ChatGPT Neovim Plugin: Effortless Natural Language Generation with OpenAI's ChatGPT API",
     "license_spdx": "Apache-2.0",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "jackMort",
       "account_created_at": "2009-12-07T11:58:08Z",
-      "other_repos_star_sum": 4206
+      "other_repos_star_sum": 4205
     },
     "has_ci": true,
     "has_tests": false,

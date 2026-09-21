@@ -1,6 +1,6 @@
 {
   "slug": "folke/zen-mode.nvim",
-  "fetched_at": "2026-09-20T08:53:32.474606231Z",
+  "fetched_at": "2026-09-21T09:16:03.858513523Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -15,12 +15,12 @@
     "median_pr_close_days": 0.09104166666666667,
     "open_issues": 18,
     "closed_issues_sampled": 34,
-    "contributors_12mo": 2,
-    "top_author_commit_share": 0.8,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
     "top_author": {
       "login": "folke",
       "account_created_at": "2010-05-31T14:14:10Z",
-      "other_repos_star_sum": 42136
+      "other_repos_star_sum": 42144
     },
     "has_ci": true,
     "has_tests": false,

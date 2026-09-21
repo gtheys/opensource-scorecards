@@ -1,10 +1,10 @@
 {
   "slug": "chaitanyabsprip/present.nvim",
-  "fetched_at": "2026-09-20T08:42:44.217347339Z",
+  "fetched_at": "2026-09-21T09:04:26.763102192Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 158,
+    "stars": 159,
     "forks": 12,
     "description": "Presentation plugin for neovim written in lua",
     "license_spdx": "MIT",

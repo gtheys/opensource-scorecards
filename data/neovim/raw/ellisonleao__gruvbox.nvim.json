@@ -1,10 +1,10 @@
 {
   "slug": "ellisonleao/gruvbox.nvim",
-  "fetched_at": "2026-09-20T08:50:36.570422189Z",
+  "fetched_at": "2026-09-21T09:13:02.253768510Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 2610,
+    "stars": 2612,
     "forks": 241,
     "description": "Lua port of the most famous vim colorscheme",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "ellisonleao",
       "account_created_at": "2010-01-08T16:40:45Z",
-      "other_repos_star_sum": 26616
+      "other_repos_star_sum": 26626
     },
     "has_ci": true,
     "has_tests": true,

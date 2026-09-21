@@ -1,6 +1,6 @@
 {
   "slug": "dpezto/chezmoi-template.nvim",
-  "fetched_at": "2026-09-20T08:49:12.503515427Z",
+  "fetched_at": "2026-09-21T09:11:31.904123105Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "dpezto",
       "account_created_at": "2017-09-24T22:09:08Z",
-      "other_repos_star_sum": 33
+      "other_repos_star_sum": 34
     },
     "has_ci": true,
     "has_tests": true,

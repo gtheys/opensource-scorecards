@@ -1,6 +1,6 @@
 {
   "slug": "chrisgrieser/nvim-origami",
-  "fetched_at": "2026-09-20T08:43:30.506828540Z",
+  "fetched_at": "2026-09-21T09:05:21.142248195Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "Fold with relentless elegance. A collection of quality-of-life features related to folding.",
     "license_spdx": "MIT",
     "last_commit_at": "2026-07-06T19:12:11Z",
-    "commits_90d": 4,
+    "commits_90d": 3,
     "releases_365d": 0,
     "median_issue_close_days": 0.18178240740740742,
     "median_pr_close_days": 0.07165509259259259,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "chrisgrieser",
       "account_created_at": "2020-10-22T10:50:35Z",
-      "other_repos_star_sum": 8840
+      "other_repos_star_sum": 8841
     },
     "has_ci": true,
     "has_tests": false,

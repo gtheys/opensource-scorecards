@@ -1,6 +1,6 @@
 {
   "slug": "chrisgrieser/nvim-rulebook",
-  "fetched_at": "2026-09-20T08:43:44.357508968Z",
+  "fetched_at": "2026-09-21T09:05:36.099872865Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "All-around helper for dealing with errors and diagnostics: Prettify typescript errors, add inline-comments to ignore rules, and lookup rule documentation online.",
     "license_spdx": "MIT",
     "last_commit_at": "2026-07-18T16:23:56Z",
-    "commits_90d": 2,
+    "commits_90d": 1,
     "releases_365d": 0,
     "median_issue_close_days": 0.1592361111111111,
     "median_pr_close_days": 0.03850694444444444,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "chrisgrieser",
       "account_created_at": "2020-10-22T10:50:35Z",
-      "other_repos_star_sum": 8840
+      "other_repos_star_sum": 8841
     },
     "has_ci": true,
     "has_tests": false,

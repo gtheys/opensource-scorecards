@@ -1,10 +1,10 @@
 {
   "slug": "dnlhc/glance.nvim",
-  "fetched_at": "2026-09-20T08:48:56.726067074Z",
+  "fetched_at": "2026-09-21T09:11:16.887472527Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 924,
+    "stars": 925,
     "forks": 30,
     "description": "Peek preview window for LSP locations in Neovim",
     "license_spdx": "MIT",
