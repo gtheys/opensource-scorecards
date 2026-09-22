@@ -1,10 +1,10 @@
 {
   "slug": "amrbashir/nvim-docs-view",
-  "fetched_at": "2026-09-21T08:58:52.904792662Z",
+  "fetched_at": "2026-09-22T08:35:20.196834206Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 188,
+    "stars": 187,
     "forks": 9,
     "description": "A neovim plugin to display lsp hover documentation in a side panel.",
     "license_spdx": "MIT",

@@ -1,6 +1,6 @@
 {
   "slug": "drybalka/tree-climber.nvim",
-  "fetched_at": "2026-09-21T09:12:19.655466363Z",
+  "fetched_at": "2026-09-22T08:48:08.385690491Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -18,9 +18,9 @@
     "contributors_12mo": 2,
     "top_author_commit_share": 0.5,
     "top_author": {
-      "login": "drybalka",
-      "account_created_at": "2017-01-06T04:45:18Z",
-      "other_repos_star_sum": 224
+      "login": "aaronik",
+      "account_created_at": "2012-01-12T12:14:53Z",
+      "other_repos_star_sum": 752
     },
     "has_ci": false,
     "has_tests": true,

@@ -1,6 +1,6 @@
 {
   "slug": "kamegoro/tobira.nvim",
-  "fetched_at": "2026-09-21T09:24:39.279313871Z",
+  "fetched_at": "2026-09-22T09:00:51.666070613Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -11,10 +11,10 @@
     "last_commit_at": "2026-08-16T03:21:08Z",
     "commits_90d": 297,
     "releases_365d": 0,
-    "median_issue_close_days": 2.127546296296296,
-    "median_pr_close_days": 0.0121875,
+    "median_issue_close_days": 2.162239583333333,
+    "median_pr_close_days": 0.015439814814814816,
     "open_issues": 13,
-    "closed_issues_sampled": 31,
+    "closed_issues_sampled": 28,
     "contributors_12mo": 4,
     "top_author_commit_share": 0.98989898989899,
     "top_author": {

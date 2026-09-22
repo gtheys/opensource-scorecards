@@ -1,11 +1,11 @@
 {
   "slug": "hawknewton/termyank.nvim",
-  "fetched_at": "2026-09-21T09:18:46.539747980Z",
+  "fetched_at": "2026-09-22T08:54:51.251170562Z",
   "status": "ok",
   "data": {
     "archived": false,
     "stars": 6,
-    "forks": 1,
+    "forks": 2,
     "description": "Neovim doesn't yank newlines in termainl buffers",
     "license_spdx": "MIT",
     "last_commit_at": "2026-05-12T18:55:50Z",

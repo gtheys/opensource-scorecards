@@ -1,10 +1,10 @@
 {
   "slug": "gunasekar/markview-smart-tables.nvim",
-  "fetched_at": "2026-09-21T09:18:13.924652374Z",
+  "fetched_at": "2026-09-22T08:54:15.990480376Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 8,
+    "stars": 9,
     "forks": 3,
     "description": "Auto-fit & word-wrap wide markdown tables in markview.nvim",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "gunasekar",
       "account_created_at": "2011-07-14T02:44:16Z",
-      "other_repos_star_sum": 33
+      "other_repos_star_sum": 34
     },
     "has_ci": true,
     "has_tests": true,

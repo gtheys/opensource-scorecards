@@ -1,10 +1,10 @@
 {
   "slug": "alessio-vivaldelli/java-creator-nvim",
-  "fetched_at": "2026-09-21T08:58:10.993041659Z",
+  "fetched_at": "2026-09-22T08:34:38.424496252Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 29,
+    "stars": 30,
     "forks": 1,
     "description": "Neovim plugin for generating Java files (classes, interfaces, enums, records) with package-aware autocompletion.",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "alessio-vivaldelli",
       "account_created_at": "2020-09-02T13:46:29Z",
-      "other_repos_star_sum": 39
+      "other_repos_star_sum": 40
     },
     "has_ci": false,
     "has_tests": true,

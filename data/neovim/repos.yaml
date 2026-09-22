@@ -182,6 +182,7 @@ repos:
   - camspiers/snap
   - cappyzawa/trim.nvim
   - carcuis/dap-breakpoints.nvim
+  - carldaws/miser.nvim
   - carlos-algms/agentic.nvim
   - carloscalla/notepad.nvim
   - catgoose/nvim-colorizer.lua

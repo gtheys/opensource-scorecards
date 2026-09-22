@@ -1,0 +1,29 @@
+{
+  "slug": "carldaws/miser.nvim",
+  "fetched_at": "2026-09-22T08:40:06.849890778Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 19,
+    "forks": 0,
+    "description": "A Mason alternative powered by mise. Declare tools in mise.toml and get LSPs, formatters, and tasks wired up automatically.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-21T09:25:01Z",
+    "commits_90d": 7,
+    "releases_365d": 0,
+    "median_issue_close_days": 33.09795138888889,
+    "median_pr_close_days": 6.442355324074073,
+    "open_issues": 1,
+    "closed_issues_sampled": 3,
+    "contributors_12mo": 2,
+    "top_author_commit_share": 0.972972972972973,
+    "top_author": {
+      "login": "carldaws",
+      "account_created_at": "2021-04-23T17:43:17Z",
+      "other_repos_star_sum": 59
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 12352
+  }
+}

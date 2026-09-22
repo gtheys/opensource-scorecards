@@ -1,10 +1,10 @@
 {
   "slug": "gennaro-tedesco/nvim-peekup",
-  "fetched_at": "2026-09-21T09:16:58.027546231Z",
+  "fetched_at": "2026-09-22T08:52:54.208960266Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 343,
+    "stars": 342,
     "forks": 7,
     "description": "👀 dynamically interact with vim registers",
     "license_spdx": "MIT",

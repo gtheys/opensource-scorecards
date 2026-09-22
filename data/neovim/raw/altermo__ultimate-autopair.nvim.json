@@ -1,10 +1,10 @@
 {
   "slug": "altermo/ultimate-autopair.nvim",
-  "fetched_at": "2026-09-21T08:58:42.863605135Z",
+  "fetched_at": "2026-09-22T08:35:10.445733896Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 581,
+    "stars": 580,
     "forks": 8,
     "description": "A treesitter supported autopairing plugin with extensions, and much more",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "altermo",
       "account_created_at": "2022-06-19T20:27:50Z",
-      "other_repos_star_sum": 1194
+      "other_repos_star_sum": 1193
     },
     "has_ci": false,
     "has_tests": false,

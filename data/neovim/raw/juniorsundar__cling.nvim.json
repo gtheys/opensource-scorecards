@@ -1,10 +1,10 @@
 {
   "slug": "juniorsundar/cling.nvim",
-  "fetched_at": "2026-09-21T09:24:10.800180682Z",
+  "fetched_at": "2026-09-22T09:00:21.036449567Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 25,
+    "stars": 26,
     "forks": 3,
     "description": "Thin wrapper around your command-line",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "juniorsundar",
       "account_created_at": "2017-01-06T16:40:34Z",
-      "other_repos_star_sum": 202
+      "other_repos_star_sum": 203
     },
     "has_ci": true,
     "has_tests": true,

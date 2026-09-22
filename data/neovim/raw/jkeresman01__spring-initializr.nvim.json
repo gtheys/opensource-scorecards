@@ -1,10 +1,10 @@
 {
   "slug": "jkeresman01/spring-initializr.nvim",
-  "fetched_at": "2026-09-21T09:23:00.104311302Z",
+  "fetched_at": "2026-09-22T08:59:04.481909937Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 21,
+    "stars": 22,
     "forks": 3,
     "description": "The Spring Initializr for Neovim.",
     "license_spdx": "GPL-3.0",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "jkeresman01",
       "account_created_at": "2024-03-30T20:54:41Z",
-      "other_repos_star_sum": 50
+      "other_repos_star_sum": 51
     },
     "has_ci": true,
     "has_tests": true,

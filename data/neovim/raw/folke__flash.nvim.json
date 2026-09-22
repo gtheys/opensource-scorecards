@@ -1,11 +1,11 @@
 {
   "slug": "folke/flash.nvim",
-  "fetched_at": "2026-09-21T09:15:28.803218499Z",
+  "fetched_at": "2026-09-22T08:51:18.919566262Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 4245,
-    "forks": 94,
+    "stars": 4246,
+    "forks": 93,
     "description": "Navigate your code with search labels, enhanced character motions and Treesitter integration",
     "license_spdx": "Apache-2.0",
     "last_commit_at": "2026-08-22T19:36:11Z",

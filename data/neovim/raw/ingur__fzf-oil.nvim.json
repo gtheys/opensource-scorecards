@@ -1,6 +1,6 @@
 {
   "slug": "ingur/fzf-oil.nvim",
-  "fetched_at": "2026-09-21T09:20:42.938578542Z",
+  "fetched_at": "2026-09-22T08:56:46.978689456Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -13,7 +13,7 @@
     "releases_365d": 5,
     "median_issue_close_days": 1.3287731481481482,
     "median_pr_close_days": null,
-    "open_issues": 0,
+    "open_issues": 1,
     "closed_issues_sampled": 4,
     "contributors_12mo": 1,
     "top_author_commit_share": 1.0,
