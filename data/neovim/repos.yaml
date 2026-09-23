@@ -54,6 +54,7 @@ repos:
   - adriancmiranda/glimpse.nvim
   - aejkatappaja/cendre
   - aejkatappaja/sora
+  - ag-libs/lathe.nvim
   - ahkohd/buffer-sticks.nvim
   - aikhe/wrapped.nvim
   - aileot/nvim-thyme
@@ -524,6 +525,7 @@ repos:
   - j-morano/buffer_manager.nvim
   - jackmort/chatgpt.nvim
   - jaimeibanezrivera/zj-theme
+  - jaitd/fieldguide.nvim
   - jake-stewart/multicursor.nvim
   - jakewvincent/mkdnflow.nvim
   - jakewvincent/texmagic.nvim
@@ -1040,6 +1042,7 @@ repos:
   - ribru17/bamboo.nvim
   - richardbizik/nvim-toc
   - ricmonmol/nvim-music-player
+  - rifen/timescope
   - rimkomatic/vimtagger.nvim
   - ritschalex/jupyter_ascending.nvim
   - rktjmp/highlight-current-n.nvim

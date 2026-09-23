@@ -1,6 +1,6 @@
 {
   "slug": "cxwx/shadowmyname.nvim",
-  "fetched_at": "2026-09-22T08:44:49.069667151Z",
+  "fetched_at": "2026-09-23T08:47:07.050700226Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "shadow user name in neovim",
     "license_spdx": "MIT",
     "last_commit_at": "2026-06-24T14:40:59Z",
-    "commits_90d": 2,
+    "commits_90d": 0,
     "releases_365d": 0,
     "median_issue_close_days": null,
     "median_pr_close_days": null,

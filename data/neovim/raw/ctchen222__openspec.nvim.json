@@ -1,6 +1,6 @@
 {
   "slug": "ctchen222/openspec.nvim",
-  "fetched_at": "2026-09-22T08:44:14.444682191Z",
+  "fetched_at": "2026-09-23T08:46:34.169500477Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "Neovim control surface for OpenSpec workflows.",
     "license_spdx": "MIT",
     "last_commit_at": "2026-07-04T15:02:26Z",
-    "commits_90d": 13,
+    "commits_90d": 10,
     "releases_365d": 1,
     "median_issue_close_days": 0.00625,
     "median_pr_close_days": 0.001707175925925926,

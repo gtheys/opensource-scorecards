@@ -1,6 +1,6 @@
 {
   "slug": "jrop/morph.nvim",
-  "fetched_at": "2026-09-22T08:59:48.619617842Z",
+  "fetched_at": "2026-09-23T09:01:39.037292505Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "React-like renderer for Neovim",
     "license_spdx": null,
     "last_commit_at": "2026-09-17T04:44:22Z",
-    "commits_90d": 20,
+    "commits_90d": 19,
     "releases_365d": 0,
     "median_issue_close_days": 2.127650462962963,
     "median_pr_close_days": 0.004276620370370371,

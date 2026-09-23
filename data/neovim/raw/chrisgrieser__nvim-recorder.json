@@ -1,6 +1,6 @@
 {
   "slug": "chrisgrieser/nvim-recorder",
-  "fetched_at": "2026-09-22T08:41:31.815229945Z",
+  "fetched_at": "2026-09-23T08:43:58.945630194Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "chrisgrieser",
       "account_created_at": "2020-10-22T10:50:35Z",
-      "other_repos_star_sum": 8843
+      "other_repos_star_sum": 8844
     },
     "has_ci": true,
     "has_tests": false,
