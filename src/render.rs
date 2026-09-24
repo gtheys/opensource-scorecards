@@ -39,6 +39,7 @@ pub fn render_to(
 ) -> anyhow::Result<()> {
     let tera = templates()?;
     std::fs::create_dir_all(out_dir.join("projects"))?;
+    std::fs::create_dir_all(out_dir.join("authors"))?;
     // AIDEV-NOTE: projects/ is a shared namespace across categories — a repo in
     // two lists gets one page (last render wins). Lua/TS overlap ~zero; revisit if real.
 
@@ -100,6 +101,23 @@ pub fn render_to(
         ctx.insert("signal_rows", &rows);
         let file = out_dir.join(format!("projects/{}.html", p.slug.replace('/', "__")));
         write(&tera, "project.html", &ctx, &file)?;
+    }
+
+    // AIDEV-NOTE: per-owner pages. Owner = slug prefix; avatar/profile URLs are
+    // deterministic (github.com/<owner>.png) so no API data needed. authors/ is a
+    // shared namespace across categories — same caveat as projects/ above.
+    let mut by_owner: std::collections::BTreeMap<&str, Vec<_>> = Default::default();
+    for p in &scored.projects {
+        by_owner.entry(p.slug.split('/').next().unwrap_or(&p.slug)).or_default().push(p);
+    }
+    for (owner, mut repos) in by_owner {
+        repos.sort_by(|a, b| b.total.partial_cmp(&a.total).unwrap_or(std::cmp::Ordering::Equal));
+        let mut ctx = Context::new();
+        ctx.insert("owner", owner);
+        ctx.insert("repos", &repos);
+        ctx.insert("categories", &categories);
+        ctx.insert("root", "../");
+        write(&tera, "author.html", &ctx, &out_dir.join(format!("authors/{owner}.html")))?;
     }
 
     // Methodology (from the same weights the scorer used → always in sync)
@@ -204,5 +222,12 @@ mod tests {
         let meth = std::fs::read_to_string(dir.join("methodology.html")).unwrap();
         assert!(meth.contains("0.4")); // maintenance bucket weight from config
         assert!(meth.contains("days_since_last_commit"));
+
+        let lb = std::fs::read_to_string(dir.join("neovim.html")).unwrap();
+        assert!(lb.contains(r#"href="authors/nvim-telescope.html""#));
+        let author = std::fs::read_to_string(dir.join("authors/nvim-telescope.html")).unwrap();
+        assert!(author.contains("github.com/nvim-telescope"));
+        assert!(author.contains("nvim-telescope/telescope.nvim"));
+        assert!(author.contains(r#"href="../projects/nvim-telescope__telescope.nvim.html""#));
     }
 }

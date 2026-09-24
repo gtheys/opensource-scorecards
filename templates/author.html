@@ -1,0 +1,32 @@
+{% extends "base.html" %}
+{% block title %}{{ owner }} — Scorecards{% endblock %}
+{% block content %}
+<p>
+  <img src="https://github.com/{{ owner }}.png?size=96" alt="" width="96" height="96" style="border-radius: 50%; vertical-align: middle;">
+</p>
+<h1>{{ owner }}</h1>
+<p><a href="https://github.com/{{ owner }}">github.com/{{ owner }}</a> —
+{{ repos | length }} repo{% if repos | length != 1 %}s{% endif %} in our listings.</p>
+<table>
+  <thead><tr>
+    <th>Project</th><th class="num">Score</th><th class="num">Stars</th>
+    <th class="num">Maintenance</th><th class="num">Community</th><th class="num">Quality</th>
+  </tr></thead>
+  <tbody>
+  {% for p in repos %}
+    <tr>
+      <td><a href="{{ root }}projects/{{ p.slug | replace(from="/", to="__") }}.html">{{ p.slug }}</a></td>
+      {% if p.total %}
+      <td class="num"><span class="bar"><span class="fill" style="width: {{ p.total }}%"></span></span> {{ p.total }}</td>
+      <td class="num">{{ p.stars | stars_fmt }}</td>
+      <td class="num">{{ p.buckets.maintenance }}</td>
+      <td class="num">{{ p.buckets.community }}</td>
+      <td class="num">{{ p.buckets.quality }}</td>
+      {% else %}
+      <td class="num muted" colspan="5">unavailable ({{ p.status }})</td>
+      {% endif %}
+    </tr>
+  {% endfor %}
+  </tbody>
+</table>
+{% endblock %}
