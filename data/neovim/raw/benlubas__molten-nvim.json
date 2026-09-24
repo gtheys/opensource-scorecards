@@ -1,10 +1,10 @@
 {
   "slug": "benlubas/molten-nvim",
-  "fetched_at": "2026-09-23T08:40:51.401525438Z",
+  "fetched_at": "2026-09-24T08:38:21.547904423Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 1229,
+    "stars": 1231,
     "forks": 69,
     "description": "A neovim plugin for interactively running code with the jupyter kernel. Fork of magma-nvim with improvements in image rendering, performance, and more",
     "license_spdx": "GPL-3.0",
