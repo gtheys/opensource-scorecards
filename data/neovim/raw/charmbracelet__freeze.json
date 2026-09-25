@@ -1,10 +1,10 @@
 {
   "slug": "charmbracelet/freeze",
-  "fetched_at": "2026-09-24T08:40:14.398986266Z",
+  "fetched_at": "2026-09-25T06:36:48.479606842Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 4851,
+    "stars": 4852,
     "forks": 106,
     "description": "Generate images of code and terminal output 📸",
     "license_spdx": "MIT",
@@ -18,9 +18,9 @@
     "contributors_12mo": 3,
     "top_author_commit_share": 0.4,
     "top_author": {
-      "login": "charmcli",
-      "account_created_at": "2023-02-02T19:28:30Z",
-      "other_repos_star_sum": 0
+      "login": "andreynering",
+      "account_created_at": "2014-03-20T14:12:48Z",
+      "other_repos_star_sum": 101
     },
     "has_ci": true,
     "has_tests": true,

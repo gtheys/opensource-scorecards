@@ -969,6 +969,7 @@ repos:
   - penaz91/minidym
   - petertriho/cmp-git
   - petertriho/nvim-scrollbar
+  - pewpewnor/dove.nvim
   - pewpewnor/pilot.nvim
   - pgosar/cybernvim
   - phha/zenburn.nvim
@@ -1137,6 +1138,7 @@ repos:
   - siduck76/nvchad
   - silentium-theme/silentium.nvim
   - silletr/lazydeveloperhelper
+  - simifalaye/minibuffer.nvim
   - simonmclean/triptych.nvim
   - simonw/llm
   - simonwinther/cppman.nvim

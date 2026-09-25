@@ -1,6 +1,6 @@
 {
   "slug": "0xble/dotagent.nvim",
-  "fetched_at": "2026-09-24T08:32:24.218849583Z",
+  "fetched_at": "2026-09-25T06:27:06.238055190Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "0xble",
       "account_created_at": "2016-08-01T22:22:29Z",
-      "other_repos_star_sum": 73
+      "other_repos_star_sum": 74
     },
     "has_ci": true,
     "has_tests": true,

@@ -1,10 +1,10 @@
 {
   "slug": "erooke/blink-cmp-latex",
-  "fetched_at": "2026-09-23T08:51:31.398026621Z",
+  "fetched_at": "2026-09-25T06:45:27.488669346Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 21,
+    "stars": 22,
     "forks": 1,
     "description": "A latex source for blink.cmp",
     "license_spdx": "BSD-3-Clause",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "erooke",
       "account_created_at": "2019-01-14T19:45:29Z",
-      "other_repos_star_sum": 62
+      "other_repos_star_sum": 63
     },
     "has_ci": false,
     "has_tests": false,

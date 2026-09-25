@@ -1,6 +1,6 @@
 {
   "slug": "justinmk/guh.nvim",
-  "fetched_at": "2026-09-23T09:02:21.389623473Z",
+  "fetched_at": "2026-09-25T06:56:07.043374767Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -10,13 +10,13 @@
     "license_spdx": "MIT",
     "last_commit_at": "2026-06-24T12:56:30Z",
     "commits_90d": 0,
-    "releases_365d": 1,
+    "releases_365d": 0,
     "median_issue_close_days": 4.159097222222222,
     "median_pr_close_days": 0.011140046296296297,
     "open_issues": 23,
     "closed_issues_sampled": 10,
     "contributors_12mo": 2,
-    "top_author_commit_share": 0.9967741935483871,
+    "top_author_commit_share": 0.996742671009772,
     "top_author": {
       "login": "justinmk",
       "account_created_at": "2012-01-20T17:37:03Z",

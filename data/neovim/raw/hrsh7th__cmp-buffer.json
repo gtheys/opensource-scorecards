@@ -1,10 +1,10 @@
 {
   "slug": "hrsh7th/cmp-buffer",
-  "fetched_at": "2026-09-23T08:57:18.960059747Z",
+  "fetched_at": "2026-09-25T06:51:13.069290150Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 672,
+    "stars": 671,
     "forks": 47,
     "description": "nvim-cmp source for buffer words",
     "license_spdx": "MIT",
