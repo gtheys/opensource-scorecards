@@ -1,10 +1,10 @@
 {
   "slug": "shaobin-jiang/icenvim",
-  "fetched_at": "2026-09-18T08:41:12.802660347Z",
+  "fetched_at": "2026-09-25T09:14:05.392176512Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 331,
+    "stars": 333,
     "forks": 29,
     "description": "A beautiful, powerful and customizable neovim config that is blazing fast",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "Shaobin-Jiang",
       "account_created_at": "2020-11-17T07:14:14Z",
-      "other_repos_star_sum": 365
+      "other_repos_star_sum": 367
     },
     "has_ci": false,
     "has_tests": false,

@@ -1,29 +1,29 @@
 {
   "slug": "nvim-flutter/flutter-tools.nvim",
-  "fetched_at": "2026-09-18T08:28:37.243120312Z",
+  "fetched_at": "2026-09-25T09:02:21.225466208Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 1416,
-    "forks": 116,
+    "stars": 1420,
+    "forks": 117,
     "description": "Tools to help create flutter apps in neovim using the native lsp",
     "license_spdx": "MIT",
-    "last_commit_at": "2026-09-08T14:21:42Z",
-    "commits_90d": 6,
+    "last_commit_at": "2026-09-25T08:48:45Z",
+    "commits_90d": 12,
     "releases_365d": 0,
-    "median_issue_close_days": 31.594739583333336,
-    "median_pr_close_days": 0.19536458333333334,
-    "open_issues": 31,
-    "closed_issues_sampled": 22,
-    "contributors_12mo": 10,
-    "top_author_commit_share": 0.5416666666666666,
+    "median_issue_close_days": 26.415127314814814,
+    "median_pr_close_days": 0.013460648148148149,
+    "open_issues": 28,
+    "closed_issues_sampled": 19,
+    "contributors_12mo": 11,
+    "top_author_commit_share": 0.5666666666666667,
     "top_author": {
       "login": "sidlatau",
       "account_created_at": "2013-07-09T12:26:56Z",
-      "other_repos_star_sum": 265
+      "other_repos_star_sum": 266
     },
     "has_ci": true,
     "has_tests": true,
-    "readme_len": 19663
+    "readme_len": 20179
   }
 }

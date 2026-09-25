@@ -1,6 +1,6 @@
 {
   "slug": "qaptor-nvim/chocolatier.nvim",
-  "fetched_at": "2026-09-18T08:34:30.984462719Z",
+  "fetched_at": "2026-09-25T09:07:37.781211002Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "Espresso-, Kimbie-, Grivbox- inspired Neovim Colorscheme",
     "license_spdx": "MIT",
     "last_commit_at": "2026-09-17T23:17:12Z",
-    "commits_90d": 4,
+    "commits_90d": 3,
     "releases_365d": 0,
     "median_issue_close_days": null,
     "median_pr_close_days": null,

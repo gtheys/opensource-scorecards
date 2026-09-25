@@ -1,15 +1,15 @@
 {
   "slug": "senal-d-a-gunaratna/swapson.nvim",
-  "fetched_at": "2026-09-18T08:41:01.417386077Z",
+  "fetched_at": "2026-09-25T09:13:53.853830721Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 7,
+    "stars": 9,
     "forks": 1,
-    "description": "A companion plugin for mason.nvim that monkeypatches npm/pip installs to route through bun and uv",
+    "description": "A companion plugin for mason.nvim that installs packages through faster alternatives (bun and uv), and runs npm-sourced packages with bun instead of node",
     "license_spdx": "MIT",
-    "last_commit_at": "2026-09-10T07:41:56Z",
-    "commits_90d": 52,
+    "last_commit_at": "2026-09-22T11:37:06Z",
+    "commits_90d": 54,
     "releases_365d": 0,
     "median_issue_close_days": null,
     "median_pr_close_days": null,
@@ -20,10 +20,10 @@
     "top_author": {
       "login": "Senal-D-A-Gunaratna",
       "account_created_at": "2025-09-07T14:19:24Z",
-      "other_repos_star_sum": 47
+      "other_repos_star_sum": 50
     },
     "has_ci": true,
     "has_tests": false,
-    "readme_len": 8290
+    "readme_len": 8289
   }
 }

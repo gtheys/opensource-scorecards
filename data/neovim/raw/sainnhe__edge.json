@@ -1,6 +1,6 @@
 {
   "slug": "sainnhe/edge",
-  "fetched_at": "2026-09-18T08:39:15.286940470Z",
+  "fetched_at": "2026-09-25T09:12:11.689756500Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -15,8 +15,8 @@
     "median_pr_close_days": 0.41802083333333334,
     "open_issues": 2,
     "closed_issues_sampled": 29,
-    "contributors_12mo": 3,
-    "top_author_commit_share": 0.75,
+    "contributors_12mo": 2,
+    "top_author_commit_share": 0.8181818181818182,
     "top_author": {
       "login": "antoineco",
       "account_created_at": "2013-01-17T19:03:15Z",

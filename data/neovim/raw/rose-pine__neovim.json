@@ -1,6 +1,6 @@
 {
   "slug": "rose-pine/neovim",
-  "fetched_at": "2026-09-18T08:38:05.372943754Z",
+  "fetched_at": "2026-09-25T09:11:05.716220975Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "mvllow",
       "account_created_at": "2012-02-26T03:12:57Z",
-      "other_repos_star_sum": 1918
+      "other_repos_star_sum": 1921
     },
     "has_ci": false,
     "has_tests": false,

@@ -1,14 +1,14 @@
 {
   "slug": "rrethy/base16-nvim",
-  "fetched_at": "2026-09-18T08:38:11.071269229Z",
+  "fetched_at": "2026-09-25T09:11:11.581418864Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 655,
+    "stars": 656,
     "forks": 94,
     "description": "Neovim plugin for building a sync base16 colorscheme. Includes support for Treesitter and LSP highlight groups.",
     "license_spdx": "MIT",
-    "last_commit_at": "2026-09-13T01:40:46Z",
+    "last_commit_at": "2026-09-24T01:52:36Z",
     "commits_90d": 11,
     "releases_365d": 0,
     "median_issue_close_days": 24.672256944444445,
@@ -16,7 +16,7 @@
     "open_issues": 2,
     "closed_issues_sampled": 23,
     "contributors_12mo": 5,
-    "top_author_commit_share": 0.8709677419354839,
+    "top_author_commit_share": 0.875,
     "top_author": {
       "login": "RRethy",
       "account_created_at": "2016-08-13T00:25:39Z",
@@ -24,6 +24,6 @@
     },
     "has_ci": true,
     "has_tests": false,
-    "readme_len": 8702
+    "readme_len": 8863
   }
 }

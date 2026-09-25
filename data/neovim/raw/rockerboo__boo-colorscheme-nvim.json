@@ -1,10 +1,10 @@
 {
   "slug": "rockerboo/boo-colorscheme-nvim",
-  "fetched_at": "2026-09-18T08:37:30.282366017Z",
+  "fetched_at": "2026-09-25T09:10:35.435838094Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 291,
+    "stars": 292,
     "forks": 15,
     "description": "Boo is a colorscheme for Neovim with handcrafted support for LSP, Tree-sitter.",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "rockerBOO",
       "account_created_at": "2008-06-25T18:24:49Z",
-      "other_repos_star_sum": 21799
+      "other_repos_star_sum": 21822
     },
     "has_ci": true,
     "has_tests": true,

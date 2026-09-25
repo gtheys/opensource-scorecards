@@ -1,10 +1,10 @@
 {
   "slug": "pebeto/dookie.nvim",
-  "fetched_at": "2026-09-18T08:32:58.548572652Z",
+  "fetched_at": "2026-09-25T09:06:09.356244137Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 18,
+    "stars": 17,
     "forks": 2,
     "description": "A color scheme inspired by Plan9's acme editor, but with a personal touch.",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "pebeto",
       "account_created_at": "2017-05-26T23:21:36Z",
-      "other_repos_star_sum": 75
+      "other_repos_star_sum": 74
     },
     "has_ci": false,
     "has_tests": false,

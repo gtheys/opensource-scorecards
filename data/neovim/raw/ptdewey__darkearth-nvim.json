@@ -1,6 +1,6 @@
 {
   "slug": "ptdewey/darkearth-nvim",
-  "fetched_at": "2026-09-18T08:34:12.634465335Z",
+  "fetched_at": "2026-09-25T09:07:22.167897355Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "ptdewey",
       "account_created_at": "2019-11-18T21:30:14Z",
-      "other_repos_star_sum": 382
+      "other_repos_star_sum": 383
     },
     "has_ci": true,
     "has_tests": false,

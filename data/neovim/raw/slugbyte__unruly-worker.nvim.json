@@ -1,10 +1,10 @@
 {
   "slug": "slugbyte/unruly-worker.nvim",
-  "fetched_at": "2026-09-18T08:42:09.373240860Z",
+  "fetched_at": "2026-09-25T09:15:06.926184389Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 40,
+    "stars": 41,
     "forks": 3,
     "description": "a ridiculously fun neovim plugin for the workman keyboard layout",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "slugbyte",
       "account_created_at": "2013-02-13T07:16:44Z",
-      "other_repos_star_sum": 640
+      "other_repos_star_sum": 642
     },
     "has_ci": false,
     "has_tests": false,

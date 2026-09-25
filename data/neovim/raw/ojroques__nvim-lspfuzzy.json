@@ -1,10 +1,10 @@
 {
   "slug": "ojroques/nvim-lspfuzzy",
-  "fetched_at": "2026-09-18T08:31:21.902814624Z",
+  "fetched_at": "2026-09-25T09:04:40.602584666Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 354,
+    "stars": 355,
     "forks": 15,
     "description": "A Neovim plugin to make the LSP client use FZF",
     "license_spdx": "BSD-2-Clause",

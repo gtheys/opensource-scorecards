@@ -1,29 +1,29 @@
 {
   "slug": "senal-d-a-gunaratna/hyprfade.nvim",
-  "fetched_at": "2026-09-18T08:40:54.490953877Z",
+  "fetched_at": "2026-09-25T09:13:48.029623700Z",
   "status": "ok",
   "data": {
     "archived": false,
     "stars": 7,
     "forks": 1,
-    "description": "Seamlessly fade the terminal window hosting Neovim on Hyprland via hyprctl window opacity",
+    "description": "Toggle the opacity of the terminal window hosting Neovim via a keybind on Hyprland — fade it on start, flip back to opaque anytime, all from inside Neovim via the Hyprland IPC",
     "license_spdx": "MIT",
-    "last_commit_at": "2026-08-13T06:30:30Z",
-    "commits_90d": 49,
+    "last_commit_at": "2026-09-23T15:03:50Z",
+    "commits_90d": 61,
     "releases_365d": 0,
     "median_issue_close_days": null,
     "median_pr_close_days": 0.02269675925925926,
     "open_issues": 0,
     "closed_issues_sampled": 0,
     "contributors_12mo": 2,
-    "top_author_commit_share": 0.9795918367346939,
+    "top_author_commit_share": 0.9836065573770492,
     "top_author": {
       "login": "Senal-D-A-Gunaratna",
       "account_created_at": "2025-09-07T14:19:24Z",
-      "other_repos_star_sum": 47
+      "other_repos_star_sum": 50
     },
     "has_ci": true,
     "has_tests": false,
-    "readme_len": 4862
+    "readme_len": 6465
   }
 }

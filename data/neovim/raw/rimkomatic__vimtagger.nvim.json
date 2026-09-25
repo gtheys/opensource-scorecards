@@ -1,6 +1,6 @@
 {
   "slug": "rimkomatic/vimtagger.nvim",
-  "fetched_at": "2026-09-18T08:36:50.496101533Z",
+  "fetched_at": "2026-09-25T09:09:58.865601049Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "Lightweight file tagging for Neovim with per-project persistence and fast tag lookups.",
     "license_spdx": "MIT",
     "last_commit_at": "2026-06-27T09:10:50Z",
-    "commits_90d": 5,
+    "commits_90d": 1,
     "releases_365d": 0,
     "median_issue_close_days": null,
     "median_pr_close_days": null,

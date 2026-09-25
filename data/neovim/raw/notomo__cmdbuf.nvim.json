@@ -1,6 +1,6 @@
 {
   "slug": "notomo/cmdbuf.nvim",
-  "fetched_at": "2026-09-18T08:28:07.860207641Z",
+  "fetched_at": "2026-09-25T09:01:54.212656453Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "notomo",
       "account_created_at": "2016-04-17T22:42:57Z",
-      "other_repos_star_sum": 1229
+      "other_repos_star_sum": 1223
     },
     "has_ci": true,
     "has_tests": true,

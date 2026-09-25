@@ -1,10 +1,10 @@
 {
   "slug": "nvim-telescope/telescope-media-files.nvim",
-  "fetched_at": "2026-09-18T08:29:47.166490227Z",
+  "fetched_at": "2026-09-25T09:03:19.660673340Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 522,
+    "stars": 521,
     "forks": 56,
     "description": "Telescope extension to preview media files using Ueberzug.",
     "license_spdx": "MIT",

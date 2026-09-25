@@ -1,10 +1,10 @@
 {
   "slug": "m4xshen/autoclose.nvim",
-  "fetched_at": "2026-09-18T08:19:17.951183047Z",
+  "fetched_at": "2026-09-25T08:53:33.659775314Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 646,
+    "stars": 648,
     "forks": 23,
     "description": "A minimalist Neovim plugin that auto pairs & closes brackets",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "m4xshen",
       "account_created_at": "2020-11-22T01:01:41Z",
-      "other_repos_star_sum": 5477
+      "other_repos_star_sum": 5483
     },
     "has_ci": true,
     "has_tests": false,

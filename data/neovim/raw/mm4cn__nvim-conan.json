@@ -1,6 +1,6 @@
 {
   "slug": "mm4cn/nvim-conan",
-  "fetched_at": "2026-09-18T08:22:58.139554910Z",
+  "fetched_at": "2026-09-25T08:57:08.761050793Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -10,7 +10,7 @@
     "license_spdx": "MIT",
     "last_commit_at": "2026-09-09T22:40:56Z",
     "commits_90d": 19,
-    "releases_365d": 7,
+    "releases_365d": 8,
     "median_issue_close_days": 1.7102199074074074,
     "median_pr_close_days": 0.0020833333333333333,
     "open_issues": 0,

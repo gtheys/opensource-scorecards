@@ -1,6 +1,6 @@
 {
   "slug": "mozanunal/sllm.nvim",
-  "fetched_at": "2026-09-18T08:23:43.062244646Z",
+  "fetched_at": "2026-09-25T08:57:53.323404048Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "mozanunal",
       "account_created_at": "2015-07-21T19:42:15Z",
-      "other_repos_star_sum": 485
+      "other_repos_star_sum": 486
     },
     "has_ci": true,
     "has_tests": true,

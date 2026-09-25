@@ -1,10 +1,10 @@
 {
   "slug": "rmehri01/onenord.nvim",
-  "fetched_at": "2026-09-18T08:37:24.555616201Z",
+  "fetched_at": "2026-09-25T09:10:29.761650573Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 640,
+    "stars": 639,
     "forks": 52,
     "description": "🏔️ A Neovim theme that combines the Nord and Atom One Dark color palettes for a more vibrant programming experience.",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "rmehri01",
       "account_created_at": "2019-07-15T18:54:16Z",
-      "other_repos_star_sum": 676
+      "other_repos_star_sum": 675
     },
     "has_ci": true,
     "has_tests": false,

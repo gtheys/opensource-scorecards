@@ -1,10 +1,10 @@
 {
   "slug": "shellraining/hlchunk.nvim",
-  "fetched_at": "2026-09-18T08:41:24.298202626Z",
+  "fetched_at": "2026-09-25T09:14:17.409448728Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 922,
+    "stars": 924,
     "forks": 47,
     "description": "This is the lua implementation of nvim-hlchunk, you can use this neovim plugin to highlight your indent line and the current chunk (context) your cursor stayed",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "shellRaining",
       "account_created_at": "2022-08-19T07:58:06Z",
-      "other_repos_star_sum": 939
+      "other_repos_star_sum": 941
     },
     "has_ci": true,
     "has_tests": true,

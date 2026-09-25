@@ -1,10 +1,10 @@
 {
   "slug": "sanjay-np/nvim-yt-player",
-  "fetched_at": "2026-09-18T08:39:58.647983836Z",
+  "fetched_at": "2026-09-25T09:12:53.985319047Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 19,
+    "stars": 20,
     "forks": 1,
     "description": "nvim-yt-player is a Neovim plugin for playing YouTube audio directly from Neovim using mpv + yt-dlp via IPC socket. Features include a premium ASCII visualizer UI, interactive search picker, queue editor, SponsorBlock integration, and full playback controls.",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "sanjay-np",
       "account_created_at": "2017-05-19T09:46:14Z",
-      "other_repos_star_sum": 48
+      "other_repos_star_sum": 50
     },
     "has_ci": true,
     "has_tests": false,

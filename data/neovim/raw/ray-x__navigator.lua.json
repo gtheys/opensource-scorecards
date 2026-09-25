@@ -1,10 +1,10 @@
 {
   "slug": "ray-x/navigator.lua",
-  "fetched_at": "2026-09-18T08:35:58.754138665Z",
+  "fetched_at": "2026-09-25T09:08:59.983531422Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 1399,
+    "stars": 1400,
     "forks": 64,
     "description": "Code analysis & navigation plugin for Neovim. Navigate codes like a breeze🎐  Exploring LSP and 🌲Treesitter symbols a piece of 🍰  Take control like a boss 🦍",
     "license_spdx": "MIT",
@@ -16,11 +16,11 @@
     "open_issues": 23,
     "closed_issues_sampled": 28,
     "contributors_12mo": 3,
-    "top_author_commit_share": 0.90625,
+    "top_author_commit_share": 0.8928571428571429,
     "top_author": {
       "login": "ray-x",
       "account_created_at": "2012-04-26T09:15:35Z",
-      "other_repos_star_sum": 8719
+      "other_repos_star_sum": 8720
     },
     "has_ci": true,
     "has_tests": true,

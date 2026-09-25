@@ -1,6 +1,6 @@
 {
   "slug": "ms-jpq/sad",
-  "fetched_at": "2026-09-18T08:24:43.230710726Z",
+  "fetched_at": "2026-09-25T08:58:51.360598440Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "ms-jpq",
       "account_created_at": "2019-05-13T20:56:35Z",
-      "other_repos_star_sum": 9643
+      "other_repos_star_sum": 9640
     },
     "has_ci": true,
     "has_tests": true,

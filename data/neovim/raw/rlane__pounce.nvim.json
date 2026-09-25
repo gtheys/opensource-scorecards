@@ -1,10 +1,10 @@
 {
   "slug": "rlane/pounce.nvim",
-  "fetched_at": "2026-09-18T08:37:10.233599679Z",
+  "fetched_at": "2026-09-25T09:10:18.277303208Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 366,
+    "stars": 367,
     "forks": 18,
     "description": "Incremental fuzzy search motion plugin for Neovim",
     "license_spdx": "NOASSERTION",

@@ -1,6 +1,6 @@
 {
   "slug": "maxandron/goplements.nvim",
-  "fetched_at": "2026-09-18T08:20:42.059503042Z",
+  "fetched_at": "2026-09-25T08:54:57.350487050Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -8,20 +8,16 @@
     "forks": 3,
     "description": "Visualize Go struct and interface implementations",
     "license_spdx": "MIT",
-    "last_commit_at": "2025-09-23T06:09:48Z",
+    "last_commit_at": null,
     "commits_90d": 0,
     "releases_365d": 0,
     "median_issue_close_days": 0.24318865740740742,
     "median_pr_close_days": 4.004444444444444,
     "open_issues": 4,
     "closed_issues_sampled": 2,
-    "contributors_12mo": 1,
-    "top_author_commit_share": 1.0,
-    "top_author": {
-      "login": "maxandron",
-      "account_created_at": "2011-03-14T08:15:45Z",
-      "other_repos_star_sum": 95
-    },
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
     "has_ci": true,
     "has_tests": true,
     "readme_len": 1916

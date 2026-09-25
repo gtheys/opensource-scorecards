@@ -1,6 +1,6 @@
 {
   "slug": "prochri/telescope-all-recent.nvim",
-  "fetched_at": "2026-09-18T08:34:07.674930465Z",
+  "fetched_at": "2026-09-25T09:07:17.830223826Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "(F)recency sorting for all Telescope pickers.",
     "license_spdx": "MIT",
     "last_commit_at": "2026-06-22T17:41:39Z",
-    "commits_90d": 2,
+    "commits_90d": 0,
     "releases_365d": 0,
     "median_issue_close_days": 0.5818865740740741,
     "median_pr_close_days": 1.181701388888889,

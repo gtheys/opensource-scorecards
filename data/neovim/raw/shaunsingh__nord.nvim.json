@@ -1,10 +1,10 @@
 {
   "slug": "shaunsingh/nord.nvim",
-  "fetched_at": "2026-09-18T08:41:22.180870028Z",
+  "fetched_at": "2026-09-25T09:14:15.387570224Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 1022,
+    "stars": 1021,
     "forks": 121,
     "description": "Neovim theme based off of the Nord Color Palette, written in lua with tree sitter support",
     "license_spdx": "GPL-2.0",

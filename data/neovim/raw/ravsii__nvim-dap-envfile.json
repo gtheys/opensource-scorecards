@@ -1,6 +1,6 @@
 {
   "slug": "ravsii/nvim-dap-envfile",
-  "fetched_at": "2026-09-18T08:35:34.091645844Z",
+  "fetched_at": "2026-09-25T09:08:37.021098082Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "ravsii",
       "account_created_at": "2013-07-14T14:43:43Z",
-      "other_repos_star_sum": 107
+      "other_repos_star_sum": 109
     },
     "has_ci": true,
     "has_tests": true,

@@ -1,6 +1,6 @@
 {
   "slug": "shortcuts/no-neck-pain.nvim",
-  "fetched_at": "2026-09-18T08:41:27.950721224Z",
+  "fetched_at": "2026-09-25T09:14:20.897851641Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -8,22 +8,22 @@
     "forks": 28,
     "description": "☕ Dead simple yet super extensible zen mode plugin to protect your neck.",
     "license_spdx": "MIT",
-    "last_commit_at": "2026-07-07T15:02:09Z",
-    "commits_90d": 1,
-    "releases_365d": 4,
-    "median_issue_close_days": 124.78921296296296,
-    "median_pr_close_days": 0.007997685185185184,
-    "open_issues": 16,
-    "closed_issues_sampled": 20,
+    "last_commit_at": "2026-09-24T09:16:31Z",
+    "commits_90d": 8,
+    "releases_365d": 7,
+    "median_issue_close_days": 308.31267939814813,
+    "median_pr_close_days": 0.008894675925925926,
+    "open_issues": 2,
+    "closed_issues_sampled": 30,
     "contributors_12mo": 2,
-    "top_author_commit_share": 0.9,
+    "top_author_commit_share": 0.9411764705882353,
     "top_author": {
       "login": "shortcuts",
       "account_created_at": "2016-07-27T19:16:32Z",
-      "other_repos_star_sum": 1327
+      "other_repos_star_sum": 1336
     },
     "has_ci": true,
     "has_tests": true,
-    "readme_len": 20866
+    "readme_len": 27002
   }
 }

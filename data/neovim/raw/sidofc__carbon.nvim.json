@@ -1,6 +1,6 @@
 {
   "slug": "sidofc/carbon.nvim",
-  "fetched_at": "2026-09-18T08:41:31.010955115Z",
+  "fetched_at": "2026-09-25T09:14:24.399769550Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "SidOfc",
       "account_created_at": "2013-01-09T11:25:47Z",
-      "other_repos_star_sum": 929
+      "other_repos_star_sum": 928
     },
     "has_ci": true,
     "has_tests": true,

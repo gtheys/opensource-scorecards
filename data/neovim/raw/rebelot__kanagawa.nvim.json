@@ -1,10 +1,10 @@
 {
   "slug": "rebelot/kanagawa.nvim",
-  "fetched_at": "2026-09-18T08:36:17.870528648Z",
+  "fetched_at": "2026-09-25T09:09:18.613944577Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 6395,
+    "stars": 6403,
     "forks": 236,
     "description": "NeoVim dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai.",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "rebelot",
       "account_created_at": "2018-02-09T12:53:55Z",
-      "other_repos_star_sum": 8013
+      "other_repos_star_sum": 8026
     },
     "has_ci": false,
     "has_tests": false,

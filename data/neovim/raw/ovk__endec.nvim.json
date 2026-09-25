@@ -1,10 +1,10 @@
 {
   "slug": "ovk/endec.nvim",
-  "fetched_at": "2026-09-18T08:32:26.511126094Z",
+  "fetched_at": "2026-09-25T09:05:40.349900496Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 37,
+    "stars": 38,
     "forks": 2,
     "description": "Neovim encoder/decoder plugin for Base64, Base64URL, URL (percent encoding)",
     "license_spdx": "MIT",

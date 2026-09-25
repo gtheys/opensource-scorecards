@@ -1,10 +1,10 @@
 {
   "slug": "s1n7ax/nvim-terminal",
-  "fetched_at": "2026-09-18T08:38:42.602207696Z",
+  "fetched_at": "2026-09-25T09:11:39.960892335Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 119,
+    "stars": 118,
     "forks": 8,
     "description": "A Lua-Neovim plugin that toggles a terminal",
     "license_spdx": "MIT",

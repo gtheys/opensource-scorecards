@@ -1,11 +1,11 @@
 {
   "slug": "sainnhe/gruvbox-material",
-  "fetched_at": "2026-09-18T08:39:20.693927887Z",
+  "fetched_at": "2026-09-25T09:12:18.028901105Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 2648,
-    "forks": 189,
+    "stars": 2650,
+    "forks": 193,
     "description": "Gruvbox with Material Palette",
     "license_spdx": "MIT",
     "last_commit_at": "2026-04-15T15:13:47Z",
@@ -15,8 +15,8 @@
     "median_pr_close_days": 0.5337037037037037,
     "open_issues": 9,
     "closed_issues_sampled": 35,
-    "contributors_12mo": 3,
-    "top_author_commit_share": 0.8571428571428571,
+    "contributors_12mo": 2,
+    "top_author_commit_share": 0.9,
     "top_author": {
       "login": "antoineco",
       "account_created_at": "2013-01-17T19:03:15Z",

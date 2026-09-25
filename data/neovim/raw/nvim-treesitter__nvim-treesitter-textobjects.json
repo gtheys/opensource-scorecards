@@ -1,11 +1,11 @@
 {
   "slug": "nvim-treesitter/nvim-treesitter-textobjects",
-  "fetched_at": "2026-09-18T08:30:06.412478546Z",
+  "fetched_at": "2026-09-25T09:03:36.021469583Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 2809,
-    "forks": 272,
+    "stars": 2812,
+    "forks": 271,
     "description": null,
     "license_spdx": "Apache-2.0",
     "last_commit_at": "2026-09-03T06:29:46Z",
@@ -13,7 +13,7 @@
     "releases_365d": 0,
     "median_issue_close_days": 1.9928819444444446,
     "median_pr_close_days": 8.360277777777778,
-    "open_issues": 126,
+    "open_issues": 129,
     "closed_issues_sampled": 15,
     "contributors_12mo": 24,
     "top_author_commit_share": 0.2978723404255319,

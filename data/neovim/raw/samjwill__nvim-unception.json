@@ -1,10 +1,10 @@
 {
   "slug": "samjwill/nvim-unception",
-  "fetched_at": "2026-09-18T08:39:52.111155973Z",
+  "fetched_at": "2026-09-25T09:12:48.232172840Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 245,
+    "stars": 244,
     "forks": 8,
     "description": "A plugin that leverages Neovim's built-in RPC functionality to simplify opening files from within Neovim's terminal emulator without nesting sessions.",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "samjwill",
       "account_created_at": "2017-02-23T20:50:23Z",
-      "other_repos_star_sum": 257
+      "other_repos_star_sum": 256
     },
     "has_ci": false,
     "has_tests": false,

@@ -1,6 +1,6 @@
 {
   "slug": "salorak/whaler.nvim",
-  "fetched_at": "2026-09-18T08:39:37.885718743Z",
+  "fetched_at": "2026-09-25T09:12:34.580072489Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "Minimalistic & highly extensible project manager for NeoVim. ",
     "license_spdx": "MIT",
     "last_commit_at": "2026-06-22T16:57:21Z",
-    "commits_90d": 4,
+    "commits_90d": 0,
     "releases_365d": 2,
     "median_issue_close_days": 13.914305555555556,
     "median_pr_close_days": 0.03540509259259259,

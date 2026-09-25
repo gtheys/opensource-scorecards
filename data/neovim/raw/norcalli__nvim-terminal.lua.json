@@ -1,10 +1,10 @@
 {
   "slug": "norcalli/nvim-terminal.lua",
-  "fetched_at": "2026-09-18T08:27:57.838530275Z",
+  "fetched_at": "2026-09-25T09:01:44.965607548Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 298,
+    "stars": 297,
     "forks": 11,
     "description": "A high performance filetype mode for Neovim which leverages conceal and highlights your buffer with the correct color codes.",
     "license_spdx": "MIT",

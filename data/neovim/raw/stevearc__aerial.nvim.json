@@ -1,10 +1,10 @@
 {
   "slug": "stevearc/aerial.nvim",
-  "fetched_at": "2026-09-18T08:43:29.810736338Z",
+  "fetched_at": "2026-09-25T09:16:37.435401643Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 2344,
+    "stars": 2345,
     "forks": 120,
     "description": "Neovim plugin for a code outline window",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "stevearc",
       "account_created_at": "2010-12-02T16:02:29Z",
-      "other_repos_star_sum": 22206
+      "other_repos_star_sum": 22237
     },
     "has_ci": true,
     "has_tests": true,

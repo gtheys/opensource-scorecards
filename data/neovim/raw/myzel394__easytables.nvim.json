@@ -1,10 +1,10 @@
 {
   "slug": "myzel394/easytables.nvim",
-  "fetched_at": "2026-09-18T08:24:53.433832043Z",
+  "fetched_at": "2026-09-25T08:59:00.748005076Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 147,
+    "stars": 148,
     "forks": 4,
     "description": "Easily insert and edit markdown tables using Neovim with a live preview and useful helpers",
     "license_spdx": "GPL-3.0",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "Myzel394",
       "account_created_at": "2019-05-08T19:51:19Z",
-      "other_repos_star_sum": 2703
+      "other_repos_star_sum": 2711
     },
     "has_ci": false,
     "has_tests": false,

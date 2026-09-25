@@ -1,10 +1,10 @@
 {
   "slug": "svermeulen/text-to-colorscheme",
-  "fetched_at": "2026-09-18T08:44:11.270629245Z",
+  "fetched_at": "2026-09-25T09:17:22.103024599Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 316,
+    "stars": 317,
     "forks": 5,
     "description": "Neovim colorschemes generated on the fly with a text prompt using ChatGPT",
     "license_spdx": "MIT",

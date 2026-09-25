@@ -1,6 +1,6 @@
 {
   "slug": "luxvim/nvim-luxterm",
-  "fetched_at": "2026-09-18T08:19:02.502944379Z",
+  "fetched_at": "2026-09-25T08:53:18.124396485Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "josstei",
       "account_created_at": "2019-03-18T21:07:06Z",
-      "other_repos_star_sum": 555
+      "other_repos_star_sum": 552
     },
     "has_ci": false,
     "has_tests": false,

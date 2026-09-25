@@ -1,10 +1,10 @@
 {
   "slug": "smoka7/multicursors.nvim",
-  "fetched_at": "2026-09-18T08:42:29.336945019Z",
+  "fetched_at": "2026-09-25T09:15:24.814256357Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 642,
+    "stars": 641,
     "forks": 17,
     "description": "A multi cursor plugin for Neovim.",
     "license_spdx": "MIT",

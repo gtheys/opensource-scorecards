@@ -1,6 +1,6 @@
 {
   "slug": "simonwinther/cppman.nvim",
-  "fetched_at": "2026-09-18T08:41:55.353478024Z",
+  "fetched_at": "2026-09-25T09:14:52.797393484Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "Neovim popup UI for cppman, with searchable C++ reference docs and in-buffer navigation",
     "license_spdx": "MIT",
     "last_commit_at": "2026-09-13T09:34:10Z",
-    "commits_90d": 6,
+    "commits_90d": 4,
     "releases_365d": 13,
     "median_issue_close_days": 10.575925925925926,
     "median_pr_close_days": 0.0019444444444444444,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "simonwinther",
       "account_created_at": "2016-07-28T20:31:26Z",
-      "other_repos_star_sum": 66
+      "other_repos_star_sum": 65
     },
     "has_ci": true,
     "has_tests": false,

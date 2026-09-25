@@ -1,10 +1,10 @@
 {
   "slug": "ray-x/lsp_signature.nvim",
-  "fetched_at": "2026-09-18T08:35:56.082629829Z",
+  "fetched_at": "2026-09-25T09:08:57.597249719Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 2367,
+    "stars": 2365,
     "forks": 83,
     "description": "LSP signature hint as you type",
     "license_spdx": "Apache-2.0",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "ray-x",
       "account_created_at": "2012-04-26T09:15:35Z",
-      "other_repos_star_sum": 8719
+      "other_repos_star_sum": 8720
     },
     "has_ci": true,
     "has_tests": true,

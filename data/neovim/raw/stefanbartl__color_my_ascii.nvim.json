@@ -1,6 +1,6 @@
 {
   "slug": "stefanbartl/color_my_ascii.nvim",
-  "fetched_at": "2026-09-18T08:43:19.617470788Z",
+  "fetched_at": "2026-09-25T09:16:27.894503302Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -8,8 +8,8 @@
     "forks": 0,
     "description": "A Neovim plugin for colorful highlighting of ASCII art in Markdown code blocks with automatic language detection, custom highlights, and predefined color schemes.",
     "license_spdx": "MIT",
-    "last_commit_at": "2026-09-18T01:54:10Z",
-    "commits_90d": 108,
+    "last_commit_at": "2026-09-24T05:05:23Z",
+    "commits_90d": 126,
     "releases_365d": 1,
     "median_issue_close_days": null,
     "median_pr_close_days": null,
@@ -20,10 +20,10 @@
     "top_author": {
       "login": "StefanBartl",
       "account_created_at": "2019-05-23T10:13:50Z",
-      "other_repos_star_sum": 61
+      "other_repos_star_sum": 62
     },
     "has_ci": true,
     "has_tests": true,
-    "readme_len": 4227
+    "readme_len": 4496
   }
 }
