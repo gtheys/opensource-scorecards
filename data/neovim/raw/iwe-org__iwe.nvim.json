@@ -1,10 +1,10 @@
 {
   "slug": "iwe-org/iwe.nvim",
-  "fetched_at": "2026-09-25T06:53:01.621476164Z",
+  "fetched_at": "2026-09-26T08:56:01.748370341Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 55,
+    "stars": 54,
     "forks": 1,
     "description": "Neovim plugin for IWE — markdown notes with LSP: search, backlinks, extract/inline refactoring, knowledge-graph navigation",
     "license_spdx": "Apache-2.0",

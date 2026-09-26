@@ -1,6 +1,6 @@
 {
   "slug": "bronzowl/codux.nvim",
-  "fetched_at": "2026-09-25T06:35:45.500818873Z",
+  "fetched_at": "2026-09-26T08:41:40.450459352Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "Persistent AI workflows for Neovim. OpenAI Codex and xAI Grok integration for Neovim with persistent sessions, workspaces and token monitoring.",
     "license_spdx": "MIT",
     "last_commit_at": "2026-07-15T21:53:37Z",
-    "commits_90d": 224,
+    "commits_90d": 220,
     "releases_365d": 22,
     "median_issue_close_days": null,
     "median_pr_close_days": null,

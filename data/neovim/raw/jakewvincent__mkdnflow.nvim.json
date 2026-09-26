@@ -1,11 +1,11 @@
 {
   "slug": "jakewvincent/mkdnflow.nvim",
-  "fetched_at": "2026-09-25T06:53:26.538440482Z",
+  "fetched_at": "2026-09-26T08:56:23.197296445Z",
   "status": "ok",
   "data": {
     "archived": false,
     "stars": 830,
-    "forks": 42,
+    "forks": 43,
     "description": "Fluent navigation and management of markdown notebooks",
     "license_spdx": "GPL-3.0",
     "last_commit_at": "2026-03-25T17:33:19Z",
@@ -13,7 +13,7 @@
     "releases_365d": 40,
     "median_issue_close_days": 595.7437384259259,
     "median_pr_close_days": 0.0003761574074074074,
-    "open_issues": 20,
+    "open_issues": 21,
     "closed_issues_sampled": 30,
     "contributors_12mo": 3,
     "top_author_commit_share": 0.9429824561403509,

@@ -1,6 +1,6 @@
 {
   "slug": "drkjeff16/shebang.nvim",
-  "fetched_at": "2026-09-25T06:43:57.626602511Z",
+  "fetched_at": "2026-09-26T08:48:19.862788336Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -8,8 +8,8 @@
     "forks": 0,
     "description": "Add/modify your shebangs on top of your script files, with live reloading.",
     "license_spdx": "GPL-2.0",
-    "last_commit_at": "2026-09-22T17:34:57Z",
-    "commits_90d": 9,
+    "last_commit_at": "2026-09-26T01:10:20Z",
+    "commits_90d": 8,
     "releases_365d": 5,
     "median_issue_close_days": null,
     "median_pr_close_days": null,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "DrKJeff16",
       "account_created_at": "2020-09-29T00:05:14Z",
-      "other_repos_star_sum": 268
+      "other_repos_star_sum": 269
     },
     "has_ci": true,
     "has_tests": false,

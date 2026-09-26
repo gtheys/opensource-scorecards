@@ -1,6 +1,6 @@
 {
   "slug": "bekaboo/dropbar.nvim",
-  "fetched_at": "2026-09-25T06:34:13.491598216Z",
+  "fetched_at": "2026-09-26T08:40:30.857844582Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -8,15 +8,15 @@
     "forks": 45,
     "description": "IDE-like breadcrumbs, out of the box",
     "license_spdx": "GPL-3.0",
-    "last_commit_at": "2026-05-31T05:21:55Z",
-    "commits_90d": 0,
+    "last_commit_at": "2026-09-25T14:16:26Z",
+    "commits_90d": 1,
     "releases_365d": 0,
-    "median_issue_close_days": 1.751712962962963,
+    "median_issue_close_days": 1.834849537037037,
     "median_pr_close_days": 11.477893518518517,
-    "open_issues": 15,
+    "open_issues": 14,
     "closed_issues_sampled": 34,
     "contributors_12mo": 2,
-    "top_author_commit_share": 0.75,
+    "top_author_commit_share": 0.8,
     "top_author": {
       "login": "Bekaboo",
       "account_created_at": "2020-12-25T06:20:27Z",

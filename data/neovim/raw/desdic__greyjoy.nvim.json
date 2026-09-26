@@ -1,6 +1,6 @@
 {
   "slug": "desdic/greyjoy.nvim",
-  "fetched_at": "2026-09-25T06:42:16.041982861Z",
+  "fetched_at": "2026-09-26T08:46:54.980218785Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -10,7 +10,7 @@
     "license_spdx": "MIT",
     "last_commit_at": "2025-12-24T11:57:34Z",
     "commits_90d": 0,
-    "releases_365d": 2,
+    "releases_365d": 1,
     "median_issue_close_days": 0.6917245370370371,
     "median_pr_close_days": 0.002199074074074074,
     "open_issues": 0,
