@@ -38,7 +38,7 @@
     }
     body { font-family: "DM Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
     code, pre, .mono { font-family: "IBM Plex Mono", "SF Mono", Consolas, monospace; }
-    .mono, td a[href*="projects/"], td a[href*="authors/"] { font-family: "IBM Plex Mono", "SF Mono", Consolas, monospace; font-size: .86rem; }
+    .mono, td a[href*="projects/"], td a[href*="authors/"] { font-family: "IBM Plex Mono", "SF Mono", Consolas, monospace; font-size: clamp(.72rem, .64rem + .4vw, .86rem); }
 
     /* Site chrome */
     .site-header { border-bottom: 1px solid var(--pico-border-color); }
@@ -60,30 +60,40 @@
     .table-wrap table { width: 100%; margin: 0; table-layout: fixed; }
     .table-wrap table thead th {
       position: sticky; top: 0; background: var(--pico-background-color);
-      font-size: .74rem; letter-spacing: .06em; text-transform: uppercase;
+      font-size: clamp(.6rem, .52rem + .4vw, .74rem); letter-spacing: .06em; text-transform: uppercase;
       color: var(--pico-muted-color);
     }
-    .table-wrap table td, .table-wrap table th { padding: .45rem .55rem; font-size: .9rem; }
-    .num { text-align: right; font-variant-numeric: tabular-nums; }
-    /* Column budgets (fixed layout): desc takes whatever is left */
-    .table-wrap th:first-child { width: 2.75rem; }              /* rank */
+    /* Fluid density: type and padding scale smoothly with the viewport
+       instead of jumping at breakpoints */
+    .table-wrap table td, .table-wrap table th {
+      padding: clamp(.28rem, .2rem + .35vw, .45rem) clamp(.35rem, .25rem + .5vw, .55rem);
+      font-size: clamp(.78rem, .7rem + .45vw, .9rem);
+    }
+    .num { text-align: right; font-variant-numeric: tabular-nums; white-space: nowrap; }
+    /* Column budgets (fixed layout): fluid within sane bounds, desc takes
+       whatever is left */
+    .table-wrap th:first-child { width: clamp(1.8rem, 1.4rem + 1.2vw, 2.75rem); }  /* rank */
     th.col-project { width: 20%; }
-    th.col-owner { width: 9rem; }
-    th.col-licence { width: 7rem; }
-    th.col-score { width: 8rem; }
-    th.col-stars { width: 4.5rem; }
-    th.col-bucket { width: 3.4rem; }
+    th.col-owner { width: clamp(6.5rem, 5rem + 4vw, 9rem); }
+    th.col-licence { width: clamp(5rem, 4rem + 2.5vw, 7rem); }
+    th.col-score { width: clamp(4rem, 3rem + 3.5vw, 8rem); }
+    th.col-stars { width: clamp(3.6rem, 3rem + 1.6vw, 4.5rem); }
+    th.col-bucket { width: clamp(2.9rem, 2.5rem + 1vw, 3.4rem); }
     /* Compact headers never split mid-label */
     th.col-score, th.col-stars, th.col-bucket, .table-wrap th:first-child { white-space: nowrap; }
     /* Long single-token cells (slugs, owner names) break anywhere instead of
        overflowing their column budget */
     td.col-project a, td.col-owner a { overflow-wrap: anywhere; }
-    td.col-desc { font-size: .85rem; }
-    td.col-licence { overflow-wrap: anywhere; }
+    td.col-desc { font-size: clamp(.72rem, .65rem + .4vw, .85rem); }
+    td.col-licence { white-space: nowrap; }
     tbody tr:hover { background: var(--accent-soft); }
 
-    /* Score bar */
-    .bar { display: inline-block; width: 4rem; max-width: 60%; height: .55rem; background: var(--pico-border-color); border-radius: 3px; vertical-align: middle; }
+    /* Score bar — shrinks with the viewport; on narrower screens it stacks
+       under the number as a full-width cell bar instead of wrapping */
+    .bar { display: inline-block; width: clamp(2.2rem, 1rem + 5vw, 4rem); max-width: 60%; height: .55rem; background: var(--pico-border-color); border-radius: 3px; vertical-align: middle; }
+    @media (max-width: 72rem) {
+      .bar { display: block; width: auto; max-width: none; margin: .15rem 0 0; }
+    }
     .bar .fill { display: block; height: 100%; background: var(--pico-primary); border-radius: 3px; }
     tr.top-tier .bar .fill { background: var(--gold); }
     tr.top-tier td:first-child { font-weight: 700; }
@@ -99,13 +109,6 @@
     @media (max-width: 48rem) {
       .col-licence { display: none; }
       th.col-project { width: 30%; }
-    }
-    @media (max-width: 40rem) {
-      .bar { display: none; }    /* number stays, bar goes */
-      th.col-score { width: 4rem; }
-      th.col-stars { width: 4rem; }
-      .table-wrap th:first-child { width: 2rem; }
-      .table-wrap table td, .table-wrap table th { padding: .4rem .35rem; font-size: .85rem; }
     }
 
     /* Hub hero band */
