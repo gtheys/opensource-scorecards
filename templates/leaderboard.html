@@ -1,40 +1,48 @@
 {% extends "base.html" %}
 {% block title %}{{ category_name }} — Scorecards{% endblock %}
 {% block content %}
-<h1>{{ category_name }}</h1>
-<div class="callout">
-  <div class="callout-title">ⓘ About</div>
-  <p>This leaderboard ranks projects by <strong>maintenance health</strong> — commit activity, release
-  cadence, issue/PR response, CI, tests, and docs — refreshed nightly from the GitHub API.
-  See <a href="{{ root }}methodology.html"><u>how scores work</u></a>.</p>
+<div class="page-shell">
+  <h1>{{ category_name }}</h1>
+  <p class="muted" style="max-width:70ch;">
+    Ranked by <strong>maintenance health</strong> — commit activity, release cadence,
+    issue/PR response, CI, tests, docs — refreshed nightly from the GitHub API.
+    See <a href="{{ root }}methodology.html">how scores work</a>.
+  </p>
+  <p class="notice">
+    Scores are normalized <strong>within this category</strong> and are
+    <strong>not comparable across categories</strong>. Generated {{ generated_date }}.
+  </p>
+  <table>
+    <thead><tr>
+      <th>#</th><th>Project</th><th>What it does</th><th>Owner</th><th>Licence</th>
+      <th class="num">Score</th><th class="num">Stars</th>
+      <th class="num">Maint.</th><th class="num">Comm.</th><th class="num">Qual.</th>
+    </tr></thead>
+    <tbody>
+    {% for r in rows %}
+      <tr {% if r.rank <= 3 %}class="top-tier"{% endif %}>
+        <td class="num">{{ r.rank }}</td>
+        <td><a href="{{ root }}projects/{{ r.slug | replace(from="/", to="__") }}.html">{{ r.slug }}</a></td>
+        <td class="muted" style="font-size:.85rem;max-width:26rem;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">
+          {%- if r.description -%}{{ r.description }}{%- else -%}—{%- endif -%}
+        </td>
+        <td><a href="{{ root }}authors/{{ r.owner }}.html">{{ r.owner }}</a></td>
+        <td class="muted">{{ r.license | default(value="—") }}</td>
+        <td class="num"><span class="bar"><span class="fill" style="width: {{ r.total }}%"></span></span> {{ r.total }}</td>
+        <td class="num">{{ r.stars | stars_fmt }}</td>
+        <td class="num">{{ r.buckets.maintenance }}</td>
+        <td class="num">{{ r.buckets.community }}</td>
+        <td class="num">{{ r.buckets.quality }}</td>
+      </tr>
+    {% endfor %}
+    </tbody>
+  </table>
+  {% if unavailable %}
+  <h2>Unavailable</h2>
+  <p class="muted">These repos could not be fetched and are excluded from ranking.</p>
+  <ul>
+  {% for p in unavailable %}<li>{{ p.slug }} ({{ p.status }})</li>{% endfor %}
+  </ul>
+  {% endif %}
 </div>
-<p class="notice">Scores are normalized <strong>within this category</strong> and are
-<strong>not comparable across categories</strong>. Generated {{ generated_at }}.</p>
-<table>
-  <thead><tr>
-    <th>#</th><th>Project</th><th>Owner</th><th class="num">Score</th><th class="num">Stars</th>
-    <th class="num">Maintenance</th><th class="num">Community</th><th class="num">Quality</th>
-  </tr></thead>
-  <tbody>
-  {% for p in ranked %}
-    <tr>
-      <td class="num">{{ loop.index }}</td>
-      <td><a href="{{ root }}projects/{{ p.slug | replace(from="/", to="__") }}.html">{{ p.slug }}</a></td>
-      <td><a href="{{ root }}authors/{{ p.slug | split(pat="/") | first }}.html">{{ p.slug | split(pat="/") | first }}</a></td>
-      <td class="num"><span class="bar"><span class="fill" style="width: {{ p.total }}%"></span></span> {{ p.total }}</td>
-      <td class="num">{{ p.stars | stars_fmt }}</td>
-      <td class="num">{{ p.buckets.maintenance }}</td>
-      <td class="num">{{ p.buckets.community }}</td>
-      <td class="num">{{ p.buckets.quality }}</td>
-    </tr>
-  {% endfor %}
-  </tbody>
-</table>
-{% if unavailable %}
-<h2>Unavailable</h2>
-<p class="muted">These repos could not be fetched and are excluded from ranking.</p>
-<ul>
-{% for p in unavailable %}<li>{{ p.slug }} ({{ p.status }})</li>{% endfor %}
-</ul>
-{% endif %}
 {% endblock %}
