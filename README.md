@@ -121,5 +121,5 @@ Data sources: [awesome-neovim](https://github.com/rockerBOO/awesome-neovim),
 
 Table/layout styling by [Pico CSS](https://picocss.com).
 
-Built by [gtheys](https://github.com/gtheys) -
+Built by [Geert Theys](https://geert.md) ([gtheys](https://github.com/gtheys)) -
 [geerttheys.substack.com](https://geerttheys.substack.com).
