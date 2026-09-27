@@ -34,6 +34,24 @@
     {% endfor %}
   </div>
 
+  {% if movers %}
+  <h2>Biggest movers</h2>
+  <p class="muted" style="margin:0 0 .6rem;">Rank changes since the previous scoring day. Movers appear once history has two scoring days.</p>
+  <table style="margin-top:.5rem;">
+    <thead><tr><th>Project</th><th class="num">Rank change</th><th class="num">Now</th><th class="num">Score</th></tr></thead>
+    <tbody>
+    {% for m in movers %}
+      <tr>
+        <td><a href="{{ root }}projects/{{ m.slug | replace(from="/", to="__") }}.html">{{ m.slug }}</a></td>
+        <td class="num">{% if m.delta > 0 %}<span style="color:var(--accent);font-weight:700;">▲ +{{ m.delta }}</span>{% else %}<span class="muted">▼ {{ m.delta }}</span>{% endif %}</td>
+        <td class="num">#{{ m.rank }}</td>
+        <td class="num">{{ m.total }}</td>
+      </tr>
+    {% endfor %}
+    </tbody>
+  </table>
+  {% endif %}
+
   <h2>Why these scores read differently</h2>
   <div class="pillars">
     <div class="pillar">
