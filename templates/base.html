@@ -61,7 +61,11 @@
     h1 { margin: 0; font-size: clamp(1.8rem, 3.5vw, 2.6rem); font-weight: 650; letter-spacing: -.055em; line-height: 1.15; }
     h2 { font-size: 1.15rem; font-weight: 600; letter-spacing: -.03em; }
     table { border-collapse: collapse; width: 100%; margin-top: 1.5rem; }
-    th, td { text-align: left; padding: .5rem .75rem; border-bottom: 1px solid var(--line); font-size: .92rem; }
+    /* Wide tables scroll inside their own container instead of stretching the page */
+    .table-wrap { overflow-x: auto; -webkit-overflow-scrolling: touch; margin-top: 1.5rem; }
+    .table-wrap table { margin-top: 0; min-width: 56rem; }
+    th, td { text-align: left; padding: .5rem .75rem; border-bottom: 1px solid var(--line); font-size: .92rem; white-space: nowrap; }
+    th, td.wrap-col { white-space: normal; }
     th { position: sticky; top: 0; background: var(--bg); color: var(--muted); font-size: .78rem; font-weight: 600; letter-spacing: .05em; text-transform: uppercase; }
     tbody tr:hover { background: var(--accent-soft); }
     td a[href*="projects/"], td a[href*="authors/"] { font-family: var(--mono); font-size: .86rem; letter-spacing: -.02em; }

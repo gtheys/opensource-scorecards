@@ -12,6 +12,7 @@
     Scores are normalized <strong>within this category</strong> and are
     <strong>not comparable across categories</strong>. Generated {{ generated_date }}.
   </p>
+  <div class="table-wrap">
   <table>
     <thead><tr>
       <th>#</th><th>Project</th><th>What it does</th><th>Owner</th><th>Licence</th>
@@ -23,7 +24,7 @@
       <tr {% if r.rank <= 3 %}class="top-tier"{% endif %}>
         <td class="num">{{ r.rank }}</td>
         <td><a href="{{ root }}projects/{{ r.slug | replace(from="/", to="__") }}.html">{{ r.slug }}</a></td>
-        <td class="muted" style="font-size:.85rem;max-width:26rem;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">
+        <td class="muted wrap-col" style="font-size:.85rem;max-width:24rem;min-width:12rem;">
           {%- if r.description -%}{{ r.description }}{%- else -%}—{%- endif -%}
         </td>
         <td><a href="{{ root }}authors/{{ r.owner }}.html">{{ r.owner }}</a></td>
@@ -37,6 +38,7 @@
     {% endfor %}
     </tbody>
   </table>
+  </div>
   {% if unavailable %}
   <h2>Unavailable</h2>
   <p class="muted">These repos could not be fetched and are excluded from ranking.</p>
