@@ -153,7 +153,7 @@ fn compute_movers(data_dir: &Path, scored: &ScoredCategory) -> Vec<Value> {
             }),
         ));
     }
-    movers.sort_by(|a, b| b.0.cmp(&a.0));
+    movers.sort_by_key(|a| std::cmp::Reverse(a.0));
     movers.into_iter().map(|(_, row)| row).take(8).collect()
 }
 
@@ -270,7 +270,7 @@ pub fn render_to(
     // AIDEV-NOTE: top movers come from history.json (appended by `score`).
     // Local rank deltas within THIS category vs the previous scoring day.
     // No history, or only one day of it → empty list, hub hides the section.
-    let movers = compute_movers(data_dir, &scored);
+    let movers = compute_movers(data_dir, scored);
 
     // Leaderboard (per-category page, root="" for top-level links)
     let rows: Vec<Value> = ranked
