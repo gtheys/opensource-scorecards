@@ -41,5 +41,11 @@
   <p class="notice">This repository is <strong>{{ p.status }}</strong> — no score could be computed.</p>
   {% endif %}
   <p style="margin-top:1.5rem;"><a href="{{ root }}{{ category_key }}.html">← Back to {{ category_name }}</a></p>
+  {% if p.total %}
+  <h2>Embed your score</h2>
+  <p class="muted">Maintainer? Put this badge in your README — it links back to this scorecard and refreshes with every nightly run.</p>
+  <p><img src="{{ root }}badges/{{ category_key }}/{{ p.slug | replace(from="/", to="__") }}.svg" alt="Scorecard badge for {{ p.slug }}"></p>
+  <pre style="background:var(--accent-soft);border:1px solid var(--line);border-radius:6px;padding:.7rem 1rem;font-family:var(--mono);font-size:.82rem;overflow-x:auto;">[![scorecard](https://gtheys.github.io/opensource-scorecards/badges/{{ category_key }}/{{ p.slug | replace(from="/", to="__") }}.svg)](https://gtheys.github.io/opensource-scorecards/projects/{{ p.slug | replace(from="/", to="__") }}.html)</pre>
+  {% endif %}
 </div>
 {% endblock %}

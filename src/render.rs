@@ -384,12 +384,147 @@ pub fn render_to(
     ctx.insert("root", "");
     write(&tera, "categories.html", &ctx, &out_dir.join("index.html"))?;
 
+    // AIDEV-NOTE: badges/ is a shared namespace across categories (same rule as
+    // projects/). Feed is rewritten each run; only the current run's movers are
+    // included, so the last render wins — fine for a daily-updated feed.
+    write_badges(out_dir, category_key, &ranked, &categories)?;
+    write_movers_feed(out_dir, cfg, &movers, category_key)?;
+
     println!(
         "rendered {} projects ({} ranked) to {}",
         scored.projects.len(),
         ranked.len(),
         out_dir.display()
     );
+    Ok(())
+}
+
+/// Writes embeddable score badges: `badges/<cat>/<owner>__<repo>.svg`.
+/// Flat-color shields (navy label, grade-colored value) so they work on any
+/// README background with zero external dependencies. Linked to the project page.
+fn write_badges(
+    out_dir: &Path,
+    category_key: &str,
+    ranked: &[&ScoredProject],
+    categories: &[Value],
+) -> anyhow::Result<()> {
+    let dir = out_dir.join("badges").join(category_key);
+    std::fs::create_dir_all(&dir)?;
+    let base = "https://gtheys.github.io/opensource-scorecards";
+    let cat_name = categories
+        .iter()
+        .find(|c| c["key"].as_str() == Some(category_key))
+        .and_then(|c| c["name"].as_str())
+        .unwrap_or("Scorecards");
+    for (i, p) in ranked.iter().enumerate() {
+        let Some(total) = p.total else { continue };
+        let rank = i + 1;
+        let (color, _grade) = grade_color(total);
+        let score_txt = format!("{total:.1}");
+        let rank_txt = format!("#{rank}");
+        let w_label = 70.0;
+        let w_score = 24.0 + (score_txt.len() + rank_txt.len()) as f64 * 8.0;
+        let w_total = w_label + w_score;
+        let h = 20.0;
+        let file_slug = p.slug.replace('/', "__");
+        let svg = format!(
+            r##"<svg xmlns="http://www.w3.org/2000/svg" width="{w}" height="{h}" role="img" aria-label="scorecard: {s} {r} in {c}"><title>{slug}: {s}/100, rank {r} in {c}</title><a href="{base}/projects/{f}.html"><g clip-path="url(#r)" shape-rendering="crispEdges"><rect width="{w}" height="{h}" fill="#101827"/><rect x="{wl}" width="{ws}" height="{h}" fill="{col}"/></g><g fill="#ffffff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="11"><text x="{cxl}" y="14">scorecard</text><text x="{cxs}" y="14">{s} &#183; {r}</text></g></a></svg>
+"##,
+            w = w_total,
+            s = score_txt,
+            r = rank_txt,
+            c = html_escape(cat_name),
+            slug = html_escape(&p.slug),
+            f = file_slug,
+            wl = w_label,
+            ws = w_score,
+            col = color,
+            cxl = w_label / 2.0,
+            cxs = w_label + w_score / 2.0,
+        );
+        std::fs::write(dir.join(format!("{file_slug}.svg")), svg)?;
+    }
+    Ok(())
+}
+
+/// Grade color for badge value segments, aligned with the site palette.
+fn grade_color(total: f64) -> (&'static str, &'static str) {
+    match total {
+        t if t >= 80.0 => ("#f0b429", "A"), // gold
+        t if t >= 65.0 => ("#187a45", "B"), // green
+        t if t >= 50.0 => ("#4c5750", "C"), // grey-green
+        _ => ("#9a3b3b", "D"),              // red
+    }
+}
+
+fn html_escape(s: &str) -> String {
+    s.replace('&', "&amp;")
+        .replace('<', "&lt;")
+        .replace('>', "&gt;")
+        .replace('"', "&quot;")
+}
+
+/// Atom feed of the current run's biggest movers (one category per render run;
+/// the hub is rewritten per run, so the last render wins — fine for a daily feed).
+fn write_movers_feed(
+    out_dir: &Path,
+    cfg: &Config,
+    movers: &[Value],
+    category_key: &str,
+) -> anyhow::Result<()> {
+    let base = "https://gtheys.github.io/opensource-scorecards";
+    let now = Utc::now().to_rfc3339_opts(chrono::SecondsFormat::Secs, true);
+    let cat_name = cfg
+        .categories
+        .get(category_key)
+        .map(|c| c.name.clone())
+        .unwrap_or_else(|| category_key.to_string());
+    let mut entries = String::new();
+    for m in movers {
+        let Some(slug) = m["slug"].as_str() else {
+            continue;
+        };
+        let delta = m["delta"].as_i64().unwrap_or(0);
+        let rank = m["rank"].as_i64().unwrap_or(0);
+        let total = m["total"].as_f64().unwrap_or(0.0);
+        let arrow = if delta > 0 { "&#9650;" } else { "&#9660;" };
+        let tot = format!("{total:.1}");
+        let file = slug.replace('/', "__");
+        let title = format!(
+            "{arrow} {} {} {} &#8594; #{} ({:.1}) &#183; {}",
+            delta.abs(),
+            if delta > 0 { "up" } else { "down" },
+            html_escape(slug),
+            rank,
+            total,
+            html_escape(&cat_name),
+        );
+        entries.push_str(&format!(
+            r##"  <entry>
+    <id>urn:scorecards:{file}</id>
+    <title>{title}</title>
+    <link href="{base}/projects/{file}.html"/>
+    <updated>{now}</updated>
+    <summary>{arrow} {abs} places to #{rank}, score {tot} in {cat}</summary>
+  </entry>
+"##,
+            abs = delta.abs(),
+            cat = html_escape(&cat_name),
+        ));
+    }
+    let feed = format!(
+        r##"<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Open Source Scorecards &#8212; biggest movers</title>
+  <id>{base}/</id>
+  <link href="{base}/" rel="alternate"/>
+  <link href="{base}/movers.xml" rel="self"/>
+  <updated>{now}</updated>
+  <author><name>Open Source Scorecards</name></author>
+{entries}</feed>
+"##
+    );
+    std::fs::write(out_dir.join("movers.xml"), feed)?;
     Ok(())
 }
 
