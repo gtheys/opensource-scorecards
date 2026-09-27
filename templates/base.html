@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en">
+<html lang="en" data-theme="light">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -11,110 +11,120 @@
   <meta property="og:image" content="https://gtheys.github.io/opensource-scorecards/assets/logo-512.png">
   <meta name="twitter:card" content="summary">
   <link rel="icon" type="image/png" href="{{ root }}assets/favicon.png">
+  <!-- Pico CSS (classless) — table/layout/typography primitives, vendored, no CDN at runtime -->
+  <link rel="stylesheet" href="{{ root }}assets/vendor/pico.classless.min.css">
   <style>
-    /* AIDEV-NOTE: palette aligned to the logo (navy badge, green checks, gold A+). */
-    @import url("https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap");
-    :root {
-      --accent: #187a45;
-      --accent-soft: #edf7f0;
+    /* Theme layer: keep the logo's navy/green/gold identity on top of Pico.
+       Pico exposes its palette as --pico-* variables; we re-point the accents. */
+    :root, [data-theme="light"] {
+      --pico-primary: #187a45;
+      --pico-primary-background: #187a45;
+      --pico-primary-hover: #136238;
+      --pico-primary-focus: rgba(24, 122, 69, .35);
+      --pico-border-color: #e6eae7;
+      --pico-muted-color: #667069;
+      --pico-muted-border-color: #e6eae7;
       --navy: #101827;
-      --navy-soft: #1f2a3d;
       --gold: #f0b429;
-      --muted: #667069;
-      --line: #e6eae7;
-      --bg: #ffffff;
-      --fg: #202923;
-      --mono: "IBM Plex Mono", "SF Mono", Consolas, monospace;
+      --accent-soft: #edf7f0;
     }
-    @media (prefers-color-scheme: dark) {
-      :root {
-        --accent: #3fbf7f;
-        --accent-soft: #14251c;
-        --muted: #8b968f;
-        --line: #26302a;
-        --bg: #12171a;
-        --fg: #dde4de;
-      }
-      body { background: var(--bg); }
-      th { background: var(--bg) !important; }
-      .hero-band { background: var(--navy) !important; }
+    [data-theme="dark"], :root:not([data-theme]) {
+      --pico-primary: #3fbf7f;
+      --pico-primary-background: #187a45;
+      --pico-primary-hover: #3fbf7f;
+      --navy: #0b1120;
+      --gold: #f0b429;
+      --accent-soft: #14251c;
     }
-    * { box-sizing: border-box; }
-    body {
-      margin: 0; color: var(--fg); background: var(--bg);
-      font-family: "DM Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-      line-height: 1.5; -webkit-font-smoothing: antialiased;
-    }
-    ::selection { background: var(--accent-soft); }
-    a { color: var(--accent); text-decoration: none; }
-    a:hover { text-decoration: underline; }
-    .site-header { border-bottom: 1px solid var(--line); }
-    .header-inner, .page-shell { width: min(1200px, 100% - 3rem); margin-inline: auto; }
-    .header-inner { display: flex; justify-content: space-between; align-items: center; gap: 20px; height: 72px; }
-    .brand { display: inline-flex; align-items: center; gap: 10px; font-size: 1.25rem; font-weight: 700; letter-spacing: -.045em; color: var(--fg); }
-    .brand:hover { text-decoration: none; }
+    body { font-family: "DM Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+    code, pre, .mono { font-family: "IBM Plex Mono", "SF Mono", Consolas, monospace; }
+    .mono, td a[href*="projects/"], td a[href*="authors/"] { font-family: "IBM Plex Mono", "SF Mono", Consolas, monospace; font-size: .86rem; }
+
+    /* Site chrome */
+    .site-header { border-bottom: 1px solid var(--pico-border-color); }
+    .header-inner { display: flex; justify-content: space-between; align-items: center; gap: 20px; padding: 1rem 0; flex-wrap: wrap; }
+    .brand { display: inline-flex; align-items: center; gap: 10px; font-size: 1.25rem; font-weight: 700; letter-spacing: -.045em; color: inherit; text-decoration: none; }
     .brand img { width: 32px; height: 32px; border-radius: 8px; }
-    nav { display: flex; align-items: center; gap: 24px; font-size: .875rem; font-weight: 500; }
-    nav a { color: var(--muted); }
-    nav a:hover { color: var(--accent); text-decoration: none; }
-    .page-shell { padding: 40px 0 64px; }
-    h1 { margin: 0; font-size: clamp(1.8rem, 3.5vw, 2.6rem); font-weight: 650; letter-spacing: -.055em; line-height: 1.15; }
-    h2 { font-size: 1.15rem; font-weight: 600; letter-spacing: -.03em; }
-    table { border-collapse: collapse; width: 100%; margin-top: 1.5rem; }
-    /* Wide tables scroll inside their own container instead of stretching the page */
-    .table-wrap { overflow-x: auto; -webkit-overflow-scrolling: touch; margin-top: 1.5rem; }
-    .table-wrap table { margin-top: 0; min-width: 56rem; }
-    th, td { text-align: left; padding: .5rem .75rem; border-bottom: 1px solid var(--line); font-size: .92rem; white-space: nowrap; }
-    th, td.wrap-col { white-space: normal; }
-    th { position: sticky; top: 0; background: var(--bg); color: var(--muted); font-size: .78rem; font-weight: 600; letter-spacing: .05em; text-transform: uppercase; }
-    tbody tr:hover { background: var(--accent-soft); }
-    td a[href*="projects/"], td a[href*="authors/"] { font-family: var(--mono); font-size: .86rem; letter-spacing: -.02em; }
+    .site-header nav { display: flex; align-items: center; gap: 18px; font-size: .875rem; flex-wrap: wrap; margin: 0; }
+    .site-header nav a { color: var(--pico-muted-color); text-decoration: none; }
+    .site-header nav a:hover { color: var(--pico-primary); }
+    .page-shell { padding: 1.5rem 0 3rem; }
+    h1 { letter-spacing: -.05em; font-weight: 700; }
+    h2 { letter-spacing: -.03em; }
+
+    /* Data tables: Pico provides the look; we add density + sticky header +
+       in-place scrolling so wide tables never stretch the page */
+    .table-wrap { overflow-x: auto; -webkit-overflow-scrolling: touch; }
+    .table-wrap table { width: 100%; margin: 0; }
+    .table-wrap table thead th {
+      position: sticky; top: 0; background: var(--pico-background-color);
+      font-size: .74rem; letter-spacing: .06em; text-transform: uppercase;
+      color: var(--pico-muted-color);
+    }
+    .table-wrap table td, .table-wrap table th { padding: .45rem .65rem; font-size: .9rem; white-space: nowrap; }
+    .table-wrap table td.wrap-col { white-space: normal; min-width: 10rem; max-width: 20rem; }
     .num { text-align: right; font-variant-numeric: tabular-nums; }
-    .bar { display: inline-block; width: 6rem; height: .55rem; background: var(--line); border-radius: 3px; vertical-align: middle; }
-    .bar .fill { display: block; height: 100%; background: var(--accent); border-radius: 3px; }
-    /* A+ tier: top-3 rows get the logo's gold */
+    tbody tr:hover { background: var(--accent-soft); }
+
+    /* Score bar */
+    .bar { display: inline-block; width: 5.5rem; height: .55rem; background: var(--pico-border-color); border-radius: 3px; vertical-align: middle; }
+    .bar .fill { display: block; height: 100%; background: var(--pico-primary); border-radius: 3px; }
     tr.top-tier .bar .fill { background: var(--gold); }
     tr.top-tier td:first-child { font-weight: 700; }
-    .notice { padding: .8rem 1rem; background: var(--accent-soft); border-left: 3px solid var(--accent); border-radius: 0 6px 6px 0; font-size: .92rem; }
-    .muted { color: var(--muted); }
-    .avatar { border-radius: 50%; vertical-align: middle; }
-    /* Hub hero */
-    .hero-band { background: var(--navy); color: #f3f5f7; }
-    .hero-inner { width: min(1200px, 100% - 3rem); margin-inline: auto; padding: 56px 0 48px; }
-    .hero-inner h1 { color: #fff; max-width: 21ch; }
-    .hero-sub { max-width: 62ch; font-size: 1.05rem; color: #c3cbd6; margin: 14px 0 26px; }
+
+    /* Hub hero band */
+    .hero-band { background: var(--navy); color: #f3f5f7; border-radius: 12px; margin-top: 1.5rem; }
+    .hero-inner { padding: 2.5rem 2rem 2.2rem; }
+    .hero-inner h1 { color: #fff; max-width: 22ch; margin-bottom: .6rem; }
+    .hero-sub { max-width: 62ch; font-size: 1.02rem; color: #c3cbd6; margin: 0 0 1.4rem; }
     .hero-sub strong { color: #fff; }
     .hero-actions { display: flex; gap: 12px; flex-wrap: wrap; }
-    .btn { display: inline-block; padding: .65rem 1.2rem; border-radius: 8px; font-weight: 600; font-size: .95rem; }
-    .btn:hover { text-decoration: none; opacity: .92; }
-    .btn-primary { background: var(--gold); color: #1a1405; }
-    .btn-ghost { border: 1px solid #3a4657; color: #e6eaf0; }
+    .btn-primary, .btn-ghost {
+      display: inline-block; padding: .65rem 1.2rem; border-radius: 8px;
+      border: 1px solid transparent; font-weight: 600; font-size: .95rem;
+      text-decoration: none; cursor: pointer; line-height: 1.2;
+    }
+    .btn-primary { background: var(--gold); border-color: var(--gold); color: #1a1405; }
+    .btn-primary:hover { background: #e0a51f; }
+    .btn-ghost { background: transparent; color: #e6eaf0; border-color: #3a4657; }
+    .btn-ghost:hover { background: rgba(255,255,255,.06); }
+
     /* Hub cards */
-    .cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 16px; margin: 1.5rem 0; }
-    .card { border: 1px solid var(--line); border-radius: 10px; padding: 1.1rem 1.2rem; display: block; color: var(--fg); }
-    .card:hover { border-color: var(--accent); text-decoration: none; background: var(--accent-soft); }
-    .card h2 { margin: 0 0 .3rem; }
-    .card .count { font-size: 1.6rem; font-weight: 700; letter-spacing: -.03em; }
-    .card .top { font-family: var(--mono); font-size: .82rem; margin-top: .4rem; }
-    .pillars { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 16px; margin: 1.5rem 0; }
-    .pillar { border-left: 3px solid var(--accent); padding-left: .9rem; font-size: .93rem; }
+    .cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 14px; margin: 1.25rem 0; }
+    .card { display: block; padding: 1.1rem 1.2rem; border: 1px solid var(--pico-border-color); border-radius: 10px; color: inherit; text-decoration: none; background: var(--pico-background-color); }
+    .card:hover { border-color: var(--pico-primary); text-decoration: none; background: var(--accent-soft); }
+    .card h2 { margin: 0 0 .3rem; font-size: 1.05rem; }
+    .card .count { font-size: 1.5rem; font-weight: 700; letter-spacing: -.03em; }
+    .card .top { font-family: "IBM Plex Mono", monospace; font-size: .8rem; margin-top: .4rem; }
+
+    /* Pillars */
+    .pillars { display: grid; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); gap: 16px; margin: 1.25rem 0; }
+    .pillar { border-left: 3px solid var(--pico-primary); padding-left: .9rem; font-size: .93rem; }
     .pillar strong { display: block; margin-bottom: .2rem; }
-    footer { border-top: 1px solid var(--line); margin-top: 3rem; padding-top: 1.2rem; font-size: .8rem; }
-    footer a { text-decoration: underline; }
+
+    .site-footer { border-top: 1px solid var(--pico-border-color); margin-top: 2.5rem; padding: 1.2rem 0 2.5rem; font-size: .82rem; color: var(--pico-muted-color); }
+    .notice { padding: .8rem 1rem; background: var(--accent-soft); border-left: 3px solid var(--pico-primary); border-radius: 0 6px 6px 0; font-size: .92rem; }
   </style>
+  <script>
+    // Respect OS dark mode before first paint (Pico's data-theme switch).
+    (function () {
+      var m = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)');
+      if (m) document.documentElement.setAttribute('data-theme', m.matches ? 'dark' : 'light');
+    })();
+  </script>
 </head>
 <body>
 <header class="site-header">
-  <div class="header-inner">
-    <a class="brand" href="{{ root }}index.html"><img src="{{ root }}assets/logo-192.png" alt="">Scorecards</a>
-    <nav>{% for c in categories %}<a href="{{ root }}{{ c.key }}.html">{{ c.name }}</a>{% endfor %}<a href="{{ root }}methodology.html">Methodology</a><a href="https://github.com/gtheys/opensource-scorecards">GitHub</a></nav>
+  <div class="container">
+    <div class="header-inner">
+      <a class="brand" href="{{ root }}index.html"><img src="{{ root }}assets/logo-192.png" alt="">Scorecards</a>
+      <nav>{% for c in categories %}<a href="{{ root }}{{ c.key }}.html">{{ c.name }}</a>{% endfor %}<a href="{{ root }}methodology.html">Methodology</a><a href="https://github.com/gtheys/opensource-scorecards">GitHub</a></nav>
+    </div>
   </div>
 </header>
-<main>
+<main class="container">
 {% block content %}{% endblock %}
+<footer class="site-footer">Scores measure maintenance likelihood, not code quality. <a href="{{ root }}methodology.html">How scores work</a> · <a href="{{ root }}movers.xml">Movers feed</a>.</footer>
 </main>
-<div class="page-shell">
-<footer class="muted">Scores measure maintenance likelihood, not code quality. <a href="{{ root }}methodology.html">How scores work</a> · <a href="{{ root }}movers.xml" type="application/atom+xml">Movers feed</a>.</footer>
-</div>
 </body>
 </html>

@@ -537,16 +537,24 @@ fn write(tera: &Tera, template: &str, ctx: &Context, path: &Path) -> anyhow::Res
 /// Copies repo-root assets/ (favicon, logo) into the site. Skips silently when
 /// absent so tests and partial checkouts still render.
 fn copy_assets(out_dir: &Path) {
-    let src = Path::new("assets");
+    copy_dir_recursive(Path::new("assets"), &out_dir.join("assets"));
+}
+
+fn copy_dir_recursive(src: &Path, dst: &Path) {
+    if std::fs::create_dir_all(dst).is_err() {
+        return;
+    }
     let Ok(entries) = std::fs::read_dir(src) else {
         return;
     };
-    let dst = out_dir.join("assets");
-    if std::fs::create_dir_all(&dst).is_err() {
-        return;
-    }
     for e in entries.flatten() {
-        let _ = std::fs::copy(e.path(), dst.join(e.file_name()));
+        let from = e.path();
+        let to = dst.join(e.file_name());
+        if from.is_dir() {
+            copy_dir_recursive(&from, &to);
+        } else {
+            let _ = std::fs::copy(&from, &to);
+        }
     }
 }
 
