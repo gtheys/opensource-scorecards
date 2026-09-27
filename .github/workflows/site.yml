@@ -1,0 +1,44 @@
+name: site
+
+# AIDEV-NOTE: UI-only fast path — render from committed data/ and deploy, no
+# seed/collect/score. Triggers on template/render changes; pipeline.yml stays
+# the nightly full run.
+on:
+  push:
+    branches: [main]
+    paths:
+      - "templates/**"
+      - "src/render.rs"
+      - ".github/workflows/site.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: dtolnay/rust-toolchain@stable
+      - uses: Swatinem/rust-cache@v2
+      - run: cargo build --release
+      - run: ./target/release/scorecards render
+      - run: ./target/release/scorecards render --category pi
+      - run: ./target/release/scorecards render --category herdr
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site/
+
+  deploy:
+    needs: render
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
