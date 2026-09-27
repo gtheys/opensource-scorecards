@@ -2,6 +2,12 @@
 {% block title %}{{ category_name }} — Scorecards{% endblock %}
 {% block content %}
 <h1>{{ category_name }}</h1>
+<div class="callout">
+  <div class="callout-title">ⓘ About</div>
+  <p>This leaderboard ranks projects by <strong>maintenance health</strong> — commit activity, release
+  cadence, issue/PR response, CI, tests, and docs — refreshed nightly from the GitHub API.
+  See <a href="{{ root }}methodology.html"><u>how scores work</u></a>.</p>
+</div>
 <p class="notice">Scores are normalized <strong>within this category</strong> and are
 <strong>not comparable across categories</strong>. Generated {{ generated_at }}.</p>
 <table>

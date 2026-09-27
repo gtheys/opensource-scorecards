@@ -1,7 +1,13 @@
 {% extends "base.html" %}
 {% block content %}
 <h1>Open Source Scorecards</h1>
-<p>Maintenance-health leaderboards per category. Scores are normalized <strong>within a category</strong> and are not comparable across categories.</p>
+<div class="callout">
+  <div class="callout-title">ⓘ About</div>
+  <p>Scorecards ranks open-source projects by <strong>maintenance health</strong> — commit activity,
+  release cadence, issue/PR response times, CI, tests, and docs — not by stars alone.
+  Data is pulled from the GitHub API and refreshed nightly. Scores are normalized
+  <strong>within a category</strong> and are not comparable across categories.</p>
+</div>
 <ul>
 {% for c in categories %}<li><a href="{{ c.key }}.html">{{ c.name }}</a></li>
 {% endfor %}</ul>
