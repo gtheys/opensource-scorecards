@@ -4,9 +4,9 @@
 | ------------ | -------------------------------------- |
 | Project      | Open Source Scorecards                 |
 | Status       | Draft                                  |
-| Author       | Geert                                  |
+| Author       | gtheys                                 |
 | Created      | 2025                                   |
-| Repository   | /home/geert/Code/personal/opensource-scorecards |
+| Repository   | https://github.com/gtheys/opensource-scorecards |
 
 ---
 
