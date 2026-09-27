@@ -40,6 +40,7 @@ pub fn render_to(
     let tera = templates()?;
     std::fs::create_dir_all(out_dir.join("projects"))?;
     std::fs::create_dir_all(out_dir.join("authors"))?;
+    copy_assets(out_dir);
     // AIDEV-NOTE: projects/ is a shared namespace across categories — a repo in
     // two lists gets one page (last render wins). Lua/TS overlap ~zero; revisit if real.
 
@@ -146,6 +147,18 @@ fn write(tera: &Tera, template: &str, ctx: &Context, path: &Path) -> anyhow::Res
     let html = tera.render(template, ctx)?;
     std::fs::write(path, html)?;
     Ok(())
+}
+
+/// Copies repo-root assets/ (favicon, logo) into the site. Skips silently when
+/// absent so tests and partial checkouts still render.
+fn copy_assets(out_dir: &Path) {
+    let src = Path::new("assets");
+    let Ok(entries) = std::fs::read_dir(src) else { return };
+    let dst = out_dir.join("assets");
+    if std::fs::create_dir_all(&dst).is_err() { return }
+    for e in entries.flatten() {
+        let _ = std::fs::copy(e.path(), dst.join(e.file_name()));
+    }
 }
 
 #[cfg(test)]
