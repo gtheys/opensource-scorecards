@@ -54,8 +54,45 @@ pub fn run(cfg: &Config, category: &str) -> anyhow::Result<()> {
     let scored = score_category(cfg, category, records);
     let out = cat.data_dir.join("scores.json");
     std::fs::write(&out, serde_json::to_string_pretty(&scored)?)?;
+    append_history(&cat.data_dir, &scored)?;
     let ranked = scored.projects.iter().filter(|p| p.total.is_some()).count();
-    println!("wrote {} ({} scored) to {}", scored.projects.len(), ranked, out.display());
+    println!(
+        "wrote {} ({} scored) to {}",
+        scored.projects.len(),
+        ranked,
+        out.display()
+    );
+    Ok(())
+}
+
+// AIDEV-NOTE: one JSON line per scoring day — {date, scores: {slug: total}}.
+// Append keeps file growth linear and diff-friendly; today's entry is replaced
+// in place (idempotent re-runs don't duplicate). Powers the hub's top-movers.
+fn append_history(data_dir: &Path, scored: &ScoredCategory) -> anyhow::Result<()> {
+    let path = data_dir.join("history.json");
+    let today = scored.generated_at.format("%Y-%m-%d").to_string();
+    let mut lines: Vec<String> = std::fs::read_to_string(&path)
+        .unwrap_or_default()
+        .lines()
+        .filter(|l| !l.trim().is_empty())
+        .map(str::to_string)
+        .collect();
+    let entry = serde_json::json!({
+        "date": today,
+        "scores": scored.projects.iter().filter_map(|p| p.total.map(|t| (p.slug.as_str(), (t * 1000.0).round() / 1000.0))).collect::<std::collections::BTreeMap<_,_>>(),
+    });
+    let line = serde_json::to_string(&entry)?;
+    if let Some(pos) = lines.iter().position(|l| {
+        serde_json::from_str::<serde_json::Value>(l)
+            .ok()
+            .and_then(|v| v["date"].as_str().map(|d| d == today))
+            .unwrap_or(false)
+    }) {
+        lines[pos] = line;
+    } else {
+        lines.push(line);
+    }
+    std::fs::write(&path, lines.join("\n") + "\n")?;
     Ok(())
 }
 
@@ -66,7 +103,9 @@ fn load_records(dir: &Path) -> anyhow::Result<Vec<RepoRecord>> {
     {
         let path = entry?.path();
         if path.extension().is_some_and(|e| e == "json") {
-            out.push(serde_json::from_str::<RepoRecord>(&std::fs::read_to_string(&path)?)?);
+            out.push(serde_json::from_str::<RepoRecord>(
+                &std::fs::read_to_string(&path)?,
+            )?);
         }
     }
     out.sort_by(|a, b| a.slug.cmp(&b.slug));
@@ -118,23 +157,113 @@ fn signals_of(s: &crate::models::RepoSignals, now: DateTime<Utc>, decay_days: f6
 
     Signals {
         values: vec![
-            ("maintenance", "days_since_last_commit", commit_recency, commit_recency, false),
-            ("maintenance", "commit_frequency_90d", (f64::from(s.commits_90d) + 1.0).ln(), (f64::from(s.commits_90d) + 1.0).ln(), true),
-            ("maintenance", "release_cadence", f64::from(s.releases_365d), f64::from(s.releases_365d), true),
-            ("maintenance", "median_issue_close_days", issue_speed, issue_speed, false),
-            ("maintenance", "median_pr_close_days", pr_speed, pr_speed, false),
-            ("maintenance", "open_closed_issue_ratio", backlog, backlog, false),
-            ("community", "stars_log", (s.stars as f64 + 1.0).log10(), (s.stars as f64 + 1.0).log10(), true),
-            ("community", "forks_log", (s.forks as f64 + 1.0).log10(), (s.forks as f64 + 1.0).log10(), true),
-            ("community", "contributors_12mo", (f64::from(s.contributors_12mo) + 1.0).ln(), (f64::from(s.contributors_12mo) + 1.0).ln(), true),
-            ("community", "bus_factor", 1.0 - s.top_author_commit_share, 1.0 - s.top_author_commit_share, false),
-            ("community", "author_track_record", author_stars, author_stars, true),
-            ("quality", "ci_configured", s.has_ci as u8 as f64, s.has_ci as u8 as f64, false),
-            ("quality", "tests_present", s.has_tests as u8 as f64, s.has_tests as u8 as f64, false),
-            ("quality", "readme_present", (s.readme_len as f64 / 2000.0).min(1.0), (s.readme_len as f64 / 2000.0).min(1.0), false),
+            (
+                "maintenance",
+                "days_since_last_commit",
+                commit_recency,
+                commit_recency,
+                false,
+            ),
+            (
+                "maintenance",
+                "commit_frequency_90d",
+                (f64::from(s.commits_90d) + 1.0).ln(),
+                (f64::from(s.commits_90d) + 1.0).ln(),
+                true,
+            ),
+            (
+                "maintenance",
+                "release_cadence",
+                f64::from(s.releases_365d),
+                f64::from(s.releases_365d),
+                true,
+            ),
+            (
+                "maintenance",
+                "median_issue_close_days",
+                issue_speed,
+                issue_speed,
+                false,
+            ),
+            (
+                "maintenance",
+                "median_pr_close_days",
+                pr_speed,
+                pr_speed,
+                false,
+            ),
+            (
+                "maintenance",
+                "open_closed_issue_ratio",
+                backlog,
+                backlog,
+                false,
+            ),
+            (
+                "community",
+                "stars_log",
+                (s.stars as f64 + 1.0).log10(),
+                (s.stars as f64 + 1.0).log10(),
+                true,
+            ),
+            (
+                "community",
+                "forks_log",
+                (s.forks as f64 + 1.0).log10(),
+                (s.forks as f64 + 1.0).log10(),
+                true,
+            ),
+            (
+                "community",
+                "contributors_12mo",
+                (f64::from(s.contributors_12mo) + 1.0).ln(),
+                (f64::from(s.contributors_12mo) + 1.0).ln(),
+                true,
+            ),
+            (
+                "community",
+                "bus_factor",
+                1.0 - s.top_author_commit_share,
+                1.0 - s.top_author_commit_share,
+                false,
+            ),
+            (
+                "community",
+                "author_track_record",
+                author_stars,
+                author_stars,
+                true,
+            ),
+            (
+                "quality",
+                "ci_configured",
+                s.has_ci as u8 as f64,
+                s.has_ci as u8 as f64,
+                false,
+            ),
+            (
+                "quality",
+                "tests_present",
+                s.has_tests as u8 as f64,
+                s.has_tests as u8 as f64,
+                false,
+            ),
+            (
+                "quality",
+                "readme_present",
+                (s.readme_len as f64 / 2000.0).min(1.0),
+                (s.readme_len as f64 / 2000.0).min(1.0),
+                false,
+            ),
             // ponytail: any recognized SPDX id counts as OSI; NOASSERTION/none = 0.
             // A real OSI-list check only matters if gaming shows up.
-            ("quality", "license_osi", license_score(s.license_spdx.as_deref()), license_score(s.license_spdx.as_deref()), false),
+            (
+                "quality",
+                "license_osi",
+                license_score(s.license_spdx.as_deref()),
+                license_score(s.license_spdx.as_deref()),
+                false,
+            ),
         ],
     }
 }
@@ -166,7 +295,13 @@ pub fn score_category(cfg: &Config, category: &str, records: Vec<RepoRecord>) ->
     let ok: Vec<&RepoRecord> = records.iter().filter(|r| r.status == Status::Ok).collect();
     let mut per_project: Vec<Signals> = ok
         .iter()
-        .map(|r| signals_of(r.data.as_ref().expect("ok record has data"), now, decay_days))
+        .map(|r| {
+            signals_of(
+                r.data.as_ref().expect("ok record has data"),
+                now,
+                decay_days,
+            )
+        })
         .collect();
 
     // Pass 2: min-max the "normalized" family across the category.
@@ -189,9 +324,18 @@ pub fn score_category(cfg: &Config, category: &str, records: Vec<RepoRecord>) ->
     ];
 
     let mut projects: Vec<ScoredProject> = Vec::new();
-    for (rec, sig) in records.iter().filter(|r| r.status == Status::Ok).zip(&per_project) {
+    for (rec, sig) in records
+        .iter()
+        .filter(|r| r.status == Status::Ok)
+        .zip(&per_project)
+    {
         let archived = rec.data.as_ref().expect("ok").archived;
-        let issues_answered = rec.data.as_ref().expect("ok").median_issue_close_days.is_some();
+        let issues_answered = rec
+            .data
+            .as_ref()
+            .expect("ok")
+            .median_issue_close_days
+            .is_some();
 
         let mut signals_map = HashMap::new();
         let mut buckets = HashMap::new();
@@ -207,7 +351,11 @@ pub fn score_category(cfg: &Config, category: &str, records: Vec<RepoRecord>) ->
                 wsum += w;
                 signals_map.insert(
                     name.to_string(),
-                    SignalScore { raw: *raw, score: *score, weight: w },
+                    SignalScore {
+                        raw: *raw,
+                        score: *score,
+                        weight: w,
+                    },
                 );
             }
             // AIDEV-NOTE: tolerate mis-summed config weights by normalizing by wsum.
@@ -364,7 +512,11 @@ mod tests {
             data: None,
         };
         let scored = score_category(&cfg(), "t", vec![record("a/x", false, signals()), missing]);
-        let gone = scored.projects.iter().find(|p| p.slug == "gone/repo").unwrap();
+        let gone = scored
+            .projects
+            .iter()
+            .find(|p| p.slug == "gone/repo")
+            .unwrap();
         assert!(gone.total.is_none());
     }
 
@@ -372,17 +524,46 @@ mod tests {
     fn category_relative_stars() {
         // Same 1000-star repo: top of a small category, bottom of a huge one.
         let stars_of = |scored: &ScoredCategory| {
-            scored.projects.iter().find(|p| p.slug == "a/mid").unwrap()
-                .signals.as_ref().unwrap()["stars_log"].score
+            scored
+                .projects
+                .iter()
+                .find(|p| p.slug == "a/mid")
+                .unwrap()
+                .signals
+                .as_ref()
+                .unwrap()["stars_log"]
+                .score
         };
-        let small_cat = score_category(&cfg(), "t", vec![
-            record("a/mid", false, signals()),
-            record("a/tiny", false, RepoSignals { stars: 10, ..signals() }),
-        ]);
-        let huge_cat = score_category(&cfg(), "t", vec![
-            record("a/mid", false, signals()),
-            record("a/huge", false, RepoSignals { stars: 100_000, ..signals() }),
-        ]);
+        let small_cat = score_category(
+            &cfg(),
+            "t",
+            vec![
+                record("a/mid", false, signals()),
+                record(
+                    "a/tiny",
+                    false,
+                    RepoSignals {
+                        stars: 10,
+                        ..signals()
+                    },
+                ),
+            ],
+        );
+        let huge_cat = score_category(
+            &cfg(),
+            "t",
+            vec![
+                record("a/mid", false, signals()),
+                record(
+                    "a/huge",
+                    false,
+                    RepoSignals {
+                        stars: 100_000,
+                        ..signals()
+                    },
+                ),
+            ],
+        );
         let (a, b) = (stars_of(&small_cat), stars_of(&huge_cat));
         assert!(a > b, "small-cat {a} should beat huge-cat {b}");
         assert_eq!(a, 1.0);
@@ -398,9 +579,9 @@ mod tests {
 
     #[test]
     fn fixture_stars_carried_through_scoring() {
-        let rec: RepoRecord = serde_json::from_str(
-            include_str!("../tests/fixtures/nvim-telescope__telescope.nvim.json"),
-        )
+        let rec: RepoRecord = serde_json::from_str(include_str!(
+            "../tests/fixtures/nvim-telescope__telescope.nvim.json"
+        ))
         .unwrap();
         let scored = score_category(&cfg(), "t", vec![rec]);
         assert_eq!(scored.projects[0].stars, Some(19709));

@@ -1,5 +1,5 @@
 use crate::config::Config;
-use crate::score::ScoredCategory;
+use crate::score::{ScoredCategory, ScoredProject};
 use chrono::{DateTime, Utc};
 use serde_json::{Value, json};
 use std::path::Path;
@@ -79,6 +79,82 @@ fn load_meta(data_dir: &Path) -> std::collections::HashMap<String, Value> {
         }
     }
     map
+}
+
+/// Rank deltas vs the previous scoring day, from `history.json` (JSONL written
+/// by `score`). Compares the two most recent distinct dates present. Returns
+/// top risers and fallers (by rank movement) and drops (newly unscored repos).
+/// Empty vec when there's nothing to compare against — hub hides the section.
+fn compute_movers(data_dir: &Path, scored: &ScoredCategory) -> Vec<Value> {
+    let Ok(text) = std::fs::read_to_string(data_dir.join("history.json")) else {
+        return Vec::new();
+    };
+    // Parse all entries, keep {date -> scores map}, sorted by date.
+    let mut days: Vec<(String, std::collections::HashMap<String, f64>)> = text
+        .lines()
+        .filter(|l| !l.trim().is_empty())
+        .filter_map(|l| {
+            let v: serde_json::Value = serde_json::from_str(l).ok()?;
+            let date = v["date"].as_str()?.to_string();
+            let scores = v["scores"]
+                .as_object()?
+                .iter()
+                .filter_map(|(k, val)| val.as_f64().map(|f| (k.clone(), f)))
+                .collect();
+            Some((date, scores))
+        })
+        .collect();
+    days.sort_by(|a, b| a.0.cmp(&b.0));
+    if days.len() < 2 {
+        return Vec::new();
+    }
+    let (prev_date, prev) = days[days.len() - 2].clone();
+
+    // Current ranks (same ordering logic as the leaderboard).
+    let mut current: Vec<&ScoredProject> = scored
+        .projects
+        .iter()
+        .filter(|p| p.total.is_some())
+        .collect();
+    current.sort_by(|a, b| {
+        b.total
+            .partial_cmp(&a.total)
+            .unwrap_or(std::cmp::Ordering::Equal)
+    });
+    let prev_rank = |slug: &str| -> Option<usize> {
+        let mut scored_prev: Vec<(String, f64)> =
+            prev.iter().map(|(s, t)| (s.clone(), *t)).collect();
+        scored_prev.sort_by(|a, b| b.1.partial_cmp(&a.1).unwrap_or(std::cmp::Ordering::Equal));
+        scored_prev
+            .iter()
+            .position(|(s, _)| s == slug)
+            .map(|i| i + 1)
+    };
+
+    let mut movers: Vec<(usize, Value)> = Vec::new(); // (abs rank delta, row)
+    for (i, p) in current.iter().enumerate() {
+        let cur_rank = i + 1;
+        let Some(prev_r) = prev_rank(&p.slug) else {
+            continue;
+        };
+        let delta = prev_r as i64 - cur_rank as i64; // >0 = moved up
+        if delta == 0 || movers.len() >= 12 {
+            continue;
+        }
+        movers.push((
+            delta.unsigned_abs() as usize,
+            json!({
+                "slug": p.slug,
+                "delta": delta,
+                "rank": cur_rank,
+                "prev_rank": prev_r,
+                "total": p.total,
+                "prev_date": prev_date,
+            }),
+        ));
+    }
+    movers.sort_by(|a, b| b.0.cmp(&a.0));
+    movers.into_iter().map(|(_, row)| row).take(8).collect()
 }
 
 /// One display row for the leaderboard: score data + metadata merged, pre-ranked.
@@ -191,6 +267,11 @@ pub fn render_to(
         .sum::<u64>() as usize;
     let generated_date = scored.generated_at.format("%Y-%m-%d").to_string();
 
+    // AIDEV-NOTE: top movers come from history.json (appended by `score`).
+    // Local rank deltas within THIS category vs the previous scoring day.
+    // No history, or only one day of it → empty list, hub hides the section.
+    let movers = compute_movers(data_dir, &scored);
+
     // Leaderboard (per-category page, root="" for top-level links)
     let rows: Vec<Value> = ranked
         .iter()
@@ -298,6 +379,7 @@ pub fn render_to(
     let mut ctx = Context::new();
     ctx.insert("categories", &categories);
     ctx.insert("category_cards", &cards);
+    ctx.insert("movers", &movers);
     ctx.insert("total_scored", &total_scored);
     ctx.insert("root", "");
     write(&tera, "categories.html", &ctx, &out_dir.join("index.html"))?;
