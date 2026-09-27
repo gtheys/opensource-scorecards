@@ -15,25 +15,25 @@
   <div class="table-wrap">
   <table>
     <thead><tr>
-      <th>#</th><th>Project</th><th>What it does</th><th>Owner</th><th>Licence</th>
-      <th class="num">Score</th><th class="num">Stars</th>
-      <th class="num">Maint.</th><th class="num">Comm.</th><th class="num">Qual.</th>
+      <th>#</th><th class="col-project">Project</th><th class="col-desc">What it does</th><th class="col-owner">Owner</th><th class="col-licence">Licence</th>
+      <th class="num col-score">Score</th><th class="num col-stars">Stars</th>
+      <th class="num col-bucket">Maint.</th><th class="num col-bucket">Comm.</th><th class="num col-bucket">Qual.</th>
     </tr></thead>
     <tbody>
     {% for r in rows %}
       <tr {% if r.rank <= 3 %}class="top-tier"{% endif %}>
         <td class="num">{{ r.rank }}</td>
-        <td><a href="{{ root }}projects/{{ r.slug | replace(from="/", to="__") }}.html">{{ r.slug }}</a></td>
-        <td class="muted wrap-col" style="font-size:.85rem;max-width:24rem;min-width:12rem;">
+        <td class="col-project"><a href="{{ root }}projects/{{ r.slug | replace(from="/", to="__") }}.html">{{ r.slug | replace(from="/", to="/<wbr>") | safe }}</a></td>
+        <td class="muted col-desc">
           {%- if r.description -%}{{ r.description }}{%- else -%}—{%- endif -%}
         </td>
-        <td><a href="{{ root }}authors/{{ r.owner }}.html">{{ r.owner }}</a></td>
-        <td class="muted">{{ r.license | default(value="—") }}</td>
+        <td class="col-owner"><a href="{{ root }}authors/{{ r.owner }}.html">{{ r.owner }}</a></td>
+        <td class="muted col-licence">{{ r.license | default(value="—") }}</td>
         <td class="num"><span class="bar"><span class="fill" style="width: {{ r.total }}%"></span></span> {{ r.total }}</td>
         <td class="num">{{ r.stars | stars_fmt }}</td>
-        <td class="num">{{ r.buckets.maintenance }}</td>
-        <td class="num">{{ r.buckets.community }}</td>
-        <td class="num">{{ r.buckets.quality }}</td>
+        <td class="num col-bucket">{{ r.buckets.maintenance }}</td>
+        <td class="num col-bucket">{{ r.buckets.community }}</td>
+        <td class="num col-bucket">{{ r.buckets.quality }}</td>
       </tr>
     {% endfor %}
     </tbody>

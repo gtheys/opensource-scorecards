@@ -52,25 +52,61 @@
     h1 { letter-spacing: -.05em; font-weight: 700; }
     h2 { letter-spacing: -.03em; }
 
-    /* Data tables: Pico provides the look; we add density + sticky header +
-       in-place scrolling so wide tables never stretch the page */
-    .table-wrap { overflow-x: auto; -webkit-overflow-scrolling: touch; }
-    .table-wrap table { width: 100%; margin: 0; }
+    /* Data tables: Pico provides the look; we add density + sticky header.
+       table-layout:fixed pins the table to the container width, so it can
+       NEVER scroll horizontally; columns get explicit budgets and prose
+       columns wrap. Secondary columns shed progressively on narrow screens. */
+    .table-wrap { overflow-x: clip; }
+    .table-wrap table { width: 100%; margin: 0; table-layout: fixed; }
     .table-wrap table thead th {
       position: sticky; top: 0; background: var(--pico-background-color);
       font-size: .74rem; letter-spacing: .06em; text-transform: uppercase;
       color: var(--pico-muted-color);
     }
-    .table-wrap table td, .table-wrap table th { padding: .45rem .65rem; font-size: .9rem; white-space: nowrap; }
-    .table-wrap table td.wrap-col { white-space: normal; min-width: 10rem; max-width: 20rem; }
+    .table-wrap table td, .table-wrap table th { padding: .45rem .55rem; font-size: .9rem; }
     .num { text-align: right; font-variant-numeric: tabular-nums; }
+    /* Column budgets (fixed layout): desc takes whatever is left */
+    .table-wrap th:first-child { width: 2.75rem; }              /* rank */
+    th.col-project { width: 20%; }
+    th.col-owner { width: 9rem; }
+    th.col-licence { width: 7rem; }
+    th.col-score { width: 8rem; }
+    th.col-stars { width: 4.5rem; }
+    th.col-bucket { width: 3.4rem; }
+    /* Compact headers never split mid-label */
+    th.col-score, th.col-stars, th.col-bucket, .table-wrap th:first-child { white-space: nowrap; }
+    /* Long single-token cells (slugs, owner names) break anywhere instead of
+       overflowing their column budget */
+    td.col-project a, td.col-owner a { overflow-wrap: anywhere; }
+    td.col-desc { font-size: .85rem; }
+    td.col-licence { overflow-wrap: anywhere; }
     tbody tr:hover { background: var(--accent-soft); }
 
     /* Score bar */
-    .bar { display: inline-block; width: 5.5rem; height: .55rem; background: var(--pico-border-color); border-radius: 3px; vertical-align: middle; }
+    .bar { display: inline-block; width: 4rem; max-width: 60%; height: .55rem; background: var(--pico-border-color); border-radius: 3px; vertical-align: middle; }
     .bar .fill { display: block; height: 100%; background: var(--pico-primary); border-radius: 3px; }
     tr.top-tier .bar .fill { background: var(--gold); }
     tr.top-tier td:first-child { font-weight: 700; }
+
+    /* Progressive disclosure: shed redundant/secondary columns as the
+       viewport narrows. Hidden data stays one click away on project pages. */
+    @media (max-width: 72rem) {  /* owner duplicates the slug prefix */
+      .col-owner { display: none; }
+    }
+    @media (max-width: 62rem) {  /* sub-scores live on the project page */
+      .col-bucket { display: none; }
+    }
+    @media (max-width: 48rem) {
+      .col-licence { display: none; }
+      th.col-project { width: 30%; }
+    }
+    @media (max-width: 40rem) {
+      .bar { display: none; }    /* number stays, bar goes */
+      th.col-score { width: 4rem; }
+      th.col-stars { width: 4rem; }
+      .table-wrap th:first-child { width: 2rem; }
+      .table-wrap table td, .table-wrap table th { padding: .4rem .35rem; font-size: .85rem; }
+    }
 
     /* Hub hero band */
     .hero-band { background: var(--navy); color: #f3f5f7; border-radius: 12px; margin-top: 1.5rem; }

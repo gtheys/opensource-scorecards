@@ -620,7 +620,8 @@ mod tests {
         for page in ["neovim.html", "pi.html"] {
             let html = std::fs::read_to_string(dir.join(page)).unwrap();
             assert!(html.contains("not comparable across categories"));
-            assert!(html.contains("nvim-telescope/telescope.nvim"));
+            // Slug renders with a <wbr> break hint after the owner separator.
+            assert!(html.contains("nvim-telescope/<wbr>telescope.nvim"));
             assert!(html.contains(r#"href="neovim.html""#));
             assert!(html.contains(r#"href="pi.html""#));
             assert!(html.contains("Stars"));
