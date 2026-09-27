@@ -1,14 +1,75 @@
 {% extends "base.html" %}
 {% block content %}
-<h1>Open Source Scorecards</h1>
-<div class="callout">
-  <div class="callout-title">ⓘ About</div>
-  <p>Scorecards ranks open-source projects by <strong>maintenance health</strong> — commit activity,
-  release cadence, issue/PR response times, CI, tests, and docs — not by stars alone.
-  Data is pulled from the GitHub API and refreshed nightly. Scores are normalized
-  <strong>within a category</strong> and are not comparable across categories.</p>
+<div class="hero-band">
+  <div class="hero-inner">
+    <h1>Which open source plugins are actually maintained?</h1>
+    <p class="hero-sub">
+      Scorecards ranks <strong>{{ total_scored }} projects</strong> across
+      {% for c in category_cards %}{{ c.name | title }}{% if not loop.last %}, {% endif %}{% endfor %}
+      by maintenance health — commit activity, release cadence, issue/PR response,
+      CI, tests, docs. Refreshed nightly from the GitHub API.
+      <strong>Not stars.</strong>
+    </p>
+    <div class="hero-actions">
+      <a class="btn btn-primary" href="{{ root }}herdr.html">Browse the leaderboards</a>
+      <a class="btn btn-ghost" href="{{ root }}methodology.html">How scores work</a>
+    </div>
+  </div>
 </div>
-<ul>
-{% for c in categories %}<li><a href="{{ c.key }}.html">{{ c.name }}</a></li>
-{% endfor %}</ul>
+
+<div class="page-shell">
+  <div class="cards">
+    {% for c in category_cards %}
+    <a class="card" href="{{ root }}{{ c.key }}.html">
+      <h2>{{ c.name }}</h2>
+      {% if c.scored %}
+      <div class="count">{{ c.scored }} scored</div>
+      <div class="top">#1 {{ c.top_slug }} · {{ c.top_total }}</div>
+      <div class="muted" style="font-size:.78rem;margin-top:.5rem;">updated {{ c.generated_date }}</div>
+      {% else %}
+      <div class="count muted">scoring in progress</div>
+      <div class="top muted">{{ c.total }} repos tracked</div>
+      {% endif %}
+    </a>
+    {% endfor %}
+  </div>
+
+  <h2>Why these scores read differently</h2>
+  <div class="pillars">
+    <div class="pillar">
+      <strong>Bots don't count as life</strong>
+      Dependabot and renovate commits are filtered before scoring. A repo kept
+      alive by dependency bumps still looks like what it is.
+    </div>
+    <div class="pillar">
+      <strong>Time decays, honestly</strong>
+      Absolute curves, not rank games: a repo silent for eight months scores
+      the way it feels to depend on it.
+    </div>
+    <div class="pillar">
+      <strong>Every number is auditable</strong>
+      Each project page shows the raw signals and the math that turned them
+      into a score. No vibes, no star worship.
+    </div>
+  </div>
+
+  <h2 style="margin-top:2.5rem;">How it works</h2>
+  <div class="pillars">
+    <div class="pillar">
+      <strong>1 · Collect nightly</strong>
+      Repo signals are pulled from the GitHub API and cached: commits, releases,
+      issue and PR close times, contributors, CI, tests.
+    </div>
+    <div class="pillar">
+      <strong>2 · Score within category</strong>
+      Signals are weighted and normalized inside each ecosystem, so a plugin is
+      measured against its own scene, not against a framework.
+    </div>
+    <div class="pillar">
+      <strong>3 · Publish static</strong>
+      Every run renders plain HTML — no login, no tracking, no JS required.
+      Scores stay comparable within a category, never across.
+    </div>
+  </div>
+</div>
 {% endblock %}

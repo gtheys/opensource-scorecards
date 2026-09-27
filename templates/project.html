@@ -1,29 +1,45 @@
 {% extends "base.html" %}
 {% block title %}{{ p.slug }} — Scorecards{% endblock %}
 {% block content %}
-<h1>{{ p.slug }}</h1>
-<p>★ {{ p.stars | stars_fmt }}</p>
-{% if p.total %}
-<p><strong>Total score: {{ p.total }} / 100</strong></p>
-<table>
-  <thead><tr><th>Bucket</th><th class="num">Score (0–100)</th></tr></thead>
-  <tbody>
-    <tr><td>Maintenance (weight {{ weights.buckets.maintenance }})</td><td class="num"><span class="bar"><span class="fill" style="width: {{ p.buckets.maintenance }}%"></span></span> {{ p.buckets.maintenance }}</td></tr>
-    <tr><td>Community (weight {{ weights.buckets.community }})</td><td class="num"><span class="bar"><span class="fill" style="width: {{ p.buckets.community }}%"></span></span> {{ p.buckets.community }}</td></tr>
-    <tr><td>Quality (weight {{ weights.buckets.quality }})</td><td class="num"><span class="bar"><span class="fill" style="width: {{ p.buckets.quality }}%"></span></span> {{ p.buckets.quality }}</td></tr>
-  </tbody>
-</table>
-<h2>Signal breakdown</h2>
-<table>
-  <thead><tr><th>Signal</th><th class="num">Raw value</th><th class="num">Score (0–1)</th><th class="num">Weight in bucket</th></tr></thead>
-  <tbody>
-  {% for row in signal_rows %}
-    <tr><td>{{ row.name }}</td><td class="num">{{ row.raw }}</td><td class="num">{{ row.score }}</td><td class="num">{{ row.weight }}</td></tr>
-  {% endfor %}
-  </tbody>
-</table>
-{% else %}
-<p class="notice">This repository is <strong>{{ p.status }}</strong> — no score could be computed.</p>
-{% endif %}
-<p><a href="{{ root }}{{ category_key }}.html">← Back to {{ category_name }}</a></p>
+<div class="page-shell">
+  <p class="muted" style="margin-bottom:.3rem;">
+    <a href="{{ root }}{{ category_key }}.html">{{ category_name }}</a>
+    {% if rank %} · rank <strong>#{{ rank }}</strong> of {{ rank_total }}{% endif %}
+  </p>
+  <h1>{{ p.slug }}</h1>
+  {% if m and m.description %}
+  <p style="max-width:70ch;font-size:1.05rem;">{{ m.description }}</p>
+  {% endif %}
+  <p class="muted">
+    ★ {{ p.stars | stars_fmt }}
+    {% if m and m.license %} · licence {{ m.license }}{% endif %}
+    {% if m and m.last_commit %} · last commit {{ m.last_commit }}{% endif %}
+    {% if m and m.archived %} · <strong>archived</strong>{% endif %}
+    · <a href="https://github.com/{{ p.slug }}">GitHub</a>
+    · <a href="{{ root }}authors/{{ owner }}.html">more by {{ owner }}</a>
+  </p>
+  {% if p.total %}
+  <p><strong>Total score: {{ p.total }} / 100</strong></p>
+  <table>
+    <thead><tr><th>Bucket</th><th class="num">Score (0–100)</th></tr></thead>
+    <tbody>
+      <tr><td>Maintenance (weight {{ weights.buckets.maintenance }})</td><td class="num"><span class="bar"><span class="fill" style="width: {{ p.buckets.maintenance }}%"></span></span> {{ p.buckets.maintenance }}</td></tr>
+      <tr><td>Community (weight {{ weights.buckets.community }})</td><td class="num"><span class="bar"><span class="fill" style="width: {{ p.buckets.community }}%"></span></span> {{ p.buckets.community }}</td></tr>
+      <tr><td>Quality (weight {{ weights.buckets.quality }})</td><td class="num"><span class="bar"><span class="fill" style="width: {{ p.buckets.quality }}%"></span></span> {{ p.buckets.quality }}</td></tr>
+    </tbody>
+  </table>
+  <h2>Signal breakdown</h2>
+  <table>
+    <thead><tr><th>Signal</th><th class="num">Raw value</th><th class="num">Score (0–1)</th><th class="num">Weight in bucket</th></tr></thead>
+    <tbody>
+    {% for row in signal_rows %}
+      <tr><td>{{ row.name }}</td><td class="num">{{ row.raw }}</td><td class="num">{{ row.score }}</td><td class="num">{{ row.weight }}</td></tr>
+    {% endfor %}
+    </tbody>
+  </table>
+  {% else %}
+  <p class="notice">This repository is <strong>{{ p.status }}</strong> — no score could be computed.</p>
+  {% endif %}
+  <p style="margin-top:1.5rem;"><a href="{{ root }}{{ category_key }}.html">← Back to {{ category_name }}</a></p>
+</div>
 {% endblock %}

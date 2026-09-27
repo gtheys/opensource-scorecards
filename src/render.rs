@@ -1,14 +1,15 @@
 use crate::config::Config;
 use crate::score::ScoredCategory;
+use chrono::{DateTime, Utc};
+use serde_json::{Value, json};
 use std::path::Path;
 use tera::{Context, Tera};
 
 pub fn run(cfg: &Config, category: &str) -> anyhow::Result<()> {
+    let cat = cfg.category(category)?;
     let scored: ScoredCategory =
-        serde_json::from_str(&std::fs::read_to_string(
-            cfg.category(category)?.data_dir.join("scores.json"),
-        )?)?;
-    render_to(cfg, &scored, Path::new("site"), category)
+        serde_json::from_str(&std::fs::read_to_string(cat.data_dir.join("scores.json"))?)?;
+    render_to(cfg, &scored, Path::new("site"), category, &cat.data_dir)
 }
 
 fn templates() -> anyhow::Result<Tera> {
@@ -20,13 +21,126 @@ fn templates() -> anyhow::Result<Tera> {
 }
 
 /// Formats star counts for display: ≥1000 → `{:.1}k`, <1000 → digits, null → em dash.
-fn stars_fmt(value: &tera::Value, _kwargs: tera::Kwargs, _state: &tera::State) -> tera::TeraResult<tera::Value> {
+fn stars_fmt(
+    value: &tera::Value,
+    _kwargs: tera::Kwargs,
+    _state: &tera::State,
+) -> tera::TeraResult<tera::Value> {
     let out = match value.as_u64() {
         Some(n) if n >= 1000 => format!("{:.1}k", n as f64 / 1000.0),
         Some(n) => n.to_string(),
         None => "—".to_string(),
     };
     Ok(tera::Value::from(out))
+}
+
+// AIDEV-NOTE: display metadata (description, licence, last commit) lives in the raw
+// cache, not in scores.json — load it lazily at render time so the UI can show it
+// without the scorer having to carry it. Absent raw dir → empty map, renders fine.
+#[derive(serde::Deserialize)]
+struct RawRecord {
+    slug: String,
+    data: Option<RawData>,
+}
+
+#[derive(serde::Deserialize)]
+struct RawData {
+    #[serde(default)]
+    archived: bool,
+    description: Option<String>,
+    license_spdx: Option<String>,
+    last_commit_at: Option<DateTime<Utc>>,
+}
+
+fn load_meta(data_dir: &Path) -> std::collections::HashMap<String, Value> {
+    let mut map = std::collections::HashMap::new();
+    let Ok(entries) = std::fs::read_dir(data_dir.join("raw")) else {
+        return map;
+    };
+    for e in entries.flatten() {
+        let path = e.path();
+        if path.extension().is_some_and(|e| e == "json") {
+            let Ok(text) = std::fs::read_to_string(&path) else {
+                continue;
+            };
+            let Ok(r) = serde_json::from_str::<RawRecord>(&text) else {
+                continue;
+            };
+            let Some(d) = r.data else { continue };
+            map.insert(
+                r.slug,
+                json!({
+                    "description": d.description,
+                    "license": d.license_spdx,
+                    "last_commit": d.last_commit_at.map(|t| t.format("%Y-%m-%d").to_string()),
+                    "archived": d.archived,
+                }),
+            );
+        }
+    }
+    map
+}
+
+/// One display row for the leaderboard: score data + metadata merged, pre-ranked.
+fn lb_row(
+    rank: usize,
+    p: &crate::score::ScoredProject,
+    meta: &std::collections::HashMap<String, Value>,
+) -> Value {
+    let m = meta.get(&p.slug);
+    json!({
+        "rank": rank,
+        "slug": p.slug,
+        "owner": p.slug.split('/').next().unwrap_or(&p.slug),
+        "total": p.total,
+        "stars": p.stars,
+        "buckets": p.buckets,
+        "description": m.and_then(|m| m.get("description")).cloned().unwrap_or(Value::Null),
+        "license": m.and_then(|m| m.get("license")).cloned().unwrap_or(Value::Null),
+    })
+}
+
+/// Per-category summary for the hub cards. Reads every category's committed
+/// scores.json so the hub is complete no matter which render run writes it.
+fn category_cards(cfg: &Config) -> Vec<Value> {
+    let mut cats: Vec<_> = cfg.categories.iter().collect();
+    cats.sort_by(|a, b| a.0.cmp(b.0));
+    cats.iter()
+        .map(|(key, cat)| {
+            let scored: Option<ScoredCategory> =
+                std::fs::read_to_string(cat.data_dir.join("scores.json"))
+                    .ok()
+                    .and_then(|t| serde_json::from_str(&t).ok());
+            match scored {
+                Some(s) => {
+                    let ranked: Vec<_> = s.projects.iter().filter(|p| p.total.is_some()).collect();
+                    let top = ranked.iter().max_by(|a, b| {
+                        a.total
+                            .partial_cmp(&b.total)
+                            .unwrap_or(std::cmp::Ordering::Equal)
+                    });
+                    json!({
+                        "key": key,
+                        "name": cat.name,
+                        "total": s.projects.len(),
+                        "scored": ranked.len(),
+                        "top_slug": top.map(|p| p.slug.clone()),
+                        "top_total": top.and_then(|p| p.total),
+                        "generated_date": s.generated_at.format("%Y-%m-%d").to_string(),
+                    })
+                }
+                None => json!({
+                    "key": key,
+                    "name": cat.name,
+                    "total": 0,
+                    "scored": 0,
+                    "top_slug": null,
+                    "top_total": null,
+                    "generated_date": null,
+                }),
+            }
+        })
+        .collect()
 }
 
 /// Renders one category. Leaderboard goes to `<key>.html`; every run also
@@ -36,6 +150,7 @@ pub fn render_to(
     scored: &ScoredCategory,
     out_dir: &Path,
     category_key: &str,
+    data_dir: &Path,
 ) -> anyhow::Result<()> {
     let tera = templates()?;
     std::fs::create_dir_all(out_dir.join("projects"))?;
@@ -47,19 +162,46 @@ pub fn render_to(
     let mut categories: Vec<_> = cfg
         .categories
         .iter()
-        .map(|(key, cat)| serde_json::json!({"key": key, "name": cat.name}))
+        .map(|(key, cat)| json!({"key": key, "name": cat.name}))
         .collect();
     categories.sort_by(|a, b| a["key"].as_str().cmp(&b["key"].as_str()));
     let category_name = &cfg.category(category_key)?.name;
 
-    let ranked: Vec<_> = scored.projects.iter().filter(|p| p.total.is_some()).collect();
-    let unavailable: Vec<_> = scored.projects.iter().filter(|p| p.total.is_none()).collect();
+    let mut ranked: Vec<_> = scored
+        .projects
+        .iter()
+        .filter(|p| p.total.is_some())
+        .collect();
+    ranked.sort_by(|a, b| {
+        b.total
+            .partial_cmp(&a.total)
+            .unwrap_or(std::cmp::Ordering::Equal)
+    });
+    let unavailable: Vec<_> = scored
+        .projects
+        .iter()
+        .filter(|p| p.total.is_none())
+        .collect();
+
+    let meta = load_meta(data_dir);
+    let cards = category_cards(cfg);
+    let total_scored: usize = cards
+        .iter()
+        .filter_map(|c| c["scored"].as_u64())
+        .sum::<u64>() as usize;
+    let generated_date = scored.generated_at.format("%Y-%m-%d").to_string();
 
     // Leaderboard (per-category page, root="" for top-level links)
+    let rows: Vec<Value> = ranked
+        .iter()
+        .enumerate()
+        .map(|(i, p)| lb_row(i + 1, p, &meta))
+        .collect();
     let mut ctx = Context::new();
     ctx.insert("category_name", category_name);
     ctx.insert("generated_at", &scored.generated_at.to_rfc3339());
-    ctx.insert("ranked", &ranked);
+    ctx.insert("generated_date", &generated_date);
+    ctx.insert("rows", &rows);
     ctx.insert("unavailable", &unavailable);
     ctx.insert("categories", &categories);
     ctx.insert("root", "");
@@ -79,6 +221,13 @@ pub fn render_to(
         ctx.insert("category_name", category_name);
         ctx.insert("categories", &categories);
         ctx.insert("root", "../");
+        // Display metadata + rank for the plain-language header. Rank is 1-based
+        // within the ranked set; unranked projects get null.
+        ctx.insert("m", meta.get(&p.slug).unwrap_or(&Value::Null));
+        let rank = ranked.iter().position(|r| r.slug == p.slug).map(|i| i + 1);
+        ctx.insert("rank", &rank);
+        ctx.insert("rank_total", &ranked.len());
+        ctx.insert("owner", p.slug.split('/').next().unwrap_or(&p.slug));
         let mut rows: Vec<_> = p
             .signals
             .as_ref()
@@ -86,7 +235,7 @@ pub fn render_to(
                 let mut v: Vec<_> = m
                     .iter()
                     .map(|(name, s)| {
-                        serde_json::json!({
+                        json!({
                             "name": name,
                             "raw": (s.raw * 1000.0).round() / 1000.0,
                             "score": (s.score * 1000.0).round() / 1000.0,
@@ -109,16 +258,28 @@ pub fn render_to(
     // shared namespace across categories — same caveat as projects/ above.
     let mut by_owner: std::collections::BTreeMap<&str, Vec<_>> = Default::default();
     for p in &scored.projects {
-        by_owner.entry(p.slug.split('/').next().unwrap_or(&p.slug)).or_default().push(p);
+        by_owner
+            .entry(p.slug.split('/').next().unwrap_or(&p.slug))
+            .or_default()
+            .push(p);
     }
     for (owner, mut repos) in by_owner {
-        repos.sort_by(|a, b| b.total.partial_cmp(&a.total).unwrap_or(std::cmp::Ordering::Equal));
+        repos.sort_by(|a, b| {
+            b.total
+                .partial_cmp(&a.total)
+                .unwrap_or(std::cmp::Ordering::Equal)
+        });
         let mut ctx = Context::new();
         ctx.insert("owner", owner);
         ctx.insert("repos", &repos);
         ctx.insert("categories", &categories);
         ctx.insert("root", "../");
-        write(&tera, "author.html", &ctx, &out_dir.join(format!("authors/{owner}.html")))?;
+        write(
+            &tera,
+            "author.html",
+            &ctx,
+            &out_dir.join(format!("authors/{owner}.html")),
+        )?;
     }
 
     // Methodology (from the same weights the scorer used → always in sync)
@@ -126,11 +287,18 @@ pub fn render_to(
     ctx.insert("weights", &scored.weights);
     ctx.insert("categories", &categories);
     ctx.insert("root", "");
-    write(&tera, "methodology.html", &ctx, &out_dir.join("methodology.html"))?;
+    write(
+        &tera,
+        "methodology.html",
+        &ctx,
+        &out_dir.join("methodology.html"),
+    )?;
 
     // Category hub (rewritten by every render run; idempotent)
     let mut ctx = Context::new();
     ctx.insert("categories", &categories);
+    ctx.insert("category_cards", &cards);
+    ctx.insert("total_scored", &total_scored);
     ctx.insert("root", "");
     write(&tera, "categories.html", &ctx, &out_dir.join("index.html"))?;
 
@@ -153,9 +321,13 @@ fn write(tera: &Tera, template: &str, ctx: &Context, path: &Path) -> anyhow::Res
 /// absent so tests and partial checkouts still render.
 fn copy_assets(out_dir: &Path) {
     let src = Path::new("assets");
-    let Ok(entries) = std::fs::read_dir(src) else { return };
+    let Ok(entries) = std::fs::read_dir(src) else {
+        return;
+    };
     let dst = out_dir.join("assets");
-    if std::fs::create_dir_all(&dst).is_err() { return }
+    if std::fs::create_dir_all(&dst).is_err() {
+        return;
+    }
     for e in entries.flatten() {
         let _ = std::fs::copy(e.path(), dst.join(e.file_name()));
     }
@@ -165,7 +337,7 @@ fn copy_assets(out_dir: &Path) {
 mod tests {
     use super::*;
     use crate::config::Config;
-    use crate::score::{score_category, ScoredCategory};
+    use crate::score::{ScoredCategory, score_category};
 
     #[test]
     fn stars_fmt_cases() {
@@ -187,22 +359,38 @@ mod tests {
         // Golden-input test: render from the real 3-repo scores.json if present,
         // else synthesize from the fixture records.
         let cfg = Config::load("config/weights.toml".into()).unwrap();
-        let records: Vec<crate::models::RepoRecord> = ["tests/fixtures/nvim-telescope__telescope.nvim.json"]
-            .iter()
-            .map(|f| serde_json::from_str(&std::fs::read_to_string(f).unwrap()).unwrap())
-            .collect();
+        let records: Vec<crate::models::RepoRecord> =
+            ["tests/fixtures/nvim-telescope__telescope.nvim.json"]
+                .iter()
+                .map(|f| serde_json::from_str(&std::fs::read_to_string(f).unwrap()).unwrap())
+                .collect();
         score_category(&cfg, "neovim", records)
     }
 
     #[test]
-    fn renders_all_pages() {
+    fn render_pages() {
         let cfg = Config::load("config/weights.toml".into()).unwrap();
         let scored = fixture_scores();
         let dir = std::env::temp_dir().join("scorecards-render-test");
         let _ = std::fs::remove_dir_all(&dir);
-        // Render both categories like CI does; hub/methodology are rewritten per run.
-        render_to(&cfg, &scored, &dir, "neovim").unwrap();
-        render_to(&cfg, &scored, &dir, "pi").unwrap();
+        // Render both categories like CI does; hub/methodology are rewritten
+        // every run. data_dir feeds the display-metadata loader.
+        render_to(
+            &cfg,
+            &scored,
+            &dir,
+            "neovim",
+            &cfg.category("neovim").unwrap().data_dir,
+        )
+        .unwrap();
+        render_to(
+            &cfg,
+            &scored,
+            &dir,
+            "pi",
+            &cfg.category("pi").unwrap().data_dir,
+        )
+        .unwrap();
 
         for page in ["neovim.html", "pi.html"] {
             let html = std::fs::read_to_string(dir.join(page)).unwrap();
@@ -219,11 +407,13 @@ mod tests {
         assert!(hub.contains(r#"href="pi.html""#));
         assert!(hub.contains("Neovim Plugins"));
         assert!(hub.contains("Pi Extensions"));
+        // Hub v2: hero question + per-category summary cards.
+        assert!(hub.contains("Which open source plugins are actually maintained?"));
+        assert!(hub.contains("scored"));
 
-        let project = std::fs::read_to_string(
-            dir.join("projects/nvim-telescope__telescope.nvim.html"),
-        )
-        .unwrap();
+        let project =
+            std::fs::read_to_string(dir.join("projects/nvim-telescope__telescope.nvim.html"))
+                .unwrap();
         assert!(project.contains("Total score:"));
         assert!(project.contains("Signal breakdown"));
         assert!(project.contains("license_osi"));
@@ -231,6 +421,10 @@ mod tests {
         // Project pages live one level deep — nav links must be ../-prefixed.
         assert!(project.contains(r#"href="../pi.html""#));
         assert!(project.contains(r#"href="../methodology.html""#));
+        // v2: repo link, owner link and rank line.
+        assert!(project.contains(r#"href="https://github.com/nvim-telescope/telescope.nvim""#));
+        assert!(project.contains(r#"href="../authors/nvim-telescope.html""#));
+        assert!(project.contains("of 1"));
 
         let meth = std::fs::read_to_string(dir.join("methodology.html")).unwrap();
         assert!(meth.contains("0.4")); // maintenance bucket weight from config
