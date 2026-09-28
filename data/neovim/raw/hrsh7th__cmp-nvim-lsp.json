@@ -1,10 +1,10 @@
 {
   "slug": "hrsh7th/cmp-nvim-lsp",
-  "fetched_at": "2026-09-26T08:54:32.057642668Z",
+  "fetched_at": "2026-09-28T10:07:32.542257277Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 1511,
+    "stars": 1513,
     "forks": 73,
     "description": "nvim-cmp source for neovim builtin LSP client",
     "license_spdx": "MIT",

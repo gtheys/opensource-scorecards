@@ -1,0 +1,29 @@
+{
+  "slug": "chrisgve/docshelf.nvim",
+  "fetched_at": "2026-09-28T09:54:34.030879523Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 3,
+    "forks": 0,
+    "description": "Offline API documentation inside Neovim — devdocs.io, Hackage, docs.rs, Sphinx sites, pkg.go.dev and DocC (Apple) docs, read and grepped as plain text",
+    "license_spdx": "Apache-2.0",
+    "last_commit_at": "2026-09-27T09:26:46Z",
+    "commits_90d": 147,
+    "releases_365d": 0,
+    "median_issue_close_days": 0.7060185185185186,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 4,
+    "contributors_12mo": 3,
+    "top_author_commit_share": 0.9733333333333334,
+    "top_author": {
+      "login": "ChrisGVE",
+      "account_created_at": "2010-03-03T04:46:51Z",
+      "other_repos_star_sum": 107
+    },
+    "has_ci": false,
+    "has_tests": true,
+    "readme_len": 39517
+  }
+}

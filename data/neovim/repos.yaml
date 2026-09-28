@@ -221,6 +221,7 @@ repos:
   - chrisgrieser/nvim-tinygit
   - chrisgrieser/nvim-various-textobjs
   - chrisgve/databox.nvim
+  - chrisgve/docshelf.nvim
   - christianchiarulli/nvcode-color-schemes.vim
   - chrsm/impulse.nvim
   - chrsm/paramount-ng.nvim
@@ -585,6 +586,7 @@ repos:
   - juniorsundar/refer.nvim
   - junnplus/lsp-setup.nvim
   - juselara1/tmutils.nvim
+  - justinhj/battery.nvim
   - justinmk/guh.nvim
   - jvgrootveld/telescope-zoxide
   - jxstxs/conceal.nvim

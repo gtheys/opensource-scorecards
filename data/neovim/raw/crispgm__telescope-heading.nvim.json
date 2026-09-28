@@ -1,10 +1,10 @@
 {
   "slug": "crispgm/telescope-heading.nvim",
-  "fetched_at": "2026-09-26T08:44:59.567407498Z",
+  "fetched_at": "2026-09-28T09:56:13.573815356Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 141,
+    "stars": 140,
     "forks": 17,
     "description": "An extension for telescope.nvim that allows you to switch between headings",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "crispgm",
       "account_created_at": "2012-02-10T08:12:28Z",
-      "other_repos_star_sum": 1385
+      "other_repos_star_sum": 1384
     },
     "has_ci": true,
     "has_tests": false,
