@@ -1,0 +1,29 @@
+{
+  "slug": "plausible/ch",
+  "fetched_at": "2026-09-28T05:43:11.988220596Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 86,
+    "forks": 22,
+    "description": "HTTP ClickHouse client for Elixir",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-31T20:54:22Z",
+    "commits_90d": 53,
+    "releases_365d": 0,
+    "median_issue_close_days": 82.86744791666666,
+    "median_pr_close_days": 0.0038946759259259256,
+    "open_issues": 32,
+    "closed_issues_sampled": 20,
+    "contributors_12mo": 7,
+    "top_author_commit_share": 0.9246575342465754,
+    "top_author": {
+      "login": "ruslandoga",
+      "account_created_at": "2020-07-02T22:20:43Z",
+      "other_repos_star_sum": 43
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 10661
+  }
+}

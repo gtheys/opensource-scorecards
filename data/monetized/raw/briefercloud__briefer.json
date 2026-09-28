@@ -1,0 +1,25 @@
+{
+  "slug": "briefercloud/briefer",
+  "fetched_at": "2026-09-28T04:30:44.492923560Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 4323,
+    "forks": 291,
+    "description": "Dashboards and notebooks in a single place. Create powerful and flexible dashboards using code, or build beautiful Notion-like notebooks and share them with your team.",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 17.075908564814814,
+    "median_pr_close_days": 0.016782407407407406,
+    "open_issues": 70,
+    "closed_issues_sampled": 22,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 17110
+  }
+}

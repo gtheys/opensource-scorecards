@@ -1,0 +1,29 @@
+{
+  "slug": "scratchfoundation/scratch-gui",
+  "fetched_at": "2026-09-28T05:52:27.440221345Z",
+  "status": "ok",
+  "data": {
+    "archived": true,
+    "stars": 4808,
+    "forks": 4310,
+    "description": "Graphical User Interface for creating and running Scratch 3.0 projects.",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": "2026-04-03T22:00:07Z",
+    "commits_90d": 0,
+    "releases_365d": 25,
+    "median_issue_close_days": 0.8561342592592592,
+    "median_pr_close_days": 0.7030092592592593,
+    "open_issues": 1124,
+    "closed_issues_sampled": 5,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "semantic-release-bot",
+      "account_created_at": "2017-09-21T17:06:24Z",
+      "other_repos_star_sum": 0
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 11363
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "basicmachines-co/basic-memory",
+  "fetched_at": "2026-09-28T04:26:53.431919609Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 4053,
+    "forks": 297,
+    "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": "2026-09-24T00:54:32Z",
+    "commits_90d": 631,
+    "releases_365d": 42,
+    "median_issue_close_days": 5.280844907407407,
+    "median_pr_close_days": 0.04570601851851852,
+    "open_issues": 78,
+    "closed_issues_sampled": 17,
+    "contributors_12mo": 31,
+    "top_author_commit_share": 0.8482412060301507,
+    "top_author": {
+      "login": "phernandez",
+      "account_created_at": "2009-03-07T01:38:00Z",
+      "other_repos_star_sum": 0
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 24495
+  }
+}

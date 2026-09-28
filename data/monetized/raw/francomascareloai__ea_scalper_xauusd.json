@@ -1,0 +1,29 @@
+{
+  "slug": "francomascareloai/ea_scalper_xauusd",
+  "fetched_at": "2026-09-28T04:52:48.335181562Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 244,
+    "forks": 65,
+    "description": "WIP — XAUUSD (Gold) automated-trading research, in the open. MQL5 (public) + Python/NautilusTrader (private). Studied thousands of bots first. No signals, no profit claims — just the engineering.",
+    "license_spdx": "NOASSERTION",
+    "last_commit_at": "2026-06-21T06:27:29Z",
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.0015567129629629629,
+    "open_issues": 2,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 2,
+    "top_author_commit_share": 0.9,
+    "top_author": {
+      "login": "francomascareloai",
+      "account_created_at": "2025-05-12T15:44:57Z",
+      "other_repos_star_sum": 271
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 4957
+  }
+}

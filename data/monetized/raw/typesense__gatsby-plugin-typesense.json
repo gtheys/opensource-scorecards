@@ -1,0 +1,25 @@
+{
+  "slug": "typesense/gatsby-plugin-typesense",
+  "fetched_at": "2026-09-28T06:27:00.876520077Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 35,
+    "forks": 12,
+    "description": "A Gatsby plugin to automatically index content to Typesense post-build",
+    "license_spdx": "Apache-2.0",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 4.843969907407407,
+    "median_pr_close_days": 0.9862673611111111,
+    "open_issues": 6,
+    "closed_issues_sampled": 7,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": true,
+    "readme_len": 12397
+  }
+}

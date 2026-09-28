@@ -1,0 +1,29 @@
+{
+  "slug": "zs1083339604/facewinunlock-tauri",
+  "fetched_at": "2026-09-28T06:41:02.247879301Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1931,
+    "forks": 108,
+    "description": "一款基于 Tauri 框架开发的现代化 Windows 面容识别解锁增强软件。它通过自定义 Credential Provider (DLL) 注入 Windows 登录界面，结合前端 Vue 3 和后端 OpenCV 人脸识别算法，为用户提供类似 Windows Hello 的解锁体验。",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": "2026-08-27T07:34:42Z",
+    "commits_90d": 2,
+    "releases_365d": 4,
+    "median_issue_close_days": 6.922129629629629,
+    "median_pr_close_days": 9.732523148148148,
+    "open_issues": 72,
+    "closed_issues_sampled": 47,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "zs1083339604",
+      "account_created_at": "2018-07-13T12:39:04Z",
+      "other_repos_star_sum": 2116
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 14524
+  }
+}

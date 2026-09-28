@@ -1,0 +1,29 @@
+{
+  "slug": "heshengtao/super-agent-party",
+  "fetched_at": "2026-09-28T04:59:56.360532548Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 2705,
+    "forks": 288,
+    "description": "⭐ All-in-one AI companion! Super Agent Party = Self hosted neuro sama + openclaw! ⭐ 全能AI伴侣！超级智能体派对 = 自托管neuro sama + openclaw!",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": "2026-08-23T09:28:43Z",
+    "commits_90d": 175,
+    "releases_365d": 14,
+    "median_issue_close_days": 6.478460648148148,
+    "median_pr_close_days": 0.00015046296296296297,
+    "open_issues": 15,
+    "closed_issues_sampled": 7,
+    "contributors_12mo": 7,
+    "top_author_commit_share": 0.981,
+    "top_author": {
+      "login": "heshengtao",
+      "account_created_at": "2016-07-21T06:57:40Z",
+      "other_repos_star_sum": 5243
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 29792
+  }
+}

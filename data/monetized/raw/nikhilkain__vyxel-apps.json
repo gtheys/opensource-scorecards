@@ -1,0 +1,29 @@
+{
+  "slug": "nikhilkain/vyxel-apps",
+  "fetched_at": "2026-09-28T05:29:26.656178107Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 882,
+    "forks": 32,
+    "description": "Open-source GitHub-powered Android app store",
+    "license_spdx": "NOASSERTION",
+    "last_commit_at": "2026-09-24T02:33:52Z",
+    "commits_90d": 34,
+    "releases_365d": 13,
+    "median_issue_close_days": 0.6613888888888888,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 10,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "NikhilKain",
+      "account_created_at": "2022-06-05T04:57:13Z",
+      "other_repos_star_sum": 1113
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 13036
+  }
+}

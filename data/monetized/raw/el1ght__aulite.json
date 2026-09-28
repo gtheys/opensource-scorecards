@@ -1,0 +1,29 @@
+{
+  "slug": "el1ght/aulite",
+  "fetched_at": "2026-09-28T04:46:41.321324776Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 135,
+    "forks": 0,
+    "description": "EU AI Act compliance proxy for AI systems. Drop-in HTTP proxy that monitors every AI interaction for regulatory risks, logs to a tamper-proof audit trail, and generates legal-grade PDF reports. 143 rules across 8 Annex III domains. Self-hosted, open-core",
+    "license_spdx": "NOASSERTION",
+    "last_commit_at": "2026-06-14T21:46:44Z",
+    "commits_90d": 0,
+    "releases_365d": 1,
+    "median_issue_close_days": 46.12076388888889,
+    "median_pr_close_days": 0.00019675925925925926,
+    "open_issues": 0,
+    "closed_issues_sampled": 1,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "el1ght",
+      "account_created_at": "2021-07-28T20:44:40Z",
+      "other_repos_star_sum": 209
+    },
+    "has_ci": false,
+    "has_tests": true,
+    "readme_len": 6064
+  }
+}

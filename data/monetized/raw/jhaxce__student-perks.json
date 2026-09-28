@@ -1,0 +1,29 @@
+{
+  "slug": "jhaxce/student-perks",
+  "fetched_at": "2026-09-28T05:07:45.350829843Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 47,
+    "forks": 3,
+    "description": "The curated database of free software, cloud credits, and premium tools for students.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-01-13T05:56:43Z",
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "jhaxce",
+      "account_created_at": "2023-01-13T12:05:30Z",
+      "other_repos_star_sum": 49
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 30105
+  }
+}

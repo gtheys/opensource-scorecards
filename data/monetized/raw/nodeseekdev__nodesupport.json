@@ -1,0 +1,25 @@
+{
+  "slug": "nodeseekdev/nodesupport",
+  "fetched_at": "2026-09-28T05:29:54.028949405Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 96,
+    "forks": 2,
+    "description": "Provide free server sponsorship to high-quality blogs, channels, open-source projects, and popular app.",
+    "license_spdx": "MPL-2.0",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 12.105451388888888,
+    "median_pr_close_days": null,
+    "open_issues": 79,
+    "closed_issues_sampled": 50,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 9858
+  }
+}

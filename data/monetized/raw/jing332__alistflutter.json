@@ -1,0 +1,25 @@
+{
+  "slug": "jing332/alistflutter",
+  "fetched_at": "2026-09-28T05:08:14.846872832Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1990,
+    "forks": 143,
+    "description": "AList 安卓版本，APK安装即用，无需Root或Termux。",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 4.177361111111111,
+    "median_pr_close_days": 0.37676504629629626,
+    "open_issues": 50,
+    "closed_issues_sampled": 33,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 1880
+  }
+}

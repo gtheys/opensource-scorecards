@@ -1,0 +1,29 @@
+{
+  "slug": "mailvelope/mailvelope",
+  "fetched_at": "2026-09-28T05:18:37.830146058Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1844,
+    "forks": 220,
+    "description": "Browser extension for OpenPGP encryption with Webmail",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": "2026-06-11T18:19:10Z",
+    "commits_90d": 0,
+    "releases_365d": 3,
+    "median_issue_close_days": 79.72453125,
+    "median_pr_close_days": 14.318483796296297,
+    "open_issues": 295,
+    "closed_issues_sampled": 22,
+    "contributors_12mo": 2,
+    "top_author_commit_share": 0.9545454545454546,
+    "top_author": {
+      "login": "toberndo",
+      "account_created_at": "2011-11-01T09:14:35Z",
+      "other_repos_star_sum": 86
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 2546
+  }
+}

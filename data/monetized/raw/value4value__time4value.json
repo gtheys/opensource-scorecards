@@ -1,0 +1,25 @@
+{
+  "slug": "value4value/time4value",
+  "fetched_at": "2026-09-28T06:31:27.753262381Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 61,
+    "forks": 7,
+    "description": "Payment via the bonding curve and yield farming.",
+    "license_spdx": null,
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 1.9509375,
+    "median_pr_close_days": 0.19509837962962961,
+    "open_issues": 0,
+    "closed_issues_sampled": 3,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 6372
+  }
+}

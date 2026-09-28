@@ -1,0 +1,25 @@
+{
+  "slug": "jasonetco/is-sponsor-label-action",
+  "fetched_at": "2026-09-28T05:07:07.595250478Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 259,
+    "forks": 13,
+    "description": "💖🔖 A GitHub Action that labels issues/PRs if the author sponsors the owner of the repo",
+    "license_spdx": "MIT",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 4.21056712962963,
+    "median_pr_close_days": 162.025625,
+    "open_issues": 6,
+    "closed_issues_sampled": 9,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 2592
+  }
+}

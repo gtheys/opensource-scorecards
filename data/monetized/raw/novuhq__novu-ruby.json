@@ -1,0 +1,25 @@
+{
+  "slug": "novuhq/novu-ruby",
+  "fetched_at": "2026-09-28T05:30:49.222684702Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 25,
+    "forks": 11,
+    "description": "Ruby SDK for Novu - The open-source notification infrastructure for engineers. 🚀",
+    "license_spdx": "MIT",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 42.79409722222222,
+    "median_pr_close_days": 0.3690625,
+    "open_issues": 9,
+    "closed_issues_sampled": 9,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 23911
+  }
+}

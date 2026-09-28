@@ -1,0 +1,29 @@
+{
+  "slug": "cheyao/icepi-zero",
+  "fetched_at": "2026-09-28T04:34:34.512881777Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 827,
+    "forks": 35,
+    "description": "An ECP5 FPGA Dev Board in a Pi Zero form",
+    "license_spdx": "NOASSERTION",
+    "last_commit_at": "2026-09-18T19:48:48Z",
+    "commits_90d": 8,
+    "releases_365d": 0,
+    "median_issue_close_days": 5.061944444444444,
+    "median_pr_close_days": 0.04882523148148148,
+    "open_issues": 4,
+    "closed_issues_sampled": 19,
+    "contributors_12mo": 4,
+    "top_author_commit_share": 0.8125,
+    "top_author": {
+      "login": "cheyao",
+      "account_created_at": "2021-11-23T18:32:54Z",
+      "other_repos_star_sum": 1540
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 4292
+  }
+}

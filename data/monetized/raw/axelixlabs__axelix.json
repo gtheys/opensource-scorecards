@@ -1,0 +1,29 @@
+{
+  "slug": "axelixlabs/axelix",
+  "fetched_at": "2026-09-28T04:25:28.306657336Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 144,
+    "forks": 21,
+    "description": "The source code of Axelix - a Delta Force for your Spring Boot ecosystem ",
+    "license_spdx": "LGPL-3.0",
+    "last_commit_at": "2026-09-27T10:59:30Z",
+    "commits_90d": 542,
+    "releases_365d": 7,
+    "median_issue_close_days": 15.440636574074073,
+    "median_pr_close_days": 0.9274131944444444,
+    "open_issues": 222,
+    "closed_issues_sampled": 30,
+    "contributors_12mo": 15,
+    "top_author_commit_share": 0.6353305785123967,
+    "top_author": {
+      "login": "mipo256",
+      "account_created_at": "2020-07-29T16:02:54Z",
+      "other_repos_star_sum": 30
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 12676
+  }
+}

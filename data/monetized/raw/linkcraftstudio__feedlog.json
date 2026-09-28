@@ -1,0 +1,29 @@
+{
+  "slug": "linkcraftstudio/feedlog",
+  "fetched_at": "2026-09-28T05:15:07.472291478Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 166,
+    "forks": 35,
+    "description": "Open-source feedback & roadmap tool — feedback boards, public roadmap, AI-assisted changelog. Self-host on Cloudflare Workers, Vercel, or Docker.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-24T03:21:09Z",
+    "commits_90d": 193,
+    "releases_365d": 3,
+    "median_issue_close_days": 9.497013888888889,
+    "median_pr_close_days": 0.0016550925925925926,
+    "open_issues": 2,
+    "closed_issues_sampled": 4,
+    "contributors_12mo": 5,
+    "top_author_commit_share": 0.7761904761904762,
+    "top_author": {
+      "login": "guoliim",
+      "account_created_at": "2016-08-02T09:56:28Z",
+      "other_repos_star_sum": 11
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 15639
+  }
+}

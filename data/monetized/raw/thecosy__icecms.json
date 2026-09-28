@@ -1,0 +1,25 @@
+{
+  "slug": "thecosy/icecms",
+  "fetched_at": "2026-09-28T06:22:50.349625542Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1921,
+    "forks": 276,
+    "description": "🌈冰激凌内容管理系统🍦,实现MacWK资源站，社区图片视频圈子CMS，支持网页端移动端小程序🌟适合做 资讯商城，社区论坛，聊天交友 社区，博客，圈子，论坛，图片，视频，社交。",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 403.48652199074075,
+    "median_pr_close_days": 0.003952546296296296,
+    "open_issues": 12,
+    "closed_issues_sampled": 28,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 8838
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "sync-in/server",
+  "fetched_at": "2026-09-28T06:20:23.681454907Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1784,
+    "forks": 138,
+    "description": "Sync-in · Sovereign platform for file storage, sharing, synchronization, and collaboration.",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": "2026-09-27T13:30:28Z",
+    "commits_90d": 221,
+    "releases_365d": 23,
+    "median_issue_close_days": 2.3199189814814813,
+    "median_pr_close_days": 0.002488425925925926,
+    "open_issues": 12,
+    "closed_issues_sampled": 23,
+    "contributors_12mo": 8,
+    "top_author_commit_share": 0.9641089108910891,
+    "top_author": {
+      "login": "johaven",
+      "account_created_at": "2013-09-14T17:54:06Z",
+      "other_repos_star_sum": 5
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 5403
+  }
+}

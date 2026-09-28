@@ -1,0 +1,25 @@
+{
+  "slug": "xai-org/grok-prompts",
+  "fetched_at": "2026-09-28T06:35:39.932027275Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 4490,
+    "forks": 509,
+    "description": "Prompts for our Grok chat assistant and the `@grok` bot on X.",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": "2025-11-17T20:40:17Z",
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 98.08405671296296,
+    "median_pr_close_days": 218.81917824074074,
+    "open_issues": 94,
+    "closed_issues_sampled": 2,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 1702
+  }
+}

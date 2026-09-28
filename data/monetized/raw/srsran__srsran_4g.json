@@ -1,0 +1,29 @@
+{
+  "slug": "srsran/srsran_4g",
+  "fetched_at": "2026-09-28T06:16:44.252295630Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 4078,
+    "forks": 1316,
+    "description": "Open source SDR 4G software suite from Software Radio Systems (SRS) https://docs.srsran.com/projects/4g",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": "2026-09-10T07:34:45Z",
+    "commits_90d": 14,
+    "releases_365d": 1,
+    "median_issue_close_days": 16.3422337962963,
+    "median_pr_close_days": 4.9489178240740745,
+    "open_issues": 352,
+    "closed_issues_sampled": 36,
+    "contributors_12mo": 6,
+    "top_author_commit_share": 0.47619047619047616,
+    "top_author": {
+      "login": "andrepuschmann",
+      "account_created_at": "2010-12-16T12:55:17Z",
+      "other_repos_star_sum": 223
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 1127
+  }
+}

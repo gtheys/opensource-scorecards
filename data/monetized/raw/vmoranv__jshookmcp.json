@@ -1,0 +1,29 @@
+{
+  "slug": "vmoranv/jshookmcp",
+  "fetched_at": "2026-09-28T06:33:31.477112396Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 2021,
+    "forks": 460,
+    "description": "js hook toolkit that all you need",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": "2026-09-27T10:42:32Z",
+    "commits_90d": 726,
+    "releases_365d": 0,
+    "median_issue_close_days": 25.52736689814815,
+    "median_pr_close_days": 2.1525636574074074,
+    "open_issues": 10,
+    "closed_issues_sampled": 2,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "vmoranv",
+      "account_created_at": "2022-01-21T09:50:34Z",
+      "other_repos_star_sum": 158
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 16607
+  }
+}

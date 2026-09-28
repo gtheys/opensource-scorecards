@@ -1,0 +1,29 @@
+{
+  "slug": "fullcalendar/fullcalendar-workspace",
+  "fetched_at": "2026-09-28T04:54:15.235612761Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 798,
+    "forks": 252,
+    "description": "Premium full-sized drag & drop calendar & scheduler in JavaScript",
+    "license_spdx": "NOASSERTION",
+    "last_commit_at": "2026-09-05T05:04:08Z",
+    "commits_90d": 217,
+    "releases_365d": 13,
+    "median_issue_close_days": 10.300046296296296,
+    "median_pr_close_days": 0.009618055555555555,
+    "open_issues": 28,
+    "closed_issues_sampled": 1,
+    "contributors_12mo": 2,
+    "top_author_commit_share": 0.999,
+    "top_author": {
+      "login": "arshaw",
+      "account_created_at": "2009-02-21T06:29:43Z",
+      "other_repos_star_sum": 924
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 301
+  }
+}

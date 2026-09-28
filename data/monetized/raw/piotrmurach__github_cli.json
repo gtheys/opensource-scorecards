@@ -1,0 +1,25 @@
+{
+  "slug": "piotrmurach/github_cli",
+  "fetched_at": "2026-09-28T05:43:04.757598132Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 267,
+    "forks": 30,
+    "description": "GitHub on your command line. Use your terminal, not the browser.",
+    "license_spdx": "MIT",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 398.913125,
+    "median_pr_close_days": 0.8569212962962963,
+    "open_issues": 7,
+    "closed_issues_sampled": 25,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": true,
+    "readme_len": 8496
+  }
+}

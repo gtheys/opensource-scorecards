@@ -1,0 +1,29 @@
+{
+  "slug": "core-explorer/core-explorer",
+  "fetched_at": "2026-09-28T04:37:55.432868277Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 117,
+    "forks": 0,
+    "description": "A DWARF parser and core dump analyzer that runs in your browser",
+    "license_spdx": "NOASSERTION",
+    "last_commit_at": "2025-10-22T21:20:52Z",
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 0.017708333333333333,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 1,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "core-explorer",
+      "account_created_at": "2024-05-02T23:21:18Z",
+      "other_repos_star_sum": 117
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 3605
+  }
+}

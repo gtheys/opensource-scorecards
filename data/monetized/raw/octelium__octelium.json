@@ -1,0 +1,29 @@
+{
+  "slug": "octelium/octelium",
+  "fetched_at": "2026-09-28T05:31:52.354043542Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 4078,
+    "forks": 153,
+    "description": "A next-gen FOSS self-hosted unified zero trust secure access platform that can operate as a remote access VPN, a ZTNA platform, API/AI/MCP gateway, a PaaS, an ngrok-alternative and a homelab infrastructure.",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": "2026-09-27T23:48:15Z",
+    "commits_90d": 412,
+    "releases_365d": 24,
+    "median_issue_close_days": 2.069097222222222,
+    "median_pr_close_days": 0.0010763888888888889,
+    "open_issues": 17,
+    "closed_issues_sampled": 17,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "geokb",
+      "account_created_at": "2018-11-18T13:30:42Z",
+      "other_repos_star_sum": 671
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 20236
+  }
+}

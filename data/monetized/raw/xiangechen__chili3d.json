@@ -1,0 +1,29 @@
+{
+  "slug": "xiangechen/chili3d",
+  "fetched_at": "2026-09-28T06:35:47.175534514Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 4866,
+    "forks": 486,
+    "description": "A 3D CAD running entirely in the browser",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": "2026-09-19T12:17:08Z",
+    "commits_90d": 164,
+    "releases_365d": 3,
+    "median_issue_close_days": 38.94133680555555,
+    "median_pr_close_days": 0.45642939814814815,
+    "open_issues": 45,
+    "closed_issues_sampled": 16,
+    "contributors_12mo": 6,
+    "top_author_commit_share": 0.9845360824742269,
+    "top_author": {
+      "login": "xiangechen",
+      "account_created_at": "2021-12-31T11:36:29Z",
+      "other_repos_star_sum": 4872
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 8243
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "vogler/free-games-claimer",
+  "fetched_at": "2026-09-28T06:33:48.691049460Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 4235,
+    "forks": 286,
+    "description": "Automatically claims free games and DLCs on the Epic Games Store, Amazon Prime Gaming and GOG.",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 4.874560185185185,
+    "median_pr_close_days": 14.08738425925926,
+    "open_issues": 143,
+    "closed_issues_sampled": 19,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 18800
+  }
+}

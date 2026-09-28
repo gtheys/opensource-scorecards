@@ -1,0 +1,29 @@
+{
+  "slug": "shmykelsa/aaad",
+  "fetched_at": "2026-09-28T06:12:36.684364439Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 2998,
+    "forks": 333,
+    "description": "The original application for downloading and installing apps made specifically for Android Auto outside of Google Play Store. Active since 2021.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-27T11:50:15Z",
+    "commits_90d": 3,
+    "releases_365d": 29,
+    "median_issue_close_days": 3.662476851851852,
+    "median_pr_close_days": 115.14501157407408,
+    "open_issues": 6,
+    "closed_issues_sampled": 48,
+    "contributors_12mo": 3,
+    "top_author_commit_share": 0.8823529411764706,
+    "top_author": {
+      "login": "shmykelsa",
+      "account_created_at": "2014-11-26T17:28:25Z",
+      "other_repos_star_sum": 3765
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 11002
+  }
+}

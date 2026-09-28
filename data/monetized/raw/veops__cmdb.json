@@ -1,0 +1,29 @@
+{
+  "slug": "veops/cmdb",
+  "fetched_at": "2026-09-28T06:32:04.122799891Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 2261,
+    "forks": 513,
+    "description": "CMDB: configuration and management of IT resources",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": "2026-07-25T10:03:46Z",
+    "commits_90d": 4,
+    "releases_365d": 3,
+    "median_issue_close_days": 109.85708333333334,
+    "median_pr_close_days": 35.841828703703705,
+    "open_issues": 83,
+    "closed_issues_sampled": 41,
+    "contributors_12mo": 5,
+    "top_author_commit_share": 0.52,
+    "top_author": {
+      "login": "LHRUN",
+      "account_created_at": "2019-06-02T09:15:05Z",
+      "other_repos_star_sum": 3348
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 6467
+  }
+}

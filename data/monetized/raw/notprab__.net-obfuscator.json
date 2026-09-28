@@ -1,0 +1,25 @@
+{
+  "slug": "notprab/.net-obfuscator",
+  "fetched_at": "2026-09-28T05:30:17.692821344Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1497,
+    "forks": 223,
+    "description": "Lists of .NET Obfuscator (Free, Freemium, Paid and Open Source )",
+    "license_spdx": "MIT",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 130.15449074074075,
+    "median_pr_close_days": 0.09357060185185184,
+    "open_issues": 85,
+    "closed_issues_sampled": 16,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 12134
+  }
+}

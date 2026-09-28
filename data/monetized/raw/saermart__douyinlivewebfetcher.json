@@ -1,0 +1,29 @@
+{
+  "slug": "saermart/douyinlivewebfetcher",
+  "fetched_at": "2026-09-28T05:51:31.589868940Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1837,
+    "forks": 563,
+    "description": "抖音直播间网页版的弹幕数据抓取（2025最新版本）",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": "2026-09-08T07:58:58Z",
+    "commits_90d": 4,
+    "releases_365d": 1,
+    "median_issue_close_days": 8.123229166666667,
+    "median_pr_close_days": 0.01568287037037037,
+    "open_issues": 54,
+    "closed_issues_sampled": 45,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "saermart",
+      "account_created_at": "2022-03-11T08:33:08Z",
+      "other_repos_star_sum": 1903
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 5915
+  }
+}

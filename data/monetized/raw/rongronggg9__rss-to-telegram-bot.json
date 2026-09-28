@@ -1,0 +1,29 @@
+{
+  "slug": "rongronggg9/rss-to-telegram-bot",
+  "fetched_at": "2026-09-28T05:49:58.081136003Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 2160,
+    "forks": 364,
+    "description": "A Telegram RSS bot that cares about your reading experience (calling for new maintainers: https://github.com/Rongronggg9/RSS-to-Telegram-Bot/issues/747)",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": "2026-07-11T18:40:47Z",
+    "commits_90d": 2,
+    "releases_365d": 0,
+    "median_issue_close_days": 267.4670717592593,
+    "median_pr_close_days": 13.500561342592594,
+    "open_issues": 61,
+    "closed_issues_sampled": 4,
+    "contributors_12mo": 2,
+    "top_author_commit_share": 0.5,
+    "top_author": {
+      "login": "eastonman",
+      "account_created_at": "2016-06-15T14:24:12Z",
+      "other_repos_star_sum": 198
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 8942
+  }
+}

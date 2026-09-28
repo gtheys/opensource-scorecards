@@ -1,0 +1,25 @@
+{
+  "slug": "kdablabs/declarativewidgets",
+  "fetched_at": "2026-09-28T05:09:47.922179249Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 198,
+    "forks": 32,
+    "description": "Library and tools for creating QtWidget UIs using QML",
+    "license_spdx": "NOASSERTION",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 511.0950462962963,
+    "median_pr_close_days": 9.674039351851851,
+    "open_issues": 6,
+    "closed_issues_sampled": 7,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 2599
+  }
+}

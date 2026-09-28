@@ -1,0 +1,29 @@
+{
+  "slug": "novuhq/novu-ts",
+  "fetched_at": "2026-09-28T05:30:52.964825885Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 20,
+    "forks": 14,
+    "description": "TypeScript SDK for Novu - The open-source notification infrastructure for engineers. 🚀",
+    "license_spdx": "MIT",
+    "last_commit_at": "2025-12-23T09:56:10Z",
+    "commits_90d": 0,
+    "releases_365d": 26,
+    "median_issue_close_days": 107.65751157407408,
+    "median_pr_close_days": 6.0274074074074075,
+    "open_issues": 5,
+    "closed_issues_sampled": 4,
+    "contributors_12mo": 2,
+    "top_author_commit_share": 0.5,
+    "top_author": {
+      "login": "jainpawan21",
+      "account_created_at": "2018-05-17T05:23:12Z",
+      "other_repos_star_sum": 28
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 50670
+  }
+}

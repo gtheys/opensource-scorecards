@@ -1,0 +1,29 @@
+{
+  "slug": "stellarlinkco/myclaude",
+  "fetched_at": "2026-09-28T06:17:21.483624158Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 2751,
+    "forks": 304,
+    "description": "Multi-agent orchestration workflow (Claude Code  Codex Gemini OpenCode)",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": "2026-05-04T04:25:47Z",
+    "commits_90d": 0,
+    "releases_365d": 73,
+    "median_issue_close_days": 2.784178240740741,
+    "median_pr_close_days": 0.3502314814814815,
+    "open_issues": 7,
+    "closed_issues_sampled": 34,
+    "contributors_12mo": 14,
+    "top_author_commit_share": 0.8706896551724138,
+    "top_author": {
+      "login": "cexll",
+      "account_created_at": "2017-03-19T11:32:40Z",
+      "other_repos_star_sum": 309
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 6035
+  }
+}

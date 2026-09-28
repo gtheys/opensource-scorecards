@@ -1,0 +1,29 @@
+{
+  "slug": "yunohost/yunohost",
+  "fetched_at": "2026-09-28T06:37:35.544707821Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 2979,
+    "forks": 349,
+    "description": "YunoHost is an operating system aiming to simplify as much as possible the administration of a server. This repository corresponds to the core code, written mostly in Python and Bash.",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": "2026-09-27T11:35:27Z",
+    "commits_90d": 89,
+    "releases_365d": 30,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 22.398408564814815,
+    "open_issues": 96,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 32,
+    "top_author_commit_share": 0.29411764705882354,
+    "top_author": {
+      "login": "alexAubin",
+      "account_created_at": "2013-05-26T14:14:49Z",
+      "other_repos_star_sum": 149
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 4746
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "bytechefhq/bytechef",
+  "fetched_at": "2026-09-28T04:32:03.683044674Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1003,
+    "forks": 172,
+    "description": "Open-source AI agents and workflow automation. Self-host or embed in your SaaS. Apache 2.0 alternative to n8n and Zapier.",
+    "license_spdx": "NOASSERTION",
+    "last_commit_at": "2026-09-25T12:17:05Z",
+    "commits_90d": 994,
+    "releases_365d": 9,
+    "median_issue_close_days": 2.819050925925926,
+    "median_pr_close_days": 1.861082175925926,
+    "open_issues": 491,
+    "closed_issues_sampled": 24,
+    "contributors_12mo": 18,
+    "top_author_commit_share": 0.6971830985915493,
+    "top_author": {
+      "login": "ivicac",
+      "account_created_at": "2011-08-09T21:24:25Z",
+      "other_repos_star_sum": 2
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 18602
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "silexlabs/silex",
+  "fetched_at": "2026-09-28T06:13:24.807571951Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 2986,
+    "forks": 679,
+    "description": "Silex is an online tool for visually creating static sites with dynamic data. With the free/libre spirit of internet, together.",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": "2026-09-27T20:23:03Z",
+    "commits_90d": 68,
+    "releases_365d": 23,
+    "median_issue_close_days": 29.12603587962963,
+    "median_pr_close_days": 3.632806712962963,
+    "open_issues": 58,
+    "closed_issues_sampled": 12,
+    "contributors_12mo": 12,
+    "top_author_commit_share": 0.9782383419689119,
+    "top_author": {
+      "login": "lexoyo",
+      "account_created_at": "2011-04-07T13:50:25Z",
+      "other_repos_star_sum": 36
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 11361
+  }
+}

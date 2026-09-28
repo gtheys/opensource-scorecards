@@ -1,0 +1,29 @@
+{
+  "slug": "xpack-ai/xpack-mcp-marketplace",
+  "fetched_at": "2026-09-28T06:35:53.967898428Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 173,
+    "forks": 29,
+    "description": "The world’s first open-source MCP monetization platform, to quickly create and sell your own MCP server in just minutes. | XPack 是全球首个开源 MCP 交易平台，帮助你在10分钟内快速搭建自己的 MCP 商店并立刻开始销售 MCP 服务。",
+    "license_spdx": "Apache-2.0",
+    "last_commit_at": "2026-05-18T03:00:07Z",
+    "commits_90d": 0,
+    "releases_365d": 16,
+    "median_issue_close_days": 4.594618055555555,
+    "median_pr_close_days": 0.00011574074074074075,
+    "open_issues": 6,
+    "closed_issues_sampled": 1,
+    "contributors_12mo": 3,
+    "top_author_commit_share": 0.7472924187725631,
+    "top_author": {
+      "login": "Dot-Liu",
+      "account_created_at": "2015-09-03T07:55:14Z",
+      "other_repos_star_sum": 0
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 14703
+  }
+}

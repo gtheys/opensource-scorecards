@@ -1,0 +1,29 @@
+{
+  "slug": "aaronsb/google-workspace-mcp",
+  "fetched_at": "2026-09-28T04:17:03.774872679Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 189,
+    "forks": 53,
+    "description": "A Model Context Protocol (MCP) server that provides authenticated access to Google Workspace APIs, offering integrated Authentication, Gmail, Calendar, and Drive functionality",
+    "license_spdx": "Apache-2.0",
+    "last_commit_at": "2026-08-31T16:31:11Z",
+    "commits_90d": 170,
+    "releases_365d": 21,
+    "median_issue_close_days": 11.567609953703705,
+    "median_pr_close_days": 0.005133101851851852,
+    "open_issues": 16,
+    "closed_issues_sampled": 10,
+    "contributors_12mo": 6,
+    "top_author_commit_share": 0.9710610932475884,
+    "top_author": {
+      "login": "aaronsb",
+      "account_created_at": "2012-11-06T21:50:35Z",
+      "other_repos_star_sum": 590
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 15812
+  }
+}

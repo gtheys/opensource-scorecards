@@ -1,0 +1,29 @@
+{
+  "slug": "ocaml-ppx/ppx_deriving",
+  "fetched_at": "2026-09-28T05:31:44.136548749Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 522,
+    "forks": 98,
+    "description": "Type-driven code generation for OCaml",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-13T08:48:51Z",
+    "commits_90d": 55,
+    "releases_365d": 3,
+    "median_issue_close_days": 17.09201388888889,
+    "median_pr_close_days": 6.90863425925926,
+    "open_issues": 39,
+    "closed_issues_sampled": 13,
+    "contributors_12mo": 6,
+    "top_author_commit_share": 0.7941176470588235,
+    "top_author": {
+      "login": "sim642",
+      "account_created_at": "2010-08-28T05:55:22Z",
+      "other_repos_star_sum": 174
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 22833
+  }
+}

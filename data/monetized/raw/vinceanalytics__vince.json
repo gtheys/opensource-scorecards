@@ -1,0 +1,25 @@
+{
+  "slug": "vinceanalytics/vince",
+  "fetched_at": "2026-09-28T06:32:36.700871337Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 2015,
+    "forks": 77,
+    "description": "Self Hosted Alternative To Google Analytics",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 1.3094560185185184,
+    "median_pr_close_days": 0.0940162037037037,
+    "open_issues": 21,
+    "closed_issues_sampled": 19,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 4470
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "pablocfonseca/streamlit-aggrid",
+  "fetched_at": "2026-09-28T05:39:45.140834152Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1296,
+    "forks": 226,
+    "description": "Implementation of Ag-Grid component for Streamlit",
+    "license_spdx": "MIT",
+    "last_commit_at": "2025-12-22T22:48:10Z",
+    "commits_90d": 0,
+    "releases_365d": 2,
+    "median_issue_close_days": 10.611550925925926,
+    "median_pr_close_days": 22.933680555555554,
+    "open_issues": 105,
+    "closed_issues_sampled": 37,
+    "contributors_12mo": 2,
+    "top_author_commit_share": 0.8333333333333334,
+    "top_author": {
+      "login": "PablocFonseca",
+      "account_created_at": "2016-03-03T01:32:18Z",
+      "other_repos_star_sum": 1347
+    },
+    "has_ci": false,
+    "has_tests": true,
+    "readme_len": 10101
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "teads/teadssdk-ios",
+  "fetched_at": "2026-09-28T06:21:13.153432265Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 27,
+    "forks": 11,
+    "description": "Teads SDK for iOS - Premium branded \"outstream\" ads",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-10T15:51:16Z",
+    "commits_90d": 11,
+    "releases_365d": 15,
+    "median_issue_close_days": 163.88274305555555,
+    "median_pr_close_days": 0.0007175925925925926,
+    "open_issues": 4,
+    "closed_issues_sampled": 11,
+    "contributors_12mo": 4,
+    "top_author_commit_share": 0.8222222222222222,
+    "top_author": {
+      "login": "leo-outbrain",
+      "account_created_at": "2024-06-16T08:26:31Z",
+      "other_repos_star_sum": 0
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 9821
+  }
+}

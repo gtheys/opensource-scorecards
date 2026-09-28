@@ -1,0 +1,29 @@
+{
+  "slug": "open5gs/open5gs",
+  "fetched_at": "2026-09-28T05:34:10.463222825Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 2735,
+    "forks": 1115,
+    "description": "Open5GS is a C-language Open Source implementation for 5G Core and EPC, i.e. the core network of LTE/NR network (Release-19)",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": "2026-09-26T01:23:25Z",
+    "commits_90d": 206,
+    "releases_365d": 2,
+    "median_issue_close_days": 33.49238425925926,
+    "median_pr_close_days": 0.0003587962962962963,
+    "open_issues": 293,
+    "closed_issues_sampled": 17,
+    "contributors_12mo": 39,
+    "top_author_commit_share": 0.7085106382978723,
+    "top_author": {
+      "login": "acetcom",
+      "account_created_at": "2013-04-22T08:26:44Z",
+      "other_repos_star_sum": 1
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 1895
+  }
+}

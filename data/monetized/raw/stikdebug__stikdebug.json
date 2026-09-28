@@ -1,0 +1,29 @@
+{
+  "slug": "stikdebug/stikdebug",
+  "fetched_at": "2026-09-28T06:18:10.878104558Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 2555,
+    "forks": 264,
+    "description": "An on-device debugger/JIT enabler for iOS versions 17.4+, powered by idevice.",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": "2026-09-27T21:26:08Z",
+    "commits_90d": 49,
+    "releases_365d": 4,
+    "median_issue_close_days": 1.8532638888888888,
+    "median_pr_close_days": 0.30461805555555554,
+    "open_issues": 5,
+    "closed_issues_sampled": 37,
+    "contributors_12mo": 8,
+    "top_author_commit_share": 0.6681034482758621,
+    "top_author": {
+      "login": "StephenDev0",
+      "account_created_at": "2024-02-01T16:37:59Z",
+      "other_repos_star_sum": 108
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 6898
+  }
+}

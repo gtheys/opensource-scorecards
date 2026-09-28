@@ -1,0 +1,29 @@
+{
+  "slug": "olaxbt/ai-market-maker",
+  "fetched_at": "2026-09-28T05:32:44.823818227Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 2109,
+    "forks": 300,
+    "description": "Agentic AI Hedge Fund OS (AIMM)",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": "2026-08-20T14:00:25Z",
+    "commits_90d": 7,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.010578703703703703,
+    "open_issues": 3,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 7,
+    "top_author_commit_share": 0.5252525252525253,
+    "top_author": {
+      "login": "henryckh",
+      "account_created_at": "2015-03-11T08:55:03Z",
+      "other_repos_star_sum": 47
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 24830
+  }
+}

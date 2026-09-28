@@ -1,0 +1,29 @@
+{
+  "slug": "uptrace/uptrace",
+  "fetched_at": "2026-09-28T06:30:27.172375727Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 4293,
+    "forks": 218,
+    "description": "Open source APM: OpenTelemetry traces, metrics, and logs",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": "2026-06-14T05:49:11Z",
+    "commits_90d": 0,
+    "releases_365d": 10,
+    "median_issue_close_days": 92.25305555555556,
+    "median_pr_close_days": 44.196846064814814,
+    "open_issues": 53,
+    "closed_issues_sampled": 30,
+    "contributors_12mo": 3,
+    "top_author_commit_share": 0.7777777777777778,
+    "top_author": {
+      "login": "vmihailenco",
+      "account_created_at": "2010-05-29T21:36:43Z",
+      "other_repos_star_sum": 4349
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 3627
+  }
+}

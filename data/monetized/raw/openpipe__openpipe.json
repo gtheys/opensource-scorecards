@@ -1,0 +1,25 @@
+{
+  "slug": "openpipe/openpipe",
+  "fetched_at": "2026-09-28T05:37:37.495397916Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 2832,
+    "forks": 177,
+    "description": "Turn expensive prompts into cheap fine-tuned models",
+    "license_spdx": "Apache-2.0",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 70.20034722222222,
+    "median_pr_close_days": 0.6284143518518519,
+    "open_issues": 8,
+    "closed_issues_sampled": 13,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 5388
+  }
+}

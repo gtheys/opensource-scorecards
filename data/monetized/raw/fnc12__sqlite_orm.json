@@ -1,0 +1,25 @@
+{
+  "slug": "fnc12/sqlite_orm",
+  "fetched_at": "2026-09-28T04:52:25.723503431Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 2694,
+    "forks": 343,
+    "description": "❤️ SQLite ORM light header only library for modern C++",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 228.43716435185186,
+    "median_pr_close_days": 0.6893287037037037,
+    "open_issues": 18,
+    "closed_issues_sampled": 5,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 35922
+  }
+}

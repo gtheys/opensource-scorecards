@@ -1,0 +1,29 @@
+{
+  "slug": "tntwise/real-video-enhancer",
+  "fetched_at": "2026-09-28T06:24:33.941178886Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 2275,
+    "forks": 158,
+    "description": "Interpolate, Upscale, Decompress, and Denoise videos easily on Linux/Windows/MacOS.",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": "2026-09-02T03:21:31Z",
+    "commits_90d": 2,
+    "releases_365d": 5,
+    "median_issue_close_days": 2.2388715277777775,
+    "median_pr_close_days": 0.00015046296296296297,
+    "open_issues": 30,
+    "closed_issues_sampled": 34,
+    "contributors_12mo": 2,
+    "top_author_commit_share": 0.9822222222222222,
+    "top_author": {
+      "login": "TNTwise",
+      "account_created_at": "2021-01-17T02:15:33Z",
+      "other_repos_star_sum": 2432
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 10076
+  }
+}

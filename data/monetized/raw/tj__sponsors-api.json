@@ -1,0 +1,25 @@
+{
+  "slug": "tj/sponsors-api",
+  "fetched_at": "2026-09-28T06:24:30.402204360Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 239,
+    "forks": 28,
+    "description": "GitHub Sponsor avatar listings in your Readme.md",
+    "license_spdx": "MIT",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 2.072974537037037,
+    "open_issues": 2,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 11216
+  }
+}

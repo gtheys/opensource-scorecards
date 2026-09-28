@@ -1,0 +1,25 @@
+{
+  "slug": "mathgladiator/adama-lang",
+  "fetched_at": "2026-09-28T05:19:51.541430558Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 106,
+    "forks": 15,
+    "description": "A headless spreadsheet document container service.",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 72.02648148148148,
+    "median_pr_close_days": 0.09501157407407407,
+    "open_issues": 15,
+    "closed_issues_sampled": 4,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 595
+  }
+}

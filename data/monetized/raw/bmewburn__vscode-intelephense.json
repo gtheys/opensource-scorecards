@@ -1,0 +1,29 @@
+{
+  "slug": "bmewburn/vscode-intelephense",
+  "fetched_at": "2026-09-28T04:29:52.321738386Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1859,
+    "forks": 113,
+    "description": "PHP intellisense for Visual Studio Code",
+    "license_spdx": "NOASSERTION",
+    "last_commit_at": "2026-06-21T00:38:27Z",
+    "commits_90d": 0,
+    "releases_365d": 24,
+    "median_issue_close_days": 5.4350405092592595,
+    "median_pr_close_days": null,
+    "open_issues": 367,
+    "closed_issues_sampled": 50,
+    "contributors_12mo": 2,
+    "top_author_commit_share": 0.9807692307692307,
+    "top_author": {
+      "login": "bmewburn",
+      "account_created_at": "2013-11-08T03:36:18Z",
+      "other_repos_star_sum": 2075
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 5679
+  }
+}

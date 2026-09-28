@@ -1,0 +1,29 @@
+{
+  "slug": "beam-cloud/beta9",
+  "fetched_at": "2026-09-28T04:27:15.469743940Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1794,
+    "forks": 168,
+    "description": "Ultrafast serverless GPU inference, sandboxes, and background jobs",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": "2026-09-26T22:55:20Z",
+    "commits_90d": 179,
+    "releases_365d": 100,
+    "median_issue_close_days": 10.452453703703704,
+    "median_pr_close_days": 0.11383101851851851,
+    "open_issues": 26,
+    "closed_issues_sampled": 3,
+    "contributors_12mo": 4,
+    "top_author_commit_share": 0.9427860696517413,
+    "top_author": {
+      "login": "luke-lombardi",
+      "account_created_at": "2017-11-25T21:37:31Z",
+      "other_repos_star_sum": 6
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 4703
+  }
+}

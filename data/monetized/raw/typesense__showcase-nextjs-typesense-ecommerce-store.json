@@ -1,0 +1,25 @@
+{
+  "slug": "typesense/showcase-nextjs-typesense-ecommerce-store",
+  "fetched_at": "2026-09-28T06:27:34.580121438Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 65,
+    "forks": 24,
+    "description": "An app showing how you can use Typesense & Next.js / React to build a full-fledged ecommerce browsing and searching experience",
+    "license_spdx": "Apache-2.0",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 9.970827546296295,
+    "median_pr_close_days": 25.41994212962963,
+    "open_issues": 3,
+    "closed_issues_sampled": 2,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 1161
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "signalbrerhythm/capcut-pro-unlock",
+  "fetched_at": "2026-09-28T06:13:13.294944007Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 45,
+    "forks": 25,
+    "description": "CapCut Pro — full-featured video editor with every premium tool unlocked. 4K export, 500+ transitions, AI auto-cut, chroma key, motion tracking, and royalty-free music library. No watermarks. No subscription required.",
+    "license_spdx": null,
+    "last_commit_at": "2026-09-27T21:40:46Z",
+    "commits_90d": 8,
+    "releases_365d": 1,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "Signalbrerhythm",
+      "account_created_at": "2026-04-26T20:47:20Z",
+      "other_repos_star_sum": 105
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 5081
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "off-grid-ai/ogad",
+  "fetched_at": "2026-09-28T05:32:22.990443293Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 114,
+    "forks": 24,
+    "description": "Your private, on-device personal AI assistant for macOS and Windows. Chat, create, search files, and connect tools with local models. Includes an OpenAI-compatible API. Opt-in Pro sees, remembers, reflects, and acts with your approval. No cloud or account.",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": "2026-09-26T11:53:24Z",
+    "commits_90d": 995,
+    "releases_365d": 83,
+    "median_issue_close_days": 18.949293981481482,
+    "median_pr_close_days": 0.010162037037037037,
+    "open_issues": 27,
+    "closed_issues_sampled": 2,
+    "contributors_12mo": 2,
+    "top_author_commit_share": 0.9585152838427947,
+    "top_author": {
+      "login": "alichherawalla",
+      "account_created_at": "2013-07-07T10:25:12Z",
+      "other_repos_star_sum": 24
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 16025
+  }
+}

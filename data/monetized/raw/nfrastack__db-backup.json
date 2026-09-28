@@ -1,0 +1,29 @@
+{
+  "slug": "nfrastack/db-backup",
+  "fetched_at": "2026-09-28T05:29:05.067087206Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1546,
+    "forks": 161,
+    "description": "Backup and restore your databases to multiple storage backends",
+    "license_spdx": "NOASSERTION",
+    "last_commit_at": "2026-09-24T17:18:05Z",
+    "commits_90d": 29,
+    "releases_365d": 10,
+    "median_issue_close_days": 9.785283564814815,
+    "median_pr_close_days": 394.2255960648148,
+    "open_issues": 21,
+    "closed_issues_sampled": 48,
+    "contributors_12mo": 2,
+    "top_author_commit_share": 0.9375,
+    "top_author": {
+      "login": "tiredofit",
+      "account_created_at": "2016-11-17T16:51:38Z",
+      "other_repos_star_sum": 2238
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 5095
+  }
+}

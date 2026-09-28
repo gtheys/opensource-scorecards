@@ -1,0 +1,29 @@
+{
+  "slug": "yattee/yattee",
+  "fetched_at": "2026-09-28T06:36:36.863892937Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 3713,
+    "forks": 172,
+    "description": "Privacy oriented video player for iOS, tvOS and macOS",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": "2026-08-23T10:46:11Z",
+    "commits_90d": 97,
+    "releases_365d": 18,
+    "median_issue_close_days": 10.199097222222223,
+    "median_pr_close_days": 14.046354166666667,
+    "open_issues": 226,
+    "closed_issues_sampled": 27,
+    "contributors_12mo": 13,
+    "top_author_commit_share": 0.9710982658959537,
+    "top_author": {
+      "login": "arekf",
+      "account_created_at": "2010-08-17T17:13:33Z",
+      "other_repos_star_sum": 2
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 1578
+  }
+}

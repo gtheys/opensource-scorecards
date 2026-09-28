@@ -1,0 +1,29 @@
+{
+  "slug": "cjackhwang/aistudioproxyapi",
+  "fetched_at": "2026-09-28T04:35:25.222236065Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 2513,
+    "forks": 425,
+    "description": "FastAPI + Playwright + Camoufox 中间层代理服务器，兼容OpenAI API且支持参数转发。项目通过浏览器自动化将API请求转发到 Google AI Studio Chat，并同样按照OpenAI标准格式返回的工具。内置调试WebUI面板。",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": "2026-04-22T12:17:59Z",
+    "commits_90d": 0,
+    "releases_365d": 19,
+    "median_issue_close_days": 41.66385416666667,
+    "median_pr_close_days": 0.0028472222222222223,
+    "open_issues": 24,
+    "closed_issues_sampled": 29,
+    "contributors_12mo": 8,
+    "top_author_commit_share": 0.4444444444444444,
+    "top_author": {
+      "login": "NikkeTryHard",
+      "account_created_at": "2022-08-22T06:41:18Z",
+      "other_repos_star_sum": 740
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 5371
+  }
+}

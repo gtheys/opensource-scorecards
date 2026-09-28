@@ -1,0 +1,29 @@
+{
+  "slug": "r0073d-l053r/proxmate",
+  "fetched_at": "2026-09-28T05:47:11.007658464Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 91,
+    "forks": 6,
+    "description": "A lightweight, invite-only cloud dashboard built on Proxmox VE.",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": "2026-08-20T04:11:53Z",
+    "commits_90d": 244,
+    "releases_365d": 43,
+    "median_issue_close_days": 14.079652777777778,
+    "median_pr_close_days": 0.005636574074074074,
+    "open_issues": 1,
+    "closed_issues_sampled": 1,
+    "contributors_12mo": 2,
+    "top_author_commit_share": 0.9559585492227979,
+    "top_author": {
+      "login": "r0073d-l053r",
+      "account_created_at": "2018-12-02T05:44:12Z",
+      "other_repos_star_sum": 96
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 21345
+  }
+}

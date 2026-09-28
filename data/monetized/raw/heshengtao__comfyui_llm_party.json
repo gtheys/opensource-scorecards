@@ -1,0 +1,29 @@
+{
+  "slug": "heshengtao/comfyui_llm_party",
+  "fetched_at": "2026-09-28T04:59:51.466631229Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 2370,
+    "forks": 206,
+    "description": "LLM Agent Framework in ComfyUI includes MCP sever, Omost,GPT-sovits, ChatTTS,GOT-OCR2.0, and FLUX prompt nodes,access to Feishu,discord,and adapts to all llms with similar openai / aisuite interfaces, such as o1,ollama, gemini, grok, qwen, GLM, deepseek, kimi,doubao. Adapted to local llms, vlm, gguf such as llama-3.3 Janus-Pro, Linkage graphRAG",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": "2026-07-29T18:05:43Z",
+    "commits_90d": 7,
+    "releases_365d": 0,
+    "median_issue_close_days": 3.730497685185185,
+    "median_pr_close_days": 6.825763888888889,
+    "open_issues": 87,
+    "closed_issues_sampled": 28,
+    "contributors_12mo": 8,
+    "top_author_commit_share": 0.55,
+    "top_author": {
+      "login": "heshengtao",
+      "account_created_at": "2016-07-21T06:57:40Z",
+      "other_repos_star_sum": 5243
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 19067
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "ocularengineering/ocular",
+  "fetched_at": "2026-09-28T05:32:19.167679138Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 443,
+    "forks": 33,
+    "description": "AI Powered Search and Chat for Orgs - Think ChatGPT meets Google Search but powered by your data.",
+    "license_spdx": "NOASSERTION",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 23.80059027777778,
+    "median_pr_close_days": 0.05722222222222222,
+    "open_issues": 5,
+    "closed_issues_sampled": 1,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 6904
+  }
+}

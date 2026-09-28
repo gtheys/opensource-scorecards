@@ -1,0 +1,25 @@
+{
+  "slug": "webcrumbs-community/webcrumbs",
+  "fetched_at": "2026-09-28T06:34:23.649696842Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1789,
+    "forks": 152,
+    "description": "Build, re(use), and share your own Webcrumbs Plugins — compatible with any site, any stack. 🌟 Star to support our work!",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 67.22148148148148,
+    "median_pr_close_days": 2.69755787037037,
+    "open_issues": 0,
+    "closed_issues_sampled": 3,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 596
+  }
+}

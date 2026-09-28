@@ -1,0 +1,25 @@
+{
+  "slug": "linagora/twake-legacy",
+  "fetched_at": "2026-09-28T05:14:52.422062156Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1924,
+    "forks": 208,
+    "description": "Twake is a secure open source collaboration platform to improve organizational productivity. ",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.04706018518518519,
+    "open_issues": 337,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 3873
+  }
+}

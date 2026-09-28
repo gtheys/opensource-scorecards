@@ -1,0 +1,25 @@
+{
+  "slug": "owncast/playout-example",
+  "fetched_at": "2026-09-28T05:39:27.288339213Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 22,
+    "forks": 5,
+    "description": "An example of a 24/7 stream powered by Owncast + ffplayout",
+    "license_spdx": null,
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 559
+  }
+}

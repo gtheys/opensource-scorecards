@@ -1,0 +1,29 @@
+{
+  "slug": "kryptosai/mcp-observatory",
+  "fetched_at": "2026-09-28T05:11:30.854678487Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 140,
+    "forks": 15,
+    "description": "CI-native security testing for MCP servers. Attack simulation, schema drift detection, and health scoring before agents depend on them.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-22T19:30:55Z",
+    "commits_90d": 260,
+    "releases_365d": 100,
+    "median_issue_close_days": 44.73041666666666,
+    "median_pr_close_days": 0.006331018518518519,
+    "open_issues": 17,
+    "closed_issues_sampled": 3,
+    "contributors_12mo": 7,
+    "top_author_commit_share": 0.9581005586592178,
+    "top_author": {
+      "login": "KryptosAI",
+      "account_created_at": "2023-07-27T18:30:58Z",
+      "other_repos_star_sum": 146
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 32187
+  }
+}

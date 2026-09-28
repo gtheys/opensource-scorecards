@@ -1,0 +1,25 @@
+{
+  "slug": "muisedestiny/zotero-reference",
+  "fetched_at": "2026-09-28T05:26:57.853424957Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 2818,
+    "forks": 85,
+    "description": "PDF references add-on for Zotero.",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 4,
+    "median_issue_close_days": 0.8319907407407408,
+    "median_pr_close_days": 226.00890625000002,
+    "open_issues": 210,
+    "closed_issues_sampled": 48,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 7888
+  }
+}

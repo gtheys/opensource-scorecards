@@ -1,0 +1,29 @@
+{
+  "slug": "viren070/aiostreams",
+  "fetched_at": "2026-09-28T06:32:41.154164290Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 2755,
+    "forks": 860,
+    "description": "AIOStreams consolidates multiple Stremio addons and debrid/usenet services - including its own suite of built-in addons and a native Usenet streaming engine - into a single, highly customisable super-addon. ",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": "2026-09-27T22:53:27Z",
+    "commits_90d": 882,
+    "releases_365d": 100,
+    "median_issue_close_days": 8.893726851851852,
+    "median_pr_close_days": 0.1510300925925926,
+    "open_issues": 200,
+    "closed_issues_sampled": 13,
+    "contributors_12mo": 28,
+    "top_author_commit_share": 0.8974874371859296,
+    "top_author": {
+      "login": "Viren070",
+      "account_created_at": "2020-09-13T13:56:07Z",
+      "other_repos_star_sum": 3841
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 16825
+  }
+}

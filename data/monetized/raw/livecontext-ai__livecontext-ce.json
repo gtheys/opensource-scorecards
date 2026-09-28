@@ -1,0 +1,29 @@
+{
+  "slug": "livecontext-ai/livecontext-ce",
+  "fetched_at": "2026-09-28T05:15:57.612915466Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 593,
+    "forks": 66,
+    "description": "The AI automation platform, self-hosted. Describe the job in chat and LiveContext builds it: readable workflows, scoped AI agents, and small apps your team uses. Chat, Workflow, Agent and App on one canvas.",
+    "license_spdx": "NOASSERTION",
+    "last_commit_at": "2026-09-26T22:55:44Z",
+    "commits_90d": 47,
+    "releases_365d": 39,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "luck7710",
+      "account_created_at": "2018-05-06T20:22:56Z",
+      "other_repos_star_sum": 0
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 15494
+  }
+}

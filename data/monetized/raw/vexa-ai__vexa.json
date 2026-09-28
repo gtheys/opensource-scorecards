@@ -1,0 +1,29 @@
+{
+  "slug": "vexa-ai/vexa",
+  "fetched_at": "2026-09-28T06:32:14.012136401Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 2833,
+    "forks": 490,
+    "description": "Open-source meeting transcription API for Google Meet, Microsoft Teams & Zoom. Auto-join bots, real-time WebSocket transcripts, MCP server for AI agents. Self-host or use hosted SaaS.",
+    "license_spdx": "Apache-2.0",
+    "last_commit_at": "2026-09-16T21:03:33Z",
+    "commits_90d": 760,
+    "releases_365d": 36,
+    "median_issue_close_days": 0.01355324074074074,
+    "median_pr_close_days": 0.008773148148148148,
+    "open_issues": 616,
+    "closed_issues_sampled": 10,
+    "contributors_12mo": 24,
+    "top_author_commit_share": 0.9275092936802974,
+    "top_author": {
+      "login": "DmitriyG228",
+      "account_created_at": "2018-05-17T09:54:35Z",
+      "other_repos_star_sum": 10
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 26705
+  }
+}

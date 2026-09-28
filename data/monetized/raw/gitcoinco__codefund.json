@@ -1,0 +1,25 @@
+{
+  "slug": "gitcoinco/codefund",
+  "fetched_at": "2026-09-28T04:56:29.062410545Z",
+  "status": "ok",
+  "data": {
+    "archived": true,
+    "stars": 163,
+    "forks": 34,
+    "description": "Deprecated. Please go to https://github.com/gitcoinco/code_fund_ads",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 10.455167824074074,
+    "median_pr_close_days": 0.8416087962962963,
+    "open_issues": 51,
+    "closed_issues_sampled": 10,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": true,
+    "readme_len": 11729
+  }
+}

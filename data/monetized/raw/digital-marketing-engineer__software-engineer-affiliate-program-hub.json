@@ -1,0 +1,29 @@
+{
+  "slug": "digital-marketing-engineer/software-engineer-affiliate-program-hub",
+  "fetched_at": "2026-09-28T04:43:38.564375182Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 152,
+    "forks": 20,
+    "description": "Software Engineer's Affiliate Program Hub: Explore curated affiliate programs tailored for software engineers. Get reviews, marketing strategies, resources, and join a supportive community. Monetize your skills and passion for technology. Note: Research before engaging in partnerships.",
+    "license_spdx": null,
+    "last_commit_at": "2026-04-07T10:09:42Z",
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 102.4192361111111,
+    "median_pr_close_days": 0.15390046296296298,
+    "open_issues": 7,
+    "closed_issues_sampled": 3,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "digital-marketing-engineer",
+      "account_created_at": "2023-05-14T13:56:42Z",
+      "other_repos_star_sum": 237
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 71231
+  }
+}

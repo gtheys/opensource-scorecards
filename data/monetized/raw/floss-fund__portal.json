@@ -1,0 +1,29 @@
+{
+  "slug": "floss-fund/portal",
+  "fetched_at": "2026-09-28T04:52:04.497269225Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 36,
+    "forks": 10,
+    "description": "Portal / directory for listing, indexing, and crawling funding.json manifests",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": "2026-01-30T06:07:14Z",
+    "commits_90d": 0,
+    "releases_365d": 2,
+    "median_issue_close_days": 3.6473032407407406,
+    "median_pr_close_days": 2.5384953703703705,
+    "open_issues": 4,
+    "closed_issues_sampled": 21,
+    "contributors_12mo": 2,
+    "top_author_commit_share": 0.8888888888888888,
+    "top_author": {
+      "login": "knadh",
+      "account_created_at": "2011-01-04T15:32:55Z",
+      "other_repos_star_sum": 45241
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 1588
+  }
+}

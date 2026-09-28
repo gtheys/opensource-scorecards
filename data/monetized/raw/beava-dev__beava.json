@@ -1,0 +1,29 @@
+{
+  "slug": "beava-dev/beava",
+  "fetched_at": "2026-09-28T04:27:23.902275525Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 138,
+    "forks": 10,
+    "description": "Real-time decision features without streaming infra. Turn live events into product reflexes — no Kafka, no Flink, no feature store.",
+    "license_spdx": "Apache-2.0",
+    "last_commit_at": "2026-05-29T15:30:50Z",
+    "commits_90d": 0,
+    "releases_365d": 6,
+    "median_issue_close_days": 3.685810185185185,
+    "median_pr_close_days": 0.0007638888888888889,
+    "open_issues": 38,
+    "closed_issues_sampled": 1,
+    "contributors_12mo": 6,
+    "top_author_commit_share": 0.9158878504672897,
+    "top_author": {
+      "login": "petrpan26",
+      "account_created_at": "2016-07-31T03:20:05Z",
+      "other_repos_star_sum": 42
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 9682
+  }
+}

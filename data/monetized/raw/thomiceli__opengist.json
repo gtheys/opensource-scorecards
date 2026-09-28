@@ -1,0 +1,29 @@
+{
+  "slug": "thomiceli/opengist",
+  "fetched_at": "2026-09-28T06:23:36.112330804Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 3362,
+    "forks": 193,
+    "description": "Self-hosted pastebin powered by Git, open-source alternative to Github Gist.",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": "2026-08-30T02:00:01Z",
+    "commits_90d": 27,
+    "releases_365d": 10,
+    "median_issue_close_days": 20.63773148148148,
+    "median_pr_close_days": 0.625162037037037,
+    "open_issues": 68,
+    "closed_issues_sampled": 15,
+    "contributors_12mo": 27,
+    "top_author_commit_share": 0.6984126984126984,
+    "top_author": {
+      "login": "thomiceli",
+      "account_created_at": "2017-04-24T13:26:43Z",
+      "other_repos_star_sum": 3362
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 3981
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "jetify-com/launchpad",
+  "fetched_at": "2026-09-28T05:07:41.555157275Z",
+  "status": "ok",
+  "data": {
+    "archived": true,
+    "stars": 416,
+    "forks": 11,
+    "description": "From Code to Kubernetes in One Step.",
+    "license_spdx": "Apache-2.0",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 0.8983854166666667,
+    "median_pr_close_days": 0.6708391203703703,
+    "open_issues": 4,
+    "closed_issues_sampled": 2,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 4374
+  }
+}

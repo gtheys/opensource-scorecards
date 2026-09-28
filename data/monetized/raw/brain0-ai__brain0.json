@@ -1,0 +1,29 @@
+{
+  "slug": "brain0-ai/brain0",
+  "fetched_at": "2026-09-28T04:30:31.066816596Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 323,
+    "forks": 9,
+    "description": "The black box for AI-written code. Passive decision graph linking every commit to the agent prompts behind it: drift detection, DLP audit of what agents read, evidence-driven risk, MCP memory for coding agents, signed provenance attestations. One command, offline by default.",
+    "license_spdx": "Apache-2.0",
+    "last_commit_at": "2026-09-09T17:46:49Z",
+    "commits_90d": 5,
+    "releases_365d": 2,
+    "median_issue_close_days": 15.299699074074073,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 1,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "nicolalessi",
+      "account_created_at": "2017-02-03T15:21:28Z",
+      "other_repos_star_sum": 2
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 16307
+  }
+}

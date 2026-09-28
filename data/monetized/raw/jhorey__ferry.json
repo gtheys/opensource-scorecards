@@ -1,0 +1,25 @@
+{
+  "slug": "jhorey/ferry",
+  "fetched_at": "2026-09-28T05:07:49.616009423Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 253,
+    "forks": 25,
+    "description": "Ferry lets you define, run, and deploy big data applications on AWS, OpenStack, and your local machine using Docker",
+    "license_spdx": "Apache-2.0",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 6.568576388888889,
+    "median_pr_close_days": 0.3266203703703704,
+    "open_issues": 15,
+    "closed_issues_sampled": 23,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 3672
+  }
+}

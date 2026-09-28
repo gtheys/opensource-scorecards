@@ -1,0 +1,29 @@
+{
+  "slug": "zebangeth/ai-closet",
+  "fetched_at": "2026-09-28T06:38:18.562635818Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 291,
+    "forks": 51,
+    "description": "An AI-native app to digitize your wardrobe, get outfit inspirations, and try on looks virtually. Support both iOS and Android",
+    "license_spdx": "MIT",
+    "last_commit_at": "2025-11-10T00:37:02Z",
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.0630150462962963,
+    "open_issues": 8,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 2,
+    "top_author_commit_share": 0.6666666666666666,
+    "top_author": {
+      "login": "zebangeth",
+      "account_created_at": "2022-08-27T13:53:55Z",
+      "other_repos_star_sum": 1173
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 8606
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "connorgallopo/tracearr",
+  "fetched_at": "2026-09-28T04:37:33.384506709Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 2671,
+    "forks": 116,
+    "description": "Real-time monitoring for Plex, Jellyfin, and Emby servers. Track streams, analyze playback, and detect account sharing from a single dashboard.",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": "2026-09-27T01:10:50Z",
+    "commits_90d": 822,
+    "releases_365d": 100,
+    "median_issue_close_days": 0.37449074074074074,
+    "median_pr_close_days": 0.22435185185185186,
+    "open_issues": 9,
+    "closed_issues_sampled": 16,
+    "contributors_12mo": 2,
+    "top_author_commit_share": 0.9987834549878345,
+    "top_author": {
+      "login": "connorgallopo",
+      "account_created_at": "2016-08-31T21:38:01Z",
+      "other_repos_star_sum": 2695
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 18944
+  }
+}

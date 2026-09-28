@@ -1,0 +1,29 @@
+{
+  "slug": "mrnetwork0001/inktoll",
+  "fetched_at": "2026-09-28T05:26:41.575234216Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 60,
+    "forks": 0,
+    "description": "A decentralized micro-settlement protocol enabling autonomous AI agents to pay publishers for premium content via Circle Programmable Wallets and x402 nanopayments.",
+    "license_spdx": null,
+    "last_commit_at": "2026-09-19T11:47:51Z",
+    "commits_90d": 162,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.0021006944444444445,
+    "open_issues": 2,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "mrnetwork0001",
+      "account_created_at": "2026-01-17T18:50:15Z",
+      "other_repos_star_sum": 68
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 10686
+  }
+}

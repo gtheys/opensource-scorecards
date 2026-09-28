@@ -1,0 +1,25 @@
+{
+  "slug": "mirror-engine/the-mirror",
+  "fetched_at": "2026-09-28T05:24:05.307301757Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1302,
+    "forks": 130,
+    "description": "V1, Mirror Classic. V2, Mirror Engine: Join Discord for access.",
+    "license_spdx": "NOASSERTION",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 33.42885416666667,
+    "median_pr_close_days": 1.0190625,
+    "open_issues": 79,
+    "closed_issues_sampled": 5,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 6870
+  }
+}

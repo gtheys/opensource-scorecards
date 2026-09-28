@@ -1,0 +1,29 @@
+{
+  "slug": "pentacent/keila",
+  "fetched_at": "2026-09-28T05:41:57.490025149Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 2224,
+    "forks": 168,
+    "description": "Open Source Newsletter Tool.",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": "2026-09-21T14:41:02Z",
+    "commits_90d": 34,
+    "releases_365d": 9,
+    "median_issue_close_days": 43.150480324074074,
+    "median_pr_close_days": 4.024386574074074,
+    "open_issues": 80,
+    "closed_issues_sampled": 32,
+    "contributors_12mo": 14,
+    "top_author_commit_share": 0.884514435695538,
+    "top_author": {
+      "login": "wmnnd",
+      "account_created_at": "2014-05-05T12:37:57Z",
+      "other_repos_star_sum": 3311
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 3540
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "hydra-synth/hydra",
+  "fetched_at": "2026-09-28T05:01:44.479050326Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 2717,
+    "forks": 315,
+    "description": "Livecoding networked visuals in the browser",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": "2026-04-25T13:24:13Z",
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 2.262986111111111,
+    "median_pr_close_days": 0.013599537037037037,
+    "open_issues": 98,
+    "closed_issues_sampled": 15,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "ojack",
+      "account_created_at": "2013-07-01T17:58:48Z",
+      "other_repos_star_sum": 741
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 28308
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "brianshea2/addr.tools",
+  "fetched_at": "2026-09-28T04:30:39.728586257Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 2585,
+    "forks": 87,
+    "description": "possibly useful tools for the Internet",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": "2026-09-14T03:44:36Z",
+    "commits_90d": 15,
+    "releases_365d": 0,
+    "median_issue_close_days": 2.016678240740741,
+    "median_pr_close_days": 0.15737268518518518,
+    "open_issues": 0,
+    "closed_issues_sampled": 38,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "brianshea2",
+      "account_created_at": "2024-04-03T03:17:17Z",
+      "other_repos_star_sum": 2986
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 1635
+  }
+}

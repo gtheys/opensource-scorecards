@@ -1,0 +1,29 @@
+{
+  "slug": "cs3org/reva",
+  "fetched_at": "2026-09-28T04:39:23.692134266Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 219,
+    "forks": 149,
+    "description": "WebDAV/gRPC/HTTP high performance server to link high level clients to storage backends",
+    "license_spdx": "Apache-2.0",
+    "last_commit_at": "2026-09-22T12:47:22Z",
+    "commits_90d": 83,
+    "releases_365d": 34,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 1.50515625,
+    "open_issues": 75,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 13,
+    "top_author_commit_share": 0.5379939209726444,
+    "top_author": {
+      "login": "jessegeens",
+      "account_created_at": "2014-04-14T13:00:16Z",
+      "other_repos_star_sum": 2
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 4306
+  }
+}

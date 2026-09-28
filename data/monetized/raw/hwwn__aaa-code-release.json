@@ -1,0 +1,29 @@
+{
+  "slug": "hwwn/aaa-code-release",
+  "fetched_at": "2026-09-28T05:01:29.534283161Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 128,
+    "forks": 9,
+    "description": "Cross-platform Claude Code desktop client by hwwn. Multi-workspace, remote mobile access, session branching, BYO LLM. macOS / Windows / Linux.",
+    "license_spdx": null,
+    "last_commit_at": "2026-06-26T10:10:35Z",
+    "commits_90d": 0,
+    "releases_365d": 16,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.0019212962962962964,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "hwwn",
+      "account_created_at": "2015-09-30T19:48:46Z",
+      "other_repos_star_sum": 231
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 14169
+  }
+}

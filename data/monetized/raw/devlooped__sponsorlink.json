@@ -1,0 +1,29 @@
+{
+  "slug": "devlooped/sponsorlink",
+  "fetched_at": "2026-09-28T04:42:42.971447845Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 42,
+    "forks": 4,
+    "description": "SponsorLink: an attempt at OSS sustainability",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-22T12:41:17Z",
+    "commits_90d": 9,
+    "releases_365d": 6,
+    "median_issue_close_days": 733.9366203703704,
+    "median_pr_close_days": 17.185850694444444,
+    "open_issues": 11,
+    "closed_issues_sampled": 2,
+    "contributors_12mo": 3,
+    "top_author_commit_share": 0.8783783783783784,
+    "top_author": {
+      "login": "kzu",
+      "account_created_at": "2009-12-19T06:07:30Z",
+      "other_repos_star_sum": 135
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 9713
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "regebro/supporting-python-3",
+  "fetched_at": "2026-09-28T05:48:37.929891816Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 273,
+    "forks": 27,
+    "description": "Supporting Python 3",
+    "license_spdx": null,
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 173.56096643518518,
+    "median_pr_close_days": 0.16512731481481482,
+    "open_issues": 12,
+    "closed_issues_sampled": 4,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 4307
+  }
+}

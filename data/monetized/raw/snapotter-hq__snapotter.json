@@ -1,0 +1,29 @@
+{
+  "slug": "snapotter-hq/snapotter",
+  "fetched_at": "2026-09-28T06:14:50.035369812Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 2751,
+    "forks": 154,
+    "description": "Open-source, self-hosted file-processing tool. Convert, compress, OCR, transcribe & run local AI across image, video, audio, PDF & documents, via UI, REST API & pipelines. Your files never leave your network.",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": "2026-09-28T03:28:00Z",
+    "commits_90d": 447,
+    "releases_365d": 47,
+    "median_issue_close_days": 0.9304976851851852,
+    "median_pr_close_days": 0.027430555555555555,
+    "open_issues": 292,
+    "closed_issues_sampled": 23,
+    "contributors_12mo": 16,
+    "top_author_commit_share": 0.9679089026915114,
+    "top_author": {
+      "login": "snapotter-hq",
+      "account_created_at": "2026-04-23T13:51:34Z",
+      "other_repos_star_sum": 2757
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 11613
+  }
+}

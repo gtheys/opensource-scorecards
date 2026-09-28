@@ -1,0 +1,29 @@
+{
+  "slug": "ireaderorg/ireader",
+  "fetched_at": "2026-09-28T05:05:41.336351325Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 955,
+    "forks": 68,
+    "description": "Free and open source novel reader for Android and Desktop.",
+    "license_spdx": "Apache-2.0",
+    "last_commit_at": "2026-09-24T22:13:48Z",
+    "commits_90d": 127,
+    "releases_365d": 46,
+    "median_issue_close_days": 50.577702546296294,
+    "median_pr_close_days": 0.9148553240740741,
+    "open_issues": 16,
+    "closed_issues_sampled": 26,
+    "contributors_12mo": 4,
+    "top_author_commit_share": 0.9911894273127754,
+    "top_author": {
+      "login": "kazemcodes",
+      "account_created_at": "2020-12-23T12:09:09Z",
+      "other_repos_star_sum": 40
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 7520
+  }
+}

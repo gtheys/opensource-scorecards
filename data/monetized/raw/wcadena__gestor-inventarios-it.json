@@ -1,0 +1,25 @@
+{
+  "slug": "wcadena/gestor-inventarios-it",
+  "fetched_at": "2026-09-28T06:34:20.097197098Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 29,
+    "forks": 23,
+    "description": "Sistema de Gestión de Activos Fijos con Laravel 5.8",
+    "license_spdx": "EPL-1.0",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 160.6577199074074,
+    "median_pr_close_days": 0.0003125,
+    "open_issues": 38,
+    "closed_issues_sampled": 2,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": true,
+    "readme_len": 1563
+  }
+}

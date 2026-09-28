@@ -1,0 +1,29 @@
+{
+  "slug": "byte4geek/switch-dashboard",
+  "fetched_at": "2026-09-28T04:31:54.346858920Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 69,
+    "forks": 10,
+    "description": "A premium, real-time glassmorphic monitoring dashboard for HORACO HC-SWTGW218AS and OEM managed switches included RTLPlaygroung. Uses lightweight HTTP CGI scraping (no SNMP needed) and features rolling bandwidth charts, on-demand SFP+ transceiver optical DDMI diagnostics, and searchable MAC address tables.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-15T08:20:00Z",
+    "commits_90d": 5,
+    "releases_365d": 8,
+    "median_issue_close_days": 29.66876736111111,
+    "median_pr_close_days": 21.69877314814815,
+    "open_issues": 3,
+    "closed_issues_sampled": 10,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "byte4geek",
+      "account_created_at": "2014-09-05T10:12:06Z",
+      "other_repos_star_sum": 281
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 35440
+  }
+}

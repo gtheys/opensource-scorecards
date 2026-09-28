@@ -1,0 +1,29 @@
+{
+  "slug": "aws-solutions-library-samples/guidance-for-advertising-agents-on-aws",
+  "fetched_at": "2026-09-28T04:25:22.776226410Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 21,
+    "forks": 7,
+    "description": "This guidance demonstrates how to deploy a comprehensive agentic application for advertising workflows using Amazon Bedrock AgentCore. The solution showcases advanced multi-agent collaboration across the entire advertising value chain - from strategic media planning and audience targeting to real-time bid optimization and publisher revenue manageme",
+    "license_spdx": "MIT-0",
+    "last_commit_at": "2026-09-15T20:26:04Z",
+    "commits_90d": 37,
+    "releases_365d": 0,
+    "median_issue_close_days": 20.37267361111111,
+    "median_pr_close_days": 1.193912037037037,
+    "open_issues": 10,
+    "closed_issues_sampled": 3,
+    "contributors_12mo": 3,
+    "top_author_commit_share": 0.8,
+    "top_author": {
+      "login": "zellest",
+      "account_created_at": "2023-09-17T17:51:27Z",
+      "other_repos_star_sum": 0
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 95964
+  }
+}

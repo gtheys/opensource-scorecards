@@ -1,0 +1,25 @@
+{
+  "slug": "novuhq/novu-dotnet",
+  "fetched_at": "2026-09-28T05:30:29.587519230Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 28,
+    "forks": 12,
+    "description": ".NET SDK for Novu - The open-source notification infrastructure for engineers. 🚀",
+    "license_spdx": "MIT",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 16.886087962962964,
+    "median_pr_close_days": 1.3691377314814814,
+    "open_issues": 12,
+    "closed_issues_sampled": 30,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 39437
+  }
+}

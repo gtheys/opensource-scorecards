@@ -1,0 +1,29 @@
+{
+  "slug": "botcahx/rtxzy-md",
+  "fetched_at": "2026-09-28T04:30:11.533143399Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 461,
+    "forks": 538,
+    "description": "WhatsApp Bot Multi Device Latest Version. Jangan lupa tap bintang nya!🌟 ",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-19T13:15:36Z",
+    "commits_90d": 31,
+    "releases_365d": 0,
+    "median_issue_close_days": 2.4008506944444443,
+    "median_pr_close_days": 0.002465277777777778,
+    "open_issues": 4,
+    "closed_issues_sampled": 20,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "BOTCAHX",
+      "account_created_at": "2021-11-10T18:25:46Z",
+      "other_repos_star_sum": 58
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 9222
+  }
+}

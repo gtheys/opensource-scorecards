@@ -1,0 +1,25 @@
+{
+  "slug": "codehagen/badget",
+  "fetched_at": "2026-09-28T04:36:50.704600828Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 2780,
+    "forks": 306,
+    "description": "Badget aims to simplify financial management with a user-friendly interface and robust backend",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 2.0202546296296298,
+    "median_pr_close_days": 0.31350694444444444,
+    "open_issues": 3,
+    "closed_issues_sampled": 15,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 7806
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "degoog-org/degoog",
+  "fetched_at": "2026-09-28T04:42:20.636379727Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 2151,
+    "forks": 99,
+    "description": "Search engine aggregator with a comprehensive plugin/extension system",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": "2026-09-13T13:11:41Z",
+    "commits_90d": 163,
+    "releases_365d": 37,
+    "median_issue_close_days": 19.68525462962963,
+    "median_pr_close_days": 0.2597685185185185,
+    "open_issues": 22,
+    "closed_issues_sampled": 21,
+    "contributors_12mo": 26,
+    "top_author_commit_share": 0.6608391608391608,
+    "top_author": {
+      "login": "riofriz",
+      "account_created_at": "2016-02-11T09:50:29Z",
+      "other_repos_star_sum": 6
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 7576
+  }
+}

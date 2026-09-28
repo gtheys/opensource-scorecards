@@ -1,0 +1,29 @@
+{
+  "slug": "didacthq/didact",
+  "fetched_at": "2026-09-28T04:43:23.544524944Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 162,
+    "forks": 2,
+    "description": "The open core .NET job orchestrator that we've been missing",
+    "license_spdx": "NOASSERTION",
+    "last_commit_at": "2026-09-03T22:50:46Z",
+    "commits_90d": 53,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.00009259259259259259,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "DMiradakis",
+      "account_created_at": "2019-07-26T14:57:58Z",
+      "other_repos_star_sum": 12
+    },
+    "has_ci": false,
+    "has_tests": true,
+    "readme_len": 1035
+  }
+}

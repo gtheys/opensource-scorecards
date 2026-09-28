@@ -1,0 +1,29 @@
+{
+  "slug": "goauthentik/helm",
+  "fetched_at": "2026-09-28T04:57:10.906764183Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 185,
+    "forks": 70,
+    "description": "Helm chart for authentik",
+    "license_spdx": "GPL-3.0",
+    "last_commit_at": "2026-09-18T11:54:34Z",
+    "commits_90d": 6,
+    "releases_365d": 24,
+    "median_issue_close_days": 0.6172222222222222,
+    "median_pr_close_days": 0.46489583333333334,
+    "open_issues": 38,
+    "closed_issues_sampled": 5,
+    "contributors_12mo": 15,
+    "top_author_commit_share": 0.16,
+    "top_author": {
+      "login": "rissson",
+      "account_created_at": "2016-04-06T17:36:25Z",
+      "other_repos_star_sum": 30
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 652
+  }
+}

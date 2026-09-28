@@ -1,0 +1,25 @@
+{
+  "slug": "triliumnext/notes",
+  "fetched_at": "2026-09-28T06:25:56.854139254Z",
+  "status": "ok",
+  "data": {
+    "archived": true,
+    "stars": 2926,
+    "forks": 152,
+    "description": "Build your personal knowledge base with TriliumNext Notes",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 1.2257291666666665,
+    "open_issues": 1,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 213
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "eliautobot/my-virtual-office",
+  "fetched_at": "2026-09-28T04:47:37.871699018Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 332,
+    "forks": 75,
+    "description": "A self-hosted 2D AI workspace for AI Agents",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": "2026-08-15T11:09:14Z",
+    "commits_90d": 22,
+    "releases_365d": 56,
+    "median_issue_close_days": 1.3844444444444444,
+    "median_pr_close_days": 1.6261284722222222,
+    "open_issues": 7,
+    "closed_issues_sampled": 5,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "eliautobot",
+      "account_created_at": "2026-03-20T19:39:18Z",
+      "other_repos_star_sum": 411
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 19878
+  }
+}

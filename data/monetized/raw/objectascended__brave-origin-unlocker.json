@@ -1,0 +1,29 @@
+{
+  "slug": "objectascended/brave-origin-unlocker",
+  "fetched_at": "2026-09-28T05:31:39.477509254Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 314,
+    "forks": 37,
+    "description": "Unlock premium features in Brave Origin for Windows & MacOS. This Deno-based script bypasses purchase validation by safely updating local state configurations.",
+    "license_spdx": null,
+    "last_commit_at": "2026-06-19T08:27:45Z",
+    "commits_90d": 0,
+    "releases_365d": 5,
+    "median_issue_close_days": 0.3893171296296296,
+    "median_pr_close_days": 0.6716782407407408,
+    "open_issues": 0,
+    "closed_issues_sampled": 9,
+    "contributors_12mo": 3,
+    "top_author_commit_share": 0.6428571428571429,
+    "top_author": {
+      "login": "ObjectAscended",
+      "account_created_at": "2021-10-27T03:47:19Z",
+      "other_repos_star_sum": 889
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 2777
+  }
+}

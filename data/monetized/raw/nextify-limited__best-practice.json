@@ -1,0 +1,25 @@
+{
+  "slug": "nextify-limited/best-practice",
+  "fetched_at": "2026-09-28T05:29:01.581509685Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 394,
+    "forks": 25,
+    "description": "Best practices for building a SaaS startup. I use it and recommend it.",
+    "license_spdx": "NOASSERTION",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 0.4068287037037037,
+    "median_pr_close_days": 0.0011458333333333333,
+    "open_issues": 0,
+    "closed_issues_sampled": 1,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 7149
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "daeuniverse/gg",
+  "fetched_at": "2026-09-28T04:40:29.693225718Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1937,
+    "forks": 155,
+    "description": "一个支持节点与订阅链接的 Linux 命令行代理工具 | A command-line tool for one-click proxy in your research and development without installing v2ray or anything else (only for linux)",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": "2026-07-06T16:26:16Z",
+    "commits_90d": 2,
+    "releases_365d": 0,
+    "median_issue_close_days": 8.209583333333333,
+    "median_pr_close_days": 0.5458564814814815,
+    "open_issues": 48,
+    "closed_issues_sampled": 37,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "akiooo45",
+      "account_created_at": "2021-03-02T15:02:03Z",
+      "other_repos_star_sum": 16
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 7974
+  }
+}

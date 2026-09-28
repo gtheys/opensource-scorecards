@@ -1,0 +1,29 @@
+{
+  "slug": "nachoofc/nachoofc",
+  "fetched_at": "2026-09-28T05:27:38.404244879Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 32,
+    "forks": 0,
+    "description": "Perfil oficial de Ignacio Pérez — Ingeniero Informático. Especialista en Python, Vue.js, Nuxt y arquitecturas de bases de datos.",
+    "license_spdx": null,
+    "last_commit_at": "2026-09-14T14:13:25Z",
+    "commits_90d": 92,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.00011574074074074075,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "NachoOFC",
+      "account_created_at": "2022-05-14T03:54:41Z",
+      "other_repos_star_sum": 549
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 16642
+  }
+}

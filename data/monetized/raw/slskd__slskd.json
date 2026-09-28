@@ -1,0 +1,29 @@
+{
+  "slug": "slskd/slskd",
+  "fetched_at": "2026-09-28T06:14:29.786141246Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 3984,
+    "forks": 173,
+    "description": "A modern client-server application for the Soulseek file sharing network.",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": "2026-09-27T18:17:41Z",
+    "commits_90d": 107,
+    "releases_365d": 9,
+    "median_issue_close_days": 7.606064814814815,
+    "median_pr_close_days": 0.6262615740740741,
+    "open_issues": 191,
+    "closed_issues_sampled": 19,
+    "contributors_12mo": 11,
+    "top_author_commit_share": 0.9515463917525773,
+    "top_author": {
+      "login": "jpdillingham",
+      "account_created_at": "2016-02-09T16:49:31Z",
+      "other_repos_star_sum": 185
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 6416
+  }
+}

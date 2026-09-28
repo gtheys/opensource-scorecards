@@ -1,0 +1,29 @@
+{
+  "slug": "mozilla/fx-private-relay",
+  "fetched_at": "2026-09-28T05:26:17.796921619Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1783,
+    "forks": 280,
+    "description": "Keep your email safe from hackers and trackers. Make an email alias with 1 click, and keep your address to yourself.",
+    "license_spdx": "NOASSERTION",
+    "last_commit_at": "2026-09-21T16:15:56Z",
+    "commits_90d": 65,
+    "releases_365d": 52,
+    "median_issue_close_days": 0.9854976851851852,
+    "median_pr_close_days": 0.035509259259259254,
+    "open_issues": 34,
+    "closed_issues_sampled": 2,
+    "contributors_12mo": 7,
+    "top_author_commit_share": 0.539622641509434,
+    "top_author": {
+      "login": "groovecoder",
+      "account_created_at": "2009-04-08T22:14:44Z",
+      "other_repos_star_sum": 76
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 15330
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "ralphtheninja/open-funding",
+  "fetched_at": "2026-09-28T05:47:35.247864966Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 909,
+    "forks": 58,
+    "description": "A guide for researching ways of funding open source projects.",
+    "license_spdx": null,
+    "last_commit_at": "2026-03-17T05:15:05Z",
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 28.280636574074073,
+    "median_pr_close_days": 0.6373553240740741,
+    "open_issues": 12,
+    "closed_issues_sampled": 8,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "matkoniecz",
+      "account_created_at": "2011-07-07T07:45:36Z",
+      "other_repos_star_sum": 136
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 85725
+  }
+}

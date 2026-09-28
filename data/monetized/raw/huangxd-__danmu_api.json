@@ -1,0 +1,29 @@
+{
+  "slug": "huangxd-/danmu_api",
+  "fetched_at": "2026-09-28T05:01:23.004750456Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 3194,
+    "forks": 3049,
+    "description": "一个人人都能部署的基于 js 的弹幕 API 服务器，支持爱优腾芒哔咪人韩巴狐乐西埋帆红弹幕直接获取，兼容弹弹play的搜索、详情查询和弹幕获取接口规范，并提供日志记录，支持vercel/netlify/edgeone/cloudflare/docker/hf等部署方式，不用提前下载弹幕，没有nas或小鸡也能一键部署。",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": "2026-09-26T08:21:51Z",
+    "commits_90d": 102,
+    "releases_365d": 0,
+    "median_issue_close_days": 3.2546122685185184,
+    "median_pr_close_days": 1.0501388888888887,
+    "open_issues": 17,
+    "closed_issues_sampled": 4,
+    "contributors_12mo": 21,
+    "top_author_commit_share": 0.49746192893401014,
+    "top_author": {
+      "login": "huangxd-",
+      "account_created_at": "2012-07-04T07:11:09Z",
+      "other_repos_star_sum": 3508
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 77803
+  }
+}

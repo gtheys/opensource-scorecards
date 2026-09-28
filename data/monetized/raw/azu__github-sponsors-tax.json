@@ -1,0 +1,29 @@
+{
+  "slug": "azu/github-sponsors-tax",
+  "fetched_at": "2026-09-28T04:26:04.989153291Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 177,
+    "forks": 4,
+    "description": "GitHub Sponsorsの確定申告手順",
+    "license_spdx": "CC0-1.0",
+    "last_commit_at": "2026-02-11T09:26:58Z",
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 10.324409722222223,
+    "median_pr_close_days": 0.0007349537037037038,
+    "open_issues": 0,
+    "closed_issues_sampled": 5,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "azu",
+      "account_created_at": "2008-08-06T05:42:30Z",
+      "other_repos_star_sum": 1180
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 6791
+  }
+}

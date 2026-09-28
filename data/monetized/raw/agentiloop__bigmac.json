@@ -1,0 +1,25 @@
+{
+  "slug": "agentiloop/bigmac",
+  "fetched_at": "2026-09-28T04:19:00.558184494Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 477,
+    "forks": 55,
+    "description": "Big Mac, macOS 11 Big Sur and macOS Monterey disk installer and back up tool for Intel based Macs",
+    "license_spdx": "NOASSERTION",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 244.36870949074074,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 50,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 7216
+  }
+}

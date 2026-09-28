@@ -1,0 +1,29 @@
+{
+  "slug": "hgjazhgj/fgo-py",
+  "fetched_at": "2026-09-28T05:00:07.841619594Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 2036,
+    "forks": 202,
+    "description": "自动爬塔! 自动每周任务! 全自动免配置跨平台的Fate/Grand Order助手.启动脚本,上床睡觉,养肝护发,满加成圣诞了解一下?",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": "2026-08-22T16:20:13Z",
+    "commits_90d": 5,
+    "releases_365d": 0,
+    "median_issue_close_days": 0.3794444444444445,
+    "median_pr_close_days": 2.375636574074074,
+    "open_issues": 11,
+    "closed_issues_sampled": 40,
+    "contributors_12mo": 2,
+    "top_author_commit_share": 0.7142857142857143,
+    "top_author": {
+      "login": "hgjazhgj",
+      "account_created_at": "2018-06-09T05:40:28Z",
+      "other_repos_star_sum": 2511
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 19419
+  }
+}

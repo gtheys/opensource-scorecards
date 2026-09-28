@@ -1,0 +1,25 @@
+{
+  "slug": "tidalcycles/strudel",
+  "fetched_at": "2026-09-28T06:23:50.823297685Z",
+  "status": "ok",
+  "data": {
+    "archived": true,
+    "stars": 3032,
+    "forks": 257,
+    "description": "MOVED TO CODEBERG - Web-based environment for live coding algorithmic patterns, incorporating a faithful port of TidalCycles to JavaScript",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 2.65744212962963,
+    "median_pr_close_days": 1.1300925925925926,
+    "open_issues": 286,
+    "closed_issues_sampled": 5,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 157
+  }
+}

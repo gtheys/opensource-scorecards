@@ -1,0 +1,29 @@
+{
+  "slug": "mafifrizi/ares",
+  "fetched_at": "2026-09-28T05:18:25.356993729Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 484,
+    "forks": 89,
+    "description": "ARES - authorized red-team engagement automation with dashboard, campaign scope, module orchestration, OPSEC controls, encrypted vault, and reporting.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-27T17:31:37Z",
+    "commits_90d": 378,
+    "releases_365d": 1,
+    "median_issue_close_days": 0.019039351851851852,
+    "median_pr_close_days": 0.0022453703703703707,
+    "open_issues": 8,
+    "closed_issues_sampled": 3,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "Mafifrizi",
+      "account_created_at": "2025-09-06T04:46:04Z",
+      "other_repos_star_sum": 488
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 51576
+  }
+}

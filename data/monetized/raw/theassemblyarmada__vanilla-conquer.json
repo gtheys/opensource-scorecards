@@ -1,0 +1,29 @@
+{
+  "slug": "theassemblyarmada/vanilla-conquer",
+  "fetched_at": "2026-09-28T06:22:35.994431325Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 463,
+    "forks": 90,
+    "description": "Vanilla Conquer provides clean, cross-platform builds of the C&C Remastered Collection and the standalone legacy games.",
+    "license_spdx": "NOASSERTION",
+    "last_commit_at": "2026-07-16T13:57:16Z",
+    "commits_90d": 9,
+    "releases_365d": 1,
+    "median_issue_close_days": 1263.4545833333334,
+    "median_pr_close_days": 1.8793576388888888,
+    "open_issues": 332,
+    "closed_issues_sampled": 16,
+    "contributors_12mo": 3,
+    "top_author_commit_share": 0.6666666666666666,
+    "top_author": {
+      "login": "OmniBlade",
+      "account_created_at": "2012-11-16T10:43:19Z",
+      "other_repos_star_sum": 135
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 7152
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "gomuks/gomuks",
+  "fetched_at": "2026-09-28T04:57:25.009196821Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1727,
+    "forks": 154,
+    "description": "A Matrix client written in Go.",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": "2026-09-25T23:03:17Z",
+    "commits_90d": 322,
+    "releases_365d": 11,
+    "median_issue_close_days": 61.67138888888889,
+    "median_pr_close_days": 1.4992824074074074,
+    "open_issues": 81,
+    "closed_issues_sampled": 31,
+    "contributors_12mo": 7,
+    "top_author_commit_share": 0.9824797843665768,
+    "top_author": {
+      "login": "tulir",
+      "account_created_at": "2013-04-22T12:48:31Z",
+      "other_repos_star_sum": 647
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 1777
+  }
+}

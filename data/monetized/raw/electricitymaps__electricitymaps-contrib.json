@@ -1,0 +1,29 @@
+{
+  "slug": "electricitymaps/electricitymaps-contrib",
+  "fetched_at": "2026-09-28T04:46:51.901743012Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 4034,
+    "forks": 1061,
+    "description": "The open source repository for Electricity Maps data parsers that powers the world's most comprehensive electricity data platform",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": "2026-09-25T11:43:29Z",
+    "commits_90d": 80,
+    "releases_365d": 32,
+    "median_issue_close_days": 730.6697743055555,
+    "median_pr_close_days": 1.9214872685185185,
+    "open_issues": 128,
+    "closed_issues_sampled": 4,
+    "contributors_12mo": 38,
+    "top_author_commit_share": 0.36538461538461536,
+    "top_author": {
+      "login": "electricitymapsbot",
+      "account_created_at": "2023-09-08T08:51:09Z",
+      "other_repos_star_sum": 0
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 6421
+  }
+}

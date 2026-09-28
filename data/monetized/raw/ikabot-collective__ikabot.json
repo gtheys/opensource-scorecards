@@ -1,0 +1,29 @@
+{
+  "slug": "ikabot-collective/ikabot",
+  "fetched_at": "2026-09-28T05:03:27.433380268Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 130,
+    "forks": 103,
+    "description": "A Python-based bot designed for automating tasks in the game Ikariam",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-20T06:48:12Z",
+    "commits_90d": 47,
+    "releases_365d": 24,
+    "median_issue_close_days": 264.816412037037,
+    "median_pr_close_days": 0.5528182870370371,
+    "open_issues": 24,
+    "closed_issues_sampled": 6,
+    "contributors_12mo": 15,
+    "top_author_commit_share": 0.3838383838383838,
+    "top_author": {
+      "login": "nfontan",
+      "account_created_at": "2019-06-15T17:29:15Z",
+      "other_repos_star_sum": 1
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 1430
+  }
+}

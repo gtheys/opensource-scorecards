@@ -1,0 +1,25 @@
+{
+  "slug": "gmr/glyphicons-sprite-generator",
+  "fetched_at": "2026-09-28T04:57:00.750443657Z",
+  "status": "ok",
+  "data": {
+    "archived": true,
+    "stars": 47,
+    "forks": 14,
+    "description": "The GLYPHICONS Sprite Generator allows you to change the size and colors of the Bootstap icons using the Free or Pro versions of GLYPHICONS.",
+    "license_spdx": "BSD-3-Clause",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 433.97075810185186,
+    "median_pr_close_days": 3.4727083333333333,
+    "open_issues": 4,
+    "closed_issues_sampled": 2,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 3187
+  }
+}

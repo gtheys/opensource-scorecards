@@ -1,0 +1,29 @@
+{
+  "slug": "bartei/wiregui",
+  "fetched_at": "2026-09-28T04:26:47.941942195Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 76,
+    "forks": 5,
+    "description": "Firezone Inspired Wireguard VPN Server and nftables Firewall",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": "2026-09-27T00:17:38Z",
+    "commits_90d": 19,
+    "releases_365d": 23,
+    "median_issue_close_days": 4.196296296296296,
+    "median_pr_close_days": 0.010891203703703703,
+    "open_issues": 2,
+    "closed_issues_sampled": 2,
+    "contributors_12mo": 3,
+    "top_author_commit_share": 0.603448275862069,
+    "top_author": {
+      "login": "bartei81",
+      "account_created_at": "2016-01-15T17:53:24Z",
+      "other_repos_star_sum": 0
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 6427
+  }
+}

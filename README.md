@@ -47,6 +47,7 @@ SVG, work on any README, and link back to the full score breakdown.
 | [Herdr plugins](https://gtheys.github.io/opensource-scorecards/herdr.html) | ~2,066 scored | [awesome-herdr](https://github.com/yigitkonur/awesome-herdr) |
 | [Neovim plugins](https://gtheys.github.io/opensource-scorecards/neovim.html) | ~1,328 scored | [awesome-neovim](https://github.com/rockerBOO/awesome-neovim) |
 | [Pi extensions](https://gtheys.github.io/opensource-scorecards/pi.html) | 73 scored | [awesome-pi](https://github.com/BubblePtr/awesome-pi) |
+| [Monetized OSS](https://gtheys.github.io/opensource-scorecards/monetized.html) | ~1,118 repos | GitHub search for monetization signals (sponsors, funding, open-core) |
 
 Missing your favourite ecosystem? [Open an issue](https://github.com/gtheys/opensource-scorecards/issues) -
 adding a category is a config entry plus an awesome-list URL.

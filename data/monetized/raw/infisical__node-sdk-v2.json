@@ -1,0 +1,29 @@
+{
+  "slug": "infisical/node-sdk-v2",
+  "fetched_at": "2026-09-28T05:04:44.139547746Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 43,
+    "forks": 12,
+    "description": "The official node sdk v2",
+    "license_spdx": "NOASSERTION",
+    "last_commit_at": "2026-09-23T22:20:24Z",
+    "commits_90d": 2,
+    "releases_365d": 3,
+    "median_issue_close_days": 57.021875,
+    "median_pr_close_days": 1.8432986111111112,
+    "open_issues": 10,
+    "closed_issues_sampled": 7,
+    "contributors_12mo": 5,
+    "top_author_commit_share": 0.4782608695652174,
+    "top_author": {
+      "login": "adilsitos",
+      "account_created_at": "2018-08-26T13:59:35Z",
+      "other_repos_star_sum": 5
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 2419
+  }
+}

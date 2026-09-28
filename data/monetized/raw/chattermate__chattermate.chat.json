@@ -1,0 +1,29 @@
+{
+  "slug": "chattermate/chattermate.chat",
+  "fetched_at": "2026-09-28T04:33:41.523218797Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 124,
+    "forks": 51,
+    "description": "Open-source AI customer support platform — AI chatbot with human handoff, Shopify & Slack integrations, visual workflow builder. Self-hosted alternative to Intercom & Zendesk. Apache-2.0.",
+    "license_spdx": "Apache-2.0",
+    "last_commit_at": "2026-09-23T06:24:19Z",
+    "commits_90d": 485,
+    "releases_365d": 19,
+    "median_issue_close_days": 3.675329861111111,
+    "median_pr_close_days": 0.09499421296296295,
+    "open_issues": 6,
+    "closed_issues_sampled": 14,
+    "contributors_12mo": 5,
+    "top_author_commit_share": 0.9293333333333333,
+    "top_author": {
+      "login": "chattermate",
+      "account_created_at": "2025-01-28T06:54:48Z",
+      "other_repos_star_sum": 124
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 27476
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "modelpointer/modelpointer",
+  "fetched_at": "2026-09-28T05:24:12.963092531Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 118,
+    "forks": 1,
+    "description": "A high-performance AI gateway written in Rust. It sits in front of your LLM backends and exposes a unified API surface to clients, handling routing, load balancing, rate limiting, and observability.",
+    "license_spdx": "Apache-2.0",
+    "last_commit_at": "2026-08-24T14:44:11Z",
+    "commits_90d": 16,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 29457
+  }
+}

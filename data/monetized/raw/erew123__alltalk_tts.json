@@ -1,0 +1,25 @@
+{
+  "slug": "erew123/alltalk_tts",
+  "fetched_at": "2026-09-28T04:48:26.388901466Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 2433,
+    "forks": 284,
+    "description": "AllTalk is based on the Coqui TTS engine, similar to the Coqui_tts extension for Text generation webUI, however supports a variety of advanced features, such as a settings page, low VRAM support, DeepSpeed, narrator, model finetuning, custom models, wav file maintenance. It can also be used with 3rd Party software via JSON calls. ",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 3.5556134259259258,
+    "median_pr_close_days": 2.8622569444444443,
+    "open_issues": 84,
+    "closed_issues_sampled": 21,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 111877
+  }
+}

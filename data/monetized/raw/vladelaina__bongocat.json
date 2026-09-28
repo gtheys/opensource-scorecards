@@ -1,0 +1,29 @@
+{
+  "slug": "vladelaina/bongocat",
+  "fetched_at": "2026-09-28T06:33:16.292580091Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 3108,
+    "forks": 67,
+    "description": "🩷 💘C × SDL3 × OpenGL — Three Mysterious Forces, United as One! Bong~ Bongocat!!!Don't be shy, Join Here🧸: https://discord.gg/vf8jqnattk",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": "2026-09-28T06:20:30Z",
+    "commits_90d": 572,
+    "releases_365d": 1,
+    "median_issue_close_days": 0.0994675925925926,
+    "median_pr_close_days": 0.019594907407407408,
+    "open_issues": 45,
+    "closed_issues_sampled": 12,
+    "contributors_12mo": 13,
+    "top_author_commit_share": 0.9388111888111889,
+    "top_author": {
+      "login": "vladelaina",
+      "account_created_at": "2024-09-26T11:24:32Z",
+      "other_repos_star_sum": 8137
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 17830
+  }
+}

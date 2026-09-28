@@ -1,0 +1,29 @@
+{
+  "slug": "browser-use/workflow-use",
+  "fetched_at": "2026-09-28T04:31:14.768589545Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 4196,
+    "forks": 353,
+    "description": "⚙️ Create and run workflows (RPA 2.0)",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": "2026-08-27T18:04:59Z",
+    "commits_90d": 6,
+    "releases_365d": 11,
+    "median_issue_close_days": 0.974386574074074,
+    "median_pr_close_days": 0.016724537037037038,
+    "open_issues": 63,
+    "closed_issues_sampled": 8,
+    "contributors_12mo": 5,
+    "top_author_commit_share": 0.8666666666666667,
+    "top_author": {
+      "login": "sauravpanda",
+      "account_created_at": "2015-05-01T17:43:25Z",
+      "other_repos_star_sum": 1553
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 8243
+  }
+}

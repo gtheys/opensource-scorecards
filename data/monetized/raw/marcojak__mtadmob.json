@@ -1,0 +1,25 @@
+{
+  "slug": "marcojak/mtadmob",
+  "fetched_at": "2026-09-28T05:19:20.858976227Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 156,
+    "forks": 21,
+    "description": "Admob plugin for Xamarin Android and iOS",
+    "license_spdx": null,
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 51.41079282407407,
+    "median_pr_close_days": 1.1444328703703703,
+    "open_issues": 39,
+    "closed_issues_sampled": 46,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 3711
+  }
+}

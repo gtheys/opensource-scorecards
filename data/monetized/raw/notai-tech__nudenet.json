@@ -1,0 +1,25 @@
+{
+  "slug": "notai-tech/nudenet",
+  "fetched_at": "2026-09-28T05:30:10.381091246Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 2456,
+    "forks": 435,
+    "description": "Lightweight nudity detection",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 3.4880439814814816,
+    "median_pr_close_days": 5.959375,
+    "open_issues": 90,
+    "closed_issues_sampled": 39,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 3654
+  }
+}

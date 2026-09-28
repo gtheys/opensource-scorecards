@@ -1,0 +1,29 @@
+{
+  "slug": "getfider/fider",
+  "fetched_at": "2026-09-28T04:55:40.780464584Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 4545,
+    "forks": 858,
+    "description": "Open platform to collect and prioritize feedback",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": "2026-09-23T18:37:12Z",
+    "commits_90d": 60,
+    "releases_365d": 9,
+    "median_issue_close_days": 40.82233796296296,
+    "median_pr_close_days": 3.239097222222222,
+    "open_issues": 64,
+    "closed_issues_sampled": 4,
+    "contributors_12mo": 19,
+    "top_author_commit_share": 0.8329571106094809,
+    "top_author": {
+      "login": "mattwoberts",
+      "account_created_at": "2009-07-27T20:46:39Z",
+      "other_repos_star_sum": 32
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 2320
+  }
+}

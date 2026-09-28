@@ -1,0 +1,25 @@
+{
+  "slug": "filiptronicek/gh-sponsors-api",
+  "fetched_at": "2026-09-28T04:51:10.164794089Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 41,
+    "forks": 5,
+    "description": "A REST API for GitHub Sponsors",
+    "license_spdx": "MIT",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 52.335914351851855,
+    "median_pr_close_days": 7.997719907407407,
+    "open_issues": 3,
+    "closed_issues_sampled": 9,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 3835
+  }
+}

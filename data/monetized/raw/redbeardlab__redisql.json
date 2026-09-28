@@ -1,0 +1,25 @@
+{
+  "slug": "redbeardlab/redisql",
+  "fetched_at": "2026-09-28T05:48:20.458209649Z",
+  "status": "ok",
+  "data": {
+    "archived": true,
+    "stars": 1546,
+    "forks": 150,
+    "description": "Redis module that provides a completely functional SQL database",
+    "license_spdx": "NOASSERTION",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 37.77230324074074,
+    "median_pr_close_days": 14.994050925925926,
+    "open_issues": 13,
+    "closed_issues_sampled": 41,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 11909
+  }
+}

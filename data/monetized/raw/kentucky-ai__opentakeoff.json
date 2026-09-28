@@ -1,0 +1,29 @@
+{
+  "slug": "kentucky-ai/opentakeoff",
+  "fetched_at": "2026-09-28T05:09:55.203163939Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 142,
+    "forks": 58,
+    "description": "Open-source (Apache-2.0) PDF takeoff for construction & flooring — the first engine an AI agent drives natively over MCP, not bolted on. Rooms measured on the wall faces, symbol sweeps, materials + quantities with full provenance, built for preconstruction. Runs entirely in your browser.",
+    "license_spdx": "Apache-2.0",
+    "last_commit_at": "2026-09-26T20:32:25Z",
+    "commits_90d": 609,
+    "releases_365d": 65,
+    "median_issue_close_days": 1.1678472222222223,
+    "median_pr_close_days": 0.01326388888888889,
+    "open_issues": 5,
+    "closed_issues_sampled": 7,
+    "contributors_12mo": 11,
+    "top_author_commit_share": 0.6886792452830188,
+    "top_author": {
+      "login": "QuisutDeus1",
+      "account_created_at": "2026-04-04T02:04:59Z",
+      "other_repos_star_sum": 0
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 55307
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "usefathom/phantom-analyzer",
+  "fetched_at": "2026-09-28T06:30:41.573292806Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 105,
+    "forks": 25,
+    "description": "Phantom Analyzer scans websites for spy pixels. It runs via Laravel Vapor using Browsershot. Built by the https://usefathom.com team.",
+    "license_spdx": null,
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": true,
+    "readme_len": 3891
+  }
+}

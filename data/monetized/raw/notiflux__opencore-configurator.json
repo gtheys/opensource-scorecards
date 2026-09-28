@@ -1,0 +1,25 @@
+{
+  "slug": "notiflux/opencore-configurator",
+  "fetched_at": "2026-09-28T05:30:14.211209742Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 374,
+    "forks": 39,
+    "description": "A configurator for the OpenCore Bootloader",
+    "license_spdx": "BSD-3-Clause",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 2.054571759259259,
+    "median_pr_close_days": 0.040457175925925924,
+    "open_issues": 9,
+    "closed_issues_sampled": 3,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 1382
+  }
+}

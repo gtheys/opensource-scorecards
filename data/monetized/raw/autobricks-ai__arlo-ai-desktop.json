@@ -1,0 +1,25 @@
+{
+  "slug": "autobricks-ai/arlo-ai-desktop",
+  "fetched_at": "2026-09-28T04:25:15.669428651Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 21,
+    "forks": 0,
+    "description": "Self-hosted AI customer service. Your documents, your database, your data - answered with citations across every channel.",
+    "license_spdx": "NOASSERTION",
+    "last_commit_at": "2026-08-27T05:22:03Z",
+    "commits_90d": 1,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 13048
+  }
+}

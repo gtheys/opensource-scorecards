@@ -1,0 +1,29 @@
+{
+  "slug": "orbeon/orbeon-forms",
+  "fetched_at": "2026-09-28T05:38:27.928607487Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 544,
+    "forks": 215,
+    "description": "Orbeon Forms - Build, run, and manage web forms on-premises or in the cloud.",
+    "license_spdx": "LGPL-2.1",
+    "last_commit_at": "2026-09-25T19:18:34Z",
+    "commits_90d": 217,
+    "releases_365d": 7,
+    "median_issue_close_days": 1.4398148148148149,
+    "median_pr_close_days": 1.7872685185185184,
+    "open_issues": 1992,
+    "closed_issues_sampled": 30,
+    "contributors_12mo": 4,
+    "top_author_commit_share": 0.435,
+    "top_author": {
+      "login": "ebruchez",
+      "account_created_at": "2009-07-16T21:48:02Z",
+      "other_repos_star_sum": 21
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 6390
+  }
+}

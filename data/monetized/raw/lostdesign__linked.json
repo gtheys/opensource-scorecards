@@ -1,0 +1,25 @@
+{
+  "slug": "lostdesign/linked",
+  "fetched_at": "2026-09-28T05:16:44.194624276Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1021,
+    "forks": 76,
+    "description": "🧾  Daily journaling without distraction. An easy, distraction-free way to record your thoughts, declutter your mind and keep the things you want to remember. Join the discord at https://discord.gg/uNjJzZvccr",
+    "license_spdx": "GPL-3.0",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 61.910376157407406,
+    "median_pr_close_days": 0.8606423611111111,
+    "open_issues": 13,
+    "closed_issues_sampled": 8,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 3184
+  }
+}

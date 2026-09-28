@@ -1,0 +1,29 @@
+{
+  "slug": "lcy362/agnes-video-generator",
+  "fetched_at": "2026-09-28T05:13:18.773784985Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 432,
+    "forks": 138,
+    "description": "Open-source, self-hosted AI video generator — completely free. Text to multi-scene video with narration, subtitles, and digital anchor via Web UI, powered by Agnes AI.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-28T01:16:23Z",
+    "commits_90d": 443,
+    "releases_365d": 65,
+    "median_issue_close_days": 0.6398263888888889,
+    "median_pr_close_days": 0.020086805555555556,
+    "open_issues": 5,
+    "closed_issues_sampled": 46,
+    "contributors_12mo": 2,
+    "top_author_commit_share": 0.9983164983164983,
+    "top_author": {
+      "login": "lcy362",
+      "account_created_at": "2013-08-11T00:38:41Z",
+      "other_repos_star_sum": 518
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 13513
+  }
+}

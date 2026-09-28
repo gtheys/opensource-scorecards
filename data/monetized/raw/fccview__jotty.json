@@ -1,0 +1,29 @@
+{
+  "slug": "fccview/jotty",
+  "fetched_at": "2026-09-28T04:50:25.620120783Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 2011,
+    "forks": 115,
+    "description": "Lightweight but powerful alternative for managing your personal, file based, notes and checklists. ",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": "2026-09-05T20:01:28Z",
+    "commits_90d": 98,
+    "releases_365d": 51,
+    "median_issue_close_days": 23.79337962962963,
+    "median_pr_close_days": 0.34327546296296296,
+    "open_issues": 79,
+    "closed_issues_sampled": 21,
+    "contributors_12mo": 34,
+    "top_author_commit_share": 0.8271739130434783,
+    "top_author": {
+      "login": "fccview",
+      "account_created_at": "2022-09-05T10:56:45Z",
+      "other_repos_star_sum": 3543
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 16827
+  }
+}

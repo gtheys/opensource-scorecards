@@ -1,0 +1,29 @@
+{
+  "slug": "gethugothemes/bookworm-light-hugo",
+  "fetched_at": "2026-09-28T04:55:49.432478664Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 103,
+    "forks": 76,
+    "description": "Bookworm is a clean and modern Hugo blog theme focused on high speed and support multiple authors.",
+    "license_spdx": null,
+    "last_commit_at": "2026-07-12T10:46:28Z",
+    "commits_90d": 1,
+    "releases_365d": 0,
+    "median_issue_close_days": 1.7902546296296296,
+    "median_pr_close_days": 0.11679976851851853,
+    "open_issues": 3,
+    "closed_issues_sampled": 25,
+    "contributors_12mo": 3,
+    "top_author_commit_share": 0.6666666666666666,
+    "top_author": {
+      "login": "tfistiak",
+      "account_created_at": "2024-12-10T08:26:41Z",
+      "other_repos_star_sum": 0
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 8752
+  }
+}

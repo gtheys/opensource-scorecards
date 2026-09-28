@@ -1,0 +1,29 @@
+{
+  "slug": "freescout-help-desk/freescout",
+  "fetched_at": "2026-09-28T04:53:38.374681758Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 4565,
+    "forks": 720,
+    "description": "FreeScout — Free self-hosted omnichannel AI-powered helpdesk & shared mailbox",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": "2026-09-27T10:41:36Z",
+    "commits_90d": 295,
+    "releases_365d": 51,
+    "median_issue_close_days": 3.7450462962962963,
+    "median_pr_close_days": 1.1413541666666667,
+    "open_issues": 27,
+    "closed_issues_sampled": 37,
+    "contributors_12mo": 12,
+    "top_author_commit_share": 0.9758522727272727,
+    "top_author": {
+      "login": "freescout-help-desk",
+      "account_created_at": "2023-12-05T13:43:14Z",
+      "other_repos_star_sum": 4578
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 6717
+  }
+}

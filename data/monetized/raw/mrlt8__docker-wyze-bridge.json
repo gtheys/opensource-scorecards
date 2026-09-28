@@ -1,0 +1,25 @@
+{
+  "slug": "mrlt8/docker-wyze-bridge",
+  "fetched_at": "2026-09-28T05:26:37.744685038Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 3267,
+    "forks": 295,
+    "description": "WebRTC/RTSP/RTMP/LL-HLS bridge for Wyze cams in a docker container",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 0.7858101851851852,
+    "median_pr_close_days": 3.053263888888889,
+    "open_issues": 376,
+    "closed_issues_sampled": 33,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 19360
+  }
+}

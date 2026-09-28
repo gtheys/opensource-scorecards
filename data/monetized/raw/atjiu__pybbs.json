@@ -1,0 +1,29 @@
+{
+  "slug": "atjiu/pybbs",
+  "fetched_at": "2026-09-28T04:24:54.743940309Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1958,
+    "forks": 717,
+    "description": "更实用的Java开发的社区(论坛)，Better use of Java development community (forum)",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": "2025-10-27T06:09:09Z",
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 6.6561111111111115,
+    "median_pr_close_days": 250.1763425925926,
+    "open_issues": 3,
+    "closed_issues_sampled": 45,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "atjiu",
+      "account_created_at": "2014-03-11T06:26:21Z",
+      "other_repos_star_sum": 3014
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 14096
+  }
+}

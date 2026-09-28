@@ -1,0 +1,29 @@
+{
+  "slug": "typesense/typesense-docsearch.js",
+  "fetched_at": "2026-09-28T06:28:08.445780224Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 41,
+    "forks": 22,
+    "description": "A fork of Algolia's awesome DocSearch.js, customized to use data from Typesense.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-31T16:36:17Z",
+    "commits_90d": 75,
+    "releases_365d": 8,
+    "median_issue_close_days": 3.884826388888889,
+    "median_pr_close_days": 2.55587962962963,
+    "open_issues": 8,
+    "closed_issues_sampled": 7,
+    "contributors_12mo": 15,
+    "top_author_commit_share": 0.2914285714285714,
+    "top_author": {
+      "login": "8bittitan",
+      "account_created_at": "2017-11-04T07:26:01Z",
+      "other_repos_star_sum": 20
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 1037
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "mollyim/mollyim-android",
+  "fetched_at": "2026-09-28T05:24:41.675197950Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 3736,
+    "forks": 211,
+    "description": "Enhanced and security-focused fork of Signal.",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": "2026-09-08T08:46:02Z",
+    "commits_90d": 145,
+    "releases_365d": 17,
+    "median_issue_close_days": 7.582557870370371,
+    "median_pr_close_days": 2.0286168981481483,
+    "open_issues": 340,
+    "closed_issues_sampled": 40,
+    "contributors_12mo": 24,
+    "top_author_commit_share": 0.3684210526315789,
+    "top_author": {
+      "login": "greyson-signal",
+      "account_created_at": "2018-03-12T20:53:15Z",
+      "other_repos_star_sum": 11
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 8732
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "pulsejet/memories",
+  "fetched_at": "2026-09-28T05:45:23.998170900Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 3846,
+    "forks": 170,
+    "description": "Fast, modern and advanced photo management suite. Runs as a Nextcloud app.",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": "2026-09-28T03:29:41Z",
+    "commits_90d": 765,
+    "releases_365d": 26,
+    "median_issue_close_days": 409.20738425925924,
+    "median_pr_close_days": 27.301261574074076,
+    "open_issues": 470,
+    "closed_issues_sampled": 47,
+    "contributors_12mo": 20,
+    "top_author_commit_share": 0.7829880043620502,
+    "top_author": {
+      "login": "pulsejet",
+      "account_created_at": "2015-01-26T14:32:43Z",
+      "other_repos_star_sum": 4467
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 7791
+  }
+}

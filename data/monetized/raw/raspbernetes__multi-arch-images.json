@@ -1,0 +1,25 @@
+{
+  "slug": "raspbernetes/multi-arch-images",
+  "fetched_at": "2026-09-28T05:47:56.355334014Z",
+  "status": "ok",
+  "data": {
+    "archived": true,
+    "stars": 172,
+    "forks": 34,
+    "description": "Support for multi-platform architecture Docker images using buildx.",
+    "license_spdx": "Apache-2.0",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 23.01052662037037,
+    "median_pr_close_days": 0.9292708333333334,
+    "open_issues": 12,
+    "closed_issues_sampled": 8,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 12412
+  }
+}

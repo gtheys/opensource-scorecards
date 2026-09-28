@@ -1,0 +1,29 @@
+{
+  "slug": "goosemod/openasar",
+  "fetched_at": "2026-09-28T04:57:35.225298526Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 3035,
+    "forks": 100,
+    "description": "Open-source alternative of Discord desktop's app.asar",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": "2026-07-24T02:00:39Z",
+    "commits_90d": 2,
+    "releases_365d": 2,
+    "median_issue_close_days": 2.6489699074074076,
+    "median_pr_close_days": 0.37777777777777777,
+    "open_issues": 64,
+    "closed_issues_sampled": 41,
+    "contributors_12mo": 2,
+    "top_author_commit_share": 0.9444444444444444,
+    "top_author": {
+      "login": "CanadaHonk",
+      "account_created_at": "2016-05-06T17:07:43Z",
+      "other_repos_star_sum": 5627
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 1435
+  }
+}

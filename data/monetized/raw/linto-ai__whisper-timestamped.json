@@ -1,0 +1,29 @@
+{
+  "slug": "linto-ai/whisper-timestamped",
+  "fetched_at": "2026-09-28T05:15:20.130903332Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 2848,
+    "forks": 210,
+    "description": "Multilingual Automatic Speech Recognition with word-level timestamps and confidence",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": "2026-08-17T06:41:29Z",
+    "commits_90d": 1,
+    "releases_365d": 0,
+    "median_issue_close_days": 2.94837962962963,
+    "median_pr_close_days": 2.4720601851851853,
+    "open_issues": 49,
+    "closed_issues_sampled": 37,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "Jeronymous",
+      "account_created_at": "2016-09-29T13:09:23Z",
+      "other_repos_star_sum": 2
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 33022
+  }
+}

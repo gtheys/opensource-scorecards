@@ -1,0 +1,29 @@
+{
+  "slug": "qixing-jk/all-api-hub",
+  "fetched_at": "2026-09-28T05:46:14.851090044Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 4893,
+    "forks": 332,
+    "description": "All-in-one New-API/Sub2API account hub: balance/usage dashboard, auto check-in, one-click keys, price comparison, health checks, plus advanced channel management | 一站式 New-API/Sub2API 等中转站账号管理：余额/用量看板、自动签到、密钥一键使用、价格对比、可用性测试，另提供高级渠道管理",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": "2026-09-27T19:05:09Z",
+    "commits_90d": 414,
+    "releases_365d": 100,
+    "median_issue_close_days": 1.4476967592592593,
+    "median_pr_close_days": 0.06890046296296297,
+    "open_issues": 60,
+    "closed_issues_sampled": 11,
+    "contributors_12mo": 5,
+    "top_author_commit_share": 0.983453981385729,
+    "top_author": {
+      "login": "qixing-jk",
+      "account_created_at": "2023-02-15T09:06:00Z",
+      "other_repos_star_sum": 4984
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 27241
+  }
+}

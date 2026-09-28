@@ -1,0 +1,29 @@
+{
+  "slug": "frumu-ai/tandem",
+  "fetched_at": "2026-09-28T04:54:01.643283474Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 121,
+    "forks": 13,
+    "description": "Tandem is the authority layer between AI agents and company tools: runtime policy for tools, memory, approvals, and audit trails.",
+    "license_spdx": "NOASSERTION",
+    "last_commit_at": "2026-09-26T16:59:51Z",
+    "commits_90d": 360,
+    "releases_365d": 100,
+    "median_issue_close_days": 0.7247627314814815,
+    "median_pr_close_days": 0.1475636574074074,
+    "open_issues": 26,
+    "closed_issues_sampled": 2,
+    "contributors_12mo": 2,
+    "top_author_commit_share": 0.9949545913218971,
+    "top_author": {
+      "login": "tacshade",
+      "account_created_at": "2025-02-12T12:39:27Z",
+      "other_repos_star_sum": 0
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 35602
+  }
+}

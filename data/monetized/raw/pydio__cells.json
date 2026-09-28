@@ -1,0 +1,29 @@
+{
+  "slug": "pydio/cells",
+  "fetched_at": "2026-09-28T05:45:52.779764740Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 2254,
+    "forks": 231,
+    "description": "Future-proof content collaboration platform",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": "2026-09-24T14:10:25Z",
+    "commits_90d": 36,
+    "releases_365d": 6,
+    "median_issue_close_days": 88.69722222222222,
+    "median_pr_close_days": 0.8445717592592593,
+    "open_issues": 55,
+    "closed_issues_sampled": 3,
+    "contributors_12mo": 13,
+    "top_author_commit_share": 0.2906666666666667,
+    "top_author": {
+      "login": "ghecquet",
+      "account_created_at": "2015-09-27T09:58:11Z",
+      "other_repos_star_sum": 8
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 4957
+  }
+}

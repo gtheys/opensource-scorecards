@@ -1,0 +1,29 @@
+{
+  "slug": "cluvexstudio/aether",
+  "fetched_at": "2026-09-28T04:36:21.578614474Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 2008,
+    "forks": 156,
+    "description": "A Rust userspace WARP core for censored networks, built around MASQUE over HTTP/3 and HTTP/2.",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": "2026-09-22T13:20:27Z",
+    "commits_90d": 90,
+    "releases_365d": 13,
+    "median_issue_close_days": 12.633148148148148,
+    "median_pr_close_days": 11.521799768518518,
+    "open_issues": 26,
+    "closed_issues_sampled": 46,
+    "contributors_12mo": 7,
+    "top_author_commit_share": 0.8222222222222222,
+    "top_author": {
+      "login": "CluvexStudio",
+      "account_created_at": "2023-02-11T15:14:02Z",
+      "other_repos_star_sum": 2219
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 11249
+  }
+}

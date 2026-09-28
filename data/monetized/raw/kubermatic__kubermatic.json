@@ -1,0 +1,29 @@
+{
+  "slug": "kubermatic/kubermatic",
+  "fetched_at": "2026-09-28T05:11:38.888856954Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1304,
+    "forks": 207,
+    "description": "Kubermatic Kubernetes Platform - the Central Kubernetes Management Platform For Any Infrastructure ",
+    "license_spdx": "NOASSERTION",
+    "last_commit_at": "2026-09-25T18:46:26Z",
+    "commits_90d": 123,
+    "releases_365d": 46,
+    "median_issue_close_days": 147.2146527777778,
+    "median_pr_close_days": 0.9617361111111111,
+    "open_issues": 470,
+    "closed_issues_sampled": 10,
+    "contributors_12mo": 27,
+    "top_author_commit_share": 0.24879227053140096,
+    "top_author": {
+      "login": "buraksekili",
+      "account_created_at": "2017-10-10T05:31:44Z",
+      "other_repos_star_sum": 121
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 5415
+  }
+}

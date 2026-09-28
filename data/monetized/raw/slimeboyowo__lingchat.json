@@ -1,0 +1,29 @@
+{
+  "slug": "slimeboyowo/lingchat",
+  "fetched_at": "2026-09-28T06:14:14.322175136Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 2271,
+    "forks": 131,
+    "description": "Immersive AI-driven Galgame chat with emotional expressions, desktop pet, scheduling, and interactive story modules. / 一款沉浸式 AI-Galgame 聊天软件，附带桌宠，日程，剧情功能",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": "2026-09-13T04:56:00Z",
+    "commits_90d": 932,
+    "releases_365d": 14,
+    "median_issue_close_days": 13.409768518518518,
+    "median_pr_close_days": 2.213761574074074,
+    "open_issues": 95,
+    "closed_issues_sampled": 13,
+    "contributors_12mo": 22,
+    "top_author_commit_share": 0.2268993839835729,
+    "top_author": {
+      "login": "SlimeBoyOwO",
+      "account_created_at": "2021-06-06T12:34:52Z",
+      "other_repos_star_sum": 2338
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 11300
+  }
+}

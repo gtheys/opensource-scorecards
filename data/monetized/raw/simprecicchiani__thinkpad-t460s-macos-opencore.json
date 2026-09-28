@@ -1,0 +1,25 @@
+{
+  "slug": "simprecicchiani/thinkpad-t460s-macos-opencore",
+  "fetched_at": "2026-09-28T06:13:49.470681410Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 359,
+    "forks": 63,
+    "description": "Bootloader configuration for macOS on T460s and possibly other 6th gen ThinkPads",
+    "license_spdx": "BSD-3-Clause",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 19.251875,
+    "median_pr_close_days": 0.1648726851851852,
+    "open_issues": 43,
+    "closed_issues_sampled": 41,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 24396
+  }
+}

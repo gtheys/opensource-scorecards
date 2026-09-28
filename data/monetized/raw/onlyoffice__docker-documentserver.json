@@ -1,0 +1,29 @@
+{
+  "slug": "onlyoffice/docker-documentserver",
+  "fetched_at": "2026-09-28T05:33:15.754154604Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 2452,
+    "forks": 704,
+    "description": "ONLYOFFICE Document Server is an online office suite comprising viewers and editors for texts, spreadsheets and presentations, fully compatible with Office Open XML formats: .docx, .xlsx, .pptx and enabling collaborative editing in real time.",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": "2026-08-11T11:22:22Z",
+    "commits_90d": 9,
+    "releases_365d": 0,
+    "median_issue_close_days": 72.86916087962962,
+    "median_pr_close_days": 815.01671875,
+    "open_issues": 28,
+    "closed_issues_sampled": 42,
+    "contributors_12mo": 8,
+    "top_author_commit_share": 0.3287671232876712,
+    "top_author": {
+      "login": "danilapog",
+      "account_created_at": "2021-01-15T01:20:24Z",
+      "other_repos_star_sum": 3
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 25181
+  }
+}

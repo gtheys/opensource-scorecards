@@ -1,0 +1,29 @@
+{
+  "slug": "coco-research/coco",
+  "fetched_at": "2026-09-28T04:36:30.620588728Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 539,
+    "forks": 12,
+    "description": "CoCo Super Intelligence is the orchestration layer that turns Claude Code, Cursor, or Codex into an engineering department: a routed advisory board, 226 skills, 386 commands, persistent state. Local. Open-core — MIT core; Super Intelligence is proprietary, own-use.",
+    "license_spdx": "NOASSERTION",
+    "last_commit_at": "2026-09-27T17:00:28Z",
+    "commits_90d": 216,
+    "releases_365d": 5,
+    "median_issue_close_days": 2.6314699074074075,
+    "median_pr_close_days": 2.4092824074074075,
+    "open_issues": 73,
+    "closed_issues_sampled": 5,
+    "contributors_12mo": 3,
+    "top_author_commit_share": 0.8661087866108786,
+    "top_author": {
+      "login": "coco-research",
+      "account_created_at": "2020-07-28T14:09:43Z",
+      "other_repos_star_sum": 593
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 42106
+  }
+}

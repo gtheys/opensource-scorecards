@@ -1,0 +1,29 @@
+{
+  "slug": "nikmcfly/mirofish-offline",
+  "fetched_at": "2026-09-28T05:29:31.393285736Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 2559,
+    "forks": 663,
+    "description": "Offline multi-agent simulation & prediction engine. English fork of MiroFish with Neo4j + Ollama local stack.",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": "2026-03-24T18:52:36Z",
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 0.6798263888888889,
+    "median_pr_close_days": 0.005625,
+    "open_issues": 49,
+    "closed_issues_sampled": 6,
+    "contributors_12mo": 5,
+    "top_author_commit_share": 0.7142857142857143,
+    "top_author": {
+      "login": "nikmcfly69",
+      "account_created_at": "2024-09-22T12:30:20Z",
+      "other_repos_star_sum": 0
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 8589
+  }
+}

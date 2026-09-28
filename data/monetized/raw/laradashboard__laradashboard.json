@@ -1,0 +1,29 @@
+{
+  "slug": "laradashboard/laradashboard",
+  "fetched_at": "2026-09-28T05:12:43.076266330Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 415,
+    "forks": 167,
+    "description": "⚡ Lara Dashboard - CMS by Laravel - All In One solution to start your Laravel Application from Basic to Enterprise. Manages Users, Roles, Permissions, Modules, Settings, Translations, Contents, Monitoring and every actions of your Laravel application. Complete solution for Laravel application with Tailwind, Livewire, Rest API, Unit-Tests and more.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-23T10:35:53Z",
+    "commits_90d": 139,
+    "releases_365d": 32,
+    "median_issue_close_days": 7.002650462962963,
+    "median_pr_close_days": 0.0728125,
+    "open_issues": 8,
+    "closed_issues_sampled": 5,
+    "contributors_12mo": 8,
+    "top_author_commit_share": 0.5191489361702127,
+    "top_author": {
+      "login": "engrshishir",
+      "account_created_at": "2020-01-29T17:23:48Z",
+      "other_repos_star_sum": 11
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 42616
+  }
+}

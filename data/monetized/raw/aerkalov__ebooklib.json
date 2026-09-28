@@ -1,0 +1,29 @@
+{
+  "slug": "aerkalov/ebooklib",
+  "fetched_at": "2026-09-28T04:18:44.428765245Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1814,
+    "forks": 262,
+    "description": "A versatile Python library for EPUB2/EPUB3 manipulation and processing.",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": "2026-07-27T22:24:49Z",
+    "commits_90d": 8,
+    "releases_365d": 1,
+    "median_issue_close_days": 178.6684375,
+    "median_pr_close_days": 4.9369097222222225,
+    "open_issues": 111,
+    "closed_issues_sampled": 23,
+    "contributors_12mo": 5,
+    "top_author_commit_share": 0.8181818181818182,
+    "top_author": {
+      "login": "aerkalov",
+      "account_created_at": "2011-08-25T12:19:12Z",
+      "other_repos_star_sum": 1853
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 4678
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "kantord/librelingo",
+  "fetched_at": "2026-09-28T05:09:41.582528378Z",
+  "status": "ok",
+  "data": {
+    "archived": true,
+    "stars": 2634,
+    "forks": 262,
+    "description": "🐢 🌎 📚 a community-owned language-learning platform",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": "2026-06-19T14:50:07Z",
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 67.97434606481482,
+    "median_pr_close_days": 30.619623842592596,
+    "open_issues": 176,
+    "closed_issues_sampled": 4,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "kantord",
+      "account_created_at": "2013-02-26T13:06:30Z",
+      "other_repos_star_sum": 1087
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 45714
+  }
+}

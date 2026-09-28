@@ -1,0 +1,29 @@
+{
+  "slug": "openbmb/pilotdeck",
+  "fetched_at": "2026-09-28T05:34:43.785122458Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 4017,
+    "forks": 454,
+    "description": "Task-oriented AI Agent productivity platform",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": "2026-09-24T10:40:04Z",
+    "commits_90d": 961,
+    "releases_365d": 18,
+    "median_issue_close_days": 0.012974537037037038,
+    "median_pr_close_days": 0.13912037037037037,
+    "open_issues": 184,
+    "closed_issues_sampled": 1,
+    "contributors_12mo": 10,
+    "top_author_commit_share": 0.5207700101317123,
+    "top_author": {
+      "login": "Kaguya-19",
+      "account_created_at": "2019-04-30T13:24:48Z",
+      "other_repos_star_sum": 17
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 22857
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "bestpart-irene/secondsign-core",
+  "fetched_at": "2026-09-28T04:28:02.597124435Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 32,
+    "forks": 4,
+    "description": "The gate between an AI agent and real money. Runtime authorization for financial AI agents: structured intent, deterministic policy, human approval, execute-once gateway, tamper-evident receipts. Open core, Apache-2.0.",
+    "license_spdx": "Apache-2.0",
+    "last_commit_at": "2026-08-31T06:06:24Z",
+    "commits_90d": 345,
+    "releases_365d": 2,
+    "median_issue_close_days": 1.1210069444444444,
+    "median_pr_close_days": 0.2102662037037037,
+    "open_issues": 16,
+    "closed_issues_sampled": 3,
+    "contributors_12mo": 4,
+    "top_author_commit_share": 0.9623188405797102,
+    "top_author": {
+      "login": "Bestpart-Irene",
+      "account_created_at": "2024-07-03T00:10:34Z",
+      "other_repos_star_sum": 32
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 24470
+  }
+}

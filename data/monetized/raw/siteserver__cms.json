@@ -1,0 +1,29 @@
+{
+  "slug": "siteserver/cms",
+  "fetched_at": "2026-09-28T06:13:57.715549969Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 3910,
+    "forks": 1238,
+    "description": "SSCMS 基于 .NET Core，能够以最低的成本、最少的人力投入在最短的时间内架设一个功能齐全、性能优异、规模庞大并易于维护的网站平台。链接是SSCMS推出的全新AI视频开源社区：献丑AI",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": "2025-11-26T09:51:58Z",
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 1.908136574074074,
+    "median_pr_close_days": 26.47775462962963,
+    "open_issues": 3198,
+    "closed_issues_sampled": 33,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "starlying",
+      "account_created_at": "2013-04-25T15:03:47Z",
+      "other_repos_star_sum": 3
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 5640
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "sequelpro/bundles",
+  "fetched_at": "2026-09-28T05:53:00.598690118Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 266,
+    "forks": 64,
+    "description": "Useful bundles for extending the functionality of Sequel Pro (version 0.9.9 or later)",
+    "license_spdx": null,
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 32.20646990740741,
+    "median_pr_close_days": 3.4388425925925925,
+    "open_issues": 8,
+    "closed_issues_sampled": 1,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 2005
+  }
+}

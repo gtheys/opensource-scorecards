@@ -1,0 +1,29 @@
+{
+  "slug": "5t33z0/lenovo-t530-hackintosh-opencore",
+  "fetched_at": "2026-09-28T04:16:28.613593368Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 112,
+    "forks": 10,
+    "description": "OpenCore folder for running macOS High Sierra up to Sequoia on the Lenovo ThinkPad T530 Laptop.",
+    "license_spdx": "BSD-3-Clause",
+    "last_commit_at": "2026-06-09T22:25:59Z",
+    "commits_90d": 0,
+    "releases_365d": 1,
+    "median_issue_close_days": 0.26342592592592595,
+    "median_pr_close_days": null,
+    "open_issues": 1,
+    "closed_issues_sampled": 31,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "5T33Z0",
+      "account_created_at": "2021-01-02T08:59:46Z",
+      "other_repos_star_sum": 1566
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 34001
+  }
+}

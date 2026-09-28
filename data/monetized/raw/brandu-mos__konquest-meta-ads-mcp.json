@@ -1,0 +1,29 @@
+{
+  "slug": "brandu-mos/konquest-meta-ads-mcp",
+  "fetched_at": "2026-09-28T04:30:35.456787672Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 44,
+    "forks": 12,
+    "description": "57-tool supervised Meta Ads MCP server for Claude Code. Open-core: full CRUD, multi-asset ads, targeting, diagnostics, safety gates. Premium adds 41 tools: optimization engine, vault intelligence, copy generation.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-04-23T04:04:27Z",
+    "commits_90d": 0,
+    "releases_365d": 1,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 3,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 2,
+    "top_author_commit_share": 0.8181818181818182,
+    "top_author": {
+      "login": "Faraso",
+      "account_created_at": "2016-05-05T05:53:47Z",
+      "other_repos_star_sum": 0
+    },
+    "has_ci": false,
+    "has_tests": true,
+    "readme_len": 7847
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "bigcapitalhq/bigcapital",
+  "fetched_at": "2026-09-28T04:28:43.583399378Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 3916,
+    "forks": 533,
+    "description": "💵 Independent financial accounting with intelligent reporting, alternative to Quickbooks, Xero, Wave.",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": "2026-09-23T09:10:14Z",
+    "commits_90d": 488,
+    "releases_365d": 46,
+    "median_issue_close_days": 0.9753009259259259,
+    "median_pr_close_days": 0.021666666666666667,
+    "open_issues": 269,
+    "closed_issues_sampled": 9,
+    "contributors_12mo": 20,
+    "top_author_commit_share": 0.9528585757271816,
+    "top_author": {
+      "login": "abouolia",
+      "account_created_at": "2012-08-22T15:43:54Z",
+      "other_repos_star_sum": 2277
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 11637
+  }
+}

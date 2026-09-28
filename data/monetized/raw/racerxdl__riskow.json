@@ -1,0 +1,29 @@
+{
+  "slug": "racerxdl/riskow",
+  "fetched_at": "2026-09-28T05:47:25.226186124Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 141,
+    "forks": 12,
+    "description": "Learning how to make a RISC-V ",
+    "license_spdx": "Apache-2.0",
+    "last_commit_at": "2026-07-24T06:45:23Z",
+    "commits_90d": 3,
+    "releases_365d": 1,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.02957175925925926,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 2,
+    "top_author_commit_share": 0.8,
+    "top_author": {
+      "login": "racerxdl",
+      "account_created_at": "2011-01-22T18:31:12Z",
+      "other_repos_star_sum": 449
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 1706
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "bjdgyc/anylink",
+  "fetched_at": "2026-09-28T04:29:24.979545726Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 2315,
+    "forks": 518,
+    "description": "AnyLink是一个企业级远程办公 ssl vpn 软件，可以支持多人同时在线使用。基于 openconnect 协议开发，并且借鉴了 ocserv 的开发思路，可以完全兼容 AnyConnect 客户端。",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": "2026-09-24T09:43:53Z",
+    "commits_90d": 3,
+    "releases_365d": 6,
+    "median_issue_close_days": 10.247291666666667,
+    "median_pr_close_days": 0.7748495370370371,
+    "open_issues": 106,
+    "closed_issues_sampled": 7,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "bjdgyc",
+      "account_created_at": "2013-01-20T02:13:26Z",
+      "other_repos_star_sum": 2392
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 15961
+  }
+}

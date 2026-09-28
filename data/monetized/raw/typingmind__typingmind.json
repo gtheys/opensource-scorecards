@@ -1,0 +1,29 @@
+{
+  "slug": "typingmind/typingmind",
+  "fetched_at": "2026-09-28T06:29:30.406945325Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 983,
+    "forks": 364,
+    "description": "The most advanced Web UI for AI chat",
+    "license_spdx": "NOASSERTION",
+    "last_commit_at": "2026-09-03T03:30:33Z",
+    "commits_90d": 2,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.001990740740740741,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "trungdq88",
+      "account_created_at": "2013-04-21T06:15:55Z",
+      "other_repos_star_sum": 8484
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 12515
+  }
+}

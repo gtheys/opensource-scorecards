@@ -1,0 +1,29 @@
+{
+  "slug": "opencrvs/opencrvs-core",
+  "fetched_at": "2026-09-28T05:35:19.368855899Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 120,
+    "forks": 110,
+    "description": "A global solution to civil registration",
+    "license_spdx": "NOASSERTION",
+    "last_commit_at": "2026-09-25T06:48:10Z",
+    "commits_90d": 984,
+    "releases_365d": 25,
+    "median_issue_close_days": 68.69137731481482,
+    "median_pr_close_days": 1.0308217592592592,
+    "open_issues": 1146,
+    "closed_issues_sampled": 20,
+    "contributors_12mo": 18,
+    "top_author_commit_share": 0.2652439024390244,
+    "top_author": {
+      "login": "jamil314",
+      "account_created_at": "2019-07-01T13:59:08Z",
+      "other_repos_star_sum": 3
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 4125
+  }
+}

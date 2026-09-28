@@ -1,0 +1,25 @@
+{
+  "slug": "roederja/asus-rog-strix-b460i-hackintosh",
+  "fetched_at": "2026-09-28T05:49:34.204202930Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 74,
+    "forks": 8,
+    "description": "Open Core Hackintosh based on ASUS ROG Strix B460I",
+    "license_spdx": null,
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 6.01025462962963,
+    "median_pr_close_days": null,
+    "open_issues": 6,
+    "closed_issues_sampled": 7,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 8867
+  }
+}

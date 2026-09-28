@@ -1,0 +1,29 @@
+{
+  "slug": "steven-jianhao-li/zotero-ai-butler",
+  "fetched_at": "2026-09-28T06:17:53.600609760Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1764,
+    "forks": 98,
+    "description": "【Zotero AI 管家】调用大模型，自动精读论文库里的论文，总结为Zotero笔记。支持主流大模型平台！您只需像往常一样把文献丢进 Zotero， 管家会自动帮您精读论文，将文章揉碎了总结为笔记，让您“十分钟完全了解”这篇论文！",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": "2026-08-25T13:50:06Z",
+    "commits_90d": 89,
+    "releases_365d": 100,
+    "median_issue_close_days": 33.01636574074074,
+    "median_pr_close_days": 0.02519675925925926,
+    "open_issues": 20,
+    "closed_issues_sampled": 21,
+    "contributors_12mo": 6,
+    "top_author_commit_share": 0.9493087557603687,
+    "top_author": {
+      "login": "steven-jianhao-li",
+      "account_created_at": "2020-02-25T12:00:39Z",
+      "other_repos_star_sum": 1889
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 22022
+  }
+}

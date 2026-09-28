@@ -1,0 +1,25 @@
+{
+  "slug": "lobehub/sd-webui-lobe-theme",
+  "fetched_at": "2026-09-28T05:16:14.308702506Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 2709,
+    "forks": 269,
+    "description": "🅰️ Lobe theme - The modern theme for stable diffusion webui, exquisite interface design, highly customizable UI, and efficiency boosting features.",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 42.64927083333333,
+    "median_pr_close_days": 187.48126157407407,
+    "open_issues": 115,
+    "closed_issues_sampled": 3,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 27332
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "aliyun/openapi-core-nodejs-sdk",
+  "fetched_at": "2026-09-28T04:20:38.320396108Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 177,
+    "forks": 38,
+    "description": "The Alibaba Cloud V1.0 SDK will soon enter the Basic Security Maintenance phase and is no longer recommended for use.",
+    "license_spdx": null,
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 273.3082465277778,
+    "median_pr_close_days": 0.029519675925925925,
+    "open_issues": 4,
+    "closed_issues_sampled": 18,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 4490
+  }
+}

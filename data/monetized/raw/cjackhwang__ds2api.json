@@ -1,0 +1,29 @@
+{
+  "slug": "cjackhwang/ds2api",
+  "fetched_at": "2026-09-28T04:35:31.471301805Z",
+  "status": "ok",
+  "data": {
+    "archived": true,
+    "stars": 4739,
+    "forks": 1642,
+    "description": "DeepSeek-Compatible Middleware Interface: A technical exploration project in Go, focusing on high-concurrency protocol adaptation. It serves as a reference implementation for converting diverse web protocols into standardized formats.",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": "2026-05-10T10:59:23Z",
+    "commits_90d": 0,
+    "releases_365d": 61,
+    "median_issue_close_days": 0.6344907407407407,
+    "median_pr_close_days": 0.029050925925925924,
+    "open_issues": 30,
+    "closed_issues_sampled": 19,
+    "contributors_12mo": 26,
+    "top_author_commit_share": 0.9100758396533044,
+    "top_author": {
+      "login": "CJackHwang",
+      "account_created_at": "2024-01-06T13:43:12Z",
+      "other_repos_star_sum": 7560
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 25779
+  }
+}

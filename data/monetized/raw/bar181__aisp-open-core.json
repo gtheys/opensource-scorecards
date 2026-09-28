@@ -1,0 +1,29 @@
+{
+  "slug": "bar181/aisp-open-core",
+  "fetched_at": "2026-09-28T04:26:22.023707600Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 177,
+    "forks": 22,
+    "description": "AISP (AI Symbolic Programming) v5.1 AI first, spec driven development. A proof-carrying protocol LLMs understand natively without instructions or training. Reduces AI decision points from 40-65% to <2%. Made for AI and agents. Works directly with Claude, OpenAI, Gemini, Cursor, Claude Code.  The assembly language for AI cognition.",
+    "license_spdx": "NOASSERTION",
+    "last_commit_at": "2026-06-09T15:29:27Z",
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.0010879629629629629,
+    "open_issues": 7,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "bar181",
+      "account_created_at": "2017-02-02T14:04:34Z",
+      "other_repos_star_sum": 284
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 9353
+  }
+}

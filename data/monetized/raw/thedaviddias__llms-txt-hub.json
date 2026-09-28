@@ -1,0 +1,29 @@
+{
+  "slug": "thedaviddias/llms-txt-hub",
+  "fetched_at": "2026-09-28T06:22:54.089511911Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 906,
+    "forks": 757,
+    "description": "🤖 The largest directory for AI-ready documentation and tools implementing the proposed llms.txt standard",
+    "license_spdx": "NOASSERTION",
+    "last_commit_at": "2026-09-25T22:22:33Z",
+    "commits_90d": 263,
+    "releases_365d": 4,
+    "median_issue_close_days": 13.578483796296297,
+    "median_pr_close_days": 0.0006481481481481481,
+    "open_issues": 366,
+    "closed_issues_sampled": 1,
+    "contributors_12mo": 148,
+    "top_author_commit_share": 0.8356997971602435,
+    "top_author": {
+      "login": "thedaviddias",
+      "account_created_at": "2010-04-05T14:40:12Z",
+      "other_repos_star_sum": 103467
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 512000
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "melly-lgtm/inplan",
+  "fetched_at": "2026-09-28T05:22:00.614805726Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 24,
+    "forks": 6,
+    "description": "inplan — a Markdown editor for human ⇄ coding-agent planning. CLI + desktop editor.",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": "2026-08-25T21:41:35Z",
+    "commits_90d": 64,
+    "releases_365d": 24,
+    "median_issue_close_days": 2.8638425925925923,
+    "median_pr_close_days": 0.23401041666666667,
+    "open_issues": 5,
+    "closed_issues_sampled": 8,
+    "contributors_12mo": 4,
+    "top_author_commit_share": 0.9701149425287356,
+    "top_author": {
+      "login": "melly-lgtm",
+      "account_created_at": "2026-05-28T19:14:42Z",
+      "other_repos_star_sum": 24
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 10397
+  }
+}

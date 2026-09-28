@@ -1,0 +1,29 @@
+{
+  "slug": "agentera/agently",
+  "fetched_at": "2026-09-28T04:18:49.610629121Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1653,
+    "forks": 180,
+    "description": "[GenAI Application Development Framework]  🚀 Build GenAI application quick and easy 💬 Easy to interact with GenAI agent in code using structure data and chained-calls syntax 🧩 Use Event-Driven Flow *TriggerFlow* to manage complex GenAI working logic 🔀 Switch to any model without rewrite application code",
+    "license_spdx": "Apache-2.0",
+    "last_commit_at": "2026-09-12T18:15:29Z",
+    "commits_90d": 475,
+    "releases_365d": 15,
+    "median_issue_close_days": 6.017824074074074,
+    "median_pr_close_days": 0.00515625,
+    "open_issues": 17,
+    "closed_issues_sampled": 14,
+    "contributors_12mo": 3,
+    "top_author_commit_share": 0.9918864097363083,
+    "top_author": {
+      "login": "Maplemx",
+      "account_created_at": "2013-05-13T02:35:44Z",
+      "other_repos_star_sum": 7
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 39188
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "kerwincui/fastbee",
+  "fetched_at": "2026-09-28T05:10:14.312889297Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 2295,
+    "forks": 620,
+    "description": "FastBee开源物联网平台，简单易用，可用于搭建物联网平台以及二次开发和学习。适用于智能家居、智慧办公、智慧社区、农业监测、水利监测、工业控制等。",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": "2026-08-13T03:42:51Z",
+    "commits_90d": 5,
+    "releases_365d": 0,
+    "median_issue_close_days": 94.37849537037037,
+    "median_pr_close_days": 0.015243055555555555,
+    "open_issues": 5,
+    "closed_issues_sampled": 15,
+    "contributors_12mo": 7,
+    "top_author_commit_share": 0.3763440860215054,
+    "top_author": {
+      "login": "kerwincui",
+      "account_created_at": "2016-08-25T10:12:38Z",
+      "other_repos_star_sum": 2647
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 7739
+  }
+}

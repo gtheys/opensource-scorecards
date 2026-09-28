@@ -1,0 +1,29 @@
+{
+  "slug": "legalquants/lq-ai",
+  "fetched_at": "2026-09-28T05:13:38.182616376Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 149,
+    "forks": 59,
+    "description": "Open-source AI for legal teams. Bring your own keys, run it where you want, own your data.",
+    "license_spdx": "Apache-2.0",
+    "last_commit_at": "2026-09-27T13:11:25Z",
+    "commits_90d": 96,
+    "releases_365d": 16,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.014421296296296297,
+    "open_issues": 124,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 16,
+    "top_author_commit_share": 0.8806366047745358,
+    "top_author": {
+      "login": "Kevin-Tucuxi",
+      "account_created_at": "2024-10-17T20:01:24Z",
+      "other_repos_star_sum": 2
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 68531
+  }
+}

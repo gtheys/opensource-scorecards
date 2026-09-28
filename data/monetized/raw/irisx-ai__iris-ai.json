@@ -1,0 +1,29 @@
+{
+  "slug": "irisx-ai/iris-ai",
+  "fetched_at": "2026-09-28T05:05:53.926244860Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 208,
+    "forks": 80,
+    "description": "💻 Desktop AI assistant built for real productivity. Voice, automation, memory, vision, web search, and workflow tools in one experience.",
+    "license_spdx": "NOASSERTION",
+    "last_commit_at": "2026-09-24T12:45:44Z",
+    "commits_90d": 156,
+    "releases_365d": 14,
+    "median_issue_close_days": 1.1757465277777777,
+    "median_pr_close_days": 0.00010416666666666667,
+    "open_issues": 2,
+    "closed_issues_sampled": 20,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "201Harsh",
+      "account_created_at": "2024-02-22T10:42:52Z",
+      "other_repos_star_sum": 120
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 42917
+  }
+}

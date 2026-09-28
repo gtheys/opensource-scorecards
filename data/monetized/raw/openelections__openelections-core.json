@@ -1,0 +1,29 @@
+{
+  "slug": "openelections/openelections-core",
+  "fetched_at": "2026-09-28T05:35:37.811531523Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 193,
+    "forks": 105,
+    "description": "Core repo for election results data acquisition, transformation and output.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-05-20T10:55:31Z",
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 410.96603587962966,
+    "median_pr_close_days": 0.6186458333333333,
+    "open_issues": 44,
+    "closed_issues_sampled": 30,
+    "contributors_12mo": 2,
+    "top_author_commit_share": 0.5,
+    "top_author": {
+      "login": "dwillis",
+      "account_created_at": "2008-03-04T21:21:27Z",
+      "other_repos_star_sum": 258
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 5257
+  }
+}

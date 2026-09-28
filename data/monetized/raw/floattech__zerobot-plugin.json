@@ -1,0 +1,29 @@
+{
+  "slug": "floattech/zerobot-plugin",
+  "fetched_at": "2026-09-28T04:51:51.679192609Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 2646,
+    "forks": 1963,
+    "description": "基于 ZeroBot 的 OneBot 插件",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": "2026-09-10T06:40:25Z",
+    "commits_90d": 2,
+    "releases_365d": 1,
+    "median_issue_close_days": 210.0613425925926,
+    "median_pr_close_days": 0.3616493055555555,
+    "open_issues": 14,
+    "closed_issues_sampled": 2,
+    "contributors_12mo": 12,
+    "top_author_commit_share": 0.8220338983050848,
+    "top_author": {
+      "login": "fumiama",
+      "account_created_at": "2018-07-17T04:05:59Z",
+      "other_repos_star_sum": 5371
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 47860
+  }
+}

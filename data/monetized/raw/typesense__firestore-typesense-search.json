@@ -1,0 +1,29 @@
+{
+  "slug": "typesense/firestore-typesense-search",
+  "fetched_at": "2026-09-28T06:26:54.263619257Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 182,
+    "forks": 40,
+    "description": "Firebase Extension to automatically push Firestore documents to Typesense for full-text search with typo tolerance, faceting, and more",
+    "license_spdx": "Apache-2.0",
+    "last_commit_at": "2026-05-14T10:25:00Z",
+    "commits_90d": 0,
+    "releases_365d": 1,
+    "median_issue_close_days": 38.18429398148148,
+    "median_pr_close_days": 0.3405902777777778,
+    "open_issues": 23,
+    "closed_issues_sampled": 16,
+    "contributors_12mo": 3,
+    "top_author_commit_share": 0.8846153846153846,
+    "top_author": {
+      "login": "tharropoulos",
+      "account_created_at": "2021-10-28T16:06:40Z",
+      "other_repos_star_sum": 64
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 15123
+  }
+}

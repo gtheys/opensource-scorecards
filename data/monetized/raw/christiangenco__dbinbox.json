@@ -1,0 +1,25 @@
+{
+  "slug": "christiangenco/dbinbox",
+  "fetched_at": "2026-09-28T04:34:50.854494404Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 286,
+    "forks": 42,
+    "description": "an inbox for your Dropbox",
+    "license_spdx": "MIT",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 12.465833333333334,
+    "median_pr_close_days": 6.385972222222223,
+    "open_issues": 7,
+    "closed_issues_sampled": 47,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": true,
+    "readme_len": 1579
+  }
+}

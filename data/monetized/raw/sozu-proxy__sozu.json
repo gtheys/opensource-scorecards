@@ -1,0 +1,29 @@
+{
+  "slug": "sozu-proxy/sozu",
+  "fetched_at": "2026-09-28T06:15:25.302540061Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 3735,
+    "forks": 216,
+    "description": "Sōzu HTTP reverse proxy, configurable at runtime, fast and safe, built in Rust. It is awesome!",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": "2026-09-28T04:53:38Z",
+    "commits_90d": 317,
+    "releases_365d": 9,
+    "median_issue_close_days": 0.1130613425925926,
+    "median_pr_close_days": 0.07176504629629629,
+    "open_issues": 66,
+    "closed_issues_sampled": 22,
+    "contributors_12mo": 5,
+    "top_author_commit_share": 0.9889001009081736,
+    "top_author": {
+      "login": "FlorentinDUBOIS",
+      "account_created_at": "2014-05-30T11:27:57Z",
+      "other_repos_star_sum": 19
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 9408
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "nextcloud/spreed",
+  "fetched_at": "2026-09-28T05:28:48.075742978Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 2203,
+    "forks": 588,
+    "description": "🗨️ Nextcloud Talk – chat, video & audio calls for Nextcloud",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": "2026-09-28T00:34:28Z",
+    "commits_90d": 786,
+    "releases_365d": 63,
+    "median_issue_close_days": 0.3295023148148148,
+    "median_pr_close_days": 0.10609953703703703,
+    "open_issues": 909,
+    "closed_issues_sampled": 5,
+    "contributors_12mo": 23,
+    "top_author_commit_share": 0.4618320610687023,
+    "top_author": {
+      "login": "Antreesy",
+      "account_created_at": "2021-10-29T14:43:25Z",
+      "other_repos_star_sum": 1
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 9692
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "cnosdb/cnosdb",
+  "fetched_at": "2026-09-28T04:36:26.782378378Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1757,
+    "forks": 314,
+    "description": "A cloud-native open source distributed time series database with high performance, high compression ratio and high availability.",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 684.468119212963,
+    "median_pr_close_days": 9.850185185185186,
+    "open_issues": 84,
+    "closed_issues_sampled": 46,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 9777
+  }
+}

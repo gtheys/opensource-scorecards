@@ -1,0 +1,29 @@
+{
+  "slug": "a9gent/mindfs",
+  "fetched_at": "2026-09-28T04:16:55.272033380Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1814,
+    "forks": 129,
+    "description": "Access your personal AI agents and workstation data anywhere, anytime through MindFS.",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": "2026-09-26T08:10:41Z",
+    "commits_90d": 176,
+    "releases_365d": 39,
+    "median_issue_close_days": 6.3776215277777775,
+    "median_pr_close_days": 3.1829687499999997,
+    "open_issues": 24,
+    "closed_issues_sampled": 36,
+    "contributors_12mo": 11,
+    "top_author_commit_share": 0.9744058500914077,
+    "top_author": {
+      "login": "yandc",
+      "account_created_at": "2016-02-29T08:01:15Z",
+      "other_repos_star_sum": 2
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 17519
+  }
+}

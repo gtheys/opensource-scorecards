@@ -1,0 +1,29 @@
+{
+  "slug": "lessica/trollrecorder",
+  "fetched_at": "2026-09-28T05:13:51.993465959Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 2095,
+    "forks": 112,
+    "description": "(i18n/CLI) Not the first, but the best phone call recorder with TrollStore.",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": "2026-05-23T10:47:16Z",
+    "commits_90d": 0,
+    "releases_365d": 10,
+    "median_issue_close_days": 0.44373842592592594,
+    "median_pr_close_days": 1.5265393518518517,
+    "open_issues": 6,
+    "closed_issues_sampled": 39,
+    "contributors_12mo": 2,
+    "top_author_commit_share": 0.9230769230769231,
+    "top_author": {
+      "login": "Lessica",
+      "account_created_at": "2013-09-08T09:09:32Z",
+      "other_repos_star_sum": 585
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 7983
+  }
+}

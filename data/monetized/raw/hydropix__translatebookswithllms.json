@@ -1,0 +1,29 @@
+{
+  "slug": "hydropix/translatebookswithllms",
+  "fetched_at": "2026-09-28T05:01:51.485393657Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 2444,
+    "forks": 320,
+    "description": "Translate full-length books and documents with Ollama, OpenAI-compatible, Gemini, Mistral, DeepSeek, Poe or OpenRouter. Preserves formatting. Resumes where you left off. No file size limits.",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": "2026-09-24T12:59:40Z",
+    "commits_90d": 80,
+    "releases_365d": 77,
+    "median_issue_close_days": 52.152482638888884,
+    "median_pr_close_days": 0.11499421296296296,
+    "open_issues": 26,
+    "closed_issues_sampled": 28,
+    "contributors_12mo": 10,
+    "top_author_commit_share": 0.9772329246935202,
+    "top_author": {
+      "login": "hydropix",
+      "account_created_at": "2013-08-03T11:51:06Z",
+      "other_repos_star_sum": 2498
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 11788
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "streetpea/chiaki-ng",
+  "fetched_at": "2026-09-28T06:18:51.459101516Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 2757,
+    "forks": 271,
+    "description": "Next-Generation of Chiaki (the open-source remote play client for PlayStation)",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": "2026-09-14T22:03:27Z",
+    "commits_90d": 20,
+    "releases_365d": 2,
+    "median_issue_close_days": 120.41914930555555,
+    "median_pr_close_days": 21.155266203703704,
+    "open_issues": 44,
+    "closed_issues_sampled": 42,
+    "contributors_12mo": 7,
+    "top_author_commit_share": 0.8875968992248062,
+    "top_author": {
+      "login": "streetpea",
+      "account_created_at": "2022-08-15T18:18:09Z",
+      "other_repos_star_sum": 2762
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 787
+  }
+}

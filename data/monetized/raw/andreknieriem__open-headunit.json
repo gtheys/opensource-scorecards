@@ -1,0 +1,29 @@
+{
+  "slug": "andreknieriem/open-headunit",
+  "fetched_at": "2026-09-28T04:22:18.326571421Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 2526,
+    "forks": 215,
+    "description": "Headunit App for displaying Android Auto",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": "2026-09-25T06:16:39Z",
+    "commits_90d": 805,
+    "releases_365d": 100,
+    "median_issue_close_days": 23.415266203703705,
+    "median_pr_close_days": 0.368287037037037,
+    "open_issues": 49,
+    "closed_issues_sampled": 39,
+    "contributors_12mo": 26,
+    "top_author_commit_share": 0.3553956834532374,
+    "top_author": {
+      "login": "o-jcardenass",
+      "account_created_at": "2025-07-10T23:10:51Z",
+      "other_repos_star_sum": 1
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 38162
+  }
+}

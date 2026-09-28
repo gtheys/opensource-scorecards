@@ -1,0 +1,25 @@
+{
+  "slug": "zitadel/zitadel-nextjs-b2b",
+  "fetched_at": "2026-09-28T06:40:45.688703704Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 29,
+    "forks": 9,
+    "description": "Showcase the use of personal access tokens in a B2B environment. Uses NextJS Framework.",
+    "license_spdx": "MIT",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 437.1032060185185,
+    "median_pr_close_days": 21.466875,
+    "open_issues": 11,
+    "closed_issues_sampled": 1,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 13925
+  }
+}

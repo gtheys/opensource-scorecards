@@ -1,0 +1,25 @@
+{
+  "slug": "typesense/showcase-xkcd-search",
+  "fetched_at": "2026-09-28T06:27:45.565526278Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 27,
+    "forks": 4,
+    "description": "Search & Browse xkcd by topic & keywords | Using Typesense, an open source Algolia alternative and an easier-to-use alternative to Elasticsearch",
+    "license_spdx": "Apache-2.0",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 14.422569444444445,
+    "median_pr_close_days": 0.9007233796296297,
+    "open_issues": 0,
+    "closed_issues_sampled": 1,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 2019
+  }
+}

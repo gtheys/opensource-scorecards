@@ -1,0 +1,29 @@
+{
+  "slug": "torakiki/pdfsam",
+  "fetched_at": "2026-09-28T06:25:02.044670317Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 4583,
+    "forks": 402,
+    "description": "PDFsam, a desktop application to split, merge, mix, rotate PDF files and extract pages",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": "2026-08-05T10:46:55Z",
+    "commits_90d": 35,
+    "releases_365d": 8,
+    "median_issue_close_days": 25.911898148148147,
+    "median_pr_close_days": 13.999965277777777,
+    "open_issues": 125,
+    "closed_issues_sampled": 15,
+    "contributors_12mo": 3,
+    "top_author_commit_share": 0.9387755102040817,
+    "top_author": {
+      "login": "torakiki",
+      "account_created_at": "2013-03-16T16:34:58Z",
+      "other_repos_star_sum": 5384
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 1839
+  }
+}

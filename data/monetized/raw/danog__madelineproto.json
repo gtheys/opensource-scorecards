@@ -1,0 +1,29 @@
+{
+  "slug": "danog/madelineproto",
+  "fetched_at": "2026-09-28T04:40:35.548330191Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 3523,
+    "forks": 909,
+    "description": "Async PHP client API for the telegram MTProto protocol",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": "2026-09-27T11:56:16Z",
+    "commits_90d": 103,
+    "releases_365d": 6,
+    "median_issue_close_days": 0.7307523148148148,
+    "median_pr_close_days": 1.6491898148148147,
+    "open_issues": 75,
+    "closed_issues_sampled": 35,
+    "contributors_12mo": 5,
+    "top_author_commit_share": 0.9627659574468085,
+    "top_author": {
+      "login": "danog",
+      "account_created_at": "2014-04-18T17:33:04Z",
+      "other_repos_star_sum": 3910
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 265725
+  }
+}

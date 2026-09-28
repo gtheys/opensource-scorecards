@@ -1,0 +1,29 @@
+{
+  "slug": "arandomhooman/hoomans-morphe-patches",
+  "fetched_at": "2026-09-28T04:23:55.193348638Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 218,
+    "forks": 12,
+    "description": "Patches for morphe",
+    "license_spdx": "GPL-3.0",
+    "last_commit_at": "2026-09-21T00:23:10Z",
+    "commits_90d": 100,
+    "releases_365d": 89,
+    "median_issue_close_days": 5.375219907407407,
+    "median_pr_close_days": 2.2947106481481483,
+    "open_issues": 10,
+    "closed_issues_sampled": 29,
+    "contributors_12mo": 5,
+    "top_author_commit_share": 0.5681818181818182,
+    "top_author": {
+      "login": "arandomhooman",
+      "account_created_at": "2020-04-30T17:11:37Z",
+      "other_repos_star_sum": 218
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 34583
+  }
+}

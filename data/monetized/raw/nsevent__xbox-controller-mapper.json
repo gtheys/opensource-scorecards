@@ -1,0 +1,29 @@
+{
+  "slug": "nsevent/xbox-controller-mapper",
+  "fetched_at": "2026-09-28T05:31:09.322663153Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 110,
+    "forks": 15,
+    "description": "Remap Xbox, PlayStation, Nintendo, and 300+ controllers to keyboard, mouse,  macros, and scripts on macOS. Touchpad, gyroscope, swipe typing, and OBS  integration.",
+    "license_spdx": "NOASSERTION",
+    "last_commit_at": "2026-09-27T09:45:21Z",
+    "commits_90d": 194,
+    "releases_365d": 37,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 1.6422858796296298,
+    "open_issues": 1,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "NSEvent",
+      "account_created_at": "2018-10-24T19:01:44Z",
+      "other_repos_star_sum": 151
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 40678
+  }
+}

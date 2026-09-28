@@ -1,0 +1,29 @@
+{
+  "slug": "schwartzblat/whatsapppatcher",
+  "fetched_at": "2026-09-28T05:52:21.933348037Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 258,
+    "forks": 38,
+    "description": "A patcher that decompiles WhatsApp APK, patches the smali, recompiles and signs it.",
+    "license_spdx": null,
+    "last_commit_at": "2026-09-27T21:55:44Z",
+    "commits_90d": 38,
+    "releases_365d": 2,
+    "median_issue_close_days": 135.32575231481482,
+    "median_pr_close_days": 0.0003125,
+    "open_issues": 18,
+    "closed_issues_sampled": 43,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "Schwartzblat",
+      "account_created_at": "2020-04-13T15:02:58Z",
+      "other_repos_star_sum": 703
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 2644
+  }
+}

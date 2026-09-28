@@ -1,0 +1,29 @@
+{
+  "slug": "sitewhere/sitewhere",
+  "fetched_at": "2026-09-28T06:14:04.749246633Z",
+  "status": "ok",
+  "data": {
+    "archived": true,
+    "stars": 1046,
+    "forks": 384,
+    "description": "SiteWhere is now DeviceChain — a ground-up rebuild in Go that keeps the domain model and replaces the stack. This repository is unmaintained and kept read-only so existing deployments, forks and links keep working. The work continues at https://devicechain.io",
+    "license_spdx": "NOASSERTION",
+    "last_commit_at": "2026-07-31T17:04:04Z",
+    "commits_90d": 1,
+    "releases_365d": 0,
+    "median_issue_close_days": 1.1019560185185184,
+    "median_pr_close_days": 0.00662037037037037,
+    "open_issues": 124,
+    "closed_issues_sampled": 39,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "derekadams",
+      "account_created_at": "2010-07-20T19:04:00Z",
+      "other_repos_star_sum": 0
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 15658
+  }
+}

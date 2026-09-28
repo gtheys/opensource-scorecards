@@ -1,0 +1,29 @@
+{
+  "slug": "huangwb8/chineseresearchlatex",
+  "fetched_at": "2026-09-28T05:01:12.571470870Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 2833,
+    "forks": 266,
+    "description": "中国科研常用LaTeX模板集",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-25T04:44:02Z",
+    "commits_90d": 93,
+    "releases_365d": 38,
+    "median_issue_close_days": 0.4491898148148148,
+    "median_pr_close_days": 0.8386111111111111,
+    "open_issues": 0,
+    "closed_issues_sampled": 45,
+    "contributors_12mo": 2,
+    "top_author_commit_share": 0.9959072305593452,
+    "top_author": {
+      "login": "huangwb8",
+      "account_created_at": "2018-01-20T23:30:19Z",
+      "other_repos_star_sum": 2970
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 29141
+  }
+}

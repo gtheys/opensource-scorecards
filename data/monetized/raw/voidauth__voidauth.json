@@ -1,0 +1,29 @@
+{
+  "slug": "voidauth/voidauth",
+  "fetched_at": "2026-09-28T06:33:52.392870486Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 2845,
+    "forks": 124,
+    "description": "Single Sign-On for Your Self-Hosted Universe",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": "2026-09-25T11:24:13Z",
+    "commits_90d": 204,
+    "releases_365d": 43,
+    "median_issue_close_days": 5.135023148148148,
+    "median_pr_close_days": 1.4415509259259258,
+    "open_issues": 62,
+    "closed_issues_sampled": 9,
+    "contributors_12mo": 27,
+    "top_author_commit_share": 0.9078787878787878,
+    "top_author": {
+      "login": "notquitenothing",
+      "account_created_at": "2023-06-06T08:48:48Z",
+      "other_repos_star_sum": 10
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 5819
+  }
+}

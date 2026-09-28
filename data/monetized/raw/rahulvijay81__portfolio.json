@@ -1,0 +1,29 @@
+{
+  "slug": "rahulvijay81/portfolio",
+  "fetched_at": "2026-09-28T05:47:30.203451239Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 97,
+    "forks": 26,
+    "description": "A production-ready, customizable portfolio template for developers.  Fork it, make it yours, contribute improvements back.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-05-31T15:48:39Z",
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 386.1235185185185,
+    "median_pr_close_days": 1.9588078703703704,
+    "open_issues": 3,
+    "closed_issues_sampled": 2,
+    "contributors_12mo": 2,
+    "top_author_commit_share": 0.92,
+    "top_author": {
+      "login": "rahulvijay81",
+      "account_created_at": "2022-11-15T10:15:58Z",
+      "other_repos_star_sum": 102
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 4767
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "rxri/spicetify-extensions",
+  "fetched_at": "2026-09-28T05:51:03.099114441Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 613,
+    "forks": 30,
+    "description": "Collection of custom Spicetify extensions to enhance your Spotify experience",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-10T00:10:50Z",
+    "commits_90d": 4,
+    "releases_365d": 0,
+    "median_issue_close_days": 0.016377314814814813,
+    "median_pr_close_days": 0.6503009259259259,
+    "open_issues": 11,
+    "closed_issues_sampled": 41,
+    "contributors_12mo": 3,
+    "top_author_commit_share": 0.7,
+    "top_author": {
+      "login": "rxri",
+      "account_created_at": "2014-10-22T07:48:33Z",
+      "other_repos_star_sum": 651
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 2140
+  }
+}

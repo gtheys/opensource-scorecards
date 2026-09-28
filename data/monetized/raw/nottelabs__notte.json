@@ -1,0 +1,29 @@
+{
+  "slug": "nottelabs/notte",
+  "fetched_at": "2026-09-28T05:30:21.181683933Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 2006,
+    "forks": 181,
+    "description": "Cloud browser infrastructure and web automation platform for your AI and coding agents",
+    "license_spdx": "NOASSERTION",
+    "last_commit_at": "2026-09-27T05:22:42Z",
+    "commits_90d": 148,
+    "releases_365d": 58,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.12778356481481482,
+    "open_issues": 11,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 4,
+    "top_author_commit_share": 0.4164305949008499,
+    "top_author": {
+      "login": "giordano-lucas",
+      "account_created_at": "2018-09-21T08:29:41Z",
+      "other_repos_star_sum": 21
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 15363
+  }
+}

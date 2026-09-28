@@ -1,0 +1,29 @@
+{
+  "slug": "element-hq/synapse",
+  "fetched_at": "2026-09-28T04:47:23.608759879Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 4655,
+    "forks": 615,
+    "description": "Synapse: Matrix homeserver written in Python/Twisted + Rust",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": "2026-09-25T11:32:11Z",
+    "commits_90d": 235,
+    "releases_365d": 64,
+    "median_issue_close_days": 41.26821759259259,
+    "median_pr_close_days": 12.967986111111111,
+    "open_issues": 2084,
+    "closed_issues_sampled": 1,
+    "contributors_12mo": 80,
+    "top_author_commit_share": 0.22192866578599735,
+    "top_author": {
+      "login": "MadLittleMods",
+      "account_created_at": "2011-01-12T01:31:16Z",
+      "other_repos_star_sum": 1296
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 6691
+  }
+}

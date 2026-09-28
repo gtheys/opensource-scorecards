@@ -1,0 +1,29 @@
+{
+  "slug": "nkzw-tech/athena-crisis",
+  "fetched_at": "2026-09-28T05:29:46.585854593Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1982,
+    "forks": 159,
+    "description": "Athena Crisis is a modern-retro turn-based tactical strategy game. Athena Crisis is open core technology.",
+    "license_spdx": "NOASSERTION",
+    "last_commit_at": "2026-09-06T13:23:48Z",
+    "commits_90d": 78,
+    "releases_365d": 0,
+    "median_issue_close_days": 13.263518518518518,
+    "median_pr_close_days": 0.8806018518518518,
+    "open_issues": 0,
+    "closed_issues_sampled": 27,
+    "contributors_12mo": 3,
+    "top_author_commit_share": 0.9768339768339769,
+    "top_author": {
+      "login": "cpojer",
+      "account_created_at": "2008-06-11T14:57:04Z",
+      "other_repos_star_sum": 881
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 8292
+  }
+}

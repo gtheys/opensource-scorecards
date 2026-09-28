@@ -1,0 +1,25 @@
+{
+  "slug": "typesense/showcase-books-search",
+  "fetched_at": "2026-09-28T06:27:16.665253938Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 178,
+    "forks": 20,
+    "description": "A site to instantly search 28M books from OpenLibrary using Typesense Search (an open source alternative to Algolia / ElasticSearch) ⚡ 📚 🔍",
+    "license_spdx": "Apache-2.0",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 1.915138888888889,
+    "median_pr_close_days": 18.4937037037037,
+    "open_issues": 1,
+    "closed_issues_sampled": 1,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 2559
+  }
+}

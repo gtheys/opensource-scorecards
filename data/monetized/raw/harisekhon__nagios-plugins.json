@@ -1,0 +1,29 @@
+{
+  "slug": "harisekhon/nagios-plugins",
+  "fetched_at": "2026-09-28T04:59:23.740583148Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1153,
+    "forks": 502,
+    "description": "450+ AWS, Hadoop, Cloud, Kafka, Docker, Elasticsearch, RabbitMQ, Redis, HBase, Solr, Cassandra, ZooKeeper, HDFS, Yarn, Hive, Presto, Drill, Impala, Consul, Spark, Jenkins, Travis CI, Git, MySQL, Linux, DNS, Whois, SSL Certs, Yum Security Updates, Kubernetes, Cloudera etc...",
+    "license_spdx": "NOASSERTION",
+    "last_commit_at": "2026-02-03T07:56:26Z",
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 78.10600694444445,
+    "median_pr_close_days": 0.4842592592592593,
+    "open_issues": 90,
+    "closed_issues_sampled": 29,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "HariSekhon",
+      "account_created_at": "2012-08-24T11:15:45Z",
+      "other_repos_star_sum": 11345
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 100661
+  }
+}

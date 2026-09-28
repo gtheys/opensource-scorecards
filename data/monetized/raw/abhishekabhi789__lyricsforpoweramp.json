@@ -1,0 +1,29 @@
+{
+  "slug": "abhishekabhi789/lyricsforpoweramp",
+  "fetched_at": "2026-09-28T04:17:36.733653045Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 141,
+    "forks": 6,
+    "description": "A plugin for poweramp to fetch lyrics from internet.",
+    "license_spdx": "NOASSERTION",
+    "last_commit_at": "2026-08-26T07:18:32Z",
+    "commits_90d": 26,
+    "releases_365d": 5,
+    "median_issue_close_days": 0.9391203703703703,
+    "median_pr_close_days": 0.00021412037037037038,
+    "open_issues": 2,
+    "closed_issues_sampled": 31,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "abhishekabhi789",
+      "account_created_at": "2019-06-30T07:54:14Z",
+      "other_repos_star_sum": 176
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 6492
+  }
+}

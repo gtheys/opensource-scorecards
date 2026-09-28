@@ -1,0 +1,29 @@
+{
+  "slug": "zitadel/actions",
+  "fetched_at": "2026-09-28T06:39:34.972439374Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 44,
+    "forks": 8,
+    "description": "ZITADEL Actions - Easy extensibility with custom code. Think GitHub Actions in an Identity System.",
+    "license_spdx": null,
+    "last_commit_at": "2026-07-21T12:48:54Z",
+    "commits_90d": 1,
+    "releases_365d": 0,
+    "median_issue_close_days": 0.5080844907407407,
+    "median_pr_close_days": 0.27085069444444443,
+    "open_issues": 2,
+    "closed_issues_sampled": 4,
+    "contributors_12mo": 3,
+    "top_author_commit_share": 0.6847826086956522,
+    "top_author": {
+      "login": "fcoppede",
+      "account_created_at": "2013-10-16T18:25:19Z",
+      "other_repos_star_sum": 0
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 832
+  }
+}

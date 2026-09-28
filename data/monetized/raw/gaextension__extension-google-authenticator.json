@@ -1,0 +1,29 @@
+{
+  "slug": "gaextension/extension-google-authenticator",
+  "fetched_at": "2026-09-28T04:54:50.002768004Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 177,
+    "forks": 0,
+    "description": "Google Authenticator in browser!",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-06-26T09:47:34Z",
+    "commits_90d": 0,
+    "releases_365d": 1,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "GAExtension",
+      "account_created_at": "2026-06-26T09:44:10Z",
+      "other_repos_star_sum": 177
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 9700
+  }
+}

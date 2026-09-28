@@ -1,0 +1,25 @@
+{
+  "slug": "viewflow/django-material",
+  "fetched_at": "2026-09-28T06:32:26.627328509Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 2539,
+    "forks": 419,
+    "description": "Material Design for Django",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 21.888564814814814,
+    "median_pr_close_days": 241.76462962962964,
+    "open_issues": 21,
+    "closed_issues_sampled": 33,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 3597
+  }
+}

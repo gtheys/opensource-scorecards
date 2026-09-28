@@ -1,0 +1,29 @@
+{
+  "slug": "portswigger/turbo-intruder",
+  "fetched_at": "2026-09-28T05:44:26.370327531Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1812,
+    "forks": 241,
+    "description": "Turbo Intruder is a Burp Suite extension for sending large numbers of HTTP requests and analyzing the results.",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": "2026-09-23T09:00:10Z",
+    "commits_90d": 13,
+    "releases_365d": 0,
+    "median_issue_close_days": 2.029166666666667,
+    "median_pr_close_days": 1.748599537037037,
+    "open_issues": 19,
+    "closed_issues_sampled": 41,
+    "contributors_12mo": 3,
+    "top_author_commit_share": 0.9428571428571428,
+    "top_author": {
+      "login": "albinowax",
+      "account_created_at": "2012-03-05T13:33:22Z",
+      "other_repos_star_sum": 727
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 3806
+  }
+}

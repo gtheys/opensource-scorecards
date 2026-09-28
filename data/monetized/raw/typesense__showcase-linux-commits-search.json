@@ -1,0 +1,25 @@
+{
+  "slug": "typesense/showcase-linux-commits-search",
+  "fetched_at": "2026-09-28T06:27:31.029695638Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 53,
+    "forks": 9,
+    "description": "Instantly search 1M Linux Kernel Commit Messages using Typesense Search (an open source alternative to Algolia / ElasticSearch) ⚡ 💻 🔍",
+    "license_spdx": "Apache-2.0",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 19.96041087962963,
+    "median_pr_close_days": 4.329756944444444,
+    "open_issues": 1,
+    "closed_issues_sampled": 2,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 2106
+  }
+}

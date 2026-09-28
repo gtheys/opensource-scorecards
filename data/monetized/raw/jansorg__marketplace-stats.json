@@ -1,0 +1,25 @@
+{
+  "slug": "jansorg/marketplace-stats",
+  "fetched_at": "2026-09-28T05:07:03.915440446Z",
+  "status": "ok",
+  "data": {
+    "archived": true,
+    "stars": 21,
+    "forks": 0,
+    "description": "A CLI tool to create reports for paid plugins on the JetBrains marketplace.",
+    "license_spdx": "Apache-2.0",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 0.24121527777777776,
+    "median_pr_close_days": 0.034837962962962966,
+    "open_issues": 0,
+    "closed_issues_sampled": 1,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 3414
+  }
+}

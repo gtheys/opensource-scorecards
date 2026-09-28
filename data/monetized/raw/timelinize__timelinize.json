@@ -1,0 +1,29 @@
+{
+  "slug": "timelinize/timelinize",
+  "fetched_at": "2026-09-28T06:23:54.468345950Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 3674,
+    "forks": 125,
+    "description": "Store your data from all your accounts and devices in a single cohesive timeline on your own computer",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": "2026-05-21T22:02:09Z",
+    "commits_90d": 0,
+    "releases_365d": 6,
+    "median_issue_close_days": 1.6434027777777778,
+    "median_pr_close_days": 0.19586805555555556,
+    "open_issues": 56,
+    "closed_issues_sampled": 29,
+    "contributors_12mo": 10,
+    "top_author_commit_share": 0.8854166666666666,
+    "top_author": {
+      "login": "mholt",
+      "account_created_at": "2011-10-14T18:37:00Z",
+      "other_repos_star_sum": 33311
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 14788
+  }
+}

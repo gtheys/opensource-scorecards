@@ -1,0 +1,29 @@
+{
+  "slug": "snailclimb/interview-guide",
+  "fetched_at": "2026-09-28T06:14:44.066335829Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 3290,
+    "forks": 739,
+    "description": "基于 Spring Boot 4.1、Java 25、Spring AI 2.0、React、PostgreSQL/pgvector、Redis 和 RustFS 构建的开源 AI 面试平台，支持简历智能分析、模拟面试、语音面试和知识库 RAG。",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": "2026-09-16T23:25:55Z",
+    "commits_90d": 77,
+    "releases_365d": 0,
+    "median_issue_close_days": 8.722974537037038,
+    "median_pr_close_days": 1.1748611111111111,
+    "open_issues": 3,
+    "closed_issues_sampled": 24,
+    "contributors_12mo": 13,
+    "top_author_commit_share": 0.8783269961977186,
+    "top_author": {
+      "login": "Snailclimb",
+      "account_created_at": "2017-07-04T03:55:47Z",
+      "other_repos_star_sum": 172364
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 30799
+  }
+}

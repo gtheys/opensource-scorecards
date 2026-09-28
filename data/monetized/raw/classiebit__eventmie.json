@@ -1,0 +1,25 @@
+{
+  "slug": "classiebit/eventmie",
+  "fetched_at": "2026-09-28T04:36:04.843273562Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 191,
+    "forks": 70,
+    "description": "Run your own Events business with Eventmie on your hosting & domain. Open-source self-hosted eventbrite alternative.. Use it as an event ticket selling website or event management platform on your own domain.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-15T03:01:58Z",
+    "commits_90d": 1,
+    "releases_365d": 1,
+    "median_issue_close_days": 235.01337962962964,
+    "median_pr_close_days": 19.419155092592593,
+    "open_issues": 14,
+    "closed_issues_sampled": 5,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 14247
+  }
+}

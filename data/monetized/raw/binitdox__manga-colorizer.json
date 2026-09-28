@@ -1,0 +1,29 @@
+{
+  "slug": "binitdox/manga-colorizer",
+  "fetched_at": "2026-09-28T04:29:19.851773047Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 173,
+    "forks": 35,
+    "description": "Bring mangas to life!",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-01-04T20:24:36Z",
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 8.642916666666666,
+    "median_pr_close_days": 1.552824074074074,
+    "open_issues": 12,
+    "closed_issues_sampled": 15,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "BinitDOX",
+      "account_created_at": "2021-11-08T08:31:32Z",
+      "other_repos_star_sum": 213
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 10752
+  }
+}

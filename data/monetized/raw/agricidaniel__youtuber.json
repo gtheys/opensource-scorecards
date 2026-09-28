@@ -1,0 +1,29 @@
+{
+  "slug": "agricidaniel/youtuber",
+  "fetched_at": "2026-09-28T04:19:08.020493083Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 65,
+    "forks": 14,
+    "description": "A source-cited YouTube brain: creator growth & strategy, the developer API, and paid advertising. Unofficial; not affiliated with YouTube/Google.",
+    "license_spdx": "Apache-2.0",
+    "last_commit_at": "2026-06-26T13:57:56Z",
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.008761574074074074,
+    "open_issues": 4,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "AgriciDaniel",
+      "account_created_at": "2025-07-27T16:45:49Z",
+      "other_repos_star_sum": 52397
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 5965
+  }
+}

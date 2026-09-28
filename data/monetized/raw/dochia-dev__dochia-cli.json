@@ -1,0 +1,29 @@
+{
+  "slug": "dochia-dev/dochia-cli",
+  "fetched_at": "2026-09-28T04:44:02.003435194Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 148,
+    "forks": 4,
+    "description": "Dochia automatically generates and executes negative and boundary testing so you and your AI agents can focus on building. Because nobody wants to debug why their \"enterprise-grade\" API can't handle a simple 🤷‍♀️",
+    "license_spdx": "Apache-2.0",
+    "last_commit_at": "2026-04-03T20:12:01Z",
+    "commits_90d": 0,
+    "releases_365d": 5,
+    "median_issue_close_days": 8.936840277777778,
+    "median_pr_close_days": null,
+    "open_issues": 1,
+    "closed_issues_sampled": 6,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "ludovicianul",
+      "account_created_at": "2013-01-09T22:23:22Z",
+      "other_repos_star_sum": 226
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 8049
+  }
+}

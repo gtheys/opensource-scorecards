@@ -1,0 +1,25 @@
+{
+  "slug": "thu-mig/yoloe",
+  "fetched_at": "2026-09-28T06:23:46.906495910Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 2295,
+    "forks": 210,
+    "description": "YOLOE: Real-Time Seeing Anything [ICCV 2025]",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 0.9427777777777778,
+    "median_pr_close_days": 0.005868055555555555,
+    "open_issues": 81,
+    "closed_issues_sampled": 41,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": true,
+    "readme_len": 19750
+  }
+}

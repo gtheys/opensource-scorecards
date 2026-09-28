@@ -1,0 +1,29 @@
+{
+  "slug": "plausible/docs",
+  "fetched_at": "2026-09-28T05:43:25.037443063Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 431,
+    "forks": 275,
+    "description": "Documentation for Plausible Analytics",
+    "license_spdx": "CC-BY-SA-4.0",
+    "last_commit_at": "2026-09-25T06:48:39Z",
+    "commits_90d": 85,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.0009375,
+    "open_issues": 24,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 12,
+    "top_author_commit_share": 0.727810650887574,
+    "top_author": {
+      "login": "metmarkosaric",
+      "account_created_at": "2017-12-07T12:15:45Z",
+      "other_repos_star_sum": 8
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 967
+  }
+}

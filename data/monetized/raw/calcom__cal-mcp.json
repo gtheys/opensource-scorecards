@@ -1,0 +1,25 @@
+{
+  "slug": "calcom/cal-mcp",
+  "fetched_at": "2026-09-28T04:32:16.342324200Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 30,
+    "forks": 15,
+    "description": "the official MCP server for cal.com ",
+    "license_spdx": null,
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 158.84828703703704,
+    "median_pr_close_days": null,
+    "open_issues": 9,
+    "closed_issues_sampled": 1,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 1929
+  }
+}

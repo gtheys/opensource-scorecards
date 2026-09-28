@@ -1,0 +1,29 @@
+{
+  "slug": "usefathom/wordpress-plugin",
+  "fetched_at": "2026-09-28T06:30:45.110669963Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 25,
+    "forks": 12,
+    "description": "A simple plugin to add the Fathom tracking snippet to your WordPress site.",
+    "license_spdx": "GPL-3.0",
+    "last_commit_at": "2025-11-18T17:19:13Z",
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 153.7478935185185,
+    "median_pr_close_days": 2.967951388888889,
+    "open_issues": 3,
+    "closed_issues_sampled": 5,
+    "contributors_12mo": 2,
+    "top_author_commit_share": 0.6666666666666666,
+    "top_author": {
+      "login": "AshWills",
+      "account_created_at": "2015-10-17T22:38:04Z",
+      "other_repos_star_sum": 0
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 9900
+  }
+}

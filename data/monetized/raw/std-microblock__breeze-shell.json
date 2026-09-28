@@ -1,0 +1,29 @@
+{
+  "slug": "std-microblock/breeze-shell",
+  "fetched_at": "2026-09-28T06:17:15.307885805Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 3315,
+    "forks": 58,
+    "description": "An alternative Windows context menu, and more.",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": "2026-09-20T07:32:23Z",
+    "commits_90d": 5,
+    "releases_365d": 4,
+    "median_issue_close_days": 43.08038194444444,
+    "median_pr_close_days": 0.42452546296296295,
+    "open_issues": 69,
+    "closed_issues_sampled": 42,
+    "contributors_12mo": 6,
+    "top_author_commit_share": 0.9558011049723757,
+    "top_author": {
+      "login": "std-microblock",
+      "account_created_at": "2020-06-13T04:26:53Z",
+      "other_repos_star_sum": 15618
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 3569
+  }
+}

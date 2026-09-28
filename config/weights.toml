@@ -54,3 +54,10 @@ seed_source = "https://raw.githubusercontent.com/BubblePtr/awesome-pi/main/READM
 name = "Herdr Plugins"
 data_dir = "data/herdr"
 seed_source = "https://raw.githubusercontent.com/yigitkonur/awesome-herdr/main/README.md"
+
+# AIDEV-NOTE: monetized repos.yaml is generated from a local research list
+# (oss-monetized-projects.json), not an awesome-list — `seed` is never run for
+# this category; the YAML is committed by hand and nightly `collect` refreshes it.
+[categories.monetized]
+name = "Monetized OSS"
+data_dir = "data/monetized"

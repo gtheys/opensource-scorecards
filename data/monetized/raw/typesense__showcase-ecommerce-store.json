@@ -1,0 +1,25 @@
+{
+  "slug": "typesense/showcase-ecommerce-store",
+  "fetched_at": "2026-09-28T06:27:23.918586960Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 85,
+    "forks": 18,
+    "description": "An app showing how you can use Typesense to build a full-fledged ecommerce browsing and searching experience",
+    "license_spdx": "Apache-2.0",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 14.750983796296296,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 1253
+  }
+}

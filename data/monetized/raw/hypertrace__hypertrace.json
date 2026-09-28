@@ -1,0 +1,25 @@
+{
+  "slug": "hypertrace/hypertrace",
+  "fetched_at": "2026-09-28T05:02:14.563583187Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 519,
+    "forks": 30,
+    "description": "An open source distributed tracing & observability platform",
+    "license_spdx": "NOASSERTION",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 11.488483796296297,
+    "median_pr_close_days": 0.051041666666666666,
+    "open_issues": 77,
+    "closed_issues_sampled": 21,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 7613
+  }
+}

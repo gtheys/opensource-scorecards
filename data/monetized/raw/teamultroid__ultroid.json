@@ -1,0 +1,29 @@
+{
+  "slug": "teamultroid/ultroid",
+  "fetched_at": "2026-09-28T06:21:27.804334497Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 2982,
+    "forks": 8025,
+    "description": "Advanced Multi-Featured Telegram UserBot, Built in Python Using Telethon lib.",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": "2026-07-19T11:08:59Z",
+    "commits_90d": 1,
+    "releases_365d": 0,
+    "median_issue_close_days": 62.91179398148148,
+    "median_pr_close_days": 0.07616898148148148,
+    "open_issues": 12,
+    "closed_issues_sampled": 5,
+    "contributors_12mo": 3,
+    "top_author_commit_share": 0.6,
+    "top_author": {
+      "login": "xditya",
+      "account_created_at": "2019-12-16T17:13:44Z",
+      "other_repos_star_sum": 1089
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 8038
+  }
+}

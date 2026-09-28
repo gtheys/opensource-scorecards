@@ -1,0 +1,29 @@
+{
+  "slug": "typesense/typesense-rust",
+  "fetched_at": "2026-09-28T06:29:12.352231941Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 78,
+    "forks": 20,
+    "description": "Rust client for Typesense | Work In Progress & Help Wanted",
+    "license_spdx": "Apache-2.0",
+    "last_commit_at": "2026-07-27T11:32:04Z",
+    "commits_90d": 3,
+    "releases_365d": 1,
+    "median_issue_close_days": 75.99470486111112,
+    "median_pr_close_days": 0.9132754629629629,
+    "open_issues": 15,
+    "closed_issues_sampled": 6,
+    "contributors_12mo": 6,
+    "top_author_commit_share": 0.48,
+    "top_author": {
+      "login": "haydenhoang",
+      "account_created_at": "2021-11-19T14:20:01Z",
+      "other_repos_star_sum": 3
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 8957
+  }
+}

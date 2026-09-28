@@ -1,0 +1,29 @@
+{
+  "slug": "emperorclaw/emperorclaw",
+  "fetched_at": "2026-09-28T04:47:56.843477419Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 408,
+    "forks": 8,
+    "description": "Introduce AI to your company workspace.",
+    "license_spdx": "NOASSERTION",
+    "last_commit_at": "2026-09-27T19:33:59Z",
+    "commits_90d": 486,
+    "releases_365d": 71,
+    "median_issue_close_days": 0.026383101851851852,
+    "median_pr_close_days": 0.050248842592592595,
+    "open_issues": 0,
+    "closed_issues_sampled": 2,
+    "contributors_12mo": 3,
+    "top_author_commit_share": 0.5501002004008017,
+    "top_author": {
+      "login": "josezuma",
+      "account_created_at": "2025-06-13T05:47:12Z",
+      "other_repos_star_sum": 11
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 14688
+  }
+}

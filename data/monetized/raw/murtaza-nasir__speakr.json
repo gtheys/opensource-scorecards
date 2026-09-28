@@ -1,0 +1,29 @@
+{
+  "slug": "murtaza-nasir/speakr",
+  "fetched_at": "2026-09-28T05:27:14.777882594Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 4031,
+    "forks": 337,
+    "description": "Speakr is a personal, self-hosted web application designed for transcribing audio recordings",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": "2026-09-19T22:16:13Z",
+    "commits_90d": 219,
+    "releases_365d": 54,
+    "median_issue_close_days": 10.332679398148148,
+    "median_pr_close_days": 13.770405092592593,
+    "open_issues": 7,
+    "closed_issues_sampled": 34,
+    "contributors_12mo": 21,
+    "top_author_commit_share": 0.944944944944945,
+    "top_author": {
+      "login": "murtaza-nasir",
+      "account_created_at": "2017-04-23T17:34:43Z",
+      "other_repos_star_sum": 6058
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 37786
+  }
+}

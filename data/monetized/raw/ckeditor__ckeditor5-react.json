@@ -1,0 +1,29 @@
+{
+  "slug": "ckeditor/ckeditor5-react",
+  "fetched_at": "2026-09-28T04:35:50.448302969Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 467,
+    "forks": 105,
+    "description": "Official CKEditor 5 React component.",
+    "license_spdx": "NOASSERTION",
+    "last_commit_at": "2026-09-22T11:10:03Z",
+    "commits_90d": 74,
+    "releases_365d": 8,
+    "median_issue_close_days": 12.131018518518518,
+    "median_pr_close_days": 0.34150462962962963,
+    "open_issues": 79,
+    "closed_issues_sampled": 5,
+    "contributors_12mo": 11,
+    "top_author_commit_share": 0.36054421768707484,
+    "top_author": {
+      "login": "Mati365",
+      "account_created_at": "2013-03-23T12:49:03Z",
+      "other_repos_star_sum": 1524
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 3948
+  }
+}

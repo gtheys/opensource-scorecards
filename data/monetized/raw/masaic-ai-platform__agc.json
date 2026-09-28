@@ -1,0 +1,29 @@
+{
+  "slug": "masaic-ai-platform/agc",
+  "fetched_at": "2026-09-28T05:19:40.107290199Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 113,
+    "forks": 9,
+    "description": "AgC is the open-core platform that powers Open Agentic Compute — a new compute substrate purpose-built for deploying, running, and orchestrating AI agents at scale.",
+    "license_spdx": "Apache-2.0",
+    "last_commit_at": "2026-07-10T08:58:45Z",
+    "commits_90d": 2,
+    "releases_365d": 5,
+    "median_issue_close_days": 15.07048611111111,
+    "median_pr_close_days": 0.05800925925925926,
+    "open_issues": 21,
+    "closed_issues_sampled": 5,
+    "contributors_12mo": 3,
+    "top_author_commit_share": 0.8333333333333334,
+    "top_author": {
+      "login": "jas34",
+      "account_created_at": "2013-03-28T09:36:17Z",
+      "other_repos_star_sum": 30
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 4726
+  }
+}

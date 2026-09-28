@@ -1,0 +1,29 @@
+{
+  "slug": "zitadel/example-auth-nextjs",
+  "fetched_at": "2026-09-28T06:39:40.201340536Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 50,
+    "forks": 20,
+    "description": "Official Zitadel auth example for Next.js.",
+    "license_spdx": "Apache-2.0",
+    "last_commit_at": "2026-09-10T10:39:31Z",
+    "commits_90d": 1,
+    "releases_365d": 0,
+    "median_issue_close_days": 480.01947916666666,
+    "median_pr_close_days": 3.9119733796296297,
+    "open_issues": 2,
+    "closed_issues_sampled": 2,
+    "contributors_12mo": 2,
+    "top_author_commit_share": 0.9795918367346939,
+    "top_author": {
+      "login": "mridang",
+      "account_created_at": "2010-07-09T12:50:04Z",
+      "other_repos_star_sum": 117
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 7937
+  }
+}

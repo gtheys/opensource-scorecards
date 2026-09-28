@@ -1,0 +1,25 @@
+{
+  "slug": "spooky-manufacturing/8q",
+  "fetched_at": "2026-09-28T06:16:36.381459838Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 101,
+    "forks": 22,
+    "description": "General Purpose 8 Qubit Optical Quantum Computer",
+    "license_spdx": "GPL-3.0",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 9.803854166666667,
+    "median_pr_close_days": 0.0017824074074074075,
+    "open_issues": 4,
+    "closed_issues_sampled": 3,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 4155
+  }
+}

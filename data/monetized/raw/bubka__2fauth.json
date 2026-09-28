@@ -1,0 +1,29 @@
+{
+  "slug": "bubka/2fauth",
+  "fetched_at": "2026-09-28T04:31:30.651548896Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 4167,
+    "forks": 301,
+    "description": "A Web app to manage your Two-Factor Authentication (2FA) accounts and generate their security codes",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": "2026-09-02T20:20:53Z",
+    "commits_90d": 33,
+    "releases_365d": 11,
+    "median_issue_close_days": 40.41019675925926,
+    "median_pr_close_days": 6.4521296296296295,
+    "open_issues": 20,
+    "closed_issues_sampled": 47,
+    "contributors_12mo": 5,
+    "top_author_commit_share": 0.9868766404199475,
+    "top_author": {
+      "login": "Bubka",
+      "account_created_at": "2011-06-18T19:37:57Z",
+      "other_repos_star_sum": 4224
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 4928
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "maa1999/m9a",
+  "fetched_at": "2026-09-28T05:17:31.156137406Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1959,
+    "forks": 127,
+    "description": "重返未来：1999 小助手 | Assistant For Reverse: 1999",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": "2026-09-27T03:49:56Z",
+    "commits_90d": 215,
+    "releases_365d": 100,
+    "median_issue_close_days": 1.0856712962962962,
+    "median_pr_close_days": 0.8217129629629629,
+    "open_issues": 5,
+    "closed_issues_sampled": 25,
+    "contributors_12mo": 15,
+    "top_author_commit_share": 0.8777239709443099,
+    "top_author": {
+      "login": "Windsland52",
+      "account_created_at": "2021-06-28T02:05:55Z",
+      "other_repos_star_sum": 46
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 4728
+  }
+}

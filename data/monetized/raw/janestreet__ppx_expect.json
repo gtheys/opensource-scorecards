@@ -1,0 +1,29 @@
+{
+  "slug": "janestreet/ppx_expect",
+  "fetched_at": "2026-09-28T05:06:59.151452386Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 195,
+    "forks": 35,
+    "description": "Cram like framework for OCaml",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-07-10T16:44:55Z",
+    "commits_90d": 1,
+    "releases_365d": 0,
+    "median_issue_close_days": 97.9241550925926,
+    "median_pr_close_days": 165.6938425925926,
+    "open_issues": 4,
+    "closed_issues_sampled": 27,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "public-release",
+      "account_created_at": "2023-02-28T04:04:39Z",
+      "other_repos_star_sum": 1
+    },
+    "has_ci": false,
+    "has_tests": true,
+    "readme_len": 24089
+  }
+}

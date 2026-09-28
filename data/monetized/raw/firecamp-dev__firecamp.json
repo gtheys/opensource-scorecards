@@ -1,0 +1,29 @@
+{
+  "slug": "firecamp-dev/firecamp",
+  "fetched_at": "2026-09-28T04:51:13.886185942Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 2614,
+    "forks": 168,
+    "description": "Developer-first OpenSource API DevTool, Postman/Insomnia alternative.",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": "2026-03-04T06:06:17Z",
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 16.974936342592592,
+    "median_pr_close_days": 16.47105324074074,
+    "open_issues": 105,
+    "closed_issues_sampled": 10,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "Nishchit14",
+      "account_created_at": "2013-07-24T06:30:54Z",
+      "other_repos_star_sum": 38
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 7532
+  }
+}

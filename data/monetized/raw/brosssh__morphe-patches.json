@@ -1,0 +1,29 @@
+{
+  "slug": "brosssh/morphe-patches",
+  "fetched_at": "2026-09-28T04:31:08.343303361Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 341,
+    "forks": 7,
+    "description": "🧩 Distraction free Instagram + few patches for apps I care about",
+    "license_spdx": "GPL-3.0",
+    "last_commit_at": "2026-09-01T07:45:54Z",
+    "commits_90d": 11,
+    "releases_365d": 67,
+    "median_issue_close_days": 3.64384837962963,
+    "median_pr_close_days": 8.703640046296297,
+    "open_issues": 13,
+    "closed_issues_sampled": 26,
+    "contributors_12mo": 4,
+    "top_author_commit_share": 0.5757575757575758,
+    "top_author": {
+      "login": "brosssh",
+      "account_created_at": "2018-11-11T12:47:27Z",
+      "other_repos_star_sum": 504
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 6343
+  }
+}

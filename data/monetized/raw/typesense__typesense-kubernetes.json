@@ -1,0 +1,25 @@
+{
+  "slug": "typesense/typesense-kubernetes",
+  "fetched_at": "2026-09-28T06:28:42.845140078Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 50,
+    "forks": 17,
+    "description": "Typesense Kubernetes ",
+    "license_spdx": null,
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 8.95849537037037,
+    "median_pr_close_days": 0.42108796296296297,
+    "open_issues": 4,
+    "closed_issues_sampled": 1,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 684
+  }
+}

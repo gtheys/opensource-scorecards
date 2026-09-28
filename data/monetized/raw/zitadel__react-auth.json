@@ -1,0 +1,29 @@
+{
+  "slug": "zitadel/react-auth",
+  "fetched_at": "2026-09-28T06:40:10.088750287Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 22,
+    "forks": 14,
+    "description": "Official Zitadel auth integration for React.",
+    "license_spdx": "NOASSERTION",
+    "last_commit_at": "2026-09-10T10:47:04Z",
+    "commits_90d": 6,
+    "releases_365d": 6,
+    "median_issue_close_days": 89.63208333333333,
+    "median_pr_close_days": 7.575844907407407,
+    "open_issues": 4,
+    "closed_issues_sampled": 7,
+    "contributors_12mo": 7,
+    "top_author_commit_share": 0.53125,
+    "top_author": {
+      "login": "mridang",
+      "account_created_at": "2010-07-09T12:50:04Z",
+      "other_repos_star_sum": 117
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 6861
+  }
+}

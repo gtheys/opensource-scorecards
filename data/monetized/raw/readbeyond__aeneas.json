@@ -1,0 +1,25 @@
+{
+  "slug": "readbeyond/aeneas",
+  "fetched_at": "2026-09-28T05:48:12.886445419Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 2867,
+    "forks": 277,
+    "description": "aeneas is a Python/C library and a set of tools to automagically synchronize audio and text (aka forced alignment)",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 1380.8168055555554,
+    "median_pr_close_days": 120.95217592592593,
+    "open_issues": 37,
+    "closed_issues_sampled": 33,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 16358
+  }
+}

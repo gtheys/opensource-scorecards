@@ -1,0 +1,29 @@
+{
+  "slug": "broadleafcommerce/broadleafcommerce",
+  "fetched_at": "2026-09-28T04:31:03.555938159Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1923,
+    "forks": 1323,
+    "description": "Broadleaf Commerce CE - an eCommerce framework based on Java and Spring",
+    "license_spdx": null,
+    "last_commit_at": "2026-06-26T19:55:46Z",
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 748.0655729166666,
+    "median_pr_close_days": 12.247777777777777,
+    "open_issues": 41,
+    "closed_issues_sampled": 2,
+    "contributors_12mo": 7,
+    "top_author_commit_share": 0.41509433962264153,
+    "top_author": {
+      "login": "riteshadhikari17",
+      "account_created_at": "2018-01-02T16:28:46Z",
+      "other_repos_star_sum": 0
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 8175
+  }
+}

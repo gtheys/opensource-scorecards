@@ -1,0 +1,25 @@
+{
+  "slug": "tonyleelyy/opencore-hackintosh-dell-g3-3579",
+  "fetched_at": "2026-09-28T06:24:53.059728237Z",
+  "status": "ok",
+  "data": {
+    "archived": true,
+    "stars": 127,
+    "forks": 26,
+    "description": "OpenCore EFI for Dell G3 3579 i5-8300H GTX1050 version.",
+    "license_spdx": "NOASSERTION",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 2.933946759259259,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 50,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 6904
+  }
+}

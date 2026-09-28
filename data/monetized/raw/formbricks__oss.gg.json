@@ -1,0 +1,25 @@
+{
+  "slug": "formbricks/oss.gg",
+  "fetched_at": "2026-09-28T04:52:44.571282832Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 82,
+    "forks": 49,
+    "description": "Gamify Open Source Contributions",
+    "license_spdx": "MIT",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 27.13917824074074,
+    "median_pr_close_days": 0.2773263888888889,
+    "open_issues": 25,
+    "closed_issues_sampled": 15,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 4484
+  }
+}

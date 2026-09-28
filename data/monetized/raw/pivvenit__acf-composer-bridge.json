@@ -1,0 +1,25 @@
+{
+  "slug": "pivvenit/acf-composer-bridge",
+  "fetched_at": "2026-09-28T05:43:08.370598568Z",
+  "status": "ok",
+  "data": {
+    "archived": true,
+    "stars": 45,
+    "forks": 4,
+    "description": "Provides a static composer repository that references all Advanced Custom Fields Pro versions",
+    "license_spdx": "MIT",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 3.519646990740741,
+    "median_pr_close_days": 3.064351851851852,
+    "open_issues": 0,
+    "closed_issues_sampled": 14,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 5236
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "welovedevs/react-ultimate-resume",
+  "fetched_at": "2026-09-28T06:34:58.331128115Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 2145,
+    "forks": 586,
+    "description": "💼 🎨 A modern software developer resume built with React and JSONResume",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": "2026-02-25T11:10:19Z",
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 216.08208333333334,
+    "median_pr_close_days": 17.133466435185184,
+    "open_issues": 22,
+    "closed_issues_sampled": 12,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "aurelien-insitoo",
+      "account_created_at": "2025-03-10T14:40:15Z",
+      "other_repos_star_sum": 0
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 7917
+  }
+}

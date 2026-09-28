@@ -1,0 +1,25 @@
+{
+  "slug": "openrecall/openrecall",
+  "fetched_at": "2026-09-28T05:37:41.423052273Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 2946,
+    "forks": 197,
+    "description": "OpenRecall is a fully open-source, privacy-first alternative to proprietary solutions like Microsoft's Windows Recall. With OpenRecall, you can easily access your digital history, enhancing your memory and productivity without compromising your privacy.",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 1.3310590277777776,
+    "median_pr_close_days": 0.26044560185185184,
+    "open_issues": 79,
+    "closed_issues_sampled": 34,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 5974
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "cypress-io/github-action",
+  "fetched_at": "2026-09-28T04:40:05.955082148Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1467,
+    "forks": 354,
+    "description": "GitHub Action for running Cypress end-to-end & component tests",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-21T12:59:24Z",
+    "commits_90d": 27,
+    "releases_365d": 25,
+    "median_issue_close_days": 23.59191550925926,
+    "median_pr_close_days": 0.48690393518518515,
+    "open_issues": 39,
+    "closed_issues_sampled": 8,
+    "contributors_12mo": 2,
+    "top_author_commit_share": 0.9776119402985075,
+    "top_author": {
+      "login": "MikeMcC399",
+      "account_created_at": "2020-06-16T09:30:50Z",
+      "other_repos_star_sum": 4
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 92180
+  }
+}

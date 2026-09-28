@@ -1,0 +1,29 @@
+{
+  "slug": "normation/rudder",
+  "fetched_at": "2026-09-28T05:29:57.645484350Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 713,
+    "forks": 92,
+    "description": "Rudder is a configuration and security automation platform. Manage your Cloud, hybrid or on-premises infrastructure in a simple, scalable and dynamic way.",
+    "license_spdx": "GPL-3.0",
+    "last_commit_at": "2026-09-27T21:40:32Z",
+    "commits_90d": 942,
+    "releases_365d": 16,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 2.382841435185185,
+    "open_issues": 43,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 12,
+    "top_author_commit_share": 0.31932773109243695,
+    "top_author": {
+      "login": "amousset",
+      "account_created_at": "2010-07-12T09:32:16Z",
+      "other_repos_star_sum": 30
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 10624
+  }
+}

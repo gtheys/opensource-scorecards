@@ -1,0 +1,25 @@
+{
+  "slug": "xero/aks068-via",
+  "fetched_at": "2026-09-28T06:35:43.610203035Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 51,
+    "forks": 10,
+    "description": "VIA json programming files for both the regular wired and tri-mode/pro versions of the AKS068 keyboard. plus my custom layout",
+    "license_spdx": "CC0-1.0",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 0.22024305555555557,
+    "median_pr_close_days": 13.654745370370371,
+    "open_issues": 2,
+    "closed_issues_sampled": 1,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 2358
+  }
+}

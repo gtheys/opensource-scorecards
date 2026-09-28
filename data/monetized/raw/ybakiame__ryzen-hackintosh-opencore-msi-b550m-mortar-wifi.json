@@ -1,0 +1,25 @@
+{
+  "slug": "ybakiame/ryzen-hackintosh-opencore-msi-b550m-mortar-wifi",
+  "fetched_at": "2026-09-28T06:36:46.987196790Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 125,
+    "forks": 22,
+    "description": "MSI B550M MORTAR WIFI Hackintosh EFI",
+    "license_spdx": null,
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 31.079033564814814,
+    "median_pr_close_days": 0.4549768518518518,
+    "open_issues": 0,
+    "closed_issues_sampled": 26,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 3608
+  }
+}

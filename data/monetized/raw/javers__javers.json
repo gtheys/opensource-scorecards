@@ -1,0 +1,29 @@
+{
+  "slug": "javers/javers",
+  "fetched_at": "2026-09-28T05:07:17.350973097Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1573,
+    "forks": 393,
+    "description": "JaVers - object auditing and diff framework for Java",
+    "license_spdx": "Apache-2.0",
+    "last_commit_at": "2026-08-16T16:54:31Z",
+    "commits_90d": 15,
+    "releases_365d": 0,
+    "median_issue_close_days": 28.979924768518515,
+    "median_pr_close_days": 2.784386574074074,
+    "open_issues": 84,
+    "closed_issues_sampled": 20,
+    "contributors_12mo": 12,
+    "top_author_commit_share": 0.6382978723404256,
+    "top_author": {
+      "login": "bartoszwalacik",
+      "account_created_at": "2012-10-08T11:04:33Z",
+      "other_repos_star_sum": 0
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 3905
+  }
+}

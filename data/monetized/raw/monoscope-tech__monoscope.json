@@ -1,0 +1,29 @@
+{
+  "slug": "monoscope-tech/monoscope",
+  "fetched_at": "2026-09-28T05:25:15.250412172Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1842,
+    "forks": 76,
+    "description": "Monoscope lets you ingest and explore your logs, traces and metrics. We store these in S3 compatible buckets. Query in natural language via LLMs.",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": "2026-09-27T22:06:44Z",
+    "commits_90d": 990,
+    "releases_365d": 19,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.02993634259259259,
+    "open_issues": 36,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 2,
+    "top_author_commit_share": 0.9989795918367347,
+    "top_author": {
+      "login": "tonyalaribe",
+      "account_created_at": "2014-02-01T23:42:34Z",
+      "other_repos_star_sum": 35
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 14733
+  }
+}

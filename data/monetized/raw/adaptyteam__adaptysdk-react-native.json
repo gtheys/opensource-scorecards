@@ -1,0 +1,29 @@
+{
+  "slug": "adaptyteam/adaptysdk-react-native",
+  "fetched_at": "2026-09-28T04:18:16.415818966Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 187,
+    "forks": 17,
+    "description": "React Native SDK for growing in-app subscriptions",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-09-11T13:13:42Z",
+    "commits_90d": 148,
+    "releases_365d": 22,
+    "median_issue_close_days": 233.12852430555557,
+    "median_pr_close_days": 0.014461805555555556,
+    "open_issues": 1,
+    "closed_issues_sampled": 4,
+    "contributors_12mo": 5,
+    "top_author_commit_share": 0.9435665914221218,
+    "top_author": {
+      "login": "StanislavMayorov",
+      "account_created_at": "2015-03-26T20:21:32Z",
+      "other_repos_star_sum": 9
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 10389
+  }
+}

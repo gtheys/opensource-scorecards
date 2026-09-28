@@ -1,0 +1,25 @@
+{
+  "slug": "owasp-change/owasp-change.github.io",
+  "fetched_at": "2026-09-28T05:39:13.427189406Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 108,
+    "forks": 79,
+    "description": "An Open Letter to the OWASP Board",
+    "license_spdx": "Apache-2.0",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 0.5748611111111112,
+    "median_pr_close_days": 0.002627314814814815,
+    "open_issues": 2,
+    "closed_issues_sampled": 2,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 12905
+  }
+}

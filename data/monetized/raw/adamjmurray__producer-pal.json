@@ -1,0 +1,29 @@
+{
+  "slug": "adamjmurray/producer-pal",
+  "fetched_at": "2026-09-28T04:18:03.977238833Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 312,
+    "forks": 38,
+    "description": "AI music production assistant for Ableton Live",
+    "license_spdx": "NOASSERTION",
+    "last_commit_at": "2026-09-12T07:43:44Z",
+    "commits_90d": 956,
+    "releases_365d": 39,
+    "median_issue_close_days": 16.79104166666667,
+    "median_pr_close_days": 0.050034722222222223,
+    "open_issues": 4,
+    "closed_issues_sampled": 1,
+    "contributors_12mo": 2,
+    "top_author_commit_share": 0.9989539748953975,
+    "top_author": {
+      "login": "adamjmurray",
+      "account_created_at": "2008-06-02T02:21:57Z",
+      "other_repos_star_sum": 847
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 2975
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "pelican/panel",
+  "fetched_at": "2026-09-28T05:41:39.489181081Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 2335,
+    "forks": 314,
+    "description": "Free, open source game server management panel built on Laravel and Docker.",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": "2026-09-25T18:55:44Z",
+    "commits_90d": 101,
+    "releases_365d": 13,
+    "median_issue_close_days": 11.830196759259259,
+    "median_pr_close_days": 2.9076099537037035,
+    "open_issues": 20,
+    "closed_issues_sampled": 8,
+    "contributors_12mo": 46,
+    "top_author_commit_share": 0.31476997578692495,
+    "top_author": {
+      "login": "Boy132",
+      "account_created_at": "2014-07-18T16:54:02Z",
+      "other_repos_star_sum": 0
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 4841
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "lawrencehook/remove-youtube-suggestions",
+  "fetched_at": "2026-09-28T05:13:02.081316135Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 581,
+    "forks": 65,
+    "description": "A browser extension that lets you hide recommendations, customize the interface, and take control of your YouTube experience.",
+    "license_spdx": "MPL-2.0",
+    "last_commit_at": "2026-09-06T00:45:59Z",
+    "commits_90d": 13,
+    "releases_365d": 3,
+    "median_issue_close_days": 603.5995081018518,
+    "median_pr_close_days": 2.268061342592593,
+    "open_issues": 52,
+    "closed_issues_sampled": 30,
+    "contributors_12mo": 6,
+    "top_author_commit_share": 0.9285714285714286,
+    "top_author": {
+      "login": "lawrencehook",
+      "account_created_at": "2014-02-03T06:18:00Z",
+      "other_repos_star_sum": 588
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 1714
+  }
+}

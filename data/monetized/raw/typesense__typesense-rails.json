@@ -1,0 +1,29 @@
+{
+  "slug": "typesense/typesense-rails",
+  "fetched_at": "2026-09-28T06:29:00.970283976Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 55,
+    "forks": 12,
+    "description": "Rails Integration for Typesense",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-11T10:28:27Z",
+    "commits_90d": 2,
+    "releases_365d": 2,
+    "median_issue_close_days": 4.187818287037037,
+    "median_pr_close_days": 0.8807870370370371,
+    "open_issues": 1,
+    "closed_issues_sampled": 8,
+    "contributors_12mo": 5,
+    "top_author_commit_share": 0.625,
+    "top_author": {
+      "login": "tharropoulos",
+      "account_created_at": "2021-10-28T16:06:40Z",
+      "other_repos_star_sum": 64
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 7161
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "aradzie/keybr.com",
+  "fetched_at": "2026-09-28T04:23:50.191882500Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 4749,
+    "forks": 463,
+    "description": "The smartest way to learn touch typing and improve your typing speed.",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": "2026-09-22T14:18:12Z",
+    "commits_90d": 4,
+    "releases_365d": 0,
+    "median_issue_close_days": 32.426747685185184,
+    "median_pr_close_days": 6.271435185185185,
+    "open_issues": 326,
+    "closed_issues_sampled": 19,
+    "contributors_12mo": 13,
+    "top_author_commit_share": 0.7936507936507936,
+    "top_author": {
+      "login": "aradzie",
+      "account_created_at": "2009-01-05T20:07:23Z",
+      "other_repos_star_sum": 4793
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 2187
+  }
+}

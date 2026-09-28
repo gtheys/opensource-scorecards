@@ -1,0 +1,25 @@
+{
+  "slug": "rickstrahl/westwindtoolkit",
+  "fetched_at": "2026-09-28T05:49:08.895360512Z",
+  "status": "ok",
+  "data": {
+    "archived": true,
+    "stars": 273,
+    "forks": 123,
+    "description": "A utility toolkit for .NET development from Core to Web",
+    "license_spdx": null,
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 165.14883101851854,
+    "median_pr_close_days": 168.26951388888887,
+    "open_issues": 13,
+    "closed_issues_sampled": 10,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": true,
+    "readme_len": 3741
+  }
+}

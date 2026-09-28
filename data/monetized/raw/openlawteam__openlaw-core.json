@@ -1,0 +1,25 @@
+{
+  "slug": "openlawteam/openlaw-core",
+  "fetched_at": "2026-09-28T05:37:03.104294168Z",
+  "status": "ok",
+  "data": {
+    "archived": true,
+    "stars": 111,
+    "forks": 23,
+    "description": "Shared Scala libraries for the OpenLaw project.",
+    "license_spdx": "Apache-2.0",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 183.55969907407408,
+    "median_pr_close_days": 0.09980324074074073,
+    "open_issues": 12,
+    "closed_issues_sampled": 5,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 2499
+  }
+}

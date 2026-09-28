@@ -1,0 +1,25 @@
+{
+  "slug": "typesense/showcase-recipe-search",
+  "fetched_at": "2026-09-28T06:27:38.427686559Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 515,
+    "forks": 45,
+    "description": "Instantly search 2M cooking recipes using Typesense Search (an open source alternative to Algolia / ElasticSearch)  ⚡ 🥘 🔍",
+    "license_spdx": "Apache-2.0",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 0.005509259259259259,
+    "median_pr_close_days": 25.386313657407406,
+    "open_issues": 4,
+    "closed_issues_sampled": 1,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 2539
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "jimmejardine/qiqqa-open-source",
+  "fetched_at": "2026-09-28T05:08:09.765190855Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 423,
+    "forks": 67,
+    "description": "The open-sourced version of the award-winning Qiqqa research management tool for Windows",
+    "license_spdx": "GPL-3.0",
+    "last_commit_at": "2026-07-10T12:35:52Z",
+    "commits_90d": 7,
+    "releases_365d": 0,
+    "median_issue_close_days": 25.20355902777778,
+    "median_pr_close_days": 612.3484085648148,
+    "open_issues": 246,
+    "closed_issues_sampled": 34,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "jimmejardine",
+      "account_created_at": "2014-10-24T15:25:46Z",
+      "other_repos_star_sum": 436
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 11843
+  }
+}

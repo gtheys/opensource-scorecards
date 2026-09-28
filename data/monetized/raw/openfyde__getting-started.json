@@ -1,0 +1,29 @@
+{
+  "slug": "openfyde/getting-started",
+  "fetched_at": "2026-09-28T05:36:24.152148853Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 138,
+    "forks": 9,
+    "description": "A getting started guide for your journey with Chromium OS development under openFyde.",
+    "license_spdx": null,
+    "last_commit_at": "2026-08-31T09:58:20Z",
+    "commits_90d": 3,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.022789351851851852,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 2,
+    "top_author_commit_share": 0.6666666666666666,
+    "top_author": {
+      "login": "Nibiru0x",
+      "account_created_at": "2026-05-11T07:09:03Z",
+      "other_repos_star_sum": 0
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 27536
+  }
+}

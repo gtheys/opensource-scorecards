@@ -1,0 +1,29 @@
+{
+  "slug": "logiclabs-ou/openarchiver",
+  "fetched_at": "2026-09-28T05:16:18.323895515Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 2386,
+    "forks": 141,
+    "description": "An open-source platform for legally compliant email archiving.",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": "2026-09-17T14:34:44Z",
+    "commits_90d": 22,
+    "releases_365d": 7,
+    "median_issue_close_days": 12.977094907407407,
+    "median_pr_close_days": 0.1739409722222222,
+    "open_issues": 223,
+    "closed_issues_sampled": 24,
+    "contributors_12mo": 2,
+    "top_author_commit_share": 0.9767441860465116,
+    "top_author": {
+      "login": "weishest",
+      "account_created_at": "2013-08-23T02:52:49Z",
+      "other_repos_star_sum": 27
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 6609
+  }
+}

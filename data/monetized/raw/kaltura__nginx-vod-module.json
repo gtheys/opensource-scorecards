@@ -1,0 +1,25 @@
+{
+  "slug": "kaltura/nginx-vod-module",
+  "fetched_at": "2026-09-28T05:09:32.075476547Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 2119,
+    "forks": 476,
+    "description": "NGINX-based MP4 Repackager",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 5.027060185185185,
+    "median_pr_close_days": 7.104293981481481,
+    "open_issues": 332,
+    "closed_issues_sampled": 38,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 85788
+  }
+}

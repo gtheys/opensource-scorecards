@@ -1,0 +1,29 @@
+{
+  "slug": "zitadel/oidc",
+  "fetched_at": "2026-09-28T06:39:57.750171274Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1894,
+    "forks": 223,
+    "description": "Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation",
+    "license_spdx": "Apache-2.0",
+    "last_commit_at": "2026-09-28T06:24:13Z",
+    "commits_90d": 27,
+    "releases_365d": 40,
+    "median_issue_close_days": 21.65008101851852,
+    "median_pr_close_days": 1.455636574074074,
+    "open_issues": 39,
+    "closed_issues_sampled": 7,
+    "contributors_12mo": 29,
+    "top_author_commit_share": 0.13043478260869565,
+    "top_author": {
+      "login": "muhlemmer",
+      "account_created_at": "2013-09-08T13:27:02Z",
+      "other_repos_star_sum": 27
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 12131
+  }
+}

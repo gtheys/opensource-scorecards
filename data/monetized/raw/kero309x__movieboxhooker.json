@@ -1,0 +1,29 @@
+{
+  "slug": "kero309x/movieboxhooker",
+  "fetched_at": "2026-09-28T05:10:09.810509920Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 51,
+    "forks": 9,
+    "description": "An xposed module to unlock MovieBox Premium Features",
+    "license_spdx": null,
+    "last_commit_at": "2026-09-02T15:09:40Z",
+    "commits_90d": 19,
+    "releases_365d": 5,
+    "median_issue_close_days": 8.899479166666667,
+    "median_pr_close_days": null,
+    "open_issues": 1,
+    "closed_issues_sampled": 1,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "Kero309x",
+      "account_created_at": "2019-09-28T00:44:29Z",
+      "other_repos_star_sum": 109
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 2770
+  }
+}

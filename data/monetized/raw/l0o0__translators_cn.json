@@ -1,0 +1,29 @@
+{
+  "slug": "l0o0/translators_cn",
+  "fetched_at": "2026-09-28T05:12:02.205900110Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 4757,
+    "forks": 549,
+    "description": "Zotero translator中文网页抓取翻译器🎉This is Zotero translators for Chinese Sites(beta), not the official Zotero repo",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": "2026-09-26T18:31:48Z",
+    "commits_90d": 6,
+    "releases_365d": 0,
+    "median_issue_close_days": 0.00019675925925925926,
+    "median_pr_close_days": null,
+    "open_issues": 32,
+    "closed_issues_sampled": 50,
+    "contributors_12mo": 4,
+    "top_author_commit_share": 0.6666666666666666,
+    "top_author": {
+      "login": "jiaojiaodubai",
+      "account_created_at": "2020-04-04T11:09:19Z",
+      "other_repos_star_sum": 74
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 2744
+  }
+}

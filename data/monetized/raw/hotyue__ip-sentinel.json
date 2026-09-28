@@ -1,0 +1,29 @@
+{
+  "slug": "hotyue/ip-sentinel",
+  "fetched_at": "2026-09-28T05:00:51.649208001Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1860,
+    "forks": 201,
+    "description": "IP-Sentinel 是一款轻量化、模块化的分布式 VPS 资产养护系统，通过地理位置信号锚定与高拟真本土流量注入，精准解决 IP 定位偏移（IP送中）及风控分过高的痛点，并配合 Telegram 实现全球多节点“低功耗、拟真、无人值守”的自动化资产养护。",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": "2026-08-27T01:32:17Z",
+    "commits_90d": 27,
+    "releases_365d": 60,
+    "median_issue_close_days": 0.6845833333333333,
+    "median_pr_close_days": 0.01871527777777778,
+    "open_issues": 8,
+    "closed_issues_sampled": 41,
+    "contributors_12mo": 7,
+    "top_author_commit_share": 0.9072512647554806,
+    "top_author": {
+      "login": "hotyue",
+      "account_created_at": "2019-07-10T06:30:16Z",
+      "other_repos_star_sum": 1878
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 12852
+  }
+}

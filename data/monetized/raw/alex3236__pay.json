@@ -1,0 +1,25 @@
+{
+  "slug": "alex3236/pay",
+  "fetched_at": "2026-09-28T04:20:18.749503095Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 78,
+    "forks": 22,
+    "description": "一个简单的聚合收款码展示页",
+    "license_spdx": "GPL-3.0",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 10.071631944444444,
+    "median_pr_close_days": 0.0034953703703703705,
+    "open_issues": 0,
+    "closed_issues_sampled": 5,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 3061
+  }
+}

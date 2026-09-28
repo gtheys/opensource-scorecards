@@ -1,0 +1,29 @@
+{
+  "slug": "lbormann/darts-hub",
+  "fetched_at": "2026-09-28T05:13:12.500579422Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 146,
+    "forks": 13,
+    "description": "Manager for https://autodarts.io extensions.",
+    "license_spdx": null,
+    "last_commit_at": "2026-08-12T22:07:49Z",
+    "commits_90d": 1,
+    "releases_365d": 47,
+    "median_issue_close_days": 8.970254629629629,
+    "median_pr_close_days": 0.00017361111111111112,
+    "open_issues": 2,
+    "closed_issues_sampled": 20,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "Peschi90",
+      "account_created_at": "2018-08-03T07:37:46Z",
+      "other_repos_star_sum": 14
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 21048
+  }
+}

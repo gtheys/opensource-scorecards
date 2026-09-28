@@ -1,0 +1,25 @@
+{
+  "slug": "ken5998/opencore-vmware-workstation-amd",
+  "fetched_at": "2026-09-28T05:09:51.606070384Z",
+  "status": "ok",
+  "data": {
+    "archived": true,
+    "stars": 159,
+    "forks": 19,
+    "description": "Install macOS Big Sur on Ryzen with VMware Workstation and OpenCore",
+    "license_spdx": null,
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 1.0046064814814815,
+    "median_pr_close_days": 0.05324074074074074,
+    "open_issues": 7,
+    "closed_issues_sampled": 11,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 6221
+  }
+}

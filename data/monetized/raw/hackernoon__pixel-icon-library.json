@@ -1,0 +1,29 @@
+{
+  "slug": "hackernoon/pixel-icon-library",
+  "fetched_at": "2026-09-28T04:58:57.261045508Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 412,
+    "forks": 33,
+    "description": "The classic pixelated icons that define HackerNoon.com, are now free to use on your own site / app / product / project :-) ",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-08-11T16:22:35Z",
+    "commits_90d": 2,
+    "releases_365d": 0,
+    "median_issue_close_days": 110.07669560185185,
+    "median_pr_close_days": 0.591400462962963,
+    "open_issues": 4,
+    "closed_issues_sampled": 4,
+    "contributors_12mo": 2,
+    "top_author_commit_share": 0.9333333333333333,
+    "top_author": {
+      "login": "rex12543",
+      "account_created_at": "2019-08-08T16:50:13Z",
+      "other_repos_star_sum": 1
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 3725
+  }
+}

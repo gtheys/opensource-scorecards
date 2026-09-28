@@ -1,0 +1,29 @@
+{
+  "slug": "pymupdf/pymupdf4llm",
+  "fetched_at": "2026-09-28T05:46:01.177397614Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 2219,
+    "forks": 250,
+    "description": "PyMuPDF4LLM",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": "2026-09-27T06:10:27Z",
+    "commits_90d": 23,
+    "releases_365d": 15,
+    "median_issue_close_days": 14.204560185185185,
+    "median_pr_close_days": 0.10143518518518518,
+    "open_issues": 51,
+    "closed_issues_sampled": 25,
+    "contributors_12mo": 5,
+    "top_author_commit_share": 0.48872180451127817,
+    "top_author": {
+      "login": "JorjMcKie",
+      "account_created_at": "2014-07-28T15:04:24Z",
+      "other_repos_star_sum": 12
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 20876
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "frappe/crm",
+  "fetched_at": "2026-09-28T04:53:02.014841767Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 3613,
+    "forks": 1458,
+    "description": "Fully featured, open source CRM",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": "2026-09-28T03:00:15Z",
+    "commits_90d": 999,
+    "releases_365d": 91,
+    "median_issue_close_days": 71.67099537037036,
+    "median_pr_close_days": 0.10131944444444445,
+    "open_issues": 265,
+    "closed_issues_sampled": 13,
+    "contributors_12mo": 20,
+    "top_author_commit_share": 0.48940464177598386,
+    "top_author": {
+      "login": "shahzeelahmed",
+      "account_created_at": "2018-01-24T03:36:06Z",
+      "other_repos_star_sum": 1
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 9063
+  }
+}

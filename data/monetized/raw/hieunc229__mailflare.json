@@ -1,0 +1,29 @@
+{
+  "slug": "hieunc229/mailflare",
+  "fetched_at": "2026-09-28T05:00:13.291841913Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 3733,
+    "forks": 516,
+    "description": "Email for professionals and teams",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": "2026-09-27T18:30:10Z",
+    "commits_90d": 144,
+    "releases_365d": 0,
+    "median_issue_close_days": 0.8244097222222222,
+    "median_pr_close_days": 0.8165856481481482,
+    "open_issues": 9,
+    "closed_issues_sampled": 15,
+    "contributors_12mo": 11,
+    "top_author_commit_share": 0.821656050955414,
+    "top_author": {
+      "login": "hieunc229",
+      "account_created_at": "2014-08-16T12:41:43Z",
+      "other_repos_star_sum": 5884
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 4525
+  }
+}

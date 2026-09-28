@@ -1,0 +1,29 @@
+{
+  "slug": "atenreiro/opensquat",
+  "fetched_at": "2026-09-28T04:24:45.833904594Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 984,
+    "forks": 161,
+    "description": "openSquat is an open-source tool that detects look-alike domains impersonating your brand, by scanning newly registered domains daily.",
+    "license_spdx": "GPL-3.0",
+    "last_commit_at": "2026-07-27T07:29:50Z",
+    "commits_90d": 9,
+    "releases_365d": 0,
+    "median_issue_close_days": 194.22086805555554,
+    "median_pr_close_days": 0.022372685185185186,
+    "open_issues": 0,
+    "closed_issues_sampled": 35,
+    "contributors_12mo": 3,
+    "top_author_commit_share": 0.9436619718309859,
+    "top_author": {
+      "login": "atenreiro",
+      "account_created_at": "2014-12-17T16:04:34Z",
+      "other_repos_star_sum": 1036
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 16120
+  }
+}

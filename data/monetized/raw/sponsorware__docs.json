@@ -1,0 +1,25 @@
+{
+  "slug": "sponsorware/docs",
+  "fetched_at": "2026-09-28T06:16:32.748170196Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 353,
+    "forks": 12,
+    "description": "What is a Sponsorware project and how can YOU start one?",
+    "license_spdx": null,
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 1.2221180555555555,
+    "median_pr_close_days": null,
+    "open_issues": 6,
+    "closed_issues_sampled": 3,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 2304
+  }
+}

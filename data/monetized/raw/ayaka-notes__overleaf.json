@@ -1,0 +1,29 @@
+{
+  "slug": "ayaka-notes/overleaf",
+  "fetched_at": "2026-09-28T04:25:53.398773101Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 48,
+    "forks": 7,
+    "description": "Overleaf Pro Version, by @ayaka-notes.",
+    "license_spdx": null,
+    "last_commit_at": "2026-08-29T16:26:27Z",
+    "commits_90d": 94,
+    "releases_365d": 0,
+    "median_issue_close_days": 26.79863425925926,
+    "median_pr_close_days": 0.0038252314814814815,
+    "open_issues": 0,
+    "closed_issues_sampled": 13,
+    "contributors_12mo": 3,
+    "top_author_commit_share": 0.9392265193370166,
+    "top_author": {
+      "login": "Musicminion",
+      "account_created_at": "2021-05-22T11:51:57Z",
+      "other_repos_star_sum": 236
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 293
+  }
+}

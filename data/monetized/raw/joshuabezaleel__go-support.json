@@ -1,0 +1,25 @@
+{
+  "slug": "joshuabezaleel/go-support",
+  "fetched_at": "2026-09-28T05:08:48.296276237Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 64,
+    "forks": 3,
+    "description": "Go tool to find and support awesome sponsorable Go packages!",
+    "license_spdx": "MIT",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 11.404525462962964,
+    "median_pr_close_days": 0.3527430555555556,
+    "open_issues": 1,
+    "closed_issues_sampled": 1,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 1732
+  }
+}

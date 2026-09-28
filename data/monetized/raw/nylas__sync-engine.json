@@ -1,0 +1,29 @@
+{
+  "slug": "nylas/sync-engine",
+  "fetched_at": "2026-09-28T05:31:21.503872431Z",
+  "status": "ok",
+  "data": {
+    "archived": true,
+    "stars": 3495,
+    "forks": 344,
+    "description": ":incoming_envelope: IMAP/SMTP sync system with modern APIs",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": "2026-06-25T18:21:11Z",
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 115.65596643518518,
+    "median_pr_close_days": 92.73632523148147,
+    "open_issues": 69,
+    "closed_issues_sampled": 38,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "nbarraclough",
+      "account_created_at": "2020-06-01T13:56:14Z",
+      "other_repos_star_sum": 0
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 4532
+  }
+}

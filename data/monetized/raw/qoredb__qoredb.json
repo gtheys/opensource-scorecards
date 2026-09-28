@@ -1,0 +1,29 @@
+{
+  "slug": "qoredb/qoredb",
+  "fetched_at": "2026-09-28T05:46:46.524284403Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 144,
+    "forks": 9,
+    "description": "Next Generation Database Client",
+    "license_spdx": "Apache-2.0",
+    "last_commit_at": "2026-09-16T12:43:34Z",
+    "commits_90d": 30,
+    "releases_365d": 32,
+    "median_issue_close_days": 36.45159722222222,
+    "median_pr_close_days": 0.5131192129629629,
+    "open_issues": 6,
+    "closed_issues_sampled": 10,
+    "contributors_12mo": 3,
+    "top_author_commit_share": 0.9931506849315068,
+    "top_author": {
+      "login": "raphplt",
+      "account_created_at": "2022-08-05T11:56:09Z",
+      "other_repos_star_sum": 12
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 25528
+  }
+}

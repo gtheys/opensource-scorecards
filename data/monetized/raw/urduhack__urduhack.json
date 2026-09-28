@@ -1,0 +1,25 @@
+{
+  "slug": "urduhack/urduhack",
+  "fetched_at": "2026-09-28T06:30:37.757562141Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 307,
+    "forks": 44,
+    "description": "An NLP library for the Urdu language. It comes with a lot of battery included features to help you process Urdu data in the easiest way possible.",
+    "license_spdx": "MIT",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 6.723362268518519,
+    "median_pr_close_days": 0.0010995370370370369,
+    "open_issues": 17,
+    "closed_issues_sampled": 12,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 5031
+  }
+}

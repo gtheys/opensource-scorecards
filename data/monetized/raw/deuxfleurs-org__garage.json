@@ -1,0 +1,29 @@
+{
+  "slug": "deuxfleurs-org/garage",
+  "fetched_at": "2026-09-28T04:42:31.239818924Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 4596,
+    "forks": 177,
+    "description": "(Mirror) S3-compatible object store for small self-hosted geo-distributed deployments. Main repo: https://git.deuxfleurs.fr/Deuxfleurs/garage",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": "2026-09-27T09:55:31Z",
+    "commits_90d": 112,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 2,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 45,
+    "top_author_commit_share": 0.32272727272727275,
+    "top_author": {
+      "login": "gwen-lg",
+      "account_created_at": "2022-05-07T09:48:48Z",
+      "other_repos_star_sum": 43
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 1727
+  }
+}

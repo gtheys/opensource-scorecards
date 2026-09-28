@@ -1,0 +1,29 @@
+{
+  "slug": "tokeii0/lovelymem",
+  "fetched_at": "2026-09-28T06:24:41.652195412Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1747,
+    "forks": 93,
+    "description": "基于Memprocfs和Volatility的可视化内存取证工具",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": "2026-08-10T11:07:57Z",
+    "commits_90d": 14,
+    "releases_365d": 2,
+    "median_issue_close_days": 2.1671875,
+    "median_pr_close_days": 0.09177083333333333,
+    "open_issues": 1,
+    "closed_issues_sampled": 21,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "Tokeii0",
+      "account_created_at": "2022-08-17T10:02:25Z",
+      "other_repos_star_sum": 2792
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 13015
+  }
+}

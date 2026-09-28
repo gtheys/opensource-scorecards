@@ -1,0 +1,29 @@
+{
+  "slug": "kohii/smoothcsv3",
+  "fetched_at": "2026-09-28T05:10:46.424045941Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1333,
+    "forks": 18,
+    "description": "SmoothCSV is a powerful and intuitive tool for editing CSV files.",
+    "license_spdx": null,
+    "last_commit_at": "2026-09-23T08:03:47Z",
+    "commits_90d": 6,
+    "releases_365d": 39,
+    "median_issue_close_days": 11.12140625,
+    "median_pr_close_days": null,
+    "open_issues": 46,
+    "closed_issues_sampled": 50,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "kohii",
+      "account_created_at": "2014-03-08T14:01:52Z",
+      "other_repos_star_sum": 1491
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 4986
+  }
+}

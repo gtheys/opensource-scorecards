@@ -1,0 +1,29 @@
+{
+  "slug": "shridarpatil/whatomate",
+  "fetched_at": "2026-09-28T06:12:41.512761540Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1715,
+    "forks": 414,
+    "description": "Whatomate is an open-source WhatsApp integration",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": "2026-09-23T10:06:23Z",
+    "commits_90d": 25,
+    "releases_365d": 31,
+    "median_issue_close_days": 20.100324074074074,
+    "median_pr_close_days": 2.467980324074074,
+    "open_issues": 99,
+    "closed_issues_sampled": 8,
+    "contributors_12mo": 17,
+    "top_author_commit_share": 0.9468791500664011,
+    "top_author": {
+      "login": "shridarpatil",
+      "account_created_at": "2015-04-04T02:26:14Z",
+      "other_repos_star_sum": 775
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 4608
+  }
+}

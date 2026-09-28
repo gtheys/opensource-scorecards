@@ -1,0 +1,29 @@
+{
+  "slug": "thealgorithms/.github",
+  "fetched_at": "2026-09-28T06:22:30.364894859Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 329,
+    "forks": 73,
+    "description": "Default configuration for @TheAlgorithms repositories",
+    "license_spdx": "MIT",
+    "last_commit_at": "2025-10-21T18:03:59Z",
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 0.09711805555555555,
+    "median_pr_close_days": 0.3831712962962963,
+    "open_issues": 10,
+    "closed_issues_sampled": 2,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "AnupKumarPanwar",
+      "account_created_at": "2015-01-17T12:37:46Z",
+      "other_repos_star_sum": 487
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 2206
+  }
+}

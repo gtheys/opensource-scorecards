@@ -1,0 +1,29 @@
+{
+  "slug": "shawnduggan/nova",
+  "fetched_at": "2026-09-28T05:53:08.988337963Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 32,
+    "forks": 2,
+    "description": "Nova - AI plugin for Obsidian that edits your documents directly through natural conversation. Stop copying from chat, start collaborating with AI.",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": "2026-09-13T15:13:31Z",
+    "commits_90d": 37,
+    "releases_365d": 41,
+    "median_issue_close_days": 116.96834490740741,
+    "median_pr_close_days": 0.07885416666666667,
+    "open_issues": 0,
+    "closed_issues_sampled": 6,
+    "contributors_12mo": 2,
+    "top_author_commit_share": 0.9774774774774775,
+    "top_author": {
+      "login": "shawnduggan",
+      "account_created_at": "2013-02-07T19:40:08Z",
+      "other_repos_star_sum": 32
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 9680
+  }
+}

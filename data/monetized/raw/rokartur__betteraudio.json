@@ -1,0 +1,29 @@
+{
+  "slug": "rokartur/betteraudio",
+  "fetched_at": "2026-09-28T05:49:42.876121981Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 472,
+    "forks": 8,
+    "description": "Master your Mac’s audio",
+    "license_spdx": null,
+    "last_commit_at": "2026-07-03T16:03:07Z",
+    "commits_90d": 1,
+    "releases_365d": 31,
+    "median_issue_close_days": 13.71892361111111,
+    "median_pr_close_days": 0.0022569444444444442,
+    "open_issues": 42,
+    "closed_issues_sampled": 45,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "rokartur",
+      "account_created_at": "2021-02-20T00:25:04Z",
+      "other_repos_star_sum": 1357
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 1408
+  }
+}

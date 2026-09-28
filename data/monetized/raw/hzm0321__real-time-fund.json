@@ -1,0 +1,29 @@
+{
+  "slug": "hzm0321/real-time-fund",
+  "fetched_at": "2026-09-28T05:02:29.815873322Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1742,
+    "forks": 523,
+    "description": "基金实时估值查看",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": "2026-09-21T00:38:51Z",
+    "commits_90d": 36,
+    "releases_365d": 70,
+    "median_issue_close_days": 8.403292824074073,
+    "median_pr_close_days": 0.004866898148148148,
+    "open_issues": 21,
+    "closed_issues_sampled": 46,
+    "contributors_12mo": 2,
+    "top_author_commit_share": 0.9966517857142857,
+    "top_author": {
+      "login": "hzm0321",
+      "account_created_at": "2018-01-14T10:45:48Z",
+      "other_repos_star_sum": 1872
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 17384
+  }
+}

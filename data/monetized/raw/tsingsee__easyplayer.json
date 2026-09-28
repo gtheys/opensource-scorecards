@@ -1,0 +1,25 @@
+{
+  "slug": "tsingsee/easyplayer",
+  "fetched_at": "2026-09-28T06:26:30.287637193Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 683,
+    "forks": 221,
+    "description": "An free, elegant, simple, fast RTSP/RTMP/HLS/HTTP Player.EasyPlayer support RTSP(RTP over TCP/UDP)version& RTMP version & Pro version，cover all kinds of streaming media！EasyPlayer是一款免费、精炼、高效、稳定的流媒体播放器，分为RTSP版、RTMP版和Pro版本，支持各种各样的流媒体音视频播放！",
+    "license_spdx": null,
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 2.950902777777778,
+    "median_pr_close_days": null,
+    "open_issues": 46,
+    "closed_issues_sampled": 3,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 5869
+  }
+}

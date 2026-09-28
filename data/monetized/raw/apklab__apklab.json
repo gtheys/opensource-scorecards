@@ -1,0 +1,29 @@
+{
+  "slug": "apklab/apklab",
+  "fetched_at": "2026-09-28T04:23:30.477265070Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 3993,
+    "forks": 336,
+    "description": "Android Reverse-Engineering Workbench for VS Code",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": "2026-07-16T06:15:19Z",
+    "commits_90d": 5,
+    "releases_365d": 0,
+    "median_issue_close_days": 270.21653935185185,
+    "median_pr_close_days": 0.2718576388888889,
+    "open_issues": 24,
+    "closed_issues_sampled": 34,
+    "contributors_12mo": 2,
+    "top_author_commit_share": 0.9642857142857143,
+    "top_author": {
+      "login": "surendrajat",
+      "account_created_at": "2015-02-26T16:24:40Z",
+      "other_repos_star_sum": 123
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 8090
+  }
+}

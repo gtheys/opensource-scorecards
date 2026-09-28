@@ -1,0 +1,29 @@
+{
+  "slug": "gudong2003/xianyu-auto-reply-fix",
+  "fetched_at": "2026-09-28T04:58:36.443708419Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 2687,
+    "forks": 546,
+    "description": "闲鱼智能客服系统，支持多账号管理、AI自动回复、自动发货确认、多渠道消息通知，提供完整的 Web 管理后台",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": "2026-08-22T05:46:58Z",
+    "commits_90d": 31,
+    "releases_365d": 35,
+    "median_issue_close_days": 10.715931712962963,
+    "median_pr_close_days": 1.1393171296296296,
+    "open_issues": 32,
+    "closed_issues_sampled": 32,
+    "contributors_12mo": 11,
+    "top_author_commit_share": 0.8976897689768977,
+    "top_author": {
+      "login": "GuDong2003",
+      "account_created_at": "2022-04-21T08:46:46Z",
+      "other_repos_star_sum": 2733
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 12653
+  }
+}

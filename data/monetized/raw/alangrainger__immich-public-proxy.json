@@ -1,0 +1,29 @@
+{
+  "slug": "alangrainger/immich-public-proxy",
+  "fetched_at": "2026-09-28T04:19:46.286301078Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 2288,
+    "forks": 83,
+    "description": "Share your Immich photos and albums in a safe way without exposing your Immich instance to the public.",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": "2026-09-21T20:40:34Z",
+    "commits_90d": 78,
+    "releases_365d": 36,
+    "median_issue_close_days": 7.735393518518519,
+    "median_pr_close_days": 7.137800925925926,
+    "open_issues": 11,
+    "closed_issues_sampled": 36,
+    "contributors_12mo": 17,
+    "top_author_commit_share": 0.8457943925233645,
+    "top_author": {
+      "login": "alangrainger",
+      "account_created_at": "2015-12-07T21:32:15Z",
+      "other_repos_star_sum": 4266
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 3760
+  }
+}

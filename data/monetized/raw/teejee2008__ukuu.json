@@ -1,0 +1,25 @@
+{
+  "slug": "teejee2008/ukuu",
+  "fetched_at": "2026-09-28T06:21:45.924776776Z",
+  "status": "ok",
+  "data": {
+    "archived": true,
+    "stars": 402,
+    "forks": 163,
+    "description": "A paid version of Ukuu is now available with more features. https://teejeetech.in/2019/01/20/ukuu-v19-01/                 Kernel Update Utility for Ubuntu-based distributions. Provides desktop notifications when new mainline kernel is available. Lists kernels from http://kernel.ubuntu.com/~kernel-ppa/mainline/ with options to install and remove.",
+    "license_spdx": "LGPL-3.0",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 33.411394675925926,
+    "median_pr_close_days": 84.81089699074074,
+    "open_issues": 70,
+    "closed_issues_sampled": 30,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 2404
+  }
+}

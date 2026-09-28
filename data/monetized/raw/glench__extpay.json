@@ -1,0 +1,29 @@
+{
+  "slug": "glench/extpay",
+  "fetched_at": "2026-09-28T04:56:49.860734931Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 770,
+    "forks": 90,
+    "description": "The JavaScript library for ExtensionPay.com — payments for your browser extensions, no server needed.",
+    "license_spdx": "NOASSERTION",
+    "last_commit_at": "2026-07-18T14:34:01Z",
+    "commits_90d": 2,
+    "releases_365d": 1,
+    "median_issue_close_days": 0.9210185185185185,
+    "median_pr_close_days": 0.16609953703703706,
+    "open_issues": 11,
+    "closed_issues_sampled": 48,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "Glench",
+      "account_created_at": "2010-10-24T01:43:40Z",
+      "other_repos_star_sum": 2786
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 15364
+  }
+}

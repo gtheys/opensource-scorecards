@@ -1,0 +1,25 @@
+{
+  "slug": "agi-merge/waggle-dance",
+  "fetched_at": "2026-09-28T04:19:04.290090315Z",
+  "status": "ok",
+  "data": {
+    "archived": true,
+    "stars": 171,
+    "forks": 12,
+    "description": "Knowledge work automation with AI agents",
+    "license_spdx": "MIT",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 67.94496527777778,
+    "median_pr_close_days": 3.4050810185185183,
+    "open_issues": 0,
+    "closed_issues_sampled": 47,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 9484
+  }
+}

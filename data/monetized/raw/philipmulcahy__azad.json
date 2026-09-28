@@ -1,0 +1,29 @@
+{
+  "slug": "philipmulcahy/azad",
+  "fetched_at": "2026-09-28T05:42:36.838904176Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 329,
+    "forks": 92,
+    "description": "amazon order history reporter chrome extension",
+    "license_spdx": "Apache-2.0",
+    "last_commit_at": "2026-08-18T20:12:28Z",
+    "commits_90d": 66,
+    "releases_365d": 0,
+    "median_issue_close_days": 36.31300925925926,
+    "median_pr_close_days": 1.8662268518518519,
+    "open_issues": 28,
+    "closed_issues_sampled": 49,
+    "contributors_12mo": 2,
+    "top_author_commit_share": 0.9914529914529915,
+    "top_author": {
+      "login": "philipmulcahy",
+      "account_created_at": "2012-04-22T21:53:07Z",
+      "other_repos_star_sum": 329
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 15705
+  }
+}

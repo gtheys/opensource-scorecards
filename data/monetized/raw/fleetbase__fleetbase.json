@@ -1,0 +1,29 @@
+{
+  "slug": "fleetbase/fleetbase",
+  "fetched_at": "2026-09-28T04:51:42.128299339Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 3940,
+    "forks": 1050,
+    "description": "Modular logistics and supply chain operating system (LSOS)",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": "2026-09-23T03:14:15Z",
+    "commits_90d": 298,
+    "releases_365d": 54,
+    "median_issue_close_days": 3.1437905092592593,
+    "median_pr_close_days": 0.231875,
+    "open_issues": 18,
+    "closed_issues_sampled": 12,
+    "contributors_12mo": 12,
+    "top_author_commit_share": 0.9637404580152672,
+    "top_author": {
+      "login": "roncodes",
+      "account_created_at": "2011-05-28T22:35:59Z",
+      "other_repos_star_sum": 65
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 17905
+  }
+}

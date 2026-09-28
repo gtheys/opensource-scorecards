@@ -1,0 +1,29 @@
+{
+  "slug": "homebrew/brewui",
+  "fetched_at": "2026-09-28T05:00:25.275944140Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 2312,
+    "forks": 71,
+    "description": "📺 Homebrew's official macOS GUI",
+    "license_spdx": "AGPL-3.0",
+    "last_commit_at": "2026-09-27T02:56:01Z",
+    "commits_90d": 506,
+    "releases_365d": 13,
+    "median_issue_close_days": 0.09024305555555556,
+    "median_pr_close_days": 0.12272569444444445,
+    "open_issues": 13,
+    "closed_issues_sampled": 16,
+    "contributors_12mo": 17,
+    "top_author_commit_share": 0.8006295907660022,
+    "top_author": {
+      "login": "graeme",
+      "account_created_at": "2012-07-23T23:18:36Z",
+      "other_repos_star_sum": 4
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 5404
+  }
+}

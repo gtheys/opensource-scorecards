@@ -1,0 +1,25 @@
+{
+  "slug": "copleykj/socialize-friendships",
+  "fetched_at": "2026-09-28T04:37:51.640204918Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 47,
+    "forks": 12,
+    "description": "A Meteor package for creating friendship functionality within your app.",
+    "license_spdx": "MIT",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 8.101597222222223,
+    "median_pr_close_days": 47.13869212962963,
+    "open_issues": 2,
+    "closed_issues_sampled": 25,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 5417
+  }
+}
