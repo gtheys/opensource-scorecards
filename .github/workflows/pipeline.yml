@@ -1,7 +1,7 @@
 name: pipeline
 
 # AIDEV-NOTE: GITHUB_TOKEN in Actions is limited to ~1k req/hr — not enough for a
-# full 1393-repo refresh. Set a classic PAT as secret GH_TOKEN for real runs;
+# full 1393-repo refresh. GH_TOKEN secret is set (OAuth token via `gh auth token`, 5k/hr);
 # GITHUB_TOKEN fallback keeps small/incremental runs working.
 on:
   schedule:
@@ -49,6 +49,8 @@ jobs:
           git config user.email "actions@users.noreply.github.com"
           git add data/
           git diff --cached --quiet || git commit -m "data: nightly refresh $(date -u +%F)"
+          # AIDEV-NOTE: manual pushes can land between checkout and here — rebase or push 403s (2026-09-27)
+          git pull --rebase origin main
           git push
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
