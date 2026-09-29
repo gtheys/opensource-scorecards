@@ -1,6 +1,6 @@
 {
   "slug": "ahkohd/buffer-sticks.nvim",
-  "fetched_at": "2026-09-28T09:46:50.365337326Z",
+  "fetched_at": "2026-09-29T09:50:07.799393698Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -15,8 +15,8 @@
     "median_pr_close_days": 0.0008680555555555555,
     "open_issues": 1,
     "closed_issues_sampled": 11,
-    "contributors_12mo": 6,
-    "top_author_commit_share": 0.8482758620689655,
+    "contributors_12mo": 5,
+    "top_author_commit_share": 0.8521739130434782,
     "top_author": {
       "login": "ahkohd",
       "account_created_at": "2015-06-25T00:39:28Z",

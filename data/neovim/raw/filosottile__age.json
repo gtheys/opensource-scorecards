@@ -1,10 +1,10 @@
 {
   "slug": "filosottile/age",
-  "fetched_at": "2026-09-28T10:03:03.437980451Z",
+  "fetched_at": "2026-09-29T10:05:57.059730152Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 23731,
+    "stars": 23751,
     "forks": 674,
     "description": "A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.",
     "license_spdx": "BSD-3-Clause",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "FiloSottile",
       "account_created_at": "2011-11-28T13:06:49Z",
-      "other_repos_star_sum": 91642
+      "other_repos_star_sum": 91673
     },
     "has_ci": true,
     "has_tests": true,

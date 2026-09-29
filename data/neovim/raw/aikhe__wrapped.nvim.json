@@ -1,6 +1,6 @@
 {
   "slug": "aikhe/wrapped.nvim",
-  "fetched_at": "2026-09-28T09:46:53.836473224Z",
+  "fetched_at": "2026-09-29T09:50:12.416034756Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "aikhe",
       "account_created_at": "2023-09-01T15:24:05Z",
-      "other_repos_star_sum": 252
+      "other_repos_star_sum": 251
     },
     "has_ci": false,
     "has_tests": false,

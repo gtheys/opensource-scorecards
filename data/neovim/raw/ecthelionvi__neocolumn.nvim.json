@@ -1,11 +1,11 @@
 {
   "slug": "ecthelionvi/neocolumn.nvim",
-  "fetched_at": "2026-09-28T10:00:46.475589933Z",
+  "fetched_at": "2026-09-29T10:03:48.089946584Z",
   "status": "ok",
   "data": {
     "archived": true,
     "stars": 102,
-    "forks": 1,
+    "forks": 2,
     "description": "Neovim plugin that highlights individual characters with a toggleable ColorColumn.",
     "license_spdx": "MIT",
     "last_commit_at": null,

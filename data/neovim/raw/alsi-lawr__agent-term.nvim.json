@@ -1,6 +1,6 @@
 {
   "slug": "alsi-lawr/agent-term.nvim",
-  "fetched_at": "2026-09-28T09:47:57.398658768Z",
+  "fetched_at": "2026-09-29T09:51:17.760193206Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "alsi-lawr",
       "account_created_at": "2024-08-02T11:14:01Z",
-      "other_repos_star_sum": 57
+      "other_repos_star_sum": 58
     },
     "has_ci": true,
     "has_tests": true,

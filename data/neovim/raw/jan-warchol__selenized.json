@@ -1,6 +1,6 @@
 {
   "slug": "jan-warchol/selenized",
-  "fetched_at": "2026-09-28T10:09:58.563623744Z",
+  "fetched_at": "2026-09-29T10:12:47.164084417Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -8,20 +8,16 @@
     "forks": 70,
     "description": "Solarized redesigned: fine-tuned color palette for programmers with focus on readability.",
     "license_spdx": "MIT",
-    "last_commit_at": "2025-09-28T22:06:36Z",
+    "last_commit_at": null,
     "commits_90d": 0,
     "releases_365d": 0,
     "median_issue_close_days": 165.1413773148148,
     "median_pr_close_days": 7.890844907407407,
     "open_issues": 58,
     "closed_issues_sampled": 16,
-    "contributors_12mo": 1,
-    "top_author_commit_share": 1.0,
-    "top_author": {
-      "login": "jan-warchol",
-      "account_created_at": "2012-01-22T19:11:30Z",
-      "other_repos_star_sum": 1226
-    },
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
     "has_ci": false,
     "has_tests": true,
     "readme_len": 3228

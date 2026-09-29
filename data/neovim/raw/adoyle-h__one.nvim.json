@@ -1,10 +1,10 @@
 {
   "slug": "adoyle-h/one.nvim",
-  "fetched_at": "2026-09-28T09:46:31.649036201Z",
+  "fetched_at": "2026-09-29T09:49:48.438170389Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 187,
+    "stars": 188,
     "forks": 5,
     "description": "All-in-one neovim config framework in Lua.",
     "license_spdx": "BSD-3-Clause",

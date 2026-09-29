@@ -1,10 +1,10 @@
 {
   "slug": "hakonharnes/img-clip.nvim",
-  "fetched_at": "2026-09-28T10:06:24.549851325Z",
+  "fetched_at": "2026-09-29T10:09:24.010299468Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 941,
+    "stars": 943,
     "forks": 41,
     "description": "Embed images into any markup language, like LaTeX, Markdown or Typst",
     "license_spdx": "MIT",
@@ -18,9 +18,9 @@
     "contributors_12mo": 4,
     "top_author_commit_share": 0.25,
     "top_author": {
-      "login": "khaneliman",
-      "account_created_at": "2012-05-25T16:46:20Z",
-      "other_repos_star_sum": 715
+      "login": "riodelphino",
+      "account_created_at": "2017-06-12T14:41:08Z",
+      "other_repos_star_sum": 48
     },
     "has_ci": true,
     "has_tests": true,

@@ -534,6 +534,7 @@ repos:
   - jamestthompson3/nvim-remote-containers
   - jameswolensky/marker-groups.nvim
   - jan-warchol/selenized
+  - jarndev/autodap.nvim
   - jarun/nnn
   - javanoo6/persist-toggle.nvim
   - jaytyrrell13/static.nvim
@@ -940,6 +941,7 @@ repos:
   - ojroques/nvim-hardline
   - ojroques/nvim-lspfuzzy
   - ok97465/ipybridge.nvim
+  - okram78/vahti.nvim
   - okuuva/auto-save.nvim
   - olexsmir/gopher.nvim
   - olical/aniseed

@@ -1,22 +1,22 @@
 {
   "slug": "bassamsdata/namu.nvim",
-  "fetched_at": "2026-09-28T09:50:47.507031378Z",
+  "fetched_at": "2026-09-29T09:53:59.391992610Z",
   "status": "ok",
   "data": {
     "archived": false,
     "stars": 433,
     "forks": 18,
-    "description": "Flexible and sleek fuzzy picker, LSP symbol navigator, and more. inspired by Zed.",
+    "description": "Navigate your code with context, fuzzy picker, LSP symbol navigator, and much more. ",
     "license_spdx": "MIT",
-    "last_commit_at": "2026-09-23T20:17:31Z",
-    "commits_90d": 1,
-    "releases_365d": 0,
-    "median_issue_close_days": 2.0602893518518517,
-    "median_pr_close_days": 0.4344791666666667,
+    "last_commit_at": "2026-09-28T22:46:13Z",
+    "commits_90d": 9,
+    "releases_365d": 1,
+    "median_issue_close_days": 2.198396990740741,
+    "median_pr_close_days": 0.3729224537037037,
     "open_issues": 6,
-    "closed_issues_sampled": 33,
+    "closed_issues_sampled": 32,
     "contributors_12mo": 4,
-    "top_author_commit_share": 0.6666666666666666,
+    "top_author_commit_share": 0.782608695652174,
     "top_author": {
       "login": "bassamsdata",
       "account_created_at": "2022-05-18T15:56:35Z",
@@ -24,6 +24,6 @@
     },
     "has_ci": true,
     "has_tests": true,
-    "readme_len": 21301
+    "readme_len": 8310
   }
 }
