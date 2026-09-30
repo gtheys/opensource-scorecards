@@ -1,6 +1,6 @@
 {
   "slug": "javanoo6/persist-toggle.nvim",
-  "fetched_at": "2026-09-29T10:12:55.340580297Z",
+  "fetched_at": "2026-09-30T10:07:22.439011848Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -8,8 +8,8 @@
     "forks": 0,
     "description": "Persistent toggle state registry for Neovim",
     "license_spdx": "MIT",
-    "last_commit_at": "2026-09-09T21:59:40Z",
-    "commits_90d": 3,
+    "last_commit_at": "2026-09-29T18:41:14Z",
+    "commits_90d": 5,
     "releases_365d": 0,
     "median_issue_close_days": null,
     "median_pr_close_days": null,
@@ -20,6 +20,6 @@
     "top_author": null,
     "has_ci": true,
     "has_tests": true,
-    "readme_len": 3893
+    "readme_len": 7545
   }
 }

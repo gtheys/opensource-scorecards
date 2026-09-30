@@ -1,10 +1,10 @@
 {
   "slug": "justinhj/battery.nvim",
-  "fetched_at": "2026-09-29T10:15:18.836243679Z",
+  "fetched_at": "2026-09-30T10:09:57.560431327Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 74,
+    "stars": 75,
     "forks": 12,
     "description": "Neovim plugin to detect and view battery information",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "justinhj",
       "account_created_at": "2011-04-26T18:22:52Z",
-      "other_repos_star_sum": 666
+      "other_repos_star_sum": 667
     },
     "has_ci": true,
     "has_tests": true,

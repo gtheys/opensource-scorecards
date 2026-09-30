@@ -1,6 +1,6 @@
 {
   "slug": "hdoc1509/gh-actions.nvim",
-  "fetched_at": "2026-09-29T10:09:49.138183075Z",
+  "fetched_at": "2026-09-30T10:04:04.515164581Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -10,7 +10,7 @@
     "license_spdx": "Apache-2.0",
     "last_commit_at": "2025-12-16T16:12:21Z",
     "commits_90d": 0,
-    "releases_365d": 3,
+    "releases_365d": 2,
     "median_issue_close_days": 44.44511574074074,
     "median_pr_close_days": 0.005902777777777778,
     "open_issues": 0,

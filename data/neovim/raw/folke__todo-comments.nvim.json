@@ -1,10 +1,10 @@
 {
   "slug": "folke/todo-comments.nvim",
-  "fetched_at": "2026-09-29T10:06:48.375964945Z",
+  "fetched_at": "2026-09-30T10:00:42.927083769Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 4209,
+    "stars": 4208,
     "forks": 139,
     "description": "✅  Highlight, list and search todo comments in your projects",
     "license_spdx": "Apache-2.0",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "folke",
       "account_created_at": "2010-05-31T14:14:10Z",
-      "other_repos_star_sum": 42180
+      "other_repos_star_sum": 42177
     },
     "has_ci": true,
     "has_tests": false,

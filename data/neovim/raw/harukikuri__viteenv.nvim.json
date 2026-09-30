@@ -1,6 +1,6 @@
 {
   "slug": "harukikuri/viteenv.nvim",
-  "fetched_at": "2026-09-29T10:09:32.857619332Z",
+  "fetched_at": "2026-09-30T10:03:46.721430987Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "see your Vite env values inline, per mode.",
     "license_spdx": "MIT",
     "last_commit_at": "2026-07-02T08:28:46Z",
-    "commits_90d": 24,
+    "commits_90d": 0,
     "releases_365d": 1,
     "median_issue_close_days": null,
     "median_pr_close_days": null,

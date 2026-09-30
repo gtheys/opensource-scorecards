@@ -1,6 +1,6 @@
 {
   "slug": "carlos-algms/agentic.nvim",
-  "fetched_at": "2026-09-29T09:55:59.909266770Z",
+  "fetched_at": "2026-09-30T09:49:19.690412596Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "carlos-algms",
       "account_created_at": "2013-06-06T21:38:35Z",
-      "other_repos_star_sum": 703
+      "other_repos_star_sum": 704
     },
     "has_ci": true,
     "has_tests": true,

@@ -1,6 +1,6 @@
 {
   "slug": "antosha417/nvim-lsp-file-operations",
-  "fetched_at": "2026-09-29T09:52:03.341066908Z",
+  "fetched_at": "2026-09-30T09:44:53.356044574Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -8,15 +8,15 @@
     "forks": 25,
     "description": "Neovim plugin that adds support for file operations using built-in LSP",
     "license_spdx": "Apache-2.0",
-    "last_commit_at": "2026-09-28T21:47:01Z",
-    "commits_90d": 50,
+    "last_commit_at": "2026-09-29T10:40:30Z",
+    "commits_90d": 51,
     "releases_365d": 2,
     "median_issue_close_days": 207.64730324074074,
     "median_pr_close_days": 3.939537037037037,
     "open_issues": 3,
     "closed_issues_sampled": 27,
     "contributors_12mo": 5,
-    "top_author_commit_share": 0.8846153846153846,
+    "top_author_commit_share": 0.8867924528301887,
     "top_author": {
       "login": "DrKJeff16",
       "account_created_at": "2020-09-29T00:05:14Z",

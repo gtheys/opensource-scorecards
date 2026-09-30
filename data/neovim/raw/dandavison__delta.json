@@ -1,11 +1,11 @@
 {
   "slug": "dandavison/delta",
-  "fetched_at": "2026-09-29T10:00:44.006864022Z",
+  "fetched_at": "2026-09-30T09:54:16.997885299Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 32381,
-    "forks": 585,
+    "stars": 32385,
+    "forks": 588,
     "description": "A syntax-highlighting pager for git, diff, grep, rg --json, and blame output",
     "license_spdx": "MIT",
     "last_commit_at": "2026-09-19T14:00:26Z",
@@ -13,14 +13,14 @@
     "releases_365d": 3,
     "median_issue_close_days": 1.9717129629629628,
     "median_pr_close_days": 0.19339120370370372,
-    "open_issues": 454,
+    "open_issues": 457,
     "closed_issues_sampled": 10,
     "contributors_12mo": 13,
     "top_author_commit_share": 0.42857142857142855,
     "top_author": {
       "login": "dandavison",
       "account_created_at": "2009-02-05T23:34:07Z",
-      "other_repos_star_sum": 32706
+      "other_repos_star_sum": 32710
     },
     "has_ci": true,
     "has_tests": true,

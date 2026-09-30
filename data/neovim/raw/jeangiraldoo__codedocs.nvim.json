@@ -1,6 +1,6 @@
 {
   "slug": "jeangiraldoo/codedocs.nvim",
-  "fetched_at": "2026-09-29T10:13:14.003439426Z",
+  "fetched_at": "2026-09-30T10:07:43.963195282Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "Annotation generation framework with support for most languages and annotation styles⌨️✨",
     "license_spdx": "GPL-3.0",
     "last_commit_at": "2026-07-14T03:16:00Z",
-    "commits_90d": 34,
+    "commits_90d": 31,
     "releases_365d": 7,
     "median_issue_close_days": 10.421956018518518,
     "median_pr_close_days": 0.001267361111111111,

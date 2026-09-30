@@ -1,6 +1,6 @@
 {
   "slug": "harrisoncramer/gitlab.nvim",
-  "fetched_at": "2026-09-29T10:09:29.105012361Z",
+  "fetched_at": "2026-09-30T10:03:42.609293384Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -11,10 +11,10 @@
     "last_commit_at": "2026-09-23T11:59:02Z",
     "commits_90d": 24,
     "releases_365d": 5,
-    "median_issue_close_days": 26.4871875,
-    "median_pr_close_days": 1.1721064814814814,
-    "open_issues": 20,
-    "closed_issues_sampled": 15,
+    "median_issue_close_days": 23.38777199074074,
+    "median_pr_close_days": 0.9072685185185185,
+    "open_issues": 19,
+    "closed_issues_sampled": 16,
     "contributors_12mo": 10,
     "top_author_commit_share": 0.5698924731182796,
     "top_author": {
