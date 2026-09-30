@@ -28,6 +28,7 @@ jobs:
       - run: ./target/release/scorecards render
       - run: ./target/release/scorecards render --category pi
       - run: ./target/release/scorecards render --category herdr
+      - run: ./target/release/scorecards render --category monetized
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:

@@ -34,6 +34,14 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN || secrets.GITHUB_TOKEN }}
       - run: ./target/release/scorecards score --category pi
       - run: ./target/release/scorecards render --category pi
+      # AIDEV-NOTE: monetized repos.yaml is hand-committed (see config/weights.toml) —
+      # no seed step; ~1.1k repos may exceed the 5k/hr PAT budget, resumable cache
+      # lets collect finish over consecutive nights.
+      - run: ./target/release/scorecards collect --category monetized
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN || secrets.GITHUB_TOKEN }}
+      - run: ./target/release/scorecards score --category monetized
+      - run: ./target/release/scorecards render --category monetized
       # AIDEV-NOTE: herdr list is huge (~2085 repos ≈ 23k API calls) — one nightly run
       # only inches forward; cache makes collect resumable, local collect-loop.sh does
       # the bulk backfill.
