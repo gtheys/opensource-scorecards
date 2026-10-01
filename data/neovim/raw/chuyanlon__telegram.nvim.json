@@ -1,6 +1,6 @@
 {
   "slug": "chuyanlon/telegram.nvim",
-  "fetched_at": "2026-09-30T09:51:24.364053084Z",
+  "fetched_at": "2026-10-01T10:18:18.829055307Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -12,8 +12,8 @@
     "commits_90d": 203,
     "releases_365d": 15,
     "median_issue_close_days": 3.7219675925925926,
-    "median_pr_close_days": 0.00017361111111111112,
-    "open_issues": 4,
+    "median_pr_close_days": 0.0004050925925925926,
+    "open_issues": 6,
     "closed_issues_sampled": 20,
     "contributors_12mo": 2,
     "top_author_commit_share": 0.9988317757009346,

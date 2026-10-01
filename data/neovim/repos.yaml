@@ -759,6 +759,7 @@ repos:
   - mhartington/oceanic-next
   - mhinz/vim-startify
   - michaelb/sniprun
+  - mihovilrak/scroll.nvim
   - miikanissi/modus-themes.nvim
   - mikavilpas/blink-ripgrep.nvim
   - mikavilpas/yazi.nvim

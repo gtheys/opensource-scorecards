@@ -1,11 +1,11 @@
 {
   "slug": "max397574/startup.nvim",
-  "fetched_at": "2026-09-25T08:54:54.842977500Z",
+  "fetched_at": "2026-10-01T10:46:09.054238248Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 502,
-    "forks": 35,
+    "stars": 500,
+    "forks": 34,
     "description": "A highly configurable neovim startup screen",
     "license_spdx": "GPL-2.0",
     "last_commit_at": "2026-06-07T20:35:36Z",

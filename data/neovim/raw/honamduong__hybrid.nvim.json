@@ -1,10 +1,10 @@
 {
   "slug": "honamduong/hybrid.nvim",
-  "fetched_at": "2026-09-30T10:04:34.755588875Z",
+  "fetched_at": "2026-10-01T10:32:19.240748465Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 162,
+    "stars": 161,
     "forks": 9,
     "description": "A dark Neovim theme written in Lua",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "HoNamDuong",
       "account_created_at": "2021-09-28T09:42:10Z",
-      "other_repos_star_sum": 178
+      "other_repos_star_sum": 177
     },
     "has_ci": false,
     "has_tests": false,

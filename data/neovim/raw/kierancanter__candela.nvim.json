@@ -1,6 +1,6 @@
 {
   "slug": "kierancanter/candela.nvim",
-  "fetched_at": "2026-09-25T08:48:51.540538474Z",
+  "fetched_at": "2026-10-01T10:39:42.045197204Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -13,10 +13,10 @@
     "releases_365d": 7,
     "median_issue_close_days": 37.141898148148144,
     "median_pr_close_days": 0.7672453703703703,
-    "open_issues": 1,
+    "open_issues": 2,
     "closed_issues_sampled": 2,
     "contributors_12mo": 2,
-    "top_author_commit_share": 0.9795918367346939,
+    "top_author_commit_share": 0.9791666666666666,
     "top_author": {
       "login": "kicanter",
       "account_created_at": "2020-11-19T18:00:10Z",

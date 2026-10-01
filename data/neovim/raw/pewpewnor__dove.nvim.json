@@ -1,29 +1,29 @@
 {
   "slug": "pewpewnor/dove.nvim",
-  "fetched_at": "2026-09-25T09:06:22.354450299Z",
+  "fetched_at": "2026-10-01T10:59:24.339023457Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 3,
+    "stars": 4,
     "forks": 0,
     "description": "Use Lua to define and execute arbitrary shell commands or Lua code for file, project, or global contexts without reloading Neovim.",
     "license_spdx": "Apache-2.0",
-    "last_commit_at": "2026-09-22T08:15:41Z",
-    "commits_90d": 56,
+    "last_commit_at": "2026-09-28T07:34:04Z",
+    "commits_90d": 63,
     "releases_365d": 0,
-    "median_issue_close_days": null,
+    "median_issue_close_days": 0.0028356481481481483,
     "median_pr_close_days": null,
     "open_issues": 0,
-    "closed_issues_sampled": 0,
+    "closed_issues_sampled": 1,
     "contributors_12mo": 1,
     "top_author_commit_share": 1.0,
     "top_author": {
       "login": "pewpewnor",
       "account_created_at": "2023-02-16T09:01:16Z",
-      "other_repos_star_sum": 14
+      "other_repos_star_sum": 15
     },
     "has_ci": true,
     "has_tests": true,
-    "readme_len": 14338
+    "readme_len": 14078
   }
 }

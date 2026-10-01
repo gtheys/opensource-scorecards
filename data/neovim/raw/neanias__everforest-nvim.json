@@ -1,10 +1,10 @@
 {
   "slug": "neanias/everforest-nvim",
-  "fetched_at": "2026-09-25T08:59:26.437195271Z",
+  "fetched_at": "2026-10-01T10:51:09.740839477Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 464,
+    "stars": 465,
     "forks": 41,
     "description": "A Lua port of the Everforest colour scheme",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "neanias",
       "account_created_at": "2013-10-27T13:44:37Z",
-      "other_repos_star_sum": 481
+      "other_repos_star_sum": 482
     },
     "has_ci": true,
     "has_tests": false,

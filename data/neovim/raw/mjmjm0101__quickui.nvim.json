@@ -1,10 +1,10 @@
 {
   "slug": "mjmjm0101/quickui.nvim",
-  "fetched_at": "2026-09-25T08:56:58.551326723Z",
+  "fetched_at": "2026-10-01T10:48:21.459757342Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 14,
+    "stars": 15,
     "forks": 0,
     "description": "Not just a UI plugin — manage the cognitive load of your own Neovim setup",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "mjmjm0101",
       "account_created_at": "2013-02-22T03:02:23Z",
-      "other_repos_star_sum": 44
+      "other_repos_star_sum": 45
     },
     "has_ci": false,
     "has_tests": false,

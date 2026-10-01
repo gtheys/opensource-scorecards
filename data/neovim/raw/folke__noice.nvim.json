@@ -1,11 +1,11 @@
 {
   "slug": "folke/noice.nvim",
-  "fetched_at": "2026-09-30T10:00:29.930303493Z",
+  "fetched_at": "2026-10-01T10:28:00.870716322Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 5817,
-    "forks": 178,
+    "stars": 5818,
+    "forks": 179,
     "description": "💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.",
     "license_spdx": "Apache-2.0",
     "last_commit_at": "2025-11-03T16:33:44Z",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "folke",
       "account_created_at": "2010-05-31T14:14:10Z",
-      "other_repos_star_sum": 42177
+      "other_repos_star_sum": 42185
     },
     "has_ci": true,
     "has_tests": true,

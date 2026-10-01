@@ -1,6 +1,6 @@
 {
   "slug": "nishu-murmu/cursor-inline",
-  "fetched_at": "2026-09-25T09:00:44.853329073Z",
+  "fetched_at": "2026-10-01T10:52:40.871992409Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "Cursor style Inline editing plugin for neovim.",
     "license_spdx": "MIT",
     "last_commit_at": "2026-08-05T19:20:06Z",
-    "commits_90d": 9,
+    "commits_90d": 1,
     "releases_365d": 0,
     "median_issue_close_days": 22.78587962962963,
     "median_pr_close_days": null,

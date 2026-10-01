@@ -1,6 +1,6 @@
 {
   "slug": "onlyati/quadlet-lsp.nvim",
-  "fetched_at": "2026-09-25T09:05:19.438584315Z",
+  "fetched_at": "2026-10-01T10:58:14.690534575Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -10,7 +10,7 @@
     "license_spdx": "CC0-1.0",
     "last_commit_at": "2025-12-10T21:23:25Z",
     "commits_90d": 0,
-    "releases_365d": 2,
+    "releases_365d": 1,
     "median_issue_close_days": null,
     "median_pr_close_days": 0.0003530092592592593,
     "open_issues": 0,

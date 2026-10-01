@@ -1,6 +1,6 @@
 {
   "slug": "melmass/echo.nvim",
-  "fetched_at": "2026-09-25T08:55:15.186495242Z",
+  "fetched_at": "2026-10-01T10:46:26.817737864Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "melMass",
       "account_created_at": "2014-03-23T23:03:57Z",
-      "other_repos_star_sum": 814
+      "other_repos_star_sum": 815
     },
     "has_ci": true,
     "has_tests": false,

@@ -1,10 +1,10 @@
 {
   "slug": "m00qek/plugin-template.nvim",
-  "fetched_at": "2026-09-25T08:53:27.910198460Z",
+  "fetched_at": "2026-10-01T10:44:31.281958747Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 135,
+    "stars": 136,
     "forks": 13,
     "description": "A template to create Neovim plugins written in Lua",
     "license_spdx": null,

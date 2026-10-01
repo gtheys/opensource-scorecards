@@ -1,11 +1,11 @@
 {
   "slug": "chojs23/ec",
-  "fetched_at": "2026-09-30T09:50:02.414187453Z",
+  "fetched_at": "2026-10-01T10:16:47.284952449Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 308,
-    "forks": 6,
+    "stars": 309,
+    "forks": 7,
     "description": "Terminal-native 3-way git mergetool and diff viewer",
     "license_spdx": "MIT",
     "last_commit_at": "2026-09-11T16:26:36Z",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "chojs23",
       "account_created_at": "2019-09-25T11:32:37Z",
-      "other_repos_star_sum": 2085
+      "other_repos_star_sum": 2091
     },
     "has_ci": true,
     "has_tests": false,

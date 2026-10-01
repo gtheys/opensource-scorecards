@@ -1,10 +1,10 @@
 {
   "slug": "mcauley-penney/visual-whitespace.nvim",
-  "fetched_at": "2026-09-25T08:55:02.490253934Z",
+  "fetched_at": "2026-10-01T10:46:15.728128412Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 477,
+    "stars": 479,
     "forks": 8,
     "description": "Imitate VSCode's \"Render Whitespace\" feature in visual mode",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "mcauley-penney",
       "account_created_at": "2020-01-03T16:05:06Z",
-      "other_repos_star_sum": 1095
+      "other_repos_star_sum": 1097
     },
     "has_ci": true,
     "has_tests": true,

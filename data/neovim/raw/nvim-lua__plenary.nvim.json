@@ -1,10 +1,10 @@
 {
   "slug": "nvim-lua/plenary.nvim",
-  "fetched_at": "2026-09-25T09:02:35.488554464Z",
+  "fetched_at": "2026-10-01T10:55:00.160819884Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 3495,
+    "stars": 3499,
     "forks": 340,
     "description": "plenary: full; complete; entire; absolute; unqualified. All the lua functions I don't want to write twice.",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "Conni2461",
       "account_created_at": "2015-10-21T14:23:28Z",
-      "other_repos_star_sum": 55
+      "other_repos_star_sum": 53
     },
     "has_ci": true,
     "has_tests": true,

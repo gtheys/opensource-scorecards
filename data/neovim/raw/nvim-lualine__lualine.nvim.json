@@ -1,10 +1,10 @@
 {
   "slug": "nvim-lualine/lualine.nvim",
-  "fetched_at": "2026-09-25T09:02:40.447774130Z",
+  "fetched_at": "2026-10-01T10:55:05.646991326Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 8142,
+    "stars": 8147,
     "forks": 553,
     "description": "A blazing fast and easy to configure neovim statusline plugin written in pure lua.",
     "license_spdx": "MIT",

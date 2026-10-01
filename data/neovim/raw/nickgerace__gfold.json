@@ -1,6 +1,6 @@
 {
   "slug": "nickgerace/gfold",
-  "fetched_at": "2026-09-25T09:00:27.022233249Z",
+  "fetched_at": "2026-10-01T10:52:19.358629384Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -8,13 +8,13 @@
     "forks": 22,
     "description": "CLI tool to help keep track of your Git repositories, written in Rust",
     "license_spdx": "Apache-2.0",
-    "last_commit_at": "2026-09-22T21:04:53Z",
-    "commits_90d": 10,
+    "last_commit_at": "2026-09-25T23:31:43Z",
+    "commits_90d": 12,
     "releases_365d": 3,
-    "median_issue_close_days": 25.04921875,
-    "median_pr_close_days": 0.029056712962962965,
+    "median_issue_close_days": 44.117731481481485,
+    "median_pr_close_days": 0.023391203703703702,
     "open_issues": 8,
-    "closed_issues_sampled": 14,
+    "closed_issues_sampled": 13,
     "contributors_12mo": 1,
     "top_author_commit_share": 1.0,
     "top_author": {

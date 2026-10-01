@@ -1,6 +1,6 @@
 {
   "slug": "nwiizo/signalbox.nvim",
-  "fetched_at": "2026-09-25T09:04:03.722440385Z",
+  "fetched_at": "2026-10-01T10:56:47.126971507Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -13,14 +13,14 @@
     "releases_365d": 9,
     "median_issue_close_days": 1.2168113425925926,
     "median_pr_close_days": null,
-    "open_issues": 6,
+    "open_issues": 7,
     "closed_issues_sampled": 2,
     "contributors_12mo": 1,
     "top_author_commit_share": 1.0,
     "top_author": {
       "login": "nwiizo",
       "account_created_at": "2015-05-15T13:33:57Z",
-      "other_repos_star_sum": 815
+      "other_repos_star_sum": 828
     },
     "has_ci": true,
     "has_tests": true,

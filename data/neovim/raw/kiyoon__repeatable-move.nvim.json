@@ -1,6 +1,6 @@
 {
   "slug": "kiyoon/repeatable-move.nvim",
-  "fetched_at": "2026-09-25T08:49:13.506664197Z",
+  "fetched_at": "2026-10-01T10:40:05.687113269Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "kiyoon",
       "account_created_at": "2015-06-20T17:30:29Z",
-      "other_repos_star_sum": 1181
+      "other_repos_star_sum": 1183
     },
     "has_ci": false,
     "has_tests": false,

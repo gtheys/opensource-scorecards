@@ -1,10 +1,10 @@
 {
   "slug": "kokusenz/deltaview.nvim",
-  "fetched_at": "2026-09-25T08:49:44.400043157Z",
+  "fetched_at": "2026-10-01T10:40:39.883794727Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 128,
+    "stars": 127,
     "forks": 5,
     "description": "inline/unified diff view in neovim with delta highlighting",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "kokusenz",
       "account_created_at": "2019-08-27T18:07:40Z",
-      "other_repos_star_sum": 134
+      "other_repos_star_sum": 133
     },
     "has_ci": true,
     "has_tests": true,

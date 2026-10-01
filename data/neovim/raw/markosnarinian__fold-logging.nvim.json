@@ -1,6 +1,6 @@
 {
   "slug": "markosnarinian/fold-logging.nvim",
-  "fetched_at": "2026-09-25T08:54:08.847217186Z",
+  "fetched_at": "2026-10-01T10:45:18.282750875Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -8,12 +8,12 @@
     "forks": 1,
     "description": "Automatically fold logging and debug-print statements in Neovim to declutter your code. Works with nvim-origami.",
     "license_spdx": "MIT",
-    "last_commit_at": "2026-09-18T19:58:04Z",
-    "commits_90d": 1,
+    "last_commit_at": "2026-09-30T10:33:20Z",
+    "commits_90d": 8,
     "releases_365d": 3,
     "median_issue_close_days": null,
-    "median_pr_close_days": null,
-    "open_issues": 1,
+    "median_pr_close_days": 95.99621527777778,
+    "open_issues": 0,
     "closed_issues_sampled": 0,
     "contributors_12mo": 1,
     "top_author_commit_share": 1.0,
@@ -24,6 +24,6 @@
     },
     "has_ci": false,
     "has_tests": true,
-    "readme_len": 10608
+    "readme_len": 12244
   }
 }

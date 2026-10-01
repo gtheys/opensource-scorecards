@@ -1,6 +1,6 @@
 {
   "slug": "olimorris/persisted.nvim",
-  "fetched_at": "2026-09-25T09:05:14.575967975Z",
+  "fetched_at": "2026-10-01T10:58:08.907469191Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "olimorris",
       "account_created_at": "2014-11-02T11:41:08Z",
-      "other_repos_star_sum": 9463
+      "other_repos_star_sum": 9478
     },
     "has_ci": true,
     "has_tests": true,

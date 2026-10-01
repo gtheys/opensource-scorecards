@@ -1,26 +1,26 @@
 {
   "slug": "olical/conjure",
-  "fetched_at": "2026-09-25T09:04:55.586785641Z",
+  "fetched_at": "2026-10-01T10:57:48.535628986Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 2143,
+    "stars": 2147,
     "forks": 147,
     "description": "Interactive evaluation for Neovim (Clojure, Fennel, Scheme, Python, JavaScript, PHP, R, Lua, Rust and more!)",
     "license_spdx": "Unlicense",
-    "last_commit_at": "2026-09-11T10:57:01Z",
-    "commits_90d": 12,
+    "last_commit_at": "2026-09-25T12:54:39Z",
+    "commits_90d": 13,
     "releases_365d": 4,
-    "median_issue_close_days": 20.38162037037037,
+    "median_issue_close_days": 20.371678240740742,
     "median_pr_close_days": 3.7143055555555557,
     "open_issues": 91,
     "closed_issues_sampled": 25,
     "contributors_12mo": 10,
-    "top_author_commit_share": 0.5919540229885057,
+    "top_author_commit_share": 0.6103896103896104,
     "top_author": {
       "login": "Olical",
       "account_created_at": "2010-06-26T14:39:48Z",
-      "other_repos_star_sum": 7397
+      "other_repos_star_sum": 7401
     },
     "has_ci": true,
     "has_tests": false,

@@ -1,10 +1,10 @@
 {
   "slug": "fildo7525/pretty_hover",
-  "fetched_at": "2026-09-30T09:59:44.014802874Z",
+  "fetched_at": "2026-10-01T10:27:07.321629128Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 250,
+    "stars": 251,
     "forks": 6,
     "description": "A small and customizable Neovim plugin for pretty printing the hover information from LSP servers",
     "license_spdx": "MIT",

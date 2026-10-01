@@ -1,10 +1,10 @@
 {
   "slug": "nicktsaizer/splitasm.nvim",
-  "fetched_at": "2026-09-25T09:00:36.413359258Z",
+  "fetched_at": "2026-10-01T10:52:32.140720730Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 80,
+    "stars": 81,
     "forks": 4,
     "description": "godbolt at home",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "NickTsaizer",
       "account_created_at": "2016-03-01T12:57:31Z",
-      "other_repos_star_sum": 127
+      "other_repos_star_sum": 128
     },
     "has_ci": false,
     "has_tests": true,
