@@ -1,10 +1,10 @@
 {
   "slug": "attilarepka/header.nvim",
-  "fetched_at": "2026-10-01T10:12:19.619165595Z",
+  "fetched_at": "2026-10-02T09:51:45.402159522Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 46,
+    "stars": 47,
     "forks": 9,
     "description": "Add or update copyright and license headers in any source file—right from Neovim",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "attilarepka",
       "account_created_at": "2018-05-07T17:30:35Z",
-      "other_repos_star_sum": 57
+      "other_repos_star_sum": 58
     },
     "has_ci": true,
     "has_tests": true,

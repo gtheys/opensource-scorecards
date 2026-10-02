@@ -1342,6 +1342,7 @@ repos:
   - wsdjeg/tasks.nvim
   - wurli/cobalt.nvim
   - wurli/jet.nvim
+  - wurli/servery.nvim
   - wurli/split.nvim
   - wurli/visimatch.nvim
   - x3ero0/dired.nvim

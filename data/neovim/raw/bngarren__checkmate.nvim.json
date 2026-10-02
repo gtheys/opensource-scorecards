@@ -1,6 +1,6 @@
 {
   "slug": "bngarren/checkmate.nvim",
-  "fetched_at": "2026-10-01T10:15:06.219900288Z",
+  "fetched_at": "2026-10-02T09:54:03.203056262Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -10,13 +10,13 @@
     "license_spdx": "MIT",
     "last_commit_at": "2026-04-25T18:59:00Z",
     "commits_90d": 0,
-    "releases_365d": 5,
+    "releases_365d": 4,
     "median_issue_close_days": 23.15946759259259,
     "median_pr_close_days": 0.01898726851851852,
     "open_issues": 8,
     "closed_issues_sampled": 8,
     "contributors_12mo": 2,
-    "top_author_commit_share": 0.9836065573770492,
+    "top_author_commit_share": 0.9767441860465116,
     "top_author": {
       "login": "bngarren",
       "account_created_at": "2015-01-23T13:50:07Z",

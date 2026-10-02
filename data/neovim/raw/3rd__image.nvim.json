@@ -1,10 +1,10 @@
 {
   "slug": "3rd/image.nvim",
-  "fetched_at": "2026-10-01T10:06:55.567683280Z",
+  "fetched_at": "2026-10-02T09:47:24.685149445Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 2088,
+    "stars": 2089,
     "forks": 114,
     "description": "🖼️ Bringing images to Neovim.",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "3rd",
       "account_created_at": "2020-01-07T00:54:25Z",
-      "other_repos_star_sum": 3653
+      "other_repos_star_sum": 3655
     },
     "has_ci": true,
     "has_tests": true,
