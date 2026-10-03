@@ -1,6 +1,6 @@
 {
   "slug": "gbprod/substitute.nvim",
-  "fetched_at": "2026-10-02T10:06:29.911147416Z",
+  "fetched_at": "2026-10-03T09:25:44.072064588Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "nemanjamalesija",
       "account_created_at": "2022-06-18T17:49:58Z",
-      "other_repos_star_sum": 265
+      "other_repos_star_sum": 266
     },
     "has_ci": true,
     "has_tests": true,

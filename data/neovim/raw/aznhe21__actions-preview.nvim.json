@@ -1,6 +1,6 @@
 {
   "slug": "aznhe21/actions-preview.nvim",
-  "fetched_at": "2026-10-02T09:52:14.315443704Z",
+  "fetched_at": "2026-10-03T09:12:41.783992026Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -15,8 +15,8 @@
     "median_pr_close_days": 0.003883101851851852,
     "open_issues": 10,
     "closed_issues_sampled": 24,
-    "contributors_12mo": 3,
-    "top_author_commit_share": 0.625,
+    "contributors_12mo": 2,
+    "top_author_commit_share": 0.8,
     "top_author": {
       "login": "aznhe21",
       "account_created_at": "2012-08-27T10:32:23Z",

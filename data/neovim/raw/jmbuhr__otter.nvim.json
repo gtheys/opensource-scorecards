@@ -1,6 +1,6 @@
 {
   "slug": "jmbuhr/otter.nvim",
-  "fetched_at": "2026-10-02T10:12:41.872025163Z",
+  "fetched_at": "2026-10-03T09:31:29.264744761Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "jmbuhr",
       "account_created_at": "2016-02-24T10:51:01Z",
-      "other_repos_star_sum": 1484
+      "other_repos_star_sum": 1485
     },
     "has_ci": true,
     "has_tests": true,

@@ -1,10 +1,10 @@
 {
   "slug": "creativenull/efmls-configs-nvim",
-  "fetched_at": "2026-10-02T09:58:04.015870784Z",
+  "fetched_at": "2026-10-03T09:18:13.091412719Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 320,
+    "stars": 319,
     "forks": 51,
     "description": "An unofficial collection of linters and formatters configured for efm-langserver for neovim.",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "creativenull",
       "account_created_at": "2013-03-04T18:33:30Z",
-      "other_repos_star_sum": 599
+      "other_repos_star_sum": 598
     },
     "has_ci": false,
     "has_tests": false,

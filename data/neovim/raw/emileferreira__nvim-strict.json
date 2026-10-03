@@ -1,6 +1,6 @@
 {
   "slug": "emileferreira/nvim-strict",
-  "fetched_at": "2026-10-02T10:03:02.036213961Z",
+  "fetched_at": "2026-10-03T09:22:40.730018591Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "Strict, native code style formatting plugin for Neovim. Expose deep nesting, overlong lines, trailing whitespace, trailing empty lines, todos and inconsistent indentation.",
     "license_spdx": "MIT",
     "last_commit_at": "2026-07-16T08:32:02Z",
-    "commits_90d": 3,
+    "commits_90d": 2,
     "releases_365d": 0,
     "median_issue_close_days": 278.88618055555554,
     "median_pr_close_days": 6.881678240740741,

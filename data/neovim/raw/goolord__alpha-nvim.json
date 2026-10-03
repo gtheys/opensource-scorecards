@@ -1,6 +1,6 @@
 {
   "slug": "goolord/alpha-nvim",
-  "fetched_at": "2026-10-02T10:07:41.361081436Z",
+  "fetched_at": "2026-10-03T09:26:47.094359797Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "goolord",
       "account_created_at": "2017-01-04T02:55:06Z",
-      "other_repos_star_sum": 2497
+      "other_repos_star_sum": 2473
     },
     "has_ci": false,
     "has_tests": false,

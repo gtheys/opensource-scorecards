@@ -1,6 +1,6 @@
 {
   "slug": "eraserhd/parinfer-rust",
-  "fetched_at": "2026-10-02T10:03:24.604172730Z",
+  "fetched_at": "2026-10-03T09:22:57.734085691Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -15,8 +15,8 @@
     "median_pr_close_days": 6.531753472222222,
     "open_issues": 34,
     "closed_issues_sampled": 22,
-    "contributors_12mo": 6,
-    "top_author_commit_share": 0.5,
+    "contributors_12mo": 5,
+    "top_author_commit_share": 0.5454545454545454,
     "top_author": {
       "login": "eraserhd",
       "account_created_at": "2009-11-01T03:20:12Z",

@@ -1,6 +1,6 @@
 {
   "slug": "andrewferrier/debugprint.nvim",
-  "fetched_at": "2026-10-02T09:50:36.446160318Z",
+  "fetched_at": "2026-10-03T09:11:07.020702760Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "Debugging in NeoVim the print() way!",
     "license_spdx": "MIT",
     "last_commit_at": "2026-07-04T14:45:15Z",
-    "commits_90d": 5,
+    "commits_90d": 0,
     "releases_365d": 4,
     "median_issue_close_days": 5.981643518518519,
     "median_pr_close_days": 4.283240740740741,

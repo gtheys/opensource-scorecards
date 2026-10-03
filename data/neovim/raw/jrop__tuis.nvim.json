@@ -1,6 +1,6 @@
 {
   "slug": "jrop/tuis.nvim",
-  "fetched_at": "2026-10-02T10:13:17.065643644Z",
+  "fetched_at": "2026-10-03T09:32:03.904676717Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "jrop",
       "account_created_at": "2012-02-03T03:10:05Z",
-      "other_repos_star_sum": 587
+      "other_repos_star_sum": 586
     },
     "has_ci": true,
     "has_tests": true,
