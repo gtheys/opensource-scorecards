@@ -1,6 +1,6 @@
 {
   "slug": "joryeugene/dadbod-grip.nvim",
-  "fetched_at": "2026-10-03T09:31:41.394198971Z",
+  "fetched_at": "2026-10-04T10:11:52.318512203Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -11,10 +11,10 @@
     "last_commit_at": "2026-09-02T15:05:09Z",
     "commits_90d": 261,
     "releases_365d": 31,
-    "median_issue_close_days": 14.209143518518518,
-    "median_pr_close_days": 0.0010532407407407407,
-    "open_issues": 6,
-    "closed_issues_sampled": 7,
+    "median_issue_close_days": 12.770451388888889,
+    "median_pr_close_days": 0.0010358796296296297,
+    "open_issues": 5,
+    "closed_issues_sampled": 8,
     "contributors_12mo": 5,
     "top_author_commit_share": 0.5594713656387665,
     "top_author": {

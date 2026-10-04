@@ -1,6 +1,6 @@
 {
   "slug": "github-main-user/lytmode.nvim",
-  "fetched_at": "2026-10-03T09:26:33.018991745Z",
+  "fetched_at": "2026-10-04T10:06:03.078602298Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": " Neovim color scheme inspired by LYT-Mode theme for Obsidian ",
     "license_spdx": "MIT",
     "last_commit_at": "2026-07-05T17:00:02Z",
-    "commits_90d": 9,
+    "commits_90d": 0,
     "releases_365d": 0,
     "median_issue_close_days": null,
     "median_pr_close_days": null,

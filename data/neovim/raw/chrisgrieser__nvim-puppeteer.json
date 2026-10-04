@@ -1,6 +1,6 @@
 {
   "slug": "chrisgrieser/nvim-puppeteer",
-  "fetched_at": "2026-10-03T09:16:21.379195539Z",
+  "fetched_at": "2026-10-04T09:54:51.639391344Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "chrisgrieser",
       "account_created_at": "2020-10-22T10:50:35Z",
-      "other_repos_star_sum": 8857
+      "other_repos_star_sum": 8859
     },
     "has_ci": true,
     "has_tests": false,

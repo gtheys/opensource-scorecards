@@ -725,7 +725,7 @@ repos:
   - markgandolfo/dartboard.nvim
   - markgandolfo/lightswitch.nvim
   - marko-cerovac/material.nvim
-  - markosnarinian/fold-logging.nvim
+  - markosnarinian/distill.nvim
   - markosnarinian/ln.nvim
   - martuscellifaria/ahoicpp.nvim
   - mason-org/mason.nvim
@@ -1202,7 +1202,6 @@ repos:
   - svermeulen/vimpeccable
   - svrana/neosolarized.nvim
   - sxyazi/yazi
-  - syl20bnr/spacemacs
   - t-b-t-nchos/aquavium.nvim
   - t-b-t-nchos/fmp7.nvim
   - t-troebst/perfanno.nvim

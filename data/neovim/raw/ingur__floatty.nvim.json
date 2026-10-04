@@ -1,6 +1,6 @@
 {
   "slug": "ingur/floatty.nvim",
-  "fetched_at": "2026-10-03T09:29:14.022383243Z",
+  "fetched_at": "2026-10-04T10:09:08.549612992Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "A tiny (<200 LOC) but highly customizable floating terminal manager.",
     "license_spdx": "MIT",
     "last_commit_at": "2026-07-05T19:00:49Z",
-    "commits_90d": 1,
+    "commits_90d": 0,
     "releases_365d": 1,
     "median_issue_close_days": null,
     "median_pr_close_days": null,

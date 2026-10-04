@@ -1,6 +1,6 @@
 {
   "slug": "jaitd/fieldguide.nvim",
-  "fetched_at": "2026-10-03T09:30:01.222651681Z",
+  "fetched_at": "2026-10-04T10:10:02.283488877Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -8,12 +8,12 @@
     "forks": 0,
     "description": "A field guide to your Neovim",
     "license_spdx": "Apache-2.0",
-    "last_commit_at": "2026-10-02T20:09:55Z",
-    "commits_90d": 18,
+    "last_commit_at": "2026-10-03T20:15:52Z",
+    "commits_90d": 30,
     "releases_365d": 1,
     "median_issue_close_days": null,
-    "median_pr_close_days": 0.014554398148148146,
-    "open_issues": 3,
+    "median_pr_close_days": 0.03457175925925926,
+    "open_issues": 0,
     "closed_issues_sampled": 0,
     "contributors_12mo": 1,
     "top_author_commit_share": 1.0,
@@ -24,6 +24,6 @@
     },
     "has_ci": true,
     "has_tests": true,
-    "readme_len": 15489
+    "readme_len": 18585
   }
 }

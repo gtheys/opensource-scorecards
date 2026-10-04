@@ -1,10 +1,10 @@
 {
   "slug": "jakewvincent/mkdnflow.nvim",
-  "fetched_at": "2026-10-03T09:30:08.028250427Z",
+  "fetched_at": "2026-10-04T10:10:09.262810891Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 832,
+    "stars": 833,
     "forks": 43,
     "description": "Fluent navigation and management of markdown notebooks",
     "license_spdx": "GPL-3.0",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "jakewvincent",
       "account_created_at": "2018-11-19T22:08:33Z",
-      "other_repos_star_sum": 897
+      "other_repos_star_sum": 898
     },
     "has_ci": true,
     "has_tests": true,

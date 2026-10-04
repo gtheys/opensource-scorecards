@@ -1,6 +1,6 @@
 {
   "slug": "clang-engineer/dadbod-vertica.nvim",
-  "fetched_at": "2026-10-03T09:17:19.349799391Z",
+  "fetched_at": "2026-10-04T09:55:50.654598926Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "Vertica adapter for vim-dadbod, wired through the official vsql client",
     "license_spdx": "MIT",
     "last_commit_at": "2026-07-06T04:41:50Z",
-    "commits_90d": 3,
+    "commits_90d": 0,
     "releases_365d": 0,
     "median_issue_close_days": null,
     "median_pr_close_days": null,

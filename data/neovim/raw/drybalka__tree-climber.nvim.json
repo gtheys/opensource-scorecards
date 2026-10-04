@@ -1,10 +1,10 @@
 {
   "slug": "drybalka/tree-climber.nvim",
-  "fetched_at": "2026-10-03T09:21:58.065644132Z",
+  "fetched_at": "2026-10-04T10:00:55.323544547Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 159,
+    "stars": 158,
     "forks": 6,
     "description": null,
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "drybalka",
       "account_created_at": "2017-01-06T04:45:18Z",
-      "other_repos_star_sum": 224
+      "other_repos_star_sum": 223
     },
     "has_ci": false,
     "has_tests": true,

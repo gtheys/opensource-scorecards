@@ -1,10 +1,10 @@
 {
   "slug": "j-morano/buffer_manager.nvim",
-  "fetched_at": "2026-10-03T09:29:54.128557311Z",
+  "fetched_at": "2026-10-04T10:09:54.326870303Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 401,
+    "stars": 402,
     "forks": 18,
     "description": "A simple plugin to easily manage Neovim buffers.",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "j-morano",
       "account_created_at": "2019-03-19T11:04:46Z",
-      "other_repos_star_sum": 524
+      "other_repos_star_sum": 525
     },
     "has_ci": false,
     "has_tests": false,
