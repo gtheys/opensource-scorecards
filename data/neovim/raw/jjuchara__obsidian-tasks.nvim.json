@@ -1,6 +1,6 @@
 {
   "slug": "jjuchara/obsidian-tasks.nvim",
-  "fetched_at": "2026-10-04T10:11:25.951495949Z",
+  "fetched_at": "2026-10-05T10:52:06.878642862Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "Keyboard-first Obsidian task management for Neovim with multi-vault views and ordered tag trees",
     "license_spdx": "MIT",
     "last_commit_at": "2026-08-31T10:50:56Z",
-    "commits_90d": 20,
+    "commits_90d": 17,
     "releases_365d": 13,
     "median_issue_close_days": 18.65789351851852,
     "median_pr_close_days": null,

@@ -1,6 +1,6 @@
 {
   "slug": "ethanjwright/vs-tasks.nvim",
-  "fetched_at": "2026-10-04T10:02:30.064539153Z",
+  "fetched_at": "2026-10-05T10:42:31.870819218Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -18,9 +18,9 @@
     "contributors_12mo": 2,
     "top_author_commit_share": 0.5,
     "top_author": {
-      "login": "EthanJWright",
-      "account_created_at": "2015-09-17T00:28:22Z",
-      "other_repos_star_sum": 331
+      "login": "gfontenot",
+      "account_created_at": "2009-09-08T13:22:12Z",
+      "other_repos_star_sum": 246
     },
     "has_ci": false,
     "has_tests": false,

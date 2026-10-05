@@ -1,10 +1,10 @@
 {
   "slug": "ankushbhagats/match.nvim",
-  "fetched_at": "2026-10-04T09:49:27.366609831Z",
+  "fetched_at": "2026-10-05T10:28:07.333273271Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 58,
+    "stars": 59,
     "forks": 3,
     "description": "A minimal Neovim plugin for floating search & replace with live match tracking, navigation, and quick replacements.",
     "license_spdx": "GPL-3.0",

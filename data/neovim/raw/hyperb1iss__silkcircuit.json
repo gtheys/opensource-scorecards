@@ -1,10 +1,10 @@
 {
   "slug": "hyperb1iss/silkcircuit",
-  "fetched_at": "2026-10-04T10:08:16.142364715Z",
+  "fetched_at": "2026-10-05T10:48:39.416787970Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 64,
+    "stars": 63,
     "forks": 2,
     "description": "⚡💜 Electric meets elegant. A vibrant cyberpunk color system for Neovim, VS Code, Chrome, terminals, and 20+ tools.",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "hyperb1iss",
       "account_created_at": "2009-07-06T14:26:47Z",
-      "other_repos_star_sum": 1445
+      "other_repos_star_sum": 1446
     },
     "has_ci": true,
     "has_tests": true,

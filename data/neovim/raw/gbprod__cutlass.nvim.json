@@ -1,11 +1,11 @@
 {
   "slug": "gbprod/cutlass.nvim",
-  "fetched_at": "2026-10-04T10:04:58.350500954Z",
+  "fetched_at": "2026-10-05T10:45:10.248782177Z",
   "status": "ok",
   "data": {
     "archived": false,
     "stars": 233,
-    "forks": 7,
+    "forks": 8,
     "description": "Plugin that adds a 'cut' operation separate from 'delete' ",
     "license_spdx": "WTFPL",
     "last_commit_at": "2025-10-23T15:18:19Z",
@@ -13,7 +13,7 @@
     "releases_365d": 0,
     "median_issue_close_days": 1.04765625,
     "median_pr_close_days": 0.0038194444444444443,
-    "open_issues": 2,
+    "open_issues": 3,
     "closed_issues_sampled": 12,
     "contributors_12mo": 1,
     "top_author_commit_share": 1.0,

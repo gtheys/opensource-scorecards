@@ -1,6 +1,6 @@
 {
   "slug": "cosmicbuffalo/gem_install.nvim",
-  "fetched_at": "2026-10-04T09:56:23.355893588Z",
+  "fetched_at": "2026-10-05T10:35:50.923051183Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "cosmicbuffalo",
       "account_created_at": "2017-01-16T19:03:05Z",
-      "other_repos_star_sum": 131
+      "other_repos_star_sum": 132
     },
     "has_ci": true,
     "has_tests": true,

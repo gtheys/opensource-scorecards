@@ -1,6 +1,6 @@
 {
   "slug": "hat0uma/prelive.nvim",
-  "fetched_at": "2026-10-04T10:07:13.072164333Z",
+  "fetched_at": "2026-10-05T10:47:32.450991571Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -8,20 +8,16 @@
     "forks": 1,
     "description": "A simple luv-based development server with live reloading for Neovim.",
     "license_spdx": "MIT",
-    "last_commit_at": "2025-10-05T07:15:42Z",
+    "last_commit_at": null,
     "commits_90d": 0,
     "releases_365d": 0,
     "median_issue_close_days": 2.095497685185185,
     "median_pr_close_days": 1.0586284722222223,
     "open_issues": 0,
     "closed_issues_sampled": 3,
-    "contributors_12mo": 1,
-    "top_author_commit_share": 1.0,
-    "top_author": {
-      "login": "hat0uma",
-      "account_created_at": "2019-09-19T16:11:24Z",
-      "other_repos_star_sum": 728
-    },
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
     "has_ci": true,
     "has_tests": true,
     "readme_len": 5365

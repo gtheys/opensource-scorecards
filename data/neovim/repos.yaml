@@ -847,6 +847,7 @@ repos:
   - nfrid/due.nvim
   - nfrid/markdown-togglecheck
   - nfrid/treesitter-utils
+  - nghiant03/jove.nvim
   - nguyenvukhang/nvim-toggler
   - nickgerace/gfold
   - nickjvandyke/opencode.nvim

@@ -1,6 +1,6 @@
 {
   "slug": "coffebar/neovim-project",
-  "fetched_at": "2026-10-04T09:56:09.282828084Z",
+  "fetched_at": "2026-10-05T10:35:35.707907688Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "coffebar",
       "account_created_at": "2012-12-21T18:04:37Z",
-      "other_repos_star_sum": 1067
+      "other_repos_star_sum": 1068
     },
     "has_ci": false,
     "has_tests": false,

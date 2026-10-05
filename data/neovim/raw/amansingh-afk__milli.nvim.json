@@ -1,10 +1,10 @@
 {
   "slug": "amansingh-afk/milli.nvim",
-  "fetched_at": "2026-10-04T09:49:05.528332608Z",
+  "fetched_at": "2026-10-05T10:27:46.145256882Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 319,
+    "stars": 320,
     "forks": 4,
     "description": " Animated ASCII splash screens for Neovim. 29 bundled splashes + bring your own via the   milli CLI / web playground.",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "Amansingh-afk",
       "account_created_at": "2021-09-18T16:14:03Z",
-      "other_repos_star_sum": 413
+      "other_repos_star_sum": 415
     },
     "has_ci": false,
     "has_tests": false,
