@@ -1,10 +1,10 @@
 {
   "slug": "cpea2506/one_monokai.nvim",
-  "fetched_at": "2026-10-05T10:36:05.928197777Z",
+  "fetched_at": "2026-10-06T10:28:24.296534811Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 192,
+    "stars": 190,
     "forks": 12,
     "description": "One Monokai for Neovim",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "cpea2506",
       "account_created_at": "2018-08-25T11:02:33Z",
-      "other_repos_star_sum": 270
+      "other_repos_star_sum": 268
     },
     "has_ci": true,
     "has_tests": true,

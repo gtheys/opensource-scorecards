@@ -1,10 +1,10 @@
 {
   "slug": "dzfrias/arena.nvim",
-  "fetched_at": "2026-10-05T10:41:07.264162504Z",
+  "fetched_at": "2026-10-06T10:33:44.800409171Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 121,
+    "stars": 122,
     "forks": 10,
     "description": "A smart (frecency-based) buffer switcher",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "dzfrias",
       "account_created_at": "2021-12-12T19:29:38Z",
-      "other_repos_star_sum": 687
+      "other_repos_star_sum": 688
     },
     "has_ci": false,
     "has_tests": false,

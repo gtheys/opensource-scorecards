@@ -1,6 +1,6 @@
 {
   "slug": "meanderingprogrammer/treesitter-modules.nvim",
-  "fetched_at": "2026-10-01T10:46:21.149667021Z",
+  "fetched_at": "2026-10-06T10:54:22.893411661Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "MeanderingProgrammer",
       "account_created_at": "2019-07-06T04:41:49Z",
-      "other_repos_star_sum": 5413
+      "other_repos_star_sum": 5429
     },
     "has_ci": false,
     "has_tests": false,

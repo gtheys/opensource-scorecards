@@ -1,10 +1,10 @@
 {
   "slug": "mihovilrak/scroll.nvim",
-  "fetched_at": "2026-10-01T10:47:03.790762731Z",
+  "fetched_at": "2026-10-06T10:55:05.594934463Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 16,
+    "stars": 21,
     "forks": 1,
     "description": "Horizontal and vertical scrollbar for Neovim. It also includes an optional minimap with git and LSP markers and an explorer scrollbar.",
     "license_spdx": "MIT",
@@ -13,14 +13,14 @@
     "releases_365d": 0,
     "median_issue_close_days": 0.007789351851851852,
     "median_pr_close_days": null,
-    "open_issues": 0,
+    "open_issues": 1,
     "closed_issues_sampled": 1,
     "contributors_12mo": 1,
     "top_author_commit_share": 1.0,
     "top_author": {
       "login": "mihovilrak",
       "account_created_at": "2024-01-05T00:57:27Z",
-      "other_repos_star_sum": 16
+      "other_repos_star_sum": 21
     },
     "has_ci": true,
     "has_tests": true,

@@ -1,6 +1,6 @@
 {
   "slug": "kevinhwang91/nvim-bqf",
-  "fetched_at": "2026-10-01T10:39:12.602698239Z",
+  "fetched_at": "2026-10-06T10:47:27.511200867Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -15,8 +15,8 @@
     "median_pr_close_days": 1.7579976851851853,
     "open_issues": 21,
     "closed_issues_sampled": 33,
-    "contributors_12mo": 4,
-    "top_author_commit_share": 0.4,
+    "contributors_12mo": 3,
+    "top_author_commit_share": 0.5,
     "top_author": {
       "login": "phanen",
       "account_created_at": "2021-09-28T13:06:19Z",

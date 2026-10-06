@@ -1,10 +1,10 @@
 {
   "slug": "kicamon/markdown-table-mode.nvim",
-  "fetched_at": "2026-10-01T10:39:34.974335413Z",
+  "fetched_at": "2026-10-06T10:47:47.316101876Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 108,
+    "stars": 109,
     "forks": 7,
     "description": "A lightweight markdown format plugin like vim-table-mode but write in lua",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "Kicamon",
       "account_created_at": "2021-12-28T14:53:11Z",
-      "other_repos_star_sum": 229
+      "other_repos_star_sum": 230
     },
     "has_ci": false,
     "has_tests": false,

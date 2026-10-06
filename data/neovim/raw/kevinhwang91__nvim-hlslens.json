@@ -1,6 +1,6 @@
 {
   "slug": "kevinhwang91/nvim-hlslens",
-  "fetched_at": "2026-10-01T10:39:16.275664350Z",
+  "fetched_at": "2026-10-06T10:47:31.132043098Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -18,9 +18,9 @@
     "contributors_12mo": 2,
     "top_author_commit_share": 0.5,
     "top_author": {
-      "login": "offa",
-      "account_created_at": "2014-09-23T21:22:17Z",
-      "other_repos_star_sum": 11567
+      "login": "phanen",
+      "account_created_at": "2021-09-28T13:06:19Z",
+      "other_repos_star_sum": 69
     },
     "has_ci": false,
     "has_tests": false,

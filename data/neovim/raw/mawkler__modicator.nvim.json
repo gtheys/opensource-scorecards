@@ -1,10 +1,10 @@
 {
   "slug": "mawkler/modicator.nvim",
-  "fetched_at": "2026-10-01T10:45:56.150949070Z",
+  "fetched_at": "2026-10-06T10:53:55.465996729Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 382,
+    "stars": 383,
     "forks": 11,
     "description": "Cursor line number mode indicator plugin for Neovim",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "mawkler",
       "account_created_at": "2015-11-12T12:52:11Z",
-      "other_repos_star_sum": 735
+      "other_repos_star_sum": 736
     },
     "has_ci": true,
     "has_tests": true,

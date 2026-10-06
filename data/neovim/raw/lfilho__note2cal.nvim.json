@@ -1,10 +1,10 @@
 {
   "slug": "lfilho/note2cal.nvim",
-  "fetched_at": "2026-10-01T10:42:27.022477015Z",
+  "fetched_at": "2026-10-06T10:50:37.715101797Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 31,
+    "stars": 32,
     "forks": 3,
     "description": "Quickly schedule calendar events from neovim",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "lfilho",
       "account_created_at": "2010-05-20T20:36:50Z",
-      "other_repos_star_sum": 239
+      "other_repos_star_sum": 240
     },
     "has_ci": false,
     "has_tests": true,

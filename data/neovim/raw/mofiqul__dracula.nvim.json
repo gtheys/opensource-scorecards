@@ -1,11 +1,11 @@
 {
   "slug": "mofiqul/dracula.nvim",
-  "fetched_at": "2026-10-01T10:48:40.266720125Z",
+  "fetched_at": "2026-10-06T10:56:42.379791413Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 783,
-    "forks": 122,
+    "stars": 785,
+    "forks": 121,
     "description": "Dracula colorscheme for neovim written in Lua",
     "license_spdx": "MIT",
     "last_commit_at": "2025-11-05T01:08:01Z",

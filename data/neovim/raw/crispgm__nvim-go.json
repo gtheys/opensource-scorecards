@@ -1,6 +1,6 @@
 {
   "slug": "crispgm/nvim-go",
-  "fetched_at": "2026-10-05T10:36:23.400928745Z",
+  "fetched_at": "2026-10-06T10:28:41.283153156Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "crispgm",
       "account_created_at": "2012-02-10T08:12:28Z",
-      "other_repos_star_sum": 1382
+      "other_repos_star_sum": 1383
     },
     "has_ci": true,
     "has_tests": true,

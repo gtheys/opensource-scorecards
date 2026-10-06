@@ -1,6 +1,6 @@
 {
   "slug": "maxmx03/fluoromachine.nvim",
-  "fetched_at": "2026-10-01T10:46:13.373819810Z",
+  "fetched_at": "2026-10-06T10:54:13.066773791Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "maxmx03",
       "account_created_at": "2019-05-04T17:59:00Z",
-      "other_repos_star_sum": 684
+      "other_repos_star_sum": 683
     },
     "has_ci": false,
     "has_tests": true,

@@ -1,6 +1,6 @@
 {
   "slug": "birdeehub/lze",
-  "fetched_at": "2026-10-05T10:31:35.773812348Z",
+  "fetched_at": "2026-10-06T10:23:17.217576970Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "BirdeeHub",
       "account_created_at": "2021-06-04T21:29:23Z",
-      "other_repos_star_sum": 987
+      "other_repos_star_sum": 988
     },
     "has_ci": true,
     "has_tests": true,

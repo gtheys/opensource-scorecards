@@ -1,10 +1,10 @@
 {
   "slug": "nmac427/guess-indent.nvim",
-  "fetched_at": "2026-10-01T10:53:37.572012765Z",
+  "fetched_at": "2026-10-06T11:01:26.389851992Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 666,
+    "stars": 667,
     "forks": 19,
     "description": "Automatic indentation style detection for Neovim",
     "license_spdx": "MIT",

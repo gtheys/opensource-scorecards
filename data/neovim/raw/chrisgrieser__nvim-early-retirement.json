@@ -1,10 +1,10 @@
 {
   "slug": "chrisgrieser/nvim-early-retirement",
-  "fetched_at": "2026-10-05T10:33:46.585718008Z",
+  "fetched_at": "2026-10-06T10:25:41.856518511Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 258,
+    "stars": 259,
     "forks": 8,
     "description": "Send buffers into early retirement by automatically closing them after x minutes of inactivity.",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "chrisgrieser",
       "account_created_at": "2020-10-22T10:50:35Z",
-      "other_repos_star_sum": 8861
+      "other_repos_star_sum": 8863
     },
     "has_ci": true,
     "has_tests": false,

@@ -1,6 +1,6 @@
 {
   "slug": "mfussenegger/nvim-jdtls",
-  "fetched_at": "2026-10-01T10:46:40.485578146Z",
+  "fetched_at": "2026-10-06T10:54:43.395923470Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -16,11 +16,11 @@
     "open_issues": 4,
     "closed_issues_sampled": 33,
     "contributors_12mo": 4,
-    "top_author_commit_share": 0.7333333333333333,
+    "top_author_commit_share": 0.7142857142857143,
     "top_author": {
       "login": "mfussenegger",
       "account_created_at": "2008-12-06T13:38:00Z",
-      "other_repos_star_sum": 13442
+      "other_repos_star_sum": 13445
     },
     "has_ci": false,
     "has_tests": true,

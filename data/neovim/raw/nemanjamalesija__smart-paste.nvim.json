@@ -1,6 +1,6 @@
 {
   "slug": "nemanjamalesija/smart-paste.nvim",
-  "fetched_at": "2026-10-01T10:51:28.086552207Z",
+  "fetched_at": "2026-10-06T10:59:21.695703494Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "Context-aware paste indentation for Neovim. Pasted code lands at the correct indent level, every time, in every language.",
     "license_spdx": "MIT",
     "last_commit_at": "2026-08-17T20:30:02Z",
-    "commits_90d": 17,
+    "commits_90d": 8,
     "releases_365d": 0,
     "median_issue_close_days": 1.055763888888889,
     "median_pr_close_days": 0.0030208333333333333,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "nemanjamalesija",
       "account_created_at": "2022-06-18T17:49:58Z",
-      "other_repos_star_sum": 265
+      "other_repos_star_sum": 266
     },
     "has_ci": true,
     "has_tests": true,

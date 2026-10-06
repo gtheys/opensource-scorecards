@@ -1,6 +1,6 @@
 {
   "slug": "mrcjkb/haskell-snippets.nvim",
-  "fetched_at": "2026-10-01T10:49:40.555174591Z",
+  "fetched_at": "2026-10-06T10:57:39.355976222Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -10,7 +10,7 @@
     "license_spdx": "GPL-2.0",
     "last_commit_at": "2026-05-11T16:35:34Z",
     "commits_90d": 0,
-    "releases_365d": 1,
+    "releases_365d": 0,
     "median_issue_close_days": 3.1182696759259256,
     "median_pr_close_days": 0.029675925925925925,
     "open_issues": 5,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "mrcjkb",
       "account_created_at": "2015-06-12T07:36:11Z",
-      "other_repos_star_sum": 674
+      "other_repos_star_sum": 671
     },
     "has_ci": true,
     "has_tests": true,

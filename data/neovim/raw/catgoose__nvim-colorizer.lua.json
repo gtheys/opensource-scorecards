@@ -1,6 +1,6 @@
 {
   "slug": "catgoose/nvim-colorizer.lua",
-  "fetched_at": "2026-10-05T10:32:52.482153267Z",
+  "fetched_at": "2026-10-06T10:24:36.962626349Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -13,7 +13,7 @@
     "releases_365d": 0,
     "median_issue_close_days": 246.32837962962964,
     "median_pr_close_days": 0.0008564814814814815,
-    "open_issues": 5,
+    "open_issues": 6,
     "closed_issues_sampled": 21,
     "contributors_12mo": 6,
     "top_author_commit_share": 0.8958333333333334,

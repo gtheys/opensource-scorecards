@@ -1,6 +1,6 @@
 {
   "slug": "nagato-yuzuru/bang.nvim",
-  "fetched_at": "2026-10-01T10:50:48.156178174Z",
+  "fetched_at": "2026-10-06T10:58:43.761385867Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -13,7 +13,7 @@
     "releases_365d": 2,
     "median_issue_close_days": 1.3388773148148148,
     "median_pr_close_days": 0.00375,
-    "open_issues": 9,
+    "open_issues": 10,
     "closed_issues_sampled": 19,
     "contributors_12mo": 1,
     "top_author_commit_share": 1.0,

@@ -1,6 +1,6 @@
 {
   "slug": "folke/persistence.nvim",
-  "fetched_at": "2026-10-05T10:44:15.355135637Z",
+  "fetched_at": "2026-10-06T10:36:51.460962608Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "folke",
       "account_created_at": "2010-05-31T14:14:10Z",
-      "other_repos_star_sum": 42198
+      "other_repos_star_sum": 42208
     },
     "has_ci": true,
     "has_tests": false,

@@ -1,11 +1,11 @@
 {
   "slug": "kelly-lin/ranger.nvim",
-  "fetched_at": "2026-10-01T10:39:04.168709565Z",
+  "fetched_at": "2026-10-06T10:47:20.094486112Z",
   "status": "ok",
   "data": {
     "archived": false,
     "stars": 182,
-    "forks": 20,
+    "forks": 21,
     "description": "Ranger plugin for neovim",
     "license_spdx": "MIT",
     "last_commit_at": null,

@@ -1,6 +1,6 @@
 {
   "slug": "cweill/gotests",
-  "fetched_at": "2026-10-05T10:37:14.495304370Z",
+  "fetched_at": "2026-10-06T10:29:39.658621870Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "cweill",
       "account_created_at": "2012-09-14T02:24:41Z",
-      "other_repos_star_sum": 5404
+      "other_repos_star_sum": 5405
     },
     "has_ci": true,
     "has_tests": true,

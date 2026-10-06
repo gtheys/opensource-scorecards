@@ -1,6 +1,6 @@
 {
   "slug": "jarndev/autodap.nvim",
-  "fetched_at": "2026-10-05T10:50:54.098511549Z",
+  "fetched_at": "2026-10-06T10:43:32.283548983Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -8,12 +8,12 @@
     "forks": 0,
     "description": "Zero-config debugging for Neovim — a thin layer over nvim-dap that configures the debugger from your project (monorepo-aware; Node/Python/C-C++).",
     "license_spdx": "MIT",
-    "last_commit_at": "2026-10-05T04:13:10Z",
-    "commits_90d": 26,
+    "last_commit_at": "2026-10-05T17:59:05Z",
+    "commits_90d": 33,
     "releases_365d": 3,
     "median_issue_close_days": null,
-    "median_pr_close_days": 2.195752314814815,
-    "open_issues": 0,
+    "median_pr_close_days": 2.144415509259259,
+    "open_issues": 1,
     "closed_issues_sampled": 0,
     "contributors_12mo": 1,
     "top_author_commit_share": 1.0,
@@ -24,6 +24,6 @@
     },
     "has_ci": true,
     "has_tests": true,
-    "readme_len": 10439
+    "readme_len": 11636
   }
 }

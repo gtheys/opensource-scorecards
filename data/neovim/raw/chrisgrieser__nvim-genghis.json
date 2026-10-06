@@ -1,6 +1,6 @@
 {
   "slug": "chrisgrieser/nvim-genghis",
-  "fetched_at": "2026-10-05T10:33:49.635573754Z",
+  "fetched_at": "2026-10-06T10:25:45.600510848Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "chrisgrieser",
       "account_created_at": "2020-10-22T10:50:35Z",
-      "other_repos_star_sum": 8861
+      "other_repos_star_sum": 8863
     },
     "has_ci": true,
     "has_tests": false,

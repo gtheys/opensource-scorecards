@@ -1,10 +1,10 @@
 {
   "slug": "gsuuon/model.nvim",
-  "fetched_at": "2026-10-05T10:46:58.335538405Z",
+  "fetched_at": "2026-10-06T10:39:33.045023332Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 400,
+    "stars": 401,
     "forks": 29,
     "description": "Neovim plugin for interacting with LLM's and building editor integrated prompts.",
     "license_spdx": "MIT",

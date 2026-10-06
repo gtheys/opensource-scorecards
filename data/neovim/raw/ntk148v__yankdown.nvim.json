@@ -1,6 +1,6 @@
 {
   "slug": "ntk148v/yankdown.nvim",
-  "fetched_at": "2026-10-01T10:54:29.396274197Z",
+  "fetched_at": "2026-10-06T11:02:11.674174160Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "ntk148v",
       "account_created_at": "2015-02-02T02:52:18Z",
-      "other_repos_star_sum": 797
+      "other_repos_star_sum": 795
     },
     "has_ci": true,
     "has_tests": true,

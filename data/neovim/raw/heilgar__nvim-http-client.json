@@ -1,6 +1,6 @@
 {
   "slug": "heilgar/nvim-http-client",
-  "fetched_at": "2026-10-05T10:47:57.001288422Z",
+  "fetched_at": "2026-10-06T10:40:28.741686698Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -10,7 +10,7 @@
     "license_spdx": "MIT",
     "last_commit_at": "2026-09-11T22:36:17Z",
     "commits_90d": 1,
-    "releases_365d": 1,
+    "releases_365d": 0,
     "median_issue_close_days": null,
     "median_pr_close_days": 0.0002662037037037037,
     "open_issues": 0,

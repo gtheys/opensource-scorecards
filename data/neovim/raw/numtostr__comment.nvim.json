@@ -1,10 +1,10 @@
 {
   "slug": "numtostr/comment.nvim",
-  "fetched_at": "2026-10-01T10:54:34.758421974Z",
+  "fetched_at": "2026-10-06T11:02:14.923541349Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 4667,
+    "stars": 4668,
     "forks": 191,
     "description": ":brain: :muscle: // Smart and powerful comment plugin for neovim. Supports treesitter, dot repeat, left-right/up-down motions, hooks, and more",
     "license_spdx": "MIT",
