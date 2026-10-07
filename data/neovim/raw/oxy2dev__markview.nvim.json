@@ -1,26 +1,26 @@
 {
   "slug": "oxy2dev/markview.nvim",
-  "fetched_at": "2026-10-01T10:58:57.925946581Z",
+  "fetched_at": "2026-10-07T11:00:45.097489188Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 3652,
+    "stars": 3659,
     "forks": 108,
     "description": "A hackable markdown, Typst, latex, html(inline) & Asciidoc previewer for Neovim",
     "license_spdx": "Apache-2.0",
     "last_commit_at": "2026-09-17T05:25:57Z",
-    "commits_90d": 13,
+    "commits_90d": 7,
     "releases_365d": 5,
     "median_issue_close_days": 0.15378472222222223,
     "median_pr_close_days": 0.06314814814814815,
     "open_issues": 5,
     "closed_issues_sampled": 25,
-    "contributors_12mo": 18,
-    "top_author_commit_share": 0.912621359223301,
+    "contributors_12mo": 17,
+    "top_author_commit_share": 0.9087591240875912,
     "top_author": {
       "login": "OXY2DEV",
       "account_created_at": "2023-01-18T04:51:04Z",
-      "other_repos_star_sum": 4852
+      "other_repos_star_sum": 4861
     },
     "has_ci": true,
     "has_tests": true,

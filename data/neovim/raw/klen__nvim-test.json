@@ -1,6 +1,6 @@
 {
   "slug": "klen/nvim-test",
-  "fetched_at": "2026-10-06T10:48:40.902719564Z",
+  "fetched_at": "2026-10-07T10:43:42.688799037Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "klen",
       "account_created_at": "2009-06-01T15:04:01Z",
-      "other_repos_star_sum": 4011
+      "other_repos_star_sum": 4012
     },
     "has_ci": true,
     "has_tests": true,

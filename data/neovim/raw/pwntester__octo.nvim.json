@@ -1,11 +1,11 @@
 {
   "slug": "pwntester/octo.nvim",
-  "fetched_at": "2026-09-25T09:07:32.463315188Z",
+  "fetched_at": "2026-10-07T11:02:21.017555817Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 3386,
-    "forks": 242,
+    "stars": 3390,
+    "forks": 247,
     "description": "Edit and review GitHub issues and pull requests from the comfort of your favorite editor",
     "license_spdx": "MIT",
     "last_commit_at": "2026-08-28T20:36:38Z",
@@ -13,10 +13,10 @@
     "releases_365d": 0,
     "median_issue_close_days": 19.664623842592594,
     "median_pr_close_days": 3.0428819444444444,
-    "open_issues": 248,
+    "open_issues": 249,
     "closed_issues_sampled": 14,
-    "contributors_12mo": 36,
-    "top_author_commit_share": 0.6349206349206349,
+    "contributors_12mo": 35,
+    "top_author_commit_share": 0.6374501992031872,
     "top_author": {
       "login": "williambdean",
       "account_created_at": "2019-11-13T23:01:45Z",

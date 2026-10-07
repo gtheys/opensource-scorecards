@@ -1,10 +1,10 @@
 {
   "slug": "lewis6991/gitsigns.nvim",
-  "fetched_at": "2026-10-06T10:50:22.457046586Z",
+  "fetched_at": "2026-10-07T10:45:15.492744638Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 7133,
+    "stars": 7136,
     "forks": 298,
     "description": "Git integration for buffers",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "lewis6991",
       "account_created_at": "2014-06-16T15:50:05Z",
-      "other_repos_star_sum": 11295
+      "other_repos_star_sum": 11297
     },
     "has_ci": true,
     "has_tests": true,

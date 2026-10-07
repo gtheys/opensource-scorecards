@@ -5,13 +5,16 @@ repos:
   - adstastic/pi-theme-flip
   - aliou/pi-guardrails
   - aliou/pi-processes
+  - anasalqoyyum/pi-durable-subagents
   - apmantza/pi-lens
   - betterwright/betterwright
+  - botiverse/antiproton
   - can1357/oh-my-pi
   - carderne/pi-sandbox
   - championswimmer/pi-cache-graph
   - championswimmer/pi-context-prune
   - chandra447/pi-hermes-memory
+  - cloudflare/agents
   - code-yeongyu/pi-ast-grep
   - code-yeongyu/pi-lsp-client
   - code-yeongyu/pi-rules
@@ -19,20 +22,26 @@ repos:
   - code-yeongyu/pi-websearch
   - code-yeongyu/senpi
   - codella/pi-packages
+  - cosmyo/ha-pi-durable
   - da-vinci-noob/pi-jev-model-router
+  - daya0576/pi-imessage
   - dbachelder/pi-btw
   - devmortimer/pi-warden
   - dingdinglz/pi-worktree
   - dkmnx/pi-cursor-theme
+  - duh17/oppi
   - earendil-works/pi
   - eliemessiecode/pi-code-theme
   - fitchmultz/pi-agent-browser-native
+  - geminixiang/mikan
   - gintasz/neuralyzer
   - gotgenes/pi-packages
+  - harshil1712/pi-on-cf
   - hasit/pi-community-themes
   - hazat/pi-interactive-subagents
   - heyhuynhgiabuu/openpi
   - hypabolic/hypa
+  - j-koester/pi-durable-postgres
   - javierportillo/pi-hackerman
   - jayshah5696/pi-agent-extensions
   - jayzeng/pi-memory
@@ -47,6 +56,7 @@ repos:
   - markacianfrani/pi-theme-flexoki
   - marv1nnnnn/pi-workstation
   - mavam/pi-terminal-theme
+  - mavam/webfox
   - michalvavra/agents
   - milanglacier/pi-theme-switcher
   - mitoromisaka/pi-tokyo-night
@@ -58,10 +68,13 @@ repos:
   - nicobailon/pi-mcp-adapter
   - nicobailon/pi-subagents
   - nicobailon/pi-web-access
+  - nyarlathoteppppp/pi-durabletask-mcp
   - ogulcancelik/pi-extensions
+  - powerfooi/roamgate
   - prateekmedia/pi-hooks
   - quentindanblon/pi-fast-jev-compaction
   - quintinshaw/pi-dynamic-workflows
+  - rivet-dev/agents
   - robzolkos/pi-theme-synthwave-84
   - safzanpirani/pi-jev-skill-picker
   - samfoy/pi-rose-pine
@@ -71,8 +84,10 @@ repos:
   - smoosex/pi-themes
   - spences10/my-pi
   - svkozak/pi-acp
+  - tannermidd/pi-pocket
   - theooliveira/pi-jev
   - thinkscape/agent-smart-fetch
+  - timreynolds/sift
   - tintinweb/pi-subagents
   - tintinweb/pi-tasks
   - tmdgusya/roach-pi

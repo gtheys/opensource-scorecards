@@ -1,6 +1,6 @@
 {
   "slug": "ptdewey/yankbank-nvim",
-  "fetched_at": "2026-09-25T09:07:29.191465691Z",
+  "fetched_at": "2026-10-07T11:02:17.904980979Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "reshen",
       "account_created_at": "2009-11-15T17:02:14Z",
-      "other_repos_star_sum": 2
+      "other_repos_star_sum": 3
     },
     "has_ci": true,
     "has_tests": false,

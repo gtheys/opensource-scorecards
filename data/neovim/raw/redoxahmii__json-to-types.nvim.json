@@ -1,11 +1,11 @@
 {
   "slug": "redoxahmii/json-to-types.nvim",
-  "fetched_at": "2026-09-25T09:09:23.620021616Z",
+  "fetched_at": "2026-10-07T11:04:14.953560768Z",
   "status": "ok",
   "data": {
     "archived": false,
     "stars": 59,
-    "forks": 5,
+    "forks": 4,
     "description": "A  neovim plugin to convert JSON objects to Type Definitions",
     "license_spdx": "Apache-2.0",
     "last_commit_at": "2026-02-18T18:11:06Z",
@@ -18,9 +18,9 @@
     "contributors_12mo": 2,
     "top_author_commit_share": 0.5,
     "top_author": {
-      "login": "10knamesmore",
-      "account_created_at": "2023-01-17T14:04:31Z",
-      "other_repos_star_sum": 21
+      "login": "redoxahmii",
+      "account_created_at": "2015-08-26T14:44:31Z",
+      "other_repos_star_sum": 67
     },
     "has_ci": true,
     "has_tests": true,

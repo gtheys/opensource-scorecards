@@ -1,11 +1,11 @@
 {
   "slug": "rcarriga/nvim-notify",
-  "fetched_at": "2026-09-25T09:09:13.967769888Z",
+  "fetched_at": "2026-10-07T11:04:05.138768339Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 3571,
-    "forks": 101,
+    "stars": 3574,
+    "forks": 102,
     "description": "A fancy, configurable, notification manager for NeoVim",
     "license_spdx": "MIT",
     "last_commit_at": null,

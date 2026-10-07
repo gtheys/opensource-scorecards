@@ -1,0 +1,29 @@
+{
+  "slug": "oxidescheme/nvim",
+  "fetched_at": "2026-10-07T11:00:31.160299129Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 18,
+    "forks": 0,
+    "description": "A minimalist colorscheme for neovim",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-10-06T08:09:37Z",
+    "commits_90d": 13,
+    "releases_365d": 0,
+    "median_issue_close_days": 83.21451388888889,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 1,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "jakmaz",
+      "account_created_at": "2023-06-14T07:30:20Z",
+      "other_repos_star_sum": 46
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 5165
+  }
+}

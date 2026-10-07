@@ -1,11 +1,11 @@
 {
   "slug": "oskarnurm/koda.nvim",
-  "fetched_at": "2026-10-01T10:58:23.456237576Z",
+  "fetched_at": "2026-10-07T11:00:10.780459690Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 365,
-    "forks": 24,
+    "stars": 366,
+    "forks": 23,
     "description": "Code's quiet companion. A minimalist theme for Neovim, written in Lua.",
     "license_spdx": "MIT",
     "last_commit_at": "2026-08-17T11:42:44Z",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "oskarnurm",
       "account_created_at": "2016-06-03T21:56:51Z",
-      "other_repos_star_sum": 376
+      "other_repos_star_sum": 377
     },
     "has_ci": true,
     "has_tests": true,

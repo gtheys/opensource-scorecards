@@ -1,6 +1,6 @@
 {
   "slug": "matthandzel/taskwarrior.nvim",
-  "fetched_at": "2026-10-06T10:53:39.183382194Z",
+  "fetched_at": "2026-10-07T10:48:39.333330454Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "Edit Taskwarrior tasks as markdown in Neovim. Inspired by oil.nvim.",
     "license_spdx": "MIT",
     "last_commit_at": "2026-08-16T22:37:20Z",
-    "commits_90d": 24,
+    "commits_90d": 23,
     "releases_365d": 1,
     "median_issue_close_days": 9.620138888888889,
     "median_pr_close_days": 6.90199074074074,

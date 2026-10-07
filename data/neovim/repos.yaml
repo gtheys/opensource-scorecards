@@ -280,6 +280,9 @@ repos:
   - cxwx/lazyurlupdate.nvim
   - cxwx/shadowmyname.nvim
   - da-moon/telescope-toggleterm.nvim
+  - daaanny90/claude-desktop.nvim
+  - daaanny90/iterm2-dark-background.nvim
+  - daaanny90/zed.nvim
   - dafi-1/tasknvim
   - daltongd/yanklock.nvim
   - dam9000/kickstart-modular.nvim
@@ -966,6 +969,7 @@ repos:
   - ovk/endec.nvim
   - owen-dechow/videre.nvim
   - oxfist/night-owl.nvim
+  - oxidescheme/nvim
   - oxy2dev/bars.nvim
   - oxy2dev/foldtext.nvim
   - oxy2dev/helpview.nvim

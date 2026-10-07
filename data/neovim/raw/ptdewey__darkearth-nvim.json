@@ -1,10 +1,10 @@
 {
   "slug": "ptdewey/darkearth-nvim",
-  "fetched_at": "2026-09-25T09:07:22.167897355Z",
+  "fetched_at": "2026-10-07T11:02:09.596009932Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 89,
+    "stars": 90,
     "forks": 2,
     "description": "A dark and earthy colorscheme for Neovim.",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "ptdewey",
       "account_created_at": "2019-11-18T21:30:14Z",
-      "other_repos_star_sum": 383
+      "other_repos_star_sum": 385
     },
     "has_ci": true,
     "has_tests": false,

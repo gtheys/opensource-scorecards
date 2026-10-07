@@ -1,6 +1,6 @@
 {
   "slug": "letieu/jira.nvim",
-  "fetched_at": "2026-10-06T10:50:17.724047953Z",
+  "fetched_at": "2026-10-07T10:45:09.665616890Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "letieu",
       "account_created_at": "2019-08-01T10:14:14Z",
-      "other_repos_star_sum": 908
+      "other_repos_star_sum": 907
     },
     "has_ci": true,
     "has_tests": true,

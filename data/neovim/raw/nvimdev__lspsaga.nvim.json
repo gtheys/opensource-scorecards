@@ -1,6 +1,6 @@
 {
   "slug": "nvimdev/lspsaga.nvim",
-  "fetched_at": "2026-10-06T11:04:01.063883640Z",
+  "fetched_at": "2026-10-07T10:58:29.581229034Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "leeguooooo",
       "account_created_at": "2014-10-17T06:16:06Z",
-      "other_repos_star_sum": 1363
+      "other_repos_star_sum": 1401
     },
     "has_ci": true,
     "has_tests": true,

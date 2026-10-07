@@ -1,10 +1,10 @@
 {
   "slug": "magicduck/grug-far.nvim",
-  "fetched_at": "2026-10-06T10:52:52.039849295Z",
+  "fetched_at": "2026-10-07T10:47:48.161900819Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 2020,
+    "stars": 2021,
     "forks": 55,
     "description": "Find And Replace plugin for neovim",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "MagicDuck",
       "account_created_at": "2009-06-14T07:45:14Z",
-      "other_repos_star_sum": 2032
+      "other_repos_star_sum": 2033
     },
     "has_ci": true,
     "has_tests": true,

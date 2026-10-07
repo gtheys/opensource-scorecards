@@ -1,6 +1,6 @@
 {
   "slug": "polirritmico/telescope-lazy-plugins.nvim",
-  "fetched_at": "2026-09-25T09:07:09.391153573Z",
+  "fetched_at": "2026-10-07T11:01:55.972655127Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -8,16 +8,20 @@
     "forks": 3,
     "description": "🧭 A Telescope extension to quickly access configurations of plugins managed by lazy.nvim.",
     "license_spdx": "MIT",
-    "last_commit_at": null,
-    "commits_90d": 0,
+    "last_commit_at": "2026-10-01T01:37:12Z",
+    "commits_90d": 3,
     "releases_365d": 0,
     "median_issue_close_days": 1.4193171296296296,
     "median_pr_close_days": 0.614375,
     "open_issues": 0,
     "closed_issues_sampled": 17,
-    "contributors_12mo": 0,
-    "top_author_commit_share": 0.0,
-    "top_author": null,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "polirritmico",
+      "account_created_at": "2016-12-08T17:17:44Z",
+      "other_repos_star_sum": 313
+    },
     "has_ci": false,
     "has_tests": true,
     "readme_len": 23671

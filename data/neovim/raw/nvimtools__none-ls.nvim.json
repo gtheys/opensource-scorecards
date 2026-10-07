@@ -1,10 +1,10 @@
 {
   "slug": "nvimtools/none-ls.nvim",
-  "fetched_at": "2026-10-01T10:56:41.027698796Z",
+  "fetched_at": "2026-10-07T10:58:36.331807797Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 3261,
+    "stars": 3264,
     "forks": 121,
     "description": "null-ls.nvim reloaded / Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.",
     "license_spdx": "Unlicense",
@@ -12,7 +12,7 @@
     "commits_90d": 1,
     "releases_365d": 0,
     "median_issue_close_days": 3.6994212962962965,
-    "median_pr_close_days": 1.3190625,
+    "median_pr_close_days": 1.3237152777777779,
     "open_issues": 14,
     "closed_issues_sampled": 17,
     "contributors_12mo": 13,

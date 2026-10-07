@@ -1,10 +1,10 @@
 {
   "slug": "owen-dechow/videre.nvim",
-  "fetched_at": "2026-10-01T10:58:40.146437231Z",
+  "fetched_at": "2026-10-07T11:00:25.490810458Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 273,
+    "stars": 274,
     "forks": 5,
     "description": "JSON explorer using Neovim's terminal interface.",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "Owen-Dechow",
       "account_created_at": "2022-03-20T19:06:05Z",
-      "other_repos_star_sum": 311
+      "other_repos_star_sum": 312
     },
     "has_ci": false,
     "has_tests": true,

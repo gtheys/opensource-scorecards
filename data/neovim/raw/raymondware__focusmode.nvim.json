@@ -1,6 +1,6 @@
 {
   "slug": "raymondware/focusmode.nvim",
-  "fetched_at": "2026-09-25T09:09:06.651596944Z",
+  "fetched_at": "2026-10-07T11:03:57.037467808Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "raymondware",
       "account_created_at": "2013-07-24T15:52:09Z",
-      "other_repos_star_sum": 8
+      "other_repos_star_sum": 7
     },
     "has_ci": true,
     "has_tests": true,

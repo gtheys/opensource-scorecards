@@ -1,6 +1,6 @@
 {
   "slug": "raymondware/herdr.nvim",
-  "fetched_at": "2026-09-25T09:09:08.863916433Z",
+  "fetched_at": "2026-10-07T11:03:59.218878943Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "raymondware",
       "account_created_at": "2013-07-24T15:52:09Z",
-      "other_repos_star_sum": 8
+      "other_repos_star_sum": 7
     },
     "has_ci": false,
     "has_tests": true,

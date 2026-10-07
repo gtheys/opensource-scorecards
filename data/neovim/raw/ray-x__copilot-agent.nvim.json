@@ -1,6 +1,6 @@
 {
   "slug": "ray-x/copilot-agent.nvim",
-  "fetched_at": "2026-09-25T09:08:49.395281672Z",
+  "fetched_at": "2026-10-07T11:03:39.960360266Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "ray-x",
       "account_created_at": "2012-04-26T09:15:35Z",
-      "other_repos_star_sum": 8720
+      "other_repos_star_sum": 8726
     },
     "has_ci": true,
     "has_tests": true,

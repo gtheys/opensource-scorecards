@@ -1,6 +1,6 @@
 {
   "slug": "barrettruth/diffs.nvim",
-  "fetched_at": "2026-10-06T10:22:00.098759283Z",
+  "fetched_at": "2026-10-07T10:19:55.981499364Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -13,7 +13,7 @@
     "releases_365d": 0,
     "median_issue_close_days": 0.8603877314814815,
     "median_pr_close_days": 0.007210648148148148,
-    "open_issues": 3,
+    "open_issues": 4,
     "closed_issues_sampled": 14,
     "contributors_12mo": 4,
     "top_author_commit_share": 0.9926470588235294,

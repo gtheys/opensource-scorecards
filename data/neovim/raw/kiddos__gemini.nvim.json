@@ -1,10 +1,10 @@
 {
   "slug": "kiddos/gemini.nvim",
-  "fetched_at": "2026-10-06T10:47:50.282740479Z",
+  "fetched_at": "2026-10-07T10:42:56.888434708Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 261,
+    "stars": 262,
     "forks": 32,
     "description": "gemini bindings for Neovim",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "kiddos",
       "account_created_at": "2014-10-29T09:11:39Z",
-      "other_repos_star_sum": 306
+      "other_repos_star_sum": 307
     },
     "has_ci": false,
     "has_tests": true,

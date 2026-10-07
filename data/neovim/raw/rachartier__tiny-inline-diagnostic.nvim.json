@@ -1,26 +1,26 @@
 {
   "slug": "rachartier/tiny-inline-diagnostic.nvim",
-  "fetched_at": "2026-09-25T09:08:02.990003821Z",
+  "fetched_at": "2026-10-07T11:02:52.326787661Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 1736,
+    "stars": 1737,
     "forks": 33,
     "description": "A Neovim plugin for displaying inline diagnostic messages with customizable styles and icons.",
     "license_spdx": "MIT",
     "last_commit_at": "2026-07-05T16:10:16Z",
-    "commits_90d": 25,
+    "commits_90d": 0,
     "releases_365d": 0,
     "median_issue_close_days": 0.2842013888888889,
     "median_pr_close_days": 0.051006944444444445,
     "open_issues": 0,
     "closed_issues_sampled": 41,
     "contributors_12mo": 9,
-    "top_author_commit_share": 0.9142857142857143,
+    "top_author_commit_share": 0.9108910891089109,
     "top_author": {
       "login": "rachartier",
       "account_created_at": "2012-07-28T18:09:58Z",
-      "other_repos_star_sum": 3063
+      "other_repos_star_sum": 3065
     },
     "has_ci": true,
     "has_tests": true,

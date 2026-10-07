@@ -1,6 +1,6 @@
 {
   "slug": "gbprod/phpactor.nvim",
-  "fetched_at": "2026-10-06T10:37:52.079843828Z",
+  "fetched_at": "2026-10-07T10:33:51.755310739Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "gbprod",
       "account_created_at": "2013-03-02T20:23:41Z",
-      "other_repos_star_sum": 3074
+      "other_repos_star_sum": 3075
     },
     "has_ci": true,
     "has_tests": true,

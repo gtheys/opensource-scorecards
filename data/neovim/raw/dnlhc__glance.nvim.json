@@ -1,6 +1,6 @@
 {
   "slug": "dnlhc/glance.nvim",
-  "fetched_at": "2026-10-06T10:32:24.123242058Z",
+  "fetched_at": "2026-10-07T10:28:44.305049909Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "khaneliman",
       "account_created_at": "2012-05-25T16:46:20Z",
-      "other_repos_star_sum": 718
+      "other_repos_star_sum": 717
     },
     "has_ci": true,
     "has_tests": false,

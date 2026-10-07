@@ -1,6 +1,6 @@
 {
   "slug": "jmbuhr/otter.nvim",
-  "fetched_at": "2026-10-06T10:44:56.191965432Z",
+  "fetched_at": "2026-10-07T10:40:17.314332701Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "Just ask an otter! 🦦",
     "license_spdx": "MIT",
     "last_commit_at": "2026-09-22T12:03:20Z",
-    "commits_90d": 4,
+    "commits_90d": 2,
     "releases_365d": 11,
     "median_issue_close_days": 21.35241898148148,
     "median_pr_close_days": 0.19557291666666665,

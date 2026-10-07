@@ -1,6 +1,6 @@
 {
   "slug": "kibi2/tirenvi.nvim",
-  "fetched_at": "2026-10-06T10:47:43.548053024Z",
+  "fetched_at": "2026-10-07T10:42:51.652458531Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "Edit Markdown and CSV tables in Neovim with lossless round-trip.",
     "license_spdx": "MIT",
     "last_commit_at": "2026-10-03T22:53:19Z",
-    "commits_90d": 23,
+    "commits_90d": 22,
     "releases_365d": 11,
     "median_issue_close_days": 5.415983796296296,
     "median_pr_close_days": 0.011400462962962963,

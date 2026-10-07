@@ -1,15 +1,15 @@
 {
   "slug": "mrcjkb/rustaceanvim",
-  "fetched_at": "2026-10-06T10:57:52.828386809Z",
+  "fetched_at": "2026-10-07T10:52:58.852661134Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 3143,
+    "stars": 3144,
     "forks": 133,
     "description": "🦀 Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim",
     "license_spdx": "GPL-2.0",
     "last_commit_at": "2026-09-15T00:42:12Z",
-    "commits_90d": 88,
+    "commits_90d": 87,
     "releases_365d": 40,
     "median_issue_close_days": 1.8374421296296297,
     "median_pr_close_days": 0.0038078703703703703,

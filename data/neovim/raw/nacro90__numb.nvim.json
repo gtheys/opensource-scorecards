@@ -1,10 +1,10 @@
 {
   "slug": "nacro90/numb.nvim",
-  "fetched_at": "2026-10-06T10:58:40.726809096Z",
+  "fetched_at": "2026-10-07T10:53:44.716545877Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 881,
+    "stars": 882,
     "forks": 14,
     "description": "Peek lines just when you intend",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "nacro90",
       "account_created_at": "2013-07-14T14:48:03Z",
-      "other_repos_star_sum": 948
+      "other_repos_star_sum": 949
     },
     "has_ci": true,
     "has_tests": true,
