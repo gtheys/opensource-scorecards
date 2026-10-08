@@ -1,10 +1,10 @@
 {
   "slug": "chrisgrieser/nvim-puppeteer",
-  "fetched_at": "2026-10-07T10:23:21.038122322Z",
+  "fetched_at": "2026-10-08T10:43:12.810354098Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 77,
+    "stars": 78,
     "forks": 5,
     "description": "Automatically convert strings to f-strings or template strings and back.",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "chrisgrieser",
       "account_created_at": "2020-10-22T10:50:35Z",
-      "other_repos_star_sum": 8865
+      "other_repos_star_sum": 8866
     },
     "has_ci": true,
     "has_tests": false,

@@ -1,11 +1,11 @@
 {
   "slug": "frabjous/knap",
-  "fetched_at": "2026-10-07T10:33:23.318918943Z",
+  "fetched_at": "2026-10-08T10:54:18.990178703Z",
   "status": "ok",
   "data": {
     "archived": false,
     "stars": 395,
-    "forks": 11,
+    "forks": 10,
     "description": "Neovim plugin for creating live-updating-as-you-type previews of LaTeX, markdown, and other files in the viewer of your choice.",
     "license_spdx": "GPL-3.0",
     "last_commit_at": null,

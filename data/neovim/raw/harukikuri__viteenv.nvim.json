@@ -1,9 +1,9 @@
 {
   "slug": "harukikuri/viteenv.nvim",
-  "fetched_at": "2026-10-07T10:35:49.773695695Z",
+  "fetched_at": "2026-10-08T10:56:59.986259044Z",
   "status": "ok",
   "data": {
-    "archived": false,
+    "archived": true,
     "stars": 7,
     "forks": 0,
     "description": "see your Vite env values inline, per mode.",

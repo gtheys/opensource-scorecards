@@ -1,6 +1,6 @@
 {
   "slug": "chrisgrieser/nvim-rulebook",
-  "fetched_at": "2026-10-07T10:23:30.296962218Z",
+  "fetched_at": "2026-10-08T10:43:23.086100235Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "chrisgrieser",
       "account_created_at": "2020-10-22T10:50:35Z",
-      "other_repos_star_sum": 8865
+      "other_repos_star_sum": 8866
     },
     "has_ci": true,
     "has_tests": false,

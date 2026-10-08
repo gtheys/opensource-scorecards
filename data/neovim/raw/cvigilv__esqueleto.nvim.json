@@ -1,6 +1,6 @@
 {
   "slug": "cvigilv/esqueleto.nvim",
-  "fetched_at": "2026-10-07T10:26:07.482865984Z",
+  "fetched_at": "2026-10-08T10:46:15.811731751Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -11,10 +11,10 @@
     "last_commit_at": "2026-10-06T23:13:18Z",
     "commits_90d": 5,
     "releases_365d": 0,
-    "median_issue_close_days": 23.821203703703702,
-    "median_pr_close_days": 0.013032407407407407,
-    "open_issues": 4,
-    "closed_issues_sampled": 29,
+    "median_issue_close_days": 23.886064814814816,
+    "median_pr_close_days": 0.17787615740740742,
+    "open_issues": 0,
+    "closed_issues_sampled": 30,
     "contributors_12mo": 1,
     "top_author_commit_share": 1.0,
     "top_author": {

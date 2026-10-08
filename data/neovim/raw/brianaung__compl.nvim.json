@@ -1,10 +1,10 @@
 {
   "slug": "brianaung/compl.nvim",
-  "fetched_at": "2026-10-07T10:21:31.190814806Z",
+  "fetched_at": "2026-10-08T10:41:09.533301433Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 51,
+    "stars": 50,
     "forks": 4,
     "description": "A lightweight, native-first completion experience for Neovim.",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "brianaung",
       "account_created_at": "2020-12-19T06:42:17Z",
-      "other_repos_star_sum": 73
+      "other_repos_star_sum": 72
     },
     "has_ci": false,
     "has_tests": false,

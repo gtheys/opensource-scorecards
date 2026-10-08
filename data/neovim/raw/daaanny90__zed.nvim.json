@@ -1,10 +1,10 @@
 {
   "slug": "daaanny90/zed.nvim",
-  "fetched_at": "2026-10-07T10:26:41.569702926Z",
+  "fetched_at": "2026-10-08T10:46:52.578425266Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 0,
+    "stars": 1,
     "forks": 0,
     "description": "Zed editor look for Neovim — six dark variants (One Dark, Ayu Mirage, macOS Classic Dark + three originals) with tmux + iTerm2 extras",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "daaanny90",
       "account_created_at": "2017-01-06T10:42:14Z",
-      "other_repos_star_sum": 20
+      "other_repos_star_sum": 21
     },
     "has_ci": false,
     "has_tests": false,
