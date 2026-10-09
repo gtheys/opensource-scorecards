@@ -1,0 +1,125 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2025-10-09T00:00:00Z",
+  "title": "Design System: Open Source Scorecards",
+  "extensions": {
+    "colorMeta": {
+      "primary": { "role": "primary", "displayName": "Healthy Green", "canonical": "#187a45", "tonalRamp": ["oklch(15% 0.04 150)", "oklch(25% 0.07 150)", "oklch(35% 0.09 150)", "oklch(46% 0.105 150)", "oklch(56% 0.1 150)", "oklch(66% 0.09 150)", "oklch(78% 0.06 150)", "oklch(90% 0.03 150)"] },
+      "monitor-navy": { "role": "neutral", "displayName": "Monitor Navy", "canonical": "#101827", "tonalRamp": ["oklch(15% 0.03 255)", "oklch(22% 0.035 255)", "oklch(30% 0.04 255)", "oklch(40% 0.045 255)", "oklch(52% 0.045 255)", "oklch(65% 0.04 255)", "oklch(80% 0.02 255)", "oklch(93% 0.008 255)"] },
+      "alert-gold": { "role": "tertiary", "displayName": "Alert Gold", "canonical": "#f0b429", "tonalRamp": ["oklch(20% 0.05 85)", "oklch(32% 0.08 85)", "oklch(45% 0.11 85)", "oklch(58% 0.13 85)", "oklch(70% 0.15 85)", "oklch(78% 0.15 85)", "oklch(86% 0.11 85)", "oklch(94% 0.06 85)"] },
+      "accent-soft": { "role": "neutral", "displayName": "Soft Tint", "canonical": "#edf7f0", "tonalRamp": ["oklch(30% 0.05 150)", "oklch(45% 0.06 150)", "oklch(60% 0.05 150)", "oklch(72% 0.04 150)", "oklch(82% 0.03 150)", "oklch(89% 0.02 150)", "oklch(94% 0.015 150)", "oklch(97% 0.008 150)"] },
+      "muted": { "role": "neutral", "displayName": "Muted Slate", "canonical": "#667069", "tonalRamp": ["oklch(18% 0.01 160)", "oklch(28% 0.012 160)", "oklch(38% 0.015 160)", "oklch(48% 0.017 160)", "oklch(58% 0.017 160)", "oklch(68% 0.015 160)", "oklch(80% 0.01 160)", "oklch(92% 0.005 160)"] },
+      "grade-d": { "role": "tertiary", "displayName": "Grade Red", "canonical": "#9a3b3b", "tonalRamp": ["oklch(16% 0.03 25)", "oklch(24% 0.05 25)", "oklch(33% 0.08 25)", "oklch(43% 0.1 25)", "oklch(53% 0.1 25)", "oklch(64% 0.08 25)", "oklch(76% 0.05 25)", "oklch(90% 0.02 25)"] }
+    },
+    "typographyMeta": {
+      "display": { "displayName": "Display", "purpose": "Page and hero h1 — the question or the project slug." },
+      "label": { "displayName": "Label", "purpose": "Uppercase table column headers." },
+      "mono": { "displayName": "Mono", "purpose": "Identifiers: repo slugs, owner logins, code, badge snippets." }
+    },
+    "shadows": [],
+    "motion": [
+      { "name": "pico-transition", "value": "0.2s ease-in-out", "purpose": "Pico default state transition for links, buttons, borders." }
+    ],
+    "breakpoints": [
+      { "name": "shed-owner", "value": "72rem" },
+      { "name": "shed-buckets", "value": "62rem" },
+      { "name": "shed-licence", "value": "48rem" }
+    ]
+  },
+  "components": [
+    {
+      "name": "Primary Button (Gold CTA)",
+      "kind": "button",
+      "refersTo": "btn-primary",
+      "description": "The single hub hero action — gold is earned, so it appears once per page at most.",
+      "html": "<a class=\"ds-btn-primary\" href=\"#\">Browse the leaderboards</a>",
+      "css": ".ds-btn-primary { display: inline-block; padding: .65rem 1.2rem; border-radius: 8px; border: 1px solid #f0b429; background: #f0b429; color: #1a1405; font-weight: 600; font-size: .95rem; line-height: 1.2; text-decoration: none; cursor: pointer; transition: background .2s ease-in-out; } .ds-btn-primary:hover { background: #e0a51f; } .ds-btn-primary:focus-visible { outline: 2px solid #187a45; outline-offset: 2px; }"
+    },
+    {
+      "name": "Ghost Button",
+      "kind": "button",
+      "refersTo": "btn-ghost",
+      "description": "Secondary hero action on the navy band.",
+      "html": "<a class=\"ds-btn-ghost\" href=\"#\">How scores work</a>",
+      "css": ".ds-btn-ghost { display: inline-block; padding: .65rem 1.2rem; border-radius: 8px; border: 1px solid #3a4657; background: transparent; color: #e6eaf0; font-weight: 600; font-size: .95rem; line-height: 1.2; text-decoration: none; cursor: pointer; transition: background .2s ease-in-out; } .ds-btn-ghost:hover { background: rgba(255,255,255,.06); } .ds-btn-ghost:focus-visible { outline: 2px solid #f0b429; outline-offset: 2px; }"
+    },
+    {
+      "name": "Category Card",
+      "kind": "card",
+      "refersTo": "card",
+      "description": "Whole card is the link; hover swaps border to green and background to soft tint.",
+      "html": "<a class=\"ds-card\" href=\"#\"><h2 class=\"ds-card-title\">Neovim plugins</h2><div class=\"ds-card-count\">1328 scored</div><div class=\"ds-card-top\">#1 nvim-treesitter/nvim-treesitter · 92</div><div class=\"ds-card-muted\">updated 2025-10-08</div></a>",
+      "css": ".ds-card { display: block; padding: 1.1rem 1.2rem; border: 1px solid #e6eae7; border-radius: 10px; background: #ffffff; color: inherit; text-decoration: none; transition: border-color .2s ease-in-out, background .2s ease-in-out; } .ds-card:hover { border-color: #187a45; background: #edf7f0; } .ds-card:focus-visible { outline: 2px solid #187a45; outline-offset: 2px; } .ds-card-title { margin: 0 0 .3rem; font-size: 1.05rem; letter-spacing: -.03em; } .ds-card-count { font-size: 1.5rem; font-weight: 700; letter-spacing: -.03em; } .ds-card-top { font-family: 'IBM Plex Mono', 'SF Mono', Consolas, monospace; font-size: .8rem; margin-top: .4rem; } .ds-card-muted { font-size: .78rem; margin-top: .5rem; color: #667069; }"
+    },
+    {
+      "name": "Score Bar",
+      "kind": "custom",
+      "refersTo": "score-bar",
+      "description": "Inline track + percent fill next to every score; gold fill marks top-tier rows.",
+      "html": "<span class=\"ds-score\"><span class=\"ds-bar\"><span class=\"ds-fill\" style=\"width: 87%\"></span></span> <span class=\"ds-num\">87</span></span><br><span class=\"ds-score\"><span class=\"ds-bar\"><span class=\"ds-fill ds-fill-top\" style=\"width: 94%\"></span></span> <span class=\"ds-num\"><strong>94</strong></span></span>",
+      "css": ".ds-bar { display: inline-block; width: 4rem; max-width: 60%; height: .55rem; background: #e6eae7; border-radius: 3px; vertical-align: middle; } .ds-fill { display: block; height: 100%; background: #187a45; border-radius: 3px; } .ds-fill-top { background: #f0b429; } .ds-num { font-variant-numeric: tabular-nums; white-space: nowrap; }"
+    },
+    {
+      "name": "Leaderboard Table",
+      "kind": "custom",
+      "refersTo": "score-bar",
+      "description": "Fixed-layout dense table: sticky uppercase label headers, hairline borders, tint row hover, mono identifiers.",
+      "html": "<div class=\"ds-table-wrap\"><table class=\"ds-table\"><thead><tr><th>#</th><th>Project</th><th class=\"ds-td-num\">Score</th></tr></thead><tbody><tr class=\"ds-top-tier\"><td class=\"ds-td-num\"><strong>1</strong></td><td><a class=\"ds-slug\" href=\"#\">owner/repo</a></td><td class=\"ds-td-num\"><span class=\"ds-bar\"><span class=\"ds-fill ds-fill-top\" style=\"width: 94%\"></span></span> 94</td></tr><tr><td class=\"ds-td-num\">2</td><td><a class=\"ds-slug\" href=\"#\">other/plugin</a></td><td class=\"ds-td-num\"><span class=\"ds-bar\"><span class=\"ds-fill\" style=\"width: 81%\"></span></span> 81</td></tr></tbody></table></div>",
+      "css": ".ds-table-wrap { overflow-x: clip; } .ds-table { width: 100%; margin: 0; table-layout: fixed; border-collapse: collapse; } .ds-table thead th { position: sticky; top: 0; background: #ffffff; font-size: .74rem; letter-spacing: .06em; text-transform: uppercase; color: #667069; text-align: left; border-bottom: 1px solid #e6eae7; } .ds-table td, .ds-table th { padding: .45rem .55rem; font-size: .9rem; border-bottom: 1px solid #e6eae7; } .ds-table tbody tr:hover { background: #edf7f0; } .ds-td-num { text-align: right; font-variant-numeric: tabular-nums; white-space: nowrap; } .ds-slug { font-family: 'IBM Plex Mono', 'SF Mono', Consolas, monospace; font-size: .86rem; color: #187a45; overflow-wrap: anywhere; } .ds-bar { display: inline-block; width: 3rem; height: .55rem; background: #e6eae7; border-radius: 3px; vertical-align: middle; } .ds-fill { display: block; height: 100%; background: #187a45; border-radius: 3px; } .ds-fill-top { background: #f0b429; }"
+    },
+    {
+      "name": "Notice",
+      "kind": "custom",
+      "refersTo": "card",
+      "description": "Tinted callout with green left rule for warnings that are product truth (cross-category comparability).",
+      "html": "<p class=\"ds-notice\">Scores are normalized <strong>within this category</strong> and are <strong>not comparable across categories</strong>.</p>",
+      "css": ".ds-notice { padding: .8rem 1rem; background: #edf7f0; border-left: 3px solid #187a45; border-radius: 0 6px 6px 0; font-size: .92rem; }"
+    },
+    {
+      "name": "Pillar",
+      "kind": "custom",
+      "refersTo": "card",
+      "description": "Left-ruled explainer block for the 'why' and 'how it works' trios.",
+      "html": "<div class=\"ds-pillar\"><strong>Bots don't count as life</strong>Dependabot and renovate commits are filtered before scoring. A repo kept alive by dependency bumps still looks like what it is.</div>",
+      "css": ".ds-pillar { border-left: 3px solid #187a45; padding-left: .9rem; font-size: .93rem; } .ds-pillar strong { display: block; margin-bottom: .2rem; }"
+    },
+    {
+      "name": "Scorecard Badge",
+      "kind": "custom",
+      "refersTo": "btn-primary",
+      "description": "Embeddable SVG: navy label segment, grade-colored value segment (gold A / green B / grey-green C / red D).",
+      "html": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"150\" height=\"20\" role=\"img\" aria-label=\"scorecard: 92 #1 in neovim\"><g shape-rendering=\"crispEdges\"><rect width=\"70\" height=\"20\" fill=\"#101827\"/><rect x=\"70\" width=\"80\" height=\"20\" fill=\"#f0b429\"/></g><g fill=\"#ffffff\" text-anchor=\"middle\" font-family=\"Verdana,Geneva,DejaVu Sans,sans-serif\" font-size=\"11\"><text x=\"35\" y=\"14\">scorecard</text><text x=\"110\" y=\"14\">92 &#183; #1</text></g></svg>",
+      "css": ""
+    }
+  ],
+  "narrative": {
+    "northStar": "The Vital Signs Monitor",
+    "overview": "Scorecards reads like a clinical readout for open-source health: dense tables, tabular numbers, and score bars that behave like telemetry. The aesthetic is clinical but warm — the Monitor Navy hero band and gold top-tier accents keep it from feeling like a spreadsheet export, and the copy voice (direct, mildly opinionated, \"Not stars.\") carries the personality so the chrome doesn't have to.\n\nThe system is built on Pico CSS (classless, vendored) with the identity re-pointed onto Pico's --pico-* variables. Decoration is minimal by doctrine: depth comes from borders and tint fills, emphasis comes from weight and color, and the data table is always the hero. Density is fluid — type, padding, and column budgets scale with clamp() instead of jumping at breakpoints.",
+    "keyCharacteristics": [
+      "Data tables as the primary interface; sticky headers, fixed layout, never horizontal scroll.",
+      "Score bars everywhere a score appears; gold fill marks top-tier (rank ≤ 3 / grade A ≥ 80).",
+      "Navy hero band + gold primary action on the hub; category pages are quiet working surfaces.",
+      "Dark mode via OS preference (prefers-color-scheme), Pico's data-theme switch, set before first paint.",
+      "Mono font for anything that is an identifier: repo slugs, owner names, top-project callouts."
+    ],
+    "rules": [
+      { "name": "The Gold Is Earned Rule", "body": "Alert Gold appears only where a project earned it: top-tier rows, grade-A badges, and the single hub CTA. Never use gold decoratively — a gold accent on a mid-tier element lies about the data.", "section": "colors" },
+      { "name": "The Identifiers Are Mono Rule", "body": "Anything that names a machine artifact (repo slug, owner login, code snippet) is set in IBM Plex Mono, fluid-sized. Prose is never mono; identifiers are never sans.", "section": "typography" },
+      { "name": "The Flat-By-Default Rule", "body": "Surfaces are flat. Borders and tints do the layering. Any new shadow must be tied to a state change, not to a resting element.", "section": "elevation" }
+    ],
+    "dos": [
+      "Do put the comparability notice (\"not comparable across categories\") on every leaderboard — it is product truth, not decoration.",
+      "Do keep every score next to its bar, and every bar filled by the actual percent.",
+      "Do shed columns progressively (owner → buckets → licence) instead of allowing horizontal scroll.",
+      "Do use mono for slugs, owners, and code; tabular-nums for all numbers.",
+      "Do keep gold rare: top-tier fills, grade-A badges, one hub CTA."
+    ],
+    "donts": [
+      "Don't add resting shadows or gradients — depth is borders and tints.",
+      "Don't render stars more prominently than the score; star worship is the anti-position.",
+      "Don't use gold or grade colors decoratively or on mid-tier elements.",
+      "Don't let a table scroll horizontally or wrap a column header mid-label.",
+      "Don't add webfont loading, JS frameworks, or runtime CDNs without re-deciding the static-minimalist trade explicitly."
+    ]
+  }
+}
