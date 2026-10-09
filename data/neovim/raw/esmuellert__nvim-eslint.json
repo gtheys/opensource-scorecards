@@ -1,0 +1,29 @@
+{
+  "slug": "esmuellert/nvim-eslint",
+  "fetched_at": "2026-10-09T10:50:47.728067311Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 92,
+    "forks": 3,
+    "description": "An ESLint plugin for Neovim, using VSCode ESLint LSP and native nvim LSP client",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-02-21T22:37:00Z",
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 19.89292824074074,
+    "median_pr_close_days": 0.06528935185185185,
+    "open_issues": 6,
+    "closed_issues_sampled": 11,
+    "contributors_12mo": 2,
+    "top_author_commit_share": 0.8333333333333334,
+    "top_author": {
+      "login": "esmuellert",
+      "account_created_at": "2018-07-10T06:13:43Z",
+      "other_repos_star_sum": 1681
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 15725
+  }
+}

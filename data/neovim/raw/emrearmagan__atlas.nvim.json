@@ -1,6 +1,6 @@
 {
   "slug": "emrearmagan/atlas.nvim",
-  "fetched_at": "2026-10-08T10:51:15.027871530Z",
+  "fetched_at": "2026-10-09T10:50:02.596962641Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "Review pull requests and manage issues across GitHub, GitLab, Bitbucket and Jira without leaving your editor.",
     "license_spdx": "MIT",
     "last_commit_at": "2026-09-28T17:35:07Z",
-    "commits_90d": 199,
+    "commits_90d": 198,
     "releases_365d": 30,
     "median_issue_close_days": 5.048287037037037,
     "median_pr_close_days": 1.0473958333333333,

@@ -1,6 +1,6 @@
 {
   "slug": "justinmk/guh.nvim",
-  "fetched_at": "2026-10-07T10:41:38.134872899Z",
+  "fetched_at": "2026-10-09T11:02:29.577934231Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -16,11 +16,11 @@
     "open_issues": 23,
     "closed_issues_sampled": 10,
     "contributors_12mo": 2,
-    "top_author_commit_share": 0.9966442953020134,
+    "top_author_commit_share": 0.9965753424657534,
     "top_author": {
       "login": "justinmk",
       "account_created_at": "2012-01-20T17:37:03Z",
-      "other_repos_star_sum": 5940
+      "other_repos_star_sum": 5941
     },
     "has_ci": true,
     "has_tests": true,

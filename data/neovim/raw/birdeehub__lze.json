@@ -1,10 +1,10 @@
 {
   "slug": "birdeehub/lze",
-  "fetched_at": "2026-10-08T10:40:39.475751577Z",
+  "fetched_at": "2026-10-09T10:39:10.864929504Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 133,
+    "stars": 134,
     "forks": 0,
     "description": "A lazy-loading library for neovim, inspired by, but different from, nvim-neorocks/lz.n",
     "license_spdx": "GPL-2.0",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "BirdeeHub",
       "account_created_at": "2021-06-04T21:29:23Z",
-      "other_repos_star_sum": 991
+      "other_repos_star_sum": 992
     },
     "has_ci": true,
     "has_tests": true,

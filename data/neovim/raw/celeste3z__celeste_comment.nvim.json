@@ -1,6 +1,6 @@
 {
   "slug": "celeste3z/celeste_comment.nvim",
-  "fetched_at": "2026-10-08T10:42:11.708919209Z",
+  "fetched_at": "2026-10-09T10:40:47.896052715Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -8,8 +8,8 @@
     "forks": 1,
     "description": "Batteries-included comment plugin for neovim with supports of line comment, block comment, textobjects, real sticky cursor and more!",
     "license_spdx": "MIT",
-    "last_commit_at": "2026-09-27T05:22:55Z",
-    "commits_90d": 95,
+    "last_commit_at": "2026-10-06T16:49:15Z",
+    "commits_90d": 93,
     "releases_365d": 11,
     "median_issue_close_days": 0.051666666666666666,
     "median_pr_close_days": 0.001412037037037037,

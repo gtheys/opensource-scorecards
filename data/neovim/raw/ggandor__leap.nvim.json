@@ -1,6 +1,6 @@
 {
   "slug": "ggandor/leap.nvim",
-  "fetched_at": "2026-10-08T10:55:33.909456650Z",
+  "fetched_at": "2026-10-09T10:54:24.560083223Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "ggandor",
       "account_created_at": "2016-03-12T16:42:18Z",
-      "other_repos_star_sum": 7391
+      "other_repos_star_sum": 7390
     },
     "has_ci": false,
     "has_tests": false,

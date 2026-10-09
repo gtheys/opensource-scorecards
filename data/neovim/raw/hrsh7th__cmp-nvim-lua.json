@@ -1,6 +1,6 @@
 {
   "slug": "hrsh7th/cmp-nvim-lua",
-  "fetched_at": "2026-10-08T10:58:09.050008370Z",
+  "fetched_at": "2026-10-09T10:56:57.026961132Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "hrsh7th",
       "account_created_at": "2011-02-21T13:33:29Z",
-      "other_repos_star_sum": 5491
+      "other_repos_star_sum": 5490
     },
     "has_ci": false,
     "has_tests": false,

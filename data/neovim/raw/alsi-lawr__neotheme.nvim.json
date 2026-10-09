@@ -1,6 +1,6 @@
 {
   "slug": "alsi-lawr/neotheme.nvim",
-  "fetched_at": "2026-10-08T10:36:24.025867487Z",
+  "fetched_at": "2026-10-09T10:34:54.137495398Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "A semantic, palette-driven theming engine for Neovim 0.12+",
     "license_spdx": "MIT",
     "last_commit_at": "2026-07-23T01:00:08Z",
-    "commits_90d": 104,
+    "commits_90d": 62,
     "releases_365d": 7,
     "median_issue_close_days": 0.13871527777777776,
     "median_pr_close_days": 0.001278935185185185,
