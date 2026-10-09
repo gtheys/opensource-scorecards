@@ -131,7 +131,7 @@ The palette is a clinical triad: navy for trust and chrome, green for health, go
 
 **Character:** DM Sans's geometric warmth keeps dense data friendly; tight negative letter-spacing on headings gives the page its confident, editorial snap. IBM Plex Mono marks anything machine-shaped: slugs, owners, code, top-project callouts.
 
-Note: the webfonts are declared but not shipped — most visitors see the system fallbacks. The stacks are chosen so the fallback (system sans / system mono) preserves the system's character. Load the real fonts only if the trade against static-site minimalism is re-decided deliberately.
+Fonts are self-hosted: DM Sans as one variable file (weight axis 400–700), IBM Plex Mono static 400/500, latin subset woff2 in `assets/fonts/`, `font-display: swap`, referenced with `{{ root }}` so subpages resolve. No CDN — the static-minimalist trade holds.
 
 ### Hierarchy
 - **Display** (700, letter-spacing −0.05em): page and hero `h1` — the question or the project slug.
@@ -207,4 +207,4 @@ Quietly rounded, scaled to element size: score bars and tiny fills at 3px, notic
 - **Don't** render stars more prominently than the score; star worship is the anti-position.
 - **Don't** use gold or grade colors decoratively or on mid-tier elements.
 - **Don't** let a table scroll horizontally or wrap a column header mid-label.
-- **Don't** add webfont loading, JS frameworks, or runtime CDNs without re-deciding the static-minimalist trade explicitly.
+- **Don't** load fonts or other assets from runtime CDNs — self-host under `assets/` or don't ship them.

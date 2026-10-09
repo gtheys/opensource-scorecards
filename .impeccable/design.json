@@ -119,7 +119,7 @@
       "Don't render stars more prominently than the score; star worship is the anti-position.",
       "Don't use gold or grade colors decoratively or on mid-tier elements.",
       "Don't let a table scroll horizontally or wrap a column header mid-label.",
-      "Don't add webfont loading, JS frameworks, or runtime CDNs without re-deciding the static-minimalist trade explicitly."
+      "Don't load fonts or other assets from runtime CDNs — self-host under assets/ or don't ship them."
     ]
   }
 }
