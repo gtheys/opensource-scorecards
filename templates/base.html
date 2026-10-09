@@ -28,6 +28,11 @@
       --navy: #101827;
       --gold: #f0b429;
       --accent-soft: #edf7f0;
+      /* AIDEV-NOTE: alias tokens — older templates and stale render output reference
+         --accent/--line/--mono; resolves per-theme because var() substitutes at point of use. */
+      --accent: var(--pico-primary);
+      --line: var(--pico-border-color);
+      --mono: "IBM Plex Mono", "SF Mono", Consolas, monospace;
     }
     [data-theme="dark"], :root:not([data-theme]) {
       --pico-primary: #3fbf7f;
@@ -47,7 +52,7 @@
     .brand { display: inline-flex; align-items: center; gap: 10px; font-size: 1.25rem; font-weight: 700; letter-spacing: -.045em; color: inherit; text-decoration: none; }
     .brand img { width: 32px; height: 32px; border-radius: 8px; }
     .site-header nav { display: flex; align-items: center; gap: 18px; font-size: .875rem; flex-wrap: wrap; margin: 0; }
-    .site-header nav a { color: var(--pico-muted-color); text-decoration: none; }
+    .site-header nav a { color: var(--pico-muted-color); text-decoration: none; min-height: 40px; display: inline-flex; align-items: center; }
     .site-header nav a:hover { color: var(--pico-primary); }
     .page-shell { padding: 1.5rem 0 3rem; }
     h1 { letter-spacing: -.05em; font-weight: 700; }
@@ -61,7 +66,7 @@
     .table-wrap table { width: 100%; margin: 0; table-layout: fixed; }
     .table-wrap table thead th {
       position: sticky; top: 0; background: var(--pico-background-color);
-      font-size: clamp(.6rem, .52rem + .4vw, .74rem); letter-spacing: .06em; text-transform: uppercase;
+      font-size: clamp(.68rem, .6rem + .4vw, .74rem); letter-spacing: .06em; text-transform: uppercase;
       color: var(--pico-muted-color);
     }
     /* Fluid density: type and padding scale smoothly with the viewport
@@ -144,6 +149,8 @@
 
     .site-footer { border-top: 1px solid var(--pico-border-color); margin-top: 2.5rem; padding: 1.2rem 0 2.5rem; font-size: .82rem; color: var(--pico-muted-color); }
     .notice { padding: .8rem 1rem; background: var(--accent-soft); border-left: 3px solid var(--pico-primary); border-radius: 0 6px 6px 0; font-size: .92rem; }
+    .skip-link { position: absolute; top: -3rem; left: .5rem; background: var(--pico-primary-background); color: #fff; padding: .5rem .9rem; border-radius: 6px; z-index: 10; }
+    .skip-link:focus { top: .5rem; }
   </style>
   <script>
     // Respect OS dark mode before first paint (Pico's data-theme switch).
@@ -154,6 +161,7 @@
   </script>
 </head>
 <body>
+<a class="skip-link" href="#main">Skip to content</a>
 <header class="site-header">
   <div class="container">
     <div class="header-inner">
@@ -162,7 +170,7 @@
     </div>
   </div>
 </header>
-<main class="container">
+<main class="container" id="main">
 {% block content %}{% endblock %}
 <footer class="site-footer" style="text-align:center;"><a href="https://github.com/gtheys/opensource-scorecards/blob/main/LICENSE">AGPL-3.0 (code)</a> &middot; <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0 (data)</a> &middot; Built with &#9829; by <a href="https://geert.md">Geert Theys</a> and some help from <a href="https://github.com/gtheys/pi-my-rifle-ext">Pi Agent</a>.</footer>
 </main>

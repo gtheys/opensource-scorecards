@@ -32,7 +32,7 @@ typography:
     fontWeight: 400
   label:
     fontFamily: "DM Sans, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif"
-    fontSize: "clamp(.6rem, .52rem + .4vw, .74rem)"
+    fontSize: "clamp(.68rem, .6rem + .4vw, .74rem)"
     letterSpacing: "0.06em"
   mono:
     fontFamily: "IBM Plex Mono, SF Mono, Consolas, monospace"
@@ -137,7 +137,7 @@ Note: the webfonts are declared but not shipped — most visitors see the system
 - **Display** (700, letter-spacing −0.05em): page and hero `h1` — the question or the project slug.
 - **Headline** (letter-spacing −0.03em): `h2` section headers and card counts (700 at 1.5rem).
 - **Body** (400, 1rem Pico base): prose, descriptions; 62–70ch max on reading measure (hero sub 62ch, leaderboard intro 70ch).
-- **Label** (`clamp(.6rem, .52rem + .4vw, .74rem)`, uppercase, letter-spacing .06em): table column headers, muted slate.
+- **Label** (`clamp(.68rem, .6rem + .4vw, .74rem)`, uppercase, letter-spacing .06em): table column headers, muted slate. Floor kept at 10.9px for phone legibility.
 - **Mono** (`clamp(.72rem, .64rem + .4vw, .86rem)`): identifiers in tables, badge markdown snippets, card top-project lines.
 
 ### Named Rules
