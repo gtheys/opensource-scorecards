@@ -1,6 +1,6 @@
 {
   "slug": "hedyhli/outline.nvim",
-  "fetched_at": "2026-10-09T10:56:14.461938182Z",
+  "fetched_at": "2026-10-10T10:08:24.406386997Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -8,19 +8,19 @@
     "forks": 42,
     "description": "Fancy code outline sidebar to visualize and navigate code symbols in a tree hierarchy",
     "license_spdx": "MIT",
-    "last_commit_at": "2026-10-07T10:34:31Z",
-    "commits_90d": 2,
+    "last_commit_at": "2026-10-10T04:30:17Z",
+    "commits_90d": 3,
     "releases_365d": 1,
-    "median_issue_close_days": 44.383605324074075,
-    "median_pr_close_days": 2.988865740740741,
-    "open_issues": 38,
-    "closed_issues_sampled": 30,
-    "contributors_12mo": 6,
-    "top_author_commit_share": 0.6,
+    "median_issue_close_days": 50.57951388888889,
+    "median_pr_close_days": 4.739224537037037,
+    "open_issues": 35,
+    "closed_issues_sampled": 31,
+    "contributors_12mo": 7,
+    "top_author_commit_share": 0.5625,
     "top_author": {
       "login": "hedyhli",
       "account_created_at": "2019-04-27T07:22:03Z",
-      "other_repos_star_sum": 1957
+      "other_repos_star_sum": 1956
     },
     "has_ci": true,
     "has_tests": false,

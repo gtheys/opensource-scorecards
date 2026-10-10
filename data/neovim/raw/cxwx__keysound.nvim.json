@@ -1,11 +1,11 @@
 {
   "slug": "cxwx/keysound.nvim",
-  "fetched_at": "2026-10-09T10:45:16.611375541Z",
+  "fetched_at": "2026-10-10T09:59:31.556095021Z",
   "status": "ok",
   "data": {
     "archived": false,
     "stars": 2,
-    "forks": 0,
+    "forks": 1,
     "description": "nvim key sound plugin",
     "license_spdx": "MIT",
     "last_commit_at": "2026-04-30T05:50:01Z",

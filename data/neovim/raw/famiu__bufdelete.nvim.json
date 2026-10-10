@@ -1,10 +1,10 @@
 {
   "slug": "famiu/bufdelete.nvim",
-  "fetched_at": "2026-10-09T10:51:23.327356837Z",
+  "fetched_at": "2026-10-10T10:04:25.304299156Z",
   "status": "ok",
   "data": {
     "archived": true,
-    "stars": 514,
+    "stars": 513,
     "forks": 23,
     "description": "Delete Neovim buffers without losing window layout",
     "license_spdx": "GPL-3.0",

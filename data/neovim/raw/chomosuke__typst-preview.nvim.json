@@ -1,6 +1,6 @@
 {
   "slug": "chomosuke/typst-preview.nvim",
-  "fetched_at": "2026-10-09T10:41:17.281601829Z",
+  "fetched_at": "2026-10-10T09:56:23.196052394Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -11,10 +11,10 @@
     "last_commit_at": "2026-07-14T15:57:06Z",
     "commits_90d": 3,
     "releases_365d": 6,
-    "median_issue_close_days": 28.93529513888889,
-    "median_pr_close_days": 14.041527777777778,
-    "open_issues": 16,
-    "closed_issues_sampled": 32,
+    "median_issue_close_days": 29.09224537037037,
+    "median_pr_close_days": 12.77556712962963,
+    "open_issues": 15,
+    "closed_issues_sampled": 31,
     "contributors_12mo": 9,
     "top_author_commit_share": 0.5294117647058824,
     "top_author": {

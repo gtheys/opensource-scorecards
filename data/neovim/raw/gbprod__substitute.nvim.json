@@ -1,10 +1,10 @@
 {
   "slug": "gbprod/substitute.nvim",
-  "fetched_at": "2026-10-09T10:53:43.027333602Z",
+  "fetched_at": "2026-10-10T10:06:22.866100609Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 738,
+    "stars": 739,
     "forks": 9,
     "description": "Neovim plugin introducing a new operators motions to quickly replace and exchange text.",
     "license_spdx": "WTFPL",

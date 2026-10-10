@@ -1,10 +1,10 @@
 {
   "slug": "jbyuki/one-small-step-for-vimkind",
-  "fetched_at": "2026-10-09T10:59:43.874633360Z",
+  "fetched_at": "2026-10-10T10:11:14.596225824Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 549,
+    "stars": 550,
     "forks": 18,
     "description": "Debug adapter for Neovim plugins",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "jbyuki",
       "account_created_at": "2019-02-04T12:59:48Z",
-      "other_repos_star_sum": 4238
+      "other_repos_star_sum": 4240
     },
     "has_ci": true,
     "has_tests": true,

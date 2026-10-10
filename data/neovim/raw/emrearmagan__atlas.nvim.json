@@ -1,6 +1,6 @@
 {
   "slug": "emrearmagan/atlas.nvim",
-  "fetched_at": "2026-10-09T10:50:02.596962641Z",
+  "fetched_at": "2026-10-10T10:03:22.476028264Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -11,10 +11,10 @@
     "last_commit_at": "2026-09-28T17:35:07Z",
     "commits_90d": 198,
     "releases_365d": 30,
-    "median_issue_close_days": 5.048287037037037,
-    "median_pr_close_days": 1.0473958333333333,
+    "median_issue_close_days": 5.049479166666666,
+    "median_pr_close_days": 1.0835706018518518,
     "open_issues": 20,
-    "closed_issues_sampled": 17,
+    "closed_issues_sampled": 16,
     "contributors_12mo": 10,
     "top_author_commit_share": 0.9667832167832168,
     "top_author": {
