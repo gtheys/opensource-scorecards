@@ -410,7 +410,7 @@ fn write_badges(
 ) -> anyhow::Result<()> {
     let dir = out_dir.join("badges").join(category_key);
     std::fs::create_dir_all(&dir)?;
-    let base = "https://gtheys.github.io/opensource-scorecards";
+    let base = "https://scorecards.monetize-oss.com";
     let cat_name = categories
         .iter()
         .find(|c| c["key"].as_str() == Some(category_key))
@@ -472,7 +472,7 @@ fn write_movers_feed(
     movers: &[Value],
     category_key: &str,
 ) -> anyhow::Result<()> {
-    let base = "https://gtheys.github.io/opensource-scorecards";
+    let base = "https://scorecards.monetize-oss.com";
     let now = Utc::now().to_rfc3339_opts(chrono::SecondsFormat::Secs, true);
     let cat_name = cfg
         .categories
