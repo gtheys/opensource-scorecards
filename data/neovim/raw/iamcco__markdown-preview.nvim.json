@@ -1,11 +1,11 @@
 {
   "slug": "iamcco/markdown-preview.nvim",
-  "fetched_at": "2026-10-10T10:09:13.752130191Z",
+  "fetched_at": "2026-10-11T10:18:39.870091540Z",
   "status": "ok",
   "data": {
     "archived": false,
     "stars": 8011,
-    "forks": 416,
+    "forks": 415,
     "description": "markdown preview plugin for (neo)vim",
     "license_spdx": "MIT",
     "last_commit_at": null,
@@ -13,7 +13,7 @@
     "releases_365d": 0,
     "median_issue_close_days": 3.6733159722222224,
     "median_pr_close_days": 77.81648148148147,
-    "open_issues": 264,
+    "open_issues": 265,
     "closed_issues_sampled": 42,
     "contributors_12mo": 0,
     "top_author_commit_share": 0.0,

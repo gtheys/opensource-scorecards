@@ -1,10 +1,10 @@
 {
   "slug": "hat0uma/csvview.nvim",
-  "fetched_at": "2026-10-10T10:08:09.111220463Z",
+  "fetched_at": "2026-10-11T10:17:40.483547316Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 699,
+    "stars": 698,
     "forks": 17,
     "description": "A Neovim plugin for CSV file editing.",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "hat0uma",
       "account_created_at": "2019-09-19T16:11:24Z",
-      "other_repos_star_sum": 730
+      "other_repos_star_sum": 729
     },
     "has_ci": true,
     "has_tests": true,

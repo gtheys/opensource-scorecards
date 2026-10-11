@@ -1,11 +1,11 @@
 {
   "slug": "emrearmagan/atlas.nvim",
-  "fetched_at": "2026-10-10T10:03:22.476028264Z",
+  "fetched_at": "2026-10-11T10:13:08.595683235Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 287,
-    "forks": 19,
+    "stars": 288,
+    "forks": 20,
     "description": "Review pull requests and manage issues across GitHub, GitLab, Bitbucket and Jira without leaving your editor.",
     "license_spdx": "MIT",
     "last_commit_at": "2026-09-28T17:35:07Z",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "emrearmagan",
       "account_created_at": "2018-11-14T15:26:44Z",
-      "other_repos_star_sum": 440
+      "other_repos_star_sum": 442
     },
     "has_ci": true,
     "has_tests": true,

@@ -1,6 +1,6 @@
 {
   "slug": "al1-ce/just.nvim",
-  "fetched_at": "2026-10-10T09:50:49.442042047Z",
+  "fetched_at": "2026-10-11T10:00:49.515544077Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "nxuv",
       "account_created_at": "2020-02-12T22:08:05Z",
-      "other_repos_star_sum": 81
+      "other_repos_star_sum": 80
     },
     "has_ci": false,
     "has_tests": false,

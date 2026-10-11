@@ -1,26 +1,26 @@
 {
   "slug": "carlos-algms/agentic.nvim",
-  "fetched_at": "2026-10-10T09:55:42.101783844Z",
+  "fetched_at": "2026-10-11T10:05:42.512405625Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 641,
+    "stars": 642,
     "forks": 63,
     "description": "Agentic Chat Interface directly in Neovim with ACP providers from Claude-Code, Gemini, Codex, OpenCode, and Cursor-agent",
     "license_spdx": "MIT",
-    "last_commit_at": "2026-10-04T19:10:43Z",
-    "commits_90d": 33,
+    "last_commit_at": "2026-10-10T11:48:25Z",
+    "commits_90d": 34,
     "releases_365d": 0,
     "median_issue_close_days": 40.34396990740741,
     "median_pr_close_days": 0.05285879629629629,
-    "open_issues": 11,
+    "open_issues": 10,
     "closed_issues_sampled": 12,
     "contributors_12mo": 17,
-    "top_author_commit_share": 0.8888888888888888,
+    "top_author_commit_share": 0.8893129770992366,
     "top_author": {
       "login": "carlos-algms",
       "account_created_at": "2013-06-06T21:38:35Z",
-      "other_repos_star_sum": 713
+      "other_repos_star_sum": 714
     },
     "has_ci": true,
     "has_tests": true,

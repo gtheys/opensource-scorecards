@@ -1,6 +1,6 @@
 {
   "slug": "bluz71/vim-nightfly-colors",
-  "fetched_at": "2026-10-10T09:54:59.049358561Z",
+  "fetched_at": "2026-10-11T10:04:58.336628945Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -16,11 +16,11 @@
     "open_issues": 0,
     "closed_issues_sampled": 34,
     "contributors_12mo": 2,
-    "top_author_commit_share": 0.9473684210526315,
+    "top_author_commit_share": 0.9375,
     "top_author": {
       "login": "bluz71",
       "account_created_at": "2015-03-09T02:07:02Z",
-      "other_repos_star_sum": 2687
+      "other_repos_star_sum": 2688
     },
     "has_ci": false,
     "has_tests": false,
