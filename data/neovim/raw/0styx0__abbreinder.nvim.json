@@ -1,10 +1,10 @@
 {
   "slug": "0styx0/abbreinder.nvim",
-  "fetched_at": "2026-10-11T09:58:06.035445966Z",
+  "fetched_at": "2026-10-12T10:45:49.193117231Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 92,
+    "stars": 91,
     "forks": 1,
     "description": "Abbreviation reminder plugin for Neovim 0.5+",
     "license_spdx": "GPL-3.0",

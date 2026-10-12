@@ -1,6 +1,6 @@
 {
   "slug": "azratul/live-share.nvim",
-  "fetched_at": "2026-10-11T10:03:25.142304042Z",
+  "fetched_at": "2026-10-12T10:53:02.261714928Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "azratul",
       "account_created_at": "2016-04-01T13:12:03Z",
-      "other_repos_star_sum": 346
+      "other_repos_star_sum": 347
     },
     "has_ci": true,
     "has_tests": true,

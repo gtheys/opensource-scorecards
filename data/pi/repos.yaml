@@ -3,17 +3,22 @@ repos:
   - acolomba/pi-claude-marketplace
   - acsezen/pi-memory-honcho
   - adstastic/pi-theme-flip
+  - alexshpunt/pi-agent-ide
   - aliou/pi-guardrails
   - aliou/pi-processes
   - anasalqoyyum/pi-durable-subagents
+  - antiburn/antiburn
   - apmantza/pi-lens
   - betterwright/betterwright
   - botiverse/antiproton
+  - bubbleptr/pace
   - can1357/oh-my-pi
   - carderne/pi-sandbox
+  - cavaldos/pitago
   - championswimmer/pi-cache-graph
   - championswimmer/pi-context-prune
   - chandra447/pi-hermes-memory
+  - cheenulabs/pi-agent-python-sdk
   - cloudflare/agents
   - code-yeongyu/pi-ast-grep
   - code-yeongyu/pi-lsp-client
@@ -72,6 +77,7 @@ repos:
   - ogulcancelik/pi-extensions
   - powerfooi/roamgate
   - prateekmedia/pi-hooks
+  - qddfxp/pi-attachments
   - quentindanblon/pi-fast-jev-compaction
   - quintinshaw/pi-dynamic-workflows
   - rivet-dev/agents
@@ -87,6 +93,7 @@ repos:
   - tannermidd/pi-pocket
   - theooliveira/pi-jev
   - thinkscape/agent-smart-fetch
+  - thruwire/foreman
   - timreynolds/sift
   - tintinweb/pi-subagents
   - tintinweb/pi-tasks
@@ -96,4 +103,6 @@ repos:
   - victor-software-house/pi-curated-themes
   - win4r/pi-jev-router
   - y0usaf/pi-jev
+  - yylo-dev/yylo
   - zetaphor/pi-vscode-extension
+  - zhexusun10/pi-trim

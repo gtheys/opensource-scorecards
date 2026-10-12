@@ -1,6 +1,6 @@
 {
   "slug": "desdic/agrolens.nvim",
-  "fetched_at": "2026-10-11T10:10:41.424508318Z",
+  "fetched_at": "2026-10-12T11:02:30.365666037Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -10,13 +10,13 @@
     "license_spdx": "MIT",
     "last_commit_at": "2026-06-15T04:35:45Z",
     "commits_90d": 0,
-    "releases_365d": 6,
+    "releases_365d": 5,
     "median_issue_close_days": 1.9730324074074075,
     "median_pr_close_days": 0.0029745370370370373,
     "open_issues": 0,
     "closed_issues_sampled": 5,
-    "contributors_12mo": 2,
-    "top_author_commit_share": 0.9375,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
     "top_author": {
       "login": "desdic",
       "account_created_at": "2015-07-08T19:22:11Z",

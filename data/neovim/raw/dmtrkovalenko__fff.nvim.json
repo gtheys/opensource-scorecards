@@ -1,11 +1,11 @@
 {
   "slug": "dmtrkovalenko/fff.nvim",
-  "fetched_at": "2026-10-11T10:11:24.642433131Z",
+  "fetched_at": "2026-10-12T11:03:21.383150633Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 11068,
-    "forks": 466,
+    "stars": 11078,
+    "forks": 467,
     "description": "The fastest and the most accurate file search SDK for AI agents, Neovim, Rust, C,  Python, Bun and NodeJS",
     "license_spdx": "MIT",
     "last_commit_at": "2026-10-11T04:13:19Z",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "dmtrKovalenko",
       "account_created_at": "2016-01-27T19:57:58Z",
-      "other_repos_star_sum": 17153
+      "other_repos_star_sum": 17212
     },
     "has_ci": true,
     "has_tests": true,
