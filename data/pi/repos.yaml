@@ -19,6 +19,7 @@ repos:
   - championswimmer/pi-context-prune
   - chandra447/pi-hermes-memory
   - cheenulabs/pi-agent-python-sdk
+  - chengyayu/pi-code-render
   - cloudflare/agents
   - code-yeongyu/pi-ast-grep
   - code-yeongyu/pi-lsp-client
@@ -58,6 +59,7 @@ repos:
   - kamilpostrozny/pi-jev-code
   - kylebrodeur/pi-agent-bus
   - leblancfg/pi-ansi-themes
+  - m-rui001/pi-mate-companion
   - markacianfrani/pi-theme-flexoki
   - marv1nnnnn/pi-workstation
   - mavam/pi-terminal-theme

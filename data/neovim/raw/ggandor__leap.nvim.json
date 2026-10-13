@@ -1,10 +1,10 @@
 {
   "slug": "ggandor/leap.nvim",
-  "fetched_at": "2026-10-12T11:09:51.433686698Z",
+  "fetched_at": "2026-10-13T10:56:08.097613757Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 5026,
+    "stars": 5028,
     "forks": 53,
     "description": "Neovim's answer to the mouse 🦘",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "ggandor",
       "account_created_at": "2016-03-12T16:42:18Z",
-      "other_repos_star_sum": 7388
+      "other_repos_star_sum": 7390
     },
     "has_ci": false,
     "has_tests": false,

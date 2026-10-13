@@ -1,10 +1,10 @@
 {
   "slug": "frenzyexists/aquarium-vim",
-  "fetched_at": "2026-10-12T11:08:48.813467214Z",
+  "fetched_at": "2026-10-13T10:55:06.570653712Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 326,
+    "stars": 327,
     "forks": 16,
     "description": "🌊 Aquarium, a simple vibrant dark theme for vim 🗒",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "FrenzyExists",
       "account_created_at": "2019-02-25T17:05:08Z",
-      "other_repos_star_sum": 805
+      "other_repos_star_sum": 807
     },
     "has_ci": false,
     "has_tests": false,
