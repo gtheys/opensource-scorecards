@@ -1,6 +1,6 @@
 {
   "slug": "bird-chinese-community/bird.nvim",
-  "fetched_at": "2026-10-13T10:40:46.362592374Z",
+  "fetched_at": "2026-10-14T08:48:56.285985538Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "Neovim plugin for BIRD 2 and BIRD 3 syntax highlighting, filetype detection, and editor support",
     "license_spdx": "MPL-2.0",
     "last_commit_at": "2026-09-28T06:29:28Z",
-    "commits_90d": 32,
+    "commits_90d": 26,
     "releases_365d": 6,
     "median_issue_close_days": null,
     "median_pr_close_days": 0.01960648148148148,

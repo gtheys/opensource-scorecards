@@ -1,6 +1,6 @@
 {
   "slug": "barrettruth/diffs.nvim",
-  "fetched_at": "2026-10-13T10:39:45.039201474Z",
+  "fetched_at": "2026-10-14T08:47:46.970246812Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "treesitter syntax highlighting for diffs",
     "license_spdx": "GPL-3.0",
     "last_commit_at": "2026-10-11T01:07:24Z",
-    "commits_90d": 33,
+    "commits_90d": 32,
     "releases_365d": 0,
     "median_issue_close_days": 0.8603877314814815,
     "median_pr_close_days": 0.007210648148148148,

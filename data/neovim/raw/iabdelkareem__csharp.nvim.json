@@ -1,10 +1,10 @@
 {
   "slug": "iabdelkareem/csharp.nvim",
-  "fetched_at": "2026-10-13T10:58:53.407412420Z",
+  "fetched_at": "2026-10-14T09:08:11.312850001Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 271,
+    "stars": 272,
     "forks": 14,
     "description": "Neovim plugin written in Lua, powered by omnisharp-roslyn, that aims to enhance the development experience for .NET developers.",
     "license_spdx": "MIT",

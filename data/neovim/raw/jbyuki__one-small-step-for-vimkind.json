@@ -1,6 +1,6 @@
 {
   "slug": "jbyuki/one-small-step-for-vimkind",
-  "fetched_at": "2026-10-13T11:01:22.813183722Z",
+  "fetched_at": "2026-10-14T09:10:35.569947627Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -18,9 +18,9 @@
     "contributors_12mo": 2,
     "top_author_commit_share": 0.5,
     "top_author": {
-      "login": "jbyuki",
-      "account_created_at": "2019-02-04T12:59:48Z",
-      "other_repos_star_sum": 4240
+      "login": "deas",
+      "account_created_at": "2011-02-17T15:52:08Z",
+      "other_repos_star_sum": 85
     },
     "has_ci": true,
     "has_tests": true,

@@ -1,10 +1,10 @@
 {
   "slug": "github/copilot.vim",
-  "fetched_at": "2026-10-13T10:56:32.279044122Z",
+  "fetched_at": "2026-10-14T09:05:49.394311209Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 11690,
+    "stars": 11695,
     "forks": 824,
     "description": "Neovim plugin for GitHub Copilot",
     "license_spdx": "NOASSERTION",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "tpope",
       "account_created_at": "2008-02-18T18:08:55Z",
-      "other_repos_star_sum": 108309
+      "other_repos_star_sum": 108317
     },
     "has_ci": true,
     "has_tests": false,

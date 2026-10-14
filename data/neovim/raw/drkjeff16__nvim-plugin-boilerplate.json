@@ -1,10 +1,10 @@
 {
   "slug": "drkjeff16/nvim-plugin-boilerplate",
-  "fetched_at": "2026-10-13T10:50:25.470834222Z",
+  "fetched_at": "2026-10-14T08:58:03.133502537Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 15,
+    "stars": 14,
     "forks": 0,
     "description": "An annotated Neovim plugin template with pre-commit, StyLua and selene configs, GitHub actions and more.",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "DrKJeff16",
       "account_created_at": "2020-09-29T00:05:14Z",
-      "other_repos_star_sum": 270
+      "other_repos_star_sum": 269
     },
     "has_ci": true,
     "has_tests": true,

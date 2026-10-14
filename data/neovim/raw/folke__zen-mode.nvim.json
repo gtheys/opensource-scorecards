@@ -1,6 +1,6 @@
 {
   "slug": "folke/zen-mode.nvim",
-  "fetched_at": "2026-10-13T10:54:47.054302059Z",
+  "fetched_at": "2026-10-14T09:03:56.776664508Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "folke",
       "account_created_at": "2010-05-31T14:14:10Z",
-      "other_repos_star_sum": 42237
+      "other_repos_star_sum": 42248
     },
     "has_ci": true,
     "has_tests": false,
