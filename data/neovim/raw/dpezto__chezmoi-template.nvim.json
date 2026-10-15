@@ -1,6 +1,6 @@
 {
   "slug": "dpezto/chezmoi-template.nvim",
-  "fetched_at": "2026-10-14T08:57:50.297259926Z",
+  "fetched_at": "2026-10-15T08:34:18.584771270Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -12,7 +12,7 @@
     "commits_90d": 41,
     "releases_365d": 11,
     "median_issue_close_days": 5.2328125,
-    "median_pr_close_days": 0.008836805555555556,
+    "median_pr_close_days": 0.0077777777777777776,
     "open_issues": 0,
     "closed_issues_sampled": 1,
     "contributors_12mo": 1,

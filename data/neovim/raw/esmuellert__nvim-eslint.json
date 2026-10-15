@@ -1,6 +1,6 @@
 {
   "slug": "esmuellert/nvim-eslint",
-  "fetched_at": "2026-10-14T09:01:08.800865200Z",
+  "fetched_at": "2026-10-15T08:37:05.847669113Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "esmuellert",
       "account_created_at": "2018-07-10T06:13:43Z",
-      "other_repos_star_sum": 1688
+      "other_repos_star_sum": 1690
     },
     "has_ci": true,
     "has_tests": true,

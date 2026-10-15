@@ -1,10 +1,10 @@
 {
   "slug": "daaanny90/claude-desktop.nvim",
-  "fetched_at": "2026-10-14T08:55:07.958790621Z",
+  "fetched_at": "2026-10-15T08:31:28.684859426Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 2,
+    "stars": 3,
     "forks": 0,
     "description": "Warm dark Neovim colorscheme matching Claude Desktop app's dark theme. Extracted from Claude's CSS. 30+ plugin highlights, tmux + iTerm2 extras.",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "daaanny90",
       "account_created_at": "2017-01-06T10:42:14Z",
-      "other_repos_star_sum": 21
+      "other_repos_star_sum": 25
     },
     "has_ci": false,
     "has_tests": false,

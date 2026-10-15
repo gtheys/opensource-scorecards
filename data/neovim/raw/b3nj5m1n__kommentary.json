@@ -1,10 +1,10 @@
 {
   "slug": "b3nj5m1n/kommentary",
-  "fetched_at": "2026-10-14T08:47:28.708434185Z",
+  "fetched_at": "2026-10-15T08:23:27.729761849Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 526,
+    "stars": 525,
     "forks": 12,
     "description": "Neovim commenting plugin, written in lua.",
     "license_spdx": "MIT",

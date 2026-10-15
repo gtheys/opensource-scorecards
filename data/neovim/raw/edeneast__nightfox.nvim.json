@@ -1,10 +1,10 @@
 {
   "slug": "edeneast/nightfox.nvim",
-  "fetched_at": "2026-10-14T08:59:21.355941298Z",
+  "fetched_at": "2026-10-15T08:35:43.793529629Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 4090,
+    "stars": 4092,
     "forks": 172,
     "description": "🦊A highly customizable theme for vim and neovim with support for lsp, treesitter and a variety of plugins.",
     "license_spdx": "MIT",

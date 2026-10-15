@@ -1,6 +1,6 @@
 {
   "slug": "jghauser/papis.nvim",
-  "fetched_at": "2026-10-14T09:11:15.733217671Z",
+  "fetched_at": "2026-10-15T08:47:15.559524454Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "jghauser",
       "account_created_at": "2014-12-26T23:29:44Z",
-      "other_repos_star_sum": 850
+      "other_repos_star_sum": 849
     },
     "has_ci": true,
     "has_tests": true,

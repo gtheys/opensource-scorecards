@@ -1,10 +1,10 @@
 {
   "slug": "bennypowers/splitjoin.nvim",
-  "fetched_at": "2026-10-14T08:48:21.652206134Z",
+  "fetched_at": "2026-10-15T08:24:18.608568818Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 99,
+    "stars": 100,
     "forks": 1,
     "description": "🪓🧷 Split or join list-like syntax constructs",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "bennypowers",
       "account_created_at": "2012-02-23T17:25:11Z",
-      "other_repos_star_sum": 245
+      "other_repos_star_sum": 246
     },
     "has_ci": true,
     "has_tests": true,

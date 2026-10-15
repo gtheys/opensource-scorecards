@@ -336,6 +336,7 @@ repos:
   - drkjeff16/pipenv.nvim
   - drkjeff16/project.nvim
   - drkjeff16/shebang.nvim
+  - drkjeff16/triforce.nvim
   - drkjeff16/wezterm-types
   - drkjeff16/which-colorscheme.nvim
   - droma82/add-subtract-ex.nvim
@@ -444,7 +445,6 @@ repos:
   - gh-liu/nvim-winterm
   - gh-tui-tools/gh-review.nvim
   - ghillb/cybu.nvim
-  - gisketch/triforce.nvim
   - github-main-user/lytmode.nvim
   - github/copilot.vim
   - glyccogen/imprint.nvim

@@ -1,10 +1,10 @@
 {
   "slug": "daaanny90/interlinked.nvim",
-  "fetched_at": "2026-10-14T08:55:11.001524187Z",
+  "fetched_at": "2026-10-15T08:31:31.615041783Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 0,
+    "stars": 1,
     "forks": 0,
     "description": "A melancholic Blade Runner 2049 colorscheme for Neovim — LA fog, Vegas amber, ambient neon-flicker fx, and the baseline test as a live session report",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "daaanny90",
       "account_created_at": "2017-01-06T10:42:14Z",
-      "other_repos_star_sum": 21
+      "other_repos_star_sum": 25
     },
     "has_ci": false,
     "has_tests": false,

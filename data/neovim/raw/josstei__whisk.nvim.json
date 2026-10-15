@@ -1,6 +1,6 @@
 {
   "slug": "josstei/whisk.nvim",
-  "fetched_at": "2026-10-14T09:12:08.768781042Z",
+  "fetched_at": "2026-10-15T08:48:13.397070568Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "josstei",
       "account_created_at": "2019-03-18T21:07:06Z",
-      "other_repos_star_sum": 557
+      "other_repos_star_sum": 567
     },
     "has_ci": false,
     "has_tests": true,
