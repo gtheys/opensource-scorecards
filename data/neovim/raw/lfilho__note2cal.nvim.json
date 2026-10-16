@@ -1,6 +1,6 @@
 {
   "slug": "lfilho/note2cal.nvim",
-  "fetched_at": "2026-10-07T10:45:28.792017336Z",
+  "fetched_at": "2026-10-16T08:43:03.197680358Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "Quickly schedule calendar events from neovim",
     "license_spdx": "MIT",
     "last_commit_at": "2026-09-28T03:55:01Z",
-    "commits_90d": 5,
+    "commits_90d": 4,
     "releases_365d": 1,
     "median_issue_close_days": null,
     "median_pr_close_days": null,

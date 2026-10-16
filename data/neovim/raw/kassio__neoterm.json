@@ -1,11 +1,11 @@
 {
   "slug": "kassio/neoterm",
-  "fetched_at": "2026-10-07T10:42:12.570041459Z",
+  "fetched_at": "2026-10-16T08:39:42.053445235Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 1337,
-    "forks": 115,
+    "stars": 1338,
+    "forks": 113,
     "description": "Wrapper of some vim/neovim's :terminal functions.",
     "license_spdx": "NOASSERTION",
     "last_commit_at": null,

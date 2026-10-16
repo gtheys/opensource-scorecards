@@ -1,10 +1,10 @@
 {
   "slug": "kkharji/sqlite.lua",
-  "fetched_at": "2026-10-07T10:43:38.152587885Z",
+  "fetched_at": "2026-10-16T08:41:14.079778003Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 570,
+    "stars": 571,
     "forks": 33,
     "description": "SQLite LuaJIT binding with a very simple api.",
     "license_spdx": "MIT",

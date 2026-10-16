@@ -1,22 +1,22 @@
 {
   "slug": "drkjeff16/triforce.nvim",
-  "fetched_at": "2026-10-15T08:34:50.369518419Z",
+  "fetched_at": "2026-10-16T08:26:44.812627836Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 8,
+    "stars": 12,
     "forks": 1,
-    "description": "(FORMERLY gisketch/triforce.nvim) Hey, listen! Gamified stat tracker with XP, levels, achievements, and activity heatmaps for your coding sessions with lualine integration",
+    "description": "(MIRROR OF gisketch/triforce.nvim) Hey, listen! Gamified stat tracker with XP, levels, achievements, and activity heatmaps for your coding sessions with lualine integration",
     "license_spdx": "MIT",
-    "last_commit_at": "2026-10-15T06:34:11Z",
-    "commits_90d": 46,
+    "last_commit_at": "2026-10-16T05:15:58Z",
+    "commits_90d": 498,
     "releases_365d": 11,
     "median_issue_close_days": null,
     "median_pr_close_days": null,
     "open_issues": 0,
     "closed_issues_sampled": 0,
     "contributors_12mo": 10,
-    "top_author_commit_share": 0.9021526418786693,
+    "top_author_commit_share": 0.9196787148594378,
     "top_author": {
       "login": "DrKJeff16",
       "account_created_at": "2020-09-29T00:05:14Z",
@@ -24,6 +24,6 @@
     },
     "has_ci": true,
     "has_tests": true,
-    "readme_len": 34496
+    "readme_len": 34911
   }
 }

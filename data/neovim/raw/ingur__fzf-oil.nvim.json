@@ -1,6 +1,6 @@
 {
   "slug": "ingur/fzf-oil.nvim",
-  "fetched_at": "2026-10-15T08:44:51.674122930Z",
+  "fetched_at": "2026-10-16T08:35:17.013701760Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "Combines fzf-lua and oil.nvim for finding and file browsing, with seamless toggling between them.",
     "license_spdx": "MIT",
     "last_commit_at": "2026-07-17T13:14:21Z",
-    "commits_90d": 1,
+    "commits_90d": 0,
     "releases_365d": 5,
     "median_issue_close_days": 1.3287731481481482,
     "median_pr_close_days": null,

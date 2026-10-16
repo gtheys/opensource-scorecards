@@ -1,9 +1,9 @@
 {
   "slug": "kuri-sun/todoage.nvim",
-  "fetched_at": "2026-10-07T10:44:18.641652425Z",
+  "fetched_at": "2026-10-16T08:41:54.259267861Z",
   "status": "ok",
   "data": {
-    "archived": false,
+    "archived": true,
     "stars": 30,
     "forks": 1,
     "description": "shows how old your TODOs are.",

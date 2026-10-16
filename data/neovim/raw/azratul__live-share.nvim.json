@@ -1,10 +1,10 @@
 {
   "slug": "azratul/live-share.nvim",
-  "fetched_at": "2026-10-15T08:23:12.523647367Z",
+  "fetched_at": "2026-10-16T08:16:32.805349341Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 288,
+    "stars": 289,
     "forks": 6,
     "description": "Real-time pair programming and collaborative editing for Neovim, inspired by VS Code Live Share.",
     "license_spdx": "GPL-3.0",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "azratul",
       "account_created_at": "2016-04-01T13:12:03Z",
-      "other_repos_star_sum": 348
+      "other_repos_star_sum": 349
     },
     "has_ci": true,
     "has_tests": true,

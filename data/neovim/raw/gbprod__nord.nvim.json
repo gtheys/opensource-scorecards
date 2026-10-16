@@ -1,6 +1,6 @@
 {
   "slug": "gbprod/nord.nvim",
-  "fetched_at": "2026-10-15T08:40:09.018958332Z",
+  "fetched_at": "2026-10-16T08:31:13.671060256Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -15,12 +15,12 @@
     "median_pr_close_days": 0.05856481481481481,
     "open_issues": 7,
     "closed_issues_sampled": 19,
-    "contributors_12mo": 3,
-    "top_author_commit_share": 0.3333333333333333,
+    "contributors_12mo": 2,
+    "top_author_commit_share": 0.5,
     "top_author": {
-      "login": "IamSmeagol",
-      "account_created_at": "2021-02-06T14:01:28Z",
-      "other_repos_star_sum": 2
+      "login": "ironbars",
+      "account_created_at": "2015-11-21T19:17:29Z",
+      "other_repos_star_sum": 5
     },
     "has_ci": true,
     "has_tests": false,

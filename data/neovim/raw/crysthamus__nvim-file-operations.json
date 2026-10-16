@@ -1,10 +1,10 @@
 {
   "slug": "crysthamus/nvim-file-operations",
-  "fetched_at": "2026-10-15T08:30:28.298491610Z",
+  "fetched_at": "2026-10-16T08:22:57.608091636Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 26,
+    "stars": 25,
     "forks": 2,
     "description": "Neovim plugin that adds support for file operations using LSPs.",
     "license_spdx": "Apache-2.0",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "Crysthamus",
       "account_created_at": "2025-04-14T16:27:10Z",
-      "other_repos_star_sum": 28
+      "other_repos_star_sum": 27
     },
     "has_ci": true,
     "has_tests": false,

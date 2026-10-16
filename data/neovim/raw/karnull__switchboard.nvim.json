@@ -1,11 +1,11 @@
 {
   "slug": "karnull/switchboard.nvim",
-  "fetched_at": "2026-10-07T10:42:05.866095930Z",
+  "fetched_at": "2026-10-16T08:39:35.227950280Z",
   "status": "ok",
   "data": {
     "archived": false,
     "stars": 34,
-    "forks": 2,
+    "forks": 3,
     "description": "one keybind - different (project specific) commands",
     "license_spdx": "Apache-2.0",
     "last_commit_at": "2026-08-16T01:18:07Z",

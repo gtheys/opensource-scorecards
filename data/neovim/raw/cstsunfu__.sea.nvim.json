@@ -1,11 +1,11 @@
 {
   "slug": "cstsunfu/.sea.nvim",
-  "fetched_at": "2026-10-15T08:30:41.085220699Z",
+  "fetched_at": "2026-10-16T08:23:05.948768973Z",
   "status": "ok",
   "data": {
     "archived": false,
     "stars": 148,
-    "forks": 5,
+    "forks": 6,
     "description": "21st-century NeoVim. Personal IDE. Mainly implemented by Lua.",
     "license_spdx": "Apache-2.0",
     "last_commit_at": "2026-07-10T07:22:53Z",
@@ -13,7 +13,7 @@
     "releases_365d": 0,
     "median_issue_close_days": null,
     "median_pr_close_days": null,
-    "open_issues": 0,
+    "open_issues": 4,
     "closed_issues_sampled": 0,
     "contributors_12mo": 1,
     "top_author_commit_share": 1.0,

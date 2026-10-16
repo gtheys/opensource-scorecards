@@ -1,10 +1,10 @@
 {
   "slug": "lima1909/resty.nvim",
-  "fetched_at": "2026-10-07T10:45:36.847025377Z",
+  "fetched_at": "2026-10-16T08:43:10.489604Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 53,
+    "stars": 54,
     "forks": 3,
     "description": "A fast and easy-to-use HTTP-Rest-Client plugin for Neovim, completely written in LUA.",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "lima1909",
       "account_created_at": "2017-10-28T21:07:49Z",
-      "other_repos_star_sum": 67
+      "other_repos_star_sum": 68
     },
     "has_ci": true,
     "has_tests": true,

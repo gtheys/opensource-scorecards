@@ -1,6 +1,6 @@
 {
   "slug": "cryptomilk/nightcity.nvim",
-  "fetched_at": "2026-10-15T08:30:24.086172456Z",
+  "fetched_at": "2026-10-16T08:22:53.307142660Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "cryptomilk",
       "account_created_at": "2011-01-03T14:40:04Z",
-      "other_repos_star_sum": 239
+      "other_repos_star_sum": 240
     },
     "has_ci": true,
     "has_tests": true,

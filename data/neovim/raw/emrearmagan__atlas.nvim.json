@@ -1,29 +1,29 @@
 {
   "slug": "emrearmagan/atlas.nvim",
-  "fetched_at": "2026-10-15T08:36:19.602286037Z",
+  "fetched_at": "2026-10-16T08:27:58.765890617Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 340,
-    "forks": 21,
-    "description": "Review pull requests and manage issues across GitHub, GitLab, Bitbucket and Jira without leaving your editor.",
+    "stars": 345,
+    "forks": 22,
+    "description": "Review pull requests and manage issues across GitHub, GitLab, Bitbucket and Jira directly in Neovim.",
     "license_spdx": "MIT",
-    "last_commit_at": "2026-10-14T00:27:02Z",
-    "commits_90d": 221,
-    "releases_365d": 32,
-    "median_issue_close_days": 10.042905092592592,
-    "median_pr_close_days": 1.1197453703703704,
-    "open_issues": 16,
-    "closed_issues_sampled": 21,
+    "last_commit_at": "2026-10-15T14:16:12Z",
+    "commits_90d": 227,
+    "releases_365d": 33,
+    "median_issue_close_days": 10.03400462962963,
+    "median_pr_close_days": 1.266556712962963,
+    "open_issues": 15,
+    "closed_issues_sampled": 22,
     "contributors_12mo": 10,
-    "top_author_commit_share": 0.9680672268907563,
+    "top_author_commit_share": 0.9683860232945092,
     "top_author": {
       "login": "emrearmagan",
       "account_created_at": "2018-11-14T15:26:44Z",
-      "other_repos_star_sum": 494
+      "other_repos_star_sum": 499
     },
     "has_ci": true,
     "has_tests": true,
-    "readme_len": 31674
+    "readme_len": 32066
   }
 }

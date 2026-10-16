@@ -1,11 +1,11 @@
 {
   "slug": "inlyne-project/inlyne",
-  "fetched_at": "2026-10-15T08:44:59.148741950Z",
+  "fetched_at": "2026-10-16T08:35:21.846190577Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 1347,
-    "forks": 50,
+    "stars": 1348,
+    "forks": 51,
     "description": "a GPU powered yet browserless tool to view markdown files in the blink of an eye",
     "license_spdx": "MIT",
     "last_commit_at": "2026-08-06T09:27:52Z",
