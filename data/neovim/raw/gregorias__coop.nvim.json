@@ -1,6 +1,6 @@
 {
   "slug": "gregorias/coop.nvim",
-  "fetched_at": "2026-10-16T08:32:41.377659950Z",
+  "fetched_at": "2026-10-17T08:04:55.141744802Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "gregorias",
       "account_created_at": "2011-04-11T12:53:33Z",
-      "other_repos_star_sum": 649
+      "other_repos_star_sum": 651
     },
     "has_ci": true,
     "has_tests": true,

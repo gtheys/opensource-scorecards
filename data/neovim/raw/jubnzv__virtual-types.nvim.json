@@ -1,10 +1,10 @@
 {
   "slug": "jubnzv/virtual-types.nvim",
-  "fetched_at": "2026-10-16T08:38:33.161435181Z",
+  "fetched_at": "2026-10-17T08:10:03.587022751Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 421,
+    "stars": 422,
     "forks": 3,
     "description": "Neovim plugin that shows type annotations as virtual text",
     "license_spdx": "MIT",

@@ -1,10 +1,10 @@
 {
   "slug": "jrop/morph.nvim",
-  "fetched_at": "2026-10-16T08:38:21.360363063Z",
+  "fetched_at": "2026-10-17T08:09:53.194055176Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 140,
+    "stars": 141,
     "forks": 0,
     "description": "React-like renderer for Neovim",
     "license_spdx": null,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "jrop",
       "account_created_at": "2012-02-03T03:10:05Z",
-      "other_repos_star_sum": 588
+      "other_repos_star_sum": 589
     },
     "has_ci": true,
     "has_tests": true,

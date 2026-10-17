@@ -1,6 +1,6 @@
 {
   "slug": "abidibo/nvim-httpyac",
-  "fetched_at": "2026-10-16T08:12:02.212503931Z",
+  "fetched_at": "2026-10-17T07:46:55.400320974Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "abidibo",
       "account_created_at": "2010-10-18T14:50:50Z",
-      "other_repos_star_sum": 180
+      "other_repos_star_sum": 179
     },
     "has_ci": false,
     "has_tests": false,

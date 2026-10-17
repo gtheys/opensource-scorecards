@@ -1,6 +1,6 @@
 {
   "slug": "artur-shaik/jc.nvim",
-  "fetched_at": "2026-10-16T08:15:26.280678740Z",
+  "fetched_at": "2026-10-17T07:49:53.282905187Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "A Java productivity layer for Neovim on top of an externally managed jdtls: class creation, code generation, test/build runners, refactorings",
     "license_spdx": "MIT",
     "last_commit_at": "2026-10-11T13:33:09Z",
-    "commits_90d": 64,
+    "commits_90d": 60,
     "releases_365d": 12,
     "median_issue_close_days": 8.383269675925925,
     "median_pr_close_days": 0.30291666666666667,

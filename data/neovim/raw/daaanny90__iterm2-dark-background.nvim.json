@@ -1,10 +1,10 @@
 {
   "slug": "daaanny90/iterm2-dark-background.nvim",
-  "fetched_at": "2026-10-16T08:23:52.657826872Z",
+  "fetched_at": "2026-10-17T07:57:11.833276310Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 1,
+    "stars": 2,
     "forks": 0,
     "description": "Dark Neovim colorscheme inspired by iTerm2's Dark Background preset. Muted tones, 30+ plugin highlights, tmux + iTerm2 extras.",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "daaanny90",
       "account_created_at": "2017-01-06T10:42:14Z",
-      "other_repos_star_sum": 25
+      "other_repos_star_sum": 27
     },
     "has_ci": false,
     "has_tests": false,

@@ -1,10 +1,10 @@
 {
   "slug": "ayamir/nvimdots",
-  "fetched_at": "2026-10-16T08:16:22.005288715Z",
+  "fetched_at": "2026-10-17T07:50:40.610409261Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 3413,
+    "stars": 3414,
     "forks": 479,
     "description": "A well configured and structured Neovim.",
     "license_spdx": "BSD-3-Clause",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "charliie-dev",
       "account_created_at": "2017-10-03T20:12:08Z",
-      "other_repos_star_sum": 1755
+      "other_repos_star_sum": 1757
     },
     "has_ci": true,
     "has_tests": false,

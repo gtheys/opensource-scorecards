@@ -1,10 +1,10 @@
 {
   "slug": "aaronik/treewalker.nvim",
-  "fetched_at": "2026-10-16T08:11:53.220090521Z",
+  "fetched_at": "2026-10-17T07:46:46.750144832Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 617,
+    "stars": 616,
     "forks": 20,
     "description": "A neovim plugin for moving around your code in a syntax tree aware manner",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "aaronik",
       "account_created_at": "2012-01-12T12:14:53Z",
-      "other_repos_star_sum": 753
+      "other_repos_star_sum": 752
     },
     "has_ci": true,
     "has_tests": true,
