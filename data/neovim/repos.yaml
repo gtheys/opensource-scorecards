@@ -1401,6 +1401,7 @@ repos:
   - yutkat/confirm-quit.nvim
   - yutkat/git-rebase-auto-diff.nvim
   - zaakiy/line-justice.nvim
+  - zacesshq/zacess.nvim
   - zachyarbrough/anchor.nvim
   - zaldih/themery.nvim
   - zbirenbaum/copilot.lua

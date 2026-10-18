@@ -1,6 +1,6 @@
 {
   "slug": "logicmagix/tide42",
-  "fetched_at": "2026-10-07T10:46:18.183869396Z",
+  "fetched_at": "2026-10-18T08:31:25.590465336Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "An ultra-efficient Neovim based IDE for Python and C/C++ prototyping.",
     "license_spdx": "NOASSERTION",
     "last_commit_at": "2026-07-20T04:01:30Z",
-    "commits_90d": 1,
+    "commits_90d": 0,
     "releases_365d": 1,
     "median_issue_close_days": null,
     "median_pr_close_days": 0.00009259259259259259,

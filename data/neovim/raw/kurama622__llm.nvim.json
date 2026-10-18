@@ -1,11 +1,11 @@
 {
   "slug": "kurama622/llm.nvim",
-  "fetched_at": "2026-10-16T08:41:49.061335618Z",
+  "fetched_at": "2026-10-18T08:29:32.590012232Z",
   "status": "ok",
   "data": {
     "archived": false,
     "stars": 483,
-    "forks": 36,
+    "forks": 35,
     "description": "A large language model (LLM) plugin for Neovim, provides commands to interact with LLM (like ChatGPT, Copilot, ChatGLM, kimi, deepseek, openrouter and local llms). Support Github models.",
     "license_spdx": "GPL-3.0",
     "last_commit_at": "2026-06-20T06:12:19Z",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "Kurama622",
       "account_created_at": "2018-07-20T01:41:42Z",
-      "other_repos_star_sum": 740
+      "other_repos_star_sum": 741
     },
     "has_ci": false,
     "has_tests": false,

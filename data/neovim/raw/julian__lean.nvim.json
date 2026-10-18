@@ -1,6 +1,6 @@
 {
   "slug": "julian/lean.nvim",
-  "fetched_at": "2026-10-17T08:10:07.157355959Z",
+  "fetched_at": "2026-10-18T08:26:32.667779749Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -11,10 +11,10 @@
     "last_commit_at": "2026-10-15T16:34:46Z",
     "commits_90d": 42,
     "releases_365d": 1,
-    "median_issue_close_days": 1.8908796296296295,
-    "median_pr_close_days": 4.776041666666667,
+    "median_issue_close_days": 1.971880787037037,
+    "median_pr_close_days": 4.860486111111111,
     "open_issues": 39,
-    "closed_issues_sampled": 13,
+    "closed_issues_sampled": 14,
     "contributors_12mo": 9,
     "top_author_commit_share": 0.9084668192219679,
     "top_author": {

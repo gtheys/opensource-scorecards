@@ -1,15 +1,15 @@
 {
   "slug": "dlants/magenta.nvim",
-  "fetched_at": "2026-10-17T07:58:33.752828857Z",
+  "fetched_at": "2026-10-18T08:14:10.140858517Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 466,
+    "stars": 465,
     "forks": 34,
     "description": "A tool-use-focused LLM plugin for neovim.",
     "license_spdx": "MIT",
     "last_commit_at": "2026-10-12T17:45:08Z",
-    "commits_90d": 366,
+    "commits_90d": 356,
     "releases_365d": 0,
     "median_issue_close_days": null,
     "median_pr_close_days": 0.017604166666666667,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "dlants",
       "account_created_at": "2011-11-10T19:28:03Z",
-      "other_repos_star_sum": 496
+      "other_repos_star_sum": 495
     },
     "has_ci": true,
     "has_tests": false,

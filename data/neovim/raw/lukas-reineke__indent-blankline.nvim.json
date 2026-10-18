@@ -1,6 +1,6 @@
 {
   "slug": "lukas-reineke/indent-blankline.nvim",
-  "fetched_at": "2026-10-07T10:46:47.771733133Z",
+  "fetched_at": "2026-10-18T08:31:50.119240849Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "lukas-reineke",
       "account_created_at": "2015-06-15T18:44:44Z",
-      "other_repos_star_sum": 7674
+      "other_repos_star_sum": 7675
     },
     "has_ci": true,
     "has_tests": false,

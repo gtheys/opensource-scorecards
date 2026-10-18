@@ -1,6 +1,6 @@
 {
   "slug": "m15a/flake-awesome-neovim-plugins",
-  "fetched_at": "2026-10-07T10:47:35.653241059Z",
+  "fetched_at": "2026-10-18T08:32:27.138699198Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,11 +9,11 @@
     "description": "A Nix flake providing the Awesome Neovim plugins",
     "license_spdx": "BSD-3-Clause",
     "last_commit_at": "2026-07-19T08:07:25Z",
-    "commits_90d": 3,
+    "commits_90d": 0,
     "releases_365d": 0,
     "median_issue_close_days": 1.5252314814814816,
     "median_pr_close_days": 0.04369212962962963,
-    "open_issues": 1,
+    "open_issues": 0,
     "closed_issues_sampled": 19,
     "contributors_12mo": 1,
     "top_author_commit_share": 1.0,

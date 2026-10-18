@@ -1,26 +1,26 @@
 {
   "slug": "lazyvim/lazyvim",
-  "fetched_at": "2026-10-16T08:42:13.781078739Z",
+  "fetched_at": "2026-10-18T08:29:56.609049775Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 27669,
-    "forks": 1827,
+    "stars": 27684,
+    "forks": 1828,
     "description": "Neovim config for the lazy",
     "license_spdx": "Apache-2.0",
     "last_commit_at": "2026-09-08T10:13:50Z",
     "commits_90d": 3,
-    "releases_365d": 14,
+    "releases_365d": 12,
     "median_issue_close_days": 7.629027777777777,
     "median_pr_close_days": 33.94872106481482,
-    "open_issues": 86,
+    "open_issues": 85,
     "closed_issues_sampled": 36,
     "contributors_12mo": 54,
-    "top_author_commit_share": 0.5403726708074534,
+    "top_author_commit_share": 0.5286624203821656,
     "top_author": {
       "login": "folke",
       "account_created_at": "2010-05-31T14:14:10Z",
-      "other_repos_star_sum": 42260
+      "other_repos_star_sum": 42270
     },
     "has_ci": true,
     "has_tests": true,

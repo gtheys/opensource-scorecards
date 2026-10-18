@@ -1,6 +1,6 @@
 {
   "slug": "aileot/nvim-thyme",
-  "fetched_at": "2026-10-17T07:47:51.833121811Z",
+  "fetched_at": "2026-10-18T08:02:29.484912420Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -10,7 +10,7 @@
     "license_spdx": "MIT",
     "last_commit_at": "2025-10-28T21:58:25Z",
     "commits_90d": 0,
-    "releases_365d": 2,
+    "releases_365d": 0,
     "median_issue_close_days": 0.019560185185185184,
     "median_pr_close_days": 0.003553240740740741,
     "open_issues": 4,
