@@ -45,6 +45,9 @@
       --accent: var(--pico-primary);
       --line: var(--pico-border-color);
       --mono: "IBM Plex Mono", "SF Mono", Consolas, monospace;
+      /* AIDEV-NOTE: neutral deep shadow instead of Pico's default bluish
+         rgba(129,145,181,…) glow — matches the consent terminal's shadow. */
+      --pico-box-shadow: 0 12px 32px rgba(0,0,0,.45);
     }
     [data-theme="dark"], :root:not([data-theme]) {
       --pico-primary: #3fbf7f;
@@ -134,7 +137,7 @@
     .hero-band { background: var(--navy); color: #f3f5f7; border-radius: 12px; margin-top: 1.5rem; }
     .hero-inner { padding: 2.5rem 2rem 2.2rem; }
     .hero-inner h1 { color: #fff; max-width: 22ch; margin-bottom: .6rem; }
-    .hero-sub { max-width: 62ch; font-size: 1.02rem; color: #c3cbd6; margin: 0 0 1.4rem; }
+    .hero-sub { max-width: 52ch; font-size: 1.02rem; color: #c3cbd6; margin: 0 0 1.4rem; }
     .hero-sub strong { color: #fff; }
     .hero-actions { display: flex; gap: 12px; flex-wrap: wrap; }
     .btn-primary, .btn-ghost {
@@ -186,8 +189,36 @@
       font: inherit; color: #3fbf7f;
     }
     .consent-term .choices button:hover, .consent-term .choices button:focus { color: var(--gold); text-decoration: underline; outline: none; }
-    .consent-term .caret { display: inline-block; width: .55em; height: 1em; background: var(--gold); vertical-align: text-bottom; animation: blink 1s steps(1) infinite; }
+    .consent-term .caret { display: inline-block; width: .55em; height: 1em; background: var(--gold); vertical-align: text-bottom; }
+    .consent-term .choices button:focus-visible { text-decoration: underline; }
+    /* AIDEV-NOTE: blink animations only for users who haven't asked for
+       reduced motion. */
+    @media (prefers-reduced-motion: no-preference) {
+      .consent-term .caret, .term-caret { animation: blink 1s steps(1) infinite; }
+    }
     @keyframes blink { 50% { opacity: 0; } }
+
+    /* Terminal-flavored prompt line in the hero — keeps the consent terminal's
+       brand personality visible before the dialog appears. */
+    .term-line {
+      font-family: var(--mono); font-size: .82rem; color: #8a97a5;
+      margin: 0 0 1rem; padding: .55rem .85rem; border: 1px solid #2b333d;
+      border-radius: 6px; background: rgba(0,0,0,.28); width: fit-content;
+      max-width: 100%;
+    }
+    .term-line .path { color: #8a97a5; }
+    .term-line .dollar { color: var(--gold); margin-right: .45em; }
+    .term-line .cmd { color: #f3f5f7; }
+    .term-caret { display: inline-block; width: .55em; height: 1em; background: var(--gold); vertical-align: text-bottom; margin-left: 2px; }
+
+    /* Category chip — labels cross-category rows (e.g. biggest movers) */
+    .cat-chip {
+      display: inline-block; padding: .1rem .55rem; border-radius: 999px;
+      border: 1px solid var(--pico-border-color); background: var(--accent-soft);
+      color: inherit; text-decoration: none; font-size: .74rem;
+      letter-spacing: .02em; white-space: nowrap;
+    }
+    .cat-chip:hover { border-color: var(--pico-primary); text-decoration: none; }
   </style>
   <script>
     // Respect OS dark mode before first paint (Pico's data-theme switch).
@@ -247,13 +278,18 @@
   if (saved === 'yes') { load(); return; }
   if (saved === 'no') return;
   box.hidden = false;
-  box.querySelector('[data-choice="yes"]').focus();
+  // AIDEV-NOTE: focus-neutral — no autofocus and no global y/n capture until the
+  // user interacts with the dialog (tab/click into it). Default keyboard state
+  // stays with the page; y/n still works once the dialog has focus.
+  var engaged = false;
+  box.addEventListener('focusin', function () { engaged = true; });
   box.addEventListener('click', function (e) {
+    engaged = true;
     var b = e.target.closest('[data-choice]');
     if (b) answer(b.getAttribute('data-choice'));
   });
   document.addEventListener('keydown', function (e) {
-    if (box.hidden) return;
+    if (box.hidden || !engaged) return;
     if (e.key === 'y') answer('yes');
     else if (e.key === 'n') answer('no');
   });

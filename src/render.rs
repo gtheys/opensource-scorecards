@@ -85,7 +85,12 @@ fn load_meta(data_dir: &Path) -> std::collections::HashMap<String, Value> {
 /// by `score`). Compares the two most recent distinct dates present. Returns
 /// top risers and fallers (by rank movement) and drops (newly unscored repos).
 /// Empty vec when there's nothing to compare against — hub hides the section.
-fn compute_movers(data_dir: &Path, scored: &ScoredCategory) -> Vec<Value> {
+fn compute_movers(
+    data_dir: &Path,
+    scored: &ScoredCategory,
+    category_key: &str,
+    category_name: &str,
+) -> Vec<Value> {
     let Ok(text) = std::fs::read_to_string(data_dir.join("history.json")) else {
         return Vec::new();
     };
@@ -150,11 +155,96 @@ fn compute_movers(data_dir: &Path, scored: &ScoredCategory) -> Vec<Value> {
                 "prev_rank": prev_r,
                 "total": p.total,
                 "prev_date": prev_date,
+                "category": category_key,
+                "category_name": category_name,
             }),
         ));
     }
     movers.sort_by_key(|a| std::cmp::Reverse(a.0));
     movers.into_iter().map(|(_, row)| row).take(8).collect()
+}
+
+/// Human-readable label for a signal key, shown on project pages. Falls back
+/// to title-casing the snake_case key for any signal not in the map.
+fn humanize_signal(name: &str) -> String {
+    let mapped = match name {
+        "days_since_last_commit" => "Days since last commit",
+        "commit_frequency_90d" => "Commit frequency (90 days)",
+        "release_cadence" => "Release cadence",
+        "median_issue_close_days" => "Median issue close time (days)",
+        "median_pr_close_days" => "Median PR close time (days)",
+        "open_closed_issue_ratio" => "Open-to-closed issue ratio",
+        "stars_log" => "Stars (log scale)",
+        "forks_log" => "Forks (log scale)",
+        "contributors_12mo" => "Contributors (12 months)",
+        "bus_factor" => "Bus factor",
+        "author_track_record" => "Author track record",
+        "ci_configured" => "CI configured",
+        "tests_present" => "Tests present",
+        "readme_present" => "README present",
+        "license_osi" => "OSI licence",
+        _ => return title_case(name),
+    };
+    mapped.to_string()
+}
+
+fn title_case(name: &str) -> String {
+    name.replace('_', " ")
+        .split_whitespace()
+        .map(|w| {
+            let mut cs = w.chars();
+            match cs.next() {
+                Some(f) => f.to_uppercase().collect::<String>() + cs.as_str(),
+                None => String::new(),
+            }
+        })
+        .collect::<Vec<_>>()
+        .join(" ")
+}
+
+/// Signal breakdown rows grouped under their three bucket headers (fixed
+/// Maintenance → Community → Quality order) with humanized signal labels.
+/// Row `name` keeps the raw snake_case key (rendered as a tooltip) so the
+/// page stays auditable against config/weights.toml.
+fn signal_groups(p: &ScoredProject, weights: &crate::score::WeightsDoc) -> Vec<Value> {
+    let Some(sigs) = &p.signals else {
+        return Vec::new();
+    };
+    let mut groups = Vec::new();
+    for (bucket, label) in [
+        ("maintenance", "Maintenance"),
+        ("community", "Community"),
+        ("quality", "Quality"),
+    ] {
+        let Some(cfg) = weights.signals.get(bucket) else {
+            continue;
+        };
+        let mut rows: Vec<Value> = sigs
+            .iter()
+            .filter(|(name, _)| cfg.contains_key(name.as_str()))
+            .map(|(name, s)| {
+                json!({
+                    "name": name,
+                    "label": humanize_signal(name),
+                    "raw": (s.raw * 1000.0).round() / 1000.0,
+                    "score": (s.score * 1000.0).round() / 1000.0,
+                    "weight": s.weight,
+                })
+            })
+            .collect();
+        if rows.is_empty() {
+            continue;
+        }
+        rows.sort_by(|a, b| a["name"].as_str().cmp(&b["name"].as_str()));
+        rows.shrink_to_fit();
+        groups.push(json!({
+            "bucket": bucket,
+            "bucket_label": label,
+            "bucket_weight": weights.buckets.get(bucket),
+            "rows": rows,
+        }));
+    }
+    groups
 }
 
 /// One display row for the leaderboard: score data + metadata merged, pre-ranked.
@@ -270,7 +360,7 @@ pub fn render_to(
     // AIDEV-NOTE: top movers come from history.json (appended by `score`).
     // Local rank deltas within THIS category vs the previous scoring day.
     // No history, or only one day of it → empty list, hub hides the section.
-    let movers = compute_movers(data_dir, scored);
+    let movers = compute_movers(data_dir, scored, category_key, category_name);
 
     // Leaderboard (per-category page, root="" for top-level links)
     let rows: Vec<Value> = ranked
@@ -309,27 +399,9 @@ pub fn render_to(
         ctx.insert("rank", &rank);
         ctx.insert("rank_total", &ranked.len());
         ctx.insert("owner", p.slug.split('/').next().unwrap_or(&p.slug));
-        let mut rows: Vec<_> = p
-            .signals
-            .as_ref()
-            .map(|m| {
-                let mut v: Vec<_> = m
-                    .iter()
-                    .map(|(name, s)| {
-                        json!({
-                            "name": name,
-                            "raw": (s.raw * 1000.0).round() / 1000.0,
-                            "score": (s.score * 1000.0).round() / 1000.0,
-                            "weight": s.weight,
-                        })
-                    })
-                    .collect();
-                v.sort_by(|a, b| a["name"].as_str().cmp(&b["name"].as_str()));
-                v
-            })
-            .unwrap_or_default();
-        rows.shrink_to_fit();
-        ctx.insert("signal_rows", &rows);
+        // AIDEV-NOTE: grouped + humanized signal rows (bucket headers are the
+        // visual grouping on the page; `name` stays snake_case for auditability).
+        ctx.insert("signal_groups", &signal_groups(p, &scored.weights));
         let file = out_dir.join(format!("projects/{}.html", p.slug.replace('/', "__")));
         write(&tera, "project.html", &ctx, &file)?;
     }
@@ -640,8 +712,13 @@ mod tests {
         let project =
             std::fs::read_to_string(dir.join("projects/nvim-telescope__telescope.nvim.html"))
                 .unwrap();
-        assert!(project.contains("Total score:"));
+        assert!(project.contains("Total score / 100"));
+        assert!(project.contains("score-anchor"));
         assert!(project.contains("Signal breakdown"));
+        // v3: grouped, humanized signal rows; snake_case keys kept as tooltips.
+        assert!(project.contains("Days since last commit"));
+        assert!(project.contains(r#"title="days_since_last_commit""#));
+        assert!(project.contains("Normalized"));
         assert!(project.contains("license_osi"));
         assert!(project.contains("19.7k"));
         // Project pages live one level deep — nav links must be ../-prefixed.

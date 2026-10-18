@@ -19,7 +19,23 @@
     · <a href="{{ root }}authors/{{ owner }}.html">more by {{ owner }}</a>
   </p>
   {% if p.total %}
-  <p><strong>Total score: {{ p.total }} / 100</strong></p>
+  <div class="score-anchor" style="margin:1.6rem 0 1.8rem;">
+    <div style="display:flex;align-items:center;gap:1.2rem;flex-wrap:wrap;">
+      <div class="score-num" style="font-size:3rem;font-weight:700;letter-spacing:-.05em;line-height:1;font-variant-numeric:tabular-nums;">{{ p.total }}</div>
+      <div style="flex:1 1 16rem;min-width:12rem;">
+        <div class="muted" style="font-size:.8rem;text-transform:uppercase;letter-spacing:.06em;margin-bottom:.25rem;">Total score / 100</div>
+        <span class="bar" style="width:100%;max-width:none;height:.7rem;display:block;"><span class="fill" style="width: {{ p.total }}%;"></span></span>
+        <p style="margin:.5rem 0 0;font-weight:600;">
+          {% if p.total >= 80 %}Healthy — actively maintained, safe to depend on.
+          {%- elif p.total >= 60 %}Solid — watch the trend.
+          {%- elif p.total >= 40 %}Slowing — dependence is a gamble.
+          {%- else %}At risk — scores the way it feels to depend on it.
+          {%- endif %}
+        </p>
+      </div>
+    </div>
+  </div>
+  <h2>Score by bucket</h2>
   <table>
     <thead><tr><th>Bucket</th><th class="num">Score (0–100)</th></tr></thead>
     <tbody>
@@ -29,14 +45,18 @@
     </tbody>
   </table>
   <h2>Signal breakdown</h2>
-  <table>
-    <thead><tr><th>Signal</th><th class="num">Raw value</th><th class="num">Score (0–1)</th><th class="num">Weight in bucket</th></tr></thead>
+  <p class="muted">Every number is auditable — the math that turned these signals into the score above.</p>
+  {% for g in signal_groups %}
+  <h3 style="margin-bottom:.3rem;">{{ g.bucket_label }} <span class="muted" style="font-weight:400;font-size:.85rem;">· weight {{ g.bucket_weight }}</span></h3>
+  <table style="margin-top:.3rem;">
+    <thead><tr><th>Signal</th><th class="num">Normalized</th><th class="num">Score (0–1)</th><th class="num">Weight in bucket</th></tr></thead>
     <tbody>
-    {% for row in signal_rows %}
-      <tr><td>{{ row.name }}</td><td class="num">{{ row.raw }}</td><td class="num">{{ row.score }}</td><td class="num">{{ row.weight }}</td></tr>
+    {% for row in g.rows %}
+      <tr><td title="{{ row.name }}">{{ row.label }}</td><td class="num">{{ row.raw }}</td><td class="num">{{ row.score }}</td><td class="num">{{ row.weight }}</td></tr>
     {% endfor %}
     </tbody>
   </table>
+  {% endfor %}
   {% else %}
   <p class="notice">This repository is <strong>{{ p.status }}</strong> — no score could be computed.</p>
   {% endif %}

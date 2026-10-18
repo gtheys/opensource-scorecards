@@ -11,9 +11,17 @@
   <p class="notice">
     Scores are normalized <strong>within this category</strong> and are
     <strong>not comparable across categories</strong>. Generated {{ generated_date }}.
+    Missing a project or see one unscored?
+    <a href="https://github.com/gtheys/opensource-scorecards/issues">Open an issue</a>.
   </p>
+  {# AIDEV-NOTE: progressive-enhancement filter — without JS the full table renders. #}
+  <div class="lb-filter" style="margin:0 0 .8rem;">
+    <label for="lb-search" style="display:block;font-size:.8rem;color:var(--pico-muted-color);margin-bottom:.25rem;">Filter projects</label>
+    <input type="search" id="lb-search" class="lb-search" placeholder="Filter projects…" autocomplete="off"
+           aria-controls="lb-table" style="max-width:26rem;" disabled>
+  </div>
   <div class="table-wrap">
-  <table>
+  <table id="lb-table">
     <thead><tr>
       <th>#</th><th class="col-project">Project</th><th class="col-desc">What it does</th><th class="col-owner">Owner</th><th class="col-licence">Licence</th>
       <th class="num col-score">Score</th><th class="num col-stars">Stars</th>
@@ -47,4 +55,22 @@
   </ul>
   {% endif %}
 </div>
+<script>
+// AIDEV-NOTE: dependency-free row filter. Input ships disabled + enabled here,
+// so no-JS visitors just get the full table. Matches slug + description text.
+(function () {
+  var input = document.getElementById('lb-search');
+  var table = document.getElementById('lb-table');
+  if (!input || !table) return;
+  input.disabled = false;
+  input.addEventListener('input', function () {
+    var q = input.value.trim().toLowerCase();
+    var rows = table.tBodies[0].rows;
+    for (var i = 0; i < rows.length; i++) {
+      var show = !q || rows[i].textContent.toLowerCase().indexOf(q) !== -1;
+      rows[i].hidden = !show;
+    }
+  });
+})();
+</script>
 {% endblock %}

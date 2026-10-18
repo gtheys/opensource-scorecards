@@ -2,6 +2,7 @@
 {% block content %}
 <div class="hero-band">
   <div class="hero-inner">
+    <p class="term-line" role="presentation"><span class="path">visitor@scorecards:~</span><span class="dollar">$</span> <span class="cmd">scorecards --rank --refresh nightly</span><span class="term-caret" aria-hidden="true"></span></p>
     <h1>Which open source plugins are actually maintained?</h1>
     <p class="hero-sub">
       Scorecards ranks <strong>{{ total_scored }} projects</strong> across
@@ -38,11 +39,12 @@
   <h2>Biggest movers</h2>
   <p class="muted" style="margin:0 0 .6rem;">Rank changes since the previous scoring day. Movers appear once history has two scoring days.</p>
   <table style="margin-top:.5rem;">
-    <thead><tr><th>Project</th><th class="num">Rank change</th><th class="num">Now</th><th class="num">Score</th></tr></thead>
+    <thead><tr><th>Project</th><th>Category</th><th class="num">Rank change</th><th class="num">Now</th><th class="num">Score</th></tr></thead>
     <tbody>
     {% for m in movers %}
       <tr>
         <td><a href="{{ root }}projects/{{ m.slug | replace(from="/", to="__") }}.html">{{ m.slug }}</a></td>
+        <td>{% if m.category %}<a class="cat-chip" href="{{ root }}{{ m.category }}.html">{{ m.category_name | default(value=m.category) }}</a>{% else %}<span class="muted">—</span>{% endif %}</td>
         <td class="num">{% if m.delta > 0 %}<span style="color:var(--accent);font-weight:700;">▲ +{{ m.delta }}</span>{% else %}<span class="muted">▼ {{ m.delta }}</span>{% endif %}</td>
         <td class="num">#{{ m.rank }}</td>
         <td class="num">{{ m.total }}</td>
