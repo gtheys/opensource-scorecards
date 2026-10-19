@@ -1,6 +1,6 @@
 {
   "slug": "pewpewnor/pilot.nvim",
-  "fetched_at": "2026-10-07T11:01:12.435459885Z",
+  "fetched_at": "2026-10-19T09:42:06.286459142Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "✈️ Run projects, source files, and arbitrary shell commands with placeholders & without reloading",
     "license_spdx": "Apache-2.0",
     "last_commit_at": "2026-09-16T05:57:45Z",
-    "commits_90d": 27,
+    "commits_90d": 26,
     "releases_365d": 0,
     "median_issue_close_days": 16.072413194444447,
     "median_pr_close_days": 1.0049479166666666,

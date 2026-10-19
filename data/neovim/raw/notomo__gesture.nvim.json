@@ -1,6 +1,6 @@
 {
   "slug": "notomo/gesture.nvim",
-  "fetched_at": "2026-10-07T10:56:33.179509576Z",
+  "fetched_at": "2026-10-19T09:37:19.982991347Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -8,8 +8,8 @@
     "forks": 2,
     "description": "Mouse gesture plugin for neovim",
     "license_spdx": "MIT",
-    "last_commit_at": "2026-09-05T12:41:44Z",
-    "commits_90d": 3,
+    "last_commit_at": "2026-10-17T11:56:43Z",
+    "commits_90d": 5,
     "releases_365d": 0,
     "median_issue_close_days": 0.7823958333333333,
     "median_pr_close_days": 0.005393518518518519,
@@ -24,6 +24,6 @@
     },
     "has_ci": true,
     "has_tests": true,
-    "readme_len": 2117
+    "readme_len": 2113
   }
 }

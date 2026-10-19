@@ -1,6 +1,6 @@
 {
   "slug": "3zsforinsomnia/revman.nvim",
-  "fetched_at": "2026-10-18T08:00:46.426110852Z",
+  "fetched_at": "2026-10-19T08:50:34.390456055Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -8,8 +8,8 @@
     "forks": 0,
     "description": "An easier way to track multiple PRs that you are reviewing",
     "license_spdx": "MIT",
-    "last_commit_at": "2026-04-21T15:16:53Z",
-    "commits_90d": 0,
+    "last_commit_at": "2026-10-18T18:27:00Z",
+    "commits_90d": 27,
     "releases_365d": 0,
     "median_issue_close_days": null,
     "median_pr_close_days": null,
@@ -23,7 +23,7 @@
       "other_repos_star_sum": 42
     },
     "has_ci": false,
-    "has_tests": false,
-    "readme_len": 6091
+    "has_tests": true,
+    "readme_len": 5320
   }
 }

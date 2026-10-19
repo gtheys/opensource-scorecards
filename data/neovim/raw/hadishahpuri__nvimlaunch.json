@@ -1,6 +1,6 @@
 {
   "slug": "hadishahpuri/nvimlaunch",
-  "fetched_at": "2026-10-18T08:21:16.662501220Z",
+  "fetched_at": "2026-10-19T09:15:13.974399766Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "A lightweight Neovim plugin that lets you define, run, and manage multiple project-specific commands directly from your editor. By creating a .nvimlaunch file in your project root",
     "license_spdx": "MIT",
     "last_commit_at": "2026-09-03T17:59:15Z",
-    "commits_90d": 2,
+    "commits_90d": 1,
     "releases_365d": 2,
     "median_issue_close_days": 44.84130787037037,
     "median_pr_close_days": null,

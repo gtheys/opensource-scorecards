@@ -1,11 +1,11 @@
 {
   "slug": "mrjones2014/legendary.nvim",
-  "fetched_at": "2026-10-07T10:53:10.903919330Z",
+  "fetched_at": "2026-10-19T09:33:42.199606913Z",
   "status": "ok",
   "data": {
     "archived": true,
     "stars": 1223,
-    "forks": 23,
+    "forks": 24,
     "description": "🗺️ A legend for your keymaps, commands, and autocmds, integrates with which-key.nvim, lazy.nvim, and more.",
     "license_spdx": "MIT",
     "last_commit_at": null,

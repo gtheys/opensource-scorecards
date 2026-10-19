@@ -1,10 +1,10 @@
 {
   "slug": "julian/lean.nvim",
-  "fetched_at": "2026-10-18T08:26:32.667779749Z",
+  "fetched_at": "2026-10-19T09:21:27.411835338Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 609,
+    "stars": 610,
     "forks": 63,
     "description": "Neovim support for the Lean theorem prover",
     "license_spdx": "MIT",
@@ -13,10 +13,10 @@
     "releases_365d": 1,
     "median_issue_close_days": 1.971880787037037,
     "median_pr_close_days": 4.860486111111111,
-    "open_issues": 39,
+    "open_issues": 40,
     "closed_issues_sampled": 14,
     "contributors_12mo": 9,
-    "top_author_commit_share": 0.9084668192219679,
+    "top_author_commit_share": 0.9078341013824884,
     "top_author": {
       "login": "Julian",
       "account_created_at": "2010-07-12T17:03:40Z",

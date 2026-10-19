@@ -1,10 +1,10 @@
 {
   "slug": "ray-x/aurora",
-  "fetched_at": "2026-10-07T11:03:36.885476617Z",
+  "fetched_at": "2026-10-19T09:44:38.177411339Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 377,
+    "stars": 376,
     "forks": 10,
     "description": "A vivid dark theme for modern Neovim.",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "ray-x",
       "account_created_at": "2012-04-26T09:15:35Z",
-      "other_repos_star_sum": 8726
+      "other_repos_star_sum": 8734
     },
     "has_ci": false,
     "has_tests": false,

@@ -1,15 +1,15 @@
 {
   "slug": "mawkler/jsx-element.nvim",
-  "fetched_at": "2026-10-07T10:48:52.220463418Z",
+  "fetched_at": "2026-10-19T09:29:30.889942915Z",
   "status": "ok",
   "data": {
     "archived": false,
     "stars": 28,
-    "forks": 4,
+    "forks": 3,
     "description": "JSX/TSX text-objects and motions for Neovim",
     "license_spdx": "MIT",
     "last_commit_at": "2026-07-20T10:04:50Z",
-    "commits_90d": 2,
+    "commits_90d": 0,
     "releases_365d": 0,
     "median_issue_close_days": 53.843287037037044,
     "median_pr_close_days": 23.798229166666665,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "mawkler",
       "account_created_at": "2015-11-12T12:52:11Z",
-      "other_repos_star_sum": 736
+      "other_repos_star_sum": 737
     },
     "has_ci": true,
     "has_tests": false,

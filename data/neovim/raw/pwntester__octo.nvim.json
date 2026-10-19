@@ -1,29 +1,29 @@
 {
   "slug": "pwntester/octo.nvim",
-  "fetched_at": "2026-10-07T11:02:21.017555817Z",
+  "fetched_at": "2026-10-19T09:43:18.157304545Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 3390,
-    "forks": 247,
+    "stars": 3399,
+    "forks": 252,
     "description": "Edit and review GitHub issues and pull requests from the comfort of your favorite editor",
     "license_spdx": "MIT",
-    "last_commit_at": "2026-08-28T20:36:38Z",
-    "commits_90d": 39,
+    "last_commit_at": "2026-10-13T14:38:42Z",
+    "commits_90d": 41,
     "releases_365d": 0,
-    "median_issue_close_days": 19.664623842592594,
-    "median_pr_close_days": 3.0428819444444444,
-    "open_issues": 249,
+    "median_issue_close_days": 11.758530092592594,
+    "median_pr_close_days": 6.060943287037038,
+    "open_issues": 252,
     "closed_issues_sampled": 14,
-    "contributors_12mo": 35,
-    "top_author_commit_share": 0.6374501992031872,
+    "contributors_12mo": 34,
+    "top_author_commit_share": 0.6300813008130082,
     "top_author": {
       "login": "williambdean",
       "account_created_at": "2019-11-13T23:01:45Z",
-      "other_repos_star_sum": 185
+      "other_repos_star_sum": 186
     },
     "has_ci": true,
     "has_tests": true,
-    "readme_len": 63605
+    "readme_len": 63821
   }
 }

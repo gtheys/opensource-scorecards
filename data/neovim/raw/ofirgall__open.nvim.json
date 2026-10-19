@@ -1,6 +1,6 @@
 {
   "slug": "ofirgall/open.nvim",
-  "fetched_at": "2026-10-07T10:59:13.449210433Z",
+  "fetched_at": "2026-10-19T09:40:10.060860081Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "ofirgall",
       "account_created_at": "2013-07-06T13:05:51Z",
-      "other_repos_star_sum": 1017
+      "other_repos_star_sum": 1020
     },
     "has_ci": true,
     "has_tests": false,

@@ -1,10 +1,10 @@
 {
   "slug": "ravsii/nvim-dap-envfile",
-  "fetched_at": "2026-10-07T11:03:25.387597614Z",
+  "fetched_at": "2026-10-19T09:44:28.601898432Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 13,
+    "stars": 14,
     "forks": 0,
     "description": "Support for envFile expanding for nvim-dap configurations",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "ravsii",
       "account_created_at": "2013-07-14T14:43:43Z",
-      "other_repos_star_sum": 110
+      "other_repos_star_sum": 112
     },
     "has_ci": true,
     "has_tests": true,

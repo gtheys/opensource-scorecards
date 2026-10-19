@@ -1,6 +1,6 @@
 {
   "slug": "qwavies/smart-backspace.nvim",
-  "fetched_at": "2026-10-07T11:02:40.622907239Z",
+  "fetched_at": "2026-10-19T09:43:38.199864785Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "Make your neovim feel more like an IDE! A neovim plugin giving you context-aware backspace, handling pairs, whitespace and indentation.",
     "license_spdx": "MIT",
     "last_commit_at": "2026-07-17T12:34:25Z",
-    "commits_90d": 3,
+    "commits_90d": 0,
     "releases_365d": 0,
     "median_issue_close_days": 0.16025462962962964,
     "median_pr_close_days": 0.20472800925925927,

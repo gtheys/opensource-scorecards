@@ -1,6 +1,6 @@
 {
   "slug": "mong8se/buffish.nvim",
-  "fetched_at": "2026-10-07T10:52:05.550581591Z",
+  "fetched_at": "2026-10-19T09:32:38.539989322Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -8,20 +8,16 @@
     "forks": 0,
     "description": "A buffer switcher in the spirit of dirvish or vinegar.",
     "license_spdx": "GPL-3.0",
-    "last_commit_at": "2025-10-13T13:37:43Z",
+    "last_commit_at": null,
     "commits_90d": 0,
     "releases_365d": 0,
     "median_issue_close_days": 24.597581018518518,
     "median_pr_close_days": 23.501261574074075,
     "open_issues": 0,
     "closed_issues_sampled": 1,
-    "contributors_12mo": 1,
-    "top_author_commit_share": 1.0,
-    "top_author": {
-      "login": "mong8se",
-      "account_created_at": "2010-05-20T20:12:59Z",
-      "other_repos_star_sum": 93
-    },
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
     "has_ci": false,
     "has_tests": false,
     "readme_len": 2845

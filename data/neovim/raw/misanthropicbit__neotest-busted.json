@@ -1,6 +1,6 @@
 {
   "slug": "misanthropicbit/neotest-busted",
-  "fetched_at": "2026-10-07T10:51:02.912452448Z",
+  "fetched_at": "2026-10-19T09:31:38.743412648Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -10,13 +10,13 @@
     "license_spdx": "BSD-3-Clause",
     "last_commit_at": "2026-04-02T18:10:08Z",
     "commits_90d": 0,
-    "releases_365d": 3,
+    "releases_365d": 2,
     "median_issue_close_days": 62.62343171296297,
     "median_pr_close_days": 4.217679398148148,
     "open_issues": 7,
     "closed_issues_sampled": 8,
-    "contributors_12mo": 2,
-    "top_author_commit_share": 0.9166666666666666,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
     "top_author": {
       "login": "MisanthropicBit",
       "account_created_at": "2012-06-13T11:11:26Z",

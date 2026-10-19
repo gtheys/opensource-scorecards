@@ -1,10 +1,10 @@
 {
   "slug": "niuiic/git-log.nvim",
-  "fetched_at": "2026-10-07T10:55:42.208105802Z",
+  "fetched_at": "2026-10-19T09:36:20.630212181Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 21,
+    "stars": 22,
     "forks": 0,
     "description": "Check git log of the selected code.",
     "license_spdx": "MIT",

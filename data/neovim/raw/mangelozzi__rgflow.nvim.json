@@ -1,11 +1,11 @@
 {
   "slug": "mangelozzi/rgflow.nvim",
-  "fetched_at": "2026-10-07T10:48:00.324613177Z",
+  "fetched_at": "2026-10-19T09:28:40.327192058Z",
   "status": "ok",
   "data": {
     "archived": false,
     "stars": 107,
-    "forks": 3,
+    "forks": 2,
     "description": "Help you get in the flow with ripgrep in Neovim",
     "license_spdx": null,
     "last_commit_at": null,

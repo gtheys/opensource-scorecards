@@ -1,10 +1,10 @@
 {
   "slug": "mr-u0b0dy/crazy-coverage.nvim",
-  "fetched_at": "2026-10-07T10:52:42.061381032Z",
+  "fetched_at": "2026-10-19T09:33:14.309853035Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 21,
+    "stars": 22,
     "forks": 4,
     "description": "Neovim plugin for displaying code coverage",
     "license_spdx": "Apache-2.0",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "mr-u0b0dy",
       "account_created_at": "2020-04-15T14:21:48Z",
-      "other_repos_star_sum": 32
+      "other_repos_star_sum": 33
     },
     "has_ci": true,
     "has_tests": true,

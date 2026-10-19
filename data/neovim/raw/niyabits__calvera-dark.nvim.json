@@ -1,11 +1,11 @@
 {
   "slug": "niyabits/calvera-dark.nvim",
-  "fetched_at": "2026-10-07T10:56:04.411896134Z",
+  "fetched_at": "2026-10-19T09:36:45.456459268Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 160,
-    "forks": 8,
+    "stars": 159,
+    "forks": 7,
     "description": "Calvera Dark Colorscheme for Neovim written in Lua with built-in support for native LSP, TreeSitter and many more plugins",
     "license_spdx": "GPL-2.0",
     "last_commit_at": null,

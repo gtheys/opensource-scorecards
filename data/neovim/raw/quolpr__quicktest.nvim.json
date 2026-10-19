@@ -1,6 +1,6 @@
 {
   "slug": "quolpr/quicktest.nvim",
-  "fetched_at": "2026-10-07T11:02:36.521275006Z",
+  "fetched_at": "2026-10-19T09:43:34.352500831Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "quolpr",
       "account_created_at": "2014-06-22T20:19:01Z",
-      "other_repos_star_sum": 293
+      "other_repos_star_sum": 294
     },
     "has_ci": true,
     "has_tests": true,

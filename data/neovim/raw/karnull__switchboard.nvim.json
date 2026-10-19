@@ -1,6 +1,6 @@
 {
   "slug": "karnull/switchboard.nvim",
-  "fetched_at": "2026-10-18T08:27:26.111245654Z",
+  "fetched_at": "2026-10-19T09:22:32.021886768Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "karnull",
       "account_created_at": "2021-11-24T20:36:23Z",
-      "other_repos_star_sum": 74
+      "other_repos_star_sum": 76
     },
     "has_ci": false,
     "has_tests": false,

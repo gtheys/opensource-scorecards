@@ -1,15 +1,15 @@
 {
   "slug": "letieu/jira.nvim",
-  "fetched_at": "2026-10-18T08:30:27.748218760Z",
+  "fetched_at": "2026-10-19T09:25:57.123626964Z",
   "status": "ok",
   "data": {
     "archived": false,
     "stars": 270,
-    "forks": 13,
+    "forks": 14,
     "description": "I got tired of opening my browser for Jira",
     "license_spdx": "MIT",
     "last_commit_at": "2026-09-26T02:56:04Z",
-    "commits_90d": 9,
+    "commits_90d": 7,
     "releases_365d": 21,
     "median_issue_close_days": 15.655972222222223,
     "median_pr_close_days": 0.006273148148148148,

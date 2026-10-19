@@ -1,10 +1,10 @@
 {
   "slug": "ntbbloodbath/doom-one.nvim",
-  "fetched_at": "2026-10-07T10:56:36.388288950Z",
+  "fetched_at": "2026-10-19T09:37:23.069417485Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 250,
+    "stars": 249,
     "forks": 34,
     "description": "doom-emacs' doom-one Lua port for Neovim",
     "license_spdx": "MIT",

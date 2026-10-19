@@ -1,6 +1,6 @@
 {
   "slug": "noir4y/comment-translate.nvim",
-  "fetched_at": "2026-10-07T10:56:14.315942042Z",
+  "fetched_at": "2026-10-19T09:36:56.685116559Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -8,13 +8,13 @@
     "forks": 3,
     "description": "Translate code comments and strings in Neovim using online or local LLMs and external translators.",
     "license_spdx": "MIT",
-    "last_commit_at": "2026-07-03T05:19:36Z",
-    "commits_90d": 0,
-    "releases_365d": 4,
-    "median_issue_close_days": 9.49712962962963,
-    "median_pr_close_days": 0.0038194444444444443,
-    "open_issues": 2,
-    "closed_issues_sampled": 1,
+    "last_commit_at": "2026-10-11T13:16:36Z",
+    "commits_90d": 17,
+    "releases_365d": 6,
+    "median_issue_close_days": 8.030208333333333,
+    "median_pr_close_days": 0.0045138888888888885,
+    "open_issues": 0,
+    "closed_issues_sampled": 3,
     "contributors_12mo": 1,
     "top_author_commit_share": 1.0,
     "top_author": {
@@ -24,6 +24,6 @@
     },
     "has_ci": true,
     "has_tests": true,
-    "readme_len": 5251
+    "readme_len": 13032
   }
 }

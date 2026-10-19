@@ -1,6 +1,6 @@
 {
   "slug": "millerjason/neovimacs.nvim",
-  "fetched_at": "2026-10-07T10:50:53.163146992Z",
+  "fetched_at": "2026-10-19T09:31:30.188464537Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "Vimacs for the Neovim era.",
     "license_spdx": "GPL-2.0",
     "last_commit_at": "2026-08-10T23:20:55Z",
-    "commits_90d": 6,
+    "commits_90d": 5,
     "releases_365d": 4,
     "median_issue_close_days": 79.00587962962963,
     "median_pr_close_days": 0.00018518518518518518,

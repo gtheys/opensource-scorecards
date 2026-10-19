@@ -1,29 +1,29 @@
 {
   "slug": "mrjones2014/smart-splits.nvim",
-  "fetched_at": "2026-10-07T10:53:12.893890036Z",
+  "fetched_at": "2026-10-19T09:33:44.153715973Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 1735,
-    "forks": 77,
+    "stars": 1738,
+    "forks": 78,
     "description": "🧠 Smart, seamless, directional navigation and resizing of Neovim + terminal multiplexer splits. Supports Zellij, Tmux, Wezterm, and Kitty. Think about splits in terms of \"up/down/left/right\".",
     "license_spdx": "MIT",
-    "last_commit_at": "2026-09-07T17:54:10Z",
-    "commits_90d": 30,
+    "last_commit_at": "2026-10-16T17:49:13Z",
+    "commits_90d": 63,
     "releases_365d": 3,
-    "median_issue_close_days": 65.35945601851851,
-    "median_pr_close_days": 0.1932349537037037,
-    "open_issues": 2,
+    "median_issue_close_days": 102.50472800925925,
+    "median_pr_close_days": 0.006834490740740741,
+    "open_issues": 0,
     "closed_issues_sampled": 28,
-    "contributors_12mo": 10,
-    "top_author_commit_share": 0.74375,
+    "contributors_12mo": 8,
+    "top_author_commit_share": 0.7790055248618785,
     "top_author": {
       "login": "mrjones2014",
       "account_created_at": "2014-09-03T23:51:58Z",
-      "other_repos_star_sum": 2348
+      "other_repos_star_sum": 2349
     },
     "has_ci": true,
     "has_tests": true,
-    "readme_len": 30428
+    "readme_len": 20838
   }
 }

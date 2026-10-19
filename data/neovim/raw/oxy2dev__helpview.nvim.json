@@ -1,6 +1,6 @@
 {
   "slug": "oxy2dev/helpview.nvim",
-  "fetched_at": "2026-10-07T11:00:39.283961433Z",
+  "fetched_at": "2026-10-19T09:41:33.654059370Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "OXY2DEV",
       "account_created_at": "2023-01-18T04:51:04Z",
-      "other_repos_star_sum": 4861
+      "other_repos_star_sum": 4868
     },
     "has_ci": true,
     "has_tests": false,

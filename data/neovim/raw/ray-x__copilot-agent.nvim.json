@@ -1,11 +1,11 @@
 {
   "slug": "ray-x/copilot-agent.nvim",
-  "fetched_at": "2026-10-07T11:03:39.960360266Z",
+  "fetched_at": "2026-10-19T09:44:41.519712587Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 16,
-    "forks": 0,
+    "stars": 17,
+    "forks": 1,
     "description": "An autonomous orchestrator for the Copilot Go SDK in Neovim, delivering a native, agentic coding experience.",
     "license_spdx": "NOASSERTION",
     "last_commit_at": "2026-05-19T05:54:37Z",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "ray-x",
       "account_created_at": "2012-04-26T09:15:35Z",
-      "other_repos_star_sum": 8726
+      "other_repos_star_sum": 8734
     },
     "has_ci": true,
     "has_tests": true,

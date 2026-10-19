@@ -1,6 +1,6 @@
 {
   "slug": "ag-libs/lathe.nvim",
-  "fetched_at": "2026-10-18T08:02:18.832162505Z",
+  "fetched_at": "2026-10-19T08:52:19.747598903Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -8,8 +8,8 @@
     "forks": 0,
     "description": "Neovim client for Lathe, the Java language server for Maven projects.",
     "license_spdx": "Apache-2.0",
-    "last_commit_at": "2026-10-11T14:17:47Z",
-    "commits_90d": 11,
+    "last_commit_at": "2026-10-18T15:35:43Z",
+    "commits_90d": 12,
     "releases_365d": 0,
     "median_issue_close_days": null,
     "median_pr_close_days": null,

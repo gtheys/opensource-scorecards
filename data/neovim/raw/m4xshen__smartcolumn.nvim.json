@@ -1,15 +1,15 @@
 {
   "slug": "m4xshen/smartcolumn.nvim",
-  "fetched_at": "2026-10-07T10:47:45.447114827Z",
+  "fetched_at": "2026-10-19T09:28:27.051428462Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 370,
+    "stars": 371,
     "forks": 18,
     "description": "A Neovim plugin hiding your colorcolumn when unneeded.",
     "license_spdx": "MIT",
     "last_commit_at": "2026-09-13T08:12:52Z",
-    "commits_90d": 2,
+    "commits_90d": 1,
     "releases_365d": 0,
     "median_issue_close_days": 11.385046296296297,
     "median_pr_close_days": 5.798506944444444,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "m4xshen",
       "account_created_at": "2020-11-22T01:01:41Z",
-      "other_repos_star_sum": 5493
+      "other_repos_star_sum": 5522
     },
     "has_ci": false,
     "has_tests": false,

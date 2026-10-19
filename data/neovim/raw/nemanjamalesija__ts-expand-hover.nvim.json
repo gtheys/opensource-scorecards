@@ -1,16 +1,16 @@
 {
   "slug": "nemanjamalesija/ts-expand-hover.nvim",
-  "fetched_at": "2026-10-07T10:54:28.585895689Z",
+  "fetched_at": "2026-10-19T09:34:58.389819420Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 76,
-    "forks": 3,
-    "description": "Progressively expand TypeScript types inside hover floats.",
+    "stars": 79,
+    "forks": 4,
+    "description": "Expandable TypeScript type hover for Neovim (vtsls and TypeScript 7)",
     "license_spdx": null,
-    "last_commit_at": "2026-09-30T08:38:04Z",
-    "commits_90d": 3,
-    "releases_365d": 0,
+    "last_commit_at": "2026-10-13T11:31:46Z",
+    "commits_90d": 23,
+    "releases_365d": 1,
     "median_issue_close_days": 205.9900925925926,
     "median_pr_close_days": null,
     "open_issues": 1,
@@ -20,10 +20,10 @@
     "top_author": {
       "login": "nemanjamalesija",
       "account_created_at": "2022-06-18T17:49:58Z",
-      "other_repos_star_sum": 265
+      "other_repos_star_sum": 268
     },
     "has_ci": true,
     "has_tests": true,
-    "readme_len": 7075
+    "readme_len": 5318
   }
 }

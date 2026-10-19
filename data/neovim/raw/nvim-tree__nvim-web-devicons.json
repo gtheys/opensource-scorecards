@@ -1,6 +1,6 @@
 {
   "slug": "nvim-tree/nvim-web-devicons",
-  "fetched_at": "2026-10-07T10:58:04.544650425Z",
+  "fetched_at": "2026-10-19T09:38:58.244422229Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,10 +9,10 @@
     "description": "Provides Nerd Font icons (glyphs) for use by neovim plugins",
     "license_spdx": "MIT",
     "last_commit_at": "2026-09-21T00:43:37Z",
-    "commits_90d": 7,
+    "commits_90d": 5,
     "releases_365d": 0,
     "median_issue_close_days": 1.67484375,
-    "median_pr_close_days": 1.0204398148148148,
+    "median_pr_close_days": 1.0712962962962962,
     "open_issues": 16,
     "closed_issues_sampled": 8,
     "contributors_12mo": 18,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "alex-courtis",
       "account_created_at": "2012-03-06T02:59:32Z",
-      "other_repos_star_sum": 690
+      "other_repos_star_sum": 689
     },
     "has_ci": true,
     "has_tests": false,

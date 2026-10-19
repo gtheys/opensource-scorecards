@@ -1,11 +1,11 @@
 {
   "slug": "justinmk/guh.nvim",
-  "fetched_at": "2026-10-18T08:26:59.426220943Z",
+  "fetched_at": "2026-10-19T09:21:59.109702864Z",
   "status": "ok",
   "data": {
     "archived": false,
     "stars": 223,
-    "forks": 9,
+    "forks": 10,
     "description": "Work with GitHub in Neovim 🌊",
     "license_spdx": "MIT",
     "last_commit_at": "2026-06-24T12:56:30Z",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "justinmk",
       "account_created_at": "2012-01-20T17:37:03Z",
-      "other_repos_star_sum": 5944
+      "other_repos_star_sum": 5945
     },
     "has_ci": true,
     "has_tests": true,

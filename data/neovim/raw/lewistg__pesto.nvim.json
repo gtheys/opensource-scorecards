@@ -1,6 +1,6 @@
 {
   "slug": "lewistg/pesto.nvim",
-  "fetched_at": "2026-10-18T08:30:39.296420934Z",
+  "fetched_at": "2026-10-19T09:26:11.338187113Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -10,7 +10,7 @@
     "license_spdx": "Apache-2.0",
     "last_commit_at": "2026-07-11T18:54:25Z",
     "commits_90d": 0,
-    "releases_365d": 0,
+    "releases_365d": 1,
     "median_issue_close_days": null,
     "median_pr_close_days": 0.0008333333333333333,
     "open_issues": 1,

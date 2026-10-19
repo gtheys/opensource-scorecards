@@ -1,10 +1,10 @@
 {
   "slug": "oscarcreator/rsync.nvim",
-  "fetched_at": "2026-10-07T11:00:08.834981969Z",
+  "fetched_at": "2026-10-19T09:41:02.921813421Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 102,
+    "stars": 103,
     "forks": 17,
     "description": "neovim plugin which synchronises project with rsync on save.",
     "license_spdx": "MIT",

@@ -1,6 +1,6 @@
 {
   "slug": "brianhuster/live-preview.nvim",
-  "fetched_at": "2026-10-18T08:07:36.548389025Z",
+  "fetched_at": "2026-10-19T08:58:32.922943172Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "A Live Preview Plugin for Neovim that allows you to view Markdown, HTML (along with CSS, JavaScript), AsciiDoc, SVG files in a web browser with live updates.",
     "license_spdx": "GPL-3.0",
     "last_commit_at": "2026-08-25T04:45:07Z",
-    "commits_90d": 2,
+    "commits_90d": 1,
     "releases_365d": 2,
     "median_issue_close_days": 38.881770833333334,
     "median_pr_close_days": 0.4149421296296296,

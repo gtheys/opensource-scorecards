@@ -1,6 +1,6 @@
 {
   "slug": "oxy2dev/markdoc.nvim",
-  "fetched_at": "2026-10-07T11:00:42.237849354Z",
+  "fetched_at": "2026-10-19T09:41:36.314434421Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -10,7 +10,7 @@
     "license_spdx": "MIT",
     "last_commit_at": "2025-11-14T17:56:29Z",
     "commits_90d": 0,
-    "releases_365d": 2,
+    "releases_365d": 1,
     "median_issue_close_days": 0.07141782407407407,
     "median_pr_close_days": 10.180613425925925,
     "open_issues": 1,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "OXY2DEV",
       "account_created_at": "2023-01-18T04:51:04Z",
-      "other_repos_star_sum": 4861
+      "other_repos_star_sum": 4868
     },
     "has_ci": true,
     "has_tests": false,

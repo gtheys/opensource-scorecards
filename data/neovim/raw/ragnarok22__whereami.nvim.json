@@ -1,6 +1,6 @@
 {
   "slug": "ragnarok22/whereami.nvim",
-  "fetched_at": "2026-10-07T11:03:06.657632224Z",
+  "fetched_at": "2026-10-19T09:44:08.825587596Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "A simple plugin for neovim to get the current location",
     "license_spdx": "GPL-3.0",
     "last_commit_at": "2026-07-10T18:20:09Z",
-    "commits_90d": 56,
+    "commits_90d": 0,
     "releases_365d": 0,
     "median_issue_close_days": 1.0727662037037038,
     "median_pr_close_days": 0.0067708333333333336,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "ragnarok22",
       "account_created_at": "2014-09-20T01:14:54Z",
-      "other_repos_star_sum": 163
+      "other_repos_star_sum": 164
     },
     "has_ci": true,
     "has_tests": true,

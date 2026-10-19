@@ -1,10 +1,10 @@
 {
   "slug": "numtostr/fterm.nvim",
-  "fetched_at": "2026-10-07T10:56:55.893484064Z",
+  "fetched_at": "2026-10-19T09:37:44.284540567Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 807,
+    "stars": 808,
     "forks": 28,
     "description": ":fire: No-nonsense floating terminal plugin for neovim :fire:",
     "license_spdx": "MIT",

@@ -1,6 +1,6 @@
 {
   "slug": "embark-theme/vim",
-  "fetched_at": "2026-10-18T08:16:26.144324539Z",
+  "fetched_at": "2026-10-19T09:09:22.704848416Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "An ambitious theme for vim",
     "license_spdx": "MIT",
     "last_commit_at": "2026-07-21T02:19:19Z",
-    "commits_90d": 1,
+    "commits_90d": 0,
     "releases_365d": 0,
     "median_issue_close_days": 10.077291666666667,
     "median_pr_close_days": 0.0008217592592592593,

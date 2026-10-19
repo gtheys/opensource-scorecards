@@ -1,10 +1,10 @@
 {
   "slug": "mizlan/iswap.nvim",
-  "fetched_at": "2026-10-07T10:51:28.610042132Z",
+  "fetched_at": "2026-10-19T09:32:01.744733831Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 526,
+    "stars": 525,
     "forks": 22,
     "description": "Interactively select and swap function arguments, list elements, and much more. Powered by tree-sitter.",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "mizlan",
       "account_created_at": "2018-10-20T02:20:58Z",
-      "other_repos_star_sum": 839
+      "other_repos_star_sum": 838
     },
     "has_ci": false,
     "has_tests": false,

@@ -1,11 +1,11 @@
 {
   "slug": "muniftanjim/nui.nvim",
-  "fetched_at": "2026-10-07T10:53:34.527194914Z",
+  "fetched_at": "2026-10-19T09:34:06.338279204Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 2129,
-    "forks": 82,
+    "stars": 2131,
+    "forks": 83,
     "description": "UI Component Library for Neovim.",
     "license_spdx": "MIT",
     "last_commit_at": "2026-08-20T19:28:44Z",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "MunifTanjim",
       "account_created_at": "2014-07-02T18:10:44Z",
-      "other_repos_star_sum": 244
+      "other_repos_star_sum": 245
     },
     "has_ci": true,
     "has_tests": true,

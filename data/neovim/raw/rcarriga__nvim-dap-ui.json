@@ -1,15 +1,15 @@
 {
   "slug": "rcarriga/nvim-dap-ui",
-  "fetched_at": "2026-10-07T11:04:02.012055969Z",
+  "fetched_at": "2026-10-19T09:45:05.434240289Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 3379,
+    "stars": 3383,
     "forks": 126,
     "description": "A UI for nvim-dap",
     "license_spdx": "MIT",
     "last_commit_at": "2026-07-14T06:51:07Z",
-    "commits_90d": 3,
+    "commits_90d": 0,
     "releases_365d": 0,
     "median_issue_close_days": 12.690381944444445,
     "median_pr_close_days": 23.831157407407407,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "rcarriga",
       "account_created_at": "2016-11-29T16:08:19Z",
-      "other_repos_star_sum": 7557
+      "other_repos_star_sum": 7559
     },
     "has_ci": true,
     "has_tests": true,

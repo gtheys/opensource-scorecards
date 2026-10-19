@@ -1,10 +1,10 @@
 {
   "slug": "rafcamlet/nvim-luapad",
-  "fetched_at": "2026-10-07T11:03:02.607618104Z",
+  "fetched_at": "2026-10-19T09:44:04.374968472Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 690,
+    "stars": 688,
     "forks": 6,
     "description": "Interactive real time neovim scratchpad for embedded lua engine - type and watch!",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "rafcamlet",
       "account_created_at": "2014-09-14T13:12:55Z",
-      "other_repos_star_sum": 936
+      "other_repos_star_sum": 934
     },
     "has_ci": false,
     "has_tests": true,

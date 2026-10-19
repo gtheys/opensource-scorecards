@@ -506,6 +506,8 @@ repos:
   - igorlfs/nvim-dap-view
   - ilyasyoy/obs.nvim
   - imbacraft/dusk.nvim
+  - imngzx/jisho.nvim
+  - imngzx/resonance.nvim
   - imranzero/multiterm.nvim
   - indium114/cheaty.nvim
   - indium114/smudge.nvim
@@ -1090,6 +1092,7 @@ repos:
   - rutatang/compter.nvim
   - ryan-work/ohm
   - ryanoasis/vim-devicons
+  - ryutaro-asada/partial-diff.nvim
   - s1n7ax/nvim-comment-frame
   - s1n7ax/nvim-search-and-replace
   - s1n7ax/nvim-terminal
@@ -1277,6 +1280,7 @@ repos:
   - tpope/vim-dadbod
   - tpope/vim-unimpaired
   - trevorhauter/gitportal.nvim
+  - trimclain/builder.nvim
   - tris203/hawtkeys.nvim
   - tris203/precognition.nvim
   - tristone13th/lspmark.nvim

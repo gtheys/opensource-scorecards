@@ -1,10 +1,10 @@
 {
   "slug": "gh-tui-tools/gh-review.nvim",
-  "fetched_at": "2026-10-18T08:20:24.823161345Z",
+  "fetched_at": "2026-10-19T09:14:14.343784751Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 31,
+    "stars": 32,
     "forks": 4,
     "description": "🤔 Review GitHub PRs in Neovim",
     "license_spdx": "Apache-2.0",

@@ -1,6 +1,6 @@
 {
   "slug": "notomo/cmdbuf.nvim",
-  "fetched_at": "2026-10-07T10:56:29.314371172Z",
+  "fetched_at": "2026-10-19T09:37:16.188421854Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -8,8 +8,8 @@
     "forks": 6,
     "description": "Alternative command-line window plugin for neovim",
     "license_spdx": "MIT",
-    "last_commit_at": "2026-08-09T01:52:00Z",
-    "commits_90d": 1,
+    "last_commit_at": "2026-10-17T11:54:25Z",
+    "commits_90d": 2,
     "releases_365d": 0,
     "median_issue_close_days": 0.3811111111111111,
     "median_pr_close_days": 0.46199074074074076,

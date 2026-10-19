@@ -1,11 +1,11 @@
 {
   "slug": "potamides/pantran.nvim",
-  "fetched_at": "2026-10-07T11:01:58.214229658Z",
+  "fetched_at": "2026-10-19T09:42:54.706115710Z",
   "status": "ok",
   "data": {
     "archived": false,
     "stars": 333,
-    "forks": 9,
+    "forks": 11,
     "description": "Use your favorite machine translation engines without having to leave your favorite editor.",
     "license_spdx": "MIT",
     "last_commit_at": null,
@@ -13,7 +13,7 @@
     "releases_365d": 0,
     "median_issue_close_days": 3.754583333333333,
     "median_pr_close_days": 6.416880787037037,
-    "open_issues": 11,
+    "open_issues": 12,
     "closed_issues_sampled": 17,
     "contributors_12mo": 0,
     "top_author_commit_share": 0.0,

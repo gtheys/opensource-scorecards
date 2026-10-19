@@ -1,11 +1,11 @@
 {
   "slug": "bngarren/checkmate.nvim",
-  "fetched_at": "2026-10-18T08:07:21.979818214Z",
+  "fetched_at": "2026-10-19T08:58:15.596686368Z",
   "status": "ok",
   "data": {
     "archived": false,
     "stars": 380,
-    "forks": 7,
+    "forks": 8,
     "description": "A full-featured, Markdown-based Neovim todo plugin",
     "license_spdx": "MIT",
     "last_commit_at": "2026-04-25T18:59:00Z",
