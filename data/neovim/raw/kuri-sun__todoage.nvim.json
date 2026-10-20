@@ -1,6 +1,6 @@
 {
   "slug": "kuri-sun/todoage.nvim",
-  "fetched_at": "2026-10-19T09:25:03.473468503Z",
+  "fetched_at": "2026-10-20T09:05:33.715356906Z",
   "status": "ok",
   "data": {
     "archived": true,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "harukikuri",
       "account_created_at": "2020-03-27T09:01:22Z",
-      "other_repos_star_sum": 84
+      "other_repos_star_sum": 92
     },
     "has_ci": true,
     "has_tests": true,

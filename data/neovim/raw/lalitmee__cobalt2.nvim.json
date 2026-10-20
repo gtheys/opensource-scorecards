@@ -1,10 +1,10 @@
 {
   "slug": "lalitmee/cobalt2.nvim",
-  "fetched_at": "2026-10-19T09:25:21.994473798Z",
+  "fetched_at": "2026-10-20T09:05:53.733989938Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 116,
+    "stars": 115,
     "forks": 13,
     "description": "cobalt2 theme for neovim in Lua using colorbuddy",
     "license_spdx": "MIT",

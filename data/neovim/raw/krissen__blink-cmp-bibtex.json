@@ -1,6 +1,6 @@
 {
   "slug": "krissen/blink-cmp-bibtex",
-  "fetched_at": "2026-10-19T09:24:49.779611884Z",
+  "fetched_at": "2026-10-20T09:05:19.999135485Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "krissen",
       "account_created_at": "2012-12-02T10:49:04Z",
-      "other_repos_star_sum": 176
+      "other_repos_star_sum": 177
     },
     "has_ci": true,
     "has_tests": true,

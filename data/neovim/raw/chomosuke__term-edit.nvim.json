@@ -1,10 +1,10 @@
 {
   "slug": "chomosuke/term-edit.nvim",
-  "fetched_at": "2026-10-19T08:59:57.302304814Z",
+  "fetched_at": "2026-10-20T08:40:45.192475208Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 217,
+    "stars": 216,
     "forks": 5,
     "description": "Vim Keybindings in Neovim's Built-in Terminal",
     "license_spdx": "GPL-3.0",

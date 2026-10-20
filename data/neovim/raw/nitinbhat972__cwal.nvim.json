@@ -1,10 +1,10 @@
 {
   "slug": "nitinbhat972/cwal.nvim",
-  "fetched_at": "2026-10-19T09:36:08.740877296Z",
+  "fetched_at": "2026-10-20T09:17:01.956701730Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 19,
+    "stars": 18,
     "forks": 0,
     "description": "Dynamic Neovim colorscheme using cwal-generated palettes.",
     "license_spdx": "GPL-3.0",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "nitinbhat972",
       "account_created_at": "2021-03-07T05:41:47Z",
-      "other_repos_star_sum": 164
+      "other_repos_star_sum": 163
     },
     "has_ci": false,
     "has_tests": false,

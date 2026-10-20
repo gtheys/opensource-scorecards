@@ -1,11 +1,11 @@
 {
   "slug": "nvim-treesitter/nvim-treesitter",
-  "fetched_at": "2026-10-19T09:39:01.276498365Z",
+  "fetched_at": "2026-10-20T09:19:55.545046511Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 14473,
-    "forks": 1442,
+    "stars": 14474,
+    "forks": 1443,
     "description": "Nvim Treesitter configurations and abstraction layer",
     "license_spdx": "Apache-2.0",
     "last_commit_at": "2026-10-19T08:33:42Z",

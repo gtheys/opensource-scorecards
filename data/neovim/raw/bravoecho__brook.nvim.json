@@ -1,6 +1,6 @@
 {
   "slug": "bravoecho/brook.nvim",
-  "fetched_at": "2026-10-19T08:58:21.348406875Z",
+  "fetched_at": "2026-10-20T08:39:04.204282851Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "Ripgrep that feels like Vim",
     "license_spdx": "MIT",
     "last_commit_at": "2026-10-16T14:31:39Z",
-    "commits_90d": 15,
+    "commits_90d": 14,
     "releases_365d": 0,
     "median_issue_close_days": null,
     "median_pr_close_days": null,

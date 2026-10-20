@@ -1,6 +1,6 @@
 {
   "slug": "folke/tokyonight.nvim",
-  "fetched_at": "2026-10-19T09:12:27.269783155Z",
+  "fetched_at": "2026-10-20T08:52:20.445778165Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -15,12 +15,12 @@
     "median_pr_close_days": 127.88564236111111,
     "open_issues": 20,
     "closed_issues_sampled": 14,
-    "contributors_12mo": 15,
-    "top_author_commit_share": 0.6984126984126984,
+    "contributors_12mo": 12,
+    "top_author_commit_share": 0.7241379310344828,
     "top_author": {
       "login": "folke",
       "account_created_at": "2010-05-31T14:14:10Z",
-      "other_repos_star_sum": 42273
+      "other_repos_star_sum": 42277
     },
     "has_ci": true,
     "has_tests": true,

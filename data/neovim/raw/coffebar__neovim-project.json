@@ -1,10 +1,10 @@
 {
   "slug": "coffebar/neovim-project",
-  "fetched_at": "2026-10-19T09:02:11.374911623Z",
+  "fetched_at": "2026-10-20T08:42:53.393896149Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 305,
+    "stars": 306,
     "forks": 25,
     "description": "Neovim project plugin simplifies project management by maintaining project history and providing quick access to projects via Telescope, snacks.nvim or fzf-lua",
     "license_spdx": "Apache-2.0",

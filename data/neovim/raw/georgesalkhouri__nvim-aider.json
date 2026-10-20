@@ -1,10 +1,10 @@
 {
   "slug": "georgesalkhouri/nvim-aider",
-  "fetched_at": "2026-10-19T09:13:53.697543095Z",
+  "fetched_at": "2026-10-20T08:53:49.404667437Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 377,
+    "stars": 376,
     "forks": 28,
     "description": "🤖 Seamlessly integrate Aider with Neovim for an enhanced AI-assisted coding experience!",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "GeorgesAlkhouri",
       "account_created_at": "2013-12-01T10:38:06Z",
-      "other_repos_star_sum": 412
+      "other_repos_star_sum": 411
     },
     "has_ci": true,
     "has_tests": true,

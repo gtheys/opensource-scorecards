@@ -1,6 +1,6 @@
 {
   "slug": "dafi-1/tasknvim",
-  "fetched_at": "2026-10-19T09:04:40.760596242Z",
+  "fetched_at": "2026-10-20T08:45:09.533939441Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "DaFi-1",
       "account_created_at": "2026-04-22T20:47:41Z",
-      "other_repos_star_sum": 78
+      "other_repos_star_sum": 84
     },
     "has_ci": false,
     "has_tests": false,

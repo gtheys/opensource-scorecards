@@ -1,10 +1,10 @@
 {
   "slug": "indium114/cheaty.nvim",
-  "fetched_at": "2026-10-19T09:17:34.473343598Z",
+  "fetched_at": "2026-10-20T08:57:38.467079673Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 11,
+    "stars": 10,
     "forks": 1,
     "description": "A simple plugin that allows you to create a configurable pop-up cheatsheet!",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "indium114",
       "account_created_at": "2024-01-10T05:28:54Z",
-      "other_repos_star_sum": 166
+      "other_repos_star_sum": 165
     },
     "has_ci": true,
     "has_tests": false,

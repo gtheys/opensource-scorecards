@@ -1,10 +1,10 @@
 {
   "slug": "acidsugarx/babel.nvim",
-  "fetched_at": "2026-10-19T08:51:30.618745849Z",
+  "fetched_at": "2026-10-20T08:32:04.588937166Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 14,
+    "stars": 13,
     "forks": 2,
     "description": "🌍 Translate text without leaving Neovim",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "acidsugarx",
       "account_created_at": "2019-12-15T09:14:11Z",
-      "other_repos_star_sum": 21
+      "other_repos_star_sum": 20
     },
     "has_ci": true,
     "has_tests": true,

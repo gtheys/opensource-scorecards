@@ -1,11 +1,11 @@
 {
   "slug": "rolv-apneseth/tfm.nvim",
-  "fetched_at": "2026-09-25T09:10:48.510255364Z",
+  "fetched_at": "2026-10-20T09:28:03.160293101Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 101,
-    "forks": 6,
+    "stars": 102,
+    "forks": 7,
     "description": "Neovim plugin for terminal file manager integration",
     "license_spdx": "MIT",
     "last_commit_at": "2026-01-18T06:58:37Z",

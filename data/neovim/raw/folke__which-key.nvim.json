@@ -1,6 +1,6 @@
 {
   "slug": "folke/which-key.nvim",
-  "fetched_at": "2026-10-19T09:12:38.157844604Z",
+  "fetched_at": "2026-10-20T08:52:30.578691323Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "folke",
       "account_created_at": "2010-05-31T14:14:10Z",
-      "other_repos_star_sum": 42273
+      "other_repos_star_sum": 42277
     },
     "has_ci": true,
     "has_tests": true,

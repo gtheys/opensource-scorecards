@@ -1,10 +1,10 @@
 {
   "slug": "dtormoen/neural-open.nvim",
-  "fetched_at": "2026-10-19T09:08:39.548352026Z",
+  "fetched_at": "2026-10-20T08:48:42.872080154Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 70,
+    "stars": 69,
     "forks": 3,
     "description": "A smart picker for Snacks.nvim that trains a neural network with your file picking preferences.",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "dtormoen",
       "account_created_at": "2013-05-04T17:33:35Z",
-      "other_repos_star_sum": 247
+      "other_repos_star_sum": 246
     },
     "has_ci": true,
     "has_tests": true,

@@ -1,10 +1,10 @@
 {
   "slug": "ankushbhagats/liveserver.nvim",
-  "fetched_at": "2026-10-19T08:54:19.623225029Z",
+  "fetched_at": "2026-10-20T08:35:03.261461364Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 13,
+    "stars": 12,
     "forks": 0,
     "description": "Live-server integration for Neovim with smart commands and a clickable lualine toggle.",
     "license_spdx": "GPL-3.0",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "ankushbhagats",
       "account_created_at": "2020-04-08T10:32:11Z",
-      "other_repos_star_sum": 759
+      "other_repos_star_sum": 757
     },
     "has_ci": false,
     "has_tests": false,

@@ -1,6 +1,6 @@
 {
   "slug": "apdot/doodle",
-  "fetched_at": "2026-10-19T08:54:42.506276842Z",
+  "fetched_at": "2026-10-20T08:35:26.816165528Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -10,7 +10,7 @@
     "license_spdx": "MIT",
     "last_commit_at": "2025-10-26T17:47:49Z",
     "commits_90d": 0,
-    "releases_365d": 1,
+    "releases_365d": 0,
     "median_issue_close_days": 3.54427662037037,
     "median_pr_close_days": 0.0001273148148148148,
     "open_issues": 0,

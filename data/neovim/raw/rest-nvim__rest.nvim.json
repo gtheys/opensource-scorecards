@@ -1,10 +1,10 @@
 {
   "slug": "rest-nvim/rest.nvim",
-  "fetched_at": "2026-10-19T09:45:26.168207744Z",
+  "fetched_at": "2026-10-20T09:26:40.240673714Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 2070,
+    "stars": 2071,
     "forks": 146,
     "description": "A very fast, powerful, extensible and asynchronous Neovim HTTP client written in Lua.",
     "license_spdx": "GPL-3.0",
