@@ -1,6 +1,6 @@
 {
   "slug": "batoaqaa/nvim-pio",
-  "fetched_at": "2026-10-20T08:37:39.758962436Z",
+  "fetched_at": "2026-10-21T08:39:27.440249710Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "Neovim plugin to integrate PlatformIO framework with Clangd LSP",
     "license_spdx": "Apache-2.0",
     "last_commit_at": "2026-10-20T08:37:24Z",
-    "commits_90d": 399,
+    "commits_90d": 385,
     "releases_365d": 0,
     "median_issue_close_days": null,
     "median_pr_close_days": null,

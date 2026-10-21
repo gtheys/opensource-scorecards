@@ -1,11 +1,11 @@
 {
   "slug": "mirsmog/real-icons.nvim",
-  "fetched_at": "2026-10-20T09:12:17.397049486Z",
+  "fetched_at": "2026-10-21T09:14:41.194696900Z",
   "status": "ok",
   "data": {
     "archived": false,
     "stars": 93,
-    "forks": 3,
+    "forks": 4,
     "description": "Real PNG and SVG file icons for Neovim explorers, pickers, statuslines, and tablines.",
     "license_spdx": "MIT",
     "last_commit_at": "2026-10-14T11:54:39Z",

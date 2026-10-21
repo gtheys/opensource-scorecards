@@ -1,10 +1,10 @@
 {
   "slug": "iamt4nk/smm.nvim",
-  "fetched_at": "2026-10-20T08:56:58.592787924Z",
+  "fetched_at": "2026-10-21T08:59:31.495641191Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 32,
+    "stars": 33,
     "forks": 3,
     "description": "Spotify Music Manager for Neovim",
     "license_spdx": "Apache-2.0",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "iamt4nk",
       "account_created_at": "2019-03-19T17:05:00Z",
-      "other_repos_star_sum": 65
+      "other_repos_star_sum": 66
     },
     "has_ci": false,
     "has_tests": false,

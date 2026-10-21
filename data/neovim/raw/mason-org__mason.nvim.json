@@ -1,10 +1,10 @@
 {
   "slug": "mason-org/mason.nvim",
-  "fetched_at": "2026-10-20T09:09:50.694637033Z",
+  "fetched_at": "2026-10-21T09:12:18.586869113Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 10507,
+    "stars": 10510,
     "forks": 339,
     "description": "Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.",
     "license_spdx": "Apache-2.0",

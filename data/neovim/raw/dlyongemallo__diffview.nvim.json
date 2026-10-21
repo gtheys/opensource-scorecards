@@ -1,11 +1,11 @@
 {
   "slug": "dlyongemallo/diffview.nvim",
-  "fetched_at": "2026-10-20T08:46:56.266923916Z",
+  "fetched_at": "2026-10-21T08:49:25.574947095Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 359,
-    "forks": 30,
+    "stars": 360,
+    "forks": 31,
     "description": "Single tabpage interface for easily cycling through diffs for all modified files for any git rev (actively maintained fork).",
     "license_spdx": "NOASSERTION",
     "last_commit_at": "2026-10-14T09:35:06Z",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "dlyongemallo",
       "account_created_at": "2014-10-15T08:16:45Z",
-      "other_repos_star_sum": 372
+      "other_repos_star_sum": 373
     },
     "has_ci": true,
     "has_tests": false,

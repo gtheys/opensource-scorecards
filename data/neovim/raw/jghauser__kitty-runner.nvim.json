@@ -1,10 +1,10 @@
 {
   "slug": "jghauser/kitty-runner.nvim",
-  "fetched_at": "2026-10-20T09:00:05.675322226Z",
+  "fetched_at": "2026-10-21T09:02:47.532501059Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 112,
+    "stars": 111,
     "forks": 18,
     "description": "A neovim plugin allowing you to easily send lines from the current buffer to another kitty terminal",
     "license_spdx": "GPL-3.0",

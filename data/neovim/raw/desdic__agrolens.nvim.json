@@ -1,10 +1,10 @@
 {
   "slug": "desdic/agrolens.nvim",
-  "fetched_at": "2026-10-20T08:46:18.821872571Z",
+  "fetched_at": "2026-10-21T08:48:43.709209926Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 70,
+    "stars": 71,
     "forks": 2,
     "description": "Use Telescope or fzf to view pre-defined/custom treesitter queries",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "desdic",
       "account_created_at": "2015-07-08T19:22:11Z",
-      "other_repos_star_sum": 259
+      "other_repos_star_sum": 260
     },
     "has_ci": true,
     "has_tests": true,

@@ -1,6 +1,6 @@
 {
   "slug": "gmcusaro/ma.nvim",
-  "fetched_at": "2026-10-20T08:54:25.864395807Z",
+  "fetched_at": "2026-10-21T08:57:04.951293817Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -8,9 +8,9 @@
     "forks": 0,
     "description": "A minimal, relational approach to Markdown note management in Neovim.",
     "license_spdx": "MIT",
-    "last_commit_at": "2026-10-18T14:22:34Z",
-    "commits_90d": 1,
-    "releases_365d": 4,
+    "last_commit_at": "2026-10-20T10:32:19Z",
+    "commits_90d": 2,
+    "releases_365d": 5,
     "median_issue_close_days": null,
     "median_pr_close_days": null,
     "open_issues": 0,

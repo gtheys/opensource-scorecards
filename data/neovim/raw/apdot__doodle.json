@@ -1,10 +1,10 @@
 {
   "slug": "apdot/doodle",
-  "fetched_at": "2026-10-20T08:35:26.816165528Z",
+  "fetched_at": "2026-10-21T08:37:14.714918507Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 96,
+    "stars": 97,
     "forks": 3,
     "description": "Your second brain, inside Neovim.",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "apdot",
       "account_created_at": "2022-03-04T14:18:25Z",
-      "other_repos_star_sum": 96
+      "other_repos_star_sum": 97
     },
     "has_ci": false,
     "has_tests": false,
