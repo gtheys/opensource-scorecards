@@ -1,10 +1,10 @@
 {
   "slug": "ms-jpq/coq_nvim",
-  "fetched_at": "2026-10-20T09:14:46.061164362Z",
+  "fetched_at": "2026-10-22T09:19:27.535566661Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 3811,
+    "stars": 3809,
     "forks": 103,
     "description": "Fast as FUCK nvim completion. SQLite, concurrent scheduler, hundreds of hours of optimization.",
     "license_spdx": "GPL-3.0",
@@ -13,14 +13,14 @@
     "releases_365d": 0,
     "median_issue_close_days": 5.9627083333333335,
     "median_pr_close_days": 0.25831597222222225,
-    "open_issues": 187,
+    "open_issues": 188,
     "closed_issues_sampled": 28,
     "contributors_12mo": 3,
     "top_author_commit_share": 0.9967532467532467,
     "top_author": {
       "login": "ms-jpq",
       "account_created_at": "2019-05-13T20:56:35Z",
-      "other_repos_star_sum": 9638
+      "other_repos_star_sum": 9637
     },
     "has_ci": true,
     "has_tests": true,

@@ -7,6 +7,10 @@ repos:
   - aliou/pi-guardrails
   - aliou/pi-processes
   - anasalqoyyum/pi-durable-subagents
+  - andy8647/pi-ghostty-tab
+  - andy8647/pi-ide-context
+  - andy8647/pi-starline
+  - andy8647/pi-tidy
   - antiburn/antiburn
   - apmantza/pi-lens
   - betterwright/betterwright
@@ -57,6 +61,7 @@ repos:
   - jonjonrankin/pi-caveman
   - juicesharp/rpiv-mono
   - kamilpostrozny/pi-jev-code
+  - kenryu42/cc-safety-net
   - kylebrodeur/pi-agent-bus
   - leblancfg/pi-ansi-themes
   - m-rui001/pi-mate-companion
@@ -77,6 +82,7 @@ repos:
   - nicobailon/pi-web-access
   - nyarlathoteppppp/pi-durabletask-mcp
   - ogulcancelik/pi-extensions
+  - paymog/omp-packages
   - powerfooi/roamgate
   - prateekmedia/pi-hooks
   - qddfxp/pi-attachments

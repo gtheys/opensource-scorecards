@@ -1,26 +1,26 @@
 {
   "slug": "jpwol/thorn.nvim",
-  "fetched_at": "2026-10-21T09:03:58.608371484Z",
+  "fetched_at": "2026-10-22T09:06:18.443958178Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 133,
+    "stars": 134,
     "forks": 6,
     "description": "A dark and light minimal green theme for Neovim",
     "license_spdx": "MIT",
     "last_commit_at": "2026-08-27T01:32:01Z",
     "commits_90d": 2,
-    "releases_365d": 25,
+    "releases_365d": 21,
     "median_issue_close_days": 0.34319444444444447,
     "median_pr_close_days": 0.0020833333333333333,
     "open_issues": 0,
     "closed_issues_sampled": 3,
     "contributors_12mo": 4,
-    "top_author_commit_share": 0.9680851063829787,
+    "top_author_commit_share": 0.9629629629629629,
     "top_author": {
       "login": "jpwol",
       "account_created_at": "2021-10-05T21:58:20Z",
-      "other_repos_star_sum": 146
+      "other_repos_star_sum": 147
     },
     "has_ci": true,
     "has_tests": false,

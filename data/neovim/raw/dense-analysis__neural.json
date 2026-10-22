@@ -1,10 +1,10 @@
 {
   "slug": "dense-analysis/neural",
-  "fetched_at": "2026-10-21T08:48:41.544731429Z",
+  "fetched_at": "2026-10-22T08:50:48.111761666Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 507,
+    "stars": 506,
     "forks": 19,
     "description": "AI Vim/Neovim code generation plugin (OpenAI, ChatGPT, and more)",
     "license_spdx": "MIT",

@@ -1,10 +1,10 @@
 {
   "slug": "brenton-leighton/multiple-cursors.nvim",
-  "fetched_at": "2026-10-21T08:40:55.636230974Z",
+  "fetched_at": "2026-10-22T08:43:20.403425845Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 424,
+    "stars": 425,
     "forks": 16,
     "description": "A multi-cursor plugin for Neovim that works in normal, insert/replace, or visual modes, and with almost every command",
     "license_spdx": "Apache-2.0",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "brenton-leighton",
       "account_created_at": "2015-05-04T03:30:16Z",
-      "other_repos_star_sum": 433
+      "other_repos_star_sum": 434
     },
     "has_ci": false,
     "has_tests": false,

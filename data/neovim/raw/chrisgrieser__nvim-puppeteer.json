@@ -1,10 +1,10 @@
 {
   "slug": "chrisgrieser/nvim-puppeteer",
-  "fetched_at": "2026-10-21T08:43:05.771926055Z",
+  "fetched_at": "2026-10-22T08:45:31.415860230Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 78,
+    "stars": 77,
     "forks": 5,
     "description": "Automatically convert strings to f-strings or template strings and back.",
     "license_spdx": "MIT",

@@ -1,10 +1,10 @@
 {
   "slug": "2giosangmitom/nightfall.nvim",
-  "fetched_at": "2026-10-21T08:32:17.091879787Z",
+  "fetched_at": "2026-10-22T08:34:51.403142998Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 50,
+    "stars": 51,
     "forks": 1,
     "description": "A Dracula-inspired colorscheme for Neovim",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "2giosangmitom",
       "account_created_at": "2021-07-11T03:05:23Z",
-      "other_repos_star_sum": 278
+      "other_repos_star_sum": 279
     },
     "has_ci": true,
     "has_tests": true,

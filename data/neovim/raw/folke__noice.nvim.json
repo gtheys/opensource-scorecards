@@ -1,6 +1,6 @@
 {
   "slug": "folke/noice.nvim",
-  "fetched_at": "2026-10-21T08:54:47.082773052Z",
+  "fetched_at": "2026-10-22T08:56:52.928311981Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "folke",
       "account_created_at": "2010-05-31T14:14:10Z",
-      "other_repos_star_sum": 42283
+      "other_repos_star_sum": 42279
     },
     "has_ci": true,
     "has_tests": true,

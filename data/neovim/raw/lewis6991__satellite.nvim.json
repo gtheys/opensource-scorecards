@@ -1,10 +1,10 @@
 {
   "slug": "lewis6991/satellite.nvim",
-  "fetched_at": "2026-10-21T09:09:09.547238251Z",
+  "fetched_at": "2026-10-22T09:11:31.472668093Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 752,
+    "stars": 751,
     "forks": 34,
     "description": "Decorate scrollbar for Neovim",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "lewis6991",
       "account_created_at": "2014-06-16T15:50:05Z",
-      "other_repos_star_sum": 11311
+      "other_repos_star_sum": 11308
     },
     "has_ci": false,
     "has_tests": false,

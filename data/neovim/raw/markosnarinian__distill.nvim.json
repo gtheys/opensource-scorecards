@@ -1,10 +1,10 @@
 {
   "slug": "markosnarinian/distill.nvim",
-  "fetched_at": "2026-10-21T09:12:10.327734982Z",
+  "fetched_at": "2026-10-22T09:14:23.840459251Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 9,
+    "stars": 10,
     "forks": 1,
     "description": "Automatically fold logging and debug-print statements in Neovim to declutter your code. Works with nvim-origami.",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "markosnarinian",
       "account_created_at": "2020-12-08T07:08:41Z",
-      "other_repos_star_sum": 22
+      "other_repos_star_sum": 23
     },
     "has_ci": false,
     "has_tests": true,
