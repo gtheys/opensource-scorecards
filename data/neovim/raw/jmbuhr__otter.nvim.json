@@ -1,10 +1,10 @@
 {
   "slug": "jmbuhr/otter.nvim",
-  "fetched_at": "2026-10-22T09:05:40.538012734Z",
+  "fetched_at": "2026-10-23T09:02:18.106119671Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 905,
+    "stars": 906,
     "forks": 41,
     "description": "Just ask an otter! 🦦",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "jmbuhr",
       "account_created_at": "2016-02-24T10:51:01Z",
-      "other_repos_star_sum": 1488
+      "other_repos_star_sum": 1489
     },
     "has_ci": true,
     "has_tests": true,

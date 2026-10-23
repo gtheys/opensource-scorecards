@@ -1,6 +1,6 @@
 {
   "slug": "folke/trouble.nvim",
-  "fetched_at": "2026-10-22T08:57:13.206819578Z",
+  "fetched_at": "2026-10-23T08:53:42.095569207Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -11,16 +11,16 @@
     "last_commit_at": "2025-10-31T13:56:51Z",
     "commits_90d": 0,
     "releases_365d": 0,
-    "median_issue_close_days": 38.26581018518519,
-    "median_pr_close_days": 15.724317129629629,
-    "open_issues": 21,
-    "closed_issues_sampled": 45,
+    "median_issue_close_days": 38.15556134259259,
+    "median_pr_close_days": 17.82613425925926,
+    "open_issues": 20,
+    "closed_issues_sampled": 46,
     "contributors_12mo": 2,
     "top_author_commit_share": 0.8,
     "top_author": {
       "login": "folke",
       "account_created_at": "2010-05-31T14:14:10Z",
-      "other_repos_star_sum": 42279
+      "other_repos_star_sum": 42281
     },
     "has_ci": true,
     "has_tests": true,

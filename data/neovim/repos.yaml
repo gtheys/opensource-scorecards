@@ -1410,6 +1410,7 @@ repos:
   - zaldih/themery.nvim
   - zbirenbaum/copilot.lua
   - zbirenbaum/neodim
+  - zdcthomas/sprout.nvim
   - zdcthomas/yop.nvim
   - zeioth/compiler.nvim
   - zeioth/distroupdate.nvim

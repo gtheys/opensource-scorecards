@@ -1,29 +1,29 @@
 {
   "slug": "ajeetdsouza/zoxide",
-  "fetched_at": "2026-10-22T08:37:40.523720091Z",
+  "fetched_at": "2026-10-23T08:33:55.150808946Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 40242,
-    "forks": 941,
+    "stars": 40254,
+    "forks": 934,
     "description": "A smarter cd command. Supports all major shells.",
     "license_spdx": "MIT",
-    "last_commit_at": "2026-10-18T00:08:44Z",
-    "commits_90d": 9,
+    "last_commit_at": "2026-10-23T00:20:47Z",
+    "commits_90d": 17,
     "releases_365d": 2,
-    "median_issue_close_days": 219.68253472222221,
-    "median_pr_close_days": 0.294224537037037,
-    "open_issues": 167,
-    "closed_issues_sampled": 22,
-    "contributors_12mo": 17,
-    "top_author_commit_share": 0.7142857142857143,
+    "median_issue_close_days": 126.35975694444444,
+    "median_pr_close_days": 1.2251967592592592,
+    "open_issues": 161,
+    "closed_issues_sampled": 13,
+    "contributors_12mo": 23,
+    "top_author_commit_share": 0.625,
     "top_author": {
       "login": "ajeetdsouza",
       "account_created_at": "2012-05-25T11:23:01Z",
-      "other_repos_star_sum": 41551
+      "other_repos_star_sum": 41563
     },
     "has_ci": true,
     "has_tests": true,
-    "readme_len": 23525
+    "readme_len": 23511
   }
 }
