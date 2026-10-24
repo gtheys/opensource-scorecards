@@ -1,10 +1,10 @@
 {
   "slug": "meanderingprogrammer/render-markdown.nvim",
-  "fetched_at": "2026-10-22T09:15:24.160609695Z",
+  "fetched_at": "2026-10-24T08:44:41.499632860Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 5183,
+    "stars": 5188,
     "forks": 148,
     "description": "Improve viewing Markdown in Neovim",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "MeanderingProgrammer",
       "account_created_at": "2019-07-06T04:41:49Z",
-      "other_repos_star_sum": 5476
+      "other_repos_star_sum": 5481
     },
     "has_ci": true,
     "has_tests": true,

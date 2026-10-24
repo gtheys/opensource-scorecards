@@ -1,6 +1,6 @@
 {
   "slug": "alexmozaidze/palenight.nvim",
-  "fetched_at": "2026-10-23T08:34:41.588199303Z",
+  "fetched_at": "2026-10-24T08:09:33.407650187Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "Palenight colorscheme for NeoVim written in Fennel.",
     "license_spdx": "MIT",
     "last_commit_at": "2026-07-25T23:05:04Z",
-    "commits_90d": 3,
+    "commits_90d": 0,
     "releases_365d": 0,
     "median_issue_close_days": null,
     "median_pr_close_days": null,

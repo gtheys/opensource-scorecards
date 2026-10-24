@@ -1,15 +1,15 @@
 {
   "slug": "lotabout/skim",
-  "fetched_at": "2026-10-22T09:12:34.747841507Z",
+  "fetched_at": "2026-10-24T08:41:55.005295371Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 7000,
+    "stars": 7001,
     "forks": 265,
     "description": "Fuzzy Finder in rust!",
     "license_spdx": "MIT",
     "last_commit_at": "2026-10-20T18:27:41Z",
-    "commits_90d": 44,
+    "commits_90d": 42,
     "releases_365d": 92,
     "median_issue_close_days": 0.48138888888888887,
     "median_pr_close_days": 0.3898263888888889,

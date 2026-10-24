@@ -1,10 +1,10 @@
 {
   "slug": "kurama622/clean-diagnostic",
-  "fetched_at": "2026-10-22T09:10:14.459223806Z",
+  "fetched_at": "2026-10-24T08:39:37.737897632Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 13,
+    "stars": 12,
     "forks": 0,
     "description": "A clean diagnostic plugin",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "Kurama622",
       "account_created_at": "2018-07-20T01:41:42Z",
-      "other_repos_star_sum": 740
+      "other_repos_star_sum": 739
     },
     "has_ci": false,
     "has_tests": false,

@@ -1,10 +1,10 @@
 {
   "slug": "kevinhwang91/nvim-bqf",
-  "fetched_at": "2026-10-22T09:08:23.262046619Z",
+  "fetched_at": "2026-10-24T08:37:49.744071037Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 2031,
+    "stars": 2032,
     "forks": 42,
     "description": "Better quickfix window in Neovim, polish old quickfix window.",
     "license_spdx": "BSD-3-Clause",

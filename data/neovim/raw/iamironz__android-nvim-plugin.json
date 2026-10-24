@@ -1,10 +1,10 @@
 {
   "slug": "iamironz/android-nvim-plugin",
-  "fetched_at": "2026-10-23T08:58:16.701137714Z",
+  "fetched_at": "2026-10-24T08:31:39.363045578Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 91,
+    "stars": 92,
     "forks": 5,
     "description": "Neovim plugin for Android and KMP: build, run, logcat, AVD management, and Gradle tasks.",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "iamironz",
       "account_created_at": "2014-08-26T17:57:43Z",
-      "other_repos_star_sum": 184
+      "other_repos_star_sum": 185
     },
     "has_ci": true,
     "has_tests": true,

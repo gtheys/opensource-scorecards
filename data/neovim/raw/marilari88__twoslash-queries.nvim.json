@@ -1,10 +1,10 @@
 {
   "slug": "marilari88/twoslash-queries.nvim",
-  "fetched_at": "2026-10-22T09:14:12.813588171Z",
+  "fetched_at": "2026-10-24T08:43:31.581660537Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 178,
+    "stars": 177,
     "forks": 9,
     "description": "Nvim lua plugin which adds support for twoslash queries into typescript projects",
     "license_spdx": "MIT",

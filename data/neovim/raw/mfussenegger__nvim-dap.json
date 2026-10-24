@@ -1,6 +1,6 @@
 {
   "slug": "mfussenegger/nvim-dap",
-  "fetched_at": "2026-10-22T09:15:44.241855446Z",
+  "fetched_at": "2026-10-24T08:45:04.184115770Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "mfussenegger",
       "account_created_at": "2008-12-06T13:38:00Z",
-      "other_repos_star_sum": 13459
+      "other_repos_star_sum": 13456
     },
     "has_ci": false,
     "has_tests": true,

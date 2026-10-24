@@ -1,11 +1,11 @@
 {
   "slug": "kndndrj/nvim-dbee",
-  "fetched_at": "2026-10-22T09:09:47.866862018Z",
+  "fetched_at": "2026-10-24T08:39:10.900219539Z",
   "status": "ok",
   "data": {
     "archived": false,
     "stars": 1322,
-    "forks": 102,
+    "forks": 103,
     "description": "Interactive database client for neovim",
     "license_spdx": "GPL-3.0",
     "last_commit_at": null,
