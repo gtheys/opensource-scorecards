@@ -1,10 +1,10 @@
 {
   "slug": "iron-e/nvim-cartographer",
-  "fetched_at": "2026-10-24T08:32:48.522195685Z",
+  "fetched_at": "2026-10-25T08:48:19.509897823Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 54,
+    "stars": 53,
     "forks": 4,
     "description": "Create Neovim `:map`pings in Lua with ease!",
     "license_spdx": "NOASSERTION",

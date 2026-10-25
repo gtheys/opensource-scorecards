@@ -1,10 +1,10 @@
 {
   "slug": "echaya/neowiki.nvim",
-  "fetched_at": "2026-10-24T08:23:57.664947634Z",
+  "fetched_at": "2026-10-25T08:40:03.747144420Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 151,
+    "stars": 152,
     "forks": 10,
     "description": "neowiki.nvim: full-featured minimalist Vimwiki successor for instant notes & GTD 🚀📝",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "echaya",
       "account_created_at": "2017-12-04T22:57:10Z",
-      "other_repos_star_sum": 154
+      "other_repos_star_sum": 155
     },
     "has_ci": false,
     "has_tests": true,

@@ -1,10 +1,10 @@
 {
   "slug": "cosmicnvim/cosmic-ui",
-  "fetched_at": "2026-10-24T08:18:28.304632052Z",
+  "fetched_at": "2026-10-25T08:34:49.722718916Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 171,
+    "stars": 170,
     "forks": 1,
     "description": "Cosmic-UI is a simple wrapper around specific vim functionality. Built in order to provide a quick and easy way to create a Cosmic UI experience with Neovim!",
     "license_spdx": "GPL-3.0",

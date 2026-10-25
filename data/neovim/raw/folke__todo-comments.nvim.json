@@ -1,6 +1,6 @@
 {
   "slug": "folke/todo-comments.nvim",
-  "fetched_at": "2026-10-24T08:27:14.028096898Z",
+  "fetched_at": "2026-10-25T08:43:07.348776854Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -13,14 +13,14 @@
     "releases_365d": 1,
     "median_issue_close_days": 39.597945601851855,
     "median_pr_close_days": 142.10827546296298,
-    "open_issues": 25,
+    "open_issues": 26,
     "closed_issues_sampled": 44,
     "contributors_12mo": 1,
     "top_author_commit_share": 1.0,
     "top_author": {
       "login": "folke",
       "account_created_at": "2010-05-31T14:14:10Z",
-      "other_repos_star_sum": 42280
+      "other_repos_star_sum": 42285
     },
     "has_ci": true,
     "has_tests": false,

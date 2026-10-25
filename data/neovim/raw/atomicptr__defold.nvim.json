@@ -1,6 +1,6 @@
 {
   "slug": "atomicptr/defold.nvim",
-  "fetched_at": "2026-10-24T08:11:37.033398336Z",
+  "fetched_at": "2026-10-25T08:28:20.336990673Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -13,7 +13,7 @@
     "releases_365d": 36,
     "median_issue_close_days": 1.8417071759259258,
     "median_pr_close_days": 0.2824363425925926,
-    "open_issues": 12,
+    "open_issues": 13,
     "closed_issues_sampled": 42,
     "contributors_12mo": 2,
     "top_author_commit_share": 0.989247311827957,
