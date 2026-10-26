@@ -1,6 +1,6 @@
 {
   "slug": "0xjohnnyboy/scretch.nvim",
-  "fetched_at": "2026-10-25T08:23:06.555507330Z",
+  "fetched_at": "2026-10-26T08:51:56.685843923Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "Neovim plugin to manage scratch files ! 📝",
     "license_spdx": "AGPL-3.0",
     "last_commit_at": "2026-08-20T11:39:16Z",
-    "commits_90d": 10,
+    "commits_90d": 9,
     "releases_365d": 2,
     "median_issue_close_days": 10.233912037037037,
     "median_pr_close_days": 0.6028240740740741,

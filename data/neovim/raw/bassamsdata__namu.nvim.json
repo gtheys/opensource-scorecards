@@ -1,6 +1,6 @@
 {
   "slug": "bassamsdata/namu.nvim",
-  "fetched_at": "2026-10-25T08:29:36.079591246Z",
+  "fetched_at": "2026-10-26T08:59:05.726310390Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "bassamsdata",
       "account_created_at": "2022-05-18T15:56:35Z",
-      "other_repos_star_sum": 468
+      "other_repos_star_sum": 469
     },
     "has_ci": true,
     "has_tests": true,

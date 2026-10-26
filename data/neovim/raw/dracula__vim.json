@@ -1,6 +1,6 @@
 {
   "slug": "dracula/vim",
-  "fetched_at": "2026-10-25T08:38:57.004787462Z",
+  "fetched_at": "2026-10-26T09:10:13.861381844Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -13,7 +13,7 @@
     "releases_365d": 0,
     "median_issue_close_days": 4.015503472222222,
     "median_pr_close_days": 2.725295138888889,
-    "open_issues": 8,
+    "open_issues": 9,
     "closed_issues_sampled": 26,
     "contributors_12mo": 5,
     "top_author_commit_share": 0.4,

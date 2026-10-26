@@ -1,11 +1,11 @@
 {
   "slug": "mistricky/codesnap.nvim",
-  "fetched_at": "2026-10-22T09:17:11.039242835Z",
+  "fetched_at": "2026-10-26T09:35:25.654039027Z",
   "status": "ok",
   "data": {
     "archived": false,
     "stars": 922,
-    "forks": 40,
+    "forks": 41,
     "description": "📸 Snapshot plugin with rich features that can make pretty code snapshots for Neovim",
     "license_spdx": "MIT",
     "last_commit_at": "2026-09-14T07:53:38Z",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "mistricky",
       "account_created_at": "2016-10-02T12:23:49Z",
-      "other_repos_star_sum": 1227
+      "other_repos_star_sum": 1226
     },
     "has_ci": true,
     "has_tests": false,

@@ -1,10 +1,10 @@
 {
   "slug": "nishu-murmu/cursor-inline",
-  "fetched_at": "2026-10-20T09:16:56.953106442Z",
+  "fetched_at": "2026-10-26T09:40:41.733475763Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 7,
+    "stars": 8,
     "forks": 2,
     "description": "Cursor style Inline editing plugin for neovim.",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "nishu-murmu",
       "account_created_at": "2020-09-11T08:15:22Z",
-      "other_repos_star_sum": 39
+      "other_repos_star_sum": 41
     },
     "has_ci": false,
     "has_tests": false,

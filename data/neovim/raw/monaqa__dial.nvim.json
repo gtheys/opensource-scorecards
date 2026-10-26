@@ -1,6 +1,6 @@
 {
   "slug": "monaqa/dial.nvim",
-  "fetched_at": "2026-10-22T09:18:02.165507631Z",
+  "fetched_at": "2026-10-26T09:36:27.157932833Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "kawarimidoll",
       "account_created_at": "2014-07-13T00:36:21Z",
-      "other_repos_star_sum": 656
+      "other_repos_star_sum": 657
     },
     "has_ci": true,
     "has_tests": true,

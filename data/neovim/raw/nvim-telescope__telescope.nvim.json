@@ -1,11 +1,11 @@
 {
   "slug": "nvim-telescope/telescope.nvim",
-  "fetched_at": "2026-10-20T09:19:45.624669800Z",
+  "fetched_at": "2026-10-26T09:43:44.422630357Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 19828,
-    "forks": 966,
+    "stars": 19832,
+    "forks": 967,
     "description": "Find, Filter, Preview, Pick. All lua, all the time.",
     "license_spdx": "MIT",
     "last_commit_at": "2026-08-17T10:56:31Z",

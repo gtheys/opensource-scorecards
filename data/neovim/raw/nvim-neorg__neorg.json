@@ -1,15 +1,15 @@
 {
   "slug": "nvim-neorg/neorg",
-  "fetched_at": "2026-10-20T09:19:20.037811916Z",
+  "fetched_at": "2026-10-26T09:43:17.498688252Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 7499,
+    "stars": 7506,
     "forks": 247,
     "description": "Modernity meets insane extensibility. The future of organizing your life in Neovim.",
     "license_spdx": "GPL-3.0",
     "last_commit_at": "2026-08-14T16:41:09Z",
-    "commits_90d": 7,
+    "commits_90d": 6,
     "releases_365d": 6,
     "median_issue_close_days": 66.6607638888889,
     "median_pr_close_days": 0.0017476851851851852,

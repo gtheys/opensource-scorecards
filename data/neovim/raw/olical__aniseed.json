@@ -1,10 +1,10 @@
 {
   "slug": "olical/aniseed",
-  "fetched_at": "2026-10-20T09:21:33.315023764Z",
+  "fetched_at": "2026-10-26T09:45:36.132379007Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 644,
+    "stars": 643,
     "forks": 30,
     "description": "Neovim configuration and plugins in Fennel (Lisp compiled to Lua)",
     "license_spdx": "Unlicense",

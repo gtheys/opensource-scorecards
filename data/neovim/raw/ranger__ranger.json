@@ -1,10 +1,10 @@
 {
   "slug": "ranger/ranger",
-  "fetched_at": "2026-10-20T09:25:25.630146417Z",
+  "fetched_at": "2026-10-26T09:49:39.818309725Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 17428,
+    "stars": 17439,
     "forks": 940,
     "description": "A VIM-inspired filemanager for the console",
     "license_spdx": "GPL-3.0",
@@ -12,11 +12,11 @@
     "commits_90d": 45,
     "releases_365d": 0,
     "median_issue_close_days": 2060.4067939814813,
-    "median_pr_close_days": 247.48186342592592,
-    "open_issues": 900,
+    "median_pr_close_days": 188.83979166666666,
+    "open_issues": 898,
     "closed_issues_sampled": 21,
-    "contributors_12mo": 24,
-    "top_author_commit_share": 0.34306569343065696,
+    "contributors_12mo": 22,
+    "top_author_commit_share": 0.3458646616541353,
     "top_author": {
       "login": "hut",
       "account_created_at": "2009-06-01T04:30:16Z",

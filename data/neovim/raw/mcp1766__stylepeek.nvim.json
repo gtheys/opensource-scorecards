@@ -1,10 +1,10 @@
 {
   "slug": "mcp1766/stylepeek.nvim",
-  "fetched_at": "2026-10-24T08:44:39.291618790Z",
+  "fetched_at": "2026-10-26T09:33:21.073657775Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 3,
+    "stars": 5,
     "forks": 0,
     "description": "Inspect, select, create, edit, delete CSS rules in the context of a HTML buffer",
     "license_spdx": "MIT",

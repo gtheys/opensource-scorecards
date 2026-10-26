@@ -1,6 +1,6 @@
 {
   "slug": "chrisgrieser/nvim-various-textobjs",
-  "fetched_at": "2026-10-25T08:33:27.003410094Z",
+  "fetched_at": "2026-10-26T09:03:52.525958327Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "Bundle of more than 30 new text objects for Neovim.",
     "license_spdx": "MIT",
     "last_commit_at": "2026-07-27T23:34:08Z",
-    "commits_90d": 4,
+    "commits_90d": 0,
     "releases_365d": 0,
     "median_issue_close_days": 0.14408564814814814,
     "median_pr_close_days": 0.013368055555555555,

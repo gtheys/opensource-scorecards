@@ -1,10 +1,10 @@
 {
   "slug": "artemave/workspace-diagnostics.nvim",
-  "fetched_at": "2026-10-25T08:27:54.079035930Z",
+  "fetched_at": "2026-10-26T08:57:14.899650548Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 265,
+    "stars": 264,
     "forks": 8,
     "description": "Populate diagnostics for _all_ projects files, not just opened ones.",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "artemave",
       "account_created_at": "2008-09-08T21:14:32Z",
-      "other_repos_star_sum": 274
+      "other_repos_star_sum": 276
     },
     "has_ci": true,
     "has_tests": true,

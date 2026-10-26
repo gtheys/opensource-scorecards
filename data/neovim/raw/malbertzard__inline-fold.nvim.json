@@ -1,10 +1,10 @@
 {
   "slug": "malbertzard/inline-fold.nvim",
-  "fetched_at": "2026-10-24T08:43:22.237860791Z",
+  "fetched_at": "2026-10-26T09:31:54.758533900Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 89,
+    "stars": 88,
     "forks": 2,
     "description": "A neovim version of the inline fold plugin",
     "license_spdx": "MIT",

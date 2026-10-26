@@ -1,6 +1,6 @@
 {
   "slug": "dpezto/chezmoi-template.nvim",
-  "fetched_at": "2026-10-25T08:38:53.417147705Z",
+  "fetched_at": "2026-10-26T09:10:09.653695087Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "Neovim integration for chezmoi templates: treesitter injection, format-through-template, live preview, diagnostics, completion, picker, transparent encryption",
     "license_spdx": "MIT",
     "last_commit_at": "2026-10-10T15:51:04Z",
-    "commits_90d": 8,
+    "commits_90d": 6,
     "releases_365d": 11,
     "median_issue_close_days": 5.2328125,
     "median_pr_close_days": 0.007546296296296296,

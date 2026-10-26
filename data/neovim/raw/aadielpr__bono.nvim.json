@@ -1,6 +1,6 @@
 {
   "slug": "aadielpr/bono.nvim",
-  "fetched_at": "2026-10-25T08:24:15.623246748Z",
+  "fetched_at": "2026-10-26T08:53:12.850754393Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "Yet another Neovim colorscheme (light). ",
     "license_spdx": "MIT",
     "last_commit_at": "2026-10-20T02:47:05Z",
-    "commits_90d": 11,
+    "commits_90d": 7,
     "releases_365d": 0,
     "median_issue_close_days": null,
     "median_pr_close_days": null,

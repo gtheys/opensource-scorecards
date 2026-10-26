@@ -1,6 +1,6 @@
 {
   "slug": "redpierrot/ballerina.nvim",
-  "fetched_at": "2026-10-20T09:26:34.749775363Z",
+  "fetched_at": "2026-10-26T09:50:49.007747534Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "Ballerina support for Neovim: LSP, format-on-save, DAP debugging, auto-indent, syntax highlighting",
     "license_spdx": "MIT",
     "last_commit_at": "2026-10-05T12:02:34Z",
-    "commits_90d": 7,
+    "commits_90d": 2,
     "releases_365d": 7,
     "median_issue_close_days": 0.003136574074074074,
     "median_pr_close_days": 0.0006365740740740741,
