@@ -11,7 +11,8 @@
   <meta property="og:image" content="https://scorecards.monetize-oss.com/assets/logo-512.png">
   <meta name="twitter:card" content="summary">
   <link rel="icon" type="image/png" href="{{ root }}assets/favicon.png">
-  <!-- AIDEV-NOTE: Plausible loads only after explicit consent (terminal popup at page bottom). -->
+  <!-- AIDEV-NOTE: self-hosted Umami analytics, no consent gate. -->
+  <script defer src="https://chicken.tail4250d0.ts.net:8444/script.js" data-website-id="d3853901-0b4f-46e0-ae70-00c701088bea"></script>
   <!-- Pico CSS (classless) — table/layout/typography primitives, vendored, no CDN at runtime -->
   <link rel="stylesheet" href="{{ root }}assets/vendor/pico.classless.min.css">
   <style>
@@ -46,7 +47,7 @@
       --line: var(--pico-border-color);
       --mono: "IBM Plex Mono", "SF Mono", Consolas, monospace;
       /* AIDEV-NOTE: neutral deep shadow instead of Pico's default bluish
-         rgba(129,145,181,…) glow — matches the consent terminal's shadow. */
+         rgba(129,145,181,…) glow. */
       --pico-box-shadow: 0 12px 32px rgba(0,0,0,.45);
     }
     [data-theme="dark"], :root:not([data-theme]) {
@@ -168,38 +169,14 @@
     .skip-link { position: absolute; top: -3rem; left: .5rem; background: var(--pico-primary-background); color: #fff; padding: .5rem .9rem; border-radius: 6px; z-index: 10; }
     .skip-link:focus { top: .5rem; }
 
-    /* AIDEV-NOTE: analytics consent popup, styled like a terminal window. */
-    .consent-term {
-      position: fixed; bottom: 1rem; right: 1rem; z-index: 100; max-width: 24rem;
-      background: #14181d; color: #d7dde3; border: 1px solid #2b333d; border-radius: 10px;
-      box-shadow: 0 12px 32px rgba(0,0,0,.45); font-family: var(--mono); font-size: .8rem;
-      overflow: hidden;
-    }
-    .consent-term[hidden] { display: none; }
-    .consent-term .titlebar { display: flex; align-items: center; gap: 6px; padding: .5rem .8rem; border-bottom: 1px solid #2b333d; background: #1b2129; }
-    .consent-term .dot { width: 10px; height: 10px; border-radius: 50%; }
-    .consent-term .dot.r { background: #ff5f57; } .consent-term .dot.y { background: #febc2e; } .consent-term .dot.g { background: #28c840; }
-    .consent-term .titlebar span { margin-left: 6px; color: #8a97a5; font-size: .72rem; }
-    .consent-term .body { padding: .9rem 1rem 1rem; line-height: 1.55; }
-    .consent-term .prompt { color: var(--gold); }
-    .consent-term .cmd { color: #f3f5f7; }
-    .consent-term .choices { margin-top: .6rem; display: flex; gap: 1.2rem; }
-    .consent-term .choices button {
-      background: none; border: none; padding: 0; margin: 0; cursor: pointer;
-      font: inherit; color: #3fbf7f;
-    }
-    .consent-term .choices button:hover, .consent-term .choices button:focus { color: var(--gold); text-decoration: underline; outline: none; }
-    .consent-term .caret { display: inline-block; width: .55em; height: 1em; background: var(--gold); vertical-align: text-bottom; }
-    .consent-term .choices button:focus-visible { text-decoration: underline; }
     /* AIDEV-NOTE: blink animations only for users who haven't asked for
        reduced motion. */
     @media (prefers-reduced-motion: no-preference) {
-      .consent-term .caret, .term-caret { animation: blink 1s steps(1) infinite; }
+      .term-caret { animation: blink 1s steps(1) infinite; }
     }
     @keyframes blink { 50% { opacity: 0; } }
 
-    /* Terminal-flavored prompt line in the hero — keeps the consent terminal's
-       brand personality visible before the dialog appears. */
+    /* Terminal-flavored prompt line in the hero. */
     .term-line {
       font-family: var(--mono); font-size: .82rem; color: #8a97a5;
       margin: 0 0 1rem; padding: .55rem .85rem; border: 1px solid #2b333d;
@@ -243,57 +220,5 @@
 <footer class="site-footer" style="text-align:center;"><a href="https://github.com/gtheys/opensource-scorecards/blob/main/LICENSE">AGPL-3.0 (code)</a> &middot; <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0 (data)</a> &middot; Built with &#9829; by <a href="https://geert.md">Geert Theys</a> and some help from <a href="https://github.com/gtheys/pi-my-rifle-ext">Pi Agent</a>.</footer>
 </main>
 
-<!-- AIDEV-NOTE: analytics consent. Choice stored in localStorage (key: analytics-consent).
-     Plausible only injected on "yes"; "no" = never loads. y/n keys also work. -->
-<div class="consent-term" id="consent" role="dialog" aria-label="Analytics consent" hidden>
-  <div class="titlebar"><span class="dot r"></span><span class="dot y"></span><span class="dot g"></span><span>visitor@scorecards: ~</span></div>
-  <div class="body">
-    <div><span class="prompt">&#8250;</span> <span class="cmd">cookies --analytics</span></div>
-    <div>I use self-hosted Plausible only to count visits. OK to enable it?</div>
-    <div class="choices">
-      <button type="button" data-choice="yes">[y] yes</button>
-      <button type="button" data-choice="no">[n] no</button>
-    </div>
-    <div><span class="prompt">&#8250;</span> <span class="caret"></span></div>
-  </div>
-</div>
-<script>
-(function () {
-  var KEY = 'analytics-consent';
-  var box = document.getElementById('consent');
-  function load() {
-    var s = document.createElement('script');
-    s.defer = true;
-    s.setAttribute('data-domain', 'scorecards.monetize-oss.com');
-    s.src = 'https://chicken.tail4250d0.ts.net:8444/js/script.js';
-    document.head.appendChild(s);
-  }
-  function answer(v) {
-    try { localStorage.setItem(KEY, v); } catch (e) {}
-    box.hidden = true;
-    if (v === 'yes') load();
-  }
-  var saved;
-  try { saved = localStorage.getItem(KEY); } catch (e) {}
-  if (saved === 'yes') { load(); return; }
-  if (saved === 'no') return;
-  box.hidden = false;
-  // AIDEV-NOTE: focus-neutral — no autofocus and no global y/n capture until the
-  // user interacts with the dialog (tab/click into it). Default keyboard state
-  // stays with the page; y/n still works once the dialog has focus.
-  var engaged = false;
-  box.addEventListener('focusin', function () { engaged = true; });
-  box.addEventListener('click', function (e) {
-    engaged = true;
-    var b = e.target.closest('[data-choice]');
-    if (b) answer(b.getAttribute('data-choice'));
-  });
-  document.addEventListener('keydown', function (e) {
-    if (box.hidden || !engaged) return;
-    if (e.key === 'y') answer('yes');
-    else if (e.key === 'n') answer('no');
-  });
-})();
-</script>
 </body>
 </html>
