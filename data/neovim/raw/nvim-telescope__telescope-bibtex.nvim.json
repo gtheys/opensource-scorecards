@@ -1,10 +1,10 @@
 {
   "slug": "nvim-telescope/telescope-bibtex.nvim",
-  "fetched_at": "2026-10-26T09:43:39.744196120Z",
+  "fetched_at": "2026-10-27T09:47:55.953754910Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 136,
+    "stars": 137,
     "forks": 23,
     "description": "A telescope.nvim extension to search and paste bibtex entries into your TeX files.",
     "license_spdx": "MIT",

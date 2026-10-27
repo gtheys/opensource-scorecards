@@ -1,6 +1,6 @@
 {
   "slug": "beargruug/skipper.nvim",
-  "fetched_at": "2026-10-26T08:59:17.522030935Z",
+  "fetched_at": "2026-10-27T09:04:47.053679394Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "Beargruug",
       "account_created_at": "2016-06-06T09:33:10Z",
-      "other_repos_star_sum": 24
+      "other_repos_star_sum": 25
     },
     "has_ci": true,
     "has_tests": false,

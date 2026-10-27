@@ -1,11 +1,11 @@
 {
   "slug": "nvim-tree/nvim-tree.lua",
-  "fetched_at": "2026-10-26T09:43:47.811121904Z",
+  "fetched_at": "2026-10-27T09:48:03.813560707Z",
   "status": "ok",
   "data": {
     "archived": false,
     "stars": 8669,
-    "forks": 642,
+    "forks": 643,
     "description": "A file explorer tree for neovim written in lua",
     "license_spdx": "NOASSERTION",
     "last_commit_at": "2026-10-25T23:05:03Z",

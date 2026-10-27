@@ -1,6 +1,6 @@
 {
   "slug": "rcarriga/nvim-dap-ui",
-  "fetched_at": "2026-10-26T09:50:32.028159048Z",
+  "fetched_at": "2026-10-27T09:54:46.265298069Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "rcarriga",
       "account_created_at": "2016-11-29T16:08:19Z",
-      "other_repos_star_sum": 7562
+      "other_repos_star_sum": 7561
     },
     "has_ci": true,
     "has_tests": true,

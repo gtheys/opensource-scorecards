@@ -1,10 +1,10 @@
 {
   "slug": "sbdchd/neoformat",
-  "fetched_at": "2026-09-25T09:13:11.448088929Z",
+  "fetched_at": "2026-10-27T09:59:48.430263094Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 2047,
+    "stars": 2049,
     "forks": 181,
     "description": ":sparkles: A (Neo)vim plugin for formatting code.",
     "license_spdx": "BSD-2-Clause",

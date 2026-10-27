@@ -1,6 +1,6 @@
 {
   "slug": "b0o/incline.nvim",
-  "fetched_at": "2026-10-26T08:58:37.300386750Z",
+  "fetched_at": "2026-10-27T09:04:04.606680871Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "b0o",
       "account_created_at": "2016-08-29T00:44:30Z",
-      "other_repos_star_sum": 2188
+      "other_repos_star_sum": 2189
     },
     "has_ci": true,
     "has_tests": true,

@@ -1,10 +1,10 @@
 {
   "slug": "oxy2dev/bars.nvim",
-  "fetched_at": "2026-10-26T09:46:40.012059693Z",
+  "fetched_at": "2026-10-27T09:50:50.415055645Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 95,
+    "stars": 96,
     "forks": 3,
     "description": "A starting point/guide for creating custom statusline, statuscolumn, tabline & winbar for Neovim.",
     "license_spdx": "MIT",

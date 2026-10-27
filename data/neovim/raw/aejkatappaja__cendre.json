@@ -1,10 +1,10 @@
 {
   "slug": "aejkatappaja/cendre",
-  "fetched_at": "2026-10-26T08:54:24.118937579Z",
+  "fetched_at": "2026-10-27T08:59:43.331154976Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 181,
+    "stars": 182,
     "forks": 5,
     "description": "A dark colorscheme for Neovim. One wood fire, taken apart: five pigments, none of them chosen.",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "Aejkatappaja",
       "account_created_at": "2022-11-28T15:33:05Z",
-      "other_repos_star_sum": 1131
+      "other_repos_star_sum": 1132
     },
     "has_ci": true,
     "has_tests": true,

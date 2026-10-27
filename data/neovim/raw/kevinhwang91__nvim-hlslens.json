@@ -1,10 +1,10 @@
 {
   "slug": "kevinhwang91/nvim-hlslens",
-  "fetched_at": "2026-10-26T09:26:08.639607379Z",
+  "fetched_at": "2026-10-27T09:31:06.204736395Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 927,
+    "stars": 926,
     "forks": 17,
     "description": "Hlsearch Lens for Neovim",
     "license_spdx": "BSD-3-Clause",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "offa",
       "account_created_at": "2014-09-23T21:22:17Z",
-      "other_repos_star_sum": 11842
+      "other_repos_star_sum": 11848
     },
     "has_ci": false,
     "has_tests": false,

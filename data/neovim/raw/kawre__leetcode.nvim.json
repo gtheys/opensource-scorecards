@@ -1,10 +1,10 @@
 {
   "slug": "kawre/leetcode.nvim",
-  "fetched_at": "2026-10-26T09:25:39.845100710Z",
+  "fetched_at": "2026-10-27T09:30:38.266083662Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 2217,
+    "stars": 2218,
     "forks": 126,
     "description": "A Neovim plugin enabling you to solve LeetCode problems.",
     "license_spdx": "MIT",
@@ -13,14 +13,14 @@
     "releases_365d": 0,
     "median_issue_close_days": 5.274276620370371,
     "median_pr_close_days": 60.716064814814814,
-    "open_issues": 69,
+    "open_issues": 70,
     "closed_issues_sampled": 34,
     "contributors_12mo": 3,
     "top_author_commit_share": 0.3333333333333333,
     "top_author": {
-      "login": "phanen",
-      "account_created_at": "2021-09-28T13:06:19Z",
-      "other_repos_star_sum": 71
+      "login": "Sharmaharshitnone",
+      "account_created_at": "2024-08-21T12:49:49Z",
+      "other_repos_star_sum": 3
     },
     "has_ci": false,
     "has_tests": false,

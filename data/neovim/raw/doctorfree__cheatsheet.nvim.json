@@ -1,10 +1,10 @@
 {
   "slug": "doctorfree/cheatsheet.nvim",
-  "fetched_at": "2026-10-26T09:09:57.040409042Z",
+  "fetched_at": "2026-10-27T09:14:56.037356044Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 74,
+    "stars": 75,
     "forks": 7,
     "description": "A cheatsheet plugin for neovim with bundled cheatsheets for the editor, multiple vim plugins, nerd-fonts, regex, etc. with a Telescope fuzzy finder interface !",
     "license_spdx": "MIT",

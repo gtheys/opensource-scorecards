@@ -472,6 +472,7 @@ repos:
   - hat0uma/doxygen-previewer.nvim
   - hat0uma/prelive.nvim
   - hawkinst/pathfinder.nvim
+  - hawknewton/matrix-splash.nvim
   - hawknewton/termyank.nvim
   - hdoc1509/gh-actions.nvim
   - hebercosfer/floating-claude.nvim
@@ -819,6 +820,7 @@ repos:
   - mrjones2014/legendary.nvim
   - mrjones2014/smart-splits.nvim
   - mrloop/telescope-git-branch.nvim
+  - mrwatts88/ghost.nvim
   - ms-jpq/chadtree
   - ms-jpq/coq_nvim
   - ms-jpq/sad
@@ -1045,6 +1047,7 @@ repos:
   - ray-x/starry.nvim
   - raymondware/focusmode.nvim
   - raymondware/herdr.nvim
+  - raziksf/lumina-themes
   - rcarriga/nvim-dap-ui
   - rcarriga/nvim-notify
   - rebelot/heirline.nvim

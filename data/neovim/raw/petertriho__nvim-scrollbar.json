@@ -1,10 +1,10 @@
 {
   "slug": "petertriho/nvim-scrollbar",
-  "fetched_at": "2026-10-26T09:47:13.427448193Z",
+  "fetched_at": "2026-10-27T09:51:25.267049499Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 1073,
+    "stars": 1072,
     "forks": 24,
     "description": "Extensible Neovim Scrollbar",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "petertriho",
       "account_created_at": "2014-04-27T13:06:39Z",
-      "other_repos_star_sum": 1567
+      "other_repos_star_sum": 1566
     },
     "has_ci": true,
     "has_tests": false,

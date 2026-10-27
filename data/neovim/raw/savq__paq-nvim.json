@@ -1,11 +1,11 @@
 {
   "slug": "savq/paq-nvim",
-  "fetched_at": "2026-09-25T09:13:02.900524467Z",
+  "fetched_at": "2026-10-27T09:59:37.245290395Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 706,
-    "forks": 45,
+    "stars": 704,
+    "forks": 46,
     "description": "🌚  Neovim package manager",
     "license_spdx": "MIT",
     "last_commit_at": null,
@@ -13,7 +13,7 @@
     "releases_365d": 0,
     "median_issue_close_days": 398.820625,
     "median_pr_close_days": 4.748530092592593,
-    "open_issues": 6,
+    "open_issues": 8,
     "closed_issues_sampled": 31,
     "contributors_12mo": 0,
     "top_author_commit_share": 0.0,

@@ -1,10 +1,10 @@
 {
   "slug": "nghiant03/jove.nvim",
-  "fetched_at": "2026-10-26T09:40:15.344281961Z",
+  "fetched_at": "2026-10-27T09:44:33.761777485Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 12,
+    "stars": 13,
     "forks": 1,
     "description": "Jupyter Notebook editing and output rendering inside Neovim. Jupyter Lab experience in your favourite editor.",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "nghiant03",
       "account_created_at": "2022-03-30T02:05:25Z",
-      "other_repos_star_sum": 12
+      "other_repos_star_sum": 13
     },
     "has_ci": true,
     "has_tests": true,

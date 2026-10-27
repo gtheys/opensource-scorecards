@@ -1,11 +1,11 @@
 {
   "slug": "oxy2dev/markview.nvim",
-  "fetched_at": "2026-10-26T09:46:51.924698511Z",
+  "fetched_at": "2026-10-27T09:51:01.692810685Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 3666,
-    "forks": 111,
+    "stars": 3665,
+    "forks": 112,
     "description": "A hackable markdown, Typst, latex, html(inline) & Asciidoc previewer for Neovim",
     "license_spdx": "Apache-2.0",
     "last_commit_at": "2026-10-18T02:26:39Z",

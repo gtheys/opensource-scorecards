@@ -1,15 +1,15 @@
 {
   "slug": "nvim-neo-tree/neo-tree.nvim",
-  "fetched_at": "2026-10-26T09:43:11.845405253Z",
+  "fetched_at": "2026-10-27T09:47:27.330740600Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 5635,
+    "stars": 5634,
     "forks": 311,
     "description": "Neovim plugin to manage the file system and other tree like structures.",
     "license_spdx": "MIT",
     "last_commit_at": "2026-10-23T17:30:32Z",
-    "commits_90d": 35,
+    "commits_90d": 34,
     "releases_365d": 5,
     "median_issue_close_days": 3.1795081018518516,
     "median_pr_close_days": 0.7573495370370371,

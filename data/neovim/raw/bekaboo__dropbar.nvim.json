@@ -1,10 +1,10 @@
 {
   "slug": "bekaboo/dropbar.nvim",
-  "fetched_at": "2026-10-26T08:59:25.643437806Z",
+  "fetched_at": "2026-10-27T09:04:55.275315757Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 1606,
+    "stars": 1607,
     "forks": 47,
     "description": "IDE-like breadcrumbs, out of the box",
     "license_spdx": "GPL-3.0",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "Bekaboo",
       "account_created_at": "2020-12-25T06:20:27Z",
-      "other_repos_star_sum": 2210
+      "other_repos_star_sum": 2211
     },
     "has_ci": true,
     "has_tests": true,

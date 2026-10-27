@@ -1,11 +1,11 @@
 {
   "slug": "nvim-mini/mini.nvim",
-  "fetched_at": "2026-10-26T09:43:02.382444972Z",
+  "fetched_at": "2026-10-27T09:47:16.762386954Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 9603,
-    "forks": 317,
+    "stars": 9604,
+    "forks": 318,
     "description": "Library of 45+ independent Lua modules improving Neovim experience with minimal effort",
     "license_spdx": "MIT",
     "last_commit_at": "2026-10-25T14:33:23Z",

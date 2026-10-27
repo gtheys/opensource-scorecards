@@ -1,11 +1,11 @@
 {
   "slug": "lewistg/pesto.nvim",
-  "fetched_at": "2026-10-26T09:29:18.024829002Z",
+  "fetched_at": "2026-10-27T09:34:19.509111267Z",
   "status": "ok",
   "data": {
     "archived": false,
     "stars": 9,
-    "forks": 0,
+    "forks": 1,
     "description": "Neovim Bazel plugin with quickfix support powered by the Build Event Protocol",
     "license_spdx": "Apache-2.0",
     "last_commit_at": "2026-07-11T18:54:25Z",

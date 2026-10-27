@@ -1,6 +1,6 @@
 {
   "slug": "nvimdev/lspsaga.nvim",
-  "fetched_at": "2026-10-26T09:44:22.333455829Z",
+  "fetched_at": "2026-10-27T09:48:36.792142740Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -18,9 +18,9 @@
     "contributors_12mo": 5,
     "top_author_commit_share": 0.2,
     "top_author": {
-      "login": "leeguooooo",
-      "account_created_at": "2014-10-17T06:16:06Z",
-      "other_repos_star_sum": 1383
+      "login": "jamesweiland",
+      "account_created_at": "2024-04-04T15:49:57Z",
+      "other_repos_star_sum": 4
     },
     "has_ci": true,
     "has_tests": true,

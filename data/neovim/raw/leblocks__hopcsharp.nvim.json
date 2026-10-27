@@ -1,6 +1,6 @@
 {
   "slug": "leblocks/hopcsharp.nvim",
-  "fetched_at": "2026-10-26T09:28:42.985856509Z",
+  "fetched_at": "2026-10-27T09:33:43.017985565Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -11,10 +11,10 @@
     "last_commit_at": "2026-08-20T12:00:22Z",
     "commits_90d": 3,
     "releases_365d": 6,
-    "median_issue_close_days": 38.78017361111111,
-    "median_pr_close_days": 2.7406712962962962,
-    "open_issues": 10,
-    "closed_issues_sampled": 25,
+    "median_issue_close_days": 39.232708333333335,
+    "median_pr_close_days": 2.4574652777777777,
+    "open_issues": 11,
+    "closed_issues_sampled": 26,
     "contributors_12mo": 1,
     "top_author_commit_share": 1.0,
     "top_author": {

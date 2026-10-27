@@ -1,6 +1,6 @@
 {
   "slug": "nvim-telekasten/telekasten.nvim",
-  "fetched_at": "2026-10-26T09:43:36.257529437Z",
+  "fetched_at": "2026-10-27T09:47:52.948359712Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -18,9 +18,9 @@
     "contributors_12mo": 5,
     "top_author_commit_share": 0.3548387096774194,
     "top_author": {
-      "login": "sarahyack",
-      "account_created_at": "2023-08-30T19:44:08Z",
-      "other_repos_star_sum": 0
+      "login": "lambtho12",
+      "account_created_at": "2017-03-05T20:03:34Z",
+      "other_repos_star_sum": 1
     },
     "has_ci": true,
     "has_tests": false,

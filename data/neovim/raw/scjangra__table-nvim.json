@@ -1,11 +1,11 @@
 {
   "slug": "scjangra/table-nvim",
-  "fetched_at": "2026-09-25T09:13:26.960367596Z",
+  "fetched_at": "2026-10-27T10:00:13.282894113Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 87,
-    "forks": 4,
+    "stars": 88,
+    "forks": 5,
     "description": "A markdown table editor for Neovim that formats the table as you type.",
     "license_spdx": "MIT",
     "last_commit_at": "2026-03-12T08:04:22Z",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "SCJangra",
       "account_created_at": "2018-07-05T12:50:39Z",
-      "other_repos_star_sum": 98
+      "other_repos_star_sum": 99
     },
     "has_ci": false,
     "has_tests": false,

@@ -1,10 +1,10 @@
 {
   "slug": "akioweh/lsp-document-highlight.nvim",
-  "fetched_at": "2026-10-26T08:55:04.285616280Z",
+  "fetched_at": "2026-10-27T09:00:25.246716526Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 14,
+    "stars": 15,
     "forks": 0,
     "description": "Snappy \"cursor word\" highlighting using modern mechanics for neovim",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "akioweh",
       "account_created_at": "2021-02-23T15:05:59Z",
-      "other_repos_star_sum": 78
+      "other_repos_star_sum": 79
     },
     "has_ci": false,
     "has_tests": false,

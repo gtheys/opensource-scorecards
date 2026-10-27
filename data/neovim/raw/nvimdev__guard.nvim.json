@@ -1,11 +1,11 @@
 {
   "slug": "nvimdev/guard.nvim",
-  "fetched_at": "2026-10-26T09:44:12.993950780Z",
+  "fetched_at": "2026-10-27T09:48:27.550246797Z",
   "status": "ok",
   "data": {
     "archived": false,
     "stars": 516,
-    "forks": 27,
+    "forks": 26,
     "description": "Lightweight, fast and async formatting and linting plugin for Neovim",
     "license_spdx": "MIT",
     "last_commit_at": "2026-01-31T09:24:42Z",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "xiaoshihou514",
       "account_created_at": "2022-06-29T14:14:37Z",
-      "other_repos_star_sum": 160
+      "other_repos_star_sum": 162
     },
     "has_ci": true,
     "has_tests": true,

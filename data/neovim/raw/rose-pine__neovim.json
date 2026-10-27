@@ -1,10 +1,10 @@
 {
   "slug": "rose-pine/neovim",
-  "fetched_at": "2026-10-20T09:28:23.238884509Z",
+  "fetched_at": "2026-10-27T09:57:04.319188662Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 3106,
+    "stars": 3107,
     "forks": 177,
     "description": "Soho vibes for Neovim",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "mvllow",
       "account_created_at": "2012-02-26T03:12:57Z",
-      "other_repos_star_sum": 1925
+      "other_repos_star_sum": 1923
     },
     "has_ci": false,
     "has_tests": false,

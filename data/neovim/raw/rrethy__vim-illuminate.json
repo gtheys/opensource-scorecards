@@ -1,10 +1,10 @@
 {
   "slug": "rrethy/vim-illuminate",
-  "fetched_at": "2026-10-20T09:28:36.096443300Z",
+  "fetched_at": "2026-10-27T09:57:17.276953771Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 2473,
+    "stars": 2474,
     "forks": 76,
     "description": "illuminate.vim - (Neo)Vim plugin for automatically highlighting other uses of the word under the cursor using either LSP, Tree-sitter, or regex matching.",
     "license_spdx": "MIT",

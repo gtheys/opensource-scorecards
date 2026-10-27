@@ -1,6 +1,6 @@
 {
   "slug": "milanglacier/yarepl.nvim",
-  "fetched_at": "2026-10-26T09:34:58.862118390Z",
+  "fetched_at": "2026-10-27T09:39:49.231674679Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "milanglacier",
       "account_created_at": "2018-12-09T07:04:07Z",
-      "other_repos_star_sum": 2106
+      "other_repos_star_sum": 2108
     },
     "has_ci": true,
     "has_tests": false,
