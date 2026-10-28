@@ -1,6 +1,6 @@
 {
   "slug": "jarndev/autodap.nvim",
-  "fetched_at": "2026-10-27T09:26:55.424673643Z",
+  "fetched_at": "2026-10-28T10:08:55.553607416Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "JarnDev",
       "account_created_at": "2016-06-23T16:21:19Z",
-      "other_repos_star_sum": 31
+      "other_repos_star_sum": 33
     },
     "has_ci": true,
     "has_tests": true,

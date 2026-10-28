@@ -1,10 +1,10 @@
 {
   "slug": "copilotc-nvim/copilotchat.nvim",
-  "fetched_at": "2026-10-27T09:10:14.394107696Z",
+  "fetched_at": "2026-10-28T09:51:03.661049712Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 3648,
+    "stars": 3647,
     "forks": 173,
     "description": "Chat with GitHub Copilot in Neovim",
     "license_spdx": "GPL-3.0",
@@ -13,7 +13,7 @@
     "releases_365d": 0,
     "median_issue_close_days": 18.192939814814814,
     "median_pr_close_days": 0.0016898148148148148,
-    "open_issues": 24,
+    "open_issues": 26,
     "closed_issues_sampled": 19,
     "contributors_12mo": 15,
     "top_author_commit_share": 0.5641025641025641,

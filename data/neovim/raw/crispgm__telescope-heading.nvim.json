@@ -1,6 +1,6 @@
 {
   "slug": "crispgm/telescope-heading.nvim",
-  "fetched_at": "2026-10-27T09:11:05.010791673Z",
+  "fetched_at": "2026-10-28T09:51:54.040459248Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "crispgm",
       "account_created_at": "2012-02-10T08:12:28Z",
-      "other_repos_star_sum": 1383
+      "other_repos_star_sum": 1384
     },
     "has_ci": true,
     "has_tests": false,

@@ -1,10 +1,10 @@
 {
   "slug": "bekaboo/deadcolumn.nvim",
-  "fetched_at": "2026-10-27T09:04:52.882811107Z",
+  "fetched_at": "2026-10-28T09:45:31.160081748Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 349,
+    "stars": 350,
     "forks": 11,
     "description": "A neovim plugin that shows colorcolumn dynamically",
     "license_spdx": "GPL-3.0",

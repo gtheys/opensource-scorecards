@@ -1,10 +1,10 @@
 {
   "slug": "cursortab/cursortab.nvim",
-  "fetched_at": "2026-10-27T09:11:45.890885883Z",
+  "fetched_at": "2026-10-28T09:52:35.548108280Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 260,
+    "stars": 261,
     "forks": 28,
     "description": "Neovim edit completion plugin",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "leonardcser",
       "account_created_at": "2020-11-03T21:12:05Z",
-      "other_repos_star_sum": 86
+      "other_repos_star_sum": 88
     },
     "has_ci": true,
     "has_tests": false,
