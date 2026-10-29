@@ -1,10 +1,10 @@
 {
   "slug": "askfiy/nvim-picgo",
-  "fetched_at": "2026-10-28T09:43:24.731832701Z",
+  "fetched_at": "2026-10-29T10:01:21.095664027Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 69,
+    "stars": 70,
     "forks": 8,
     "description": "🥳🥳 A neovim plugin based on picgo-core, written in Lua. 🌲 Allows you to add pictures to various picture beds at any time, and they can be accessed from any corner of the Internet. 🎆",
     "license_spdx": "GPL-3.0",

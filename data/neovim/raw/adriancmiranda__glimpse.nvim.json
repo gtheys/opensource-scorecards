@@ -1,10 +1,10 @@
 {
   "slug": "adriancmiranda/glimpse.nvim",
-  "fetched_at": "2026-10-28T09:39:55.260504642Z",
+  "fetched_at": "2026-10-29T09:58:09.681910408Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 10,
+    "stars": 11,
     "forks": 0,
     "description": "🖼️ Fast multi-format file previewer with inline Kitty graphics support, external pane previews, and integrations for file explorers and pickers.",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "adriancmiranda",
       "account_created_at": "2013-09-10T23:10:17Z",
-      "other_repos_star_sum": 65
+      "other_repos_star_sum": 66
     },
     "has_ci": true,
     "has_tests": true,

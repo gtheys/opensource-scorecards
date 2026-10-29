@@ -1,10 +1,10 @@
 {
   "slug": "chrisgrieser/nvim-chainsaw",
-  "fetched_at": "2026-10-28T09:48:50.040572687Z",
+  "fetched_at": "2026-10-29T10:06:28.917968389Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 162,
+    "stars": 163,
     "forks": 18,
     "description": "Smart and customizable creation of logs.",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "chrisgrieser",
       "account_created_at": "2020-10-22T10:50:35Z",
-      "other_repos_star_sum": 8886
+      "other_repos_star_sum": 8885
     },
     "has_ci": true,
     "has_tests": false,

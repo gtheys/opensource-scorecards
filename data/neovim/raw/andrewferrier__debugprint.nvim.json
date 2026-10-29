@@ -1,10 +1,10 @@
 {
   "slug": "andrewferrier/debugprint.nvim",
-  "fetched_at": "2026-10-28T09:42:21.076813534Z",
+  "fetched_at": "2026-10-29T10:00:19.472865530Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 527,
+    "stars": 529,
     "forks": 28,
     "description": "Debugging in NeoVim the print() way!",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "andrewferrier",
       "account_created_at": "2009-07-20T20:32:32Z",
-      "other_repos_star_sum": 1118
+      "other_repos_star_sum": 1120
     },
     "has_ci": true,
     "has_tests": true,

@@ -1,6 +1,6 @@
 {
   "slug": "lumen-oss/rocks.nvim",
-  "fetched_at": "2026-10-27T09:36:07.640046155Z",
+  "fetched_at": "2026-10-29T10:33:38.562898467Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "mrcjkb",
       "account_created_at": "2015-06-12T07:36:11Z",
-      "other_repos_star_sum": 672
+      "other_repos_star_sum": 673
     },
     "has_ci": true,
     "has_tests": true,

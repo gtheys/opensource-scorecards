@@ -1,10 +1,10 @@
 {
   "slug": "josephburgess/nvumi",
-  "fetched_at": "2026-10-28T10:10:53.549282720Z",
+  "fetched_at": "2026-10-29T10:26:32.681859339Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 72,
+    "stars": 71,
     "forks": 1,
     "description": "Combining numi-cli and a scratch buffer to evaluate natural language expressions within Neovim",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "josephburgess",
       "account_created_at": "2013-06-10T14:42:24Z",
-      "other_repos_star_sum": 114
+      "other_repos_star_sum": 112
     },
     "has_ci": true,
     "has_tests": true,

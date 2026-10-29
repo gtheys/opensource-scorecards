@@ -1,10 +1,10 @@
 {
   "slug": "github/copilot.vim",
-  "fetched_at": "2026-10-28T10:03:33.782748540Z",
+  "fetched_at": "2026-10-29T10:19:57.633149810Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 11698,
+    "stars": 11701,
     "forks": 830,
     "description": "Neovim plugin for GitHub Copilot",
     "license_spdx": "NOASSERTION",
@@ -13,7 +13,7 @@
     "releases_365d": 0,
     "median_issue_close_days": 2.428234953703704,
     "median_pr_close_days": null,
-    "open_issues": 78,
+    "open_issues": 79,
     "closed_issues_sampled": 50,
     "contributors_12mo": 1,
     "top_author_commit_share": 1.0,

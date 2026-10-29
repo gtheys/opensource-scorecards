@@ -1,10 +1,10 @@
 {
   "slug": "bydlw98/blink-cmp-env",
-  "fetched_at": "2026-10-28T09:47:12.514441243Z",
+  "fetched_at": "2026-10-29T10:04:57.666111251Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 23,
+    "stars": 24,
     "forks": 2,
     "description": "Environment variables source for blink.cmp",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "bydlw98",
       "account_created_at": "2022-07-02T14:29:30Z",
-      "other_repos_star_sum": 45
+      "other_repos_star_sum": 46
     },
     "has_ci": true,
     "has_tests": false,

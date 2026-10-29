@@ -1,0 +1,29 @@
+{
+  "slug": "gamjagoon/earlgrey.nvim",
+  "fetched_at": "2026-10-29T10:18:47.439373271Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "A focused Neovim configuration with agent notifications, per-language LSP controls, and cross-platform installers.",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-10-27T02:27:16Z",
+    "commits_90d": 26,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "gamjagoon",
+      "account_created_at": "2019-05-28T10:26:10Z",
+      "other_repos_star_sum": 1
+    },
+    "has_ci": false,
+    "has_tests": true,
+    "readme_len": 4558
+  }
+}

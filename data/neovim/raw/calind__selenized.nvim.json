@@ -1,10 +1,10 @@
 {
   "slug": "calind/selenized.nvim",
-  "fetched_at": "2026-10-28T09:47:21.646895090Z",
+  "fetched_at": "2026-10-29T10:05:05.851141Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 32,
+    "stars": 33,
     "forks": 14,
     "description": "Lua port of Selenized theme for Neovim with support for Tree-sitter, nvim-cmp, GitSigns and some more",
     "license_spdx": "MIT",

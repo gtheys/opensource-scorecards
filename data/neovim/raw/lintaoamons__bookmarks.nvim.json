@@ -1,10 +1,10 @@
 {
   "slug": "lintaoamons/bookmarks.nvim",
-  "fetched_at": "2026-10-27T09:34:53.825794356Z",
+  "fetched_at": "2026-10-29T10:32:28.879747333Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 295,
+    "stars": 296,
     "forks": 14,
     "description": "Persistent bookmarks: hard disk of your thoughts",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "LintaoAmons",
       "account_created_at": "2021-11-26T15:06:12Z",
-      "other_repos_star_sum": 771
+      "other_repos_star_sum": 773
     },
     "has_ci": true,
     "has_tests": false,

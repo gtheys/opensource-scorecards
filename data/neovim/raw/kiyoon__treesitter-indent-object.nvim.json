@@ -1,6 +1,6 @@
 {
   "slug": "kiyoon/treesitter-indent-object.nvim",
-  "fetched_at": "2026-10-27T09:32:09.637314392Z",
+  "fetched_at": "2026-10-29T10:29:47.491424629Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "kiyoon",
       "account_created_at": "2015-06-20T17:30:29Z",
-      "other_repos_star_sum": 1186
+      "other_repos_star_sum": 1185
     },
     "has_ci": true,
     "has_tests": false,

@@ -1,10 +1,10 @@
 {
   "slug": "barrettruth/diffs.nvim",
-  "fetched_at": "2026-10-28T09:45:07.257045960Z",
+  "fetched_at": "2026-10-29T10:03:01.040085339Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 204,
+    "stars": 205,
     "forks": 4,
     "description": "treesitter syntax highlighting for diffs",
     "license_spdx": "GPL-3.0",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "barrettruth",
       "account_created_at": "2020-03-25T20:00:03Z",
-      "other_repos_star_sum": 779
+      "other_repos_star_sum": 780
     },
     "has_ci": true,
     "has_tests": true,

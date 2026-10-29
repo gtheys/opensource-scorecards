@@ -1,10 +1,10 @@
 {
   "slug": "kdheepak/lazygit.nvim",
-  "fetched_at": "2026-10-27T09:30:43.942290858Z",
+  "fetched_at": "2026-10-29T10:28:26.357937872Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 2378,
+    "stars": 2380,
     "forks": 91,
     "description": "Plugin for calling lazygit from within neovim.",
     "license_spdx": "MIT",
