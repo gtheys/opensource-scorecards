@@ -1,10 +1,10 @@
 {
   "slug": "debugloop/telescope-undo.nvim",
-  "fetched_at": "2026-10-29T10:11:47.866787588Z",
+  "fetched_at": "2026-10-30T10:13:51.195636815Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 786,
+    "stars": 787,
     "forks": 13,
     "description": "A telescope extension to view and search your undo tree 🌴",
     "license_spdx": "MIT",

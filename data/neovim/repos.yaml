@@ -323,6 +323,7 @@ repos:
   - dmshvedchenko/persist.nvim
   - dmtrkovalenko/fff.nvim
   - dnlhc/glance.nvim
+  - dobsontom/dbt-ft.nvim
   - doctorfree/cheatsheet.nvim
   - doctorfree/nvim-lazyman
   - doehnert/laravel-log-watcher.nvim
@@ -481,6 +482,7 @@ repos:
   - heilgar/bookmarks.nvim
   - heilgar/nochat.nvim
   - heilgar/nvim-http-client
+  - heritage-themes/heritage-themes.nvim
   - hiberabyss/bzlops.vim
   - hinell/duplicate.nvim
   - hinell/lsp-timeout.nvim
@@ -498,7 +500,6 @@ repos:
   - hrsh7th/nvim-cmp
   - hyperb1iss/silkcircuit
   - iabdelkareem/csharp.nvim
-  - iamcco/markdown-preview.nvim
   - iamironz/android-nvim-plugin
   - iamt4nk/smm.nvim
   - ibhagwan/fzf-lua
@@ -1125,6 +1126,7 @@ repos:
   - samharju/synthweave.nvim
   - samharju/yeet.nvim
   - samjwill/nvim-unception
+  - sammaji/markdown-preview.nvim
   - sang-it/fluoride
   - sanjay-np/nvim-yt-player
   - satozawa/graft.nvim

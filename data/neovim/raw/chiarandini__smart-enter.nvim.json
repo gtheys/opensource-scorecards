@@ -1,6 +1,6 @@
 {
   "slug": "chiarandini/smart-enter.nvim",
-  "fetched_at": "2026-10-29T10:06:06.849435472Z",
+  "fetched_at": "2026-10-30T10:08:17.796183644Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "Chiarandini",
       "account_created_at": "2018-01-24T00:29:57Z",
-      "other_repos_star_sum": 33
+      "other_repos_star_sum": 34
     },
     "has_ci": false,
     "has_tests": true,

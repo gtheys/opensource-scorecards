@@ -1,6 +1,6 @@
 {
   "slug": "acidsugarx/babel.nvim",
-  "fetched_at": "2026-10-29T09:57:33.086517316Z",
+  "fetched_at": "2026-10-30T10:00:05.874376464Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "🌍 Translate text without leaving Neovim",
     "license_spdx": "MIT",
     "last_commit_at": "2026-09-03T13:28:56Z",
-    "commits_90d": 11,
+    "commits_90d": 10,
     "releases_365d": 4,
     "median_issue_close_days": 29.225127314814817,
     "median_pr_close_days": 22.145399305555557,

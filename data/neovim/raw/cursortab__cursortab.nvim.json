@@ -1,29 +1,29 @@
 {
   "slug": "cursortab/cursortab.nvim",
-  "fetched_at": "2026-10-29T10:10:01.171598397Z",
+  "fetched_at": "2026-10-30T10:12:06.363067270Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 261,
-    "forks": 28,
+    "stars": 262,
+    "forks": 29,
     "description": "Neovim edit completion plugin",
     "license_spdx": "MIT",
-    "last_commit_at": "2026-10-21T11:39:16Z",
-    "commits_90d": 6,
-    "releases_365d": 43,
-    "median_issue_close_days": 2.085590277777778,
-    "median_pr_close_days": 0.25059027777777776,
+    "last_commit_at": "2026-10-29T16:03:07Z",
+    "commits_90d": 12,
+    "releases_365d": 44,
+    "median_issue_close_days": 1.6359548611111112,
+    "median_pr_close_days": 0.18886574074074075,
     "open_issues": 5,
     "closed_issues_sampled": 20,
-    "contributors_12mo": 13,
-    "top_author_commit_share": 0.9348534201954397,
+    "contributors_12mo": 14,
+    "top_author_commit_share": 0.9329073482428115,
     "top_author": {
       "login": "leonardcser",
       "account_created_at": "2020-11-03T21:12:05Z",
-      "other_repos_star_sum": 88
+      "other_repos_star_sum": 89
     },
     "has_ci": true,
     "has_tests": false,
-    "readme_len": 23310
+    "readme_len": 23380
   }
 }

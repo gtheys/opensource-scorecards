@@ -1,6 +1,6 @@
 {
   "slug": "copilotc-nvim/copilotchat.nvim",
-  "fetched_at": "2026-10-29T10:08:35.088809128Z",
+  "fetched_at": "2026-10-30T10:10:42.152738828Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "deathbeam",
       "account_created_at": "2013-07-29T19:31:04Z",
-      "other_repos_star_sum": 516
+      "other_repos_star_sum": 517
     },
     "has_ci": true,
     "has_tests": true,
