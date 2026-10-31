@@ -1,6 +1,6 @@
 {
   "slug": "nanotee/sqls.nvim",
-  "fetched_at": "2026-10-27T09:43:11.685622290Z",
+  "fetched_at": "2026-10-31T10:15:33.063183418Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "nanotee",
       "account_created_at": "2019-10-03T08:22:53Z",
-      "other_repos_star_sum": 6583
+      "other_repos_star_sum": 6582
     },
     "has_ci": false,
     "has_tests": false,

@@ -1,6 +1,6 @@
 {
   "slug": "mrjones2014/codesettings.nvim",
-  "fetched_at": "2026-10-27T09:42:14.672423819Z",
+  "fetched_at": "2026-10-31T10:14:44.660925271Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -8,19 +8,19 @@
     "forks": 9,
     "description": "⚙️ Load project-local settings (like .vscode/settings.json) into Neovim 0.11+ native LSP settings easily.",
     "license_spdx": "Apache-2.0",
-    "last_commit_at": "2026-10-24T01:23:29Z",
-    "commits_90d": 40,
-    "releases_365d": 17,
+    "last_commit_at": "2026-10-31T01:10:56Z",
+    "commits_90d": 42,
+    "releases_365d": 16,
     "median_issue_close_days": 73.00003472222222,
-    "median_pr_close_days": 0.005925925925925926,
+    "median_pr_close_days": 0.005914351851851852,
     "open_issues": 3,
     "closed_issues_sampled": 3,
     "contributors_12mo": 5,
-    "top_author_commit_share": 0.9699248120300752,
+    "top_author_commit_share": 0.9692307692307692,
     "top_author": {
       "login": "mrjones2014",
       "account_created_at": "2014-09-03T23:51:58Z",
-      "other_repos_star_sum": 2350
+      "other_repos_star_sum": 2352
     },
     "has_ci": true,
     "has_tests": true,

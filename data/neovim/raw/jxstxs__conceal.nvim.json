@@ -1,11 +1,11 @@
 {
   "slug": "jxstxs/conceal.nvim",
-  "fetched_at": "2026-10-29T10:27:47.076034428Z",
+  "fetched_at": "2026-10-31T10:04:14.918221205Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 77,
-    "forks": 9,
+    "stars": 78,
+    "forks": 10,
     "description": "A Neovim Plugin which uses Treesitter to conceal typical boiler Code",
     "license_spdx": "MIT",
     "last_commit_at": null,

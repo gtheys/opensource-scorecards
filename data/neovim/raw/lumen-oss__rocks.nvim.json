@@ -1,6 +1,6 @@
 {
   "slug": "lumen-oss/rocks.nvim",
-  "fetched_at": "2026-10-29T10:33:38.562898467Z",
+  "fetched_at": "2026-10-31T10:09:28.285235780Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -11,10 +11,10 @@
     "last_commit_at": "2026-10-15T17:11:37Z",
     "commits_90d": 3,
     "releases_365d": 9,
-    "median_issue_close_days": 0.5982986111111112,
-    "median_pr_close_days": 0.18119212962962963,
+    "median_issue_close_days": 0.4492303240740741,
+    "median_pr_close_days": 0.16674768518518518,
     "open_issues": 55,
-    "closed_issues_sampled": 13,
+    "closed_issues_sampled": 14,
     "contributors_12mo": 3,
     "top_author_commit_share": 0.8958333333333334,
     "top_author": {

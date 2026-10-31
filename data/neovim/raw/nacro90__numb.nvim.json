@@ -1,6 +1,6 @@
 {
   "slug": "nacro90/numb.nvim",
-  "fetched_at": "2026-10-27T09:43:04.622439445Z",
+  "fetched_at": "2026-10-31T10:15:26.945250780Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "Peek lines just when you intend",
     "license_spdx": "MIT",
     "last_commit_at": "2026-09-28T10:33:49Z",
-    "commits_90d": 77,
+    "commits_90d": 10,
     "releases_365d": 5,
     "median_issue_close_days": 1.1904513888888888,
     "median_pr_close_days": 0.5198148148148148,

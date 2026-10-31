@@ -1,10 +1,10 @@
 {
   "slug": "mr-lllll/cool-chunk.nvim",
-  "fetched_at": "2026-10-27T09:41:42.454954578Z",
+  "fetched_at": "2026-10-31T10:14:17.763356663Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 26,
+    "stars": 27,
     "forks": 2,
     "description": "forked from hlchunk.nvim and removed indent. only chunk and context, simple and faster.",
     "license_spdx": "MIT",

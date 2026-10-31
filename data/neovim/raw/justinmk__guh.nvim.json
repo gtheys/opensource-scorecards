@@ -1,6 +1,6 @@
 {
   "slug": "justinmk/guh.nvim",
-  "fetched_at": "2026-10-29T10:27:41.016789310Z",
+  "fetched_at": "2026-10-31T10:04:09.372358402Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "justinmk",
       "account_created_at": "2012-01-20T17:37:03Z",
-      "other_repos_star_sum": 5947
+      "other_repos_star_sum": 5946
     },
     "has_ci": true,
     "has_tests": true,

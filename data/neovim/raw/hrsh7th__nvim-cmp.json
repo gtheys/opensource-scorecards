@@ -1,6 +1,6 @@
 {
   "slug": "hrsh7th/nvim-cmp",
-  "fetched_at": "2026-10-30T10:24:10.492500247Z",
+  "fetched_at": "2026-10-31T09:59:22.760453372Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -15,8 +15,8 @@
     "median_pr_close_days": 95.63624421296296,
     "open_issues": 305,
     "closed_issues_sampled": 28,
-    "contributors_12mo": 14,
-    "top_author_commit_share": 0.2631578947368421,
+    "contributors_12mo": 12,
+    "top_author_commit_share": 0.25,
     "top_author": {
       "login": "wsdjeg",
       "account_created_at": "2015-07-01T23:21:16Z",

@@ -1,6 +1,6 @@
 {
   "slug": "milanglacier/yarepl.nvim",
-  "fetched_at": "2026-10-27T09:39:49.231674679Z",
+  "fetched_at": "2026-10-31T10:12:40.194823311Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "Versatile REPL/CLI manager. Multiple sending modes with parallel sessions, buffer attachments, and cross-language support. AI CLI integration for Aider  and OpenAI Codex. Picker support, project-level configs, code cell text objects, and native dot-repeat.",
     "license_spdx": "GPL-3.0",
     "last_commit_at": "2026-08-02T00:57:40Z",
-    "commits_90d": 1,
+    "commits_90d": 0,
     "releases_365d": 3,
     "median_issue_close_days": 2.017175925925926,
     "median_pr_close_days": 0.41995949074074074,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "milanglacier",
       "account_created_at": "2018-12-09T07:04:07Z",
-      "other_repos_star_sum": 2108
+      "other_repos_star_sum": 2110
     },
     "has_ci": true,
     "has_tests": false,

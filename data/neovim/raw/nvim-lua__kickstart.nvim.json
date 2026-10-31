@@ -1,11 +1,11 @@
 {
   "slug": "nvim-lua/kickstart.nvim",
-  "fetched_at": "2026-10-27T09:47:02.582277818Z",
+  "fetched_at": "2026-10-31T10:18:52.458753531Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 31627,
-    "forks": 46332,
+    "stars": 31632,
+    "forks": 46306,
     "description": "A launch point for your personal nvim configuration",
     "license_spdx": "MIT",
     "last_commit_at": "2026-10-03T11:54:01Z",

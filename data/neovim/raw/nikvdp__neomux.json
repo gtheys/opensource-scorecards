@@ -1,10 +1,10 @@
 {
   "slug": "nikvdp/neomux",
-  "fetched_at": "2026-10-27T09:44:53.959779460Z",
+  "fetched_at": "2026-10-31T10:17:02.049238760Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 393,
+    "stars": 394,
     "forks": 10,
     "description": "Control Neovim from shells running inside Neovim.",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "nikvdp",
       "account_created_at": "2013-06-09T03:16:20Z",
-      "other_repos_star_sum": 1633
+      "other_repos_star_sum": 1635
     },
     "has_ci": true,
     "has_tests": false,

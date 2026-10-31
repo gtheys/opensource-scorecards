@@ -1,10 +1,10 @@
 {
   "slug": "drkjeff16/wezterm-types",
-  "fetched_at": "2026-10-30T10:16:04.611361991Z",
+  "fetched_at": "2026-10-31T09:52:09.448869059Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 227,
+    "stars": 228,
     "forks": 30,
     "description": "WezTerm Lua config types for LuaLS, with Neovim and VSCode support. Also supperts various WezTerm plugins.",
     "license_spdx": "MIT",
