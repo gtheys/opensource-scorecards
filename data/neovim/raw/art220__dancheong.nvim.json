@@ -1,6 +1,6 @@
 {
   "slug": "art220/dancheong.nvim",
-  "fetched_at": "2026-10-31T09:40:39.088783343Z",
+  "fetched_at": "2026-11-01T10:29:33.590560667Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "Neovim colorscheme drawn from dancheong, the 1,500-year-old Korean temple-painting palette. Four variants, Tree-sitter and LSP semantic tokens, contrast gated at build time.",
     "license_spdx": "MIT",
     "last_commit_at": "2026-08-03T00:56:23Z",
-    "commits_90d": 2,
+    "commits_90d": 0,
     "releases_365d": 0,
     "median_issue_close_days": null,
     "median_pr_close_days": null,

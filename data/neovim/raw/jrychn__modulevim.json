@@ -1,6 +1,6 @@
 {
   "slug": "jrychn/modulevim",
-  "fetched_at": "2026-10-31T10:03:30.775129994Z",
+  "fetched_at": "2026-11-01T10:52:15.068453096Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -8,7 +8,7 @@
     "forks": 0,
     "description": "A NeoVim configuration ",
     "license_spdx": "MIT",
-    "last_commit_at": "2025-10-31T15:28:50Z",
+    "last_commit_at": null,
     "commits_90d": 0,
     "releases_365d": 0,
     "median_issue_close_days": null,

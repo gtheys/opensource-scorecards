@@ -654,6 +654,7 @@ repos:
   - kr40/nvim-macros
   - krady21/compiler-explorer.nvim
   - krissen/blink-cmp-bibtex
+  - kryptamine/gruber-darker-renaissance
   - kurama622/clean-diagnostic
   - kurama622/llm.nvim
   - kurama622/profile.nvim

@@ -1,11 +1,11 @@
 {
   "slug": "igorlfs/nvim-dap-view",
-  "fetched_at": "2026-10-31T09:59:49.719362601Z",
+  "fetched_at": "2026-11-01T10:48:35.394227318Z",
   "status": "ok",
   "data": {
     "archived": false,
     "stars": 1045,
-    "forks": 38,
+    "forks": 39,
     "description": "Visualize debugging sessions in neovim",
     "license_spdx": "GPL-3.0",
     "last_commit_at": "2026-10-16T01:31:14Z",

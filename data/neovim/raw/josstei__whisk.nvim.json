@@ -1,10 +1,10 @@
 {
   "slug": "josstei/whisk.nvim",
-  "fetched_at": "2026-10-31T10:03:13.683646162Z",
+  "fetched_at": "2026-11-01T10:51:57.743118167Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 60,
+    "stars": 59,
     "forks": 2,
     "description": "Smooth, high‑performance motion & scrolling animations — 60fps fluid cursor moves, word jumps, and viewport scrolling, all in one.",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "josstei",
       "account_created_at": "2019-03-18T21:07:06Z",
-      "other_repos_star_sum": 577
+      "other_repos_star_sum": 576
     },
     "has_ci": false,
     "has_tests": true,
