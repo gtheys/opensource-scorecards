@@ -1,6 +1,6 @@
 {
   "slug": "gunasekar/markview-smart-tables.nvim",
-  "fetched_at": "2026-11-01T10:46:37.277508587Z",
+  "fetched_at": "2026-11-02T11:24:08.630351185Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "gunasekar",
       "account_created_at": "2011-07-14T02:44:16Z",
-      "other_repos_star_sum": 40
+      "other_repos_star_sum": 39
     },
     "has_ci": true,
     "has_tests": true,

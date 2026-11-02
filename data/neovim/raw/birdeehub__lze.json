@@ -1,6 +1,6 @@
 {
   "slug": "birdeehub/lze",
-  "fetched_at": "2026-11-01T10:32:23.002890497Z",
+  "fetched_at": "2026-11-02T11:08:03.866510923Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -13,7 +13,7 @@
     "releases_365d": 4,
     "median_issue_close_days": 10.895196759259258,
     "median_pr_close_days": 0.29855324074074074,
-    "open_issues": 0,
+    "open_issues": 1,
     "closed_issues_sampled": 1,
     "contributors_12mo": 1,
     "top_author_commit_share": 1.0,

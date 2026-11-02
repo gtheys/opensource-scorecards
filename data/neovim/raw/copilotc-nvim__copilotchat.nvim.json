@@ -1,6 +1,6 @@
 {
   "slug": "copilotc-nvim/copilotchat.nvim",
-  "fetched_at": "2026-11-01T10:36:09.688094206Z",
+  "fetched_at": "2026-11-02T11:12:19.307998865Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "Chat with GitHub Copilot in Neovim",
     "license_spdx": "GPL-3.0",
     "last_commit_at": "2026-08-30T06:25:14Z",
-    "commits_90d": 2,
+    "commits_90d": 1,
     "releases_365d": 0,
     "median_issue_close_days": 18.192939814814814,
     "median_pr_close_days": 0.0016898148148148148,

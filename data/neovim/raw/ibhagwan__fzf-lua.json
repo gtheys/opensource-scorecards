@@ -1,6 +1,6 @@
 {
   "slug": "ibhagwan/fzf-lua",
-  "fetched_at": "2026-11-01T10:48:21.589513532Z",
+  "fetched_at": "2026-11-02T11:25:59.437350279Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -8,15 +8,15 @@
     "forks": 275,
     "description": "Improved fzf.vim written in lua",
     "license_spdx": "MIT",
-    "last_commit_at": "2026-10-25T11:10:14Z",
-    "commits_90d": 71,
+    "last_commit_at": "2026-11-01T12:46:06Z",
+    "commits_90d": 72,
     "releases_365d": 0,
-    "median_issue_close_days": 2.6164467592592593,
-    "median_pr_close_days": 0.9028703703703704,
-    "open_issues": 8,
-    "closed_issues_sampled": 18,
+    "median_issue_close_days": 2.4863078703703705,
+    "median_pr_close_days": 0.8977546296296296,
+    "open_issues": 7,
+    "closed_issues_sampled": 19,
     "contributors_12mo": 35,
-    "top_author_commit_share": 0.5083135391923991,
+    "top_author_commit_share": 0.5071090047393365,
     "top_author": {
       "login": "phanen",
       "account_created_at": "2021-09-28T13:06:19Z",
@@ -24,6 +24,6 @@
     },
     "has_ci": true,
     "has_tests": true,
-    "readme_len": 75177
+    "readme_len": 75216
   }
 }

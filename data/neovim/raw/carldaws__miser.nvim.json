@@ -1,6 +1,6 @@
 {
   "slug": "carldaws/miser.nvim",
-  "fetched_at": "2026-11-01T10:33:24.352559351Z",
+  "fetched_at": "2026-11-02T11:09:09.138382667Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "carldaws",
       "account_created_at": "2021-04-23T17:43:17Z",
-      "other_repos_star_sum": 81
+      "other_repos_star_sum": 82
     },
     "has_ci": true,
     "has_tests": true,
