@@ -46,7 +46,20 @@
     {% endfor %}
     </tbody>
   </table>
-  </div>
+  </div>{% if pager %}{# AIDEV-NOTE: pager markup + CSS live inside this guard so categories with <=100 rows render byte-identical to the pre-pagination single page. URLs are precomputed in Rust. #}
+  <style>
+    .pager { display: flex; align-items: center; gap: .9rem; margin: 1rem 0 .4rem; font-size: .85rem; flex-wrap: wrap; }
+    .pager a { text-decoration: none; }
+    .pager .pager-pos { margin: 0 auto; }
+  </style>
+  <nav class="pager" aria-label="Pagination">
+    {% if pager.prev_url %}<a href="{{ pager.prev_url }}">&larr; Prev</a>{% endif %}
+    <span class="muted pager-pos">Page {{ pager.page }} of {{ pager.total_pages }}</span>
+    {% if pager.next_url %}<a href="{{ pager.next_url }}">Next &rarr;</a>{% endif %}
+    <a href="{{ pager.all_url }}">View all</a>
+  </nav>
+  <p class="muted" style="font-size:.8rem;">The filter box above searches this page only. Use the <a href="{{ pager.all_url }}">view-all page</a> to search the full list.</p>
+  {% endif %}
   {% if unavailable %}
   <h2>Unavailable</h2>
   <p class="muted">These repos could not be fetched and are excluded from ranking.</p>

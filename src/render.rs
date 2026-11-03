@@ -362,26 +362,81 @@ pub fn render_to(
     // No history, or only one day of it → empty list, hub hides the section.
     let movers = compute_movers(data_dir, scored, category_key, category_name);
 
-    // Leaderboard (per-category page, root="" for top-level links)
+    // Leaderboard rows; rank is computed once here and stays global across pages.
     let rows: Vec<Value> = ranked
         .iter()
         .enumerate()
         .map(|(i, p)| lb_row(i + 1, p, &meta))
         .collect();
-    let mut ctx = Context::new();
-    ctx.insert("category_name", category_name);
-    ctx.insert("generated_at", &scored.generated_at.to_rfc3339());
-    ctx.insert("generated_date", &generated_date);
-    ctx.insert("rows", &rows);
-    ctx.insert("unavailable", &unavailable);
-    ctx.insert("categories", &categories);
-    ctx.insert("root", "");
-    write(
-        &tera,
-        "leaderboard.html",
-        &ctx,
-        &out_dir.join(format!("{category_key}.html")),
-    )?;
+    // Shared context fields for every leaderboard variant (pages + view-all).
+    let lb_ctx = |rows: &[Value], root: &str| {
+        let mut ctx = Context::new();
+        ctx.insert("category_name", category_name);
+        ctx.insert("generated_at", &scored.generated_at.to_rfc3339());
+        ctx.insert("generated_date", &generated_date);
+        ctx.insert("rows", rows);
+        ctx.insert("unavailable", &unavailable);
+        ctx.insert("categories", &categories);
+        ctx.insert("root", root);
+        ctx
+    };
+    // AIDEV-NOTE: static pagination (SCR-VQDA). Categories over PAGE_SIZE rows
+    // split into <key>.html (page 1, root=""), <key>/page/N/index.html (pages
+    // N>=2, root="../../../") plus <key>/all/index.html with every row
+    // (root="../../"). All pager URLs are computed here — the template only
+    // links. Categories with <=PAGE_SIZE rows render exactly the single-page
+    // output from before pagination existed (no pager, no view-all).
+    const PAGE_SIZE: usize = 100;
+    let total_pages = rows.len().div_ceil(PAGE_SIZE).max(1);
+    if total_pages <= 1 {
+        let ctx = lb_ctx(&rows, "");
+        write(
+            &tera,
+            "leaderboard.html",
+            &ctx,
+            &out_dir.join(format!("{category_key}.html")),
+        )?;
+    } else {
+        let page_url = |n: usize| {
+            if n == 1 {
+                format!("{category_key}.html")
+            } else {
+                format!("{category_key}/page/{n}/")
+            }
+        };
+        for (i, chunk) in rows.chunks(PAGE_SIZE).enumerate() {
+            let page = i + 1;
+            let (path, root) = if page == 1 {
+                (format!("{category_key}.html"), "")
+            } else {
+                (format!("{category_key}/page/{page}/index.html"), "../../../")
+            };
+            let pager = json!({
+                "page": page,
+                "total_pages": total_pages,
+                "prev_url": (page > 1).then(|| format!("{root}{}", page_url(page - 1))),
+                "next_url": (page < total_pages).then(|| format!("{root}{}", page_url(page + 1))),
+                "all_url": format!("{root}{category_key}/all/"),
+            });
+            let mut ctx = lb_ctx(chunk, root);
+            ctx.insert("pager", &pager);
+            let out_path = out_dir.join(&path);
+            if let Some(parent) = out_path.parent() {
+                std::fs::create_dir_all(parent)?;
+            }
+            write(&tera, "leaderboard.html", &ctx, &out_path)?;
+        }
+        // View-all: every row on one page (full-list filter/search target).
+        let ctx = lb_ctx(&rows, "../../");
+        let all_dir = out_dir.join(category_key).join("all");
+        std::fs::create_dir_all(&all_dir)?;
+        write(
+            &tera,
+            "leaderboard.html",
+            &ctx,
+            &all_dir.join("index.html"),
+        )?;
+    }
 
     // Per-project breakdown
     for p in &scored.projects {
@@ -739,5 +794,59 @@ mod tests {
         assert!(author.contains("github.com/nvim-telescope"));
         assert!(author.contains("nvim-telescope/telescope.nvim"));
         assert!(author.contains(r#"href="../projects/nvim-telescope__telescope.nvim.html""#));
+    }
+
+    // SCR-VQDA: categories over 100 rows paginate into <key>.html,
+    // <key>/page/N/index.html and <key>/all/index.html; global rank survives.
+    #[test]
+    fn render_paginates_large_category() {
+        let cfg = Config::load("config/weights.toml".into()).unwrap();
+        let mut scored = fixture_scores();
+        // 150 synthetic repos, totals strictly decreasing so slug i has rank i+1.
+        scored.projects = (0..150usize)
+            .map(|i| crate::score::ScoredProject {
+                slug: format!("owner{i}/repo{i}"),
+                status: crate::models::Status::Ok,
+                total: Some(100.0 - i as f64 * 0.5),
+                buckets: Some(
+                    [("maintenance", 1.0), ("community", 1.0), ("quality", 1.0)]
+                        .into_iter()
+                        .map(|(k, v)| (k.to_string(), v))
+                        .collect(),
+                ),
+                signals: None,
+                stars: Some(150 - i as u64),
+            })
+            .collect();
+        let dir = std::env::temp_dir().join("scorecards-render-pagination-test");
+        let _ = std::fs::remove_dir_all(&dir);
+        render_to(
+            &cfg,
+            &scored,
+            &dir,
+            "neovim",
+            &cfg.category("neovim").unwrap().data_dir,
+        )
+        .unwrap();
+
+        let p1 = std::fs::read_to_string(dir.join("neovim.html")).unwrap();
+        assert!(p1.contains("Page 1 of 2"));
+        assert!(p1.contains(r#"href="neovim/page/2/""#)); // next
+        assert!(p1.contains(r#"href="neovim/all/""#)); // view-all
+        assert!(!p1.contains("owner100/<wbr>repo100")); // rank 101 is not on page 1
+
+        let p2 = std::fs::read_to_string(dir.join("neovim/page/2/index.html")).unwrap();
+        assert!(p2.contains("Page 2 of 2"));
+        assert!(p2.contains(r#"href="../../../neovim.html""#)); // prev
+        assert!(p2.contains(r#"href="../../../neovim/all/""#)); // view-all
+        // Global rank preserved: first row of page 2 is rank 101.
+        assert!(p2.contains("owner100/<wbr>repo100"));
+        assert!(p2.contains(r#"<td class="num">101</td>"#));
+
+        let all = std::fs::read_to_string(dir.join("neovim/all/index.html")).unwrap();
+        assert!(all.contains("owner0/<wbr>repo0"));
+        assert!(all.contains("owner149/<wbr>repo149"));
+        assert!(all.contains(r#"<td class="num">150</td>"#));
+        assert!(!all.contains("pager-pos")); // view-all has no pager
     }
 }
