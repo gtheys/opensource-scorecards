@@ -1,10 +1,10 @@
 {
   "slug": "olical/nfnl",
-  "fetched_at": "2026-10-27T09:49:56.340956671Z",
+  "fetched_at": "2026-11-03T11:44:42.449471059Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 369,
+    "stars": 368,
     "forks": 13,
     "description": "Enhance your Neovim with Fennel",
     "license_spdx": "Unlicense",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "Olical",
       "account_created_at": "2010-06-26T14:39:48Z",
-      "other_repos_star_sum": 7401
+      "other_repos_star_sum": 7403
     },
     "has_ci": true,
     "has_tests": true,

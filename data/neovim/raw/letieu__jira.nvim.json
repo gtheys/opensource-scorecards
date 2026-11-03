@@ -1,10 +1,10 @@
 {
   "slug": "letieu/jira.nvim",
-  "fetched_at": "2026-10-31T10:07:39.427772356Z",
+  "fetched_at": "2026-11-03T11:28:31.894974029Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 272,
+    "stars": 273,
     "forks": 13,
     "description": "I got tired of opening my browser for Jira",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "letieu",
       "account_created_at": "2019-08-01T10:14:14Z",
-      "other_repos_star_sum": 905
+      "other_repos_star_sum": 906
     },
     "has_ci": true,
     "has_tests": true,

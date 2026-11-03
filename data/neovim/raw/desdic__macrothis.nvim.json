@@ -1,11 +1,11 @@
 {
   "slug": "desdic/macrothis.nvim",
-  "fetched_at": "2026-11-02T11:15:44.548797707Z",
+  "fetched_at": "2026-11-03T11:06:48.959285016Z",
   "status": "ok",
   "data": {
     "archived": false,
     "stars": 35,
-    "forks": 3,
+    "forks": 2,
     "description": "Macrothis is a plugin for neovim to save and load macros",
     "license_spdx": "MIT",
     "last_commit_at": null,

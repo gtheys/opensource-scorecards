@@ -1,6 +1,6 @@
 {
   "slug": "plutowang/nvim.pack",
-  "fetched_at": "2026-10-27T09:52:06.943622717Z",
+  "fetched_at": "2026-11-03T11:46:56.241180621Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "Neovim 0.12+ native vim.pack package management",
     "license_spdx": "Apache-2.0",
     "last_commit_at": "2026-10-16T19:17:48Z",
-    "commits_90d": 6,
+    "commits_90d": 4,
     "releases_365d": 0,
     "median_issue_close_days": null,
     "median_pr_close_days": null,

@@ -1,11 +1,11 @@
 {
   "slug": "normalnvim/normalnvim",
-  "fetched_at": "2026-10-31T10:18:05.436292069Z",
+  "fetched_at": "2026-11-03T11:40:51.238229313Z",
   "status": "ok",
   "data": {
     "archived": false,
     "stars": 729,
-    "forks": 356,
+    "forks": 355,
     "description": "A normal Neovim distribution",
     "license_spdx": "GPL-3.0",
     "last_commit_at": "2026-08-17T21:47:24Z",

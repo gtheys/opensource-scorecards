@@ -1,0 +1,29 @@
+{
+  "slug": "kryptamine/gruber-darker-renaissance",
+  "fetched_at": "2026-11-03T11:27:18.056886915Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 10,
+    "forks": 0,
+    "description": "colorscheme for neovim",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-10-30T15:54:49Z",
+    "commits_90d": 64,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.0005671296296296297,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "kryptamine",
+      "account_created_at": "2014-05-23T17:47:07Z",
+      "other_repos_star_sum": 318
+    },
+    "has_ci": true,
+    "has_tests": false,
+    "readme_len": 4762
+  }
+}

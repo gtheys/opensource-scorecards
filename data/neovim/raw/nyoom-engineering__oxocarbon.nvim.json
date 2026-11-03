@@ -1,15 +1,15 @@
 {
   "slug": "nyoom-engineering/oxocarbon.nvim",
-  "fetched_at": "2026-10-27T09:49:08.989369947Z",
+  "fetched_at": "2026-11-03T11:43:53.370508447Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 1645,
+    "stars": 1649,
     "forks": 97,
     "description": "A dark and light Neovim theme written in fennel, inspired by IBM Carbon.",
     "license_spdx": "MIT",
     "last_commit_at": "2026-09-07T23:04:29Z",
-    "commits_90d": 6,
+    "commits_90d": 5,
     "releases_365d": 0,
     "median_issue_close_days": 86.66053819444444,
     "median_pr_close_days": 5.560700231481482,

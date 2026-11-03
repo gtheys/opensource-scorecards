@@ -1,6 +1,6 @@
 {
   "slug": "itsfernn/vimtex-follow",
-  "fetched_at": "2026-11-02T11:27:21.765318202Z",
+  "fetched_at": "2026-11-03T11:20:14.975081398Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "Toggleable \"follow PDF\" for VimTeX",
     "license_spdx": "MIT",
     "last_commit_at": "2026-08-04T18:43:25Z",
-    "commits_90d": 1,
+    "commits_90d": 0,
     "releases_365d": 0,
     "median_issue_close_days": null,
     "median_pr_close_days": null,

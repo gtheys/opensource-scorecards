@@ -1,6 +1,6 @@
 {
   "slug": "nagato-yuzuru/bang.nvim",
-  "fetched_at": "2026-10-31T10:15:29.843649923Z",
+  "fetched_at": "2026-11-03T11:37:46.819625987Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "Nagato-Yuzuru",
       "account_created_at": "2024-05-13T18:04:36Z",
-      "other_repos_star_sum": 27
+      "other_repos_star_sum": 29
     },
     "has_ci": true,
     "has_tests": true,

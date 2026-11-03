@@ -1,11 +1,11 @@
 {
   "slug": "fei6409/log-highlight.nvim",
-  "fetched_at": "2026-11-02T11:20:19.441805864Z",
+  "fetched_at": "2026-11-03T11:12:19.574135202Z",
   "status": "ok",
   "data": {
     "archived": false,
     "stars": 170,
-    "forks": 9,
+    "forks": 8,
     "description": "Generic log syntax highlighting and log filetype management for Neovim",
     "license_spdx": "MIT",
     "last_commit_at": "2026-05-06T17:34:49Z",

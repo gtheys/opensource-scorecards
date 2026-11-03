@@ -1,6 +1,6 @@
 {
   "slug": "rockerboo/boo-colorscheme-nvim",
-  "fetched_at": "2026-10-27T09:56:23.919875369Z",
+  "fetched_at": "2026-11-03T11:51:13.665578291Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "rockerBOO",
       "account_created_at": "2008-06-25T18:24:49Z",
-      "other_repos_star_sum": 21924
+      "other_repos_star_sum": 21953
     },
     "has_ci": true,
     "has_tests": true,

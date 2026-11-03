@@ -1,6 +1,6 @@
 {
   "slug": "quarto-dev/quarto-nvim",
-  "fetched_at": "2026-10-27T09:52:56.860313636Z",
+  "fetched_at": "2026-11-03T11:47:46.859205538Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "jmbuhr",
       "account_created_at": "2016-02-24T10:51:01Z",
-      "other_repos_star_sum": 1490
+      "other_repos_star_sum": 1493
     },
     "has_ci": true,
     "has_tests": false,

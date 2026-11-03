@@ -1,10 +1,10 @@
 {
   "slug": "nat-418/boole.nvim",
-  "fetched_at": "2026-10-31T10:15:38.880268293Z",
+  "fetched_at": "2026-11-03T11:37:56.652899670Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 188,
+    "stars": 189,
     "forks": 9,
     "description": "Neovim plugin for toggling booleans, etc.",
     "license_spdx": "0BSD",

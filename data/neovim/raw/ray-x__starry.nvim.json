@@ -1,10 +1,10 @@
 {
   "slug": "ray-x/starry.nvim",
-  "fetched_at": "2026-10-27T09:54:36.307636255Z",
+  "fetched_at": "2026-11-03T11:49:25.448302216Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 248,
+    "stars": 249,
     "forks": 4,
     "description": "A pack of modern nvim color schemes: material, moonlight, Dracula (blood), Monokai, Mariana, Emerald, earlysummer, middlenight_blue... Fully support Treesitter, LSP and a variety of plugins.",
     "license_spdx": "GPL-2.0",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "ray-x",
       "account_created_at": "2012-04-26T09:15:35Z",
-      "other_repos_star_sum": 8730
+      "other_repos_star_sum": 8735
     },
     "has_ci": false,
     "has_tests": false,

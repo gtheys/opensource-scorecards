@@ -1,11 +1,11 @@
 {
   "slug": "3zsforinsomnia/pacer.nvim",
-  "fetched_at": "2026-11-02T11:00:36.980306228Z",
+  "fetched_at": "2026-11-03T10:49:49.226815142Z",
   "status": "ok",
   "data": {
     "archived": false,
     "stars": 7,
-    "forks": 1,
+    "forks": 0,
     "description": "A reading pacer for Neovim",
     "license_spdx": "MIT",
     "last_commit_at": "2026-03-17T01:10:55Z",

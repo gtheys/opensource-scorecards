@@ -1,10 +1,10 @@
 {
   "slug": "lumen-oss/rocks.nvim",
-  "fetched_at": "2026-10-31T10:09:28.285235780Z",
+  "fetched_at": "2026-11-03T11:30:39.402696887Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 1073,
+    "stars": 1075,
     "forks": 19,
     "description": "🌒 Neovim plugin management inspired by Cargo, powered by luarocks",
     "license_spdx": "GPL-3.0",

@@ -1,11 +1,11 @@
 {
   "slug": "josephburgess/nvumi",
-  "fetched_at": "2026-11-02T11:29:39.734519216Z",
+  "fetched_at": "2026-11-03T11:22:56.603261855Z",
   "status": "ok",
   "data": {
     "archived": false,
     "stars": 71,
-    "forks": 1,
+    "forks": 0,
     "description": "Combining numi-cli and a scratch buffer to evaluate natural language expressions within Neovim",
     "license_spdx": "MIT",
     "last_commit_at": "2026-04-09T20:10:54Z",

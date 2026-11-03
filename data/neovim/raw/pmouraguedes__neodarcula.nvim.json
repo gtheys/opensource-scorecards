@@ -1,6 +1,6 @@
 {
   "slug": "pmouraguedes/neodarcula.nvim",
-  "fetched_at": "2026-10-27T09:52:10.801802735Z",
+  "fetched_at": "2026-11-03T11:46:59.985252183Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -8,8 +8,8 @@
     "forks": 1,
     "description": "A discrete color theme - based on Intellij's default dark theme - with support for transparency, dimming, LSP, treesitter and other plugins.",
     "license_spdx": "MIT",
-    "last_commit_at": "2026-02-01T00:31:57Z",
-    "commits_90d": 0,
+    "last_commit_at": "2026-10-29T15:29:19Z",
+    "commits_90d": 1,
     "releases_365d": 0,
     "median_issue_close_days": null,
     "median_pr_close_days": null,

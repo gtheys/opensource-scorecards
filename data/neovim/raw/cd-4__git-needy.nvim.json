@@ -1,11 +1,11 @@
 {
   "slug": "cd-4/git-needy.nvim",
-  "fetched_at": "2026-11-02T11:09:33.111627228Z",
+  "fetched_at": "2026-11-03T10:59:24.878242466Z",
   "status": "ok",
   "data": {
     "archived": false,
     "stars": 5,
-    "forks": 1,
+    "forks": 0,
     "description": "A neovim plugin to keep track of GitHub pending workflow runs",
     "license_spdx": "MIT",
     "last_commit_at": "2026-03-08T01:45:37Z",

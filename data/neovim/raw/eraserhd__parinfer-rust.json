@@ -1,10 +1,10 @@
 {
   "slug": "eraserhd/parinfer-rust",
-  "fetched_at": "2026-11-02T11:19:08.910780282Z",
+  "fetched_at": "2026-11-03T11:10:58.860631641Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 634,
+    "stars": 635,
     "forks": 55,
     "description": "A Rust port of parinfer.",
     "license_spdx": "ISC",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "eraserhd",
       "account_created_at": "2009-11-01T03:20:12Z",
-      "other_repos_star_sum": 1046
+      "other_repos_star_sum": 1047
     },
     "has_ci": true,
     "has_tests": true,

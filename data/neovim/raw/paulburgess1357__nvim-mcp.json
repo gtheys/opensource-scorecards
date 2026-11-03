@@ -1,15 +1,15 @@
 {
   "slug": "paulburgess1357/nvim-mcp",
-  "fetched_at": "2026-10-27T09:51:10.587631364Z",
+  "fetched_at": "2026-11-03T11:45:59.594964278Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 66,
-    "forks": 7,
+    "stars": 67,
+    "forks": 6,
     "description": "MCP server that connects AI agents to your running Neovim instance via msgpack-RPC — no plugins required.",
     "license_spdx": "MIT",
     "last_commit_at": "2026-10-02T00:26:46Z",
-    "commits_90d": 10,
+    "commits_90d": 8,
     "releases_365d": 6,
     "median_issue_close_days": 0.8943402777777778,
     "median_pr_close_days": 0.1524074074074074,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "paulburgess1357",
       "account_created_at": "2020-11-08T15:15:40Z",
-      "other_repos_star_sum": 67
+      "other_repos_star_sum": 68
     },
     "has_ci": false,
     "has_tests": true,

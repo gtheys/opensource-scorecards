@@ -1,6 +1,6 @@
 {
   "slug": "mordechaihadad/bob",
-  "fetched_at": "2026-10-31T10:13:53.426485520Z",
+  "fetched_at": "2026-11-03T11:35:53.265157864Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "A version manager for neovim",
     "license_spdx": "MIT",
     "last_commit_at": "2026-10-30T11:23:38Z",
-    "commits_90d": 44,
+    "commits_90d": 42,
     "releases_365d": 6,
     "median_issue_close_days": 79.5752488425926,
     "median_pr_close_days": 1.249693287037037,

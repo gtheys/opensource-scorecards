@@ -1,0 +1,29 @@
+{
+  "slug": "sammaji/markdown-preview.nvim",
+  "fetched_at": "2026-11-03T11:53:52.545591757Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 38,
+    "forks": 3,
+    "description": "markdown preview for vim & neovim (fork of iamcco/markdown-preview.nvim).",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-10-25T14:53:52Z",
+    "commits_90d": 35,
+    "releases_365d": 4,
+    "median_issue_close_days": 4.302210648148148,
+    "median_pr_close_days": 0.08052083333333333,
+    "open_issues": 5,
+    "closed_issues_sampled": 2,
+    "contributors_12mo": 2,
+    "top_author_commit_share": 0.9714285714285714,
+    "top_author": {
+      "login": "sammaji",
+      "account_created_at": "2022-10-27T06:44:58Z",
+      "other_repos_star_sum": 181
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 8644
+  }
+}

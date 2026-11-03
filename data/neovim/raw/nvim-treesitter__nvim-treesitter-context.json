@@ -1,26 +1,26 @@
 {
   "slug": "nvim-treesitter/nvim-treesitter-context",
-  "fetched_at": "2026-10-27T09:48:15.299002930Z",
+  "fetched_at": "2026-11-03T11:42:57.344420973Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 3237,
-    "forks": 242,
+    "stars": 3241,
+    "forks": 243,
     "description": "Show code context",
     "license_spdx": "MIT",
     "last_commit_at": "2026-10-09T15:34:00Z",
-    "commits_90d": 11,
+    "commits_90d": 10,
     "releases_365d": 0,
     "median_issue_close_days": 46.61134259259259,
     "median_pr_close_days": 0.16984953703703703,
-    "open_issues": 16,
+    "open_issues": 17,
     "closed_issues_sampled": 17,
     "contributors_12mo": 10,
     "top_author_commit_share": 0.38461538461538464,
     "top_author": {
       "login": "lewis6991",
       "account_created_at": "2014-06-16T15:50:05Z",
-      "other_repos_star_sum": 11306
+      "other_repos_star_sum": 11326
     },
     "has_ci": true,
     "has_tests": true,

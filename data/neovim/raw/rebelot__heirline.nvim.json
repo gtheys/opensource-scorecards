@@ -1,10 +1,10 @@
 {
   "slug": "rebelot/heirline.nvim",
-  "fetched_at": "2026-10-27T09:54:51.717305977Z",
+  "fetched_at": "2026-11-03T11:49:42.134281332Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 1294,
+    "stars": 1296,
     "forks": 42,
     "description": "Heirline.nvim is a no-nonsense Neovim Statusline plugin designed around recursive inheritance to be exceptionally fast and versatile.",
     "license_spdx": "MIT",

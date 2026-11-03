@@ -1,11 +1,11 @@
 {
   "slug": "folke/trouble.nvim",
-  "fetched_at": "2026-11-02T11:21:34.069937753Z",
+  "fetched_at": "2026-11-03T11:13:45.239854420Z",
   "status": "ok",
   "data": {
     "archived": false,
     "stars": 6909,
-    "forks": 215,
+    "forks": 214,
     "description": "🚦 A pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble your code is causing.",
     "license_spdx": "Apache-2.0",
     "last_commit_at": null,

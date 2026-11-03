@@ -1,6 +1,6 @@
 {
   "slug": "polirritmico/telescope-lazy-plugins.nvim",
-  "fetched_at": "2026-10-27T09:52:20.492611072Z",
+  "fetched_at": "2026-11-03T11:47:09.652420267Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "polirritmico",
       "account_created_at": "2016-12-08T17:17:44Z",
-      "other_repos_star_sum": 313
+      "other_repos_star_sum": 315
     },
     "has_ci": false,
     "has_tests": true,

@@ -1,11 +1,11 @@
 {
   "slug": "kobbikobb/move-lines.nvim",
-  "fetched_at": "2026-10-31T10:06:21.752200027Z",
+  "fetched_at": "2026-11-03T11:26:51.736928213Z",
   "status": "ok",
   "data": {
     "archived": false,
     "stars": 9,
-    "forks": 1,
+    "forks": 0,
     "description": "Simple Neovim plugin to move selected lines up or down",
     "license_spdx": "MIT",
     "last_commit_at": null,

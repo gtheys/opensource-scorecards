@@ -1,11 +1,11 @@
 {
   "slug": "3rd/image.nvim",
-  "fetched_at": "2026-11-02T11:00:28.946602198Z",
+  "fetched_at": "2026-11-03T10:49:41.573188445Z",
   "status": "ok",
   "data": {
     "archived": false,
     "stars": 2110,
-    "forks": 118,
+    "forks": 117,
     "description": "🖼️ Bringing images to Neovim.",
     "license_spdx": "MIT",
     "last_commit_at": "2026-09-04T21:04:19Z",
