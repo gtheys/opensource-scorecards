@@ -14,6 +14,15 @@ pub struct RepoRecord {
     /// fetched. `None` (old caches, missing repos) = treat as stale.
     #[serde(default)]
     pub slow_fetched_at: Option<DateTime<Utc>>,
+    /// ETag of the last commits-listing response, stored verbatim (GitHub sends
+    /// it quoted) and sent back as-is in If-None-Match: an unchanged repo then
+    /// answers 304 Not Modified, which costs 0 rate-limited calls. `None` (old
+    /// caches, failed fetches) = fetch unconditionally.
+    #[serde(default, skip_serializing_if = "Option::is_none")]
+    pub commits_etag: Option<String>,
+    /// ETag of the last releases-listing response (same contract as commits_etag).
+    #[serde(default, skip_serializing_if = "Option::is_none")]
+    pub releases_etag: Option<String>,
 }
 
 #[derive(Debug, Clone, Copy, PartialEq, Eq, Serialize, Deserialize)]

@@ -469,6 +469,8 @@ mod tests {
             status: Status::Ok,
             data: Some(s),
             slow_fetched_at: None,
+            commits_etag: None,
+            releases_etag: None,
         }
     }
 
@@ -512,6 +514,8 @@ mod tests {
             status: Status::NotFound,
             data: None,
             slow_fetched_at: None,
+            commits_etag: None,
+            releases_etag: None,
         };
         let scored = score_category(&cfg(), "t", vec![record("a/x", false, signals()), missing]);
         let gone = scored
