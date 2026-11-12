@@ -1,8 +1,9 @@
 name: pipeline
 
-# AIDEV-NOTE: GITHUB_TOKEN in Actions is limited to ~1k req/hr — not enough for a
-# full 1393-repo refresh. GH_TOKEN secret is set (OAuth token via `gh auth token`, 5k/hr);
-# GITHUB_TOKEN fallback keeps small/incremental runs working.
+# AIDEV-NOTE: collector uses a dedicated GitHub App (scorecards-collector, no perms, public
+# reads only) so it never drains the owner's personal/gh CLI rate bucket. Installation
+# tokens expire after 1h and a full run takes >1h, so a fresh token is minted before EACH
+# collect step. No fallback to the built-in GITHUB_TOKEN (~1k/hr) — fail loudly instead.
 on:
   schedule:
     - cron: "17 3 * * *"
@@ -22,33 +23,53 @@ jobs:
       - uses: Swatinem/rust-cache@v2
       - run: cargo build --release
       - run: ./target/release/scorecards seed
+      - id: app-1
+        uses: actions/create-github-app-token@v1
+        with:
+          app-id: ${{ vars.SCORECARDS_APP_ID }}
+          private-key: ${{ secrets.SCORECARDS_APP_KEY }}
       - run: ./target/release/scorecards collect
         env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN || secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ steps.app-1.outputs.token }}
       - run: ./target/release/scorecards score
       - run: ./target/release/scorecards render
       # AIDEV-NOTE: pi list is small (~75 repos) — negligible next to neovim's budget.
       - run: ./target/release/scorecards seed --category pi
+      - id: app-2
+        uses: actions/create-github-app-token@v1
+        with:
+          app-id: ${{ vars.SCORECARDS_APP_ID }}
+          private-key: ${{ secrets.SCORECARDS_APP_KEY }}
       - run: ./target/release/scorecards collect --category pi
         env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN || secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ steps.app-2.outputs.token }}
       - run: ./target/release/scorecards score --category pi
       - run: ./target/release/scorecards render --category pi
       # AIDEV-NOTE: monetized repos.yaml is hand-committed (see config/weights.toml) —
       # no seed step; ~1.1k repos may exceed the 5k/hr PAT budget, resumable cache
       # lets collect finish over consecutive nights.
+      - id: app-3
+        uses: actions/create-github-app-token@v1
+        with:
+          app-id: ${{ vars.SCORECARDS_APP_ID }}
+          private-key: ${{ secrets.SCORECARDS_APP_KEY }}
       - run: ./target/release/scorecards collect --category monetized
         env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN || secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ steps.app-3.outputs.token }}
       - run: ./target/release/scorecards score --category monetized
       - run: ./target/release/scorecards render --category monetized
       # AIDEV-NOTE: herdr list is huge (~2085 repos ≈ 23k API calls) — one nightly run
       # only inches forward; cache makes collect resumable, local collect-loop.sh does
       # the bulk backfill.
       - run: ./target/release/scorecards seed --category herdr
+      - id: app-4
+        uses: actions/create-github-app-token@v1
+        with:
+          app-id: ${{ vars.SCORECARDS_APP_ID }}
+          private-key: ${{ secrets.SCORECARDS_APP_KEY }}
       - run: ./target/release/scorecards collect --category herdr
         env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN || secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ steps.app-4.outputs.token }}
       - run: ./target/release/scorecards score --category herdr
       - run: ./target/release/scorecards render --category herdr
       - name: Commit refreshed data
