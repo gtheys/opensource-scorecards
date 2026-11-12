@@ -1,6 +1,6 @@
 {
   "slug": "benoror/gpg.nvim",
-  "fetched_at": "2026-11-03T10:57:16.265411906Z",
+  "fetched_at": "2026-11-12T08:06:02.168877749Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "Edit GPG encrypted files symmetrically in NeoVIM",
     "license_spdx": "MIT",
     "last_commit_at": "2026-09-04T21:31:57Z",
-    "commits_90d": 5,
+    "commits_90d": 3,
     "releases_365d": 2,
     "median_issue_close_days": 15.465011574074074,
     "median_pr_close_days": 0.13002314814814814,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "benoror",
       "account_created_at": "2009-08-25T02:37:08Z",
-      "other_repos_star_sum": 992
+      "other_repos_star_sum": 994
     },
     "has_ci": true,
     "has_tests": true,

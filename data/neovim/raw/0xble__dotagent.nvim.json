@@ -1,6 +1,6 @@
 {
   "slug": "0xble/dotagent.nvim",
-  "fetched_at": "2026-11-03T10:48:52.956464393Z",
+  "fetched_at": "2026-11-12T07:56:21.933447346Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -8,11 +8,11 @@
     "forks": 0,
     "description": "Neovim completion for local agent commands and skills, with env-gated Claude/Codex editor integration",
     "license_spdx": "MIT",
-    "last_commit_at": "2026-04-26T19:08:41Z",
-    "commits_90d": 0,
+    "last_commit_at": "2026-11-11T19:26:58Z",
+    "commits_90d": 1,
     "releases_365d": 6,
     "median_issue_close_days": null,
-    "median_pr_close_days": null,
+    "median_pr_close_days": 0.01105324074074074,
     "open_issues": 0,
     "closed_issues_sampled": 0,
     "contributors_12mo": 1,

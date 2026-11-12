@@ -1,6 +1,6 @@
 {
   "slug": "heilgar/bookmarks.nvim",
-  "fetched_at": "2026-11-03T11:17:32.307131263Z",
+  "fetched_at": "2026-11-12T08:25:19.099486565Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "heilgar",
       "account_created_at": "2012-11-01T00:10:22Z",
-      "other_repos_star_sum": 95
+      "other_repos_star_sum": 96
     },
     "has_ci": false,
     "has_tests": false,

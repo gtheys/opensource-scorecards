@@ -1,10 +1,10 @@
 {
   "slug": "feiyoug/commander.nvim",
-  "fetched_at": "2026-11-03T11:12:22.371236931Z",
+  "fetched_at": "2026-11-12T08:20:06.936073046Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 430,
+    "stars": 431,
     "forks": 16,
     "description": "Create and manage keybindings and commands in a more organized manner, and search them quickly through Telescope",
     "license_spdx": "MIT",

@@ -1,6 +1,6 @@
 {
   "slug": "akioweh/lsp-document-highlight.nvim",
-  "fetched_at": "2026-11-03T10:52:17.131483918Z",
+  "fetched_at": "2026-11-12T08:00:22.393494052Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -13,14 +13,14 @@
     "releases_365d": 2,
     "median_issue_close_days": null,
     "median_pr_close_days": null,
-    "open_issues": 0,
+    "open_issues": 1,
     "closed_issues_sampled": 0,
     "contributors_12mo": 1,
     "top_author_commit_share": 1.0,
     "top_author": {
       "login": "akioweh",
       "account_created_at": "2021-02-23T15:05:59Z",
-      "other_repos_star_sum": 79
+      "other_repos_star_sum": 80
     },
     "has_ci": false,
     "has_tests": false,

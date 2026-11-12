@@ -1,10 +1,10 @@
 {
   "slug": "4e554c4c/darkman.nvim",
-  "fetched_at": "2026-11-03T10:50:01.269977848Z",
+  "fetched_at": "2026-11-12T07:57:40.528108441Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 40,
+    "stars": 41,
     "forks": 4,
     "description": "A neovim plugin for interfacing with the freedesktop dark mode standard",
     "license_spdx": "MIT",

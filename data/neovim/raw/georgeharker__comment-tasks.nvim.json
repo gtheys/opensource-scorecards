@@ -1,6 +1,6 @@
 {
   "slug": "georgeharker/comment-tasks.nvim",
-  "fetched_at": "2026-11-03T11:15:09.903123691Z",
+  "fetched_at": "2026-11-12T08:22:50.782322376Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "georgeharker",
       "account_created_at": "2012-08-17T14:26:03Z",
-      "other_repos_star_sum": 149
+      "other_repos_star_sum": 151
     },
     "has_ci": true,
     "has_tests": true,

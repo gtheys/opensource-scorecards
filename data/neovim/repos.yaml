@@ -71,9 +71,13 @@ repos:
   - alanfortlink/blackjack.nvim
   - alec-gibson/nvim-tetris
   - alejandrosuero/freeze-code.nvim
+  - alessandropietrobelli/dotnet-counters.nvim
+  - alessandropietrobelli/dotnet-tree.nvim
+  - alessandropietrobelli/nuget.nvim
   - alessandroyorba/alduin
   - alessio-vivaldelli/java-creator-nvim
   - alex-popov-tech/store.nvim
+  - alexcloudstar/cheatsheet.nvim
   - alexmozaidze/palenight.nvim
   - alexmozaidze/tree-comment.nvim
   - alexpasmantier/pymple.nvim
@@ -337,7 +341,6 @@ repos:
   - drkjeff16/pipenv.nvim
   - drkjeff16/project.nvim
   - drkjeff16/shebang.nvim
-  - drkjeff16/triforce.nvim
   - drkjeff16/wezterm-types
   - drkjeff16/which-colorscheme.nvim
   - droma82/add-subtract-ex.nvim
@@ -447,6 +450,7 @@ repos:
   - gh-liu/nvim-winterm
   - gh-tui-tools/gh-review.nvim
   - ghillb/cybu.nvim
+  - gisketch/triforce.nvim
   - github-main-user/lytmode.nvim
   - github/copilot.vim
   - glyccogen/imprint.nvim
@@ -546,6 +550,7 @@ repos:
   - jan-warchol/selenized
   - jarndev/autodap.nvim
   - jarun/nnn
+  - javanoo6/intellij-formatter.nvim
   - javanoo6/persist-toggle.nvim
   - jaytyrrell13/static.nvim
   - jbyuki/carrot.nvim
@@ -683,6 +688,8 @@ repos:
   - lewistg/pesto.nvim
   - lewpoly/sherbet.nvim
   - lfilho/note2cal.nvim
+  - lfscamargo/macscroll.nvim
+  - lfscamargo/nvim.setup
   - lhkipp/nvim-nu
   - liangxianzhe/nap.nvim
   - lima1909/resty.nvim
@@ -699,6 +706,7 @@ repos:
   - loganswartz/polychrome.nvim
   - loganswartz/sunburn.nvim
   - logicmagix/tide42
+  - longyinstudio/suda.nvim
   - lopi-py/luau-lsp.nvim
   - lotabout/skim
   - lucastavaresa/headers.nvim
@@ -1268,6 +1276,9 @@ repos:
   - thesimonho/kanagawa-paper.nvim
   - thiago4532/mdmath.nvim
   - thorstenrhau/token
+  - tiagovla/projet.nvim
+  - tiagovla/scope.nvim
+  - tiagovla/tokyodark.nvim
   - tigion/swap.nvim
   - timantipov/md-table-tidy.nvim
   - timseriakov/spamguard.nvim
@@ -1414,6 +1425,7 @@ repos:
   - yus-works/csc.nvim
   - yutkat/confirm-quit.nvim
   - yutkat/git-rebase-auto-diff.nvim
+  - ywsrock/nvim-md-preview
   - zaakiy/line-justice.nvim
   - zacesshq/zacess.nvim
   - zachyarbrough/anchor.nvim

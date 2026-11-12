@@ -1,10 +1,10 @@
 {
   "slug": "aaronhallaert/advanced-git-search.nvim",
-  "fetched_at": "2026-11-03T10:50:22.970792526Z",
+  "fetched_at": "2026-11-12T07:58:03.271485877Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 390,
+    "stars": 389,
     "forks": 11,
     "description": "Search your git history by commit message, content and author in Neovim",
     "license_spdx": "Apache-2.0",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "aaronhallaert",
       "account_created_at": "2018-03-29T10:15:19Z",
-      "other_repos_star_sum": 450
+      "other_repos_star_sum": 449
     },
     "has_ci": true,
     "has_tests": true,

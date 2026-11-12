@@ -1,10 +1,10 @@
 {
   "slug": "heritage-themes/heritage-themes.nvim",
-  "fetched_at": "2026-11-03T11:17:40.133902416Z",
+  "fetched_at": "2026-11-12T08:25:26.516763633Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 2,
+    "stars": 4,
     "forks": 0,
     "description": "Neovim colour schemes from Heritage Themes",
     "license_spdx": "MIT",
@@ -24,6 +24,6 @@
     },
     "has_ci": false,
     "has_tests": false,
-    "readme_len": 14196
+    "readme_len": 14501
   }
 }

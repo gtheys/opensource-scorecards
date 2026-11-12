@@ -1,6 +1,6 @@
 {
   "slug": "dev-addict/floatingfile.nvim",
-  "fetched_at": "2026-11-03T11:06:56.699480319Z",
+  "fetched_at": "2026-11-12T08:15:06.008918657Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "Open any readable file in a centered Neovim floating window",
     "license_spdx": "MIT",
     "last_commit_at": "2026-09-10T02:01:56Z",
-    "commits_90d": 5,
+    "commits_90d": 1,
     "releases_365d": 0,
     "median_issue_close_days": null,
     "median_pr_close_days": 27.203553240740742,

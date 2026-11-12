@@ -1,6 +1,6 @@
 {
   "slug": "artart222/codeart",
-  "fetched_at": "2026-11-03T10:54:31.705924416Z",
+  "fetched_at": "2026-11-12T08:03:09.887917038Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "Use NeoVim as general purpose IDE",
     "license_spdx": "GPL-3.0",
     "last_commit_at": "2026-08-07T15:41:01Z",
-    "commits_90d": 29,
+    "commits_90d": 0,
     "releases_365d": 1,
     "median_issue_close_days": 6.851076388888889,
     "median_pr_close_days": 0.801255787037037,

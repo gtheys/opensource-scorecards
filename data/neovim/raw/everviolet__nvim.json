@@ -1,10 +1,10 @@
 {
   "slug": "everviolet/nvim",
-  "fetched_at": "2026-11-03T11:11:43.287222051Z",
+  "fetched_at": "2026-11-12T08:19:31.135051413Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 683,
+    "stars": 686,
     "forks": 12,
     "description": ":rose: a comfy neovim colorscheme for cozy morning coding.",
     "license_spdx": "EUPL-1.2",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "comfysage",
       "account_created_at": "2020-07-06T15:54:31Z",
-      "other_repos_star_sum": 570
+      "other_repos_star_sum": 569
     },
     "has_ci": false,
     "has_tests": false,

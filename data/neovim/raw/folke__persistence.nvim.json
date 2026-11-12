@@ -1,10 +1,10 @@
 {
   "slug": "folke/persistence.nvim",
-  "fetched_at": "2026-11-03T11:13:30.744286480Z",
+  "fetched_at": "2026-11-12T08:21:15.694522595Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 1013,
+    "stars": 1014,
     "forks": 46,
     "description": "💾  Simple session management for Neovim",
     "license_spdx": "Apache-2.0",

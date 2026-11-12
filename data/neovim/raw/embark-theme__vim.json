@@ -1,10 +1,10 @@
 {
   "slug": "embark-theme/vim",
-  "fetched_at": "2026-11-03T11:10:29.367529622Z",
+  "fetched_at": "2026-11-12T08:18:16.580288214Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 735,
+    "stars": 736,
     "forks": 33,
     "description": "An ambitious theme for vim",
     "license_spdx": "MIT",
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "ja153903",
       "account_created_at": "2016-07-18T19:37:21Z",
-      "other_repos_star_sum": 2
+      "other_repos_star_sum": 3
     },
     "has_ci": false,
     "has_tests": false,

@@ -1,11 +1,11 @@
 {
   "slug": "akrawchyk/awesome-vim",
-  "fetched_at": "2026-11-03T10:52:24.214233342Z",
+  "fetched_at": "2026-11-12T08:00:31.597707140Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 2134,
-    "forks": 145,
+    "stars": 2133,
+    "forks": 146,
     "description": "The Vim plugin shortlist",
     "license_spdx": "MIT",
     "last_commit_at": null,
@@ -13,7 +13,7 @@
     "releases_365d": 0,
     "median_issue_close_days": 6.704930555555555,
     "median_pr_close_days": 15.92236111111111,
-    "open_issues": 14,
+    "open_issues": 15,
     "closed_issues_sampled": 2,
     "contributors_12mo": 0,
     "top_author_commit_share": 0.0,

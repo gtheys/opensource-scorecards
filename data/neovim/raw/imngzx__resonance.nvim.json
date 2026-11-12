@@ -1,15 +1,15 @@
 {
   "slug": "imngzx/resonance.nvim",
-  "fetched_at": "2026-11-03T11:19:13.108441967Z",
+  "fetched_at": "2026-11-12T08:27:03.323891058Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 18,
+    "stars": 19,
     "forks": 0,
     "description": "An actual optimized `vim.pack` wrapper that loves `vim.pack`",
     "license_spdx": "MIT",
-    "last_commit_at": "2026-10-23T22:53:52Z",
-    "commits_90d": 94,
+    "last_commit_at": "2026-11-05T05:14:10Z",
+    "commits_90d": 97,
     "releases_365d": 0,
     "median_issue_close_days": null,
     "median_pr_close_days": null,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "Imngzx",
       "account_created_at": "2022-11-07T09:38:34Z",
-      "other_repos_star_sum": 84
+      "other_repos_star_sum": 85
     },
     "has_ci": false,
     "has_tests": true,

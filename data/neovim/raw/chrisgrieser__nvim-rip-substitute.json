@@ -1,15 +1,15 @@
 {
   "slug": "chrisgrieser/nvim-rip-substitute",
-  "fetched_at": "2026-11-03T11:00:46.966924405Z",
+  "fetched_at": "2026-11-12T08:09:38.047543900Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 321,
+    "stars": 322,
     "forks": 13,
     "description": "Search & replace in the current buffer or workspace with incremental preview, a convenient UI, and modern regex syntax.",
     "license_spdx": "MIT",
     "last_commit_at": "2026-08-12T10:22:13Z",
-    "commits_90d": 1,
+    "commits_90d": 0,
     "releases_365d": 0,
     "median_issue_close_days": 0.19092592592592592,
     "median_pr_close_days": 0.11108796296296296,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "chrisgrieser",
       "account_created_at": "2020-10-22T10:50:35Z",
-      "other_repos_star_sum": 8891
+      "other_repos_star_sum": 8904
     },
     "has_ci": true,
     "has_tests": false,

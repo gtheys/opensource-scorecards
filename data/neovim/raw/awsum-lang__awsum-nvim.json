@@ -1,6 +1,6 @@
 {
   "slug": "awsum-lang/awsum-nvim",
-  "fetched_at": "2026-11-03T10:55:23.797329615Z",
+  "fetched_at": "2026-11-12T08:04:05.233558311Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -8,11 +8,11 @@
     "forks": 0,
     "description": null,
     "license_spdx": "Apache-2.0",
-    "last_commit_at": "2026-06-22T18:56:02Z",
-    "commits_90d": 0,
-    "releases_365d": 3,
+    "last_commit_at": "2026-11-08T16:20:50Z",
+    "commits_90d": 1,
+    "releases_365d": 4,
     "median_issue_close_days": null,
-    "median_pr_close_days": 0.0012499999999999998,
+    "median_pr_close_days": 0.0012731481481481483,
     "open_issues": 0,
     "closed_issues_sampled": 0,
     "contributors_12mo": 1,
@@ -24,6 +24,6 @@
     },
     "has_ci": true,
     "has_tests": false,
-    "readme_len": 6579
+    "readme_len": 6866
   }
 }

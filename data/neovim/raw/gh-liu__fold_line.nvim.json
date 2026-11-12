@@ -1,6 +1,6 @@
 {
   "slug": "gh-liu/fold_line.nvim",
-  "fetched_at": "2026-11-03T11:15:29.946903474Z",
+  "fetched_at": "2026-11-12T08:23:12.512163259Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "Lines indicating code folds.",
     "license_spdx": "MIT",
     "last_commit_at": "2026-08-06T05:29:01Z",
-    "commits_90d": 8,
+    "commits_90d": 0,
     "releases_365d": 0,
     "median_issue_close_days": 1.6424537037037037,
     "median_pr_close_days": 0.05455439814814815,

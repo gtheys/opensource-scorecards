@@ -1,10 +1,10 @@
 {
   "slug": "david-kunz/jester",
-  "fetched_at": "2026-11-03T11:06:08.958769069Z",
+  "fetched_at": "2026-11-12T08:14:23.943387759Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 213,
+    "stars": 212,
     "forks": 12,
     "description": "A Neovim plugin to easily run and debug Jest tests",
     "license_spdx": "Unlicense",

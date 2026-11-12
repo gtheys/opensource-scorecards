@@ -1,10 +1,10 @@
 {
   "slug": "alexpasmantier/pymple.nvim",
-  "fetched_at": "2026-11-03T10:53:01.139016962Z",
+  "fetched_at": "2026-11-12T08:01:28.002220758Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 157,
+    "stars": 158,
     "forks": 7,
     "description": "Refactor Python imports on file move/rename in Neovim",
     "license_spdx": "Apache-2.0",

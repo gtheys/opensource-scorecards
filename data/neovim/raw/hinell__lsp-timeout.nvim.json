@@ -1,11 +1,11 @@
 {
   "slug": "hinell/lsp-timeout.nvim",
-  "fetched_at": "2026-11-03T11:17:47.186536454Z",
+  "fetched_at": "2026-11-12T08:25:32.977039116Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 231,
-    "forks": 11,
+    "stars": 230,
+    "forks": 10,
     "description": "Automatically start/stop LSP servers, keeps RAM usage low",
     "license_spdx": "NOASSERTION",
     "last_commit_at": null,

@@ -1,10 +1,10 @@
 {
   "slug": "gpanders/nvim-moonwalk",
-  "fetched_at": "2026-11-03T11:16:11.752358612Z",
+  "fetched_at": "2026-11-12T08:23:59.052633295Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 77,
+    "stars": 78,
     "forks": 3,
     "description": "Use any language that compiles to Lua in your Neovim configuration",
     "license_spdx": "GPL-3.0",

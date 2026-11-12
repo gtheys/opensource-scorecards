@@ -1,6 +1,6 @@
 {
   "slug": "crivotz/nv-ide",
-  "fetched_at": "2026-11-03T11:03:45.491241592Z",
+  "fetched_at": "2026-11-12T08:12:14.369817143Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -20,7 +20,7 @@
     "top_author": {
       "login": "crivotz",
       "account_created_at": "2013-01-15T13:46:21Z",
-      "other_repos_star_sum": 765
+      "other_repos_star_sum": 764
     },
     "has_ci": true,
     "has_tests": false,
