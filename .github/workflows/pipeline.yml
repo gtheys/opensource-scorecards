@@ -27,6 +27,9 @@ jobs:
         uses: actions/create-github-app-token@v1
         with:
           app-id: ${{ vars.SCORECARDS_APP_ID }}
+          # AIDEV-NOTE: installation has "no repositories" (app requests no perms), so the
+          # default repo-based installation lookup 404s. Resolve the user installation directly.
+          owner: ${{ github.repository_owner }}
           private-key: ${{ secrets.SCORECARDS_APP_KEY }}
       - run: ./target/release/scorecards collect
         env:
@@ -39,6 +42,9 @@ jobs:
         uses: actions/create-github-app-token@v1
         with:
           app-id: ${{ vars.SCORECARDS_APP_ID }}
+          # AIDEV-NOTE: installation has "no repositories" (app requests no perms), so the
+          # default repo-based installation lookup 404s. Resolve the user installation directly.
+          owner: ${{ github.repository_owner }}
           private-key: ${{ secrets.SCORECARDS_APP_KEY }}
       - run: ./target/release/scorecards collect --category pi
         env:
@@ -52,6 +58,9 @@ jobs:
         uses: actions/create-github-app-token@v1
         with:
           app-id: ${{ vars.SCORECARDS_APP_ID }}
+          # AIDEV-NOTE: installation has "no repositories" (app requests no perms), so the
+          # default repo-based installation lookup 404s. Resolve the user installation directly.
+          owner: ${{ github.repository_owner }}
           private-key: ${{ secrets.SCORECARDS_APP_KEY }}
       - run: ./target/release/scorecards collect --category monetized
         env:
@@ -66,6 +75,9 @@ jobs:
         uses: actions/create-github-app-token@v1
         with:
           app-id: ${{ vars.SCORECARDS_APP_ID }}
+          # AIDEV-NOTE: installation has "no repositories" (app requests no perms), so the
+          # default repo-based installation lookup 404s. Resolve the user installation directly.
+          owner: ${{ github.repository_owner }}
           private-key: ${{ secrets.SCORECARDS_APP_KEY }}
       - run: ./target/release/scorecards collect --category herdr
         env:
