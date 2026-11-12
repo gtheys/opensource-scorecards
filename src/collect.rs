@@ -6,15 +6,49 @@ use chrono::{DateTime, Duration, Utc};
 use std::collections::HashMap;
 use std::path::PathBuf;
 
-// ponytail: ~11 API calls/repo. Full neovim run (1393 repos) exceeds one 5k/hr
+// ponytail: ~5-13 API calls/repo (~5 when slow signals are carried over, ~11-13
+// when refetched). Full neovim run (1393 repos) exceeds one 5k/hr
 // window; cache makes runs resumable — re-run until complete. GraphQL batching
 // is the documented v2 upgrade if this hurts.
 const MIN_BUDGET: usize = 15;
 // ponytail: commit history capped at 10 pages (1000 commits) per repo; bus
 // factor/contributor counts saturate for very active repos. Raise if needed.
 const MAX_COMMIT_PAGES: u8 = 10;
+// AIDEV-NOTE: CI/tests/readme/top-author change slowly but cost ~6 calls/repo.
+// Carry them over from the previous cache entry until 30 days old; fast signals
+// (commits, releases, issues, stars) are always refetched.
+const SLOW_TTL: Duration = Duration::days(30);
 
-pub async fn run(cfg: &Config, category: &str, force: bool, limit: Option<usize>) -> anyhow::Result<()> {
+#[derive(Debug, Clone)]
+struct SlowSignals {
+    has_ci: bool,
+    has_tests: bool,
+    readme_len: usize,
+    top_author: Option<AuthorInfo>,
+}
+
+/// Pure TTL decision: previous slow values if still within SLOW_TTL, else None
+/// (missing prev, no data, or `slow_fetched_at` None/old => refetch).
+fn carry_slow(prev: Option<&RepoRecord>, now: DateTime<Utc>) -> Option<SlowSignals> {
+    let prev = prev?;
+    let data = prev.data.as_ref()?;
+    if now - prev.slow_fetched_at? >= SLOW_TTL {
+        return None;
+    }
+    Some(SlowSignals {
+        has_ci: data.has_ci,
+        has_tests: data.has_tests,
+        readme_len: data.readme_len,
+        top_author: data.top_author.clone(),
+    })
+}
+
+pub async fn run(
+    cfg: &Config,
+    category: &str,
+    force: bool,
+    limit: Option<usize>,
+) -> anyhow::Result<()> {
     let cat = cfg.category(category)?;
     let repos: Vec<String> = load_repo_list(&cat.data_dir.join("repos.yaml"))?;
     let raw_dir = cat.data_dir.join("raw");
@@ -52,13 +86,26 @@ pub async fn run(cfg: &Config, category: &str, force: bool, limit: Option<usize>
             return Ok(());
         }
 
-        let record = match fetch_repo(&crab, owner, repo, &bots).await {
+        // Best-effort: unreadable/corrupt cache => None. Loaded even when fast-stale,
+        // since slow signals have their own TTL. --force skips carry-over so a forced
+        // run refetches slow signals too (pre-TTL behavior).
+        let prev: Option<RepoRecord> = if force {
+            None
+        } else {
+            std::fs::read_to_string(&path)
+                .ok()
+                .and_then(|t| serde_json::from_str(&t).ok())
+        };
+
+        let record = match fetch_repo(&crab, owner, repo, &bots, prev.as_ref()).await {
             Ok(record) => record,
             Err(e) => {
                 // AIDEV-NOTE: rate-limit errors (core or search bucket) must stop the
                 // run, not skip the repo — continuing just burns the rest of the list.
                 if format!("{e:#}").contains("rate limit") {
-                    println!("rate limited at {slug}; stopping. {done} fetched, {skipped} cached. Re-run later — cache resumes.");
+                    println!(
+                        "rate limited at {slug}; stopping. {done} fetched, {skipped} cached. Re-run later — cache resumes."
+                    );
                     return Ok(());
                 }
                 eprintln!("warn: {slug}: {e:#}; keeping previous cache if any");
@@ -68,14 +115,19 @@ pub async fn run(cfg: &Config, category: &str, force: bool, limit: Option<usize>
         std::fs::write(&path, serde_json::to_string_pretty(&record)?)?;
         done += 1;
         if limit.is_some_and(|n| done >= n) {
-            println!("batch limit reached: {done} fetched this run, {skipped} cached. Re-run for next batch.");
+            println!(
+                "batch limit reached: {done} fetched this run, {skipped} cached. Re-run for next batch."
+            );
             return Ok(());
         }
         if done.is_multiple_of(25) {
             println!("{done} fetched, {skipped} cached…");
         }
     }
-    println!("collect done: {done} fetched, {skipped} fresh-cached, {} total", repos.len());
+    println!(
+        "collect done: {done} fetched, {skipped} fresh-cached, {} total",
+        repos.len()
+    );
     Ok(())
 }
 
@@ -90,8 +142,12 @@ fn load_repo_list(path: &std::path::Path) -> anyhow::Result<Vec<String>> {
 }
 
 fn is_fresh(path: &std::path::Path, stale_after: Duration) -> bool {
-    let Ok(text) = std::fs::read_to_string(path) else { return false };
-    let Ok(rec) = serde_json::from_str::<RepoRecord>(&text) else { return false };
+    let Ok(text) = std::fs::read_to_string(path) else {
+        return false;
+    };
+    let Ok(rec) = serde_json::from_str::<RepoRecord>(&text) else {
+        return false;
+    };
     Utc::now() - rec.fetched_at < stale_after
 }
 
@@ -104,6 +160,7 @@ async fn fetch_repo(
     owner: &str,
     repo: &str,
     bots: &BotFilter,
+    prev: Option<&RepoRecord>,
 ) -> anyhow::Result<RepoRecord> {
     let now = Utc::now();
     let slug = format!("{owner}/{repo}");
@@ -112,19 +169,34 @@ async fn fetch_repo(
     let meta = match rh.get().await {
         Ok(m) => m,
         Err(octocrab::Error::GitHub { source, .. }) if source.status_code == 404 => {
-            return Ok(RepoRecord { slug, fetched_at: now, status: Status::NotFound, data: None });
+            return Ok(RepoRecord {
+                slug,
+                fetched_at: now,
+                status: Status::NotFound,
+                data: None,
+                slow_fetched_at: None,
+            });
         }
         Err(octocrab::Error::GitHub { source, .. })
             if source.status_code == 301 || source.status_code == 302 =>
         {
-            return Ok(RepoRecord { slug, fetched_at: now, status: Status::Redirected, data: None });
+            return Ok(RepoRecord {
+                slug,
+                fetched_at: now,
+                status: Status::Redirected,
+                data: None,
+                slow_fetched_at: None,
+            });
         }
         Err(e) => return Err(e.into()),
     };
 
     // One commit-history fetch serves: last commit, 90d count, 12mo contributors, bus factor.
     let commits = fetch_commits(crab, owner, repo, now - Duration::days(365)).await?;
-    let human: Vec<_> = commits.iter().filter(|c| !bots.is_bot(c.author.as_deref())).collect();
+    let human: Vec<_> = commits
+        .iter()
+        .filter(|c| !bots.is_bot(c.author.as_deref()))
+        .collect();
     let cutoff_90d = now - Duration::days(90);
     let commits_90d = human.iter().filter(|c| c.date > cutoff_90d).count() as u32;
     let last_commit_at = human.first().map(|c| c.date);
@@ -140,19 +212,33 @@ async fn fetch_repo(
     // renamed/deleted repos. Approximation documented in methodology.
     let open_issues = meta.open_issues_count.unwrap_or(0).into();
 
-    let has_ci = has_workflows(crab, owner, repo).await?;
-    let has_tests = has_test_files(crab, owner, repo).await?;
-    let readme_len = readme_len(crab, owner, repo).await;
-
-    let top_author = match top_login {
-        Some(login) => Some(author_info(crab, &login).await?),
-        None => None,
+    let (slow, slow_fetched_at) = match carry_slow(prev, now) {
+        Some(slow) => (slow, prev.and_then(|p| p.slow_fetched_at)),
+        None => {
+            let has_ci = has_workflows(crab, owner, repo).await?;
+            let has_tests = has_test_files(crab, owner, repo).await?;
+            let readme_len = readme_len(crab, owner, repo).await;
+            let top_author = match top_login {
+                Some(login) => Some(author_info(crab, &login).await?),
+                None => None,
+            };
+            (
+                SlowSignals {
+                    has_ci,
+                    has_tests,
+                    readme_len,
+                    top_author,
+                },
+                Some(now),
+            )
+        }
     };
 
     Ok(RepoRecord {
         slug,
         fetched_at: now,
         status: Status::Ok,
+        slow_fetched_at,
         data: Some(RepoSignals {
             archived: meta.archived.unwrap_or(false),
             stars: meta.stargazers_count.unwrap_or(0).into(),
@@ -168,10 +254,10 @@ async fn fetch_repo(
             closed_issues_sampled: closed_issues,
             contributors_12mo,
             top_author_commit_share: top_share,
-            top_author,
-            has_ci,
-            has_tests,
-            readme_len,
+            top_author: slow.top_author,
+            has_ci: slow.has_ci,
+            has_tests: slow.has_tests,
+            readme_len: slow.readme_len,
         }),
     })
 }
@@ -197,9 +283,16 @@ async fn fetch_commits(
         .await?;
     let mut pages = 1;
     loop {
-        out.extend(page.items.iter().map(|c| CommitInfo {
-            date: c.commit.committer.as_ref().and_then(|x| x.date).unwrap_or_else(Utc::now),
-            author: c.author.as_ref().map(|a| a.login.clone()),
+        out.extend(page.items.iter().map(|c| {
+            CommitInfo {
+                date: c
+                    .commit
+                    .committer
+                    .as_ref()
+                    .and_then(|x| x.date)
+                    .unwrap_or_else(Utc::now),
+                author: c.author.as_ref().map(|a| a.login.clone()),
+            }
         }));
         if pages >= MAX_COMMIT_PAGES {
             break;
@@ -297,7 +390,11 @@ async fn has_workflows(crab: &octocrab::Octocrab, owner: &str, repo: &str) -> an
 /// plus one level into `lua/` (standard neovim plugin layout).
 // ponytail: two listings max; deeper nesting ignored. Walk the tree
 // recursively only if false negatives show up in calibration.
-async fn has_test_files(crab: &octocrab::Octocrab, owner: &str, repo: &str) -> anyhow::Result<bool> {
+async fn has_test_files(
+    crab: &octocrab::Octocrab,
+    owner: &str,
+    repo: &str,
+) -> anyhow::Result<bool> {
     let items = match crab.repos(owner, repo).get_content().path("").send().await {
         Ok(items) => items,
         Err(_) => return Ok(false),
@@ -314,9 +411,17 @@ async fn has_test_files(crab: &octocrab::Octocrab, owner: &str, repo: &str) -> a
     if items.items.iter().any(|c| looks_testy(&c.name)) {
         return Ok(true);
     }
-    let has_lua = items.items.iter().any(|c| c.name == "lua" && c.r#type == "dir");
+    let has_lua = items
+        .items
+        .iter()
+        .any(|c| c.name == "lua" && c.r#type == "dir");
     if has_lua
-        && let Ok(lua) = crab.repos(owner, repo).get_content().path("lua").send().await
+        && let Ok(lua) = crab
+            .repos(owner, repo)
+            .get_content()
+            .path("lua")
+            .send()
+            .await
     {
         return Ok(lua.items.iter().any(|c| looks_testy(&c.name)));
     }
@@ -324,7 +429,9 @@ async fn has_test_files(crab: &octocrab::Octocrab, owner: &str, repo: &str) -> a
 }
 
 async fn readme_len(crab: &octocrab::Octocrab, owner: &str, repo: &str) -> usize {
-    let Ok(readme) = crab.repos(owner, repo).get_readme().send().await else { return 0 };
+    let Ok(readme) = crab.repos(owner, repo).get_readme().send().await else {
+        return 0;
+    };
     readme
         .content
         .and_then(|b64| {
@@ -347,7 +454,11 @@ async fn author_info(crab: &octocrab::Octocrab, login: &str) -> anyhow::Result<A
         )
         .await
         .unwrap_or_default();
-    let star_sum = repos.iter().filter_map(|r| r.stargazers_count).map(u64::from).sum();
+    let star_sum = repos
+        .iter()
+        .filter_map(|r| r.stargazers_count)
+        .map(u64::from)
+        .sum();
     Ok(AuthorInfo {
         login: login.to_string(),
         account_created_at: Some(user.created_at),
@@ -363,7 +474,9 @@ pub struct BotFilter {
 
 impl BotFilter {
     pub fn new(listed: &[String]) -> Self {
-        Self { listed: listed.iter().map(|s| s.to_lowercase()).collect() }
+        Self {
+            listed: listed.iter().map(|s| s.to_lowercase()).collect(),
+        }
     }
     pub fn is_bot(&self, login: Option<&str>) -> bool {
         let Some(l) = login else { return false };
@@ -408,7 +521,10 @@ mod tests {
     #[test]
     fn author_stats_share() {
         let d = Utc::now();
-        let c = |a: &str| CommitInfo { date: d, author: Some(a.into()) };
+        let c = |a: &str| CommitInfo {
+            date: d,
+            author: Some(a.into()),
+        };
         let commits = vec![c("alice"), c("alice"), c("alice"), c("bob")];
         let refs: Vec<&CommitInfo> = commits.iter().collect();
         let (distinct, share, top) = author_stats(&refs);
@@ -423,5 +539,76 @@ mod tests {
             cache_path(std::path::Path::new("/x"), "o/r"),
             std::path::Path::new("/x/o__r.json")
         );
+    }
+
+    fn prev_record(slow_age_days: i64, now: DateTime<Utc>, with_data: bool) -> RepoRecord {
+        RepoRecord {
+            slug: "o/r".into(),
+            fetched_at: now - Duration::days(1),
+            status: Status::Ok,
+            slow_fetched_at: Some(now - Duration::days(slow_age_days)),
+            data: with_data.then(|| RepoSignals {
+                archived: false,
+                stars: 1,
+                forks: 1,
+                description: None,
+                license_spdx: None,
+                last_commit_at: None,
+                commits_90d: 0,
+                releases_365d: 0,
+                median_issue_close_days: None,
+                median_pr_close_days: None,
+                open_issues: 0,
+                closed_issues_sampled: 0,
+                contributors_12mo: 1,
+                top_author_commit_share: 1.0,
+                top_author: Some(AuthorInfo {
+                    login: "alice".into(),
+                    account_created_at: None,
+                    other_repos_star_sum: 7,
+                }),
+                has_ci: true,
+                has_tests: true,
+                readme_len: 1234,
+            }),
+        }
+    }
+
+    #[test]
+    fn carry_slow_without_previous_record_returns_none() {
+        let now = Utc::now();
+        assert!(carry_slow(None, now).is_none());
+    }
+
+    #[test]
+    fn carry_slow_within_ttl_carries_previous_values() {
+        let now = Utc::now();
+        let prev = prev_record(29, now, true);
+        let carried = carry_slow(Some(&prev), now).expect("fresh slow data carried");
+        assert!(carried.has_ci);
+        assert!(carried.has_tests);
+        assert_eq!(carried.readme_len, 1234);
+        assert_eq!(carried.top_author.unwrap().login, "alice");
+    }
+
+    #[test]
+    fn carry_slow_past_ttl_returns_none() {
+        let now = Utc::now();
+        let prev = prev_record(31, now, true);
+        assert!(carry_slow(Some(&prev), now).is_none());
+    }
+
+    #[test]
+    fn carry_slow_without_previous_data_returns_none() {
+        let now = Utc::now();
+        let prev = prev_record(1, now, false);
+        assert!(carry_slow(Some(&prev), now).is_none());
+    }
+
+    #[test]
+    fn old_cache_json_without_slow_fetched_at_deserializes_as_none() {
+        let json = r#"{"slug":"o/r","fetched_at":"2026-01-01T00:00:00Z","status":"not_found"}"#;
+        let rec: RepoRecord = serde_json::from_str(json).expect("old cache still parses");
+        assert_eq!(rec.slow_fetched_at, None);
     }
 }

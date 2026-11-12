@@ -468,6 +468,7 @@ mod tests {
             fetched_at: Utc::now(),
             status: Status::Ok,
             data: Some(s),
+            slow_fetched_at: None,
         }
     }
 
@@ -510,6 +511,7 @@ mod tests {
             fetched_at: Utc::now(),
             status: Status::NotFound,
             data: None,
+            slow_fetched_at: None,
         };
         let scored = score_category(&cfg(), "t", vec![record("a/x", false, signals()), missing]);
         let gone = scored

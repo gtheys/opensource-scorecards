@@ -10,6 +10,10 @@ pub struct RepoRecord {
     pub status: Status,
     #[serde(skip_serializing_if = "Option::is_none")]
     pub data: Option<RepoSignals>,
+    /// When the slow-changing signals (CI/tests/readme/top author) were last
+    /// fetched. `None` (old caches, missing repos) = treat as stale.
+    #[serde(default)]
+    pub slow_fetched_at: Option<DateTime<Utc>>,
 }
 
 #[derive(Debug, Clone, Copy, PartialEq, Eq, Serialize, Deserialize)]
@@ -50,7 +54,7 @@ pub struct RepoSignals {
     pub readme_len: usize,
 }
 
-#[derive(Debug, Serialize, Deserialize)]
+#[derive(Debug, Clone, Serialize, Deserialize)]
 pub struct AuthorInfo {
     pub login: String,
     pub account_created_at: Option<DateTime<Utc>>,
