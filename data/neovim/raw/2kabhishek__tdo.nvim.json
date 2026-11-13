@@ -1,6 +1,6 @@
 {
   "slug": "2kabhishek/tdo.nvim",
-  "fetched_at": "2026-11-12T07:57:03.068464726Z",
+  "fetched_at": "2026-11-13T11:01:52.143608622Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": true,
     "has_tests": true,
     "readme_len": 9421
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:01:52.143608622Z",
+  "commits_etag": "\"5cb75fa0700ac3de1281d3fa72276e2a626a8c1e9db7d25395b0250169fe89ee\"",
+  "releases_etag": "\"38135789e9b62d99ef96e7175856fc543e0e6357e8f092b6b65b86b3b082c55a\""
 }

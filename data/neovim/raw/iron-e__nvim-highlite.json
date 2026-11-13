@@ -1,6 +1,6 @@
 {
   "slug": "iron-e/nvim-highlite",
-  "fetched_at": "2026-11-12T08:27:43.157955039Z",
+  "fetched_at": "2026-11-13T11:29:31.264317327Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": false,
     "has_tests": false,
     "readme_len": 23995
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:29:31.264317327Z",
+  "commits_etag": "\"9dd1f22218a93eb15b974f8f0a5450d527fde20770e048cdcb8547c6022b8ee1\"",
+  "releases_etag": "\"9636a1f3dade9217b9c26028e70a7939ff311d659443eb46a5038f7592528d6a\""
 }

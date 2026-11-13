@@ -1,6 +1,6 @@
 {
   "slug": "indium114/cheaty.nvim",
-  "fetched_at": "2026-11-12T08:27:10.533844953Z",
+  "fetched_at": "2026-11-13T11:29:06.344569555Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": true,
     "has_tests": false,
     "readme_len": 812
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:29:06.344569555Z",
+  "commits_etag": "\"724894125e3c4e0b2fde0428358778b27bd216a6d4a75be707b23a7696868be6\"",
+  "releases_etag": "\"c9a8bc68b098da983ab4f1f719f268750c8e498de8b9e7247b984322473a3301\""
 }

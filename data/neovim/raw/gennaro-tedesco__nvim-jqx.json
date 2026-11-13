@@ -1,6 +1,6 @@
 {
   "slug": "gennaro-tedesco/nvim-jqx",
-  "fetched_at": "2026-11-12T08:22:41.114438455Z",
+  "fetched_at": "2026-11-13T11:25:13.005477802Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -21,5 +21,8 @@
     "has_ci": true,
     "has_tests": false,
     "readme_len": 5353
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:25:13.005477802Z",
+  "commits_etag": "\"5ec327de0c6dfc6157c9c6e3f3635a5a199ce766491c0cafd2e53247a6ace872\"",
+  "releases_etag": "\"68e0c754ab67a55ee10252fce72cb32baa4bc73e3346bf545d1dac89eba217e2\""
 }

@@ -1,6 +1,6 @@
 {
   "slug": "anuvyklack/windows.nvim",
-  "fetched_at": "2026-11-12T08:02:49.646727443Z",
+  "fetched_at": "2026-11-13T11:06:03.418906696Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -21,5 +21,8 @@
     "has_ci": false,
     "has_tests": false,
     "readme_len": 2875
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:06:03.418906696Z",
+  "commits_etag": "\"ab84eb97175ba537d8025455c1d12a060061469a1b18c057d88339fb92bef9d9\"",
+  "releases_etag": "\"c9a8bc68b098da983ab4f1f719f268750c8e498de8b9e7247b984322473a3301\""
 }

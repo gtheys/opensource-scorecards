@@ -1,6 +1,6 @@
 {
   "slug": "bassamsdata/namu.nvim",
-  "fetched_at": "2026-11-12T08:05:18.117455084Z",
+  "fetched_at": "2026-11-13T11:08:15.045395683Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": true,
     "has_tests": true,
     "readme_len": 10416
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:08:15.045395683Z",
+  "commits_etag": "\"ec3cdbbe9e7e9146b0274d8ed3eeedd52b30d57826be7524055650dc5ded8c77\"",
+  "releases_etag": "\"66a09a91ccb884c249ef3fd7869a87dc69859c6a68e7e54eced7d6a7378fa39c\""
 }

@@ -1,6 +1,6 @@
 {
   "slug": "chojs23/ts-bridge",
-  "fetched_at": "2026-11-12T08:08:51.663630606Z",
+  "fetched_at": "2026-11-13T11:11:19.373976812Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": true,
     "has_tests": true,
     "readme_len": 15134
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:11:19.373976812Z",
+  "commits_etag": "\"91ba25dea9f3238232b58fe7f1475e9982a3dc8178303b1e3dee6240059da6e5\"",
+  "releases_etag": "\"c23299c4dddde917d7d3ef396263602c57aafb2894b7d4ee5ea5a2233221fe22\""
 }

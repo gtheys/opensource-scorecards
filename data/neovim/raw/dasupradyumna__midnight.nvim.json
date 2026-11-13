@@ -1,6 +1,6 @@
 {
   "slug": "dasupradyumna/midnight.nvim",
-  "fetched_at": "2026-11-12T08:14:15.275713454Z",
+  "fetched_at": "2026-11-13T11:16:34.122818367Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -21,5 +21,8 @@
     "has_ci": true,
     "has_tests": false,
     "readme_len": 6781
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:16:34.122818367Z",
+  "commits_etag": "\"4c152a28bf86167c1e9b33a112dbc9a1137abeb6ff8b4e4d47cd023c6750870a\"",
+  "releases_etag": "\"e9d69262bfbe3121a4166c2818ee2743b0b40ef105ddeb18259f699012308b57\""
 }

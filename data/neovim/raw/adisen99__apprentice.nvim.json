@@ -1,6 +1,6 @@
 {
   "slug": "adisen99/apprentice.nvim",
-  "fetched_at": "2026-11-12T07:58:59.727947312Z",
+  "fetched_at": "2026-11-13T11:03:30.323817223Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": false,
     "has_tests": false,
     "readme_len": 4269
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:03:30.323817223Z",
+  "commits_etag": "\"9a1267405132ab29fb239819511ce675c1e510d14a5118e1dba742014f90dfe2\"",
+  "releases_etag": "\"c9a8bc68b098da983ab4f1f719f268750c8e498de8b9e7247b984322473a3301\""
 }

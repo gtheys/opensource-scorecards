@@ -1,6 +1,6 @@
 {
   "slug": "chrisgrieser/nvim-spider",
-  "fetched_at": "2026-11-12T08:09:47.206002134Z",
+  "fetched_at": "2026-11-13T11:12:16.786304331Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": true,
     "has_tests": false,
     "readme_len": 11707
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:12:16.786304331Z",
+  "commits_etag": "\"ec94fb13d257f9b62ae28f30c9ef3b574382538799e0b0a38818687b904742f2\"",
+  "releases_etag": "\"c9a8bc68b098da983ab4f1f719f268750c8e498de8b9e7247b984322473a3301\""
 }

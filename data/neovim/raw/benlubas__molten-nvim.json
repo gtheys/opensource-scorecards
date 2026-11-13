@@ -1,6 +1,6 @@
 {
   "slug": "benlubas/molten-nvim",
-  "fetched_at": "2026-11-12T08:05:49.599111440Z",
+  "fetched_at": "2026-11-13T11:08:41.853497811Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": true,
     "has_tests": false,
     "readme_len": 27918
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:08:41.853497811Z",
+  "commits_etag": "\"41d030d30f697851790d4f0dfc37945465c0162457cb91ab67c316e8e4b820cb\"",
+  "releases_etag": "\"1d1d6fbdd0ed6dda8f0a1be76963e8bdb999b30ad7c92f3276a7d05e6b3661e4\""
 }

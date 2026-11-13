@@ -1,6 +1,6 @@
 {
   "slug": "cosmicbuffalo/eyeliner.nvim",
-  "fetched_at": "2026-11-12T08:11:23.440301722Z",
+  "fetched_at": "2026-11-13T11:13:42.483793474Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": false,
     "has_tests": false,
     "readme_len": 6428
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:13:42.483793474Z",
+  "commits_etag": "\"5012f35388f0ff30496a51c0e71733d81a23509d3b3b167512730862567652d1\"",
+  "releases_etag": "\"c9a8bc68b098da983ab4f1f719f268750c8e498de8b9e7247b984322473a3301\""
 }

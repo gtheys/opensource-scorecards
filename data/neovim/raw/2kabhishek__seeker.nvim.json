@@ -1,6 +1,6 @@
 {
   "slug": "2kabhishek/seeker.nvim",
-  "fetched_at": "2026-11-12T07:56:59.507573278Z",
+  "fetched_at": "2026-11-13T11:01:49.784121513Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": true,
     "has_tests": true,
     "readme_len": 10077
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:01:49.784121513Z",
+  "commits_etag": "\"053f609235289e700b6bb89f3e67b78c613a5f889118b8ca3b5d7a8bd5cac508\"",
+  "releases_etag": "\"c9a7c81aca5276969e0a2f2112ad569c853dd2e54f3a81d2f7f0c1ffd4e727eb\""
 }

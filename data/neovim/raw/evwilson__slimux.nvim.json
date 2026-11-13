@@ -1,6 +1,6 @@
 {
   "slug": "evwilson/slimux.nvim",
-  "fetched_at": "2026-11-12T08:19:35.818305018Z",
+  "fetched_at": "2026-11-13T11:21:49.841595544Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": false,
     "has_tests": false,
     "readme_len": 3468
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:21:49.841595544Z",
+  "commits_etag": "\"c0e2593b0a81d2b47e657ad8b79f3dd0dae29316ab398d9d4efa552bc2dc0572\"",
+  "releases_etag": "\"c9a8bc68b098da983ab4f1f719f268750c8e498de8b9e7247b984322473a3301\""
 }

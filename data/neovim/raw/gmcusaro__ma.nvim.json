@@ -1,6 +1,6 @@
 {
   "slug": "gmcusaro/ma.nvim",
-  "fetched_at": "2026-11-12T08:23:40.846076643Z",
+  "fetched_at": "2026-11-13T11:26:02.061108733Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": false,
     "has_tests": false,
     "readme_len": 18347
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:26:02.061108733Z",
+  "commits_etag": "\"9998afec12d4837279f3597f7e99c1317780cbd850c883644448dcdd157e0622\"",
+  "releases_etag": "\"408c0e97cfda1551cbd1cf0a7bbbe009bed194b62e34d76d33951820c354ddfa\""
 }

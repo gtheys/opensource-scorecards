@@ -1,6 +1,6 @@
 {
   "slug": "gunasekar/markview-smart-tables.nvim",
-  "fetched_at": "2026-11-12T08:24:18.698298085Z",
+  "fetched_at": "2026-11-13T11:26:32.860008079Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": true,
     "has_tests": true,
     "readme_len": 9852
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:26:32.860008079Z",
+  "commits_etag": "\"029b4e4cc3e86d195b69c7a9d6002455a32e24b833f25743b47333bbb3562ac9\"",
+  "releases_etag": "\"c9a8bc68b098da983ab4f1f719f268750c8e498de8b9e7247b984322473a3301\""
 }

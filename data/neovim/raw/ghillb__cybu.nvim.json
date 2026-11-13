@@ -1,6 +1,6 @@
 {
   "slug": "ghillb/cybu.nvim",
-  "fetched_at": "2026-11-12T08:23:20.978854135Z",
+  "fetched_at": "2026-11-13T11:25:48.225691242Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": true,
     "has_tests": true,
     "readme_len": 7967
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:25:48.225691242Z",
+  "commits_etag": "\"a36a635e4722121c09b5a07588c1c6a2f69f3aec50eda80ec3cb9a3257c7ab79\"",
+  "releases_etag": "\"24ef39eaca8d45ef43fdb8f50b30fd7f6aa130147d00f763b990edb6078aa9fd\""
 }

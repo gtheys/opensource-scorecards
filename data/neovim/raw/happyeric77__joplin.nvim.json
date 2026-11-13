@@ -1,6 +1,6 @@
 {
   "slug": "happyeric77/joplin.nvim",
-  "fetched_at": "2026-11-12T08:24:38.167246919Z",
+  "fetched_at": "2026-11-13T11:26:49.383655908Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -21,5 +21,8 @@
     "has_ci": true,
     "has_tests": true,
     "readme_len": 9104
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:26:49.383655908Z",
+  "commits_etag": "\"0a8d9b5c332af4722769e36cea0f0f1b27f223754a231d61dcbc474219964423\"",
+  "releases_etag": "\"fc28930ca0ed2ccf965d3429971f5497224f886532336d6cf0702dd3332a6560\""
 }

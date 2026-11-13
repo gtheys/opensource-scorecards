@@ -1,6 +1,6 @@
 {
   "slug": "hasansujon786/nvim-navbuddy",
-  "fetched_at": "2026-11-12T08:24:47.473772918Z",
+  "fetched_at": "2026-11-13T11:26:57.746083976Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -21,5 +21,8 @@
     "has_ci": false,
     "has_tests": false,
     "readme_len": 9593
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:26:57.746083976Z",
+  "commits_etag": "\"b4a1ddce2659108beec20ff0ebf4b2a3cadcf71c4736477c5de8625a9e8d1346\"",
+  "releases_etag": "\"c9a8bc68b098da983ab4f1f719f268750c8e498de8b9e7247b984322473a3301\""
 }

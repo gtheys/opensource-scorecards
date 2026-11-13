@@ -1,6 +1,6 @@
 {
   "slug": "chrisgrieser/nvim-kickstart-python",
-  "fetched_at": "2026-11-12T08:09:18.793907793Z",
+  "fetched_at": "2026-11-13T11:11:45.247701877Z",
   "status": "ok",
   "data": {
     "archived": true,
@@ -21,5 +21,8 @@
     "has_ci": true,
     "has_tests": false,
     "readme_len": 5650
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:11:45.247701877Z",
+  "commits_etag": "\"fa81141df485195d1965d90ded0e9ef36d7e25aab1edd38a649e6d24e1a239b3\"",
+  "releases_etag": "\"c9a8bc68b098da983ab4f1f719f268750c8e498de8b9e7247b984322473a3301\""
 }

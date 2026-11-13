@@ -1,6 +1,6 @@
 {
   "slug": "cxwx/keysound.nvim",
-  "fetched_at": "2026-11-12T08:13:13.256637245Z",
+  "fetched_at": "2026-11-13T11:15:33.045125948Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": false,
     "has_tests": false,
     "readme_len": 1687
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:15:33.045125948Z",
+  "commits_etag": "\"4453de700c6fcaa216ddc6bc969a6ca2e41ae01c26d336fc51144b25069f13ad\"",
+  "releases_etag": "\"c9a8bc68b098da983ab4f1f719f268750c8e498de8b9e7247b984322473a3301\""
 }

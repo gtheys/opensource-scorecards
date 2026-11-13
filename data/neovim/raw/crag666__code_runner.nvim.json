@@ -1,6 +1,6 @@
 {
   "slug": "crag666/code_runner.nvim",
-  "fetched_at": "2026-11-12T08:11:49.477672490Z",
+  "fetched_at": "2026-11-13T11:14:04.574005079Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": false,
     "has_tests": true,
     "readme_len": 27473
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:14:04.574005079Z",
+  "commits_etag": "\"46f259c4b751ccfe3075e538da95f53c2a3c505644356363dcb386c024fc69a1\"",
+  "releases_etag": "\"c9a8bc68b098da983ab4f1f719f268750c8e498de8b9e7247b984322473a3301\""
 }

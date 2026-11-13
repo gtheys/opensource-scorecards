@@ -1,6 +1,6 @@
 {
   "slug": "azratul/expose-localhost.nvim",
-  "fetched_at": "2026-11-12T08:04:41.489609357Z",
+  "fetched_at": "2026-11-13T11:07:37.411631456Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -21,5 +21,8 @@
     "has_ci": false,
     "has_tests": false,
     "readme_len": 1616
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:07:37.411631456Z",
+  "commits_etag": "\"0782ed5e751a990a2ab576d1a4bc58285e56b5d729dc5f86fcbc107b8e26f3fe\"",
+  "releases_etag": "\"c9a8bc68b098da983ab4f1f719f268750c8e498de8b9e7247b984322473a3301\""
 }

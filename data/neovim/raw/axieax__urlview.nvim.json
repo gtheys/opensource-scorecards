@@ -1,6 +1,6 @@
 {
   "slug": "axieax/urlview.nvim",
-  "fetched_at": "2026-11-12T08:04:09.026865753Z",
+  "fetched_at": "2026-11-13T11:07:05.271709711Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": true,
     "has_tests": true,
     "readme_len": 6437
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:07:05.271709711Z",
+  "commits_etag": "\"19ea156af83ff09c9f3ac87836fcc8a1a8f22fd31a3f4c242b5d8cb28de29820\"",
+  "releases_etag": "\"c9a8bc68b098da983ab4f1f719f268750c8e498de8b9e7247b984322473a3301\""
 }

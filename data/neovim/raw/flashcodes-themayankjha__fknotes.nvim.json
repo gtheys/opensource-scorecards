@@ -1,6 +1,6 @@
 {
   "slug": "flashcodes-themayankjha/fknotes.nvim",
-  "fetched_at": "2026-11-12T08:20:30.404429939Z",
+  "fetched_at": "2026-11-13T11:22:45.591603036Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -21,5 +21,8 @@
     "has_ci": false,
     "has_tests": false,
     "readme_len": 7023
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:22:45.591603036Z",
+  "commits_etag": "\"1c940d06f7bcf2b748edc7f87fdd3b2c3cf169c84fe771cf6b991944eae7e7da\"",
+  "releases_etag": "\"7e50e10fa6042675ec12fdd66b53844b564482841e31ada66e24db6634f644da\""
 }

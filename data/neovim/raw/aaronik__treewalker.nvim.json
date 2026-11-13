@@ -1,6 +1,6 @@
 {
   "slug": "aaronik/treewalker.nvim",
-  "fetched_at": "2026-11-12T07:58:09.898695845Z",
+  "fetched_at": "2026-11-13T11:02:44.808427073Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": true,
     "has_tests": true,
     "readme_len": 11039
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:02:44.808427073Z",
+  "commits_etag": "\"faf622059194a9821ea32f977f2d4da7902b152a2af76cf787e2c3656439e823\"",
+  "releases_etag": "\"c9a8bc68b098da983ab4f1f719f268750c8e498de8b9e7247b984322473a3301\""
 }

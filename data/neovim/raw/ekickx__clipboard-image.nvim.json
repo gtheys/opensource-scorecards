@@ -1,6 +1,6 @@
 {
   "slug": "ekickx/clipboard-image.nvim",
-  "fetched_at": "2026-11-12T08:18:00.825378820Z",
+  "fetched_at": "2026-11-13T11:20:27.840478257Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -21,5 +21,8 @@
     "has_ci": false,
     "has_tests": true,
     "readme_len": 3835
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:20:27.840478257Z",
+  "commits_etag": "\"9af68b3a6ff92bb15e9e2113baa78e5a89122e84f77855174a9fcbdf9dbf355a\"",
+  "releases_etag": "\"c9a8bc68b098da983ab4f1f719f268750c8e498de8b9e7247b984322473a3301\""
 }

@@ -1,6 +1,6 @@
 {
   "slug": "iamironz/android-nvim-plugin",
-  "fetched_at": "2026-11-12T08:26:26.144262666Z",
+  "fetched_at": "2026-11-13T11:28:30.091625496Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": true,
     "has_tests": true,
     "readme_len": 8461
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:28:30.091625496Z",
+  "commits_etag": "\"ca78fca9034432c47859d90b47cffe6d26abcbcfdee236ae04503bb10a3026e3\"",
+  "releases_etag": "\"c59a8a3489ade8ffd00dd588da659243eec35d0e433b544fec6a1e2dec164eef\""
 }

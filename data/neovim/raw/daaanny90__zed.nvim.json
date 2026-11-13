@@ -1,6 +1,6 @@
 {
   "slug": "daaanny90/zed.nvim",
-  "fetched_at": "2026-11-12T08:13:34.418007546Z",
+  "fetched_at": "2026-11-13T11:15:46.520254675Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": false,
     "has_tests": false,
     "readme_len": 4891
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:15:46.520254675Z",
+  "commits_etag": "\"5af18844985225bd431de393e8765670a0569100139121e14150955f8e396c9e\"",
+  "releases_etag": "\"c9a8bc68b098da983ab4f1f719f268750c8e498de8b9e7247b984322473a3301\""
 }

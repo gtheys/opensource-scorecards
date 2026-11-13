@@ -1,6 +1,6 @@
 {
   "slug": "athar-qadri/scratchpad.nvim",
-  "fetched_at": "2026-11-12T08:03:44.365335678Z",
+  "fetched_at": "2026-11-13T11:06:49.660737099Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -21,5 +21,8 @@
     "has_ci": false,
     "has_tests": false,
     "readme_len": 5699
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:06:49.660737099Z",
+  "commits_etag": "\"e0ef7bdab041559103fbb388696f178b69f3c707c77f3789178fd807f1a87f98\"",
+  "releases_etag": "\"c9a8bc68b098da983ab4f1f719f268750c8e498de8b9e7247b984322473a3301\""
 }

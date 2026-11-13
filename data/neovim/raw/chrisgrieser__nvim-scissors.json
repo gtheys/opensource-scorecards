@@ -1,6 +1,6 @@
 {
   "slug": "chrisgrieser/nvim-scissors",
-  "fetched_at": "2026-11-12T08:09:44.050674032Z",
+  "fetched_at": "2026-11-13T11:12:12.223488051Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": true,
     "has_tests": false,
     "readme_len": 15832
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:12:12.223488051Z",
+  "commits_etag": "\"3e5db2dc75e7c65ac775a0fa42ce6f1865fc47b523342c34ef03c46a2c19762e\"",
+  "releases_etag": "\"c9a8bc68b098da983ab4f1f719f268750c8e498de8b9e7247b984322473a3301\""
 }

@@ -1,6 +1,6 @@
 {
   "slug": "ellisonleao/gruvbox.nvim",
-  "fetched_at": "2026-11-12T08:18:09.332701088Z",
+  "fetched_at": "2026-11-13T11:20:37.882635336Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": true,
     "has_tests": true,
     "readme_len": 3562
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:20:37.882635336Z",
+  "commits_etag": "\"2b19727ba027a56316383be7fc260c72b9220e8c296e19e81a47048d63aa221c\"",
+  "releases_etag": "\"aa07607c54bad9b4b01913a775dad5e17fb6b59435ce43c988bc16a70f103352\""
 }

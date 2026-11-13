@@ -1,6 +1,6 @@
 {
   "slug": "birdeehub/lze",
-  "fetched_at": "2026-11-12T08:06:34.484709509Z",
+  "fetched_at": "2026-11-13T11:09:14.948621544Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": true,
     "has_tests": true,
     "readme_len": 27880
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:09:14.948621544Z",
+  "commits_etag": "\"1639d8eb0043817a500251006600e783e5ec5efcef7ca467ea83ebc42c5e259c\"",
+  "releases_etag": "\"2f05fe0482024beb7c0db8ed18c5061583f106a31f0a083543fa55576fdc0050\""
 }

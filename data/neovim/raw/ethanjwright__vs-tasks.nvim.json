@@ -1,6 +1,6 @@
 {
   "slug": "ethanjwright/vs-tasks.nvim",
-  "fetched_at": "2026-11-12T08:19:21.977712292Z",
+  "fetched_at": "2026-11-13T11:21:35.182062045Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -21,5 +21,8 @@
     "has_ci": false,
     "has_tests": false,
     "readme_len": 13065
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:21:35.182062045Z",
+  "commits_etag": "\"b65df3988036605d7d570f6674471b0d7e133ef59329af6b0adc3fe6655a4294\"",
+  "releases_etag": "\"c9a8bc68b098da983ab4f1f719f268750c8e498de8b9e7247b984322473a3301\""
 }

@@ -1,6 +1,6 @@
 {
   "slug": "doctorfree/nvim-lazyman",
-  "fetched_at": "2026-11-12T08:16:21.597278629Z",
+  "fetched_at": "2026-11-13T11:18:34.620033400Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -21,5 +21,8 @@
     "has_ci": true,
     "has_tests": false,
     "readme_len": 49119
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:18:34.620033400Z",
+  "commits_etag": "\"e8f7b4fda781d876851c2a095c0bcd9afd861cc8db1bcdc0f80c000f191813f1\"",
+  "releases_etag": "\"8103041f077240b86c96da93a098bdb6d749a3969a1bcc00c5929ff9a5786cfa\""
 }

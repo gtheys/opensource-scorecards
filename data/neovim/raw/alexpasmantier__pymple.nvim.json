@@ -1,6 +1,6 @@
 {
   "slug": "alexpasmantier/pymple.nvim",
-  "fetched_at": "2026-11-12T08:01:28.002220758Z",
+  "fetched_at": "2026-11-13T11:04:59.216696999Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": true,
     "has_tests": true,
     "readme_len": 8979
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:04:59.216696999Z",
+  "commits_etag": "\"37b76b3cd51a51b475038a629267061f8e1e19f4451b4ba212f36b04d3688c02\"",
+  "releases_etag": "\"8ce66845547030b88e1257c7b62133c65da3e3c3ac24043ac5b8af9f88cd8440\""
 }

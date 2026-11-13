@@ -1,6 +1,6 @@
 {
   "slug": "daaanny90/claude-desktop.nvim",
-  "fetched_at": "2026-11-12T08:13:26.233833426Z",
+  "fetched_at": "2026-11-13T11:15:41.005342045Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": false,
     "has_tests": false,
     "readme_len": 7021
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:15:41.005342045Z",
+  "commits_etag": "\"83edeaa89c22aaa42e74ae0511b40af8e6430e461d4347e7980b86681315c568\"",
+  "releases_etag": "\"c9a8bc68b098da983ab4f1f719f268750c8e498de8b9e7247b984322473a3301\""
 }

@@ -1,6 +1,6 @@
 {
   "slug": "adithyasource/spearmint.nvim",
-  "fetched_at": "2026-11-12T07:59:07.082363402Z",
+  "fetched_at": "2026-11-13T11:03:34.290756915Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": false,
     "has_tests": false,
     "readme_len": 1813
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:03:34.290756915Z",
+  "commits_etag": "\"eda0c7fbc106cf6c2ca4b4a93a5227f3220c31ea0026fc6b0ffc93669de711d9\"",
+  "releases_etag": "\"c9a8bc68b098da983ab4f1f719f268750c8e498de8b9e7247b984322473a3301\""
 }

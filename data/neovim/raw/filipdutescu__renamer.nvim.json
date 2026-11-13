@@ -1,6 +1,6 @@
 {
   "slug": "filipdutescu/renamer.nvim",
-  "fetched_at": "2026-11-12T08:20:22.920010152Z",
+  "fetched_at": "2026-11-13T11:22:37.646116034Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -21,5 +21,8 @@
     "has_ci": true,
     "has_tests": true,
     "readme_len": 9234
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:22:37.646116034Z",
+  "commits_etag": "\"8e42dda2f063bfbd0c83ab8c601acd1d5b2ea56ff55a2191bd060c30b2e08c30\"",
+  "releases_etag": "\"6f478624f0eeb25a7c96ed437980cadeab326ebc9f49a6b6710fa2ea3b935e72\""
 }

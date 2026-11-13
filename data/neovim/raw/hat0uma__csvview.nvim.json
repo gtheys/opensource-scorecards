@@ -1,6 +1,6 @@
 {
   "slug": "hat0uma/csvview.nvim",
-  "fetched_at": "2026-11-12T08:24:49.411023836Z",
+  "fetched_at": "2026-11-13T11:27:00.523965432Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": true,
     "has_tests": true,
     "readme_len": 13967
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:27:00.523965432Z",
+  "commits_etag": "\"72ea5e92bd74e935cb1f86741ee55610dc4af7609a9185b659488e2720de3f8d\"",
+  "releases_etag": "\"cfe4da41e1b239c134590aaac936ba657c3cf33b3b8617b54696b6de886fd498\""
 }

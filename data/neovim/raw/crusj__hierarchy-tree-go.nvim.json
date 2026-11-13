@@ -1,6 +1,6 @@
 {
   "slug": "crusj/hierarchy-tree-go.nvim",
-  "fetched_at": "2026-11-12T08:12:21.207198617Z",
+  "fetched_at": "2026-11-13T11:14:37.705062852Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -21,5 +21,8 @@
     "has_ci": false,
     "has_tests": false,
     "readme_len": 4135
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:14:37.705062852Z",
+  "commits_etag": "\"25a610b716eb587ed43ec4a2a5289d561eafca5fb9a0a379f5a8083f409de847\"",
+  "releases_etag": "\"c9a8bc68b098da983ab4f1f719f268750c8e498de8b9e7247b984322473a3301\""
 }

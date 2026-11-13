@@ -1,6 +1,6 @@
 {
   "slug": "chrisgrieser/nvim-recorder",
-  "fetched_at": "2026-11-12T08:09:34.580285206Z",
+  "fetched_at": "2026-11-13T11:11:59.901841660Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": true,
     "has_tests": false,
     "readme_len": 11560
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:11:59.901841660Z",
+  "commits_etag": "\"e2159d49b702e9201139f9a0c6cac9c0a82a2b9ed8eef9fc257873a9879b6257\"",
+  "releases_etag": "\"c9a8bc68b098da983ab4f1f719f268750c8e498de8b9e7247b984322473a3301\""
 }

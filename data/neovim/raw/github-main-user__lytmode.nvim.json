@@ -1,6 +1,6 @@
 {
   "slug": "github-main-user/lytmode.nvim",
-  "fetched_at": "2026-11-12T08:23:31.868343300Z",
+  "fetched_at": "2026-11-13T11:25:55.810461838Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": false,
     "has_tests": false,
     "readme_len": 3123
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:25:55.810461838Z",
+  "commits_etag": "\"8cfb9219b88bd4843f73a7ca8c78925b89d088fc727ea89369a49dc770bc18bf\"",
+  "releases_etag": "\"c9a8bc68b098da983ab4f1f719f268750c8e498de8b9e7247b984322473a3301\""
 }

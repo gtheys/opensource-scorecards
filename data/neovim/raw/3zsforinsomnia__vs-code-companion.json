@@ -1,6 +1,6 @@
 {
   "slug": "3zsforinsomnia/vs-code-companion",
-  "fetched_at": "2026-11-12T07:57:34.932292879Z",
+  "fetched_at": "2026-11-13T11:02:18.762222045Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -21,5 +21,8 @@
     "has_ci": false,
     "has_tests": false,
     "readme_len": 8514
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:02:18.762222045Z",
+  "commits_etag": "\"1989b221af4907429671bd8db75acdbe01744fa239aba02c11967a7dd3a75eef\"",
+  "releases_etag": "\"c9a8bc68b098da983ab4f1f719f268750c8e498de8b9e7247b984322473a3301\""
 }

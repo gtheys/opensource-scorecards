@@ -1,6 +1,6 @@
 {
   "slug": "axkirillov/easypick.nvim",
-  "fetched_at": "2026-11-12T08:04:11.941137423Z",
+  "fetched_at": "2026-11-13T11:07:07.866449240Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -21,5 +21,8 @@
     "has_ci": false,
     "has_tests": false,
     "readme_len": 2958
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:07:07.866449240Z",
+  "commits_etag": "\"d4cf77ac898445b838bc6ae49b6268a12be922c3343bd1f6adc9c02a2b7f16ac\"",
+  "releases_etag": "\"cf569fe2df435b84c0264b6e2dc49b12ac7f44ae4062491d76b3474a9979dc6b\""
 }

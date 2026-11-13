@@ -1,11 +1,11 @@
 {
   "slug": "honza/vim-snippets",
-  "fetched_at": "2026-11-12T08:25:46.967547827Z",
+  "fetched_at": "2026-11-13T11:27:55.258414821Z",
   "status": "ok",
   "data": {
     "archived": false,
     "stars": 4877,
-    "forks": 1979,
+    "forks": 1978,
     "description": "vim-snipmate default snippets (Previously snipmate-snippets)",
     "license_spdx": "MIT",
     "last_commit_at": null,
@@ -21,5 +21,8 @@
     "has_ci": false,
     "has_tests": false,
     "readme_len": 9943
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:27:55.258414821Z",
+  "commits_etag": "\"dfe3a1bda5277106041f10efafa3247da5ca88f8e3697281c618be454af7492f\"",
+  "releases_etag": "\"571e2fcc224245caca5a89907ca2195f7375174918d0046f051e49fdc8af9b02\""
 }

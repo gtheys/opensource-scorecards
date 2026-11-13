@@ -1,6 +1,6 @@
 {
   "slug": "alexmozaidze/tree-comment.nvim",
-  "fetched_at": "2026-11-12T08:01:25.122351066Z",
+  "fetched_at": "2026-11-13T11:04:57.435070575Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": false,
     "has_tests": false,
     "readme_len": 2526
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:04:57.435070575Z",
+  "commits_etag": "\"90e9fcc065e23e5e850206e7c86e2befb87a322a3223ce84ffdf9c8c6b359934\"",
+  "releases_etag": "\"c9a8bc68b098da983ab4f1f719f268750c8e498de8b9e7247b984322473a3301\""
 }

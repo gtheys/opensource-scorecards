@@ -1,6 +1,6 @@
 {
   "slug": "daaanny90/interlinked.nvim",
-  "fetched_at": "2026-11-12T08:13:29.860012665Z",
+  "fetched_at": "2026-11-13T11:15:42.896859035Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": false,
     "has_tests": false,
     "readme_len": 4834
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:15:42.896859035Z",
+  "commits_etag": "\"02d3dd4c4f3a99b730b89b47b56d52e94dcfa657d40dbe2550025ac5458fbeca\"",
+  "releases_etag": "\"c9a8bc68b098da983ab4f1f719f268750c8e498de8b9e7247b984322473a3301\""
 }

@@ -1,6 +1,6 @@
 {
   "slug": "chrisgve/docshelf.nvim",
-  "fetched_at": "2026-11-12T08:10:01.086986384Z",
+  "fetched_at": "2026-11-13T11:12:34.942885412Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": false,
     "has_tests": true,
     "readme_len": 39517
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:12:34.942885412Z",
+  "commits_etag": "\"4e458d5de60a87070d13dff1858fae6965a9acb56af750250f10ae39f310ce4e\"",
+  "releases_etag": "\"c9a8bc68b098da983ab4f1f719f268750c8e498de8b9e7247b984322473a3301\""
 }

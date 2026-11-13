@@ -1,6 +1,6 @@
 {
   "slug": "creativenull/diagnosticls-configs-nvim",
-  "fetched_at": "2026-11-12T08:11:53.231856846Z",
+  "fetched_at": "2026-11-13T11:14:08.437008970Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -8,22 +8,21 @@
     "forks": 7,
     "description": "An unofficial collection of linters and formatters configured for diagnostic-languageserver for neovim.",
     "license_spdx": "MIT",
-    "last_commit_at": "2025-11-12T16:22:18Z",
+    "last_commit_at": null,
     "commits_90d": 0,
-    "releases_365d": 1,
+    "releases_365d": 0,
     "median_issue_close_days": 3.65318287037037,
     "median_pr_close_days": 0.7232175925925926,
     "open_issues": 2,
     "closed_issues_sampled": 17,
-    "contributors_12mo": 1,
-    "top_author_commit_share": 1.0,
-    "top_author": {
-      "login": "creativenull",
-      "account_created_at": "2013-03-04T18:33:30Z",
-      "other_repos_star_sum": 597
-    },
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
     "has_ci": false,
     "has_tests": true,
     "readme_len": 6862
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:14:08.437008970Z",
+  "commits_etag": "\"4601cee0f8f93b714260e9e07bbb0da8b8e7ca832bc684347f19eb5884789ee2\"",
+  "releases_etag": "\"402f01b8f8de6362d161f6adf1878cc7b3a5de7e6c2ab2c6a0769e6be963d164\""
 }

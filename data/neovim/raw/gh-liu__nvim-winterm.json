@@ -1,6 +1,6 @@
 {
   "slug": "gh-liu/nvim-winterm",
-  "fetched_at": "2026-11-12T08:23:15.931401205Z",
+  "fetched_at": "2026-11-13T11:25:44.147394296Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": false,
     "has_tests": true,
     "readme_len": 2067
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:25:44.147394296Z",
+  "commits_etag": "\"4af86506705251d5f049cab67d915ea853a499ad3dbd4874a64556d4b36dbe1a\"",
+  "releases_etag": "\"c9a8bc68b098da983ab4f1f719f268750c8e498de8b9e7247b984322473a3301\""
 }

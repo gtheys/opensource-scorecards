@@ -1,6 +1,6 @@
 {
   "slug": "datsfilipe/min-theme.nvim",
-  "fetched_at": "2026-11-12T08:14:17.298525605Z",
+  "fetched_at": "2026-11-13T11:16:36.646074106Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -21,5 +21,8 @@
     "has_ci": false,
     "has_tests": false,
     "readme_len": 2012
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:16:36.646074106Z",
+  "commits_etag": "\"821bbe15faa66b17b7cce07b490207f7560225683879601258784c6c72d36dfd\"",
+  "releases_etag": "\"c9a8bc68b098da983ab4f1f719f268750c8e498de8b9e7247b984322473a3301\""
 }

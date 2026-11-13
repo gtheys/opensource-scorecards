@@ -1,6 +1,6 @@
 {
   "slug": "andythigpen/nvim-coverage",
-  "fetched_at": "2026-11-12T08:02:23.401636485Z",
+  "fetched_at": "2026-11-13T11:05:45.008451572Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -21,5 +21,8 @@
     "has_ci": false,
     "has_tests": true,
     "readme_len": 6012
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:05:45.008451572Z",
+  "commits_etag": "\"5005348e3e757c29ded4f329de06f64e905339e44185673a382664d643756396\"",
+  "releases_etag": "\"c9a8bc68b098da983ab4f1f719f268750c8e498de8b9e7247b984322473a3301\""
 }

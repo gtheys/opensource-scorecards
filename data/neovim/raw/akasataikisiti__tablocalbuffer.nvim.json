@@ -1,6 +1,6 @@
 {
   "slug": "akasataikisiti/tablocalbuffer.nvim",
-  "fetched_at": "2026-11-12T08:00:12.571068084Z",
+  "fetched_at": "2026-11-13T11:04:11.479500487Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": false,
     "has_tests": true,
     "readme_len": 6899
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:04:11.479500487Z",
+  "commits_etag": "\"3faa0ab190c803bda3cfdf2a44edc3262044b4f781cb804a9e353cf67459c146\"",
+  "releases_etag": "\"c9a8bc68b098da983ab4f1f719f268750c8e498de8b9e7247b984322473a3301\""
 }

@@ -1,6 +1,6 @@
 {
   "slug": "ellisonleao/dotenv.nvim",
-  "fetched_at": "2026-11-12T08:18:07.015677899Z",
+  "fetched_at": "2026-11-13T11:20:35.471362209Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -21,5 +21,8 @@
     "has_ci": true,
     "has_tests": true,
     "readme_len": 1395
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:20:35.471362209Z",
+  "commits_etag": "\"462edd6da115069b2e62d4232979022322014839eef4ef94cc545712ea8c14f3\"",
+  "releases_etag": "\"c9a8bc68b098da983ab4f1f719f268750c8e498de8b9e7247b984322473a3301\""
 }

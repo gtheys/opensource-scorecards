@@ -1,6 +1,6 @@
 {
   "slug": "gorbit99/codewindow.nvim",
-  "fetched_at": "2026-11-12T08:23:56.783344101Z",
+  "fetched_at": "2026-11-13T11:26:13.138415060Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -21,5 +21,8 @@
     "has_ci": false,
     "has_tests": false,
     "readme_len": 5409
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:26:13.138415060Z",
+  "commits_etag": "\"5e5895a61a5b92a2aefaeea3880efe11972b0a3f54bebe68fee6b353e21220a2\"",
+  "releases_etag": "\"c9a8bc68b098da983ab4f1f719f268750c8e498de8b9e7247b984322473a3301\""
 }

@@ -1,6 +1,6 @@
 {
   "slug": "carldaws/miser.nvim",
-  "fetched_at": "2026-11-12T08:07:52.043291317Z",
+  "fetched_at": "2026-11-13T11:10:25.567394039Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": true,
     "has_tests": true,
     "readme_len": 12430
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:10:25.567394039Z",
+  "commits_etag": "\"eee02b2a86e83494bf7af3ddf4683e41bce663f817d4143196ac5a30a41c4109\"",
+  "releases_etag": "\"c9a8bc68b098da983ab4f1f719f268750c8e498de8b9e7247b984322473a3301\""
 }

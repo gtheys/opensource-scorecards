@@ -1,6 +1,6 @@
 {
   "slug": "iwe-org/iwe.nvim",
-  "fetched_at": "2026-11-12T08:28:08.134243696Z",
+  "fetched_at": "2026-11-13T11:29:57.131444100Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": true,
     "has_tests": true,
     "readme_len": 11333
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:29:57.131444100Z",
+  "commits_etag": "\"7d3a970040c63f0bb2bad088825aa10de0cc33391412638ccb36e8c3921330b7\"",
+  "releases_etag": "\"c9a8bc68b098da983ab4f1f719f268750c8e498de8b9e7247b984322473a3301\""
 }

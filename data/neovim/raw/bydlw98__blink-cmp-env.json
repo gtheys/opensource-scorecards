@@ -1,6 +1,6 @@
 {
   "slug": "bydlw98/blink-cmp-env",
-  "fetched_at": "2026-11-12T08:07:22.374555973Z",
+  "fetched_at": "2026-11-13T11:10:05.523407379Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": true,
     "has_tests": false,
     "readme_len": 1855
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:10:05.523407379Z",
+  "commits_etag": "\"c050cc1720a701696ce6b452161c224c6f6885489156a005ae0ad3fdcca99bfc\"",
+  "releases_etag": "\"c9a8bc68b098da983ab4f1f719f268750c8e498de8b9e7247b984322473a3301\""
 }

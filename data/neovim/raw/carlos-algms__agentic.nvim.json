@@ -1,6 +1,6 @@
 {
   "slug": "carlos-algms/agentic.nvim",
-  "fetched_at": "2026-11-12T08:07:55.857141988Z",
+  "fetched_at": "2026-11-13T11:10:27.497938762Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": true,
     "has_tests": true,
     "readme_len": 64105
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:10:27.497938762Z",
+  "commits_etag": "\"c14e31621ccafa8a7bb75b27239d70050ba60f9734eb56317c54b56ec8b3f633\"",
+  "releases_etag": "\"c9a8bc68b098da983ab4f1f719f268750c8e498de8b9e7247b984322473a3301\""
 }

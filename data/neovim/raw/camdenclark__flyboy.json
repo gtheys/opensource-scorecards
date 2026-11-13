@@ -1,6 +1,6 @@
 {
   "slug": "camdenclark/flyboy",
-  "fetched_at": "2026-11-12T08:07:36.794541918Z",
+  "fetched_at": "2026-11-13T11:10:15.883589728Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -21,5 +21,8 @@
     "has_ci": true,
     "has_tests": true,
     "readme_len": 5789
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:10:15.883589728Z",
+  "commits_etag": "\"e72fefe7d8708b194d6871595e8633c83dfc51626cf9181ab3b02848bb197c82\"",
+  "releases_etag": "\"c9a8bc68b098da983ab4f1f719f268750c8e498de8b9e7247b984322473a3301\""
 }

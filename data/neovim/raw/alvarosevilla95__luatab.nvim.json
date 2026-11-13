@@ -1,6 +1,6 @@
 {
   "slug": "alvarosevilla95/luatab.nvim",
-  "fetched_at": "2026-11-12T08:01:56.732990039Z",
+  "fetched_at": "2026-11-13T11:05:23.525489053Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -21,5 +21,8 @@
     "has_ci": false,
     "has_tests": false,
     "readme_len": 1112
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:05:23.525489053Z",
+  "commits_etag": "\"8e1390b37b625a71fce75aeeb2bad0452a62c63505e96df7133a18d28055249e\"",
+  "releases_etag": "\"c9a8bc68b098da983ab4f1f719f268750c8e498de8b9e7247b984322473a3301\""
 }

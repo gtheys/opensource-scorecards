@@ -1,6 +1,6 @@
 {
   "slug": "gaborvecsei/usage-tracker.nvim",
-  "fetched_at": "2026-11-12T08:22:05.236594195Z",
+  "fetched_at": "2026-11-13T11:24:40.879245842Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -21,5 +21,8 @@
     "has_ci": false,
     "has_tests": false,
     "readme_len": 7050
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:24:40.879245842Z",
+  "commits_etag": "\"cbec6b1a796557f25206d66ebce5fa3dd5c6172eef49ac2f0383ccc09badbaa4\"",
+  "releases_etag": "\"c9a8bc68b098da983ab4f1f719f268750c8e498de8b9e7247b984322473a3301\""
 }

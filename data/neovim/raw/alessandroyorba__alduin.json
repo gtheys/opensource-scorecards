@@ -1,6 +1,6 @@
 {
   "slug": "alessandroyorba/alduin",
-  "fetched_at": "2026-11-12T08:01:04.220549498Z",
+  "fetched_at": "2026-11-13T11:04:46.037470155Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -21,5 +21,8 @@
     "has_ci": false,
     "has_tests": false,
     "readme_len": 1919
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:04:46.037470155Z",
+  "commits_etag": "\"ff4935c98b6d007dcc1a3ca17452b126909145851c5a6180c19a70557647c551\"",
+  "releases_etag": "\"9f0514ca0094dfc42a11dd21f05a1d82f8e8f6b0682ea15d8a4d480957e0b9ec\""
 }

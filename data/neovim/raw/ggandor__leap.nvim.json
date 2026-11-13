@@ -1,6 +1,6 @@
 {
   "slug": "ggandor/leap.nvim",
-  "fetched_at": "2026-11-12T08:23:07.398461870Z",
+  "fetched_at": "2026-11-13T11:25:34.092411085Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": false,
     "has_tests": false,
     "readme_len": 934
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:25:34.092411085Z",
+  "commits_etag": "\"52680c0cb5f242e969a2cad7ec54e387e8e2702aae539e91b719e8f8cfb01c78\"",
+  "releases_etag": "\"c9a8bc68b098da983ab4f1f719f268750c8e498de8b9e7247b984322473a3301\""
 }

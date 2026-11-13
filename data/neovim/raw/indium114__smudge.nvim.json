@@ -1,6 +1,6 @@
 {
   "slug": "indium114/smudge.nvim",
-  "fetched_at": "2026-11-12T08:27:15.366535870Z",
+  "fetched_at": "2026-11-13T11:29:08.476110545Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": true,
     "has_tests": false,
     "readme_len": 563
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:29:08.476110545Z",
+  "commits_etag": "\"658c25b899c99986aba6385d75a6500a9fffc831203c49235a6e533f8e1969ba\"",
+  "releases_etag": "\"c9a8bc68b098da983ab4f1f719f268750c8e498de8b9e7247b984322473a3301\""
 }

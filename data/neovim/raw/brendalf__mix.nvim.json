@@ -1,6 +1,6 @@
 {
   "slug": "brendalf/mix.nvim",
-  "fetched_at": "2026-11-12T08:07:02.815455085Z",
+  "fetched_at": "2026-11-13T11:09:46.686246365Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -21,5 +21,8 @@
     "has_ci": true,
     "has_tests": true,
     "readme_len": 2766
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:09:46.686246365Z",
+  "commits_etag": "\"9e8086cf16d026a7b349df7f3132c77dbbf5dada986aaea49b903383460e0c25\"",
+  "releases_etag": "\"c9a8bc68b098da983ab4f1f719f268750c8e498de8b9e7247b984322473a3301\""
 }

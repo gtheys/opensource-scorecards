@@ -1,6 +1,6 @@
 {
   "slug": "hrsh7th/cmp-nvim-lua",
-  "fetched_at": "2026-11-12T08:26:04.790594061Z",
+  "fetched_at": "2026-11-13T11:28:11.843188919Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": false,
     "has_tests": false,
     "readme_len": 404
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:28:11.843188919Z",
+  "commits_etag": "\"5f0b9f19c5bdf145baddeba9f0cbe40c9f81c7f4075fabdf64a7d77e7fb9dc2c\"",
+  "releases_etag": "\"c9a8bc68b098da983ab4f1f719f268750c8e498de8b9e7247b984322473a3301\""
 }

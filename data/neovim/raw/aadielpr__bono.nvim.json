@@ -1,6 +1,6 @@
 {
   "slug": "aadielpr/bono.nvim",
-  "fetched_at": "2026-11-12T07:57:59.816757619Z",
+  "fetched_at": "2026-11-13T11:02:37.297386213Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": false,
     "has_tests": false,
     "readme_len": 2585
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:02:37.297386213Z",
+  "commits_etag": "\"1dc50732add79ae2185f6ae48ea7addc9dc7ba5272bacfe56631354fd83c8d24\"",
+  "releases_etag": "\"c9a8bc68b098da983ab4f1f719f268750c8e498de8b9e7247b984322473a3301\""
 }

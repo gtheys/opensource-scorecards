@@ -1,6 +1,6 @@
 {
   "slug": "brianaung/compl.nvim",
-  "fetched_at": "2026-11-12T08:07:08.235558614Z",
+  "fetched_at": "2026-11-13T11:09:52.658779396Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": false,
     "has_tests": false,
     "readme_len": 4841
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:09:52.658779396Z",
+  "commits_etag": "\"1029fbe3829292d891e0cb2f6a649a78937068aa2860e3ed3b5e89efa6587d7b\"",
+  "releases_etag": "\"c9a8bc68b098da983ab4f1f719f268750c8e498de8b9e7247b984322473a3301\""
 }

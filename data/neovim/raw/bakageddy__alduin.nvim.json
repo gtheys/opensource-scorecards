@@ -1,6 +1,6 @@
 {
   "slug": "bakageddy/alduin.nvim",
-  "fetched_at": "2026-11-12T08:05:08.439754952Z",
+  "fetched_at": "2026-11-13T11:08:03.989961190Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -21,5 +21,8 @@
     "has_ci": false,
     "has_tests": false,
     "readme_len": 1326
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:08:03.989961190Z",
+  "commits_etag": "\"7c4eaf2af086d3adbf5d7f4b03ceffbbb8ccffdcfed126da696f0c608bd5cb49\"",
+  "releases_etag": "\"c9a8bc68b098da983ab4f1f719f268750c8e498de8b9e7247b984322473a3301\""
 }

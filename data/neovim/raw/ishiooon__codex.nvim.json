@@ -1,6 +1,6 @@
 {
   "slug": "ishiooon/codex.nvim",
-  "fetched_at": "2026-11-12T08:27:59.051244532Z",
+  "fetched_at": "2026-11-13T11:29:50.942699135Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": false,
     "has_tests": true,
     "readme_len": 7563
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:29:50.942699135Z",
+  "commits_etag": "\"6274c8208755fdbd9557f6c53bca477a885db71e1d9a9aed9b0772944369e12f\"",
+  "releases_etag": "\"c9a8bc68b098da983ab4f1f719f268750c8e498de8b9e7247b984322473a3301\""
 }

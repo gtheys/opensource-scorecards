@@ -1,6 +1,6 @@
 {
   "slug": "gennaro-tedesco/nvim-possession",
-  "fetched_at": "2026-11-12T08:22:45.938570721Z",
+  "fetched_at": "2026-11-13T11:25:18.610016421Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": true,
     "has_tests": true,
     "readme_len": 10916
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:25:18.610016421Z",
+  "commits_etag": "\"4c43c3c2e173e7182e0c4dd6b83e834a58399700ae3f394876375e5f2dd9408f\"",
+  "releases_etag": "\"40dfaa304a5deab8021873d75cc0fede89fac8c0eb82e74e5be0af4cdc1047c1\""
 }

@@ -1,6 +1,6 @@
 {
   "slug": "chrisgrieser/nvim-puppeteer",
-  "fetched_at": "2026-11-12T08:09:31.143587982Z",
+  "fetched_at": "2026-11-13T11:11:56.940705321Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": true,
     "has_tests": false,
     "readme_len": 4811
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:11:56.940705321Z",
+  "commits_etag": "\"ef71c738932294e0d7a6041293dbf9e216132f37acf1460d1fdc6a1d408015c4\"",
+  "releases_etag": "\"c9a8bc68b098da983ab4f1f719f268750c8e498de8b9e7247b984322473a3301\""
 }

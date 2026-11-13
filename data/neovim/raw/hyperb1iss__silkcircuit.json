@@ -1,6 +1,6 @@
 {
   "slug": "hyperb1iss/silkcircuit",
-  "fetched_at": "2026-11-12T08:26:18.793819Z",
+  "fetched_at": "2026-11-13T11:28:24.426963113Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": true,
     "has_tests": true,
     "readme_len": 31183
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:28:24.426963113Z",
+  "commits_etag": "\"a460c3ae18c9b3ab2f371ddec12c746c773e51d59adc956a9d9b50340f8376ab\"",
+  "releases_etag": "\"d18b9d4dc8848908d054e9ccfdc95d2e21232f29fc97209260a5d9eb82161e71\""
 }

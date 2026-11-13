@@ -1,6 +1,6 @@
 {
   "slug": "0styx0/abbreinder.nvim",
-  "fetched_at": "2026-11-12T07:56:13.189594646Z",
+  "fetched_at": "2026-11-13T11:01:19.309388746Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -21,5 +21,8 @@
     "has_ci": true,
     "has_tests": false,
     "readme_len": 3113
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:01:19.309388746Z",
+  "commits_etag": "\"d0a9b277509fecc771a70a361fda4a9cc1174d0a655299e697c5e33235b2eed8\"",
+  "releases_etag": "\"26106d6cf1a2f7a322431d4020250cf65e52a3709f9be696c6c5f44f714b913a\""
 }

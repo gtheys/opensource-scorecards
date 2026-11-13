@@ -1,6 +1,6 @@
 {
   "slug": "cosmicbuffalo/root_swapper.nvim",
-  "fetched_at": "2026-11-12T08:11:31.220783868Z",
+  "fetched_at": "2026-11-13T11:13:46.693094208Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": false,
     "has_tests": false,
     "readme_len": 652
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:13:46.693094208Z",
+  "commits_etag": "\"9868aaf2bd287bbc7fb7f7ffb964f7b7f4c348cada328e94324558092f5be40d\"",
+  "releases_etag": "\"c9a8bc68b098da983ab4f1f719f268750c8e498de8b9e7247b984322473a3301\""
 }

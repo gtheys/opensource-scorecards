@@ -1,6 +1,6 @@
 {
   "slug": "bfredl/nvim-luadev",
-  "fetched_at": "2026-11-12T08:06:08.228985321Z",
+  "fetched_at": "2026-11-13T11:08:55.033457411Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -21,5 +21,8 @@
     "has_ci": false,
     "has_tests": false,
     "readme_len": 1585
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:08:55.033457411Z",
+  "commits_etag": "\"7cabe09e97169a2385bec9d05090104c0612ae0907a87b32d6d243404fdc6ccd\"",
+  "releases_etag": "\"c9a8bc68b098da983ab4f1f719f268750c8e498de8b9e7247b984322473a3301\""
 }

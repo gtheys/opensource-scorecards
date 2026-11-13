@@ -1,6 +1,6 @@
 {
   "slug": "folke/flash.nvim",
-  "fetched_at": "2026-11-12T08:21:01.953963842Z",
+  "fetched_at": "2026-11-13T11:23:07.961924438Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": true,
     "has_tests": true,
     "readme_len": 24417
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:23:07.961924438Z",
+  "commits_etag": "\"6a92421c96eccc164f0ba602f9679022d6a8524e7c2e3d4993e27d324f63788a\"",
+  "releases_etag": "\"ebe632f56ed3ba00ac5baecd8f1c573d09a9c724a6d89779eb009bfd85573a8d\""
 }

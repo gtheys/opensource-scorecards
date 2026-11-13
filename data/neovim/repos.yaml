@@ -593,6 +593,7 @@ repos:
   - jrop/morph.nvim
   - jrop/tuis.nvim
   - jrychn/modulevim
+  - jtprogru/pack-ui.nvim
   - jubnzv/mdeval.nvim
   - jubnzv/virtual-types.nvim
   - judaew/ronny.nvim
@@ -656,6 +657,7 @@ repos:
   - kokusenz/deltaview.nvim
   - konapun/vacuumline.nvim
   - kosayoda/nvim-lightbulb
+  - kova1max/float-claude.nvim
   - kr40/nvim-macros
   - krady21/compiler-explorer.nvim
   - krissen/blink-cmp-bibtex
@@ -1273,7 +1275,7 @@ repos:
   - theleop/powershell.nvim
   - themercorp/themer.lua
   - theprimeagen/harpoon
-  - thesimonho/kanagawa-paper.nvim
+  - thesimonho/kanagawa-paper
   - thiago4532/mdmath.nvim
   - thorstenrhau/token
   - tiagovla/projet.nvim

@@ -1,6 +1,6 @@
 {
   "slug": "gelguy/wilder.nvim",
-  "fetched_at": "2026-11-12T08:22:31.824165256Z",
+  "fetched_at": "2026-11-13T11:25:02.066626768Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -21,5 +21,8 @@
     "has_ci": true,
     "has_tests": false,
     "readme_len": 37986
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:25:02.066626768Z",
+  "commits_etag": "\"17473fbc6a30b311e864e497c1b2b0cd8385e7453a931ef98d1ccbfe5ee882cf\"",
+  "releases_etag": "\"c9a8bc68b098da983ab4f1f719f268750c8e498de8b9e7247b984322473a3301\""
 }

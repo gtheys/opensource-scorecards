@@ -1,6 +1,6 @@
 {
   "slug": "ankushbhagats/pastel.nvim",
-  "fetched_at": "2026-11-12T08:02:33.611613294Z",
+  "fetched_at": "2026-11-13T11:05:52.702830296Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": false,
     "has_tests": false,
     "readme_len": 6867
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:05:52.702830296Z",
+  "commits_etag": "\"a574666f76cf8f86ad987657bd6e265d39d6bf3c864333c74b41f99bd45a6bcd\"",
+  "releases_etag": "\"c9a8bc68b098da983ab4f1f719f268750c8e498de8b9e7247b984322473a3301\""
 }

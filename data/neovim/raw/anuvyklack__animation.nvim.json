@@ -1,6 +1,6 @@
 {
   "slug": "anuvyklack/animation.nvim",
-  "fetched_at": "2026-11-12T08:02:47.684564839Z",
+  "fetched_at": "2026-11-13T11:06:01.703010737Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -21,5 +21,8 @@
     "has_ci": false,
     "has_tests": false,
     "readme_len": 3678
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:06:01.703010737Z",
+  "commits_etag": "\"3c931adefa2223131543bc74ed6bac8f71fec750e836b466ea1adfb2301d50bc\"",
+  "releases_etag": "\"c9a8bc68b098da983ab4f1f719f268750c8e498de8b9e7247b984322473a3301\""
 }

@@ -1,6 +1,6 @@
 {
   "slug": "hedyhli/outline.nvim",
-  "fetched_at": "2026-11-12T08:25:13.409479254Z",
+  "fetched_at": "2026-11-13T11:27:19.763609323Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": true,
     "has_tests": false,
     "readme_len": 46262
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:27:19.763609323Z",
+  "commits_etag": "\"4bab852664aff0564e283c2ffdf308426460ed6fbeb8ab9785c59147da366922\"",
+  "releases_etag": "\"b14b0082257266225cdb8470fc87602dc63fdd17adcf42bb13fd237acb9061d8\""
 }

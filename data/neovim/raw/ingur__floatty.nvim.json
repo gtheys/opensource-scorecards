@@ -1,6 +1,6 @@
 {
   "slug": "ingur/floatty.nvim",
-  "fetched_at": "2026-11-12T08:27:24.547984812Z",
+  "fetched_at": "2026-11-13T11:29:14.974024284Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -21,5 +21,8 @@
     "has_ci": false,
     "has_tests": false,
     "readme_len": 4665
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:29:14.974024284Z",
+  "commits_etag": "\"d4e1ef85ecff993967e6096767ff3ff864f1a3934c45cc25099e3460aba970de\"",
+  "releases_etag": "\"4ca7f634d1323e846d3f9b210b03d2e27e91c456b48163aad4fb996c5fb7f48a\""
 }

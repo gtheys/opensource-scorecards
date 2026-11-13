@@ -1,6 +1,6 @@
 {
   "slug": "frans-johansson/lazy-nvim-starter",
-  "fetched_at": "2026-11-12T08:21:47.685749084Z",
+  "fetched_at": "2026-11-13T11:24:29.597971694Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -21,5 +21,8 @@
     "has_ci": false,
     "has_tests": false,
     "readme_len": 1337
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:24:29.597971694Z",
+  "commits_etag": "\"51a5d83287ae8e09ed6d7b2824cc56eb1cf6413174e3162dd552f0411a220f2c\"",
+  "releases_etag": "\"c9a8bc68b098da983ab4f1f719f268750c8e498de8b9e7247b984322473a3301\""
 }

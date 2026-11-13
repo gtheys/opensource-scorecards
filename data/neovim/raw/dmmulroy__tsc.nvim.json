@@ -1,6 +1,6 @@
 {
   "slug": "dmmulroy/tsc.nvim",
-  "fetched_at": "2026-11-12T08:15:50.836107774Z",
+  "fetched_at": "2026-11-13T11:18:06.767577980Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -10,20 +10,23 @@
     "license_spdx": "MIT",
     "last_commit_at": "2026-01-14T13:19:38Z",
     "commits_90d": 0,
-    "releases_365d": 3,
+    "releases_365d": 2,
     "median_issue_close_days": 45.47791087962963,
     "median_pr_close_days": 3.917552083333333,
     "open_issues": 7,
     "closed_issues_sampled": 24,
-    "contributors_12mo": 5,
-    "top_author_commit_share": 0.2,
+    "contributors_12mo": 3,
+    "top_author_commit_share": 0.3333333333333333,
     "top_author": {
-      "login": "NigelGreenway",
-      "account_created_at": "2012-12-06T21:30:51Z",
-      "other_repos_star_sum": 50
+      "login": "davidmh",
+      "account_created_at": "2011-02-01T08:26:21Z",
+      "other_repos_star_sum": 251
     },
     "has_ci": true,
     "has_tests": false,
     "readme_len": 8981
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:18:06.767577980Z",
+  "commits_etag": "\"734a73aa9e078ca890d338990ff0b06c91e7f09217c9a5dde880fc22a235f87b\"",
+  "releases_etag": "\"9c5521b66ce36785472b5e4e8f1732ff4796a3c677faaffdbadb43787387d5d3\""
 }

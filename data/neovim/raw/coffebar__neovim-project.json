@@ -1,6 +1,6 @@
 {
   "slug": "coffebar/neovim-project",
-  "fetched_at": "2026-11-12T08:11:10.147764578Z",
+  "fetched_at": "2026-11-13T11:13:27.745058823Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": false,
     "has_tests": false,
     "readme_len": 11619
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:13:27.745058823Z",
+  "commits_etag": "\"f39f12deb23567596cb3df9857d8b28aa807c06a7276b1e2a5b38b3b405ba88a\"",
+  "releases_etag": "\"c9a8bc68b098da983ab4f1f719f268750c8e498de8b9e7247b984322473a3301\""
 }

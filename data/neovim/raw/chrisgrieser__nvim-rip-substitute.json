@@ -1,6 +1,6 @@
 {
   "slug": "chrisgrieser/nvim-rip-substitute",
-  "fetched_at": "2026-11-12T08:09:38.047543900Z",
+  "fetched_at": "2026-11-13T11:12:03.481821316Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": true,
     "has_tests": false,
     "readme_len": 9716
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:12:03.481821316Z",
+  "commits_etag": "\"a97cdf5c19ea51798b5943a62224543ce4ffef70f3f392ee43dc98a5f233532c\"",
+  "releases_etag": "\"c9a8bc68b098da983ab4f1f719f268750c8e498de8b9e7247b984322473a3301\""
 }

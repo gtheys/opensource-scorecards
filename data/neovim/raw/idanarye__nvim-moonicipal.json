@@ -1,6 +1,6 @@
 {
   "slug": "idanarye/nvim-moonicipal",
-  "fetched_at": "2026-11-12T08:26:45.668228255Z",
+  "fetched_at": "2026-11-13T11:28:47.116070267Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -21,5 +21,8 @@
     "has_ci": true,
     "has_tests": true,
     "readme_len": 6002
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:28:47.116070267Z",
+  "commits_etag": "\"feef62fe880d33a8523483a021ea1630fd52b48007a3eba81b339354c84e992f\"",
+  "releases_etag": "\"c147a397f278cb350bec7501a396827adc7cf92ce4ce62e94e2224d463af2b41\""
 }

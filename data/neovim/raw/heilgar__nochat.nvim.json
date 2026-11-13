@@ -1,6 +1,6 @@
 {
   "slug": "heilgar/nochat.nvim",
-  "fetched_at": "2026-11-12T08:25:21.987013373Z",
+  "fetched_at": "2026-11-13T11:27:28.872377347Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -21,5 +21,8 @@
     "has_ci": false,
     "has_tests": false,
     "readme_len": 7618
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:27:28.872377347Z",
+  "commits_etag": "\"5d9fe7f4cad7b82dd4b99c34ebd3935888948ef82c1b759b577d819d6bfa12c5\"",
+  "releases_etag": "\"c9a8bc68b098da983ab4f1f719f268750c8e498de8b9e7247b984322473a3301\""
 }

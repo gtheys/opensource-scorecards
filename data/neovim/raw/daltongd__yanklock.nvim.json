@@ -1,6 +1,6 @@
 {
   "slug": "daltongd/yanklock.nvim",
-  "fetched_at": "2026-11-12T08:13:40.480774604Z",
+  "fetched_at": "2026-11-13T11:15:50.942428949Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -21,5 +21,8 @@
     "has_ci": true,
     "has_tests": true,
     "readme_len": 4926
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:15:50.942428949Z",
+  "commits_etag": "\"14430faca4d239c9193560c8a59c36c853204530b6aa4ad2872639bc37367a16\"",
+  "releases_etag": "\"c9a8bc68b098da983ab4f1f719f268750c8e498de8b9e7247b984322473a3301\""
 }

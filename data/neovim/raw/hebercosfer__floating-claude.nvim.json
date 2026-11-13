@@ -1,6 +1,6 @@
 {
   "slug": "hebercosfer/floating-claude.nvim",
-  "fetched_at": "2026-11-12T08:25:10.376221701Z",
+  "fetched_at": "2026-11-13T11:27:16.793699501Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "A floating-window terminal provider for [claudecode.nvim] improving the workflow for those who read (and write) the code.",
     "license_spdx": "MIT",
     "last_commit_at": "2026-11-05T13:47:18Z",
-    "commits_90d": 58,
+    "commits_90d": 53,
     "releases_365d": 8,
     "median_issue_close_days": null,
     "median_pr_close_days": 0.0035300925925925925,
@@ -25,5 +25,8 @@
     "has_ci": true,
     "has_tests": true,
     "readme_len": 33226
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:27:16.793699501Z",
+  "commits_etag": "\"2083a6f2de8434fa8e24e1e9eba60ce8e02ccd74cb4d70ad6fe07daeeecf9bee\"",
+  "releases_etag": "\"01c0d5e0fb8e7704f7ec091b236880a0c0c40ee2a2a14409ff33710f89941e1e\""
 }

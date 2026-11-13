@@ -1,22 +1,22 @@
 {
   "slug": "dmmulroy/ts-error-translator.nvim",
-  "fetched_at": "2026-11-12T08:15:45.978600413Z",
+  "fetched_at": "2026-11-13T11:18:03.824892555Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 437,
+    "stars": 438,
     "forks": 9,
     "description": null,
     "license_spdx": "MIT",
     "last_commit_at": "2026-01-03T23:49:04Z",
     "commits_90d": 0,
-    "releases_365d": 3,
+    "releases_365d": 2,
     "median_issue_close_days": 2.769409722222222,
     "median_pr_close_days": 0.15577546296296296,
     "open_issues": 3,
     "closed_issues_sampled": 11,
-    "contributors_12mo": 3,
-    "top_author_commit_share": 0.5,
+    "contributors_12mo": 2,
+    "top_author_commit_share": 0.6,
     "top_author": {
       "login": "dmmulroy",
       "account_created_at": "2012-11-09T02:59:48Z",
@@ -25,5 +25,8 @@
     "has_ci": true,
     "has_tests": true,
     "readme_len": 4421
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:18:03.824892555Z",
+  "commits_etag": "\"c1e1ccef9d58469b8f261fc5e0fd922c6ca8a8e46a63765c4eae72644a6839ae\"",
+  "releases_etag": "\"2ff8a29fb5c8ab6868080ef5154df339c5bc228c153c8a79914b60977091449d\""
 }

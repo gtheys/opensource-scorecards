@@ -1,6 +1,6 @@
 {
   "slug": "flashcodes-themayankjha/fkthemes.nvim",
-  "fetched_at": "2026-11-12T08:20:34.086518392Z",
+  "fetched_at": "2026-11-13T11:22:49.468917495Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": false,
     "has_tests": false,
     "readme_len": 5976
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:22:49.468917495Z",
+  "commits_etag": "\"e56ea7314bce6de39499340af796ba3c551cb996e7a0efd9953f4b04650570cc\"",
+  "releases_etag": "\"c9a8bc68b098da983ab4f1f719f268750c8e498de8b9e7247b984322473a3301\""
 }

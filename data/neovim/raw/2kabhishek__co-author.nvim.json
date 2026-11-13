@@ -1,6 +1,6 @@
 {
   "slug": "2kabhishek/co-author.nvim",
-  "fetched_at": "2026-11-12T07:56:41.672472567Z",
+  "fetched_at": "2026-11-13T11:01:36.652067882Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -21,5 +21,8 @@
     "has_ci": true,
     "has_tests": true,
     "readme_len": 4058
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:01:36.652067882Z",
+  "commits_etag": "\"5c49616a89954577005487705cbcf0bf7eff092b269bb213db6baa1f52d60d2e\"",
+  "releases_etag": "\"95f80b8a743298fbc8af5afa7d3347df7a9bd06375e65c055ad30b5e4976ad4e\""
 }

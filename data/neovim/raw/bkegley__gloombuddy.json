@@ -1,6 +1,6 @@
 {
   "slug": "bkegley/gloombuddy",
-  "fetched_at": "2026-11-12T08:06:39.312745003Z",
+  "fetched_at": "2026-11-13T11:09:20.022078202Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -21,5 +21,8 @@
     "has_ci": false,
     "has_tests": false,
     "readme_len": 499
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:09:20.022078202Z",
+  "commits_etag": "\"66fdbe57c4a9ea434d85673675fe41b80c66a4c8e8cf8df6d6eda1eaf57fd643\"",
+  "releases_etag": "\"c9a8bc68b098da983ab4f1f719f268750c8e498de8b9e7247b984322473a3301\""
 }

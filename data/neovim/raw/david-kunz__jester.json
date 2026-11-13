@@ -1,6 +1,6 @@
 {
   "slug": "david-kunz/jester",
-  "fetched_at": "2026-11-12T08:14:23.943387759Z",
+  "fetched_at": "2026-11-13T11:16:45.650256144Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -21,5 +21,8 @@
     "has_ci": false,
     "has_tests": false,
     "readme_len": 2712
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:16:45.650256144Z",
+  "commits_etag": "\"3129cf7f548fe7b8b9b3a0ad8e8a1d561ce26ebe81a6b46409968c985ce9d3af\"",
+  "releases_etag": "\"c9a8bc68b098da983ab4f1f719f268750c8e498de8b9e7247b984322473a3301\""
 }

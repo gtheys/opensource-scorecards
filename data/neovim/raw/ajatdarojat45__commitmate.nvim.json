@@ -1,6 +1,6 @@
 {
   "slug": "ajatdarojat45/commitmate.nvim",
-  "fetched_at": "2026-11-12T07:59:59.766522664Z",
+  "fetched_at": "2026-11-13T11:04:03.685917279Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": false,
     "has_tests": false,
     "readme_len": 5845
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:04:03.685917279Z",
+  "commits_etag": "\"0527d749cf586ffc1274fde845022c281ecd97392a9826033140f647f908c720\"",
+  "releases_etag": "\"264f1c815029f278594f14ff1c3849c1b3ffc3b8ded683531d3f1e22b56c40fb\""
 }

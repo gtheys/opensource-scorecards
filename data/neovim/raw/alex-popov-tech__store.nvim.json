@@ -1,6 +1,6 @@
 {
   "slug": "alex-popov-tech/store.nvim",
-  "fetched_at": "2026-11-12T08:01:10.027536178Z",
+  "fetched_at": "2026-11-13T11:04:51.037192870Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": true,
     "has_tests": false,
     "readme_len": 1994
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:04:51.037192870Z",
+  "commits_etag": "\"4c920666f0cb3822defbc8a676b272eb82771239189b112b74a210b7ec859c32\"",
+  "releases_etag": "\"c9a8bc68b098da983ab4f1f719f268750c8e498de8b9e7247b984322473a3301\""
 }

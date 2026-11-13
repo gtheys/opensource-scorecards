@@ -1,6 +1,6 @@
 {
   "slug": "art220/dancheong.nvim",
-  "fetched_at": "2026-11-12T08:03:07.192386370Z",
+  "fetched_at": "2026-11-13T11:06:17.900762555Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": false,
     "has_tests": false,
     "readme_len": 3939
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:06:17.900762555Z",
+  "commits_etag": "\"605ff596c8ee2c304339660662d7e4acf99dad8aaf31e727a672f9c9dc3a5924\"",
+  "releases_etag": "\"c9a8bc68b098da983ab4f1f719f268750c8e498de8b9e7247b984322473a3301\""
 }

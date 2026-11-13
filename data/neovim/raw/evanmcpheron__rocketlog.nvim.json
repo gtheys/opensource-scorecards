@@ -1,6 +1,6 @@
 {
   "slug": "evanmcpheron/rocketlog.nvim",
-  "fetched_at": "2026-11-12T08:19:24.416485033Z",
+  "fetched_at": "2026-11-13T11:21:38.572304316Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": false,
     "has_tests": true,
     "readme_len": 9715
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:21:38.572304316Z",
+  "commits_etag": "\"a4e2ef4d47e8549e65005b710265e064d7bc9b65371eb6ca2bad43da80bba19c\"",
+  "releases_etag": "\"c9a8bc68b098da983ab4f1f719f268750c8e498de8b9e7247b984322473a3301\""
 }

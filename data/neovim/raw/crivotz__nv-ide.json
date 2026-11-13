@@ -1,6 +1,6 @@
 {
   "slug": "crivotz/nv-ide",
-  "fetched_at": "2026-11-12T08:12:14.369817143Z",
+  "fetched_at": "2026-11-13T11:14:28.914584725Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": true,
     "has_tests": false,
     "readme_len": 3772
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:14:28.914584725Z",
+  "commits_etag": "\"62036d042e125ef4b512d0692fdd983c6ca73042284c8225f6f01ce81719250b\"",
+  "releases_etag": "\"c9a8bc68b098da983ab4f1f719f268750c8e498de8b9e7247b984322473a3301\""
 }

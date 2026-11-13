@@ -1,6 +1,6 @@
 {
   "slug": "dan7h3x/neaterm.nvim",
-  "fetched_at": "2026-11-12T08:13:46.672841407Z",
+  "fetched_at": "2026-11-13T11:16:00.041588492Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": false,
     "has_tests": false,
     "readme_len": 4823
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:16:00.041588492Z",
+  "commits_etag": "\"51d2db6df531604e3c88bf23a188efa0b5392e20dd2a2f8ece400dcc29f7c803\"",
+  "releases_etag": "\"c9a8bc68b098da983ab4f1f719f268750c8e498de8b9e7247b984322473a3301\""
 }

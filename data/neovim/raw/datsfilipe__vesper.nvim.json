@@ -1,6 +1,6 @@
 {
   "slug": "datsfilipe/vesper.nvim",
-  "fetched_at": "2026-11-12T08:14:19.357241211Z",
+  "fetched_at": "2026-11-13T11:16:38.920352170Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -21,5 +21,8 @@
     "has_ci": false,
     "has_tests": false,
     "readme_len": 1785
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:16:38.920352170Z",
+  "commits_etag": "\"2cfcbb01c32f9ba18efe7992bf2f781624ee5938cacbbf5342806856c38f1124\"",
+  "releases_etag": "\"c9a8bc68b098da983ab4f1f719f268750c8e498de8b9e7247b984322473a3301\""
 }

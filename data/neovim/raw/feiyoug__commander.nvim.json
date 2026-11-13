@@ -1,6 +1,6 @@
 {
   "slug": "feiyoug/commander.nvim",
-  "fetched_at": "2026-11-12T08:20:06.936073046Z",
+  "fetched_at": "2026-11-13T11:22:22.220164254Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -21,5 +21,8 @@
     "has_ci": false,
     "has_tests": true,
     "readme_len": 12628
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:22:22.220164254Z",
+  "commits_etag": "\"a5daa0181fceaed0ea4a852efaba9e3a33a488c2169af5dadeb73220ef583527\"",
+  "releases_etag": "\"1f7c918fd5d84984b5a79c2c0448686289e044f8ce28a60cc1c23203eba6f39f\""
 }

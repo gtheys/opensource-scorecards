@@ -1,6 +1,6 @@
 {
   "slug": "glyccogen/imprint.nvim",
-  "fetched_at": "2026-11-12T08:23:38.072891194Z",
+  "fetched_at": "2026-11-13T11:26:00.134366235Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": true,
     "has_tests": true,
     "readme_len": 4404
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:26:00.134366235Z",
+  "commits_etag": "\"1e7c50bca09c74f9cf2b46a25a1526e41a3eda7bb714521c20bb85b2a9984962\"",
+  "releases_etag": "\"eb7c79d655c4aba79c53aa9a93211563088549b24b9007e44b3ae0d75fe4c63c\""
 }

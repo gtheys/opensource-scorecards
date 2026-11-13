@@ -1,6 +1,6 @@
 {
   "slug": "idanarye/nvim-channelot",
-  "fetched_at": "2026-11-12T08:26:43.576150925Z",
+  "fetched_at": "2026-11-13T11:28:45.006676357Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -21,5 +21,8 @@
     "has_ci": true,
     "has_tests": true,
     "readme_len": 1706
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:28:45.006676357Z",
+  "commits_etag": "\"f361cf10e6015cfd671a9004f6df690f9160b31c9d7b1299bb6d095ce7c61bfa\"",
+  "releases_etag": "\"e0f6e9e9350cb8da8507af7020519c860e9a692e628ab405ba844a21b16edf73\""
 }

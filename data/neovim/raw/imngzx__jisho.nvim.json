@@ -1,6 +1,6 @@
 {
   "slug": "imngzx/jisho.nvim",
-  "fetched_at": "2026-11-12T08:27:00.245058935Z",
+  "fetched_at": "2026-11-13T11:28:58.702752631Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": false,
     "has_tests": false,
     "readme_len": 7661
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:28:58.702752631Z",
+  "commits_etag": "\"ba4b2246c3fc4d3a69630491950c3b80a6c126813eb2b4a394f0fb5ca43247c9\"",
+  "releases_etag": "\"c9a8bc68b098da983ab4f1f719f268750c8e498de8b9e7247b984322473a3301\""
 }

@@ -1,6 +1,6 @@
 {
   "slug": "artur-shaik/jc.nvim",
-  "fetched_at": "2026-11-12T08:03:20.775326503Z",
+  "fetched_at": "2026-11-13T11:06:27.422637893Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": true,
     "has_tests": true,
     "readme_len": 39717
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:06:27.422637893Z",
+  "commits_etag": "\"baea2962fb50ba1487a9db05181d3b390ab6f68886b0d97e4891a501955ce49c\"",
+  "releases_etag": "\"46910827c4e1e1b1b1e2b549611dfa196771651632ede88cfc94baa3badedc07\""
 }

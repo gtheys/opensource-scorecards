@@ -1,6 +1,6 @@
 {
   "slug": "ariel-frischer/bmessages.nvim",
-  "fetched_at": "2026-11-12T08:03:01.301395266Z",
+  "fetched_at": "2026-11-13T11:06:13.784462936Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -21,5 +21,8 @@
     "has_ci": true,
     "has_tests": true,
     "readme_len": 4009
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:06:13.784462936Z",
+  "commits_etag": "\"41dfdff0c6ed4c2941bff84939f19c645ea12ff7a85e7f07c3ba165651e84938\"",
+  "releases_etag": "\"c9a8bc68b098da983ab4f1f719f268750c8e498de8b9e7247b984322473a3301\""
 }

@@ -1,6 +1,6 @@
 {
   "slug": "dev-addict/floatingfile.nvim",
-  "fetched_at": "2026-11-12T08:15:06.008918657Z",
+  "fetched_at": "2026-11-13T11:17:38.496870732Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": false,
     "has_tests": false,
     "readme_len": 3384
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:17:38.496870732Z",
+  "commits_etag": "\"3be50924e337b47b038dddf53877ef96c7ebdf80ad17a1f518df082f7d714ad5\"",
+  "releases_etag": "\"c9a8bc68b098da983ab4f1f719f268750c8e498de8b9e7247b984322473a3301\""
 }

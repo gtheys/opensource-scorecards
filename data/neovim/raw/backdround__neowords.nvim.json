@@ -1,6 +1,6 @@
 {
   "slug": "backdround/neowords.nvim",
-  "fetched_at": "2026-11-12T08:05:04.673860762Z",
+  "fetched_at": "2026-11-13T11:08:00.094687175Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -21,5 +21,8 @@
     "has_ci": true,
     "has_tests": true,
     "readme_len": 5501
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:08:00.094687175Z",
+  "commits_etag": "\"c18b079ac86074eb38235397a914e6946662e3c6ae468d3a04b387a997626614\"",
+  "releases_etag": "\"c9a8bc68b098da983ab4f1f719f268750c8e498de8b9e7247b984322473a3301\""
 }

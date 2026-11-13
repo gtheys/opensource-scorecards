@@ -1,6 +1,6 @@
 {
   "slug": "abstract-ide/abstract-cs",
-  "fetched_at": "2026-11-12T07:58:29.716505004Z",
+  "fetched_at": "2026-11-13T11:03:02.798257106Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -21,5 +21,8 @@
     "has_ci": false,
     "has_tests": false,
     "readme_len": 2523
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:03:02.798257106Z",
+  "commits_etag": "\"1cb3c083d03156861ee8b1c916dd40f8c41419c94ffa974caa31e4436c5eed3a\"",
+  "releases_etag": "\"c9a8bc68b098da983ab4f1f719f268750c8e498de8b9e7247b984322473a3301\""
 }

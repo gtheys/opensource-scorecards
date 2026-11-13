@@ -1,6 +1,6 @@
 {
   "slug": "jaimeibanezrivera/zj-theme",
-  "fetched_at": "2026-11-03T11:20:36.150278062Z",
+  "fetched_at": "2026-11-13T11:30:12.416980559Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": true,
     "has_tests": true,
     "readme_len": 12137
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:30:12.416980559Z",
+  "commits_etag": "\"f33d43584cd21cea1c20e035f4a5d41ec8cc1d2fdb8a9f623d58f4c064b11261\"",
+  "releases_etag": "\"488868cb19c57db7d5087f1b11da6fe300c3be6fdaa4810f110282b77f12a531\""
 }

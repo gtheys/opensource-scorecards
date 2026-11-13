@@ -1,6 +1,6 @@
 {
   "slug": "fenetikm/falcon",
-  "fetched_at": "2026-11-12T08:20:10.110839482Z",
+  "fetched_at": "2026-11-13T11:22:26.851421799Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -21,5 +21,8 @@
     "has_ci": false,
     "has_tests": false,
     "readme_len": 1518
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:22:26.851421799Z",
+  "commits_etag": "\"1424a581f8d8aa86cc18bd6d03f692f8935e60c9f6fd548ec69853d1ffe16185\"",
+  "releases_etag": "\"c9a8bc68b098da983ab4f1f719f268750c8e498de8b9e7247b984322473a3301\""
 }

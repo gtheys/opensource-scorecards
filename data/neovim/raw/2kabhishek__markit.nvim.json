@@ -1,6 +1,6 @@
 {
   "slug": "2kabhishek/markit.nvim",
-  "fetched_at": "2026-11-12T07:56:49.730809146Z",
+  "fetched_at": "2026-11-13T11:01:40.980067579Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -21,5 +21,8 @@
     "has_ci": true,
     "has_tests": true,
     "readme_len": 14115
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:01:40.980067579Z",
+  "commits_etag": "\"cda96aae940fb4008e26832d9727be9ade0d33141562a97aee799857b3135979\"",
+  "releases_etag": "\"129c4a3684bd99f482224a9b941d027b2a5392ccd3844f4bb4e6c685f4d93df2\""
 }

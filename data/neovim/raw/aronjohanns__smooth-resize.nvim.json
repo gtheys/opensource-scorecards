@@ -1,6 +1,6 @@
 {
   "slug": "aronjohanns/smooth-resize.nvim",
-  "fetched_at": "2026-11-12T08:03:03.890451096Z",
+  "fetched_at": "2026-11-13T11:06:16.127077351Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": false,
     "has_tests": false,
     "readme_len": 1584
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:06:16.127077351Z",
+  "commits_etag": "\"a9599feba13abc11b36e7c0ea9f15a3f753e46eb41c379f73850a7406b27bdee\"",
+  "releases_etag": "\"b4757dd1d80c3160f5bf816eb787fb7dc95ae2db80a494caecd9eda795fb6388\""
 }

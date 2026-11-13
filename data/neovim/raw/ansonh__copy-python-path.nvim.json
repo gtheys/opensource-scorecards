@@ -1,6 +1,6 @@
 {
   "slug": "ansonh/copy-python-path.nvim",
-  "fetched_at": "2026-11-12T08:02:36.510149960Z",
+  "fetched_at": "2026-11-13T11:05:54.466896810Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -21,5 +21,8 @@
     "has_ci": true,
     "has_tests": true,
     "readme_len": 5523
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:05:54.466896810Z",
+  "commits_etag": "\"ea03e5196967151ef17818c7eb5baf6028e90025b283ddb34a09ad8b71fa57ef\"",
+  "releases_etag": "\"1df2d907a1ec42c01730ef89ff6d84211838455d3e98743e47d61253ecf0bbb9\""
 }

@@ -1,6 +1,6 @@
 {
   "slug": "alyxshang/nuwa.nvim",
-  "fetched_at": "2026-11-12T08:01:58.903082654Z",
+  "fetched_at": "2026-11-13T11:05:25.610441446Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": true,
     "has_tests": true,
     "readme_len": 3269
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:05:25.610441446Z",
+  "commits_etag": "\"a19dc638a42e7b8d7334d5b7904d63691b9e76c47c0a51d545b3d0cb2cc534db\"",
+  "releases_etag": "\"04cc52c2610e4893af62c1b8d1cba057d71b4b932b2a8e2d477b3a876d53f098\""
 }

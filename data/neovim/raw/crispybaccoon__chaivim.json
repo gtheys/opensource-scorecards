@@ -1,6 +1,6 @@
 {
   "slug": "crispybaccoon/chaivim",
-  "fetched_at": "2026-11-12T08:12:10.569160419Z",
+  "fetched_at": "2026-11-13T11:14:22.860221818Z",
   "status": "ok",
   "data": {
     "archived": true,
@@ -21,5 +21,8 @@
     "has_ci": false,
     "has_tests": false,
     "readme_len": 3993
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:14:22.860221818Z",
+  "commits_etag": "\"1d876442c1bf58f770904aace5f66d433220039b7b44e694974376e16ee4c9de\"",
+  "releases_etag": "\"c9a8bc68b098da983ab4f1f719f268750c8e498de8b9e7247b984322473a3301\""
 }

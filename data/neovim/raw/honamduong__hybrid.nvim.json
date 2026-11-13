@@ -1,6 +1,6 @@
 {
   "slug": "honamduong/hybrid.nvim",
-  "fetched_at": "2026-11-12T08:25:44.219635611Z",
+  "fetched_at": "2026-11-13T11:27:53.372187711Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": false,
     "has_tests": false,
     "readme_len": 2437
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:27:53.372187711Z",
+  "commits_etag": "\"f3d1c7908b6486f44044c40acb4e7b5e8a2285b72f80bc2347fe76e953eee7df\"",
+  "releases_etag": "\"c9a8bc68b098da983ab4f1f719f268750c8e498de8b9e7247b984322473a3301\""
 }

@@ -1,6 +1,6 @@
 {
   "slug": "2kabhishek/utils.nvim",
-  "fetched_at": "2026-11-12T07:57:11.668918208Z",
+  "fetched_at": "2026-11-13T11:01:58.607888099Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": true,
     "has_tests": true,
     "readme_len": 4398
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:01:58.607888099Z",
+  "commits_etag": "\"dfcd9c28c684289bacdb43c0504f51e4df6cdf18990b5917863791226713bb4b\"",
+  "releases_etag": "\"5761187fc4cad49af460d16fa16634372768ef790258ec88d22f853731c192a9\""
 }

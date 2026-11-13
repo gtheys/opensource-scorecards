@@ -1,6 +1,6 @@
 {
   "slug": "gnikdroy/projections.nvim",
-  "fetched_at": "2026-11-12T08:23:43.485022127Z",
+  "fetched_at": "2026-11-13T11:26:04.162522417Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -21,5 +21,8 @@
     "has_ci": true,
     "has_tests": false,
     "readme_len": 9836
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:26:04.162522417Z",
+  "commits_etag": "\"07771e36bd6c131cc042536dc6b127b2d61455eb32cf2302613f5d4addd03590\"",
+  "releases_etag": "\"c9a8bc68b098da983ab4f1f719f268750c8e498de8b9e7247b984322473a3301\""
 }

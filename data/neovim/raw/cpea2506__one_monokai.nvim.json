@@ -1,6 +1,6 @@
 {
   "slug": "cpea2506/one_monokai.nvim",
-  "fetched_at": "2026-11-12T08:11:43.367971402Z",
+  "fetched_at": "2026-11-13T11:13:58.322272792Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": true,
     "has_tests": true,
     "readme_len": 5020
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:13:58.322272792Z",
+  "commits_etag": "\"83d7766066f0c555c068e9aa338ab7b7f6b51486dbf2a2c72a915369d2be06ba\"",
+  "releases_etag": "\"c038660e2d0343246fd21b4dfbd93261fce876a3af876d9d3a2df8f9e8b0fee3\""
 }

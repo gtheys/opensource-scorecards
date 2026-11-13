@@ -1,6 +1,6 @@
 {
   "slug": "crusj/structrue-go.nvim",
-  "fetched_at": "2026-11-12T08:12:23.252812233Z",
+  "fetched_at": "2026-11-13T11:14:39.714248557Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -21,5 +21,8 @@
     "has_ci": false,
     "has_tests": false,
     "readme_len": 5438
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:14:39.714248557Z",
+  "commits_etag": "\"adce4fc67413098274f6a09ebe5b8e305123624fa44841ac02ddbf8d0de8d2e4\"",
+  "releases_etag": "\"c9a8bc68b098da983ab4f1f719f268750c8e498de8b9e7247b984322473a3301\""
 }

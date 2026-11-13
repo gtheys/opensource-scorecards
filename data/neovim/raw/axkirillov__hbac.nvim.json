@@ -1,6 +1,6 @@
 {
   "slug": "axkirillov/hbac.nvim",
-  "fetched_at": "2026-11-12T08:04:14.432467010Z",
+  "fetched_at": "2026-11-13T11:07:10.228123683Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": false,
     "has_tests": false,
     "readme_len": 7171
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:07:10.228123683Z",
+  "commits_etag": "\"f871b495b1583b473baaadd8e80f880e7b4cbdb86ec9319063d7b25f075892df\"",
+  "releases_etag": "\"0e4cc82480280c82cac8a88f60f51829f7a1a0e74191ccd76e35d2ad64cf2e79\""
 }

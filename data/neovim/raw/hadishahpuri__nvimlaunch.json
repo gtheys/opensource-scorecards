@@ -1,6 +1,6 @@
 {
   "slug": "hadishahpuri/nvimlaunch",
-  "fetched_at": "2026-11-12T08:24:29.475382461Z",
+  "fetched_at": "2026-11-13T11:26:41.069210813Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": false,
     "has_tests": false,
     "readme_len": 11416
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:26:41.069210813Z",
+  "commits_etag": "\"ff2ef0f75231584d7e504070811ac6d6266c9e7339d8812f9b7214d844bf7e53\"",
+  "releases_etag": "\"87273bce4b41daad3794fe1f74634be662b1278ed796916e8eebf995385f4e60\""
 }

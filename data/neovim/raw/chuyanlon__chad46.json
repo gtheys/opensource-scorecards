@@ -1,6 +1,6 @@
 {
   "slug": "chuyanlon/chad46",
-  "fetched_at": "2026-11-12T08:10:17.583041224Z",
+  "fetched_at": "2026-11-13T11:12:50.156841423Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": true,
     "has_tests": false,
     "readme_len": 16759
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:12:50.156841423Z",
+  "commits_etag": "\"4c236868e53752d6a42ceb0c10b2e71cb902265925507246f4d57ec15722cfce\"",
+  "releases_etag": "\"f9f9c6be969f5577d3a97daadfb36dc87d5a0d87b6219590a90ef18b0ef633e7\""
 }

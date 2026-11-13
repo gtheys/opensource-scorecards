@@ -1,6 +1,6 @@
 {
   "slug": "hackorum/vapournvim",
-  "fetched_at": "2026-11-12T08:24:25.804146957Z",
+  "fetched_at": "2026-11-13T11:26:36.553790944Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -21,5 +21,8 @@
     "has_ci": false,
     "has_tests": false,
     "readme_len": 3152
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:26:36.553790944Z",
+  "commits_etag": "\"f2c6c9fdfc304aad0d41f3bcd6403e766c0de15adcb769319dbc1be9b6f5cc6e\"",
+  "releases_etag": "\"c9a8bc68b098da983ab4f1f719f268750c8e498de8b9e7247b984322473a3301\""
 }

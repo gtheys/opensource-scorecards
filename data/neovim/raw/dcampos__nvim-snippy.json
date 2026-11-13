@@ -1,6 +1,6 @@
 {
   "slug": "dcampos/nvim-snippy",
-  "fetched_at": "2026-11-12T08:14:38.496995864Z",
+  "fetched_at": "2026-11-13T11:17:05.805619180Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": true,
     "has_tests": true,
     "readme_len": 6101
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:17:05.805619180Z",
+  "commits_etag": "\"68cc58ff0f7c673d8069bda0cc350eec06deaca3424a8d135bf4634f6128f082\"",
+  "releases_etag": "\"6f13e5ebaf36ecd7b986b635b7d3f42bf478261f4b5c7dc5c2e0633979b3fb40\""
 }

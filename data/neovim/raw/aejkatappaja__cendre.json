@@ -1,6 +1,6 @@
 {
   "slug": "aejkatappaja/cendre",
-  "fetched_at": "2026-11-12T07:59:29.508432913Z",
+  "fetched_at": "2026-11-13T11:03:44.175447128Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": true,
     "has_tests": true,
     "readme_len": 13213
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:03:44.175447128Z",
+  "commits_etag": "\"bf05139537f309e61805139053fbe95300b5668464ad8a295a0022eb6d227a95\"",
+  "releases_etag": "\"4843e386149f783d480a2d929203b3079033b83946cb1a109dadefa484a2cbf3\""
 }

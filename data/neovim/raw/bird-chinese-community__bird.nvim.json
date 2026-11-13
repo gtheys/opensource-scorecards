@@ -1,6 +1,6 @@
 {
   "slug": "bird-chinese-community/bird.nvim",
-  "fetched_at": "2026-11-12T08:06:30.141168328Z",
+  "fetched_at": "2026-11-13T11:09:12.582269891Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": true,
     "has_tests": true,
     "readme_len": 5932
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:09:12.582269891Z",
+  "commits_etag": "\"d801fce535ff4466204d6aa80c76d1b6756d328b28f76b57a52918558c060336\"",
+  "releases_etag": "\"cc4e1f9927e301356b04bdab46ea16fc15fd4f3d28875e828836196dd99d4cac\""
 }

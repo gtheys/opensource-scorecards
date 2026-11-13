@@ -1,6 +1,6 @@
 {
   "slug": "drkjeff16/shebang.nvim",
-  "fetched_at": "2026-11-12T08:17:05.723595854Z",
+  "fetched_at": "2026-11-13T11:19:18.312032030Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": true,
     "has_tests": false,
     "readme_len": 3944
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:19:18.312032030Z",
+  "commits_etag": "\"c5f205724addf930543fbabb51102a16f63e972f862444e1cf9ecd45f24b90cd\"",
+  "releases_etag": "\"b2b120060770c58550bd8549641249d8cd84bb20b6236d3ac649ff825efc6f56\""
 }

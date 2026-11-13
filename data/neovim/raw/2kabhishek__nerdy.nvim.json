@@ -1,6 +1,6 @@
 {
   "slug": "2kabhishek/nerdy.nvim",
-  "fetched_at": "2026-11-12T07:56:52.431917079Z",
+  "fetched_at": "2026-11-13T11:01:43.896209360Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": true,
     "has_tests": true,
     "readme_len": 7200
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:01:43.896209360Z",
+  "commits_etag": "\"ce4f0a53f703061f49958673fa4685819db18e6002761396ff025445fd9188cb\"",
+  "releases_etag": "\"5a39fa02a3f13266006d815dbc98dfeb464573f9c50b08eeb8a5ff0579e17995\""
 }

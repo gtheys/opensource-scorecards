@@ -1,6 +1,6 @@
 {
   "slug": "comatory/gh-co.nvim",
-  "fetched_at": "2026-11-12T08:11:16.381391896Z",
+  "fetched_at": "2026-11-13T11:13:30.850404148Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": true,
     "has_tests": false,
     "readme_len": 2293
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:13:30.850404148Z",
+  "commits_etag": "\"92a13a8f94fe10c057451802f2cfd138e807051f6dbf6f1659768974ca09da54\"",
+  "releases_etag": "\"c9a8bc68b098da983ab4f1f719f268750c8e498de8b9e7247b984322473a3301\""
 }

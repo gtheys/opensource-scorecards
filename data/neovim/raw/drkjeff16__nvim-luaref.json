@@ -1,6 +1,6 @@
 {
   "slug": "drkjeff16/nvim-luaref",
-  "fetched_at": "2026-11-12T08:16:46.744163679Z",
+  "fetched_at": "2026-11-13T11:18:58.791787684Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": false,
     "has_tests": false,
     "readme_len": 532
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:18:58.791787684Z",
+  "commits_etag": "\"cefedaf1d7412e3594f3004c5f3c3e07921a3777653a6f58c3b55faa9d4fa5cd\"",
+  "releases_etag": "\"c9a8bc68b098da983ab4f1f719f268750c8e498de8b9e7247b984322473a3301\""
 }

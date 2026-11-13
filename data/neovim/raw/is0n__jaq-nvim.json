@@ -1,6 +1,6 @@
 {
   "slug": "is0n/jaq-nvim",
-  "fetched_at": "2026-11-12T08:27:47.690894245Z",
+  "fetched_at": "2026-11-13T11:29:39.203210584Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -21,5 +21,8 @@
     "has_ci": false,
     "has_tests": false,
     "readme_len": 4433
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:29:39.203210584Z",
+  "commits_etag": "\"25d856807e06807e3b1209947be86eb1e92c7f33323c75dd5eefc5c70ad3bbc5\"",
+  "releases_etag": "\"c9a8bc68b098da983ab4f1f719f268750c8e498de8b9e7247b984322473a3301\""
 }

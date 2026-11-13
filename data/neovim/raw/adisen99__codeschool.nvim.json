@@ -1,6 +1,6 @@
 {
   "slug": "adisen99/codeschool.nvim",
-  "fetched_at": "2026-11-12T07:59:03.807636362Z",
+  "fetched_at": "2026-11-13T11:03:32.262702077Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": false,
     "has_tests": false,
     "readme_len": 4934
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:03:32.262702077Z",
+  "commits_etag": "\"0da86e6a03a0f43cc9f1f98585c13933f592eeec5d52f1058b676712ce2b127c\"",
+  "releases_etag": "\"c9a8bc68b098da983ab4f1f719f268750c8e498de8b9e7247b984322473a3301\""
 }

@@ -1,6 +1,6 @@
 {
   "slug": "doodleesc/translator.nvim",
-  "fetched_at": "2026-11-12T08:16:30.038710843Z",
+  "fetched_at": "2026-11-13T11:18:46.284214784Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -21,5 +21,8 @@
     "has_ci": false,
     "has_tests": false,
     "readme_len": 3187
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:18:46.284214784Z",
+  "commits_etag": "\"ad91bb593f98275e7f542e1b93baa260277f15598c9e9c30ad865bf7ae722d25\"",
+  "releases_etag": "\"c9a8bc68b098da983ab4f1f719f268750c8e498de8b9e7247b984322473a3301\""
 }

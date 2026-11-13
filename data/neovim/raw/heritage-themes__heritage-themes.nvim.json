@@ -1,6 +1,6 @@
 {
   "slug": "heritage-themes/heritage-themes.nvim",
-  "fetched_at": "2026-11-12T08:25:26.516763633Z",
+  "fetched_at": "2026-11-13T11:27:33.668433512Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": false,
     "has_tests": false,
     "readme_len": 14501
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:27:33.668433512Z",
+  "commits_etag": "\"07028f415323486d4baa5de64be3afaf4ad67f9eebc8d0dd0490d613135fc576\"",
+  "releases_etag": "\"c9a8bc68b098da983ab4f1f719f268750c8e498de8b9e7247b984322473a3301\""
 }

@@ -1,6 +1,6 @@
 {
   "slug": "georgesalkhouri/nvim-aider",
-  "fetched_at": "2026-11-12T08:22:55.336978851Z",
+  "fetched_at": "2026-11-13T11:25:23.630607946Z",
   "status": "ok",
   "data": {
     "archived": true,
@@ -25,5 +25,8 @@
     "has_ci": true,
     "has_tests": true,
     "readme_len": 8981
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:25:23.630607946Z",
+  "commits_etag": "\"fe43ac4587b4b640c4858ae5ee817f2166bf56a08a387c48584a2935485152ba\"",
+  "releases_etag": "\"c9a8bc68b098da983ab4f1f719f268750c8e498de8b9e7247b984322473a3301\""
 }

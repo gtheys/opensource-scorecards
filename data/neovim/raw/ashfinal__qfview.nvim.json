@@ -1,6 +1,6 @@
 {
   "slug": "ashfinal/qfview.nvim",
-  "fetched_at": "2026-11-12T08:03:27.972991848Z",
+  "fetched_at": "2026-11-13T11:06:35.266859143Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -21,5 +21,8 @@
     "has_ci": false,
     "has_tests": false,
     "readme_len": 1248
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:06:35.266859143Z",
+  "commits_etag": "\"fecae407dbe21ec973a29ad948762f9e9d5088eb63143974a58bf899e9b93ea1\"",
+  "releases_etag": "\"c9a8bc68b098da983ab4f1f719f268750c8e498de8b9e7247b984322473a3301\""
 }

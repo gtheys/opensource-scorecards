@@ -1,6 +1,6 @@
 {
   "slug": "ellisonleao/carbon-now.nvim",
-  "fetched_at": "2026-11-12T08:18:05.093908309Z",
+  "fetched_at": "2026-11-13T11:20:33.184748028Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -21,5 +21,8 @@
     "has_ci": true,
     "has_tests": true,
     "readme_len": 2014
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:20:33.184748028Z",
+  "commits_etag": "\"6e4e6f4969fbc1bc325fe815a607f0dd1817a9171fd468adebe5aebfe7286a8a\"",
+  "releases_etag": "\"c9a8bc68b098da983ab4f1f719f268750c8e498de8b9e7247b984322473a3301\""
 }

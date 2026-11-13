@@ -1,6 +1,6 @@
 {
   "slug": "2kabhishek/exercism.nvim",
-  "fetched_at": "2026-11-12T07:56:44.490120456Z",
+  "fetched_at": "2026-11-13T11:01:38.931951349Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": true,
     "has_tests": true,
     "readme_len": 6249
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:01:38.931951349Z",
+  "commits_etag": "\"ef1ce10bbcb5e0511503c890a1e36156407ce8b37d3de641ad276e7b1ab51685\"",
+  "releases_etag": "\"68df4dabf7b0d6471daa0022b1dd7a34a7bed2b89117fdb7d7f0088dadea44db\""
 }

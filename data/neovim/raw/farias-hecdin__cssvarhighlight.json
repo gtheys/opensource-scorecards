@@ -1,6 +1,6 @@
 {
   "slug": "farias-hecdin/cssvarhighlight",
-  "fetched_at": "2026-11-12T08:19:54.953315835Z",
+  "fetched_at": "2026-11-13T11:22:09.952260263Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -21,5 +21,8 @@
     "has_ci": false,
     "has_tests": false,
     "readme_len": 3861
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:22:09.952260263Z",
+  "commits_etag": "\"a844d99fba5ee9a39a8d95766a0a85b7598a8d37c90a169140b82527d328829d\"",
+  "releases_etag": "\"c9a8bc68b098da983ab4f1f719f268750c8e498de8b9e7247b984322473a3301\""
 }

@@ -1,6 +1,6 @@
 {
   "slug": "harukikuri/viteenv.nvim",
-  "fetched_at": "2026-11-12T08:24:44.579818669Z",
+  "fetched_at": "2026-11-13T11:26:55.521714Z",
   "status": "ok",
   "data": {
     "archived": true,
@@ -25,5 +25,8 @@
     "has_ci": false,
     "has_tests": true,
     "readme_len": 3807
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:26:55.521714Z",
+  "commits_etag": "\"b9aa9c8dee3accdaf8048def09488121cca5ed35cf3fda87fbc45769004be102\"",
+  "releases_etag": "\"fa031cb9b75088284448f75d431e2996a0217727cb690856f2a35030cf767668\""
 }

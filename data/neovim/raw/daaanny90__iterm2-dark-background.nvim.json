@@ -1,6 +1,6 @@
 {
   "slug": "daaanny90/iterm2-dark-background.nvim",
-  "fetched_at": "2026-11-12T08:13:32.144617407Z",
+  "fetched_at": "2026-11-13T11:15:44.794851879Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": false,
     "has_tests": false,
     "readme_len": 5924
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:15:44.794851879Z",
+  "commits_etag": "\"d400090878442847c402f17a508bfdd70c0de82a21b0c117f2b83992d9b1f91b\"",
+  "releases_etag": "\"c9a8bc68b098da983ab4f1f719f268750c8e498de8b9e7247b984322473a3301\""
 }

@@ -1,6 +1,6 @@
 {
   "slug": "2kabhishek/termim.nvim",
-  "fetched_at": "2026-11-12T07:57:08.498348013Z",
+  "fetched_at": "2026-11-13T11:01:56.591040609Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": true,
     "has_tests": true,
     "readme_len": 5165
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:01:56.591040609Z",
+  "commits_etag": "\"74baf7f412fe93c0e4573e2bb58ae8d18dc7b8ba6519fecc6704baab5c56bebf\"",
+  "releases_etag": "\"982a22ec16ce2dd269a12d3527bd55e57e9d10e2bedb1c9a20893a0acbf63237\""
 }

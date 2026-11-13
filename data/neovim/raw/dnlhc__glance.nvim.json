@@ -1,6 +1,6 @@
 {
   "slug": "dnlhc/glance.nvim",
-  "fetched_at": "2026-11-12T08:16:10.678371542Z",
+  "fetched_at": "2026-11-13T11:18:26.533367133Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": true,
     "has_tests": false,
     "readme_len": 10973
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:18:26.533367133Z",
+  "commits_etag": "\"aabe25c5392a873dbf6baf785f8251242e79b330272fd1ebd6750f61cca91747\"",
+  "releases_etag": "\"c9a8bc68b098da983ab4f1f719f268750c8e498de8b9e7247b984322473a3301\""
 }

@@ -1,6 +1,6 @@
 {
   "slug": "christianchiarulli/nvcode-color-schemes.vim",
-  "fetched_at": "2026-11-12T08:10:04.509567059Z",
+  "fetched_at": "2026-11-13T11:12:37.695800922Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -21,5 +21,8 @@
     "has_ci": false,
     "has_tests": false,
     "readme_len": 3826
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:12:37.695800922Z",
+  "commits_etag": "\"dd460ab4bb77558fa8e554144db679cc22dc113930dada531019e99372f0c3a6\"",
+  "releases_etag": "\"c9a8bc68b098da983ab4f1f719f268750c8e498de8b9e7247b984322473a3301\""
 }

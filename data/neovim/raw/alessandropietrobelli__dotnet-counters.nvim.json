@@ -1,10 +1,10 @@
 {
   "slug": "alessandropietrobelli/dotnet-counters.nvim",
-  "fetched_at": "2026-11-12T08:00:54.788123556Z",
+  "fetched_at": "2026-11-13T11:04:39.973341666Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 6,
+    "stars": 7,
     "forks": 0,
     "description": "Live .NET runtime metrics (CPU, memory, GC, HTTP) in a Neovim side panel, next to nvim-dap",
     "license_spdx": "Apache-2.0",
@@ -25,5 +25,8 @@
     "has_ci": true,
     "has_tests": true,
     "readme_len": 7445
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:04:39.973341666Z",
+  "commits_etag": "\"fb1efc424c7686e3ad02acbf36a1242efff854c2629be333fdc0b9f993445875\"",
+  "releases_etag": "\"6a03b251568df927f1122ecee91542154740ef379f5269c2d747cc4dc44b6c72\""
 }

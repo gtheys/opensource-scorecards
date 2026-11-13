@@ -1,6 +1,6 @@
 {
   "slug": "darkskittlz/gitcompanion",
-  "fetched_at": "2026-11-12T08:14:05.262823343Z",
+  "fetched_at": "2026-11-13T11:16:27.519249967Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": false,
     "has_tests": false,
     "readme_len": 2252
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:16:27.519249967Z",
+  "commits_etag": "\"71e8d85023db673e6030dc1e07500302e4f46fa47155fb10eea739e14dcb4aac\"",
+  "releases_etag": "\"0ff6c99fb90fdc3ba6516c4b7300566219188bdcf8e0993685aebaa141e4e87d\""
 }

@@ -1,6 +1,6 @@
 {
   "slug": "apyra/nvim-unity",
-  "fetched_at": "2026-11-12T08:02:57.881519638Z",
+  "fetched_at": "2026-11-13T11:06:10.831397417Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": false,
     "has_tests": false,
     "readme_len": 9527
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:06:10.831397417Z",
+  "commits_etag": "\"0c942ec4911f3c8ac8be8cce36f713ede1511aed7917d92aa8a6186eb214c6a1\"",
+  "releases_etag": "\"4f0be24ef9636d4ff6fa2fb32ca77dd7f28e1ab661fdfcb13802653d68049e61\""
 }

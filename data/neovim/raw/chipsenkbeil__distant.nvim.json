@@ -1,6 +1,6 @@
 {
   "slug": "chipsenkbeil/distant.nvim",
-  "fetched_at": "2026-11-12T08:08:44.802365124Z",
+  "fetched_at": "2026-11-13T11:11:12.574093214Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -21,5 +21,8 @@
     "has_ci": true,
     "has_tests": true,
     "readme_len": 2579
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:11:12.574093214Z",
+  "commits_etag": "\"74cfacf7ed8a8e3ebaf3c91d0adfc1c19c3b6995a45db4c8b3b8ae06e06ff3c4\"",
+  "releases_etag": "\"6cfad4f157fb838a3b7922ec4397ba76bde8714dfe8e447cf424d9b28516d00b\""
 }

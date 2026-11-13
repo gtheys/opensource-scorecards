@@ -1,6 +1,6 @@
 {
   "slug": "aileot/nvim-thyme",
-  "fetched_at": "2026-11-12T07:59:56.741034058Z",
+  "fetched_at": "2026-11-13T11:03:57.275968807Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -21,5 +21,8 @@
     "has_ci": true,
     "has_tests": true,
     "readme_len": 22236
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:03:57.275968807Z",
+  "commits_etag": "\"c4ebf7e2bba400b8b9aa14332ce1421fa2fb116e1df01351ac454b29c7802f53\"",
+  "releases_etag": "\"a37179b2f5c3b6948237a8d2b981b34c88bcda29c1324fd5bbeb6678270a5de3\""
 }

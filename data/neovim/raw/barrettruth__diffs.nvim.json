@@ -1,6 +1,6 @@
 {
   "slug": "barrettruth/diffs.nvim",
-  "fetched_at": "2026-11-12T08:05:13.012583114Z",
+  "fetched_at": "2026-11-13T11:08:10.812943336Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "treesitter syntax highlighting for diffs",
     "license_spdx": "ISC",
     "last_commit_at": "2026-11-09T14:37:04Z",
-    "commits_90d": 73,
+    "commits_90d": 70,
     "releases_365d": 0,
     "median_issue_close_days": 0.12803819444444442,
     "median_pr_close_days": 0.002395833333333333,
@@ -25,5 +25,8 @@
     "has_ci": true,
     "has_tests": true,
     "readme_len": 5302
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:08:10.812943336Z",
+  "commits_etag": "\"66c68f4a4013183f59e6f09be1d76523c7e73433682a0a1e8634c995b44fb1d9\"",
+  "releases_etag": "\"c9a8bc68b098da983ab4f1f719f268750c8e498de8b9e7247b984322473a3301\""
 }

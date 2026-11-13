@@ -1,6 +1,6 @@
 {
   "slug": "celeste3z/celeste_comment.nvim",
-  "fetched_at": "2026-11-12T08:08:23.095107447Z",
+  "fetched_at": "2026-11-13T11:10:54.137766068Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": true,
     "has_tests": true,
     "readme_len": 19730
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:10:54.137766068Z",
+  "commits_etag": "\"6e267fe24d207a7e7de9e102fef176f2acca4de507f799c726bf7a325ae3fab2\"",
+  "releases_etag": "\"62385768890bcd32d4104b8919412e355f289bb118d6dfa592a34e8801faee0d\""
 }

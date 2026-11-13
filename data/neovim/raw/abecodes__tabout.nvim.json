@@ -1,6 +1,6 @@
 {
   "slug": "abecodes/tabout.nvim",
-  "fetched_at": "2026-11-12T07:58:19.755158226Z",
+  "fetched_at": "2026-11-13T11:02:53.679531158Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -21,5 +21,8 @@
     "has_ci": false,
     "has_tests": false,
     "readme_len": 11237
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:02:53.679531158Z",
+  "commits_etag": "\"cb453654ff3da2c38cfdebc201bc4fc1290b10b810891026436683c3ef13a889\"",
+  "releases_etag": "\"c9a8bc68b098da983ab4f1f719f268750c8e498de8b9e7247b984322473a3301\""
 }

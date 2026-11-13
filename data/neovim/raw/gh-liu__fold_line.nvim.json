@@ -1,6 +1,6 @@
 {
   "slug": "gh-liu/fold_line.nvim",
-  "fetched_at": "2026-11-12T08:23:12.512163259Z",
+  "fetched_at": "2026-11-13T11:25:41.840144192Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": true,
     "has_tests": true,
     "readme_len": 3130
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:25:41.840144192Z",
+  "commits_etag": "\"92a192721489afa332a3843560b06549db1f2370f37b6db2c23a6122dbbdb4ea\"",
+  "releases_etag": "\"c9a8bc68b098da983ab4f1f719f268750c8e498de8b9e7247b984322473a3301\""
 }

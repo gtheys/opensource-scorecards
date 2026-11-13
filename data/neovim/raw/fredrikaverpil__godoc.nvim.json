@@ -1,6 +1,6 @@
 {
   "slug": "fredrikaverpil/godoc.nvim",
-  "fetched_at": "2026-11-12T08:21:49.868286700Z",
+  "fetched_at": "2026-11-13T11:24:31.408839764Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": true,
     "has_tests": false,
     "readme_len": 11875
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:24:31.408839764Z",
+  "commits_etag": "\"de0986111adbe2023103f070da09f4b97f70d62ff6fdf88fc6d83659575fe306\"",
+  "releases_etag": "\"16c7a9b33b39cb78f2d60f42d246b71e0d23a9b84d9b424896b4ca43169a5ae8\""
 }

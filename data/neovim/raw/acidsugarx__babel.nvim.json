@@ -1,6 +1,6 @@
 {
   "slug": "acidsugarx/babel.nvim",
-  "fetched_at": "2026-11-12T07:58:33.856265460Z",
+  "fetched_at": "2026-11-13T11:03:06.800527048Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": true,
     "has_tests": true,
     "readme_len": 14179
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:03:06.800527048Z",
+  "commits_etag": "\"0cf216027f01f889c4b2fd91ef52c2cb1857d83e6ec4cb3578ae3ef7c657b2e5\"",
+  "releases_etag": "\"99b579884311ccc496da4989f5a18b563877c655ebc5660288b1bb12ed175160\""
 }

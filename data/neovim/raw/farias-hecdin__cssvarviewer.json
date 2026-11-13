@@ -1,6 +1,6 @@
 {
   "slug": "farias-hecdin/cssvarviewer",
-  "fetched_at": "2026-11-12T08:19:56.935890152Z",
+  "fetched_at": "2026-11-13T11:22:12.451019707Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -21,5 +21,8 @@
     "has_ci": false,
     "has_tests": false,
     "readme_len": 2562
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:22:12.451019707Z",
+  "commits_etag": "\"1845897511a60a45e37769a622c00a48d4cc61cf5be225d83003c45fe2e3b9bc\"",
+  "releases_etag": "\"c9a8bc68b098da983ab4f1f719f268750c8e498de8b9e7247b984322473a3301\""
 }

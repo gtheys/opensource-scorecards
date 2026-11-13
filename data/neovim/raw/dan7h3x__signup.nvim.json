@@ -1,6 +1,6 @@
 {
   "slug": "dan7h3x/signup.nvim",
-  "fetched_at": "2026-11-12T08:13:49.491139710Z",
+  "fetched_at": "2026-11-13T11:16:02.594522113Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": false,
     "has_tests": false,
     "readme_len": 3244
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:16:02.594522113Z",
+  "commits_etag": "\"11e3b7c3e4bf6827b8f63df8a15b1d63340018aafa66b88a226bb8d15a560022\"",
+  "releases_etag": "\"c9a8bc68b098da983ab4f1f719f268750c8e498de8b9e7247b984322473a3301\""
 }

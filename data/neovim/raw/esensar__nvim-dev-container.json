@@ -1,6 +1,6 @@
 {
   "slug": "esensar/nvim-dev-container",
-  "fetched_at": "2026-11-12T08:19:03.014619391Z",
+  "fetched_at": "2026-11-13T11:21:19.977244739Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": false,
     "has_tests": true,
     "readme_len": 8333
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:21:19.977244739Z",
+  "commits_etag": "\"2d7191204749caf660ae0ba1d5bb7a8994fab1338afdb710fc24950f7d1bdb66\"",
+  "releases_etag": "\"04a9af8acdd173ecfa9b20edc25e87753b9fe7baa58b0cf15276d9a7cd9051b2\""
 }

@@ -1,6 +1,6 @@
 {
   "slug": "fildo7525/pretty_hover",
-  "fetched_at": "2026-11-12T08:20:16.245557312Z",
+  "fetched_at": "2026-11-13T11:22:34.042231530Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": false,
     "has_tests": false,
     "readme_len": 8507
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:22:34.042231530Z",
+  "commits_etag": "\"31d0f20ac6f4532aa63b0b2984fe079192762c4e6a712a280e8f2879edd50cda\"",
+  "releases_etag": "\"7e91a61abc7f503126580c3267c76dfc0adca851d7e7e7cf9c8c19f86aeb801c\""
 }

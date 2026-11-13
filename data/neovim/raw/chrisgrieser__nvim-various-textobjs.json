@@ -1,6 +1,6 @@
 {
   "slug": "chrisgrieser/nvim-various-textobjs",
-  "fetched_at": "2026-11-12T08:09:54.176869209Z",
+  "fetched_at": "2026-11-13T11:12:27.643456665Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": true,
     "has_tests": false,
     "readme_len": 25683
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:12:27.643456665Z",
+  "commits_etag": "\"daf9b2e614bcd42fe136f7e1c7766f727923e8cc442909c2c1f5b968b1eaf693\"",
+  "releases_etag": "\"c9a8bc68b098da983ab4f1f719f268750c8e498de8b9e7247b984322473a3301\""
 }

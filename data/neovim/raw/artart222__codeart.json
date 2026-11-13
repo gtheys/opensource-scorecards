@@ -1,6 +1,6 @@
 {
   "slug": "artart222/codeart",
-  "fetched_at": "2026-11-12T08:03:09.887917038Z",
+  "fetched_at": "2026-11-13T11:06:19.937956959Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": true,
     "has_tests": false,
     "readme_len": 7535
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:06:19.937956959Z",
+  "commits_etag": "\"1d4c2b860d1c402ec8e16a40e7758c894fd382f4b90c26db065119fc96021cf0\"",
+  "releases_etag": "\"0457ba9b20eac0e6a603ef7dfd4a30e7ac0b0dad352bbb0e32348fd420123db1\""
 }

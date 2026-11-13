@@ -1,6 +1,6 @@
 {
   "slug": "drkjeff16/which-colorscheme.nvim",
-  "fetched_at": "2026-11-12T08:17:16.960734597Z",
+  "fetched_at": "2026-11-13T11:19:29.484738579Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": true,
     "has_tests": false,
     "readme_len": 4653
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:19:29.484738579Z",
+  "commits_etag": "\"88bf362ed45d47175c800125a87fdb5c40f6a3ede194d54a7733ff004a9f4630\"",
+  "releases_etag": "\"330ecc08926b660350874698917c862b73d904a9c05a1e2d61d5c0d7066c9c5f\""
 }

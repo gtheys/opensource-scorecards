@@ -1,6 +1,6 @@
 {
   "slug": "emileferreira/nvim-strict",
-  "fetched_at": "2026-11-12T08:18:21.405752761Z",
+  "fetched_at": "2026-11-13T11:20:48.443075461Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": false,
     "has_tests": false,
     "readme_len": 4326
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:20:48.443075461Z",
+  "commits_etag": "\"dff1ad1ba40b8504c8d4bc365eca7ec480b0b04511e8455f1c2492971fbff7e1\"",
+  "releases_etag": "\"c9a8bc68b098da983ab4f1f719f268750c8e498de8b9e7247b984322473a3301\""
 }

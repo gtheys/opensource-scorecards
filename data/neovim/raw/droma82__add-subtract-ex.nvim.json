@@ -1,6 +1,6 @@
 {
   "slug": "droma82/add-subtract-ex.nvim",
-  "fetched_at": "2026-11-12T08:17:21.024750266Z",
+  "fetched_at": "2026-11-13T11:19:32.549987900Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": null,
     "license_spdx": "MIT",
     "last_commit_at": "2026-10-01T15:30:42Z",
-    "commits_90d": 11,
+    "commits_90d": 10,
     "releases_365d": 5,
     "median_issue_close_days": null,
     "median_pr_close_days": null,
@@ -25,5 +25,8 @@
     "has_ci": true,
     "has_tests": true,
     "readme_len": 12895
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:19:32.549987900Z",
+  "commits_etag": "\"d736608096f86a65705a2a1894b2837fdfb1451eaf9249c2459f501e40d0cab9\"",
+  "releases_etag": "\"1830b8b7e4d0d445ed6b887362cbb4e1c4fd191f9cb32fdbbd240c59be5d49d2\""
 }

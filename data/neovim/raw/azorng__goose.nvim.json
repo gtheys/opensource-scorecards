@@ -1,6 +1,6 @@
 {
   "slug": "azorng/goose.nvim",
-  "fetched_at": "2026-11-12T08:04:38.017131512Z",
+  "fetched_at": "2026-11-13T11:07:34.936035399Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": false,
     "has_tests": true,
     "readme_len": 13406
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:07:34.936035399Z",
+  "commits_etag": "\"47d27b072d4492124277b66bd0b9910fd8e2d3ec3f1b9f76ab2004505bb4c9f9\"",
+  "releases_etag": "\"9afd0d05334de2eaf6983847d42339a90496f05c5a687070e991768e30190f2b\""
 }

@@ -1,6 +1,6 @@
 {
   "slug": "drkjeff16/wezterm-types",
-  "fetched_at": "2026-11-12T08:17:08.990585794Z",
+  "fetched_at": "2026-11-13T11:19:20.714373785Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": true,
     "has_tests": false,
     "readme_len": 44358
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:19:20.714373785Z",
+  "commits_etag": "\"dae9093585e9173817d5e59bc864437375df47ef776b648c997c215319ea29a5\"",
+  "releases_etag": "\"e0dcb456f0149161ab86c9939c9ee9505482f92dc4504c7cddb3cebaef6eed4e\""
 }

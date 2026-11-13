@@ -1,6 +1,6 @@
 {
   "slug": "dasupradyumna/launch.nvim",
-  "fetched_at": "2026-11-12T08:14:12.963288564Z",
+  "fetched_at": "2026-11-13T11:16:30.997763701Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -21,5 +21,8 @@
     "has_ci": false,
     "has_tests": true,
     "readme_len": 17180
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:16:30.997763701Z",
+  "commits_etag": "\"54651007ffc978b9c3dc2a7669648a4945b008355ac11fec5c8ada0e0c91294c\"",
+  "releases_etag": "\"7dc4d58f92cd9a5be979daa5d378b5e7f1852701af17ca00a57f6252b1f97cdd\""
 }

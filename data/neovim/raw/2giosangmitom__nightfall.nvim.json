@@ -1,6 +1,6 @@
 {
   "slug": "2giosangmitom/nightfall.nvim",
-  "fetched_at": "2026-11-12T07:56:37.647331444Z",
+  "fetched_at": "2026-11-13T11:01:32.669140066Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": true,
     "has_tests": true,
     "readme_len": 3864
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:01:32.669140066Z",
+  "commits_etag": "\"149c4818ac581f4e841b5e4a38faf24131d1eae71b753eeecadc11f47cff2731\"",
+  "releases_etag": "\"c9a8bc68b098da983ab4f1f719f268750c8e498de8b9e7247b984322473a3301\""
 }

@@ -1,6 +1,6 @@
 {
   "slug": "enigama/remarks.nvim",
-  "fetched_at": "2026-11-12T08:18:43.287244764Z",
+  "fetched_at": "2026-11-13T11:21:05.001137591Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": false,
     "has_tests": false,
     "readme_len": 14637
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:21:05.001137591Z",
+  "commits_etag": "\"5289b8eae537cf7a2b51dc4cd8a65ad849d66f0cf365529d61e7a33055f64c8f\"",
+  "releases_etag": "\"c9a8bc68b098da983ab4f1f719f268750c8e498de8b9e7247b984322473a3301\""
 }

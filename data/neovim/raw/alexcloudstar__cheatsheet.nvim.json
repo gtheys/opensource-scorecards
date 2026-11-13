@@ -1,6 +1,6 @@
 {
   "slug": "alexcloudstar/cheatsheet.nvim",
-  "fetched_at": "2026-11-12T08:01:16.761146785Z",
+  "fetched_at": "2026-11-13T11:04:53.491736850Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": false,
     "has_tests": true,
     "readme_len": 5817
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:04:53.491736850Z",
+  "commits_etag": "\"5ae71d4f069fc2d7a0408fb65a604e0fc20586ae49eabafc22e55d979773d01a\"",
+  "releases_etag": "\"051bb7a11b14e92404d56d80a1e9942d864efeb3e0f835fc8032885877258593\""
 }

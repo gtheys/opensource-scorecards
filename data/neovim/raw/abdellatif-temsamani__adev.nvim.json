@@ -1,6 +1,6 @@
 {
   "slug": "abdellatif-temsamani/adev.nvim",
-  "fetched_at": "2026-11-12T07:58:14.374551123Z",
+  "fetched_at": "2026-11-13T11:02:48.215273282Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": true,
     "has_tests": false,
     "readme_len": 6303
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:02:48.215273282Z",
+  "commits_etag": "\"d596dee69fe1924151d9a3df09f1f12da2d5098304024bc5a663f77a3a3d6be6\"",
+  "releases_etag": "\"15d3a540785fe9cefc6005f30999e35c2d6d0b90f67daa2877412f71f233f108\""
 }

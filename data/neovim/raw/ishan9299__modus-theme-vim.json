@@ -1,6 +1,6 @@
 {
   "slug": "ishan9299/modus-theme-vim",
-  "fetched_at": "2026-11-12T08:27:54.400772413Z",
+  "fetched_at": "2026-11-13T11:29:45.578806994Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -21,5 +21,8 @@
     "has_ci": false,
     "has_tests": false,
     "readme_len": 4259
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:29:45.578806994Z",
+  "commits_etag": "\"fc5fbd494d2514025998116802f0b5453ed8e1538a2d738159a3c23d4f786f59\"",
+  "releases_etag": "\"c9a8bc68b098da983ab4f1f719f268750c8e498de8b9e7247b984322473a3301\""
 }

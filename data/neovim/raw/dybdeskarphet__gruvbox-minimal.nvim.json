@@ -1,22 +1,22 @@
 {
   "slug": "dybdeskarphet/gruvbox-minimal.nvim",
-  "fetched_at": "2026-11-12T08:17:38.511660586Z",
+  "fetched_at": "2026-11-13T11:19:56.601146469Z",
   "status": "ok",
   "data": {
     "archived": false,
     "stars": 17,
     "forks": 1,
-    "description": "🍄‍🟫 A Gruvbox Material theme conceptually inspired by Alabaster.",
+    "description": " 🌈 A minimal colorscheme with several flavors conceptually inspired by Alabaster",
     "license_spdx": "GPL-3.0",
-    "last_commit_at": "2026-09-04T22:12:35Z",
-    "commits_90d": 7,
-    "releases_365d": 12,
+    "last_commit_at": "2026-11-13T04:02:24Z",
+    "commits_90d": 12,
+    "releases_365d": 13,
     "median_issue_close_days": 1.324565972222222,
     "median_pr_close_days": 0.21807291666666667,
     "open_issues": 0,
     "closed_issues_sampled": 2,
     "contributors_12mo": 2,
-    "top_author_commit_share": 0.948051948051948,
+    "top_author_commit_share": 0.9512195121951219,
     "top_author": {
       "login": "dybdeskarphet",
       "account_created_at": "2018-08-13T22:31:13Z",
@@ -24,6 +24,9 @@
     },
     "has_ci": true,
     "has_tests": false,
-    "readme_len": 3530
-  }
+    "readme_len": 3686
+  },
+  "slow_fetched_at": "2026-11-13T11:19:56.601146469Z",
+  "commits_etag": "\"2e96a4a1be79f06b4a9d715ff946940c5337e8c1a8301085bf6ad397c2e2baf1\"",
+  "releases_etag": "\"5ae97ea9b1a30edf97927a492dfd1c476e6611ab404d222e6bcb958216d90012\""
 }

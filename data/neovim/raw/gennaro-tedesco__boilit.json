@@ -1,6 +1,6 @@
 {
   "slug": "gennaro-tedesco/boilit",
-  "fetched_at": "2026-11-12T08:22:36.875832365Z",
+  "fetched_at": "2026-11-13T11:25:08.688260922Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -21,5 +21,8 @@
     "has_ci": false,
     "has_tests": false,
     "readme_len": 2616
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:25:08.688260922Z",
+  "commits_etag": "\"754feaed1451e67fb2fa15ac8f03c97eeb576f7e7ffddb7d339b415c9fabd0c4\"",
+  "releases_etag": "\"d4040f91c6de00c6da3af2f8e9186ba158b61923f6afd74f1e5ce87eaa7cd749\""
 }

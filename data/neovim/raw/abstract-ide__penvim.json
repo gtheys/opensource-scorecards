@@ -1,6 +1,6 @@
 {
   "slug": "abstract-ide/penvim",
-  "fetched_at": "2026-11-12T07:58:32.009236988Z",
+  "fetched_at": "2026-11-13T11:03:04.855663509Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -21,5 +21,8 @@
     "has_ci": false,
     "has_tests": false,
     "readme_len": 3418
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:03:04.855663509Z",
+  "commits_etag": "\"64ad283412473864b400c28bf997483c11093834c0f45faee79f679f5b4176ad\"",
+  "releases_etag": "\"c9a8bc68b098da983ab4f1f719f268750c8e498de8b9e7247b984322473a3301\""
 }

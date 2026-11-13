@@ -1,6 +1,6 @@
 {
   "slug": "amansingh-afk/milli.nvim",
-  "fetched_at": "2026-11-12T08:02:01.443817012Z",
+  "fetched_at": "2026-11-13T11:05:27.588447179Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": false,
     "has_tests": false,
     "readme_len": 13307
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:05:27.588447179Z",
+  "commits_etag": "\"be39a4f2f27febb561c01f1440f57ff9b35fe738fdb0b54e8538cb38efa6ddc5\"",
+  "releases_etag": "\"65f10451daade869f87ed19a6a9408789f55b9280359e22c7e67351e58040887\""
 }

@@ -1,10 +1,10 @@
 {
   "slug": "alessandropietrobelli/nuget.nvim",
-  "fetched_at": "2026-11-12T08:01:01.544884350Z",
+  "fetched_at": "2026-11-13T11:04:44.271981030Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 6,
+    "stars": 7,
     "forks": 0,
     "description": "NuGet package manager for Neovim: browse, update, consolidate and audit the packages of a whole .NET solution in one window",
     "license_spdx": "Apache-2.0",
@@ -25,5 +25,8 @@
     "has_ci": true,
     "has_tests": true,
     "readme_len": 12121
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:04:44.271981030Z",
+  "commits_etag": "\"eb609d1b3289fdae249c72e9478666887c6cac8b7247d2ceb2ea290382ba9198\"",
+  "releases_etag": "\"69c7a9efa06697667c279e787e11c6de2fe607bd8e6833cd9b50afe84e5781bc\""
 }

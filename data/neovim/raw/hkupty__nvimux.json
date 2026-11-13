@@ -1,6 +1,6 @@
 {
   "slug": "hkupty/nvimux",
-  "fetched_at": "2026-11-12T08:25:41.816000095Z",
+  "fetched_at": "2026-11-13T11:27:50.080732633Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -21,5 +21,8 @@
     "has_ci": false,
     "has_tests": false,
     "readme_len": 1761
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:27:50.080732633Z",
+  "commits_etag": "\"e0bd8ef412b24c39504f3eaf530296c68a13ed9a983d6dc7fdd43b17589c2e93\"",
+  "releases_etag": "\"e7cc85dd9c8ff01d289940261e50e39d70dcc991969eec607ab3f041bb98413f\""
 }

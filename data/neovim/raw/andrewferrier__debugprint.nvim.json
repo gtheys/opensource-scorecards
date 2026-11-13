@@ -1,6 +1,6 @@
 {
   "slug": "andrewferrier/debugprint.nvim",
-  "fetched_at": "2026-11-12T08:02:18.077987382Z",
+  "fetched_at": "2026-11-13T11:05:37.838636335Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": true,
     "has_tests": true,
     "readme_len": 73925
-  }
+  },
+  "slow_fetched_at": "2026-11-13T11:05:37.838636335Z",
+  "commits_etag": "\"9e7b82ba7dd6bdc4d74ad9adf3fa00991216268fdfe1aa97b0cb048c6f4c69da\"",
+  "releases_etag": "\"cfb5fb6bbc610b79bcc13d4874b251ba27baa0e18c8154578ddc7a9e418a1449\""
 }
