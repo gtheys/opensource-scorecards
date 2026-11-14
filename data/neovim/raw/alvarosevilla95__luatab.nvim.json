@@ -1,10 +1,10 @@
 {
   "slug": "alvarosevilla95/luatab.nvim",
-  "fetched_at": "2026-11-13T11:05:23.525489053Z",
+  "fetched_at": "2026-11-14T10:29:10.750034032Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 215,
+    "stars": 214,
     "forks": 21,
     "description": "Tabline lua plugin for neovim",
     "license_spdx": "MIT",
@@ -23,6 +23,6 @@
     "readme_len": 1112
   },
   "slow_fetched_at": "2026-11-13T11:05:23.525489053Z",
-  "commits_etag": "\"8e1390b37b625a71fce75aeeb2bad0452a62c63505e96df7133a18d28055249e\"",
-  "releases_etag": "\"c9a8bc68b098da983ab4f1f719f268750c8e498de8b9e7247b984322473a3301\""
+  "commits_etag": "\"389669101288780e602b3eb191beec4320ee400da518cdd627d259318a21bf93\"",
+  "releases_etag": "\"a4b28d72845f58c0dd557dfa910cb946dadb31ebd230f7ace2f4bbdb24770e5f\""
 }

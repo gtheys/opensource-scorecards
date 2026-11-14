@@ -1,10 +1,10 @@
 {
   "slug": "letieu/jira.nvim",
-  "fetched_at": "2026-11-03T11:28:31.894974029Z",
+  "fetched_at": "2026-11-14T10:51:40.258368543Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 273,
+    "stars": 274,
     "forks": 13,
     "description": "I got tired of opening my browser for Jira",
     "license_spdx": "MIT",
@@ -25,5 +25,8 @@
     "has_ci": true,
     "has_tests": true,
     "readme_len": 7878
-  }
+  },
+  "slow_fetched_at": "2026-11-14T10:51:40.258368543Z",
+  "commits_etag": "\"1bec5459dad39a0c872b7670d0a4ec8b4dc3d6ff5ead7124f381f7955583849b\"",
+  "releases_etag": "\"77acd04b2f03d277bf044d6da4524f1d6569184cdb3f6132c5566f9c5685641b\""
 }

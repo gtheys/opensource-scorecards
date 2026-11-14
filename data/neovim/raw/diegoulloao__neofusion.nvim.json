@@ -1,10 +1,10 @@
 {
   "slug": "diegoulloao/neofusion.nvim",
-  "fetched_at": "2026-11-13T11:17:41.101533580Z",
+  "fetched_at": "2026-11-14T10:37:25.312530278Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 234,
+    "stars": 233,
     "forks": 6,
     "description": "nvim theme blending lava red and ice blue for a vibrant coding experience ✨",
     "license_spdx": "MIT",
@@ -27,6 +27,6 @@
     "readme_len": 5338
   },
   "slow_fetched_at": "2026-11-13T11:17:41.101533580Z",
-  "commits_etag": "\"7fdce959421854aad6d1bdf58f1e57929a5eb6591d8377154401402eaf3bac22\"",
-  "releases_etag": "\"c9a8bc68b098da983ab4f1f719f268750c8e498de8b9e7247b984322473a3301\""
+  "commits_etag": "\"5aa0e96e5429de3355fddee82b3a53a7828b67e87e805d94fed52514f6379d8e\"",
+  "releases_etag": "\"a4b28d72845f58c0dd557dfa910cb946dadb31ebd230f7ace2f4bbdb24770e5f\""
 }

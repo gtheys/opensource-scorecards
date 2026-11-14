@@ -1,6 +1,6 @@
 {
   "slug": "crispgm/telescope-heading.nvim",
-  "fetched_at": "2026-11-13T11:14:20.370690109Z",
+  "fetched_at": "2026-11-14T10:35:32.443855857Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 3710
   },
   "slow_fetched_at": "2026-11-13T11:14:20.370690109Z",
-  "commits_etag": "\"abc053d383bf31da932332e8fc292c2f47eb0ccf8faa1849158af1ab1ea3f947\"",
-  "releases_etag": "\"abf3a057d6c86bf29a8dee87973e9917252a8aefa5d034ef06a72f8c4662c3e8\""
+  "commits_etag": "\"e11ff614f22f14ba184f9b188bbcfc98e3aa4e3635a4e6cb953813ea8253a6f4\"",
+  "releases_etag": "\"9ee892db7bb62f376b5b65d1bbb1756e8c4c8dd9be64af1a76e1b115f1b8d649\""
 }

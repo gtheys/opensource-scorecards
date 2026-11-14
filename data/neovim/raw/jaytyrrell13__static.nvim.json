@@ -1,6 +1,6 @@
 {
   "slug": "jaytyrrell13/static.nvim",
-  "fetched_at": "2026-11-03T11:21:12.661146180Z",
+  "fetched_at": "2026-11-14T10:45:58.200637951Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -21,5 +21,8 @@
     "has_ci": true,
     "has_tests": false,
     "readme_len": 2930
-  }
+  },
+  "slow_fetched_at": "2026-11-14T10:45:58.200637951Z",
+  "commits_etag": "\"d9a631f7964330e663ac56ea984031ccbb7faaf0dba96af5e9e00310315b63cb\"",
+  "releases_etag": "\"ac9addc756f805241d15c3bad532a4ded839ef9a70a6a7ad2fb7b10d4e666aa4\""
 }

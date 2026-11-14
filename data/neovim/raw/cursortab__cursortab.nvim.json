@@ -1,10 +1,10 @@
 {
   "slug": "cursortab/cursortab.nvim",
-  "fetched_at": "2026-11-13T11:15:03.907678903Z",
+  "fetched_at": "2026-11-14T10:35:58.583922Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 263,
+    "stars": 264,
     "forks": 29,
     "description": "Neovim edit completion plugin",
     "license_spdx": "MIT",
@@ -27,6 +27,6 @@
     "readme_len": 23503
   },
   "slow_fetched_at": "2026-11-13T11:15:03.907678903Z",
-  "commits_etag": "\"737286c00d08f37b8caab09d04b989aed1b7e1fba31b755e9af27d82aa07795d\"",
-  "releases_etag": "\"115cb34a2be1c2a5d13b023e0837dfafb5e51bde368a1cb5c43de9aa1a6a4e73\""
+  "commits_etag": "\"2834b457c0301827a3bfd0993096f45c40c309a79698000a60de10cda75625d4\"",
+  "releases_etag": "\"3210fca7a8529359c15fdfbebd0a2d7e98414e51a5de1634f69dae4797695ab0\""
 }

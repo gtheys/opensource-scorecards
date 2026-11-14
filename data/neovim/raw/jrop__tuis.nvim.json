@@ -1,10 +1,10 @@
 {
   "slug": "jrop/tuis.nvim",
-  "fetched_at": "2026-11-03T11:23:22.548283012Z",
+  "fetched_at": "2026-11-14T10:47:31.069107841Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 152,
+    "stars": 153,
     "forks": 2,
     "description": "A collection of TUIs for Neovim",
     "license_spdx": null,
@@ -25,5 +25,8 @@
     "has_ci": true,
     "has_tests": true,
     "readme_len": 5875
-  }
+  },
+  "slow_fetched_at": "2026-11-14T10:47:31.069107841Z",
+  "commits_etag": "\"d0bb08e70e11a3357c2b8addd0c9a5b8bbf0f846e75e3f033c2eea83ade00770\"",
+  "releases_etag": "\"a4b28d72845f58c0dd557dfa910cb946dadb31ebd230f7ace2f4bbdb24770e5f\""
 }

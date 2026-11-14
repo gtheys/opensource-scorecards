@@ -1,6 +1,6 @@
 {
   "slug": "akasataikisiti/tablocalbuffer.nvim",
-  "fetched_at": "2026-11-13T11:04:11.479500487Z",
+  "fetched_at": "2026-11-14T10:28:20.486221117Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -8,8 +8,8 @@
     "forks": 0,
     "description": "Tab-local buffer navigation for Neovim. Each tab maintains its own buffer list, making bnext/bprevious cycle within that tab only.",
     "license_spdx": "MIT",
-    "last_commit_at": "2026-11-10T07:07:24Z",
-    "commits_90d": 1,
+    "last_commit_at": "2026-11-14T02:03:29Z",
+    "commits_90d": 8,
     "releases_365d": 0,
     "median_issue_close_days": null,
     "median_pr_close_days": null,
@@ -27,6 +27,6 @@
     "readme_len": 6899
   },
   "slow_fetched_at": "2026-11-13T11:04:11.479500487Z",
-  "commits_etag": "\"3faa0ab190c803bda3cfdf2a44edc3262044b4f781cb804a9e353cf67459c146\"",
-  "releases_etag": "\"c9a8bc68b098da983ab4f1f719f268750c8e498de8b9e7247b984322473a3301\""
+  "commits_etag": "\"8464c2c830a5851baab5ea86317ebc7ac8d91f9893e8e7f98788de1920be2d59\"",
+  "releases_etag": "\"a4b28d72845f58c0dd557dfa910cb946dadb31ebd230f7ace2f4bbdb24770e5f\""
 }

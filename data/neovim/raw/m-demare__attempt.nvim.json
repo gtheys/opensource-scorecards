@@ -1,6 +1,6 @@
 {
   "slug": "m-demare/attempt.nvim",
-  "fetched_at": "2026-11-03T11:30:54.447692320Z",
+  "fetched_at": "2026-11-14T10:54:15.233205318Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": false,
     "has_tests": false,
     "readme_len": 4289
-  }
+  },
+  "slow_fetched_at": "2026-11-14T10:54:15.233205318Z",
+  "commits_etag": "\"595695f3d2df4c028552d762c778ba3f11b8bc686360ced28f64f5555fe59061\"",
+  "releases_etag": "\"a4b28d72845f58c0dd557dfa910cb946dadb31ebd230f7ace2f4bbdb24770e5f\""
 }

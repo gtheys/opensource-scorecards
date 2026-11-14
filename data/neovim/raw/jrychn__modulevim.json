@@ -1,6 +1,6 @@
 {
   "slug": "jrychn/modulevim",
-  "fetched_at": "2026-11-03T11:23:25.258536620Z",
+  "fetched_at": "2026-11-14T10:47:32.574410724Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -21,5 +21,8 @@
     "has_ci": false,
     "has_tests": false,
     "readme_len": 5323
-  }
+  },
+  "slow_fetched_at": "2026-11-14T10:47:32.574410724Z",
+  "commits_etag": "\"29862ce8ca65f0fe3bf29585732c9a840394a463fbeb9cc1f6e7318f01153fad\"",
+  "releases_etag": "\"a4b28d72845f58c0dd557dfa910cb946dadb31ebd230f7ace2f4bbdb24770e5f\""
 }

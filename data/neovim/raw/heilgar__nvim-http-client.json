@@ -1,6 +1,6 @@
 {
   "slug": "heilgar/nvim-http-client",
-  "fetched_at": "2026-11-13T11:27:30.666516096Z",
+  "fetched_at": "2026-11-14T10:43:36.647339599Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 9870
   },
   "slow_fetched_at": "2026-11-13T11:27:30.666516096Z",
-  "commits_etag": "\"a2c04507c3b08a8f21ad81adb4932deb34b4679a8cf23c2c43a66436dbf1e59d\"",
-  "releases_etag": "\"0a8e0df1ffa859a9929860b3b4a62904bd9ac19c356624b57f710395b983ddbf\""
+  "commits_etag": "\"0d990d0a03a7e893ddbfc765c80e20ab5b00e2db1e25f814029431e21ec291e9\"",
+  "releases_etag": "\"6607e9ac994e47fb39b3e6893d78fb962fbee06583c19cf2dc4d6d13d638b532\""
 }

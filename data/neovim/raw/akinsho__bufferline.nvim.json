@@ -1,19 +1,19 @@
 {
   "slug": "akinsho/bufferline.nvim",
-  "fetched_at": "2026-11-13T11:04:13.429097843Z",
+  "fetched_at": "2026-11-14T10:28:21.587366397Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 4391,
-    "forks": 241,
+    "stars": 4392,
+    "forks": 240,
     "description": "A snazzy bufferline for Neovim",
     "license_spdx": "GPL-3.0",
     "last_commit_at": null,
     "commits_90d": 0,
     "releases_365d": 0,
-    "median_issue_close_days": 3.2233796296296298,
+    "median_issue_close_days": 3.327986111111111,
     "median_pr_close_days": 2.3308564814814816,
-    "open_issues": 104,
+    "open_issues": 103,
     "closed_issues_sampled": 39,
     "contributors_12mo": 0,
     "top_author_commit_share": 0.0,
@@ -23,6 +23,6 @@
     "readme_len": 12641
   },
   "slow_fetched_at": "2026-11-13T11:04:13.429097843Z",
-  "commits_etag": "\"88cf78b8d131e29380f886237aff3d927d9944edb825fdf81a4eef95737a7a5b\"",
-  "releases_etag": "\"a5f981b117c228d763a4b3df69382e02fdad17cb1274aad1c5d77c5455ec6256\""
+  "commits_etag": "\"2212b3d044ebedb71506cff079666b4a611944eaaae552ac04a3bbcf35a00c9d\"",
+  "releases_etag": "\"8704641a51ad3217d1b2d3758a829a815a8e4623b49bf7b3709e1f647b3ed34a\""
 }

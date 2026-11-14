@@ -1,6 +1,6 @@
 {
   "slug": "kobbikobb/move-lines.nvim",
-  "fetched_at": "2026-11-03T11:26:51.736928213Z",
+  "fetched_at": "2026-11-14T10:50:13.060032503Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -21,5 +21,8 @@
     "has_ci": false,
     "has_tests": false,
     "readme_len": 1366
-  }
+  },
+  "slow_fetched_at": "2026-11-14T10:50:13.060032503Z",
+  "commits_etag": "\"a81ac66cd0f1ed80664d65bd53d5e90f274dbe64b12e7b4829c273f033d2ef9d\"",
+  "releases_etag": "\"a4b28d72845f58c0dd557dfa910cb946dadb31ebd230f7ace2f4bbdb24770e5f\""
 }

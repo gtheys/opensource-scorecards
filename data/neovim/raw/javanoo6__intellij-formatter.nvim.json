@@ -1,0 +1,28 @@
+{
+  "slug": "javanoo6/intellij-formatter.nvim",
+  "fetched_at": "2026-11-14T10:45:55.597171034Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1,
+    "forks": 0,
+    "description": "IntelliJ-powered formatting with EditorConfig and Java cleanup through conform.nvim",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-10-27T10:38:09Z",
+    "commits_90d": 4,
+    "releases_365d": 3,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 9042
+  },
+  "slow_fetched_at": "2026-11-14T10:45:55.597171034Z",
+  "commits_etag": "\"f0c493eab1c64c0f958862c1e85294af2fb4c33e74a67e513534f3fa6656c00e\"",
+  "releases_etag": "\"97af2b8c36b969577b0e34f673180c05b0db21d9dd715dbcba523f0621f9664d\""
+}

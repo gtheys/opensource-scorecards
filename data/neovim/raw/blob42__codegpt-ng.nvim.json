@@ -1,6 +1,6 @@
 {
   "slug": "blob42/codegpt-ng.nvim",
-  "fetched_at": "2026-11-13T11:09:22.042859041Z",
+  "fetched_at": "2026-11-14T10:31:53.819396638Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 22493
   },
   "slow_fetched_at": "2026-11-13T11:09:22.042859041Z",
-  "commits_etag": "\"9d96e8a4448b9843d7c5389742f8299cd28cb7ed442f220b8b30000bbd351335\"",
-  "releases_etag": "\"c9a8bc68b098da983ab4f1f719f268750c8e498de8b9e7247b984322473a3301\""
+  "commits_etag": "\"b5b580a7b32a2dae895771487adb8effa112828615aaea24f8582fe614de3e70\"",
+  "releases_etag": "\"a4b28d72845f58c0dd557dfa910cb946dadb31ebd230f7ace2f4bbdb24770e5f\""
 }

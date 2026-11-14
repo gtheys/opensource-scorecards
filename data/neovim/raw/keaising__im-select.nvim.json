@@ -1,10 +1,10 @@
 {
   "slug": "keaising/im-select.nvim",
-  "fetched_at": "2026-11-03T11:25:12.079233664Z",
+  "fetched_at": "2026-11-14T10:48:57.492022200Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 369,
+    "stars": 366,
     "forks": 40,
     "description": "Switch Input Method automatically depends on Neovim's edit mode ",
     "license_spdx": "MIT",
@@ -25,5 +25,8 @@
     "has_ci": false,
     "has_tests": false,
     "readme_len": 4656
-  }
+  },
+  "slow_fetched_at": "2026-11-14T10:48:57.492022200Z",
+  "commits_etag": "\"d20cdfa3252abe61af75e9ea91e3017d0be11d8aae1df4cdae4f30fa299c3aed\"",
+  "releases_etag": "\"a4b28d72845f58c0dd557dfa910cb946dadb31ebd230f7ace2f4bbdb24770e5f\""
 }

@@ -1,10 +1,10 @@
 {
   "slug": "konapun/vacuumline.nvim",
-  "fetched_at": "2026-11-03T11:27:01.330512446Z",
+  "fetched_at": "2026-11-14T10:50:19.708919553Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 31,
+    "stars": 32,
     "forks": 2,
     "description": "A prebuilt configuration for galaxyline inspired by airline",
     "license_spdx": "MIT",
@@ -21,5 +21,8 @@
     "has_ci": false,
     "has_tests": false,
     "readme_len": 9421
-  }
+  },
+  "slow_fetched_at": "2026-11-14T10:50:19.708919553Z",
+  "commits_etag": "\"f4f2e6924141abd149da4603b4a0df97c50d5f4588a930fc9c6259e8544bcdad\"",
+  "releases_etag": "\"a4b28d72845f58c0dd557dfa910cb946dadb31ebd230f7ace2f4bbdb24770e5f\""
 }

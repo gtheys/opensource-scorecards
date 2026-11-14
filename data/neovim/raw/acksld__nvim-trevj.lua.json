@@ -1,10 +1,10 @@
 {
   "slug": "acksld/nvim-trevj.lua",
-  "fetched_at": "2026-11-13T11:03:16.569194692Z",
+  "fetched_at": "2026-11-14T10:27:39.799987044Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 168,
+    "stars": 167,
     "forks": 9,
     "description": "Nvim-plugin for doing the opposite of join-line (J) of arguments, powered by treesitter",
     "license_spdx": "MIT",
@@ -23,6 +23,6 @@
     "readme_len": 3886
   },
   "slow_fetched_at": "2026-11-13T11:03:16.569194692Z",
-  "commits_etag": "\"cc67576d8f223b4775e4ebb8313029e1f8584cc3dd1b8545c0d2b732c2c407f1\"",
-  "releases_etag": "\"c9a8bc68b098da983ab4f1f719f268750c8e498de8b9e7247b984322473a3301\""
+  "commits_etag": "\"0c266a44b9d51e8aa1c62e2d88ef2d5ec78bab8f214c8857723b440d0e6a2878\"",
+  "releases_etag": "\"a4b28d72845f58c0dd557dfa910cb946dadb31ebd230f7ace2f4bbdb24770e5f\""
 }

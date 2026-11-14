@@ -1,10 +1,10 @@
 {
   "slug": "cweill/gotests",
-  "fetched_at": "2026-11-13T11:15:12.780163969Z",
+  "fetched_at": "2026-11-14T10:36:04.226857240Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 5343,
+    "stars": 5344,
     "forks": 354,
     "description": "Automatically generate Go test boilerplate from your source code.",
     "license_spdx": "Apache-2.0",
@@ -23,6 +23,6 @@
     "readme_len": 13100
   },
   "slow_fetched_at": "2026-11-13T11:15:12.780163969Z",
-  "commits_etag": "\"408399ba85d9e4dc8268015482d986cf248e3f56fa2ee2d459f0788f3fffaebc\"",
-  "releases_etag": "\"eafd8173c320f811051d0ceb76ab06d4727608eb18f164e526795a3ac4e6db19\""
+  "commits_etag": "\"99b0fd6a79b8d24dadb1d490e207d48cf32e0767197de0a3e697f40d4e930520\"",
+  "releases_etag": "\"5cc8ba455e3ffba1d8dd32af90de111efca9453c8ac2d163eabd39081d7f9264\""
 }

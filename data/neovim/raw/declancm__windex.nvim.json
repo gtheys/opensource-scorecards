@@ -1,10 +1,10 @@
 {
   "slug": "declancm/windex.nvim",
-  "fetched_at": "2026-11-13T11:17:18.693647877Z",
+  "fetched_at": "2026-11-14T10:37:12.826541262Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 62,
+    "stars": 61,
     "forks": 1,
     "description": "🧼 Clean window maximizing, terminal toggling, window/tmux pane movements and more!",
     "license_spdx": "MIT",
@@ -23,6 +23,6 @@
     "readme_len": 7510
   },
   "slow_fetched_at": "2026-11-13T11:17:18.693647877Z",
-  "commits_etag": "\"503dfb41c5bdc5d3fca1c503e5a5ba84d4964f4d9fac553feb8a96d27b8e11d5\"",
-  "releases_etag": "\"c9a8bc68b098da983ab4f1f719f268750c8e498de8b9e7247b984322473a3301\""
+  "commits_etag": "\"eff7081e81ea89b41ce121cc2c8ac33a8941f4c0e3e0083b84d94f7734c04ba4\"",
+  "releases_etag": "\"a4b28d72845f58c0dd557dfa910cb946dadb31ebd230f7ace2f4bbdb24770e5f\""
 }

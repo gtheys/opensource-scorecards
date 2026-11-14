@@ -1,6 +1,6 @@
 {
   "slug": "acksld/nvim-gfold.lua",
-  "fetched_at": "2026-11-13T11:03:11.432688091Z",
+  "fetched_at": "2026-11-14T10:27:36.388226855Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 4030
   },
   "slow_fetched_at": "2026-11-13T11:03:11.432688091Z",
-  "commits_etag": "\"c4b77bb0d746f27561d0834cce31266484db9e945b86c50b57455d247aa3c0bc\"",
-  "releases_etag": "\"c9a8bc68b098da983ab4f1f719f268750c8e498de8b9e7247b984322473a3301\""
+  "commits_etag": "\"7ba5ed0dfb33a0b1fe0169d1aa96041e839ac6145f1ecc1d8ad0d66a0829b20a\"",
+  "releases_etag": "\"a4b28d72845f58c0dd557dfa910cb946dadb31ebd230f7ace2f4bbdb24770e5f\""
 }

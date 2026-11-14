@@ -1,10 +1,10 @@
 {
   "slug": "folke/which-key.nvim",
-  "fetched_at": "2026-11-13T11:24:09.713230052Z",
+  "fetched_at": "2026-11-14T10:41:28.941431515Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 7354,
+    "stars": 7338,
     "forks": 271,
     "description": "💥   Create key bindings that stick. WhichKey helps you remember your Neovim keymaps, by showing available keybindings in a popup as you type.",
     "license_spdx": "Apache-2.0",
@@ -13,7 +13,7 @@
     "releases_365d": 0,
     "median_issue_close_days": 38.6866087962963,
     "median_pr_close_days": 24.046388888888888,
-    "open_issues": 44,
+    "open_issues": 43,
     "closed_issues_sampled": 43,
     "contributors_12mo": 0,
     "top_author_commit_share": 0.0,
@@ -23,6 +23,6 @@
     "readme_len": 16679
   },
   "slow_fetched_at": "2026-11-13T11:24:09.713230052Z",
-  "commits_etag": "\"451e224ea7ad1bdca97d2996eff669ddd1dde4b56029e125ec2374a9369f380e\"",
-  "releases_etag": "\"b6518dacf9682e50bfb96d39786fb34b33b4ccf27c3118141867046d90bb9e66\""
+  "commits_etag": "\"060f748cbe3690245bb0bbad5fbceec0a49e7e05de8858153425b1555330cf49\"",
+  "releases_etag": "\"f60c98617675bd49ffd7aaea2cca7f1a1bcb849fd3c9792c0189f4d957f94e9c\""
 }

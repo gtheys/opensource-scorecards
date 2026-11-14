@@ -1,6 +1,6 @@
 {
   "slug": "linrongbin16/gentags.nvim",
-  "fetched_at": "2026-11-03T11:29:08.064619730Z",
+  "fetched_at": "2026-11-14T10:52:26.407853542Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -21,5 +21,8 @@
     "has_ci": true,
     "has_tests": true,
     "readme_len": 4513
-  }
+  },
+  "slow_fetched_at": "2026-11-14T10:52:26.407853542Z",
+  "commits_etag": "\"f10dda2c3aaf537050bed9080e3d86d0c32488cc0aeff271b5de2143179747c5\"",
+  "releases_etag": "\"55aa6260316c431281fd6382008c7d190d817e60b9071b13c8ddddbbb0c377b0\""
 }

@@ -1,22 +1,22 @@
 {
   "slug": "dmtrkovalenko/fff.nvim",
-  "fetched_at": "2026-11-13T11:18:14.844802385Z",
+  "fetched_at": "2026-11-14T10:37:46.235350879Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 11244,
+    "stars": 11248,
     "forks": 480,
     "description": "The fastest and the most accurate file search SDK for AI agents, Neovim, Rust, C,  Python, Bun and NodeJS",
     "license_spdx": "MIT",
-    "last_commit_at": "2026-11-13T00:03:46Z",
-    "commits_90d": 127,
+    "last_commit_at": "2026-11-13T22:09:51Z",
+    "commits_90d": 125,
     "releases_365d": 100,
     "median_issue_close_days": 20.329780092592593,
-    "median_pr_close_days": 2.189508101851852,
+    "median_pr_close_days": 2.189363425925926,
     "open_issues": 87,
     "closed_issues_sampled": 12,
     "contributors_12mo": 83,
-    "top_author_commit_share": 0.5532359081419624,
+    "top_author_commit_share": 0.5541666666666667,
     "top_author": {
       "login": "dmtrKovalenko",
       "account_created_at": "2016-01-27T19:57:58Z",
@@ -27,6 +27,6 @@
     "readme_len": 53728
   },
   "slow_fetched_at": "2026-11-13T11:18:14.844802385Z",
-  "commits_etag": "\"541b091bb2ca9f79e4ffc3000e2fd6137c3a0cd8b73780eb8ee20182fd029e5a\"",
-  "releases_etag": "\"b32bbca971dfc20815f2ab3768935c102b3f79bbb67d67775bd4645b2f4cd468\""
+  "commits_etag": "\"a9661eaa7d581982033805916452a09b871519b29de71179111d1f395a746366\"",
+  "releases_etag": "\"d07f1ab90c12f027db7da8f8ec4d91ec3df0c41ab5664773afe1149c7f037c3e\""
 }

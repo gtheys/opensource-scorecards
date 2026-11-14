@@ -1,6 +1,6 @@
 {
   "slug": "kamegoro/tobira.nvim",
-  "fetched_at": "2026-11-03T11:24:32.520853672Z",
+  "fetched_at": "2026-11-14T10:48:24.673664033Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "Open the next door in your Vim journey — personalized command discovery based on your actual usage",
     "license_spdx": "MIT",
     "last_commit_at": "2026-08-16T03:21:08Z",
-    "commits_90d": 37,
+    "commits_90d": 0,
     "releases_365d": 0,
     "median_issue_close_days": 2.162239583333333,
     "median_pr_close_days": 0.015439814814814816,
@@ -25,5 +25,8 @@
     "has_ci": true,
     "has_tests": true,
     "readme_len": 12164
-  }
+  },
+  "slow_fetched_at": "2026-11-14T10:48:24.673664033Z",
+  "commits_etag": "\"0bc9ba446762dbd5da47b01c6c0585223adf414f64ed79aadf4cd18804b2a374\"",
+  "releases_etag": "\"a4b28d72845f58c0dd557dfa910cb946dadb31ebd230f7ace2f4bbdb24770e5f\""
 }

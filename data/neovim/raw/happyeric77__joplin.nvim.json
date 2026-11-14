@@ -1,10 +1,10 @@
 {
   "slug": "happyeric77/joplin.nvim",
-  "fetched_at": "2026-11-13T11:26:49.383655908Z",
+  "fetched_at": "2026-11-14T10:43:09.606433115Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 18,
+    "stars": 19,
     "forks": 1,
     "description": "A Neovim plugin for seamless integration with Joplin, the open-source note-taking and to-do application. This plugin allows you to manage your Joplin notes and notebooks directly from Neovim, providing a powerful and efficient workflow for developers and writers who love both applications.",
     "license_spdx": "MIT",
@@ -23,6 +23,6 @@
     "readme_len": 9104
   },
   "slow_fetched_at": "2026-11-13T11:26:49.383655908Z",
-  "commits_etag": "\"0a8d9b5c332af4722769e36cea0f0f1b27f223754a231d61dcbc474219964423\"",
-  "releases_etag": "\"fc28930ca0ed2ccf965d3429971f5497224f886532336d6cf0702dd3332a6560\""
+  "commits_etag": "\"720145986becda94414f2af6ccb65762e68904920cbd8ac09ac7777f16f21cf8\"",
+  "releases_etag": "\"aa9c38511f76a5998c429464bf96a04e15fce1f9d8979abd1f128f03b28e6d29\""
 }

@@ -1,6 +1,6 @@
 {
   "slug": "lewis6991/pckr.nvim",
-  "fetched_at": "2026-11-03T11:28:40.337660512Z",
+  "fetched_at": "2026-11-14T10:51:48.985344702Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -21,5 +21,8 @@
     "has_ci": true,
     "has_tests": true,
     "readme_len": 9797
-  }
+  },
+  "slow_fetched_at": "2026-11-14T10:51:48.985344702Z",
+  "commits_etag": "\"b443552c77c85308d5650377714f886aeef0f95f79006d5efd8a75fa10a008f6\"",
+  "releases_etag": "\"cddd685919516415ddc1a7bea314b3d1dfb641d00d07a568317934a432279870\""
 }

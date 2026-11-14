@@ -1,6 +1,6 @@
 {
   "slug": "leo-alvarenga/homecoming.nvim",
-  "fetched_at": "2026-11-03T11:28:18.990707845Z",
+  "fetched_at": "2026-11-14T10:51:30.455854633Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": false,
     "has_tests": false,
     "readme_len": 14681
-  }
+  },
+  "slow_fetched_at": "2026-11-14T10:51:30.455854633Z",
+  "commits_etag": "\"ac2e501d73f777165f6921a00d2e667651c1ab811d007e9f8284a2911c539dd3\"",
+  "releases_etag": "\"1ede9408513ebcb46ec4761f35056b95adc9b0219221431b0329de10ec4be7c5\""
 }

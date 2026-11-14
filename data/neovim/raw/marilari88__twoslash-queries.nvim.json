@@ -1,6 +1,6 @@
 {
   "slug": "marilari88/twoslash-queries.nvim",
-  "fetched_at": "2026-11-03T11:31:38.495442202Z",
+  "fetched_at": "2026-11-14T10:54:51.328180331Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -21,5 +21,8 @@
     "has_ci": false,
     "has_tests": false,
     "readme_len": 2583
-  }
+  },
+  "slow_fetched_at": "2026-11-14T10:54:51.328180331Z",
+  "commits_etag": "\"329a23ab81e2b46211886d30cdd3df04c81d7abf30fc66458cd9c031ae70180c\"",
+  "releases_etag": "\"a4b28d72845f58c0dd557dfa910cb946dadb31ebd230f7ace2f4bbdb24770e5f\""
 }

@@ -1,6 +1,6 @@
 {
   "slug": "loganswartz/polychrome.nvim",
-  "fetched_at": "2026-11-03T11:29:37.969322892Z",
+  "fetched_at": "2026-11-14T10:52:56.886272860Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "A colorscheme creation micro-framework for Neovim",
     "license_spdx": "MIT",
     "last_commit_at": "2026-08-29T19:07:32Z",
-    "commits_90d": 11,
+    "commits_90d": 7,
     "releases_365d": 0,
     "median_issue_close_days": 17.11829861111111,
     "median_pr_close_days": 3.6558333333333333,
@@ -25,5 +25,8 @@
     "has_ci": false,
     "has_tests": true,
     "readme_len": 11734
-  }
+  },
+  "slow_fetched_at": "2026-11-14T10:52:56.886272860Z",
+  "commits_etag": "\"ff12b6c8fc95b56c0ef29b1875a48086feee6a98959dc49bc1894a69b105a04e\"",
+  "releases_etag": "\"a4b28d72845f58c0dd557dfa910cb946dadb31ebd230f7ace2f4bbdb24770e5f\""
 }

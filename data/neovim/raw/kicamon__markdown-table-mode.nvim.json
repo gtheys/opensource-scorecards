@@ -1,6 +1,6 @@
 {
   "slug": "kicamon/markdown-table-mode.nvim",
-  "fetched_at": "2026-11-03T11:25:43.167356280Z",
+  "fetched_at": "2026-11-14T10:49:23.641412175Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": false,
     "has_tests": false,
     "readme_len": 832
-  }
+  },
+  "slow_fetched_at": "2026-11-14T10:49:23.641412175Z",
+  "commits_etag": "\"4a591ab11bd991a8b93ba4c3ab4788f91d89a2544954b382b715d1a880df92fc\"",
+  "releases_etag": "\"a4b28d72845f58c0dd557dfa910cb946dadb31ebd230f7ace2f4bbdb24770e5f\""
 }

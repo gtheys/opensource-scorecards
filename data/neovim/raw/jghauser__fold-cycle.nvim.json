@@ -1,6 +1,6 @@
 {
   "slug": "jghauser/fold-cycle.nvim",
-  "fetched_at": "2026-11-03T11:21:52.553310053Z",
+  "fetched_at": "2026-11-14T10:46:29.986097068Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -21,5 +21,8 @@
     "has_ci": false,
     "has_tests": false,
     "readme_len": 1862
-  }
+  },
+  "slow_fetched_at": "2026-11-14T10:46:29.986097068Z",
+  "commits_etag": "\"75253b20cbe5896d4e24e12511ea69b7e63734bee71694ad42b897596cedffb2\"",
+  "releases_etag": "\"a4b28d72845f58c0dd557dfa910cb946dadb31ebd230f7ace2f4bbdb24770e5f\""
 }

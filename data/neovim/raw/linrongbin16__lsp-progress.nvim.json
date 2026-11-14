@@ -1,6 +1,6 @@
 {
   "slug": "linrongbin16/lsp-progress.nvim",
-  "fetched_at": "2026-11-03T11:29:18.105564641Z",
+  "fetched_at": "2026-11-14T10:52:40.146964657Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -8,13 +8,13 @@
     "forks": 8,
     "description": "A performant lsp progress status for Neovim.",
     "license_spdx": "MIT",
-    "last_commit_at": "2026-02-02T05:06:52Z",
-    "commits_90d": 0,
-    "releases_365d": 1,
-    "median_issue_close_days": 1.529542824074074,
-    "median_pr_close_days": 0.004820601851851852,
+    "last_commit_at": "2026-11-12T10:03:02Z",
+    "commits_90d": 8,
+    "releases_365d": 2,
+    "median_issue_close_days": 0.9239930555555556,
+    "median_pr_close_days": 0.0050347222222222225,
     "open_issues": 1,
-    "closed_issues_sampled": 12,
+    "closed_issues_sampled": 11,
     "contributors_12mo": 1,
     "top_author_commit_share": 1.0,
     "top_author": {
@@ -24,6 +24,9 @@
     },
     "has_ci": true,
     "has_tests": true,
-    "readme_len": 8216
-  }
+    "readme_len": 8212
+  },
+  "slow_fetched_at": "2026-11-14T10:52:40.146964657Z",
+  "commits_etag": "\"2b5e73532a8b815bb189a87ae80f7a3d9b86f52f12e533436a24a5ba9d4ff604\"",
+  "releases_etag": "\"f6f92bb2c61192e12fa0bd4c1e9ff3d464cca02369b2857ac92e10b7cb19749f\""
 }

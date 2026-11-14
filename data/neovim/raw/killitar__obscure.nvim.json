@@ -1,10 +1,10 @@
 {
   "slug": "killitar/obscure.nvim",
-  "fetched_at": "2026-11-03T11:25:54.936977269Z",
+  "fetched_at": "2026-11-14T10:49:30.554213331Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 81,
+    "stars": 82,
     "forks": 1,
     "description": "A dark Neovim theme written in Lua, with support for LSP, Tree-sitter and lots of plugins.",
     "license_spdx": "Apache-2.0",
@@ -25,5 +25,8 @@
     "has_ci": true,
     "has_tests": false,
     "readme_len": 3379
-  }
+  },
+  "slow_fetched_at": "2026-11-14T10:49:30.554213331Z",
+  "commits_etag": "\"664892b28c08060659c4fa55d95b427c7d40d85dcac96d88899a5a6631cc5f92\"",
+  "releases_etag": "\"644560ad85fae2f5fc53237ea5361f7e444518afbd63c6da5e12a8ddc7f2090f\""
 }

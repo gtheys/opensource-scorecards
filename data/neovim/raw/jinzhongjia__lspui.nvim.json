@@ -1,6 +1,6 @@
 {
   "slug": "jinzhongjia/lspui.nvim",
-  "fetched_at": "2026-11-03T11:22:12.515641770Z",
+  "fetched_at": "2026-11-14T10:46:47.104224570Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": true,
     "has_tests": true,
     "readme_len": 6705
-  }
+  },
+  "slow_fetched_at": "2026-11-14T10:46:47.104224570Z",
+  "commits_etag": "\"1ed6d2e18bda25352b4e86a5f32dce76a8fdb05bfcd56881353307325fbc5162\"",
+  "releases_etag": "\"a4b28d72845f58c0dd557dfa910cb946dadb31ebd230f7ace2f4bbdb24770e5f\""
 }

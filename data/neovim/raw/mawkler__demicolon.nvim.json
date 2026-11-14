@@ -1,10 +1,10 @@
 {
   "slug": "mawkler/demicolon.nvim",
-  "fetched_at": "2026-11-03T11:32:18.194133860Z",
+  "fetched_at": "2026-11-14T10:55:23.998203652Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 132,
+    "stars": 134,
     "forks": 6,
     "description": "Repeat more motions with ; and , keys in Neovim",
     "license_spdx": "MIT",
@@ -25,5 +25,8 @@
     "has_ci": true,
     "has_tests": true,
     "readme_len": 11820
-  }
+  },
+  "slow_fetched_at": "2026-11-14T10:55:23.998203652Z",
+  "commits_etag": "\"0f4d103ed0912542d4f5dd5467e33b4c814a4ad24176bfc6dde6aa7637613d73\"",
+  "releases_etag": "\"a4b28d72845f58c0dd557dfa910cb946dadb31ebd230f7ace2f4bbdb24770e5f\""
 }

@@ -1,6 +1,6 @@
 {
   "slug": "markosnarinian/distill.nvim",
-  "fetched_at": "2026-11-03T11:31:50.121443198Z",
+  "fetched_at": "2026-11-14T10:55:00.231629231Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": false,
     "has_tests": true,
     "readme_len": 12244
-  }
+  },
+  "slow_fetched_at": "2026-11-14T10:55:00.231629231Z",
+  "commits_etag": "\"4e6fc3d095dca8ed11321c1d93ef6bb1b8af6b8199297ecb5866533d7e2e6721\"",
+  "releases_etag": "\"43a2b6130342f04c45d246a9a1428e573b38a17c48616c5bb3b7c215eccae942\""
 }

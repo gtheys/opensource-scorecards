@@ -1,6 +1,6 @@
 {
   "slug": "josephburgess/nvumi",
-  "fetched_at": "2026-11-03T11:22:56.603261855Z",
+  "fetched_at": "2026-11-14T10:47:17.105673927Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": true,
     "has_tests": true,
     "readme_len": 7683
-  }
+  },
+  "slow_fetched_at": "2026-11-14T10:47:17.105673927Z",
+  "commits_etag": "\"ec9ccdb8a7947202a260ae252df2fad74c8b4fde47ec12450d1c6ddbabc73ffc\"",
+  "releases_etag": "\"05c116509ce85adea61786688b538038205f046a19e547530b07cb613f6bda15\""
 }

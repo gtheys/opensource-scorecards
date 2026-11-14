@@ -1,6 +1,6 @@
 {
   "slug": "lfilho/note2cal.nvim",
-  "fetched_at": "2026-11-03T11:28:51.898105865Z",
+  "fetched_at": "2026-11-14T10:52:06.062799180Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": false,
     "has_tests": true,
     "readme_len": 5582
-  }
+  },
+  "slow_fetched_at": "2026-11-14T10:52:06.062799180Z",
+  "commits_etag": "\"f5d40e35bc67a37ba2221b4f66987eabbe154b2133ca8edc82848df88db8b9a4\"",
+  "releases_etag": "\"13ef4be7c02d7fb9c1bc04504bb2a35ae5eae0b4f9d957f590575a9c39c4cf62\""
 }

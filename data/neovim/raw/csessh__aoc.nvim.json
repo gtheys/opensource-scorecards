@@ -1,6 +1,6 @@
 {
   "slug": "csessh/aoc.nvim",
-  "fetched_at": "2026-11-13T11:14:46.216042359Z",
+  "fetched_at": "2026-11-14T10:35:49.776799934Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 5199
   },
   "slow_fetched_at": "2026-11-13T11:14:46.216042359Z",
-  "commits_etag": "\"3db0bd92894b7290d21cdc2f139abd5f04fd32a41b04271acbe2972355adf0c1\"",
-  "releases_etag": "\"5c7b3d3f84e9cb85b93b8d1bfdf622d0ae923986d4252a7bfc9de333daee9f99\""
+  "commits_etag": "\"436e9de496cc4d3583c0c9a3e6fb1428766053fba2e577b53ffa28aa47fed161\"",
+  "releases_etag": "\"5a3050df33643e1dd13860bc17cc927ba6aa7aae013521a957a57db60c33f6fd\""
 }

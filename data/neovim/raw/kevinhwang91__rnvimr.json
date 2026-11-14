@@ -1,10 +1,10 @@
 {
   "slug": "kevinhwang91/rnvimr",
-  "fetched_at": "2026-11-03T11:25:32.593540758Z",
+  "fetched_at": "2026-11-14T10:49:16.859178973Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 849,
+    "stars": 850,
     "forks": 23,
     "description": "Make Ranger running in a floating window to communicate with Neovim via RPC",
     "license_spdx": "BSD-3-Clause",
@@ -25,5 +25,8 @@
     "has_ci": false,
     "has_tests": false,
     "readme_len": 10131
-  }
+  },
+  "slow_fetched_at": "2026-11-14T10:49:16.859178973Z",
+  "commits_etag": "\"065bd15d7ea30b77d58489fea3a1eca0ff3815db3324a76703771cbb72062df4\"",
+  "releases_etag": "\"a4b28d72845f58c0dd557dfa910cb946dadb31ebd230f7ace2f4bbdb24770e5f\""
 }

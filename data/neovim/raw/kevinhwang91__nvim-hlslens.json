@@ -1,6 +1,6 @@
 {
   "slug": "kevinhwang91/nvim-hlslens",
-  "fetched_at": "2026-11-03T11:25:25.930730614Z",
+  "fetched_at": "2026-11-14T10:49:07.621153669Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -15,15 +15,18 @@
     "median_pr_close_days": 1.086724537037037,
     "open_issues": 11,
     "closed_issues_sampled": 35,
-    "contributors_12mo": 2,
-    "top_author_commit_share": 0.5,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
     "top_author": {
-      "login": "phanen",
-      "account_created_at": "2021-09-28T13:06:19Z",
-      "other_repos_star_sum": 71
+      "login": "offa",
+      "account_created_at": "2014-09-23T21:22:17Z",
+      "other_repos_star_sum": 11981
     },
     "has_ci": false,
     "has_tests": false,
     "readme_len": 11616
-  }
+  },
+  "slow_fetched_at": "2026-11-14T10:49:07.621153669Z",
+  "commits_etag": "\"9291cf6e8fba439e8ca72f840b46f512efaf2e786dee68a38c8c34606f42ebc6\"",
+  "releases_etag": "\"867c5603bee0446210838d3ade946d0d59d0a2be19d7e6f63e9e798d08c48194\""
 }

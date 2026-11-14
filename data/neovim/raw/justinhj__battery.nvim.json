@@ -1,6 +1,6 @@
 {
   "slug": "justinhj/battery.nvim",
-  "fetched_at": "2026-11-03T11:24:05.353568099Z",
+  "fetched_at": "2026-11-14T10:48:06.333116198Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": true,
     "has_tests": true,
     "readme_len": 8691
-  }
+  },
+  "slow_fetched_at": "2026-11-14T10:48:06.333116198Z",
+  "commits_etag": "\"9a252b29795dce41b49731548d88f6375ccd8c173a1202c7e91950551e2a31a8\"",
+  "releases_etag": "\"ea3e24467eb92637a0be589649bc94cda9ff77045c848d2def5dab9612431479\""
 }

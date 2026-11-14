@@ -1,6 +1,6 @@
 {
   "slug": "linrongbin16/gitlinker.nvim",
-  "fetched_at": "2026-11-03T11:29:10.447630282Z",
+  "fetched_at": "2026-11-14T10:52:28.492201778Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -8,15 +8,15 @@
     "forks": 18,
     "description": "Maintained fork of ruifm's gitlinker, refactored with bug fixes, ssh aliases, blame support and other improvements.",
     "license_spdx": "GPL-3.0",
-    "last_commit_at": "2026-10-21T04:57:31Z",
-    "commits_90d": 5,
-    "releases_365d": 3,
-    "median_issue_close_days": 7.565868055555556,
-    "median_pr_close_days": 0.07552083333333333,
-    "open_issues": 3,
-    "closed_issues_sampled": 13,
+    "last_commit_at": "2026-11-14T04:30:01Z",
+    "commits_90d": 53,
+    "releases_365d": 6,
+    "median_issue_close_days": 12.085601851851852,
+    "median_pr_close_days": 0.006307870370370371,
+    "open_issues": 2,
+    "closed_issues_sampled": 1,
     "contributors_12mo": 4,
-    "top_author_commit_share": 0.7142857142857143,
+    "top_author_commit_share": 0.9354838709677419,
     "top_author": {
       "login": "linrongbin16",
       "account_created_at": "2014-01-25T01:28:30Z",
@@ -24,6 +24,9 @@
     },
     "has_ci": true,
     "has_tests": true,
-    "readme_len": 23479
-  }
+    "readme_len": 36010
+  },
+  "slow_fetched_at": "2026-11-14T10:52:28.492201778Z",
+  "commits_etag": "\"043cc3123c67690cf40b3844ab29a5c58b43d3733f21bdc95cabbc479455c234\"",
+  "releases_etag": "\"a87f174995f7f96590d233e05b5b4d2205560d7f219d71ad27266617431aea54\""
 }

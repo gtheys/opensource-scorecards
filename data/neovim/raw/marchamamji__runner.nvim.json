@@ -1,6 +1,6 @@
 {
   "slug": "marchamamji/runner.nvim",
-  "fetched_at": "2026-11-03T11:31:32.991660726Z",
+  "fetched_at": "2026-11-14T10:54:47.425487336Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -21,5 +21,8 @@
     "has_ci": true,
     "has_tests": false,
     "readme_len": 8218
-  }
+  },
+  "slow_fetched_at": "2026-11-14T10:54:47.425487336Z",
+  "commits_etag": "\"2180c2deaed371bdea2b66666c7a4e977939056bc996344291d54e1ac673b03b\"",
+  "releases_etag": "\"a4b28d72845f58c0dd557dfa910cb946dadb31ebd230f7ace2f4bbdb24770e5f\""
 }

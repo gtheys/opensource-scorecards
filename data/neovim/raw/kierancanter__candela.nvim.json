@@ -1,6 +1,6 @@
 {
   "slug": "kierancanter/candela.nvim",
-  "fetched_at": "2026-11-03T11:25:50.763787442Z",
+  "fetched_at": "2026-11-14T10:49:27.422417562Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": true,
     "has_tests": true,
     "readme_len": 15660
-  }
+  },
+  "slow_fetched_at": "2026-11-14T10:49:27.422417562Z",
+  "commits_etag": "\"aee006e47901caa5f7f1e87006405ba832f2322239bc84ee4a6520607bd8a37e\"",
+  "releases_etag": "\"a57b489081bb9c999036a2124d9eadd5809d354f35b293bf2d9a43ef21d0df0c\""
 }

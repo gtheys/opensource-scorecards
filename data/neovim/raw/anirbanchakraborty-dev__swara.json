@@ -1,0 +1,32 @@
+{
+  "slug": "anirbanchakraborty-dev/swara",
+  "fetched_at": "2026-11-14T10:29:27.649996783Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "A fast LilyPond toolkit for Neovim: a Tree-sitter grammar, a Rust language server and a plugin",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-11-09T03:35:29Z",
+    "commits_90d": 65,
+    "releases_365d": 2,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "anirbanchakraborty-dev",
+      "account_created_at": "2019-01-05T21:35:37Z",
+      "other_repos_star_sum": 0
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 11219
+  },
+  "slow_fetched_at": "2026-11-14T10:29:27.649996783Z",
+  "commits_etag": "\"9bb3ceb6425b3bf7443353c3d398f4d17751e5e84c392c050b3315b10657d4f3\"",
+  "releases_etag": "\"3992b58a10cbb7471ff7fcfb573dfc06448dab24324c31a3a2294761a5fc649a\""
+}

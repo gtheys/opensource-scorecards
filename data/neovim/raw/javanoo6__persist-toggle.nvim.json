@@ -1,6 +1,6 @@
 {
   "slug": "javanoo6/persist-toggle.nvim",
-  "fetched_at": "2026-11-03T11:21:10.777495443Z",
+  "fetched_at": "2026-11-14T10:45:56.954786799Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -21,5 +21,8 @@
     "has_ci": true,
     "has_tests": true,
     "readme_len": 9394
-  }
+  },
+  "slow_fetched_at": "2026-11-14T10:45:56.954786799Z",
+  "commits_etag": "\"e36c83bdc355c6892b9a6a54352edb5c406aaf7622f2d033633589335a01ae5c\"",
+  "releases_etag": "\"a4b28d72845f58c0dd557dfa910cb946dadb31ebd230f7ace2f4bbdb24770e5f\""
 }

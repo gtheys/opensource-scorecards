@@ -1,6 +1,6 @@
 {
   "slug": "lcheylus/overlength.nvim",
-  "fetched_at": "2026-11-03T11:28:01.047596557Z",
+  "fetched_at": "2026-11-14T10:51:11.846698882Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": false,
     "has_tests": false,
     "readme_len": 2923
-  }
+  },
+  "slow_fetched_at": "2026-11-14T10:51:11.846698882Z",
+  "commits_etag": "\"9ba72c2f8ec46433c12dfa5db6565f16f34e5b878222248bc5e77c6e44141b9b\"",
+  "releases_etag": "\"a4b28d72845f58c0dd557dfa910cb946dadb31ebd230f7ace2f4bbdb24770e5f\""
 }

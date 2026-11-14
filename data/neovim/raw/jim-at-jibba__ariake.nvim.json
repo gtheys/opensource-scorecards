@@ -1,0 +1,28 @@
+{
+  "slug": "jim-at-jibba/ariake.nvim",
+  "fetched_at": "2026-11-14T10:46:43.857780065Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 23,
+    "forks": 3,
+    "description": "Port of my Vimscript theme to Lua",
+    "license_spdx": "MIT",
+    "last_commit_at": null,
+    "commits_90d": 0,
+    "releases_365d": 0,
+    "median_issue_close_days": 41.697233796296295,
+    "median_pr_close_days": 0.5746643518518518,
+    "open_issues": 0,
+    "closed_issues_sampled": 1,
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 1675
+  },
+  "slow_fetched_at": "2026-11-14T10:46:43.857780065Z",
+  "commits_etag": "\"68f840e3b3a65f4e49f46e8abcfe7acc13a2c3b086e07235c39c415a5d1f4648\"",
+  "releases_etag": "\"a4b28d72845f58c0dd557dfa910cb946dadb31ebd230f7ace2f4bbdb24770e5f\""
+}

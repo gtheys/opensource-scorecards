@@ -1,6 +1,6 @@
 {
   "slug": "kurama622/profile.nvim",
-  "fetched_at": "2026-11-03T11:27:28.841469182Z",
+  "fetched_at": "2026-11-14T10:50:41.373035428Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": false,
     "has_tests": false,
     "readme_len": 13807
-  }
+  },
+  "slow_fetched_at": "2026-11-14T10:50:41.373035428Z",
+  "commits_etag": "\"7f53bcb4801987ba254540df9ebcfcf53c968d3f2f8867ed387424e850793f2b\"",
+  "releases_etag": "\"a4b28d72845f58c0dd557dfa910cb946dadb31ebd230f7ace2f4bbdb24770e5f\""
 }

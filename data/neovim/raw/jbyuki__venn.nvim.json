@@ -1,6 +1,6 @@
 {
   "slug": "jbyuki/venn.nvim",
-  "fetched_at": "2026-11-03T11:21:24.830168687Z",
+  "fetched_at": "2026-11-14T10:46:09.937635167Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -21,5 +21,8 @@
     "has_ci": false,
     "has_tests": false,
     "readme_len": 3571
-  }
+  },
+  "slow_fetched_at": "2026-11-14T10:46:09.937635167Z",
+  "commits_etag": "\"354df3a8aebbd51561a16fb1f15161a8359f759892fbf67d095853f720ffe07c\"",
+  "releases_etag": "\"a4b28d72845f58c0dd557dfa910cb946dadb31ebd230f7ace2f4bbdb24770e5f\""
 }

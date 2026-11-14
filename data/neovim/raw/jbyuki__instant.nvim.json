@@ -1,11 +1,11 @@
 {
   "slug": "jbyuki/instant.nvim",
-  "fetched_at": "2026-11-03T11:21:16.914036858Z",
+  "fetched_at": "2026-11-14T10:46:01.451610240Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 1416,
-    "forks": 28,
+    "stars": 1417,
+    "forks": 27,
     "description": "collaborative editing in Neovim using built-in capabilities",
     "license_spdx": "MIT",
     "last_commit_at": null,
@@ -21,5 +21,8 @@
     "has_ci": true,
     "has_tests": true,
     "readme_len": 4111
-  }
+  },
+  "slow_fetched_at": "2026-11-14T10:46:01.451610240Z",
+  "commits_etag": "\"d3f9007dd985cc442cbc264bed69bf8e16fbc001c80b85c67ec008dbdcfa27a4\"",
+  "releases_etag": "\"a4b28d72845f58c0dd557dfa910cb946dadb31ebd230f7ace2f4bbdb24770e5f\""
 }

@@ -1,10 +1,10 @@
 {
   "slug": "catppuccin/nvim",
-  "fetched_at": "2026-11-13T11:10:36.353322698Z",
+  "fetched_at": "2026-11-14T10:32:47.569288850Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 7660,
+    "stars": 7661,
     "forks": 341,
     "description": "🍨 Soothing pastel theme for Neovim",
     "license_spdx": "MIT",
@@ -27,6 +27,6 @@
     "readme_len": 38320
   },
   "slow_fetched_at": "2026-11-13T11:10:36.353322698Z",
-  "commits_etag": "\"86c49c1f3386c8fd7acad54cacdd9653b63e029a675ced513fe405fe37afc7fc\"",
-  "releases_etag": "\"460199cdf1c969c5a47095dbca99ea99e8aa5b73399e6c7bea83b31131a345b2\""
+  "commits_etag": "\"5a10d3e21915d457befd520604e603777078ce70f7f4439ec69186752b868244\"",
+  "releases_etag": "\"a1784fc6b9e8a116f551afdf6a3745f36800e5c7a2667033270fd5e914b5c09d\""
 }

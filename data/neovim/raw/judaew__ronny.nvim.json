@@ -1,6 +1,6 @@
 {
   "slug": "judaew/ronny.nvim",
-  "fetched_at": "2026-11-03T11:23:33.487632931Z",
+  "fetched_at": "2026-11-14T10:47:43.402010825Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": false,
     "has_tests": true,
     "readme_len": 3832
-  }
+  },
+  "slow_fetched_at": "2026-11-14T10:47:43.402010825Z",
+  "commits_etag": "\"dc4b013a8233ecd5c95d8cb90151af011c1e20cd34a50c7f89a80d64e16ccea4\"",
+  "releases_etag": "\"a4b28d72845f58c0dd557dfa910cb946dadb31ebd230f7ace2f4bbdb24770e5f\""
 }

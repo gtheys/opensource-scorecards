@@ -1,29 +1,32 @@
 {
   "slug": "lewis6991/satellite.nvim",
-  "fetched_at": "2026-11-03T11:28:42.619070275Z",
+  "fetched_at": "2026-11-14T10:51:55.298237334Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 753,
-    "forks": 34,
+    "stars": 754,
+    "forks": 36,
     "description": "Decorate scrollbar for Neovim",
     "license_spdx": "MIT",
-    "last_commit_at": "2026-05-01T10:21:48Z",
-    "commits_90d": 0,
+    "last_commit_at": "2026-11-09T14:07:03Z",
+    "commits_90d": 7,
     "releases_365d": 0,
-    "median_issue_close_days": 0.5247222222222222,
-    "median_pr_close_days": 0.03994212962962963,
-    "open_issues": 17,
-    "closed_issues_sampled": 33,
-    "contributors_12mo": 2,
-    "top_author_commit_share": 0.75,
+    "median_issue_close_days": 0.38349537037037035,
+    "median_pr_close_days": 0.03809027777777778,
+    "open_issues": 13,
+    "closed_issues_sampled": 32,
+    "contributors_12mo": 3,
+    "top_author_commit_share": 0.8181818181818182,
     "top_author": {
       "login": "lewis6991",
       "account_created_at": "2014-06-16T15:50:05Z",
       "other_repos_star_sum": 11326
     },
-    "has_ci": false,
-    "has_tests": false,
-    "readme_len": 3649
-  }
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 4187
+  },
+  "slow_fetched_at": "2026-11-14T10:51:55.298237334Z",
+  "commits_etag": "\"e11c3f0eb9166feb3a114c357a4340b8d70dfb444ff127faca2ba6b2861b3326\"",
+  "releases_etag": "\"0c48fa81c118ac8e713f341d56e6761ca2253737f1ed3913bd8481eb8603f169\""
 }

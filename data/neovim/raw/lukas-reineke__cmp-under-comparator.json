@@ -1,6 +1,6 @@
 {
   "slug": "lukas-reineke/cmp-under-comparator",
-  "fetched_at": "2026-11-03T11:30:13.282302848Z",
+  "fetched_at": "2026-11-14T10:53:29.289509604Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -21,5 +21,8 @@
     "has_ci": true,
     "has_tests": false,
     "readme_len": 1993
-  }
+  },
+  "slow_fetched_at": "2026-11-14T10:53:29.289509604Z",
+  "commits_etag": "\"90f2cc95431110570723c2dfd0ad54de682bb4c7b577b7ffab33126e7bd74e02\"",
+  "releases_etag": "\"506dce6c9b6aecfc7798ab1692bef82455ede2169af3fa0476a4f4a9534a7c7c\""
 }

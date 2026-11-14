@@ -1,6 +1,6 @@
 {
   "slug": "luisiacc/gruvbox-baby",
-  "fetched_at": "2026-11-03T11:30:10.424186035Z",
+  "fetched_at": "2026-11-14T10:53:26.354780149Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -21,5 +21,8 @@
     "has_ci": false,
     "has_tests": false,
     "readme_len": 10907
-  }
+  },
+  "slow_fetched_at": "2026-11-14T10:53:26.354780149Z",
+  "commits_etag": "\"bab845be377b9a846b91b3b2c329645f2051d9632531a0f1857c66684b86b59b\"",
+  "releases_etag": "\"963423cfc9d22c5f0b3b4d30c2a398bf8caf56bc078e0ac782e003fd2476bca4\""
 }

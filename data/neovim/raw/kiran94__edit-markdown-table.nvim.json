@@ -1,6 +1,6 @@
 {
   "slug": "kiran94/edit-markdown-table.nvim",
-  "fetched_at": "2026-11-03T11:25:59.679846150Z",
+  "fetched_at": "2026-11-14T10:49:34.140913881Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -21,5 +21,8 @@
     "has_ci": true,
     "has_tests": false,
     "readme_len": 1842
-  }
+  },
+  "slow_fetched_at": "2026-11-14T10:49:34.140913881Z",
+  "commits_etag": "\"40ab12b2b042fd5c797fc1a5be57b82c70ed2f4389407d5b4eaeffac8847590b\"",
+  "releases_etag": "\"2582dccf93051124b7398e01a3d871db59ac11079f41b5c7487bb26034b8525b\""
 }

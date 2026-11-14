@@ -1,6 +1,6 @@
 {
   "slug": "jghauser/follow-md-links.nvim",
-  "fetched_at": "2026-11-03T11:21:54.730597810Z",
+  "fetched_at": "2026-11-14T10:46:31.709095667Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -21,5 +21,8 @@
     "has_ci": false,
     "has_tests": true,
     "readme_len": 1697
-  }
+  },
+  "slow_fetched_at": "2026-11-14T10:46:31.709095667Z",
+  "commits_etag": "\"bd6045f8683f1ee02c5ea659d157a373fe89107285083aea062c58a1793dc670\"",
+  "releases_etag": "\"a4b28d72845f58c0dd557dfa910cb946dadb31ebd230f7ace2f4bbdb24770e5f\""
 }

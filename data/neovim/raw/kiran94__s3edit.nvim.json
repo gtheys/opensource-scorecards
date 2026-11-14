@@ -1,6 +1,6 @@
 {
   "slug": "kiran94/s3edit.nvim",
-  "fetched_at": "2026-11-03T11:26:01.803282362Z",
+  "fetched_at": "2026-11-14T10:49:35.805028080Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -21,5 +21,8 @@
     "has_ci": true,
     "has_tests": true,
     "readme_len": 1423
-  }
+  },
+  "slow_fetched_at": "2026-11-14T10:49:35.805028080Z",
+  "commits_etag": "\"bf56d781c1a5eabe8ecdd89e3002c482e44e7183852aaa7e254051d39f9a6e97\"",
+  "releases_etag": "\"68c2b6df7169bb40fdffe9cdc73662efcae33843d2143f40243c9570d01fa20b\""
 }

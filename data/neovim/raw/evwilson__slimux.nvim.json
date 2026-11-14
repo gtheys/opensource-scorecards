@@ -1,6 +1,6 @@
 {
   "slug": "evwilson/slimux.nvim",
-  "fetched_at": "2026-11-13T11:21:49.841595544Z",
+  "fetched_at": "2026-11-14T10:39:54.865202269Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -8,25 +8,21 @@
     "forks": 3,
     "description": "Send content from the current Neovim buffer to a configurable tmux pane.",
     "license_spdx": "MIT",
-    "last_commit_at": "2025-11-13T21:04:21Z",
+    "last_commit_at": null,
     "commits_90d": 0,
     "releases_365d": 0,
     "median_issue_close_days": 48.15270833333334,
     "median_pr_close_days": 6.381215277777778,
     "open_issues": 0,
     "closed_issues_sampled": 6,
-    "contributors_12mo": 1,
-    "top_author_commit_share": 1.0,
-    "top_author": {
-      "login": "EvWilson",
-      "account_created_at": "2016-05-21T18:33:22Z",
-      "other_repos_star_sum": 207
-    },
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
     "has_ci": false,
     "has_tests": false,
     "readme_len": 3468
   },
   "slow_fetched_at": "2026-11-13T11:21:49.841595544Z",
-  "commits_etag": "\"c0e2593b0a81d2b47e657ad8b79f3dd0dae29316ab398d9d4efa552bc2dc0572\"",
-  "releases_etag": "\"c9a8bc68b098da983ab4f1f719f268750c8e498de8b9e7247b984322473a3301\""
+  "commits_etag": "\"1f52f65b33bd50a6278142a2d8219efbf4ac6f5e400d54ea923a4e2b24516e2f\"",
+  "releases_etag": "\"a4b28d72845f58c0dd557dfa910cb946dadb31ebd230f7ace2f4bbdb24770e5f\""
 }

@@ -1,6 +1,6 @@
 {
   "slug": "lintaoamons/cd-project.nvim",
-  "fetched_at": "2026-11-03T11:29:26.858507483Z",
+  "fetched_at": "2026-11-14T10:52:46.821649534Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "I tried quite a lot `Project Management` plugins. In the end, I found all I need is just an easier way to `cd` to another project directory.",
     "license_spdx": "GPL-3.0",
     "last_commit_at": "2026-09-04T04:16:25Z",
-    "commits_90d": 3,
+    "commits_90d": 1,
     "releases_365d": 0,
     "median_issue_close_days": 1.4489641203703703,
     "median_pr_close_days": 1.2954282407407407,
@@ -25,5 +25,8 @@
     "has_ci": false,
     "has_tests": false,
     "readme_len": 8449
-  }
+  },
+  "slow_fetched_at": "2026-11-14T10:52:46.821649534Z",
+  "commits_etag": "\"d72709902cfda6413111c453924b16c7b96bccc485b1d3f1deaa4a0fcd6578d9\"",
+  "releases_etag": "\"a97adedb1cede3fb42e63000e633ee05152809033e335ecbb7b56b1579ed00af\""
 }

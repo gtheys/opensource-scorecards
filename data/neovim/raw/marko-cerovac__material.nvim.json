@@ -1,10 +1,10 @@
 {
   "slug": "marko-cerovac/material.nvim",
-  "fetched_at": "2026-11-03T11:31:44.142343795Z",
+  "fetched_at": "2026-11-14T10:54:56.249957972Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 1093,
+    "stars": 1095,
     "forks": 137,
     "description": ":trident: Material colorscheme for NeoVim written in Lua with built-in support for native LSP, TreeSitter and many more plugins",
     "license_spdx": "GPL-2.0",
@@ -25,5 +25,8 @@
     "has_ci": false,
     "has_tests": false,
     "readme_len": 11237
-  }
+  },
+  "slow_fetched_at": "2026-11-14T10:54:56.249957972Z",
+  "commits_etag": "\"e6c0dc0e0765d939d9d5f1d3a0588d5c2615252135c58f798575d7e9d5efe25c\"",
+  "releases_etag": "\"a4b28d72845f58c0dd557dfa910cb946dadb31ebd230f7ace2f4bbdb24770e5f\""
 }

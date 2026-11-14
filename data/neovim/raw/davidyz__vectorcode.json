@@ -1,6 +1,6 @@
 {
   "slug": "davidyz/vectorcode",
-  "fetched_at": "2026-11-13T11:16:56.314151875Z",
+  "fetched_at": "2026-11-14T10:37:01.422606293Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -10,13 +10,13 @@
     "license_spdx": "MIT",
     "last_commit_at": "2025-12-26T10:10:07Z",
     "commits_90d": 0,
-    "releases_365d": 2,
+    "releases_365d": 1,
     "median_issue_close_days": 2.9064988425925926,
     "median_pr_close_days": 0.9479976851851852,
     "open_issues": 19,
     "closed_issues_sampled": 12,
-    "contributors_12mo": 3,
-    "top_author_commit_share": 0.3333333333333333,
+    "contributors_12mo": 2,
+    "top_author_commit_share": 0.5,
     "top_author": {
       "login": "larrybotha",
       "account_created_at": "2012-03-07T07:56:11Z",
@@ -27,6 +27,6 @@
     "readme_len": 6451
   },
   "slow_fetched_at": "2026-11-13T11:16:56.314151875Z",
-  "commits_etag": "\"1f88c590d7abca9efe44c53d51fd1c917e0d4476565fe8fe3879684b23028090\"",
-  "releases_etag": "\"36bae030649b6208bcc1b5cc233751dce059de039ccb513c9bac05b8cbeec6be\""
+  "commits_etag": "\"9643c91994a9f4caa7c45aa3b9eb2075c2beb0c2ad32f32b1b32f09d5f0b5af3\"",
+  "releases_etag": "\"7436e6ddc9fc4ab8f9b2fd4241aa555aeec3dc29ef193c83c019bdd7f342095f\""
 }

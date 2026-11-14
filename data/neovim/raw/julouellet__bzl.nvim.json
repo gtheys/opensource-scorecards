@@ -1,6 +1,6 @@
 {
   "slug": "julouellet/bzl.nvim",
-  "fetched_at": "2026-11-03T11:23:44.907669870Z",
+  "fetched_at": "2026-11-14T10:47:53.055962719Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": true,
     "has_tests": true,
     "readme_len": 13972
-  }
+  },
+  "slow_fetched_at": "2026-11-14T10:47:53.055962719Z",
+  "commits_etag": "\"4aaefc3de65baf8911498d32fdb05aa89a4491b4e868bdfc74f3a75fefdd152a\"",
+  "releases_etag": "\"220f35b22c02ec4fb05d10002466f1f66473a2a87b12e39133e3c7a84fcc682b\""
 }

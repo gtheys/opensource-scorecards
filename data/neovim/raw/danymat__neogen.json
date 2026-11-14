@@ -1,6 +1,6 @@
 {
   "slug": "danymat/neogen",
-  "fetched_at": "2026-11-13T11:16:18.694812094Z",
+  "fetched_at": "2026-11-14T10:36:39.410786939Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 14650
   },
   "slow_fetched_at": "2026-11-13T11:16:18.694812094Z",
-  "commits_etag": "\"fa326c4c820733cfd9cb2b5f990c492e250a684687b2a2934ab886925f034ae6\"",
-  "releases_etag": "\"c9a8bc68b098da983ab4f1f719f268750c8e498de8b9e7247b984322473a3301\""
+  "commits_etag": "\"c4cdc2284db69dc69c91f73985bb1820617e73d17426a100b91cda241cf36542\"",
+  "releases_etag": "\"a4b28d72845f58c0dd557dfa910cb946dadb31ebd230f7ace2f4bbdb24770e5f\""
 }

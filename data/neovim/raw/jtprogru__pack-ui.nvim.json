@@ -1,0 +1,32 @@
+{
+  "slug": "jtprogru/pack-ui.nvim",
+  "fetched_at": "2026-11-14T10:47:34.664817749Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 40,
+    "forks": 2,
+    "description": "Floating-window UI for Neovim's built-in vim.pack plugin manager — status overview and mark-driven, pointwise updates (Neovim 0.12+)",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-11-02T18:12:57Z",
+    "commits_90d": 14,
+    "releases_365d": 6,
+    "median_issue_close_days": 21.435688657407407,
+    "median_pr_close_days": 34.51574074074074,
+    "open_issues": 0,
+    "closed_issues_sampled": 2,
+    "contributors_12mo": 2,
+    "top_author_commit_share": 0.75,
+    "top_author": {
+      "login": "jtprogru",
+      "account_created_at": "2014-07-18T07:46:58Z",
+      "other_repos_star_sum": 124
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 5766
+  },
+  "slow_fetched_at": "2026-11-14T10:47:34.664817749Z",
+  "commits_etag": "\"0e7bdae17ee77ceaaacb88e57e843176d5b27e2dd1af9809e3bb45829b7b5874\"",
+  "releases_etag": "\"a8e126739166de933482c473468cdc7543de223679c93bb7653b1b3a695f6ce8\""
+}

@@ -1,11 +1,11 @@
 {
   "slug": "kiddos/gemini.nvim",
-  "fetched_at": "2026-11-03T11:25:47.183084803Z",
+  "fetched_at": "2026-11-14T10:49:25.437699074Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 262,
-    "forks": 31,
+    "stars": 261,
+    "forks": 30,
     "description": "gemini bindings for Neovim",
     "license_spdx": "MIT",
     "last_commit_at": "2026-10-12T22:58:21Z",
@@ -25,5 +25,8 @@
     "has_ci": false,
     "has_tests": true,
     "readme_len": 6710
-  }
+  },
+  "slow_fetched_at": "2026-11-14T10:49:25.437699074Z",
+  "commits_etag": "\"4c10dd990569a2a1b56d5fb705eff6ed3d73ade53e0abfa64aa2bfd496d8a2ad\"",
+  "releases_etag": "\"68d860311fdc594459c05ca66f91292502cd63afc42b68c219a177ff27eb57fc\""
 }

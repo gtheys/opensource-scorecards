@@ -1,6 +1,6 @@
 {
   "slug": "kiyoon/treesitter-indent-object.nvim",
-  "fetched_at": "2026-11-03T11:26:29.647276874Z",
+  "fetched_at": "2026-11-14T10:49:53.870264129Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -21,5 +21,8 @@
     "has_ci": true,
     "has_tests": false,
     "readme_len": 6456
-  }
+  },
+  "slow_fetched_at": "2026-11-14T10:49:53.870264129Z",
+  "commits_etag": "\"755956c07b7380243e33e7939760641ffff4a11c0c3aa34cee49d1c1981f9ae4\"",
+  "releases_etag": "\"a4b28d72845f58c0dd557dfa910cb946dadb31ebd230f7ace2f4bbdb24770e5f\""
 }

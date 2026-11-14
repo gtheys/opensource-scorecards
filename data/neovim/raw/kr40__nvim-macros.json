@@ -1,6 +1,6 @@
 {
   "slug": "kr40/nvim-macros",
-  "fetched_at": "2026-11-03T11:27:07.169362220Z",
+  "fetched_at": "2026-11-14T10:50:27.798535748Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -21,5 +21,8 @@
     "has_ci": false,
     "has_tests": false,
     "readme_len": 5872
-  }
+  },
+  "slow_fetched_at": "2026-11-14T10:50:27.798535748Z",
+  "commits_etag": "\"468aaa12a7d5f6a625e6e6ebd65ffbf11467289e1daf33e1663a40683b456289\"",
+  "releases_etag": "\"fac8fb8f059ea134e3092accaf6692d797e68f4b850a0070157f0aafb97fc21a\""
 }

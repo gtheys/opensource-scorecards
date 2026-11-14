@@ -1,6 +1,6 @@
 {
   "slug": "crispgm/nvim-go",
-  "fetched_at": "2026-11-13T11:14:15.238328118Z",
+  "fetched_at": "2026-11-14T10:35:28.947833999Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 6800
   },
   "slow_fetched_at": "2026-11-13T11:14:15.238328118Z",
-  "commits_etag": "\"22925da40c83927d9d9c4f22ff5aaa09832f43ec79d780750c7ff04ff82bd729\"",
-  "releases_etag": "\"c9a8bc68b098da983ab4f1f719f268750c8e498de8b9e7247b984322473a3301\""
+  "commits_etag": "\"2fff1f8a59ebf275ec1d755b2ae07d5d93123a5c61f327fd78b198e5ea88dd61\"",
+  "releases_etag": "\"a4b28d72845f58c0dd557dfa910cb946dadb31ebd230f7ace2f4bbdb24770e5f\""
 }

@@ -1,6 +1,6 @@
 {
   "slug": "leolaurindo/tunnelvision.nvim",
-  "fetched_at": "2026-11-03T11:28:25.750846800Z",
+  "fetched_at": "2026-11-14T10:51:34.309056189Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": true,
     "has_tests": true,
     "readme_len": 19286
-  }
+  },
+  "slow_fetched_at": "2026-11-14T10:51:34.309056189Z",
+  "commits_etag": "\"92a24d137b84e3628bd44381faae13c799b2028272f65581362bfc1fa306ca88\"",
+  "releases_etag": "\"bf5db519055048a71b8094fe78f57e580c5937284a5520ee995b217fc069b539\""
 }

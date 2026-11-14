@@ -1,6 +1,6 @@
 {
   "slug": "enigama/miss.nvim",
-  "fetched_at": "2026-11-13T11:21:03.047943149Z",
+  "fetched_at": "2026-11-14T10:39:26.437893776Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 1623
   },
   "slow_fetched_at": "2026-11-13T11:21:03.047943149Z",
-  "commits_etag": "\"e876108898dc36d3478a74f3b4d3506e55c7639627724078ece253a09d7b2506\"",
-  "releases_etag": "\"c9a8bc68b098da983ab4f1f719f268750c8e498de8b9e7247b984322473a3301\""
+  "commits_etag": "\"227d944f0c48b67085979c12c2723c457fff00217ae8a303e288fec11ab55c45\"",
+  "releases_etag": "\"a4b28d72845f58c0dd557dfa910cb946dadb31ebd230f7ace2f4bbdb24770e5f\""
 }

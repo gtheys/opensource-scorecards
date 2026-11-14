@@ -1,10 +1,10 @@
 {
   "slug": "juselara1/tmutils.nvim",
-  "fetched_at": "2026-11-03T11:24:03.450441099Z",
+  "fetched_at": "2026-11-14T10:48:04.900168841Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 18,
+    "stars": 17,
     "forks": 1,
     "description": "Tmux utilities that enable sending lines, capturing content, creating terminals, and managing REPLs within Neovim.",
     "license_spdx": "MIT",
@@ -21,5 +21,8 @@
     "has_ci": false,
     "has_tests": false,
     "readme_len": 13377
-  }
+  },
+  "slow_fetched_at": "2026-11-14T10:48:04.900168841Z",
+  "commits_etag": "\"54de242e596d3d93d4aeb8702030560d0589237acf2583c39bbadc4796aaf058\"",
+  "releases_etag": "\"a4b28d72845f58c0dd557dfa910cb946dadb31ebd230f7ace2f4bbdb24770e5f\""
 }

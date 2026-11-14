@@ -1,6 +1,6 @@
 {
   "slug": "kazhala/close-buffers.nvim",
-  "fetched_at": "2026-11-03T11:24:59.128887867Z",
+  "fetched_at": "2026-11-14T10:48:46.127414439Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -21,5 +21,8 @@
     "has_ci": false,
     "has_tests": false,
     "readme_len": 5942
-  }
+  },
+  "slow_fetched_at": "2026-11-14T10:48:46.127414439Z",
+  "commits_etag": "\"a64e1f367f25d1af2a67d163867c12a7ae519bb44d549ce1f24522466e000eed\"",
+  "releases_etag": "\"a4b28d72845f58c0dd557dfa910cb946dadb31ebd230f7ace2f4bbdb24770e5f\""
 }

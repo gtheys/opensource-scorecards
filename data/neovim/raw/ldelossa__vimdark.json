@@ -1,6 +1,6 @@
 {
   "slug": "ldelossa/vimdark",
-  "fetched_at": "2026-11-03T11:28:09.539649753Z",
+  "fetched_at": "2026-11-14T10:51:19.166976298Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -21,5 +21,8 @@
     "has_ci": false,
     "has_tests": false,
     "readme_len": 918
-  }
+  },
+  "slow_fetched_at": "2026-11-14T10:51:19.166976298Z",
+  "commits_etag": "\"475ae4aecf773336c0dbd85303a502b6e25a044196631e0b1745771dab87b323\"",
+  "releases_etag": "\"a4b28d72845f58c0dd557dfa910cb946dadb31ebd230f7ace2f4bbdb24770e5f\""
 }

@@ -1,6 +1,6 @@
 {
   "slug": "jameswolensky/marker-groups.nvim",
-  "fetched_at": "2026-11-03T11:20:57.815870614Z",
+  "fetched_at": "2026-11-14T10:45:40.132962015Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -21,5 +21,8 @@
     "has_ci": true,
     "has_tests": true,
     "readme_len": 8439
-  }
+  },
+  "slow_fetched_at": "2026-11-14T10:45:40.132962015Z",
+  "commits_etag": "\"25d48d35ed8c149e4c9b4e89206bdd1a5c281593b9cb8511011bbd21a683391c\"",
+  "releases_etag": "\"cea2eec5533a4f65a09a19f33c096c981e0fe1b96575e9885c10e9664ddacdc6\""
 }

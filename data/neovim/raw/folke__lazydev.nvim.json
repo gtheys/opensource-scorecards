@@ -1,6 +1,6 @@
 {
   "slug": "folke/lazydev.nvim",
-  "fetched_at": "2026-11-13T11:23:23.461746702Z",
+  "fetched_at": "2026-11-14T10:40:53.740480121Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 6113
   },
   "slow_fetched_at": "2026-11-13T11:23:23.461746702Z",
-  "commits_etag": "\"f90eccb47208d42f0a228968305d8952697840d94c9938efe1d74bf2f8e13e3b\"",
-  "releases_etag": "\"7407d180dd51787e043ecd9ae9e8107e167c8ad99e90836b1a9fa8599ca5ead7\""
+  "commits_etag": "\"0f884b5f0367caddbc0ac9f89fc3d8776b2eeadcb50a59199a0a10bd2275978b\"",
+  "releases_etag": "\"652a76cac3e75582cbf90d5f55e5bc80a192bda014155ceb0007c1f1b2d1f155\""
 }

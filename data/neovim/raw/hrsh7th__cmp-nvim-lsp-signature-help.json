@@ -1,6 +1,6 @@
 {
   "slug": "hrsh7th/cmp-nvim-lsp-signature-help",
-  "fetched_at": "2026-11-13T11:28:09.345448693Z",
+  "fetched_at": "2026-11-14T10:44:01.656904405Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -8,25 +8,21 @@
     "forks": 36,
     "description": "cmp-nvim-lsp-signature-help",
     "license_spdx": "MIT",
-    "last_commit_at": "2025-11-14T03:17:02Z",
+    "last_commit_at": null,
     "commits_90d": 0,
     "releases_365d": 0,
     "median_issue_close_days": 33.976394675925924,
     "median_pr_close_days": 0.20912615740740742,
     "open_issues": 30,
     "closed_issues_sampled": 14,
-    "contributors_12mo": 1,
-    "top_author_commit_share": 1.0,
-    "top_author": {
-      "login": "hrsh7th",
-      "account_created_at": "2011-02-21T13:33:29Z",
-      "other_repos_star_sum": 5483
-    },
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
     "has_ci": false,
     "has_tests": false,
     "readme_len": 348
   },
   "slow_fetched_at": "2026-11-13T11:28:09.345448693Z",
-  "commits_etag": "\"5920b69af81e66f7943989e88dd5b523cd8eee9000ca1884ede17d96e10bb726\"",
-  "releases_etag": "\"c9a8bc68b098da983ab4f1f719f268750c8e498de8b9e7247b984322473a3301\""
+  "commits_etag": "\"b05ea4ab77e2f98fe0a4c30742ea5d76db6903ef157d3e92cd95c5b27412bd6f\"",
+  "releases_etag": "\"a4b28d72845f58c0dd557dfa910cb946dadb31ebd230f7ace2f4bbdb24770e5f\""
 }

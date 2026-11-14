@@ -1,6 +1,6 @@
 {
   "slug": "jpwol/thorn.nvim",
-  "fetched_at": "2026-11-03T11:23:14.195707958Z",
+  "fetched_at": "2026-11-14T10:47:27.030587387Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -10,13 +10,13 @@
     "license_spdx": "MIT",
     "last_commit_at": "2026-08-27T01:32:01Z",
     "commits_90d": 2,
-    "releases_365d": 14,
+    "releases_365d": 12,
     "median_issue_close_days": 0.34319444444444447,
     "median_pr_close_days": 0.0020833333333333333,
     "open_issues": 0,
     "closed_issues_sampled": 3,
     "contributors_12mo": 4,
-    "top_author_commit_share": 0.9142857142857143,
+    "top_author_commit_share": 0.88,
     "top_author": {
       "login": "jpwol",
       "account_created_at": "2021-10-05T21:58:20Z",
@@ -25,5 +25,8 @@
     "has_ci": true,
     "has_tests": false,
     "readme_len": 10162
-  }
+  },
+  "slow_fetched_at": "2026-11-14T10:47:27.030587387Z",
+  "commits_etag": "\"ba80d8ed40677e8ae47fae14cfc35132f61dd352acaf8a153123453cf5e242a7\"",
+  "releases_etag": "\"1d8df606b45a39fe6956fa3986652b389e0220e1f1e72ca0c1759f200db1bc4b\""
 }

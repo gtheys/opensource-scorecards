@@ -1,6 +1,6 @@
 {
   "slug": "abidibo/nvim-httpyac",
-  "fetched_at": "2026-11-13T11:02:56.084011849Z",
+  "fetched_at": "2026-11-14T10:27:26.296886634Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "A simple plugin which integrates HttpYac in Neovim",
     "license_spdx": "MIT",
     "last_commit_at": "2026-08-31T08:43:30Z",
-    "commits_90d": 2,
+    "commits_90d": 1,
     "releases_365d": 5,
     "median_issue_close_days": null,
     "median_pr_close_days": 8.213148148148148,
@@ -27,6 +27,6 @@
     "readme_len": 6344
   },
   "slow_fetched_at": "2026-11-13T11:02:56.084011849Z",
-  "commits_etag": "\"a5798321af172e4c9b2c426ef5d37786d36ec768a91f11f72690d9ec477c770c\"",
-  "releases_etag": "\"d3aa7587144e6a88f3b3a4be86ce7c8cde7c5345abcd1b686da4ca0920cb5ea6\""
+  "commits_etag": "\"b4c35f395084907f9c1755ef1c8d6e5e47b4158bfde1bae7ca9697ffebd407fe\"",
+  "releases_etag": "\"4845c381389c27ae39961e5d319c49eecef8e20b74570566e9086ef90ff5e55d\""
 }

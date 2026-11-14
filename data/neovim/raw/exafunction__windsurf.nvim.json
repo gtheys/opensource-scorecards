@@ -1,10 +1,10 @@
 {
   "slug": "exafunction/windsurf.nvim",
-  "fetched_at": "2026-11-13T11:21:55.022833325Z",
+  "fetched_at": "2026-11-14T10:39:57.693165232Z",
   "status": "ok",
   "data": {
     "archived": true,
-    "stars": 1290,
+    "stars": 1289,
     "forks": 104,
     "description": "A native neovim extension for Codeium",
     "license_spdx": "MIT",
@@ -23,6 +23,6 @@
     "readme_len": 13083
   },
   "slow_fetched_at": "2026-11-13T11:21:55.022833325Z",
-  "commits_etag": "\"36a33936bf1e8178792f9b11e0c70b36ed24fb92256f3d579683f01c1b332bdb\"",
-  "releases_etag": "\"c9a8bc68b098da983ab4f1f719f268750c8e498de8b9e7247b984322473a3301\""
+  "commits_etag": "\"ec53c84ecd17fed0adab89a72dc727370bb5a0a941165dc4c9be042bbe98a937\"",
+  "releases_etag": "\"a4b28d72845f58c0dd557dfa910cb946dadb31ebd230f7ace2f4bbdb24770e5f\""
 }

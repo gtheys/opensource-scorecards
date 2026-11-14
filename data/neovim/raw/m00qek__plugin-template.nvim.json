@@ -1,6 +1,6 @@
 {
   "slug": "m00qek/plugin-template.nvim",
-  "fetched_at": "2026-11-03T11:31:02.841811591Z",
+  "fetched_at": "2026-11-14T10:54:19.586390116Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -21,5 +21,8 @@
     "has_ci": false,
     "has_tests": true,
     "readme_len": 2159
-  }
+  },
+  "slow_fetched_at": "2026-11-14T10:54:19.586390116Z",
+  "commits_etag": "\"0eba0df2795e59025fc210e91f2e93fa04ceb3a0e34ed36598f658a1c20ff558\"",
+  "releases_etag": "\"a4b28d72845f58c0dd557dfa910cb946dadb31ebd230f7ace2f4bbdb24770e5f\""
 }

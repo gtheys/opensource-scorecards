@@ -1,6 +1,6 @@
 {
   "slug": "lewpoly/sherbet.nvim",
-  "fetched_at": "2026-11-03T11:28:50.002175048Z",
+  "fetched_at": "2026-11-14T10:52:01.897576819Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -21,5 +21,8 @@
     "has_ci": false,
     "has_tests": false,
     "readme_len": 810
-  }
+  },
+  "slow_fetched_at": "2026-11-14T10:52:01.897576819Z",
+  "commits_etag": "\"d5507defcf9890a318540b61cd34208907a89662a71e0534642b4a6bf03e3a3b\"",
+  "releases_etag": "\"a4b28d72845f58c0dd557dfa910cb946dadb31ebd230f7ace2f4bbdb24770e5f\""
 }

@@ -1,22 +1,22 @@
 {
   "slug": "lotabout/skim",
-  "fetched_at": "2026-11-03T11:29:50.266896685Z",
+  "fetched_at": "2026-11-14T10:53:09.102120360Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 7002,
+    "stars": 7012,
     "forks": 264,
     "description": "Fuzzy Finder in rust!",
     "license_spdx": "MIT",
-    "last_commit_at": "2026-10-27T19:38:05Z",
-    "commits_90d": 38,
+    "last_commit_at": "2026-11-13T14:36:48Z",
+    "commits_90d": 32,
     "releases_365d": 93,
-    "median_issue_close_days": 0.48138888888888887,
-    "median_pr_close_days": 0.4087037037037037,
-    "open_issues": 8,
-    "closed_issues_sampled": 11,
+    "median_issue_close_days": 0.7952893518518519,
+    "median_pr_close_days": 0.46806712962962965,
+    "open_issues": 7,
+    "closed_issues_sampled": 13,
     "contributors_12mo": 27,
-    "top_author_commit_share": 0.9033942558746736,
+    "top_author_commit_share": 0.9041450777202072,
     "top_author": {
       "login": "LoricAndre",
       "account_created_at": "2019-11-04T14:08:34Z",
@@ -24,6 +24,9 @@
     },
     "has_ci": true,
     "has_tests": true,
-    "readme_len": 31022
-  }
+    "readme_len": 33093
+  },
+  "slow_fetched_at": "2026-11-14T10:53:09.102120360Z",
+  "commits_etag": "\"29bb7a8b3190b603dc556e74cebddcb97083d64bb1da062d7a08995298800f1a\"",
+  "releases_etag": "\"ec1843bf620cf805f22837e5a34a78af9da85ff58181f370faa0ac2abaf2a094\""
 }

@@ -1,6 +1,6 @@
 {
   "slug": "acolomba/pi-claude-marketplace",
-  "fetched_at": "2026-11-13T11:30:34.197066975Z",
+  "fetched_at": "2026-11-14T10:55:33.885270876Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "Access Claude plugin marketplaces from Pi Coding Agent.",
     "license_spdx": "MIT",
     "last_commit_at": "2026-11-11T10:27:34Z",
-    "commits_90d": 90,
+    "commits_90d": 89,
     "releases_365d": 45,
     "median_issue_close_days": 15.026238425925927,
     "median_pr_close_days": 0.18284722222222222,
@@ -27,6 +27,6 @@
     "readme_len": 25730
   },
   "slow_fetched_at": "2026-11-13T11:30:34.197066975Z",
-  "commits_etag": "\"455a3ecf404d1bbe365d7acba84ea9f396e8b9c1282d750cc0bddc234a1cc1d9\"",
-  "releases_etag": "\"e0fccac29d424d8542c5f181fe9d1cf1075cd0dc28f5ae9219eb9b0474c5c7cf\""
+  "commits_etag": "\"f1768d2d9f1b3889c2c81df6a5d345d8bd5417e90fef66530d689480cdf59d25\"",
+  "releases_etag": "\"0a23037ab368b149aa593c56416cae4ee72b4d3e3b7560953edcaa2e2cbb3cec\""
 }

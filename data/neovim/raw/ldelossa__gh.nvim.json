@@ -1,6 +1,6 @@
 {
   "slug": "ldelossa/gh.nvim",
-  "fetched_at": "2026-11-03T11:28:04.964273147Z",
+  "fetched_at": "2026-11-14T10:51:13.418446736Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -21,5 +21,8 @@
     "has_ci": false,
     "has_tests": false,
     "readme_len": 9227
-  }
+  },
+  "slow_fetched_at": "2026-11-14T10:51:13.418446736Z",
+  "commits_etag": "\"a71e8ab8ccd0a8a4a4c5da516139f2b6485e978969244607cc89f3294a86d060\"",
+  "releases_etag": "\"a4b28d72845f58c0dd557dfa910cb946dadb31ebd230f7ace2f4bbdb24770e5f\""
 }

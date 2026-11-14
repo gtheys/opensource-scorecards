@@ -1,6 +1,6 @@
 {
   "slug": "astronvim/astronvim",
-  "fetched_at": "2026-11-13T11:06:41.076765072Z",
+  "fetched_at": "2026-11-14T10:30:03.964601772Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -10,13 +10,13 @@
     "license_spdx": "GPL-3.0",
     "last_commit_at": "2026-10-16T13:49:09Z",
     "commits_90d": 9,
-    "releases_365d": 13,
+    "releases_365d": 12,
     "median_issue_close_days": 0.31222800925925925,
     "median_pr_close_days": 0.009230324074074075,
     "open_issues": 2,
     "closed_issues_sampled": 20,
     "contributors_12mo": 4,
-    "top_author_commit_share": 0.6262626262626263,
+    "top_author_commit_share": 0.6288659793814433,
     "top_author": {
       "login": "mehalter",
       "account_created_at": "2012-03-30T21:27:18Z",
@@ -27,6 +27,6 @@
     "readme_len": 10253
   },
   "slow_fetched_at": "2026-11-13T11:06:41.076765072Z",
-  "commits_etag": "\"b524cc2bbe94105e1d952eb6726d5d1de07be2f01522333aa794eacdddce691e\"",
-  "releases_etag": "\"8d40854523c893446a71812e5a695dfcfe96eed33f1f7e60031ccc4d48322b69\""
+  "commits_etag": "\"e4631ff7827a69cf5f8f790939bc6097f7ec0ca7be4e74ee4778d26f4091e2a9\"",
+  "releases_etag": "\"aec62b1d63ba1199ffb523eb00f9c0c06b29c09c925b376d24e2737151a99974\""
 }

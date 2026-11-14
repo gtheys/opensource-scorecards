@@ -1,6 +1,6 @@
 {
   "slug": "linrongbin16/colorbox.nvim",
-  "fetched_at": "2026-11-03T11:29:03.580954304Z",
+  "fetched_at": "2026-11-14T10:52:21.429687821Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": true,
     "has_tests": true,
     "readme_len": 12215
-  }
+  },
+  "slow_fetched_at": "2026-11-14T10:52:21.429687821Z",
+  "commits_etag": "\"ff45333341d434ad15355bf9d59efb5dc318764dd294e3bf65c35e2a029b54b0\"",
+  "releases_etag": "\"d42f15d4a364a5c9af6ab9b4ca0d4e2ea89cb4f68af5172dd068bc929b3e4be7\""
 }

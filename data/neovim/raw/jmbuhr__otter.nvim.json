@@ -1,10 +1,10 @@
 {
   "slug": "jmbuhr/otter.nvim",
-  "fetched_at": "2026-11-03T11:22:31.758667017Z",
+  "fetched_at": "2026-11-14T10:46:59.572425848Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 910,
+    "stars": 912,
     "forks": 41,
     "description": "Just ask an otter! 🦦",
     "license_spdx": "MIT",
@@ -25,5 +25,8 @@
     "has_ci": true,
     "has_tests": true,
     "readme_len": 13800
-  }
+  },
+  "slow_fetched_at": "2026-11-14T10:46:59.572425848Z",
+  "commits_etag": "\"91d345309564ca0583c98bf4c3dbf855d2e8b0146df252939e326aadcefc710d\"",
+  "releases_etag": "\"3f56684dbcce1819011905c7aeb96f92ac224a6a02be09f0137b6e85206abe05\""
 }

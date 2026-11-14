@@ -1,6 +1,6 @@
 {
   "slug": "jesperlundberg/projektgunnar.nvim",
-  "fetched_at": "2026-11-03T11:21:47.257683763Z",
+  "fetched_at": "2026-11-14T10:46:26.214351996Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": true,
     "has_tests": true,
     "readme_len": 3827
-  }
+  },
+  "slow_fetched_at": "2026-11-14T10:46:26.214351996Z",
+  "commits_etag": "\"104f140858a30e053fea4c3d4fa9e7a05f387d51d174d5b6811d23cc9f400676\"",
+  "releases_etag": "\"a4b28d72845f58c0dd557dfa910cb946dadb31ebd230f7ace2f4bbdb24770e5f\""
 }

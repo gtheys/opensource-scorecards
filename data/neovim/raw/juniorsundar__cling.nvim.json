@@ -1,6 +1,6 @@
 {
   "slug": "juniorsundar/cling.nvim",
-  "fetched_at": "2026-11-03T11:23:53.410284706Z",
+  "fetched_at": "2026-11-14T10:47:58.543378332Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": true,
     "has_tests": true,
     "readme_len": 16599
-  }
+  },
+  "slow_fetched_at": "2026-11-14T10:47:58.543378332Z",
+  "commits_etag": "\"2cebbca58d6efb4f42e0a827b691faa98a02facc2b4d7841116676e2ea27713b\"",
+  "releases_etag": "\"0524e570b0a6ca9dd6d4bfae44c88b353417482bf7b7d9f8795e99076ca935f2\""
 }

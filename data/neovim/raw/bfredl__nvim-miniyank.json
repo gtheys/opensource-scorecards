@@ -1,6 +1,6 @@
 {
   "slug": "bfredl/nvim-miniyank",
-  "fetched_at": "2026-11-13T11:08:56.980598392Z",
+  "fetched_at": "2026-11-14T10:31:38.272814396Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 3255
   },
   "slow_fetched_at": "2026-11-13T11:08:56.980598392Z",
-  "commits_etag": "\"80a5824f130abb5dfe443b1c6454b867eae57a185ae8ed4da2f7e052dbc598a5\"",
-  "releases_etag": "\"c9a8bc68b098da983ab4f1f719f268750c8e498de8b9e7247b984322473a3301\""
+  "commits_etag": "\"cfabba5c6bc0c752ed11b3f9168e7f4a7038271e55d1685c0f2d9eaf99a9e87f\"",
+  "releases_etag": "\"a4b28d72845f58c0dd557dfa910cb946dadb31ebd230f7ace2f4bbdb24770e5f\""
 }

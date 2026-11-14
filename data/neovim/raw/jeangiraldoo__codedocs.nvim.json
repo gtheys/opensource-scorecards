@@ -1,6 +1,6 @@
 {
   "slug": "jeangiraldoo/codedocs.nvim",
-  "fetched_at": "2026-11-03T11:21:34.321136967Z",
+  "fetched_at": "2026-11-14T10:46:14.874992862Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -8,11 +8,11 @@
     "forks": 2,
     "description": "Annotation generation framework with support for most languages and annotation styles⌨️✨",
     "license_spdx": "GPL-3.0",
-    "last_commit_at": "2026-07-14T03:16:00Z",
-    "commits_90d": 0,
+    "last_commit_at": "2026-11-06T15:55:03Z",
+    "commits_90d": 9,
     "releases_365d": 7,
     "median_issue_close_days": 10.421956018518518,
-    "median_pr_close_days": 0.001267361111111111,
+    "median_pr_close_days": 0.0012268518518518518,
     "open_issues": 3,
     "closed_issues_sampled": 2,
     "contributors_12mo": 1,
@@ -24,6 +24,9 @@
     },
     "has_ci": true,
     "has_tests": false,
-    "readme_len": 24343
-  }
+    "readme_len": 24348
+  },
+  "slow_fetched_at": "2026-11-14T10:46:14.874992862Z",
+  "commits_etag": "\"953cca6794bcf0372c1e873be19fda8c93535bd643db4e358fd7ca66d4934d34\"",
+  "releases_etag": "\"9422d82bcc79a12211e02cde43d82559d1af4d5fbd2ef73a81c3dfcf9f4e4e43\""
 }

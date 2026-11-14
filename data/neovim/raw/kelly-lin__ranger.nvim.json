@@ -1,6 +1,6 @@
 {
   "slug": "kelly-lin/ranger.nvim",
-  "fetched_at": "2026-11-03T11:25:15.906081475Z",
+  "fetched_at": "2026-11-14T10:48:59.480509768Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -21,5 +21,8 @@
     "has_ci": false,
     "has_tests": false,
     "readme_len": 4895
-  }
+  },
+  "slow_fetched_at": "2026-11-14T10:48:59.480509768Z",
+  "commits_etag": "\"30dd8789dc81b890a24b2cdb254f55d317b26ae0c3f95c4f3d670ae89ea94031\"",
+  "releases_etag": "\"a4b28d72845f58c0dd557dfa910cb946dadb31ebd230f7ace2f4bbdb24770e5f\""
 }

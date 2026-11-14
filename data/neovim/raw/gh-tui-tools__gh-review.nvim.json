@@ -1,6 +1,6 @@
 {
   "slug": "gh-tui-tools/gh-review.nvim",
-  "fetched_at": "2026-11-13T11:25:46.130497091Z",
+  "fetched_at": "2026-11-14T10:42:30.246861715Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 12607
   },
   "slow_fetched_at": "2026-11-13T11:25:46.130497091Z",
-  "commits_etag": "\"b46f2edaa02ecb975d8432c9d651a053960ff4668e4dd236ea7e55559d21a56e\"",
-  "releases_etag": "\"c9a8bc68b098da983ab4f1f719f268750c8e498de8b9e7247b984322473a3301\""
+  "commits_etag": "\"05381589bf2195e804b7c70429c4ab98d066853d54d41bb8456359f3b3310dcc\"",
+  "releases_etag": "\"a4b28d72845f58c0dd557dfa910cb946dadb31ebd230f7ace2f4bbdb24770e5f\""
 }

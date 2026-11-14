@@ -1,6 +1,6 @@
 {
   "slug": "kurama622/llm.nvim",
-  "fetched_at": "2026-11-03T11:27:25.782514549Z",
+  "fetched_at": "2026-11-14T10:50:37.895996080Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -16,7 +16,7 @@
     "open_issues": 0,
     "closed_issues_sampled": 18,
     "contributors_12mo": 4,
-    "top_author_commit_share": 0.9491525423728814,
+    "top_author_commit_share": 0.9464285714285714,
     "top_author": {
       "login": "Kurama622",
       "account_created_at": "2018-07-20T01:41:42Z",
@@ -25,5 +25,8 @@
     "has_ci": false,
     "has_tests": false,
     "readme_len": 32182
-  }
+  },
+  "slow_fetched_at": "2026-11-14T10:50:37.895996080Z",
+  "commits_etag": "\"a514b14896f8da88b980b18761b45947e1a328348103572a8d3512d6692e005e\"",
+  "releases_etag": "\"20e0732bb0c331ec2f477a9bd042a842c83703019d95f7f78714e47841a3317f\""
 }

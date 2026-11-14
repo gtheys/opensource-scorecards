@@ -1,15 +1,15 @@
 {
   "slug": "martuscellifaria/ahoicpp.nvim",
-  "fetched_at": "2026-11-03T11:31:55.353099955Z",
+  "fetched_at": "2026-11-14T10:55:03.548131859Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 7,
+    "stars": 8,
     "forks": 0,
     "description": "AhoiTools C++ Project Scaffolding plugin for Neovim",
     "license_spdx": "MIT",
-    "last_commit_at": "2026-10-30T15:33:20Z",
-    "commits_90d": 16,
+    "last_commit_at": "2026-11-13T10:13:36Z",
+    "commits_90d": 17,
     "releases_365d": 4,
     "median_issue_close_days": null,
     "median_pr_close_days": 0.0015625,
@@ -25,5 +25,8 @@
     "has_ci": true,
     "has_tests": true,
     "readme_len": 9743
-  }
+  },
+  "slow_fetched_at": "2026-11-14T10:55:03.548131859Z",
+  "commits_etag": "\"bc3c11a5bf5b9aec953a7b098cb097f26f180e5a3bca172a8d6a7a9e74775bba\"",
+  "releases_etag": "\"2bf961870c8b9624718b37a677a5d749aaf074a2d78ec74b238bc4c4546b5535\""
 }

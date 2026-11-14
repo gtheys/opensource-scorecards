@@ -1,10 +1,10 @@
 {
   "slug": "code-biscuits/nvim-biscuits",
-  "fetched_at": "2026-11-13T11:13:20.903991061Z",
+  "fetched_at": "2026-11-14T10:34:50.366393599Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 347,
+    "stars": 346,
     "forks": 13,
     "description": "A neovim port of Assorted Biscuits. Ends up with more supported languages too.",
     "license_spdx": "MIT",
@@ -27,6 +27,6 @@
     "readme_len": 7953
   },
   "slow_fetched_at": "2026-11-13T11:13:20.903991061Z",
-  "commits_etag": "\"d871824fb43b48b2c807bb6a483a6b811e87a2733d5962e602ebdae96769d402\"",
-  "releases_etag": "\"c9a8bc68b098da983ab4f1f719f268750c8e498de8b9e7247b984322473a3301\""
+  "commits_etag": "\"2dded8cb923c2f3c9bdaee3375bccddf0759b59b6c391ded15f1cbac97d2489a\"",
+  "releases_etag": "\"a4b28d72845f58c0dd557dfa910cb946dadb31ebd230f7ace2f4bbdb24770e5f\""
 }

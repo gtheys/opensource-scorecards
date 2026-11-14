@@ -1,0 +1,32 @@
+{
+  "slug": "longyinstudio/suda.nvim",
+  "fetched_at": "2026-11-14T10:53:03.622051266Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 3,
+    "forks": 0,
+    "description": "Transparent privilege elevation for Neovim without virtual URI hacks.  优雅透明的 Neovim Sudo 提权读写插件，不依赖虚拟 URI，无缝兼容 LSP。",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-10-31T14:41:09Z",
+    "commits_90d": 4,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": null,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "LongYinStudio",
+      "account_created_at": "2018-08-08T12:15:50Z",
+      "other_repos_star_sum": 62
+    },
+    "has_ci": false,
+    "has_tests": false,
+    "readme_len": 1906
+  },
+  "slow_fetched_at": "2026-11-14T10:53:03.622051266Z",
+  "commits_etag": "\"bab0a434ffdb6959a234b3b6bcf90ca07a9ad20a00c51662417e20cb87fdf10f\"",
+  "releases_etag": "\"a4b28d72845f58c0dd557dfa910cb946dadb31ebd230f7ace2f4bbdb24770e5f\""
+}

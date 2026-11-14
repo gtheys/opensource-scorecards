@@ -1,6 +1,6 @@
 {
   "slug": "dstein64/nvim-scrollview",
-  "fetched_at": "2026-11-13T11:19:41.996448416Z",
+  "fetched_at": "2026-11-14T10:38:40.951223321Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 8338
   },
   "slow_fetched_at": "2026-11-13T11:19:41.996448416Z",
-  "commits_etag": "\"d137a3871fb32d17e1e1aec8f54e60ebbbff956e2f3bcf8098448eda3bcaed21\"",
-  "releases_etag": "\"9ddc952033f6e0f3ef6be06030645a8850897f1cea20cc47a4de13e0074d3504\""
+  "commits_etag": "\"64af18ca48a0af08edf2d1afb5dd7de1cac3a0ee81c377d46933ef4a5595c9a0\"",
+  "releases_etag": "\"7ab66066da7acccd7ba0aa8d498a398dc2595544797f273aa8f8625c4b6ed77f\""
 }
