@@ -1,6 +1,6 @@
 {
   "slug": "hawknewton/matrix-splash.nvim",
-  "fetched_at": "2026-11-14T10:43:24.367216765Z",
+  "fetched_at": "2026-11-15T11:10:31.998355195Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 3629
   },
   "slow_fetched_at": "2026-11-13T11:27:11.323433620Z",
-  "commits_etag": "\"c5c74cc69cf32de2f0c28e61c1ceff1ff3adf2ebe960d2f8187743fff2a2f8ba\"",
-  "releases_etag": "\"a4b28d72845f58c0dd557dfa910cb946dadb31ebd230f7ace2f4bbdb24770e5f\""
+  "commits_etag": "\"03810f1319b03b68198b3efd3cf752a0da0d62fbd8a6ae348e090f901b41a796\"",
+  "releases_etag": "\"b2f25abdbda1dc8d5f5cc910020310df0fbee8dd1a43e00b2cb71964c3d55db1\""
 }

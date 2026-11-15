@@ -1,6 +1,6 @@
 {
   "slug": "altermo/ultimate-autopair.nvim",
-  "fetched_at": "2026-11-14T10:29:07.143030990Z",
+  "fetched_at": "2026-11-15T10:56:27.809201423Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -18,15 +18,15 @@
     "contributors_12mo": 2,
     "top_author_commit_share": 0.5,
     "top_author": {
-      "login": "altermo",
-      "account_created_at": "2022-06-19T20:27:50Z",
-      "other_repos_star_sum": 1190
+      "login": "phanen",
+      "account_created_at": "2021-09-28T13:06:19Z",
+      "other_repos_star_sum": 71
     },
     "has_ci": false,
     "has_tests": false,
     "readme_len": 3457
   },
   "slow_fetched_at": "2026-11-13T11:05:18.319135903Z",
-  "commits_etag": "\"cc7970aaba7bb80d28ce11ea58fae72e5dee731852f71350503258c072621f5a\"",
-  "releases_etag": "\"a4b28d72845f58c0dd557dfa910cb946dadb31ebd230f7ace2f4bbdb24770e5f\""
+  "commits_etag": "\"47785e695d86b342bc331491878b71b9a8864f4bf8f872cbe3ce45eb6bbd28fb\"",
+  "releases_etag": "\"b2f25abdbda1dc8d5f5cc910020310df0fbee8dd1a43e00b2cb71964c3d55db1\""
 }

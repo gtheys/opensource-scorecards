@@ -1,19 +1,19 @@
 {
   "slug": "mawkler/modicator.nvim",
-  "fetched_at": "2026-11-14T10:55:29.850423489Z",
+  "fetched_at": "2026-11-15T11:20:42.632498251Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 384,
-    "forks": 11,
+    "stars": 385,
+    "forks": 10,
     "description": "Cursor line number mode indicator plugin for Neovim",
     "license_spdx": "MIT",
     "last_commit_at": "2026-04-10T19:24:29Z",
     "commits_90d": 0,
     "releases_365d": 0,
     "median_issue_close_days": 4.3525578703703705,
-    "median_pr_close_days": 0.20015046296296296,
-    "open_issues": 3,
+    "median_pr_close_days": 0.2400810185185185,
+    "open_issues": 2,
     "closed_issues_sampled": 21,
     "contributors_12mo": 1,
     "top_author_commit_share": 1.0,
@@ -27,6 +27,6 @@
     "readme_len": 5029
   },
   "slow_fetched_at": "2026-11-14T10:55:29.850423489Z",
-  "commits_etag": "\"48314582346f2e8735d27f0db38aede5370b5c7160dd25b97b7506473713ea13\"",
-  "releases_etag": "\"a4b28d72845f58c0dd557dfa910cb946dadb31ebd230f7ace2f4bbdb24770e5f\""
+  "commits_etag": "\"832e2150798c24f757c2816dce1fb0dacec721129a72d3a41d03be93134c8348\"",
+  "releases_etag": "\"b2f25abdbda1dc8d5f5cc910020310df0fbee8dd1a43e00b2cb71964c3d55db1\""
 }

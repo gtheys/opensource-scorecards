@@ -1,6 +1,6 @@
 {
   "slug": "alessandropietrobelli/dotnet-counters.nvim",
-  "fetched_at": "2026-11-14T10:28:38.902811870Z",
+  "fetched_at": "2026-11-15T10:56:03.044111698Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -8,13 +8,13 @@
     "forks": 0,
     "description": "Live .NET runtime metrics (CPU, memory, GC, HTTP) in a Neovim side panel, next to nvim-dap",
     "license_spdx": "Apache-2.0",
-    "last_commit_at": "2026-11-07T11:47:14Z",
-    "commits_90d": 12,
-    "releases_365d": 3,
-    "median_issue_close_days": 0.04703703703703704,
-    "median_pr_close_days": 0.0005439814814814814,
-    "open_issues": 3,
-    "closed_issues_sampled": 1,
+    "last_commit_at": "2026-11-14T21:32:14Z",
+    "commits_90d": 15,
+    "releases_365d": 4,
+    "median_issue_close_days": 7.3242824074074075,
+    "median_pr_close_days": 0.010555555555555556,
+    "open_issues": 2,
+    "closed_issues_sampled": 3,
     "contributors_12mo": 1,
     "top_author_commit_share": 1.0,
     "top_author": {
@@ -27,6 +27,6 @@
     "readme_len": 7445
   },
   "slow_fetched_at": "2026-11-13T11:04:39.973341666Z",
-  "commits_etag": "\"0285305125cff77ebfdab6caadcbf45e3ca696cef8a1a7fe6e595ef5e56874a2\"",
-  "releases_etag": "\"467a78ee34cbbceff30f795aef1ff8a3c4e5a45ee8e68f762c367657928a1568\""
+  "commits_etag": "\"a0055042f0f641406fe58cbd370d7ab7d46b85834e89a88b1854fdabac9d9755\"",
+  "releases_etag": "\"b1f8ad4f5f68bc5d35abcaf7e3df97ea3198b14f053984fe7c5af604b8530be8\""
 }

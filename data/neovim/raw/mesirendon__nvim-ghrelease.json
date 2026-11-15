@@ -1,6 +1,6 @@
 {
   "slug": "mesirendon/nvim-ghrelease",
-  "fetched_at": "2026-11-03T11:33:08.971055492Z",
+  "fetched_at": "2026-11-15T11:21:14.181336643Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "Create GitHub releases from inside Neovim",
     "license_spdx": "MIT",
     "last_commit_at": "2026-08-18T01:02:27Z",
-    "commits_90d": 2,
+    "commits_90d": 1,
     "releases_365d": 3,
     "median_issue_close_days": 1.1537268518518518,
     "median_pr_close_days": 3.9677314814814815,
@@ -25,5 +25,8 @@
     "has_ci": true,
     "has_tests": true,
     "readme_len": 5817
-  }
+  },
+  "slow_fetched_at": "2026-11-15T11:21:14.181336643Z",
+  "commits_etag": "\"f2cbeed8ba3ff2508b7506b3430a471a19b6eba95f10be51fc9a3ce5f6aabc49\"",
+  "releases_etag": "\"866149355f75a4c132e9c6cefed717e6d9065386e90fd9dccf359434166886fb\""
 }

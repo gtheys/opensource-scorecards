@@ -1,10 +1,10 @@
 {
   "slug": "mrcjkb/kickstart-nix.nvim",
-  "fetched_at": "2026-11-03T11:36:42.273079042Z",
+  "fetched_at": "2026-11-15T11:24:19.048906252Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 413,
+    "stars": 414,
     "forks": 18,
     "description": "❄️ A dead simple Nix flake template repository for Neovim derivations [maintainer=@mrcjkb]",
     "license_spdx": "GPL-2.0",
@@ -25,5 +25,8 @@
     "has_ci": false,
     "has_tests": false,
     "readme_len": 12434
-  }
+  },
+  "slow_fetched_at": "2026-11-15T11:24:19.048906252Z",
+  "commits_etag": "\"d63ad47e0dd4454bd6902e2a62d76b6db13d4dd300f226d5d06e49f08e0bbaf4\"",
+  "releases_etag": "\"b2f25abdbda1dc8d5f5cc910020310df0fbee8dd1a43e00b2cb71964c3d55db1\""
 }

@@ -1,6 +1,6 @@
 {
   "slug": "kkew3/jieba.vim",
-  "fetched_at": "2026-11-14T10:49:55.638063122Z",
+  "fetched_at": "2026-11-15T11:16:11.294959371Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 10946
   },
   "slow_fetched_at": "2026-11-14T10:49:55.638063122Z",
-  "commits_etag": "\"7e8e765320bbe5cb14325d6b3d57d73ed4ec4ba1c819d5a8bb2a2abb36745ff1\"",
-  "releases_etag": "\"ab5039cc8388d22ebc62bedee8e77392a7c8bf3f240c4f71c9bc735b644dc252\""
+  "commits_etag": "\"45e31fbbf5caf02836ce09326baac0d596fa8b38e24cba0299e2e320ea546c75\"",
+  "releases_etag": "\"04d7304d509896f1f35c5a56406b15a2b278beb4e5919eba75ad90135b7bc9f2\""
 }

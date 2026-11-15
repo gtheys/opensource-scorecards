@@ -1,17 +1,17 @@
 {
   "slug": "lewis6991/gitsigns.nvim",
-  "fetched_at": "2026-11-14T10:51:43.013007881Z",
+  "fetched_at": "2026-11-15T11:17:39.599335425Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 7183,
-    "forks": 307,
+    "stars": 7185,
+    "forks": 308,
     "description": "Git integration for buffers",
     "license_spdx": "MIT",
     "last_commit_at": "2026-11-13T14:10:11Z",
     "commits_90d": 36,
     "releases_365d": 2,
-    "median_issue_close_days": 24.4828587962963,
+    "median_issue_close_days": 1.9718229166666665,
     "median_pr_close_days": null,
     "open_issues": 38,
     "closed_issues_sampled": 50,
@@ -27,6 +27,6 @@
     "readme_len": 10571
   },
   "slow_fetched_at": "2026-11-14T10:51:43.013007881Z",
-  "commits_etag": "\"462a9bd6bac238c4f7971dad64a45646d1ceb13ec4ccb4ecc1251a127e88e0e7\"",
-  "releases_etag": "\"9dd58a9dc00045eeb8f4dcb32baed0f2357c330edfe3df01a09cba96b16b5ea4\""
+  "commits_etag": "\"b67f3499ab9e52eeaa2f21aa4bec4a9ff65ce85b6151f3359082ce3ea44b2224\"",
+  "releases_etag": "\"bb7458910860a4d24442a71f45850222133580f7493593ede1867127100a54d0\""
 }

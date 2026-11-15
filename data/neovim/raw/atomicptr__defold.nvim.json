@@ -1,6 +1,6 @@
 {
   "slug": "atomicptr/defold.nvim",
-  "fetched_at": "2026-11-14T10:30:14.716789219Z",
+  "fetched_at": "2026-11-15T10:57:32.111070895Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -10,7 +10,7 @@
     "license_spdx": "GPL-3.0",
     "last_commit_at": "2026-11-13T14:02:57Z",
     "commits_90d": 73,
-    "releases_365d": 42,
+    "releases_365d": 45,
     "median_issue_close_days": 3.4464930555555555,
     "median_pr_close_days": 21.28550925925926,
     "open_issues": 7,
@@ -27,6 +27,6 @@
     "readme_len": 12300
   },
   "slow_fetched_at": "2026-11-13T11:06:53.746984234Z",
-  "commits_etag": "\"628a547d5535bbdcade7c4f6c0bba19e42725f6612b130731e546ac49092fbea\"",
-  "releases_etag": "\"b92e7628d95377e00094f1c41d5674f3997028ffaaee6bf9adf76ecb46b2ce56\""
+  "commits_etag": "\"a84800afd6f55f58dc90e119c9a9d2d04c14db8881e664d5e16983cf72087ad0\"",
+  "releases_etag": "\"1efc11dab389e3b779d7ece28af3de741b9d5a308ae59fee72b0d205d0724ffd\""
 }

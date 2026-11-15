@@ -1,6 +1,6 @@
 {
   "slug": "dense-analysis/neural",
-  "fetched_at": "2026-11-14T10:37:14.155086662Z",
+  "fetched_at": "2026-11-15T11:04:20.665385954Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 7400
   },
   "slow_fetched_at": "2026-11-13T11:17:21.199037990Z",
-  "commits_etag": "\"fd3c7571b69cbb2094d25546deeb903e553c493491afd7a2bf625c75a689b4e2\"",
-  "releases_etag": "\"3256dbf84d7e68bbc9cd26384272d0af02057890254131d5b541c54ac9190d1f\""
+  "commits_etag": "\"3b378fafcf6d134f55858ef624a34b30feea6271e58234eeebf83811cba481e4\"",
+  "releases_etag": "\"4a07a0664f6bb26f0ff0b895c38c9fdd9300b8ccd744cfed1ab1b75ef5ca6293\""
 }

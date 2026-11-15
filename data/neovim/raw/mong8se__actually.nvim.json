@@ -1,6 +1,6 @@
 {
   "slug": "mong8se/actually.nvim",
-  "fetched_at": "2026-11-03T11:35:49.440764175Z",
+  "fetched_at": "2026-11-15T11:23:30.183442715Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -21,5 +21,8 @@
     "has_ci": false,
     "has_tests": false,
     "readme_len": 1485
-  }
+  },
+  "slow_fetched_at": "2026-11-15T11:23:30.183442715Z",
+  "commits_etag": "\"8a69e01da99bd9d8c39f15cb5ecae4247c93f9c2921994575fd9734c4fc5e290\"",
+  "releases_etag": "\"7404f8e25bb3da5d4d1d3cfb37631dd0df49e0a27d2ed33414d5ab90f5a5e1a4\""
 }

@@ -1,6 +1,6 @@
 {
   "slug": "mohseenrm/marko.nvim",
-  "fetched_at": "2026-11-03T11:35:39.431847153Z",
+  "fetched_at": "2026-11-15T11:23:25.338308213Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": true,
     "has_tests": true,
     "readme_len": 6840
-  }
+  },
+  "slow_fetched_at": "2026-11-15T11:23:25.338308213Z",
+  "commits_etag": "\"4f3e7afb69cffb657d0b948ab82d1c5fce0c0402e8c320d11c74dfc6356a7595\"",
+  "releases_etag": "\"a03a9f9163da5be0f7c730d35fc30910fc2bc1991e7b3ce71dc3d13d15221217\""
 }

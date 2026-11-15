@@ -1,22 +1,22 @@
 {
   "slug": "meanderingprogrammer/render-markdown.nvim",
-  "fetched_at": "2026-11-03T11:32:54.343984795Z",
+  "fetched_at": "2026-11-15T11:21:02.380489536Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 5225,
-    "forks": 154,
+    "stars": 5249,
+    "forks": 157,
     "description": "Improve viewing Markdown in Neovim",
     "license_spdx": "MIT",
-    "last_commit_at": "2026-10-10T19:58:57Z",
-    "commits_90d": 11,
-    "releases_365d": 5,
-    "median_issue_close_days": 6.9069155092592585,
-    "median_pr_close_days": 9.22032986111111,
-    "open_issues": 25,
-    "closed_issues_sampled": 40,
-    "contributors_12mo": 7,
-    "top_author_commit_share": 0.9125,
+    "last_commit_at": "2026-11-13T07:39:03Z",
+    "commits_90d": 25,
+    "releases_365d": 4,
+    "median_issue_close_days": 8.015381944444444,
+    "median_pr_close_days": 33.107824074074074,
+    "open_issues": 12,
+    "closed_issues_sampled": 28,
+    "contributors_12mo": 9,
+    "top_author_commit_share": 0.898876404494382,
     "top_author": {
       "login": "MeanderingProgrammer",
       "account_created_at": "2019-07-06T04:41:49Z",
@@ -24,6 +24,9 @@
     },
     "has_ci": true,
     "has_tests": true,
-    "readme_len": 90208
-  }
+    "readme_len": 90782
+  },
+  "slow_fetched_at": "2026-11-15T11:21:02.380489536Z",
+  "commits_etag": "\"312f9cd0a7315db4dd8d018c5c0e12ef239f118739c9c7028e638c19da5dbc0c\"",
+  "releases_etag": "\"63f98ffc0cd630c433ffe2f159a939202ff8644a5c3115d47bf26b01017b429e\""
 }

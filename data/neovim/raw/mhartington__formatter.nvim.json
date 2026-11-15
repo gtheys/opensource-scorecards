@@ -1,6 +1,6 @@
 {
   "slug": "mhartington/formatter.nvim",
-  "fetched_at": "2026-11-03T11:33:32.820375129Z",
+  "fetched_at": "2026-11-15T11:21:34.158506905Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -21,5 +21,8 @@
     "has_ci": true,
     "has_tests": true,
     "readme_len": 7607
-  }
+  },
+  "slow_fetched_at": "2026-11-15T11:21:34.158506905Z",
+  "commits_etag": "\"7f7dadecc21873fdfe2887530a68b2c2e1521eed42288f536c135e1eee5d15af\"",
+  "releases_etag": "\"b2f25abdbda1dc8d5f5cc910020310df0fbee8dd1a43e00b2cb71964c3d55db1\""
 }

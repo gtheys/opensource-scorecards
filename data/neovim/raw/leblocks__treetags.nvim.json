@@ -1,0 +1,32 @@
+{
+  "slug": "leblocks/treetags.nvim",
+  "fetched_at": "2026-11-15T11:17:24.172871807Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 1,
+    "forks": 0,
+    "description": "cached locals treesitter query for ctags like experience",
+    "license_spdx": "GPL-3.0",
+    "last_commit_at": "2026-11-12T19:55:52Z",
+    "commits_90d": 94,
+    "releases_365d": 3,
+    "median_issue_close_days": 5.97005787037037,
+    "median_pr_close_days": 0.9722569444444444,
+    "open_issues": 1,
+    "closed_issues_sampled": 5,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "leblocks",
+      "account_created_at": "2017-12-20T17:32:46Z",
+      "other_repos_star_sum": 32
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 14536
+  },
+  "slow_fetched_at": "2026-11-15T11:17:24.172871807Z",
+  "commits_etag": "\"64cb685e8167e2b7b824b48f30cd33efbdb3af5597f270cb18080cfc4504d142\"",
+  "releases_etag": "\"1099d4e27ac074c0b42e29ead146be02d3e80e7fad5e1cbaea56e28bcb47fa07\""
+}

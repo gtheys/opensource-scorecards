@@ -1,6 +1,6 @@
 {
   "slug": "mofiqul/adwaita.nvim",
-  "fetched_at": "2026-11-03T11:35:30.013184697Z",
+  "fetched_at": "2026-11-15T11:23:16.026031312Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": false,
     "has_tests": false,
     "readme_len": 2390
-  }
+  },
+  "slow_fetched_at": "2026-11-15T11:23:16.026031312Z",
+  "commits_etag": "\"cce7a5aa5b3663719a99b349959c7aeeb34f1117c3af27932670e60d3c62bdcb\"",
+  "releases_etag": "\"b2f25abdbda1dc8d5f5cc910020310df0fbee8dd1a43e00b2cb71964c3d55db1\""
 }

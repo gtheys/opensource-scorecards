@@ -1,6 +1,6 @@
 {
   "slug": "drkjeff16/which-colorscheme.nvim",
-  "fetched_at": "2026-11-14T10:38:35.626973172Z",
+  "fetched_at": "2026-11-15T11:05:41.256083800Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "Use which-key.nvim bindings to cycle between colorschemes.",
     "license_spdx": "GPL-2.0",
     "last_commit_at": "2026-11-08T18:53:02Z",
-    "commits_90d": 11,
+    "commits_90d": 10,
     "releases_365d": 10,
     "median_issue_close_days": null,
     "median_pr_close_days": 0.0016666666666666668,
@@ -27,6 +27,6 @@
     "readme_len": 4653
   },
   "slow_fetched_at": "2026-11-13T11:19:29.484738579Z",
-  "commits_etag": "\"12edf9d3bbbf8ff922961df630454b18982b46ab1790e4c3a13086326a1e1aec\"",
-  "releases_etag": "\"d09794d979267d05ed5c243a0ded438de3dde11db09de5ec1c8e881f6fef98d1\""
+  "commits_etag": "\"2551b018bf009db5db019e6aa89affefb96311f60822dc9a4c7f9cb27fa775a3\"",
+  "releases_etag": "\"b45a817e62a1db1e10f14db3ff71bd544fa10b1500fda1179d500cd926c871b9\""
 }

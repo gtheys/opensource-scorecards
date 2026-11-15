@@ -1,6 +1,6 @@
 {
   "slug": "lopi-py/luau-lsp.nvim",
-  "fetched_at": "2026-11-14T10:53:06.307129878Z",
+  "fetched_at": "2026-11-15T11:18:47.375808669Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "A luau-lsp extension to improve your experience in neovim.",
     "license_spdx": "MIT",
     "last_commit_at": "2026-08-17T07:07:43Z",
-    "commits_90d": 5,
+    "commits_90d": 0,
     "releases_365d": 0,
     "median_issue_close_days": 1.5831597222222222,
     "median_pr_close_days": 0.16839699074074074,
@@ -27,6 +27,6 @@
     "readme_len": 8295
   },
   "slow_fetched_at": "2026-11-14T10:53:06.307129878Z",
-  "commits_etag": "\"753e978c3167031f3d2cd03841bdbd4c93906dd97b0333961f9175e907d4ba69\"",
-  "releases_etag": "\"72340ef609fc6d0376ca558b8591f5ebc4b50ed039089d1d507bae7cf93811ee\""
+  "commits_etag": "\"d99cd1547bad5ddf81e7533844021a6eab162fc03141ac35740a32bff027b04d\"",
+  "releases_etag": "\"5adb5c3c20611345c0b4ccc82c0d6a38bde085acdf7cc04cc0dfdfd8cdfd3436\""
 }

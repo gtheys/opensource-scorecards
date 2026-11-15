@@ -1,6 +1,6 @@
 {
   "slug": "linrongbin16/colorbox.nvim",
-  "fetched_at": "2026-11-14T10:52:21.429687821Z",
+  "fetched_at": "2026-11-15T11:18:08.888088449Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -8,13 +8,13 @@
     "forks": 1,
     "description": "Load all the ultra colorschemes into Neovim player!",
     "license_spdx": "MIT",
-    "last_commit_at": "2026-10-21T04:57:37Z",
-    "commits_90d": 2,
+    "last_commit_at": "2026-11-15T08:06:41Z",
+    "commits_90d": 7,
     "releases_365d": 0,
-    "median_issue_close_days": 5.727424768518519,
-    "median_pr_close_days": 0.006082175925925926,
+    "median_issue_close_days": 5.630185185185185,
+    "median_pr_close_days": 0.006423611111111111,
     "open_issues": 1,
-    "closed_issues_sampled": 4,
+    "closed_issues_sampled": 3,
     "contributors_12mo": 1,
     "top_author_commit_share": 1.0,
     "top_author": {
@@ -27,6 +27,6 @@
     "readme_len": 12215
   },
   "slow_fetched_at": "2026-11-14T10:52:21.429687821Z",
-  "commits_etag": "\"ff45333341d434ad15355bf9d59efb5dc318764dd294e3bf65c35e2a029b54b0\"",
-  "releases_etag": "\"d42f15d4a364a5c9af6ab9b4ca0d4e2ea89cb4f68af5172dd068bc929b3e4be7\""
+  "commits_etag": "\"2d000a2f9c559952834d75c2fde978efbd77b6819511469bdd8b146e5e2755f9\"",
+  "releases_etag": "\"d73ae9422f5c37c3dc7b34d9829e041d54a11f2074ded4f50731bcc83d611a37\""
 }

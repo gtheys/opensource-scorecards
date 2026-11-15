@@ -1,6 +1,6 @@
 {
   "slug": "mozanunal/sllm.nvim",
-  "fetched_at": "2026-11-03T11:36:15.068247162Z",
+  "fetched_at": "2026-11-15T11:23:52.124017854Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": true,
     "has_tests": true,
     "readme_len": 3788
-  }
+  },
+  "slow_fetched_at": "2026-11-15T11:23:52.124017854Z",
+  "commits_etag": "\"e3610101f3b226d2dce66a09139f246bbbd2db65f22a3e32923d688bd01a659f\"",
+  "releases_etag": "\"45538363463bad7cb87aca463934024f4ff509992506610ac0ebb6b77affde41\""
 }

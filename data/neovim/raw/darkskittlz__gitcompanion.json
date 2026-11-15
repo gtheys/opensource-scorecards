@@ -1,6 +1,6 @@
 {
   "slug": "darkskittlz/gitcompanion",
-  "fetched_at": "2026-11-14T10:36:44.914826486Z",
+  "fetched_at": "2026-11-15T11:03:51.520136832Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "Git Version Control Tool for NVIM",
     "license_spdx": "MIT",
     "last_commit_at": "2026-11-04T08:06:36Z",
-    "commits_90d": 344,
+    "commits_90d": 338,
     "releases_365d": 1,
     "median_issue_close_days": null,
     "median_pr_close_days": null,
@@ -27,6 +27,6 @@
     "readme_len": 2252
   },
   "slow_fetched_at": "2026-11-13T11:16:27.519249967Z",
-  "commits_etag": "\"2a11bd36673bb178daaabd564363ccc76e18babc1b4a1ad42b1f36fa0e3cd47d\"",
-  "releases_etag": "\"aa1a1dcd1230432697558cbc92beb177b7d338e3fefba0bf640ed4b7901aa0a2\""
+  "commits_etag": "\"ae0ad9fb5028d68075395938d14a72a45f73ae9856d7ec80dc6d27d996554cce\"",
+  "releases_etag": "\"b3a70fcdcfa1479aa8e33dae1766483dcd38d5690b846d47296d2d866dd2affc\""
 }

@@ -1,11 +1,11 @@
 {
   "slug": "ajeetdsouza/zoxide",
-  "fetched_at": "2026-11-14T10:28:15.816011715Z",
+  "fetched_at": "2026-11-15T10:55:40.139851626Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 40588,
-    "forks": 942,
+    "stars": 40597,
+    "forks": 948,
     "description": "A smarter cd command. Supports all major shells.",
     "license_spdx": "MIT",
     "last_commit_at": "2026-11-08T02:51:26Z",
@@ -27,6 +27,6 @@
     "readme_len": 23511
   },
   "slow_fetched_at": "2026-11-13T11:04:05.703725243Z",
-  "commits_etag": "\"ecc59fd59823b4cd611a70e9a2d241d6a3b6f36b0f9fa0fa4154710720207892\"",
-  "releases_etag": "\"5fa93e2dd2dec96ae660db704540d0a2543b1aa1e107b26c2ca71cc968491ca7\""
+  "commits_etag": "\"1f92850fc72ccc1a5321103513b34775d59035be255de3f89866657ff71ad8d7\"",
+  "releases_etag": "\"8ecb8f2767b9dbb7440fc89b000b55790be74202c11d85cc68dded7ec6ffd852\""
 }

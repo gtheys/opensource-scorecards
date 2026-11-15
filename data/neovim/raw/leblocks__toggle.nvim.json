@@ -1,6 +1,6 @@
 {
   "slug": "leblocks/toggle.nvim",
-  "fetched_at": "2026-11-14T10:51:23.325027808Z",
+  "fetched_at": "2026-11-15T11:17:22.841850147Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -8,13 +8,13 @@
     "forks": 0,
     "description": "A Neovim plugin to toggle words under the cursor to their counterpart (e.g., true → false, public → protected → private).",
     "license_spdx": "GPL-3.0",
-    "last_commit_at": "2026-11-14T07:41:52Z",
-    "commits_90d": 4,
-    "releases_365d": 4,
-    "median_issue_close_days": 5.083657407407407,
-    "median_pr_close_days": 0.4989178240740741,
-    "open_issues": 3,
-    "closed_issues_sampled": 6,
+    "last_commit_at": "2026-11-15T07:43:23Z",
+    "commits_90d": 15,
+    "releases_365d": 5,
+    "median_issue_close_days": 5.902372685185185,
+    "median_pr_close_days": 0.9607291666666666,
+    "open_issues": 1,
+    "closed_issues_sampled": 7,
     "contributors_12mo": 1,
     "top_author_commit_share": 1.0,
     "top_author": {
@@ -27,6 +27,6 @@
     "readme_len": 4500
   },
   "slow_fetched_at": "2026-11-14T10:51:23.325027808Z",
-  "commits_etag": "\"bd609bdf83a1eed2b62c161c257e5878b1c979a5b0c9ca97705ce35fd0ca2903\"",
-  "releases_etag": "\"fedaed605bc5382dc35cf9cd91eef8750036efe3388b79977b7148b342de1759\""
+  "commits_etag": "\"739aa1f8cb8bf60bb0cfdf3f0fff4eff64ee1ea58d2ba10dfd94430346197980\"",
+  "releases_etag": "\"9e22d9b9a8ff7ad9a847ac9d615086a47b12ba5c2ae48fc8e753baa47ac80f31\""
 }

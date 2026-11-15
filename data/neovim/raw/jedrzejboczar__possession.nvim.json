@@ -1,10 +1,10 @@
 {
   "slug": "jedrzejboczar/possession.nvim",
-  "fetched_at": "2026-11-14T10:46:20.339564932Z",
+  "fetched_at": "2026-11-15T11:13:20.706617927Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 395,
+    "stars": 394,
     "forks": 21,
     "description": "Flexible session management for Neovim.",
     "license_spdx": "MIT",
@@ -23,6 +23,6 @@
     "readme_len": 10142
   },
   "slow_fetched_at": "2026-11-14T10:46:20.339564932Z",
-  "commits_etag": "\"0039a1fb1ce8f5b5fc26ad44257eb6d0662967e2a9441536b98b5d4402328ad7\"",
-  "releases_etag": "\"a4b28d72845f58c0dd557dfa910cb946dadb31ebd230f7ace2f4bbdb24770e5f\""
+  "commits_etag": "\"316d270be83d325d32c6823a52da97d29ff6d1a7e0b547e2d054f321e6bce50f\"",
+  "releases_etag": "\"b2f25abdbda1dc8d5f5cc910020310df0fbee8dd1a43e00b2cb71964c3d55db1\""
 }

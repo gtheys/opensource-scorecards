@@ -1,10 +1,10 @@
 {
   "slug": "cryptomilk/nightcity.nvim",
-  "fetched_at": "2026-11-14T10:35:47.459386473Z",
+  "fetched_at": "2026-11-15T11:02:54.501321739Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 72,
+    "stars": 71,
     "forks": 2,
     "description": "🏙 Night City - A dark colorscheme for Neovim with LSP support",
     "license_spdx": "Apache-2.0",
@@ -27,6 +27,6 @@
     "readme_len": 6124
   },
   "slow_fetched_at": "2026-11-13T11:14:42.030330510Z",
-  "commits_etag": "\"49ef61dd593ef3eb5486e4edd0320bc9a24cdfc756c39f01fa9734e4f863dc5f\"",
-  "releases_etag": "\"a4b28d72845f58c0dd557dfa910cb946dadb31ebd230f7ace2f4bbdb24770e5f\""
+  "commits_etag": "\"2603c1431a1fc56558c86820217045fb45dd84135279670221079b34d76fb0b1\"",
+  "releases_etag": "\"b2f25abdbda1dc8d5f5cc910020310df0fbee8dd1a43e00b2cb71964c3d55db1\""
 }

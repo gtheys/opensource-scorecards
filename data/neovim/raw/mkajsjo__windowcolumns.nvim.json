@@ -1,6 +1,6 @@
 {
   "slug": "mkajsjo/windowcolumns.nvim",
-  "fetched_at": "2026-11-03T11:35:18.738261757Z",
+  "fetched_at": "2026-11-15T11:23:07.865739612Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -21,5 +21,8 @@
     "has_ci": false,
     "has_tests": false,
     "readme_len": 4283
-  }
+  },
+  "slow_fetched_at": "2026-11-15T11:23:07.865739612Z",
+  "commits_etag": "\"3556ff85625782fa5e09ed4f940b6bba1568525d3acbc9ccc48cdaf5ec2fe9ac\"",
+  "releases_etag": "\"db6e1fc52808160cc4c809a6f6fa6e4ce2f65b7a379a33ce35a4562d58f059c4\""
 }

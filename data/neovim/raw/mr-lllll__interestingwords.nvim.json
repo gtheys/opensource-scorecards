@@ -1,6 +1,6 @@
 {
   "slug": "mr-lllll/interestingwords.nvim",
-  "fetched_at": "2026-11-03T11:36:22.787235073Z",
+  "fetched_at": "2026-11-15T11:23:59.397103627Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -21,5 +21,8 @@
     "has_ci": false,
     "has_tests": false,
     "readme_len": 3162
-  }
+  },
+  "slow_fetched_at": "2026-11-15T11:23:59.397103627Z",
+  "commits_etag": "\"23622e79004fda338adf7eb762b5c8cd048dd70fb8fa2744a8fcdfdc1e367d6a\"",
+  "releases_etag": "\"b2f25abdbda1dc8d5f5cc910020310df0fbee8dd1a43e00b2cb71964c3d55db1\""
 }

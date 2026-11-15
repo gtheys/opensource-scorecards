@@ -1,6 +1,6 @@
 {
   "slug": "krady21/compiler-explorer.nvim",
-  "fetched_at": "2026-11-14T10:50:29.587972182Z",
+  "fetched_at": "2026-11-15T11:16:37.174171441Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -18,15 +18,15 @@
     "contributors_12mo": 2,
     "top_author_commit_share": 0.5,
     "top_author": {
-      "login": "krady21",
-      "account_created_at": "2018-10-09T13:00:38Z",
-      "other_repos_star_sum": 204
+      "login": "TheLazyCat00",
+      "account_created_at": "2023-10-30T11:56:34Z",
+      "other_repos_star_sum": 65
     },
     "has_ci": false,
     "has_tests": false,
     "readme_len": 6286
   },
   "slow_fetched_at": "2026-11-14T10:50:29.587972182Z",
-  "commits_etag": "\"a9620cbe0841240c3340fb94cacba48de39e7306254e57d5c2e8765ecc348028\"",
-  "releases_etag": "\"a4b28d72845f58c0dd557dfa910cb946dadb31ebd230f7ace2f4bbdb24770e5f\""
+  "commits_etag": "\"a686eac825773539b1459ad5054eb8edf3c0e21e62fbcae249c7053f343637f7\"",
+  "releases_etag": "\"b2f25abdbda1dc8d5f5cc910020310df0fbee8dd1a43e00b2cb71964c3d55db1\""
 }

@@ -1,6 +1,6 @@
 {
   "slug": "mr-u0b0dy/crazy-coverage.nvim",
-  "fetched_at": "2026-11-03T11:36:29.205917249Z",
+  "fetched_at": "2026-11-15T11:24:05.389470755Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": true,
     "has_tests": true,
     "readme_len": 6735
-  }
+  },
+  "slow_fetched_at": "2026-11-15T11:24:05.389470755Z",
+  "commits_etag": "\"f7ca6002b4c6c37c098349b7d31d9691df095c6c8683caba4a4a3c338a62d088\"",
+  "releases_etag": "\"99c0533ed05483b6d89b0937d359472218d13a470222d7e46af3cdc9fc22f69d\""
 }

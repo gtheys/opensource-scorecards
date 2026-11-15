@@ -1,10 +1,10 @@
 {
   "slug": "ishan9299/nvim-solarized-lua",
-  "fetched_at": "2026-11-14T10:45:10.343872093Z",
+  "fetched_at": "2026-11-15T11:12:16.341932673Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 209,
+    "stars": 208,
     "forks": 55,
     "description": "solarized colorscheme in lua for nvim 0.5",
     "license_spdx": "MIT",
@@ -23,6 +23,6 @@
     "readme_len": 2725
   },
   "slow_fetched_at": "2026-11-13T11:29:48.335654465Z",
-  "commits_etag": "\"ead45b81a4c8e9d884575e2887314effbb94f08c09f773ad43b8cab353c73440\"",
-  "releases_etag": "\"a4b28d72845f58c0dd557dfa910cb946dadb31ebd230f7ace2f4bbdb24770e5f\""
+  "commits_etag": "\"c8569c7f55999afcdf67f9762cb5f47ca1efba619e6c7eff351b4e5499d3e10b\"",
+  "releases_etag": "\"b2f25abdbda1dc8d5f5cc910020310df0fbee8dd1a43e00b2cb71964c3d55db1\""
 }

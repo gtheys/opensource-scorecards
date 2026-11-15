@@ -1,6 +1,6 @@
 {
   "slug": "chrisgrieser/nvim-pseudometa-plugin-template",
-  "fetched_at": "2026-11-14T10:33:45.634394478Z",
+  "fetched_at": "2026-11-15T11:00:54.489446988Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 1600
   },
   "slow_fetched_at": "2026-11-13T11:11:54.369896892Z",
-  "commits_etag": "\"b75bc540372048d4282368d0dc876b55facd2a6ab093055bbeb7e3eb26649d1d\"",
-  "releases_etag": "\"a4b28d72845f58c0dd557dfa910cb946dadb31ebd230f7ace2f4bbdb24770e5f\""
+  "commits_etag": "\"a99b9a08cc5e20e02b867097507a159c2df99392e704f742dd969cba4abe584c\"",
+  "releases_etag": "\"b2f25abdbda1dc8d5f5cc910020310df0fbee8dd1a43e00b2cb71964c3d55db1\""
 }

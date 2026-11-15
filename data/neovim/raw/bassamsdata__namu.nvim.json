@@ -1,6 +1,6 @@
 {
   "slug": "bassamsdata/namu.nvim",
-  "fetched_at": "2026-11-14T10:31:09.578243401Z",
+  "fetched_at": "2026-11-15T10:58:25.899485818Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -16,7 +16,7 @@
     "open_issues": 5,
     "closed_issues_sampled": 31,
     "contributors_12mo": 4,
-    "top_author_commit_share": 0.7916666666666666,
+    "top_author_commit_share": 0.8,
     "top_author": {
       "login": "bassamsdata",
       "account_created_at": "2022-05-18T15:56:35Z",
@@ -27,6 +27,6 @@
     "readme_len": 10416
   },
   "slow_fetched_at": "2026-11-13T11:08:15.045395683Z",
-  "commits_etag": "\"8c86c58a66f5e76e40198a2d5ddb5f0e0d3b5cb14a9dd765e7c88aeb4aace772\"",
-  "releases_etag": "\"66075e62c1c4454af2647c23528e6515756becf43a86afd2888e5830e7115210\""
+  "commits_etag": "\"a39676dfeb3b56dcb82e21018d1e07815c016e4b12a4d1b02c3ec2ee2980d598\"",
+  "releases_etag": "\"93c924d865aa0e01849cab0d50797ffd1ce82066ecd496f87efb5ec3be0938cb\""
 }

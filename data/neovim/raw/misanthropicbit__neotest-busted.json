@@ -1,6 +1,6 @@
 {
   "slug": "misanthropicbit/neotest-busted",
-  "fetched_at": "2026-11-03T11:34:43.586420791Z",
+  "fetched_at": "2026-11-15T11:22:37.697708582Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": true,
     "has_tests": true,
     "readme_len": 10029
-  }
+  },
+  "slow_fetched_at": "2026-11-15T11:22:37.697708582Z",
+  "commits_etag": "\"9f68c7a4f7359b4c0c469516764c14a187a1c545ead74833a08f43b6f334e575\"",
+  "releases_etag": "\"5da407e5fbd374b8fe88ec2e08a0c0c4d678e9fc28b01ba97f89ee120585b5c2\""
 }

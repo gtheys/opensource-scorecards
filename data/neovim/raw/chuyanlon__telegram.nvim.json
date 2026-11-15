@@ -1,6 +1,6 @@
 {
   "slug": "chuyanlon/telegram.nvim",
-  "fetched_at": "2026-11-14T10:34:31.230294107Z",
+  "fetched_at": "2026-11-15T11:01:37.746185596Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 21333
   },
   "slow_fetched_at": "2026-11-13T11:12:53.678750780Z",
-  "commits_etag": "\"d37a07ee08f47554475efc0aedcc0bb63f823cc33e5ca07d543d6590cb43f475\"",
-  "releases_etag": "\"9d1d852a62023f22faa7448a02084600c97119d431f77e6fcf267ec7b1df5e10\""
+  "commits_etag": "\"de85f55b487c6e01ab47f35390b43b21bbb1b02210d9feddf9d33416f645a166\"",
+  "releases_etag": "\"260d5a057f31566086cb188899cf351e80a24fee9edd3b20249443306f3e76d4\""
 }

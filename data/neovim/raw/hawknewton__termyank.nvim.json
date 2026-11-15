@@ -1,6 +1,6 @@
 {
   "slug": "hawknewton/termyank.nvim",
-  "fetched_at": "2026-11-14T10:43:25.327791140Z",
+  "fetched_at": "2026-11-15T11:10:32.913982591Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 3934
   },
   "slow_fetched_at": "2026-11-13T11:27:12.852543604Z",
-  "commits_etag": "\"34ceb3fc0ad6fe22b88fdc56a03abab82f6edd3ed625653751fe813fa3b3ab45\"",
-  "releases_etag": "\"a4b28d72845f58c0dd557dfa910cb946dadb31ebd230f7ace2f4bbdb24770e5f\""
+  "commits_etag": "\"d7c5e75c712595cb372c9def126f73c8c6c4b2113a3feaecd2a586bdaccb18f3\"",
+  "releases_etag": "\"b2f25abdbda1dc8d5f5cc910020310df0fbee8dd1a43e00b2cb71964c3d55db1\""
 }

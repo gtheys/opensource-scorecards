@@ -1,6 +1,6 @@
 {
   "slug": "mjmjm0101/quickui.nvim",
-  "fetched_at": "2026-11-03T11:35:13.297947369Z",
+  "fetched_at": "2026-11-15T11:23:05.862729618Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": false,
     "has_tests": false,
     "readme_len": 17461
-  }
+  },
+  "slow_fetched_at": "2026-11-15T11:23:05.862729618Z",
+  "commits_etag": "\"c7c2400c531c9d240dc857f80b9fef1252fe61791bcadc793d1287c7f5766a0b\"",
+  "releases_etag": "\"8dad5e00db63b6990dc5f9217ec8aa4ff4928464c0927ee3c44c11de90c3afcb\""
 }

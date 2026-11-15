@@ -1,10 +1,10 @@
 {
   "slug": "mosheavni/yaml-companion.nvim",
-  "fetched_at": "2026-11-03T11:35:58.158789056Z",
+  "fetched_at": "2026-11-15T11:23:41.343435253Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 23,
+    "stars": 24,
     "forks": 2,
     "description": "Get, set and autodetect YAML schemas in your buffers.",
     "license_spdx": "MIT",
@@ -25,5 +25,8 @@
     "has_ci": true,
     "has_tests": true,
     "readme_len": 13465
-  }
+  },
+  "slow_fetched_at": "2026-11-15T11:23:41.343435253Z",
+  "commits_etag": "\"74ed3b27029310275a9912b4e8ccfa06d72035555a582f349a8c871e58a6e649\"",
+  "releases_etag": "\"b2f25abdbda1dc8d5f5cc910020310df0fbee8dd1a43e00b2cb71964c3d55db1\""
 }

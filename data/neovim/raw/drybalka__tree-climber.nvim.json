@@ -1,6 +1,6 @@
 {
   "slug": "drybalka/tree-climber.nvim",
-  "fetched_at": "2026-11-14T10:38:39.797958634Z",
+  "fetched_at": "2026-11-15T11:05:45.207839976Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 3261
   },
   "slow_fetched_at": "2026-11-13T11:19:38.039596491Z",
-  "commits_etag": "\"3513e2aeaec81f6371ddf820466cce8cd6b0675311d51f75b8ad3739d567dbb0\"",
-  "releases_etag": "\"a4b28d72845f58c0dd557dfa910cb946dadb31ebd230f7ace2f4bbdb24770e5f\""
+  "commits_etag": "\"0f340eab624f18a2a4864c3f444e8394dfe8ebfaec0485181cada05faee43c02\"",
+  "releases_etag": "\"b2f25abdbda1dc8d5f5cc910020310df0fbee8dd1a43e00b2cb71964c3d55db1\""
 }

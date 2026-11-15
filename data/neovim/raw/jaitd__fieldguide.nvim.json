@@ -1,6 +1,6 @@
 {
   "slug": "jaitd/fieldguide.nvim",
-  "fetched_at": "2026-11-14T10:45:26.382465200Z",
+  "fetched_at": "2026-11-15T11:12:32.528090689Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 18585
   },
   "slow_fetched_at": "2026-11-13T11:30:14.346681353Z",
-  "commits_etag": "\"396060c39a80f086c174fcba1495029806e00e7e95e5b4935c32a1d97612e0a0\"",
-  "releases_etag": "\"89ee8ba74cfce137b1a6d5f177f313ede7f98cb7e4f55927e2f0ceb907706c24\""
+  "commits_etag": "\"c0cd1ad4d7dc2e15566ef8fd3bf87bc163c69261d21a9dc6f93b5b700813efe3\"",
+  "releases_etag": "\"c8f72dc50074b5f7622461eb98447a4c0155f3e44ab76c47f6d06a78e1646e57\""
 }

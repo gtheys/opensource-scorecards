@@ -1,6 +1,6 @@
 {
   "slug": "gbprod/phpactor.nvim",
-  "fetched_at": "2026-11-14T10:41:54.182760180Z",
+  "fetched_at": "2026-11-15T11:09:01.429899674Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 3582
   },
   "slow_fetched_at": "2026-11-13T11:24:52.221750336Z",
-  "commits_etag": "\"90be97e77b186dfed90dc760cfce524f045db6f28d81c35bcd4b1a2cab66c116\"",
-  "releases_etag": "\"a19ddf8e61738b0db040a1f2d48e854248a096de18dda8cedca48e67411a5229\""
+  "commits_etag": "\"54c285a1b02ed8cde62faffd4f8e1831a13318e0d2b2688e3e04dc7b02e769e8\"",
+  "releases_etag": "\"e1ca290f3e669671a1819245b0a328bcd679ddcc2922170fa5415cbb0de019ae\""
 }

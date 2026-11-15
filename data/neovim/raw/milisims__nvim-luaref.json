@@ -1,6 +1,6 @@
 {
   "slug": "milisims/nvim-luaref",
-  "fetched_at": "2026-11-03T11:34:27.273610028Z",
+  "fetched_at": "2026-11-15T11:22:27.032334572Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -21,5 +21,8 @@
     "has_ci": false,
     "has_tests": false,
     "readme_len": 597
-  }
+  },
+  "slow_fetched_at": "2026-11-15T11:22:27.032334572Z",
+  "commits_etag": "\"5266a93079da0cd6c6ba81e425fc34339028d451272fe110bd8890a68a3f851e\"",
+  "releases_etag": "\"b2f25abdbda1dc8d5f5cc910020310df0fbee8dd1a43e00b2cb71964c3d55db1\""
 }

@@ -1,6 +1,6 @@
 {
   "slug": "maxandron/goplements.nvim",
-  "fetched_at": "2026-11-03T11:32:45.146196503Z",
+  "fetched_at": "2026-11-15T11:20:54.383723025Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -21,5 +21,8 @@
     "has_ci": true,
     "has_tests": true,
     "readme_len": 1916
-  }
+  },
+  "slow_fetched_at": "2026-11-15T11:20:54.383723025Z",
+  "commits_etag": "\"872ea8d27d5dec5496d15dd4696ad378eb1001af6c5b2662dc1d0c444e3956b3\"",
+  "releases_etag": "\"b2f25abdbda1dc8d5f5cc910020310df0fbee8dd1a43e00b2cb71964c3d55db1\""
 }

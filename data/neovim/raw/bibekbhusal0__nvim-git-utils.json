@@ -1,6 +1,6 @@
 {
   "slug": "bibekbhusal0/nvim-git-utils",
-  "fetched_at": "2026-11-14T10:31:41.838288646Z",
+  "fetched_at": "2026-11-15T10:58:56.451659177Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -8,8 +8,8 @@
     "forks": 0,
     "description": "Simple commands to make life easy while working with git.",
     "license_spdx": "MIT",
-    "last_commit_at": "2026-11-01T07:15:28Z",
-    "commits_90d": 1,
+    "last_commit_at": "2026-11-14T12:33:19Z",
+    "commits_90d": 2,
     "releases_365d": 1,
     "median_issue_close_days": null,
     "median_pr_close_days": null,
@@ -27,6 +27,6 @@
     "readme_len": 7336
   },
   "slow_fetched_at": "2026-11-13T11:09:03.438333651Z",
-  "commits_etag": "\"6c0056cf76fcad1eff7980ec31fdd5f809fcfe244526d00379ede166842c14d7\"",
-  "releases_etag": "\"05ad8e9cd4492171a25979d03a3b4794241eab6f1cc380c4fc81d0d716bcad64\""
+  "commits_etag": "\"6d93a9e78ea0233a830c4913cdddae250585a01a5965375da7a5911e9482817b\"",
+  "releases_etag": "\"8cf4c0148faca18879c24336d5281c71e3b5a56bfa96a3dbd754217e72eee7cb\""
 }

@@ -1,6 +1,6 @@
 {
   "slug": "jghauser/auto-pandoc.nvim",
-  "fetched_at": "2026-11-14T10:46:28.175029960Z",
+  "fetched_at": "2026-11-15T11:13:26.392469697Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 2352
   },
   "slow_fetched_at": "2026-11-14T10:46:28.175029960Z",
-  "commits_etag": "\"3d8cb8cd162d52374c6ec042ffe224b360291f88c1ab2959d311e7ceb25df766\"",
-  "releases_etag": "\"a4b28d72845f58c0dd557dfa910cb946dadb31ebd230f7ace2f4bbdb24770e5f\""
+  "commits_etag": "\"f6c83fa26c0306c438184e9b4981f19251486f58e94f0573e5989ae9410254a4\"",
+  "releases_etag": "\"b2f25abdbda1dc8d5f5cc910020310df0fbee8dd1a43e00b2cb71964c3d55db1\""
 }

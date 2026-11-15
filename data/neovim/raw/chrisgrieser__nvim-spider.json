@@ -1,10 +1,10 @@
 {
   "slug": "chrisgrieser/nvim-spider",
-  "fetched_at": "2026-11-14T10:34:03.642733634Z",
+  "fetched_at": "2026-11-15T11:01:10.959543606Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 906,
+    "stars": 907,
     "forks": 18,
     "description": "Use the w, e, b motions like a spider. Move by subwords and skip insignificant punctuation.",
     "license_spdx": "MIT",
@@ -27,6 +27,6 @@
     "readme_len": 11707
   },
   "slow_fetched_at": "2026-11-13T11:12:16.786304331Z",
-  "commits_etag": "\"d24fd4dc7c0b0b077a3339bf51f4842e52e463896bbc0141fc017f9e1f8b4eb7\"",
-  "releases_etag": "\"a4b28d72845f58c0dd557dfa910cb946dadb31ebd230f7ace2f4bbdb24770e5f\""
+  "commits_etag": "\"35d22856f941837736185688f67def3cda6ee246e6732d9d11947032a7a83789\"",
+  "releases_etag": "\"b2f25abdbda1dc8d5f5cc910020310df0fbee8dd1a43e00b2cb71964c3d55db1\""
 }

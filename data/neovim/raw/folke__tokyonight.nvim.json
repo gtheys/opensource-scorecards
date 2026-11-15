@@ -1,10 +1,10 @@
 {
   "slug": "folke/tokyonight.nvim",
-  "fetched_at": "2026-11-14T10:41:15.251262747Z",
+  "fetched_at": "2026-11-15T11:08:21.464523332Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 8254,
+    "stars": 8255,
     "forks": 548,
     "description": "🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.",
     "license_spdx": "Apache-2.0",
@@ -27,6 +27,6 @@
     "readme_len": 21054
   },
   "slow_fetched_at": "2026-11-13T11:23:51.507680486Z",
-  "commits_etag": "\"b27dd08968404179b55412ed82b4d52cae4e6535c8b4488a44216ff3dc5ec4eb\"",
-  "releases_etag": "\"ba93f93813946a34df2c5cc547e6f28edba2df78e3d6a13f16189c465037b2e2\""
+  "commits_etag": "\"555f351b08f889dd395d730402eb25e4ed2f9d56e8630a2ab2e0e39aff7bf7cd\"",
+  "releases_etag": "\"48c77c93c7c1ebf34b1076c736c88edd9ac8fdbb1694f10cc576fb558fed3826\""
 }

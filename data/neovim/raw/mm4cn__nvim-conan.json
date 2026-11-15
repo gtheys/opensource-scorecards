@@ -1,6 +1,6 @@
 {
   "slug": "mm4cn/nvim-conan",
-  "fetched_at": "2026-11-03T11:35:24.088401303Z",
+  "fetched_at": "2026-11-15T11:23:12.524873149Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -8,8 +8,8 @@
     "forks": 1,
     "description": "Conan: C/C++ package manager wrapper written in Lua for Neovim",
     "license_spdx": "MIT",
-    "last_commit_at": "2026-11-02T23:23:02Z",
-    "commits_90d": 24,
+    "last_commit_at": "2026-11-03T22:38:37Z",
+    "commits_90d": 30,
     "releases_365d": 9,
     "median_issue_close_days": 1.7102199074074074,
     "median_pr_close_days": 0.0020833333333333333,
@@ -24,6 +24,9 @@
     },
     "has_ci": true,
     "has_tests": true,
-    "readme_len": 5962
-  }
+    "readme_len": 6655
+  },
+  "slow_fetched_at": "2026-11-15T11:23:12.524873149Z",
+  "commits_etag": "\"8bda6c404f78e8b661964d3523d2020a29d9e9927469e5dd355b898d211c2f5a\"",
+  "releases_etag": "\"e1c62ba6523e732b90dd354335e293107933fb20b3aff3a97d1da91814a67ae2\""
 }

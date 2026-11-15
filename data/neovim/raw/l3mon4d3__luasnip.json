@@ -1,11 +1,11 @@
 {
   "slug": "l3mon4d3/luasnip",
-  "fetched_at": "2026-11-14T10:50:52.408238106Z",
+  "fetched_at": "2026-11-15T11:16:56.420389965Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 4435,
-    "forks": 267,
+    "stars": 4434,
+    "forks": 268,
     "description": "Snippet Engine for Neovim written in Lua.",
     "license_spdx": "Apache-2.0",
     "last_commit_at": "2026-05-19T20:57:46Z",
@@ -27,6 +27,6 @@
     "readme_len": 13009
   },
   "slow_fetched_at": "2026-11-14T10:50:52.408238106Z",
-  "commits_etag": "\"28fc769e07023042df5da46f57f0e2e3c56a5354b92e57e7e185fc6e7e61a8f4\"",
-  "releases_etag": "\"cefadb7d94eea78b16ab6bf424219a4c95f19474668608dcf2c6d7f2f46cde39\""
+  "commits_etag": "\"231a24213d1f8af8e019b9dc3a95ac85cb5078d335db31c9850716e5e66aacf1\"",
+  "releases_etag": "\"dd8d35f9076d54ee398a81d8f6e386b413eeeb6bde3c444d41558b675964f590\""
 }

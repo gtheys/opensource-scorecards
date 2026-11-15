@@ -679,6 +679,7 @@ repos:
   - ldelossa/vimdark
   - leblocks/hopcsharp.nvim
   - leblocks/toggle.nvim
+  - leblocks/treetags.nvim
   - legobeat/l7-devenv
   - leo-alvarenga/homecoming.nvim
   - leo-alvarenga/quoth.nvim
@@ -1383,6 +1384,7 @@ repos:
   - x3ero0/dired.nvim
   - xeluxee/competitest.nvim
   - xero/miasma.nvim
+  - xheisenbugx/org.nvim
   - xiangnongwu2233/rubiks-cube.nvim
   - xiaoshihou514/squirrel.nvim
   - xieyonn/blink-cmp-dat-word

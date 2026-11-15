@@ -1,6 +1,6 @@
 {
   "slug": "konapun/vacuumline.nvim",
-  "fetched_at": "2026-11-14T10:50:19.708919553Z",
+  "fetched_at": "2026-11-15T11:16:31.726159996Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 9421
   },
   "slow_fetched_at": "2026-11-14T10:50:19.708919553Z",
-  "commits_etag": "\"f4f2e6924141abd149da4603b4a0df97c50d5f4588a930fc9c6259e8544bcdad\"",
-  "releases_etag": "\"a4b28d72845f58c0dd557dfa910cb946dadb31ebd230f7ace2f4bbdb24770e5f\""
+  "commits_etag": "\"5bc6d6fde5a08655a4b099d004932b3b41ec04a270d9fb1e38b0604fee7f1cab\"",
+  "releases_etag": "\"b2f25abdbda1dc8d5f5cc910020310df0fbee8dd1a43e00b2cb71964c3d55db1\""
 }

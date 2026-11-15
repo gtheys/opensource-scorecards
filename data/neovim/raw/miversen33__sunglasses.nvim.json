@@ -1,6 +1,6 @@
 {
   "slug": "miversen33/sunglasses.nvim",
-  "fetched_at": "2026-11-03T11:35:05.529008712Z",
+  "fetched_at": "2026-11-15T11:23:01.152916171Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -21,5 +21,8 @@
     "has_ci": false,
     "has_tests": false,
     "readme_len": 15072
-  }
+  },
+  "slow_fetched_at": "2026-11-15T11:23:01.152916171Z",
+  "commits_etag": "\"53039258c31c9e4b8a8df8772399982e19e475b63d4186aa0ef88d73f7309be5\"",
+  "releases_etag": "\"ec531704d5d426e54b71f1130e760e9eb6bcb142fe059adecceb6847fb168f43\""
 }

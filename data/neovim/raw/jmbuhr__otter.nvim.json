@@ -1,6 +1,6 @@
 {
   "slug": "jmbuhr/otter.nvim",
-  "fetched_at": "2026-11-14T10:46:59.572425848Z",
+  "fetched_at": "2026-11-15T11:13:52.994531506Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -13,7 +13,7 @@
     "releases_365d": 11,
     "median_issue_close_days": 9.82335648148148,
     "median_pr_close_days": 0.11413194444444444,
-    "open_issues": 20,
+    "open_issues": 21,
     "closed_issues_sampled": 21,
     "contributors_12mo": 9,
     "top_author_commit_share": 0.4375,
@@ -27,6 +27,6 @@
     "readme_len": 13800
   },
   "slow_fetched_at": "2026-11-14T10:46:59.572425848Z",
-  "commits_etag": "\"91d345309564ca0583c98bf4c3dbf855d2e8b0146df252939e326aadcefc710d\"",
-  "releases_etag": "\"3f56684dbcce1819011905c7aeb96f92ac224a6a02be09f0137b6e85206abe05\""
+  "commits_etag": "\"d259d2e813c0def8d7584883b40e51caf7ff94af4623f5b7966152fb4c654627\"",
+  "releases_etag": "\"e65a4852afa60d2820f62581aa1c95f46f4df997b0b291090bea569d9ac37067\""
 }

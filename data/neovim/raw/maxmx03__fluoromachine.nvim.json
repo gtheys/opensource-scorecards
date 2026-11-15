@@ -1,10 +1,10 @@
 {
   "slug": "maxmx03/fluoromachine.nvim",
-  "fetched_at": "2026-11-03T11:32:46.929011629Z",
+  "fetched_at": "2026-11-15T11:20:56.276293225Z",
   "status": "ok",
   "data": {
     "archived": true,
-    "stars": 315,
+    "stars": 314,
     "forks": 13,
     "description": "Synthwave x Fluoromachine port for Neovim",
     "license_spdx": "MIT",
@@ -21,5 +21,8 @@
     "has_ci": false,
     "has_tests": true,
     "readme_len": 6362
-  }
+  },
+  "slow_fetched_at": "2026-11-15T11:20:56.276293225Z",
+  "commits_etag": "\"29f9a01210743a49012d871848671cbad9f2a5d6aa508ed333d6aeffd7afdc1f\"",
+  "releases_etag": "\"b2f25abdbda1dc8d5f5cc910020310df0fbee8dd1a43e00b2cb71964c3d55db1\""
 }

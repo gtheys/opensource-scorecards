@@ -1,11 +1,11 @@
 {
   "slug": "mofiqul/vscode.nvim",
-  "fetched_at": "2026-11-03T11:35:36.410531890Z",
+  "fetched_at": "2026-11-15T11:23:21.377730050Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 1003,
-    "forks": 140,
+    "stars": 1002,
+    "forks": 139,
     "description": "Neovim/Vim color scheme inspired by Dark+ and Light+ theme in Visual Studio Code",
     "license_spdx": "MIT",
     "last_commit_at": "2026-09-03T05:38:12Z",
@@ -25,5 +25,8 @@
     "has_ci": false,
     "has_tests": false,
     "readme_len": 6872
-  }
+  },
+  "slow_fetched_at": "2026-11-15T11:23:21.377730050Z",
+  "commits_etag": "\"853e0515bea10c047fb8d89e58fc9dfd12c1c7e5f5b2573f9dacf14717a5387b\"",
+  "releases_etag": "\"b2f25abdbda1dc8d5f5cc910020310df0fbee8dd1a43e00b2cb71964c3d55db1\""
 }

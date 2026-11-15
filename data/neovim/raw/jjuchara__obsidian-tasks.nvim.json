@@ -1,6 +1,6 @@
 {
   "slug": "jjuchara/obsidian-tasks.nvim",
-  "fetched_at": "2026-11-14T10:46:50.758176429Z",
+  "fetched_at": "2026-11-15T11:13:46.366693072Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 13149
   },
   "slow_fetched_at": "2026-11-14T10:46:50.758176429Z",
-  "commits_etag": "\"8db9175b56c501dbc5ed6dda5c06b334ba3187e388bbf7323de53d07ce1c3426\"",
-  "releases_etag": "\"498535b4b8ea3212188e33d88efd155a091ad4bd1ee12e2c7b329228fc5d88e8\""
+  "commits_etag": "\"1a51dab4f33d832e9fef13b5b68d4ad83eb86f4bd0ec736df5ad64b5d96d5a6a\"",
+  "releases_etag": "\"dd5c3f38ba7f9089741d3fa978969f319b094f59493a2179c20158dd64992874\""
 }

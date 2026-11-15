@@ -1,22 +1,22 @@
 {
   "slug": "minhyeoky/tmux-oil.nvim",
-  "fetched_at": "2026-11-03T11:34:33.829836042Z",
+  "fetched_at": "2026-11-15T11:22:31.602805078Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 15,
+    "stars": 18,
     "forks": 0,
     "description": "Edit your tmux windows like text.",
     "license_spdx": "MIT",
-    "last_commit_at": "2026-11-02T18:35:11Z",
-    "commits_90d": 75,
+    "last_commit_at": "2026-11-14T05:13:28Z",
+    "commits_90d": 88,
     "releases_365d": 0,
     "median_issue_close_days": null,
-    "median_pr_close_days": 0.02309027777777778,
+    "median_pr_close_days": 0.01810763888888889,
     "open_issues": 0,
     "closed_issues_sampled": 0,
     "contributors_12mo": 2,
-    "top_author_commit_share": 0.7066666666666667,
+    "top_author_commit_share": 0.6931818181818182,
     "top_author": {
       "login": "minhyeoky-ai",
       "account_created_at": "2026-07-15T13:57:47Z",
@@ -24,6 +24,9 @@
     },
     "has_ci": false,
     "has_tests": true,
-    "readme_len": 10846
-  }
+    "readme_len": 11603
+  },
+  "slow_fetched_at": "2026-11-15T11:22:31.602805078Z",
+  "commits_etag": "\"f5779cb5e33f72a31578da295cc1af77031c853707628572ef1cb684b0b955e0\"",
+  "releases_etag": "\"b2f25abdbda1dc8d5f5cc910020310df0fbee8dd1a43e00b2cb71964c3d55db1\""
 }

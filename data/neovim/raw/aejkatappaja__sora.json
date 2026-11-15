@@ -1,15 +1,15 @@
 {
   "slug": "aejkatappaja/sora",
-  "fetched_at": "2026-11-14T10:28:02.644557525Z",
+  "fetched_at": "2026-11-15T10:55:27.716716704Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 77,
+    "stars": 78,
     "forks": 4,
     "description": "空 A deep colorscheme for Neovim. Ethereal cyan, muted accents, near-black canvas.",
     "license_spdx": "MIT",
     "last_commit_at": "2026-08-18T22:11:59Z",
-    "commits_90d": 10,
+    "commits_90d": 4,
     "releases_365d": 10,
     "median_issue_close_days": 13.718217592592591,
     "median_pr_close_days": 0.002824074074074074,
@@ -27,6 +27,6 @@
     "readme_len": 10230
   },
   "slow_fetched_at": "2026-11-13T11:03:46.984184285Z",
-  "commits_etag": "\"d31a50592da829a84130b9c5daefa3f900328f44ce1bb39bd9fc7e1d515e1493\"",
-  "releases_etag": "\"c7b286ba8db924225a64b3a4c7747452d000ef614d86e10fbcb0f77ab273b1d0\""
+  "commits_etag": "\"abdeca55b4d2526a9f6c8ec9b1f310900f3c2b2500fd69b9510ab52ed2694759\"",
+  "releases_etag": "\"5607c9d2ac690cc7be247fccd8b06cd94c1da1eebb17ed70d38f09346b506322\""
 }

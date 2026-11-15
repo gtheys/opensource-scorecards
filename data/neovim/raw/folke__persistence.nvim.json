@@ -1,11 +1,11 @@
 {
   "slug": "folke/persistence.nvim",
-  "fetched_at": "2026-11-14T10:41:03.289296852Z",
+  "fetched_at": "2026-11-15T11:08:10.286786183Z",
   "status": "ok",
   "data": {
     "archived": false,
     "stars": 1014,
-    "forks": 46,
+    "forks": 47,
     "description": "💾  Simple session management for Neovim",
     "license_spdx": "Apache-2.0",
     "last_commit_at": null,
@@ -23,6 +23,6 @@
     "readme_len": 2040
   },
   "slow_fetched_at": "2026-11-13T11:23:36.204437055Z",
-  "commits_etag": "\"8993e813b8111b51bd0f2bb6833526353590298633760d77b8153b736bef8e11\"",
-  "releases_etag": "\"acd90ecadc82530abaa9d6e3216991867b7fe231a7b73252da146237187456d9\""
+  "commits_etag": "\"c39d50b4fb3234d1be311d52899b5e2e224dd064509495e979195aa37ed73040\"",
+  "releases_etag": "\"ac0da706080ea6e00f00ddd898ab60ed579986f2b5b877bf43d44f3ea26d2b70\""
 }

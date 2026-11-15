@@ -1,6 +1,6 @@
 {
   "slug": "max397574/startup.nvim",
-  "fetched_at": "2026-11-03T11:32:42.362839266Z",
+  "fetched_at": "2026-11-15T11:20:51.615975677Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": true,
     "has_tests": false,
     "readme_len": 9931
-  }
+  },
+  "slow_fetched_at": "2026-11-15T11:20:51.615975677Z",
+  "commits_etag": "\"eafd53ca0984106c1e54098af5ffa9190bbd50abce5bcf418c917fccb3d320ec\"",
+  "releases_etag": "\"510f0aa432a04339bad8367af79b695406afc58aa5c613e83e16d12c022c1440\""
 }

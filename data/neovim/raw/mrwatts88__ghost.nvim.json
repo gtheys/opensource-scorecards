@@ -1,10 +1,10 @@
 {
   "slug": "mrwatts88/ghost.nvim",
-  "fetched_at": "2026-11-03T11:37:10.454674274Z",
+  "fetched_at": "2026-11-15T11:24:50.144295179Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 2,
+    "stars": 3,
     "forks": 0,
     "description": "Ask in a comment, get read-only ghost text: the code to type by hand, or short steps. Uses your own keymaps, tmux binds and aliases.",
     "license_spdx": "MIT",
@@ -25,5 +25,8 @@
     "has_ci": false,
     "has_tests": false,
     "readme_len": 9045
-  }
+  },
+  "slow_fetched_at": "2026-11-15T11:24:50.144295179Z",
+  "commits_etag": "\"259239788aa44265d0e587f78ebb738bbe3e654f7fbb097ac2d259d74ee873a6\"",
+  "releases_etag": "\"b2f25abdbda1dc8d5f5cc910020310df0fbee8dd1a43e00b2cb71964c3d55db1\""
 }

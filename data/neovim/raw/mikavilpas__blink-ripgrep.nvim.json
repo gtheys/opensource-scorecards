@@ -1,20 +1,20 @@
 {
   "slug": "mikavilpas/blink-ripgrep.nvim",
-  "fetched_at": "2026-11-03T11:33:51.319495171Z",
+  "fetched_at": "2026-11-15T11:21:56.893324734Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 127,
+    "stars": 128,
     "forks": 9,
     "description": "Ripgrep/gitgrep source for the blink.cmp Neovim completion plugin",
     "license_spdx": "MIT",
-    "last_commit_at": "2026-09-28T13:19:12Z",
-    "commits_90d": 10,
-    "releases_365d": 6,
-    "median_issue_close_days": null,
-    "median_pr_close_days": 0.001736111111111111,
+    "last_commit_at": "2026-11-13T11:27:57Z",
+    "commits_90d": 12,
+    "releases_365d": 7,
+    "median_issue_close_days": 1.1704398148148147,
+    "median_pr_close_days": 0.0017708333333333332,
     "open_issues": 1,
-    "closed_issues_sampled": 0,
+    "closed_issues_sampled": 2,
     "contributors_12mo": 1,
     "top_author_commit_share": 1.0,
     "top_author": {
@@ -24,6 +24,9 @@
     },
     "has_ci": true,
     "has_tests": true,
-    "readme_len": 12893
-  }
+    "readme_len": 13222
+  },
+  "slow_fetched_at": "2026-11-15T11:21:56.893324734Z",
+  "commits_etag": "\"f483ee7df5a553b6e0915dd8ebe2c0bdac76fe6f9230faf5af094989a9a21f73\"",
+  "releases_etag": "\"a255a63297ab81e31c65783d7d6ba594f42d23ef1e1f6eaacd2a7fa9b779ed21\""
 }
