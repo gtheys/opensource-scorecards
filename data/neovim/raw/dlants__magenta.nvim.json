@@ -1,6 +1,6 @@
 {
   "slug": "dlants/magenta.nvim",
-  "fetched_at": "2026-11-15T11:04:36.033557369Z",
+  "fetched_at": "2026-11-16T11:32:12.439131841Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 17979
   },
   "slow_fetched_at": "2026-11-13T11:17:48.069113223Z",
-  "commits_etag": "\"2068c4e69795dc4de34a0bad490364c6c12c446a0c26f48721856fba065b68f6\"",
-  "releases_etag": "\"b2f25abdbda1dc8d5f5cc910020310df0fbee8dd1a43e00b2cb71964c3d55db1\""
+  "commits_etag": "\"f4742de62b3a98a10894f0e60ba6be3a93eaff01ffda84461dac79d3360f7996\"",
+  "releases_etag": "\"bb30f0f36085cc06afa9358b4d6d847ad0c1e1cb504f68a53c1541008efa15fd\""
 }

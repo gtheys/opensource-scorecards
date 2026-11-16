@@ -1,6 +1,6 @@
 {
   "slug": "misanthropicbit/winmove.nvim",
-  "fetched_at": "2026-11-15T11:22:40.036990436Z",
+  "fetched_at": "2026-11-16T11:55:26.849652200Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 13088
   },
   "slow_fetched_at": "2026-11-15T11:22:40.036990436Z",
-  "commits_etag": "\"d660d1360fd8df709d801b0b33fd856d0c3094928a4a8f9202fb35f4a12be207\"",
-  "releases_etag": "\"ffb6e72fc1fc207a4a18f0f88c47d6bda252c6b8bde4c557620220070e2a7714\""
+  "commits_etag": "\"6bfae09dfc09afe844b7affefb7be1dded0a7c7cbd8eb86d3f631bb0755531e7\"",
+  "releases_etag": "\"0ae23a7e77f11d3914fa9401522229b8f633945c739d5763fab41b7275febfb0\""
 }

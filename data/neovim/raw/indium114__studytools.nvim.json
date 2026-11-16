@@ -1,6 +1,6 @@
 {
   "slug": "indium114/studytools.nvim",
-  "fetched_at": "2026-11-15T11:11:50.685800345Z",
+  "fetched_at": "2026-11-16T11:41:55.589152598Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 689
   },
   "slow_fetched_at": "2026-11-13T11:29:10.937303696Z",
-  "commits_etag": "\"f7316e7e5f9f9a9d208e4e6bb79fdda9bd3e712fe784f707aad1b90b9ba00b28\"",
-  "releases_etag": "\"b2f25abdbda1dc8d5f5cc910020310df0fbee8dd1a43e00b2cb71964c3d55db1\""
+  "commits_etag": "\"d3cd679a9df655b1e5756b9f557a5aa3837b407173df8275356242c6d5985036\"",
+  "releases_etag": "\"bb30f0f36085cc06afa9358b4d6d847ad0c1e1cb504f68a53c1541008efa15fd\""
 }

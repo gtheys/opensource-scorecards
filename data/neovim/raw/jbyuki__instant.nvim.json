@@ -1,6 +1,6 @@
 {
   "slug": "jbyuki/instant.nvim",
-  "fetched_at": "2026-11-15T11:13:03.811045079Z",
+  "fetched_at": "2026-11-16T11:43:31.333475003Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 4111
   },
   "slow_fetched_at": "2026-11-14T10:46:01.451610240Z",
-  "commits_etag": "\"a14d9fb491bf0b3a1caff7863c40cb1d92fb5b16c7324f09f3f220be6fa79635\"",
-  "releases_etag": "\"b2f25abdbda1dc8d5f5cc910020310df0fbee8dd1a43e00b2cb71964c3d55db1\""
+  "commits_etag": "\"ac9bcd04c1baad1784a63f88d1e4c157c4b0b45797eff2f09913045e138b0885\"",
+  "releases_etag": "\"bb30f0f36085cc06afa9358b4d6d847ad0c1e1cb504f68a53c1541008efa15fd\""
 }

@@ -1,6 +1,6 @@
 {
   "slug": "kasama/nvim-custom-diagnostic-highlight",
-  "fetched_at": "2026-11-15T11:15:06.471162790Z",
+  "fetched_at": "2026-11-16T11:46:05.198210281Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 3737
   },
   "slow_fetched_at": "2026-11-14T10:48:35.663207566Z",
-  "commits_etag": "\"86bb94bd0dd8cdce8226993610a44b0ed612053de99d0d0928201fc2c6af654e\"",
-  "releases_etag": "\"b2f25abdbda1dc8d5f5cc910020310df0fbee8dd1a43e00b2cb71964c3d55db1\""
+  "commits_etag": "\"de8860f807f86826f8c35bd8b0612c094c1a37f3cf1b896639010399d6413018\"",
+  "releases_etag": "\"bb30f0f36085cc06afa9358b4d6d847ad0c1e1cb504f68a53c1541008efa15fd\""
 }

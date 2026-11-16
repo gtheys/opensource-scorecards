@@ -1,10 +1,10 @@
 {
   "slug": "chrisgrieser/nvim-origami",
-  "fetched_at": "2026-11-15T11:00:51.675531682Z",
+  "fetched_at": "2026-11-16T11:27:25.416583868Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 537,
+    "stars": 536,
     "forks": 16,
     "description": "Fold with relentless elegance. A collection of quality-of-life features related to folding.",
     "license_spdx": "MIT",
@@ -27,6 +27,6 @@
     "readme_len": 6222
   },
   "slow_fetched_at": "2026-11-13T11:11:50.480410895Z",
-  "commits_etag": "\"d7bb6d4f5adcaaf21394d4da742a87545af076cce74a9b621eb202a0fcb0972a\"",
-  "releases_etag": "\"b2f25abdbda1dc8d5f5cc910020310df0fbee8dd1a43e00b2cb71964c3d55db1\""
+  "commits_etag": "\"aaa9fcdb940f0307623e9ead0f7a7e42c7bebd0791d6e62267c1a8fe7538c728\"",
+  "releases_etag": "\"bb30f0f36085cc06afa9358b4d6d847ad0c1e1cb504f68a53c1541008efa15fd\""
 }

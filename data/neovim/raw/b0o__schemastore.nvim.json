@@ -1,15 +1,15 @@
 {
   "slug": "b0o/schemastore.nvim",
-  "fetched_at": "2026-11-15T10:58:05.794728675Z",
+  "fetched_at": "2026-11-16T11:23:39.921101600Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 1048,
+    "stars": 1049,
     "forks": 22,
     "description": "🛍 JSON schemas for Neovim",
     "license_spdx": "Apache-2.0",
     "last_commit_at": "2026-11-14T00:02:27Z",
-    "commits_90d": 93,
+    "commits_90d": 92,
     "releases_365d": 0,
     "median_issue_close_days": 4.31796875,
     "median_pr_close_days": 0.2638946759259259,
@@ -27,6 +27,6 @@
     "readme_len": 4269
   },
   "slow_fetched_at": "2026-11-13T11:07:45.211745931Z",
-  "commits_etag": "\"ddfdba188149a0cecd0d225612b57695c10cf30ffe2f6d20ddd7a63437c15311\"",
-  "releases_etag": "\"b2f25abdbda1dc8d5f5cc910020310df0fbee8dd1a43e00b2cb71964c3d55db1\""
+  "commits_etag": "\"aa75e07d80956108f62e266ca27afedd768c3008efb9781b7f376f7380e5f0d2\"",
+  "releases_etag": "\"bb30f0f36085cc06afa9358b4d6d847ad0c1e1cb504f68a53c1541008efa15fd\""
 }

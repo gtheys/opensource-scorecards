@@ -1,6 +1,6 @@
 {
   "slug": "booperlv/nvim-gomove",
-  "fetched_at": "2026-11-15T10:59:21.863445146Z",
+  "fetched_at": "2026-11-16T11:25:23.025197554Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 6917
   },
   "slow_fetched_at": "2026-11-13T11:09:41.677677692Z",
-  "commits_etag": "\"220006b4ce09c2cd81bc208b6b835c7e7986e4c4202d2d08ffeee89625362930\"",
-  "releases_etag": "\"b2f25abdbda1dc8d5f5cc910020310df0fbee8dd1a43e00b2cb71964c3d55db1\""
+  "commits_etag": "\"90a9dc04a6dceb2a84488cdce4d992673a8ced1833849bf1b928bcf2a4ecac19\"",
+  "releases_etag": "\"bb30f0f36085cc06afa9358b4d6d847ad0c1e1cb504f68a53c1541008efa15fd\""
 }

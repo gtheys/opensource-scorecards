@@ -1,6 +1,6 @@
 {
   "slug": "neolooong/whichpy.nvim",
-  "fetched_at": "2026-11-03T11:38:47.779034855Z",
+  "fetched_at": "2026-11-16T11:59:43.333059143Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": true,
     "has_tests": true,
     "readme_len": 5486
-  }
+  },
+  "slow_fetched_at": "2026-11-16T11:59:43.333059143Z",
+  "commits_etag": "\"19e25c39481544259f7baceae6ce41675e44a71cbda5bd195986fcd07421bf5e\"",
+  "releases_etag": "\"bb30f0f36085cc06afa9358b4d6d847ad0c1e1cb504f68a53c1541008efa15fd\""
 }

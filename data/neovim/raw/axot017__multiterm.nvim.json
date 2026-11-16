@@ -1,6 +1,6 @@
 {
   "slug": "axot017/multiterm.nvim",
-  "fetched_at": "2026-11-15T10:57:46.837094127Z",
+  "fetched_at": "2026-11-16T11:23:14.649634727Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 5465
   },
   "slow_fetched_at": "2026-11-13T11:07:18.891619850Z",
-  "commits_etag": "\"8aa0d8d0b5cebf2b4b13ad3e17bce7ebc47a5852e43cefe63654ca4517969ca4\"",
-  "releases_etag": "\"b2f25abdbda1dc8d5f5cc910020310df0fbee8dd1a43e00b2cb71964c3d55db1\""
+  "commits_etag": "\"8fde733cc632f459470011ac1c49dc3718d0b3ee3a08a01244c3feded29ae305\"",
+  "releases_etag": "\"bb30f0f36085cc06afa9358b4d6d847ad0c1e1cb504f68a53c1541008efa15fd\""
 }

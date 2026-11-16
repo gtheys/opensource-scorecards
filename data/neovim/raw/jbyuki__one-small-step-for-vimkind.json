@@ -1,6 +1,6 @@
 {
   "slug": "jbyuki/one-small-step-for-vimkind",
-  "fetched_at": "2026-11-15T11:13:08.708574662Z",
+  "fetched_at": "2026-11-16T11:43:37.185591475Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -15,18 +15,14 @@
     "median_pr_close_days": 0.1074363425925926,
     "open_issues": 7,
     "closed_issues_sampled": 36,
-    "contributors_12mo": 1,
-    "top_author_commit_share": 1.0,
-    "top_author": {
-      "login": "jbyuki",
-      "account_created_at": "2019-02-04T12:59:48Z",
-      "other_repos_star_sum": 4245
-    },
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
     "has_ci": true,
     "has_tests": true,
     "readme_len": 6819
   },
   "slow_fetched_at": "2026-11-14T10:46:07.136111478Z",
-  "commits_etag": "\"a07b75e1aecaa270523a9ed11725088332e373d44fdcec506ed15110feb23420\"",
-  "releases_etag": "\"b2f25abdbda1dc8d5f5cc910020310df0fbee8dd1a43e00b2cb71964c3d55db1\""
+  "commits_etag": "\"bba8101bd33a01d93c85876c6e3ba139b0df32cabb71699d1960aa6d5b04db6b\"",
+  "releases_etag": "\"bb30f0f36085cc06afa9358b4d6d847ad0c1e1cb504f68a53c1541008efa15fd\""
 }

@@ -1,6 +1,6 @@
 {
   "slug": "imngzx/jisho.nvim",
-  "fetched_at": "2026-11-15T11:11:43.542303220Z",
+  "fetched_at": "2026-11-16T11:41:46.367751503Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "A plugin that helps people learns japanese with using Neovim",
     "license_spdx": "MIT",
     "last_commit_at": "2026-11-13T14:21:14Z",
-    "commits_90d": 23,
+    "commits_90d": 13,
     "releases_365d": 0,
     "median_issue_close_days": null,
     "median_pr_close_days": null,
@@ -27,6 +27,6 @@
     "readme_len": 7661
   },
   "slow_fetched_at": "2026-11-13T11:28:58.702752631Z",
-  "commits_etag": "\"580a706b8c5989be59cf7e02d027bd77eb8cba0b2dcd38426f109a697811be48\"",
-  "releases_etag": "\"b2f25abdbda1dc8d5f5cc910020310df0fbee8dd1a43e00b2cb71964c3d55db1\""
+  "commits_etag": "\"cb2a6bd476f8a41d44a097ccbc94828b1d5ebd453ceed243f0cea1bef26540fb\"",
+  "releases_etag": "\"bb30f0f36085cc06afa9358b4d6d847ad0c1e1cb504f68a53c1541008efa15fd\""
 }

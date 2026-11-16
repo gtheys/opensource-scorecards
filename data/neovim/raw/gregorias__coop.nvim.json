@@ -1,6 +1,6 @@
 {
   "slug": "gregorias/coop.nvim",
-  "fetched_at": "2026-11-15T11:10:00.323098895Z",
+  "fetched_at": "2026-11-16T11:39:21.861618962Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 15894
   },
   "slow_fetched_at": "2026-11-13T11:26:20.949339043Z",
-  "commits_etag": "\"c3527d745d4e7f8d3bb89e492a1ed0cdb9b58a3df8969fc6a050c1dbae0e3040\"",
-  "releases_etag": "\"b2f25abdbda1dc8d5f5cc910020310df0fbee8dd1a43e00b2cb71964c3d55db1\""
+  "commits_etag": "\"af1ca7cc867cae5f869c9437277beca47fcf571e0c2be26910cf67aedb71d371\"",
+  "releases_etag": "\"bb30f0f36085cc06afa9358b4d6d847ad0c1e1cb504f68a53c1541008efa15fd\""
 }

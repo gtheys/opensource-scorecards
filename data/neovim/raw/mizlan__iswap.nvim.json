@@ -1,6 +1,6 @@
 {
   "slug": "mizlan/iswap.nvim",
-  "fetched_at": "2026-11-15T11:23:03.115120893Z",
+  "fetched_at": "2026-11-16T11:55:53.402020920Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 2994
   },
   "slow_fetched_at": "2026-11-15T11:23:03.115120893Z",
-  "commits_etag": "\"c398b0f9e3c4a3fa0dd709e7098730034824604d1e66a220bf1068764038cafe\"",
-  "releases_etag": "\"b2f25abdbda1dc8d5f5cc910020310df0fbee8dd1a43e00b2cb71964c3d55db1\""
+  "commits_etag": "\"079b75061363e6f84df0b326fc3e31230c07f7b27b36be3dda99caff27c76e1c\"",
+  "releases_etag": "\"bb30f0f36085cc06afa9358b4d6d847ad0c1e1cb504f68a53c1541008efa15fd\""
 }

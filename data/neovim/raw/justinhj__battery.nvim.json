@@ -1,10 +1,10 @@
 {
   "slug": "justinhj/battery.nvim",
-  "fetched_at": "2026-11-15T11:14:44.527855602Z",
+  "fetched_at": "2026-11-16T11:45:37.614284005Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 77,
+    "stars": 76,
     "forks": 12,
     "description": "Neovim plugin to detect and view battery information",
     "license_spdx": "MIT",
@@ -27,6 +27,6 @@
     "readme_len": 8691
   },
   "slow_fetched_at": "2026-11-14T10:48:06.333116198Z",
-  "commits_etag": "\"bd99f1fe4a8c34aa4f05b42b9ac6e390f404a0eb5316db3d1084e0e13b062151\"",
-  "releases_etag": "\"106a15a8c70abc6e43d7f0c2b03554b396590297a5ec18c74fe5c6fd8a272e75\""
+  "commits_etag": "\"e64a7093c77a6157633f58a283458ab78233fd8e2c8248edb0e6e1b8bc366522\"",
+  "releases_etag": "\"1745ece707d36f7742e90dfc4d2ec028e39fd89855ffc74ac6d8582bcb002975\""
 }

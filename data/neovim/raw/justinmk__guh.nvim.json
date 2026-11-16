@@ -1,22 +1,22 @@
 {
   "slug": "justinmk/guh.nvim",
-  "fetched_at": "2026-11-15T11:14:46.480356620Z",
+  "fetched_at": "2026-11-16T11:45:40.151803931Z",
   "status": "ok",
   "data": {
     "archived": false,
     "stars": 258,
-    "forks": 12,
+    "forks": 13,
     "description": "Work with GitHub in Neovim 🌊",
     "license_spdx": "MIT",
-    "last_commit_at": "2026-11-10T16:50:13Z",
-    "commits_90d": 9,
+    "last_commit_at": "2026-11-15T17:39:18Z",
+    "commits_90d": 10,
     "releases_365d": 0,
     "median_issue_close_days": 7.89396412037037,
-    "median_pr_close_days": 0.012280092592592592,
+    "median_pr_close_days": 0.012436342592592593,
     "open_issues": 21,
     "closed_issues_sampled": 12,
-    "contributors_12mo": 4,
-    "top_author_commit_share": 0.985663082437276,
+    "contributors_12mo": 5,
+    "top_author_commit_share": 0.9821428571428571,
     "top_author": {
       "login": "justinmk",
       "account_created_at": "2012-01-20T17:37:03Z",
@@ -27,6 +27,6 @@
     "readme_len": 2870
   },
   "slow_fetched_at": "2026-11-14T10:48:08.872733633Z",
-  "commits_etag": "\"1fc5e1a1231f45158e99d54ff1d54be28a4efbdb090cdc83d30bd5f42f86dedb\"",
-  "releases_etag": "\"3a592e10e3dde3dc34c6d2d4cb3529037cfab1c0e785fc79005e155aebb7cfbb\""
+  "commits_etag": "\"6ad55583f4030f9ae3a2ef6bc99f0e8c9539394e71f93477d50bc8d7b01f5889\"",
+  "releases_etag": "\"51fc0e753c576a694f918cb0b84f27aedbaf1e1e24b8642057f0e66472e0c3ce\""
 }

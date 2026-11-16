@@ -1,6 +1,6 @@
 {
   "slug": "erl-koenig/theme-hub.nvim",
-  "fetched_at": "2026-11-15T11:06:39.765837432Z",
+  "fetched_at": "2026-11-16T11:34:56.743645492Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 4454
   },
   "slow_fetched_at": "2026-11-13T11:21:12.862960592Z",
-  "commits_etag": "\"6ab01e4270d2b567bb281d7c10128b0e12b889e3a85725f90a309de561ed24ec\"",
-  "releases_etag": "\"b2f25abdbda1dc8d5f5cc910020310df0fbee8dd1a43e00b2cb71964c3d55db1\""
+  "commits_etag": "\"91af6d3038b1f834380399562c207eb9091c050cd62a2cd952ab3f8a529e308a\"",
+  "releases_etag": "\"bb30f0f36085cc06afa9358b4d6d847ad0c1e1cb504f68a53c1541008efa15fd\""
 }

@@ -350,7 +350,7 @@ repos:
   - dstein64/nvim-scrollview
   - dtormoen/neural-open.nvim
   - duane9/nvim-rg
-  - dybdeskarphet/gruvbox-minimal.nvim
+  - dybdeskarphet/min.nvim
   - dzfrias/arena.nvim
   - eandrju/cellular-automaton.nvim
   - echaya/neowiki.nvim
@@ -1333,6 +1333,7 @@ repos:
   - vijaymarupudi/nvim-fzf
   - vim-airline/vim-airline
   - vodchella/hodur.nvim
+  - vshulcz/deja-vu
   - vuki656/package-info.nvim
   - vxpm/ferris.nvim
   - vyfor/cord.nvim

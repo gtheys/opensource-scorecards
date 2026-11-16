@@ -1,6 +1,6 @@
 {
   "slug": "debugloop/telescope-undo.nvim",
-  "fetched_at": "2026-11-15T11:04:15.139124876Z",
+  "fetched_at": "2026-11-16T11:31:46.064871706Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 8290
   },
   "slow_fetched_at": "2026-11-13T11:17:10.435304754Z",
-  "commits_etag": "\"043dabdcaf0fba38ee74461cb70c1aac78ffeadee7f2707b4c5ed763c7f97cad\"",
-  "releases_etag": "\"b2f25abdbda1dc8d5f5cc910020310df0fbee8dd1a43e00b2cb71964c3d55db1\""
+  "commits_etag": "\"816f34476c3183ff58042ed9be402cb4873123e5db1453017fdb3e131d43d537\"",
+  "releases_etag": "\"bb30f0f36085cc06afa9358b4d6d847ad0c1e1cb504f68a53c1541008efa15fd\""
 }

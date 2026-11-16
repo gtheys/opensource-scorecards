@@ -1,6 +1,6 @@
 {
   "slug": "crispgm/nvim-tabline",
-  "fetched_at": "2026-11-15T11:02:38.148619995Z",
+  "fetched_at": "2026-11-16T11:29:40.532642795Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 2173
   },
   "slow_fetched_at": "2026-11-13T11:14:18.262498273Z",
-  "commits_etag": "\"bc3a39ebd8aa0a61b0df9c2db97ae5f1cecd859238ad4be91c8e33d1618d695b\"",
-  "releases_etag": "\"b2f25abdbda1dc8d5f5cc910020310df0fbee8dd1a43e00b2cb71964c3d55db1\""
+  "commits_etag": "\"5a20374b10dfbd9653f6b8ea950245d35be35891b9f19d23252dec1564ffd319\"",
+  "releases_etag": "\"bb30f0f36085cc06afa9358b4d6d847ad0c1e1cb504f68a53c1541008efa15fd\""
 }

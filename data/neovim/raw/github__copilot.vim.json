@@ -1,6 +1,6 @@
 {
   "slug": "github/copilot.vim",
-  "fetched_at": "2026-11-15T11:09:45.693076616Z",
+  "fetched_at": "2026-11-16T11:39:02.087538510Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 2292
   },
   "slow_fetched_at": "2026-11-13T11:25:57.611865050Z",
-  "commits_etag": "\"1471c7cf1d23cb30d74e727a28e5db935d657a031baf0f521e6fa118db252a57\"",
-  "releases_etag": "\"b2f25abdbda1dc8d5f5cc910020310df0fbee8dd1a43e00b2cb71964c3d55db1\""
+  "commits_etag": "\"4aeb6dce4054235524f1a36c01e8c035932133f27cc959e6fd6ef6b9303e02cb\"",
+  "releases_etag": "\"bb30f0f36085cc06afa9358b4d6d847ad0c1e1cb504f68a53c1541008efa15fd\""
 }

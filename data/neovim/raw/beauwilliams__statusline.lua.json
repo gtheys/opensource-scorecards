@@ -1,6 +1,6 @@
 {
   "slug": "beauwilliams/statusline.lua",
-  "fetched_at": "2026-11-15T10:58:36.148620784Z",
+  "fetched_at": "2026-11-16T11:24:19.537716299Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 5227
   },
   "slow_fetched_at": "2026-11-13T11:08:28.696839122Z",
-  "commits_etag": "\"cb7a92ceb5088c68472a01df9a60e9752600d100678762321f7d2863f0cdfc2c\"",
-  "releases_etag": "\"b2f25abdbda1dc8d5f5cc910020310df0fbee8dd1a43e00b2cb71964c3d55db1\""
+  "commits_etag": "\"fe062d87c3bb38268a8a390acf2eb0f8f829242a0bd1016a63f1c9c7fc6a6a11\"",
+  "releases_etag": "\"bb30f0f36085cc06afa9358b4d6d847ad0c1e1cb504f68a53c1541008efa15fd\""
 }

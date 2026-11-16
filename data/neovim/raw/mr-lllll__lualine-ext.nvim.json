@@ -1,6 +1,6 @@
 {
   "slug": "mr-lllll/lualine-ext.nvim",
-  "fetched_at": "2026-11-15T11:24:01.696426552Z",
+  "fetched_at": "2026-11-16T11:56:51.982547101Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 3377
   },
   "slow_fetched_at": "2026-11-15T11:24:01.696426552Z",
-  "commits_etag": "\"590c9c3c847078db2240ee440b4a35d8b7ac873957efb385299e029fd0cba980\"",
-  "releases_etag": "\"b2f25abdbda1dc8d5f5cc910020310df0fbee8dd1a43e00b2cb71964c3d55db1\""
+  "commits_etag": "\"7efba5d0c7cdeff1029443262fdb2f420d03177d2ef0b158614225e3050269d6\"",
+  "releases_etag": "\"bb30f0f36085cc06afa9358b4d6d847ad0c1e1cb504f68a53c1541008efa15fd\""
 }

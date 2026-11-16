@@ -1,6 +1,6 @@
 {
   "slug": "mawkler/demicolon.nvim",
-  "fetched_at": "2026-11-15T11:20:39.057229201Z",
+  "fetched_at": "2026-11-16T11:53:15.817779300Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 11820
   },
   "slow_fetched_at": "2026-11-14T10:55:23.998203652Z",
-  "commits_etag": "\"7493b3f6cba3e893925307969df528dd56552c86eb3ed1a0126a35888c388b23\"",
-  "releases_etag": "\"b2f25abdbda1dc8d5f5cc910020310df0fbee8dd1a43e00b2cb71964c3d55db1\""
+  "commits_etag": "\"32dfe02bc9c233f9289d01de5be743d77fadba788a3fd1603a61ba92b1d48daa\"",
+  "releases_etag": "\"bb30f0f36085cc06afa9358b4d6d847ad0c1e1cb504f68a53c1541008efa15fd\""
 }

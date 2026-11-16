@@ -1,6 +1,6 @@
 {
   "slug": "bennypowers/splitjoin.nvim",
-  "fetched_at": "2026-11-15T10:58:48.006332670Z",
+  "fetched_at": "2026-11-16T11:24:36.651423340Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 6066
   },
   "slow_fetched_at": "2026-11-13T11:08:46.602210046Z",
-  "commits_etag": "\"372e97100452f8848b5f4289b87042734dc1010b4e831beceb6ccd3f77d8c466\"",
-  "releases_etag": "\"cf8372c2d74783babd6e8b95fca3f43ecb23e3cddde454b8617be9f2b69238fe\""
+  "commits_etag": "\"d7ca964c3b252b46a2c69ae530c8908aa85ed7e4ca33991bbd6d4ef83da4a0f3\"",
+  "releases_etag": "\"c0f08cecaae31f1407912a9a9614e62f4a54288096d493d143def2b86a867be8\""
 }

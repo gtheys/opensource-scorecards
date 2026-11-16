@@ -1,6 +1,6 @@
 {
   "slug": "gsuuon/model.nvim",
-  "fetched_at": "2026-11-15T11:10:03.514570872Z",
+  "fetched_at": "2026-11-16T11:39:25.738601898Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 36333
   },
   "slow_fetched_at": "2026-11-13T11:26:25.795067693Z",
-  "commits_etag": "\"fa763427e482ccc5e2a5ec42224d2a83f33a7f0c298fdfe1f2f947eded9edfb5\"",
-  "releases_etag": "\"b2f25abdbda1dc8d5f5cc910020310df0fbee8dd1a43e00b2cb71964c3d55db1\""
+  "commits_etag": "\"581b88734f5830a8f26cf79bd9c8f9d5372f6c82c23d33865ddbda7704a546da\"",
+  "releases_etag": "\"bb30f0f36085cc06afa9358b4d6d847ad0c1e1cb504f68a53c1541008efa15fd\""
 }

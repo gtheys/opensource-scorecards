@@ -1,10 +1,10 @@
 {
   "slug": "honamduong/hybrid.nvim",
-  "fetched_at": "2026-11-15T11:11:00.385239496Z",
+  "fetched_at": "2026-11-16T11:40:36.562948423Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 165,
+    "stars": 164,
     "forks": 9,
     "description": "A dark Neovim theme written in Lua",
     "license_spdx": "MIT",
@@ -27,6 +27,6 @@
     "readme_len": 2437
   },
   "slow_fetched_at": "2026-11-13T11:27:53.372187711Z",
-  "commits_etag": "\"6c49270f4ead3d4a98d7c9f19e56273ddbecfe0116a18fe1bbfb374842c4bce4\"",
-  "releases_etag": "\"b2f25abdbda1dc8d5f5cc910020310df0fbee8dd1a43e00b2cb71964c3d55db1\""
+  "commits_etag": "\"ebdb4930ee57c42a18a082e82024f12cc82e0318560713e99fabb37fbd87a575\"",
+  "releases_etag": "\"bb30f0f36085cc06afa9358b4d6d847ad0c1e1cb504f68a53c1541008efa15fd\""
 }

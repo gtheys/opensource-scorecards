@@ -1,6 +1,6 @@
 {
   "slug": "chrisgve/databox.nvim",
-  "fetched_at": "2026-11-15T11:01:24.170374997Z",
+  "fetched_at": "2026-11-16T11:28:07.426940333Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 13267
   },
   "slow_fetched_at": "2026-11-13T11:12:33.108055002Z",
-  "commits_etag": "\"c4ac1da0997a2988ba1133d8fdb15c134ac0e895a5ced6867b6069798408ab6e\"",
-  "releases_etag": "\"b2f25abdbda1dc8d5f5cc910020310df0fbee8dd1a43e00b2cb71964c3d55db1\""
+  "commits_etag": "\"1c329fdde8fa66c7697b3d37a201ce8ad94eb59a7ff816fa9693537d0a7690c9\"",
+  "releases_etag": "\"bb30f0f36085cc06afa9358b4d6d847ad0c1e1cb504f68a53c1541008efa15fd\""
 }

@@ -1,6 +1,6 @@
 {
   "slug": "metalelf0/jellybeans-nvim",
-  "fetched_at": "2026-11-15T11:21:15.887333735Z",
+  "fetched_at": "2026-11-16T11:53:56.543277330Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 1244
   },
   "slow_fetched_at": "2026-11-15T11:21:15.887333735Z",
-  "commits_etag": "\"ef1b0e6499dcae96259033586b311fa03c81ec3350a66dfe49d8ef4125f88ee3\"",
-  "releases_etag": "\"b2f25abdbda1dc8d5f5cc910020310df0fbee8dd1a43e00b2cb71964c3d55db1\""
+  "commits_etag": "\"ce9fe3c343c5b0ea4352eac64fb64fa696d622923f46b9556bbaede1ef54acb7\"",
+  "releases_etag": "\"bb30f0f36085cc06afa9358b4d6d847ad0c1e1cb504f68a53c1541008efa15fd\""
 }

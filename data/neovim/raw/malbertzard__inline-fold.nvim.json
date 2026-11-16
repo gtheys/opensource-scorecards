@@ -1,6 +1,6 @@
 {
   "slug": "malbertzard/inline-fold.nvim",
-  "fetched_at": "2026-11-15T11:20:07.245710125Z",
+  "fetched_at": "2026-11-16T11:52:36.079168145Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 1816
   },
   "slow_fetched_at": "2026-11-14T10:54:43.285364229Z",
-  "commits_etag": "\"5857b70647ec4f6ec4b592ed1597fc235c3b41a7c72c9f8dcc92ad90483182cb\"",
-  "releases_etag": "\"b2f25abdbda1dc8d5f5cc910020310df0fbee8dd1a43e00b2cb71964c3d55db1\""
+  "commits_etag": "\"9ba5f18cf87005b2e2105e23982e34681c1255e6edcf5d240a6271beafa421c0\"",
+  "releases_etag": "\"bb30f0f36085cc06afa9358b4d6d847ad0c1e1cb504f68a53c1541008efa15fd\""
 }

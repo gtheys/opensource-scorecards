@@ -1,6 +1,6 @@
 {
   "slug": "jpwol/thorn.nvim",
-  "fetched_at": "2026-11-15T11:14:14.156538399Z",
+  "fetched_at": "2026-11-16T11:44:57.850776627Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 10162
   },
   "slow_fetched_at": "2026-11-14T10:47:27.030587387Z",
-  "commits_etag": "\"2175de7441461fa8f15082bcc18dc7a8f4dd8135b5eeeef480d2ca00895aea20\"",
-  "releases_etag": "\"87fbd1da41aa6b55a906576169ed6a0bcf9dd6096fd33cc0864e59ef717cef01\""
+  "commits_etag": "\"449c05d215566f83b76e463381b12406e010589b4727d8431b9e67d807ab34d8\"",
+  "releases_etag": "\"0bc46b925f32419067d9f799ad338f90a91f8ef170294f061a2becda7efc77b3\""
 }

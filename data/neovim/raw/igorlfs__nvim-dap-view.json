@@ -1,6 +1,6 @@
 {
   "slug": "igorlfs/nvim-dap-view",
-  "fetched_at": "2026-11-15T11:11:37.569437528Z",
+  "fetched_at": "2026-11-16T11:41:37.344048325Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 2729
   },
   "slow_fetched_at": "2026-11-13T11:28:49.555930390Z",
-  "commits_etag": "\"ac7aa2df9cb3d4bc340b863158d1dd6a4cdd3533ace7571d67638f186d52796e\"",
-  "releases_etag": "\"9c2761582e2886f73643c8858f6767179c6a7bbcb8dc05ab78b7085d9bd6600f\""
+  "commits_etag": "\"f552370cef8845b2aea1b16466f2bb084e6e3df0709c98110e45ce800ea5a281\"",
+  "releases_etag": "\"80844ebf2c12bac32ab955519029385a982c1543f31f1de5e1464cf78113d9cb\""
 }

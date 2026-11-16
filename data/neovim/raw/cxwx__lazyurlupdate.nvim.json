@@ -1,6 +1,6 @@
 {
   "slug": "cxwx/lazyurlupdate.nvim",
-  "fetched_at": "2026-11-15T11:03:23.369555540Z",
+  "fetched_at": "2026-11-16T11:30:38.584636620Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 1434
   },
   "slow_fetched_at": "2026-11-13T11:15:35.136972625Z",
-  "commits_etag": "\"8441749faa3921e0522644393e831961165fab67bbc62ed2b10178fdf4cfbeff\"",
-  "releases_etag": "\"b2f25abdbda1dc8d5f5cc910020310df0fbee8dd1a43e00b2cb71964c3d55db1\""
+  "commits_etag": "\"8fbe6e76895cae92581d5eafa0c3b0be4b4f02f0efd824ec01afaeadbc7538dc\"",
+  "releases_etag": "\"bb30f0f36085cc06afa9358b4d6d847ad0c1e1cb504f68a53c1541008efa15fd\""
 }

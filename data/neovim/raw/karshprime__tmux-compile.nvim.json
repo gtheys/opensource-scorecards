@@ -1,6 +1,6 @@
 {
   "slug": "karshprime/tmux-compile.nvim",
-  "fetched_at": "2026-11-15T11:15:05.504614721Z",
+  "fetched_at": "2026-11-16T11:46:03.905923577Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 419
   },
   "slow_fetched_at": "2026-11-14T10:48:34.141997175Z",
-  "commits_etag": "\"2edf94b2cab5dc81f161cf4cb2ee841519f458becb599f0961c0909388825fa0\"",
-  "releases_etag": "\"b2f25abdbda1dc8d5f5cc910020310df0fbee8dd1a43e00b2cb71964c3d55db1\""
+  "commits_etag": "\"5df22a3d63a902c550720b649f77e98c14fd9f4f87fb5e31772e5fcceb529661\"",
+  "releases_etag": "\"bb30f0f36085cc06afa9358b4d6d847ad0c1e1cb504f68a53c1541008efa15fd\""
 }

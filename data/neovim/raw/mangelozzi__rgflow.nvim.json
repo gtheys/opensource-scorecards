@@ -1,6 +1,6 @@
 {
   "slug": "mangelozzi/rgflow.nvim",
-  "fetched_at": "2026-11-15T11:20:08.583352331Z",
+  "fetched_at": "2026-11-16T11:52:37.542077128Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 16485
   },
   "slow_fetched_at": "2026-11-14T10:54:45.040094521Z",
-  "commits_etag": "\"51e4b8f2321c59292193d783fa4003946ee14f595d2d64dff749d05654d19617\"",
-  "releases_etag": "\"b2f25abdbda1dc8d5f5cc910020310df0fbee8dd1a43e00b2cb71964c3d55db1\""
+  "commits_etag": "\"5bbe4f2c26bc6dd17bb34c46e64704bb90ab10e88e75d256ad71bef3c17de930\"",
+  "releases_etag": "\"bb30f0f36085cc06afa9358b4d6d847ad0c1e1cb504f68a53c1541008efa15fd\""
 }

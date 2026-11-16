@@ -1,6 +1,6 @@
 {
   "slug": "hdoc1509/gh-actions.nvim",
-  "fetched_at": "2026-11-15T11:10:33.882484640Z",
+  "fetched_at": "2026-11-16T11:40:03.628596045Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 9171
   },
   "slow_fetched_at": "2026-11-13T11:27:14.734565679Z",
-  "commits_etag": "\"84e197314ec99318fd72693ab6dd736a981d3b2950ec9333f84d829129434b9a\"",
-  "releases_etag": "\"731ec524b22a2ed18fd4a87fbf0bdf97c48587a2db15b4175d76f2cdad682dd5\""
+  "commits_etag": "\"4822bac593b029c094272e55f6ddc075e031ea269856b1484fb8208a257e1700\"",
+  "releases_etag": "\"27619910fb4b70c1e9137998e0958cbc21ad64cb33bbbd34a25209c2320b62d2\""
 }

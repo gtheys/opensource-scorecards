@@ -1,6 +1,6 @@
 {
   "slug": "mgalliou/blink-cmp-tmux",
-  "fetched_at": "2026-11-15T11:21:32.584929305Z",
+  "fetched_at": "2026-11-16T11:54:15.371212083Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 2062
   },
   "slow_fetched_at": "2026-11-15T11:21:32.584929305Z",
-  "commits_etag": "\"16fd392e74e028ddb78d427cc11b8a734b48e82835db0f174020538db4760ded\"",
-  "releases_etag": "\"b2f25abdbda1dc8d5f5cc910020310df0fbee8dd1a43e00b2cb71964c3d55db1\""
+  "commits_etag": "\"add24d93ba2484b515510b0b0f782e576be4954aab383b85788076794161b2c8\"",
+  "releases_etag": "\"bb30f0f36085cc06afa9358b4d6d847ad0c1e1cb504f68a53c1541008efa15fd\""
 }

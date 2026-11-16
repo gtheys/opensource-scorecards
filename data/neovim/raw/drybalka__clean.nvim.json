@@ -1,6 +1,6 @@
 {
   "slug": "drybalka/clean.nvim",
-  "fetched_at": "2026-11-15T11:05:44.177520410Z",
+  "fetched_at": "2026-11-16T11:33:35.836370240Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 2908
   },
   "slow_fetched_at": "2026-11-13T11:19:35.588481946Z",
-  "commits_etag": "\"b12bbba109ba30ddb0920dcc4b9263d1e01fd0f46efed5926418bf9859c63755\"",
-  "releases_etag": "\"b2f25abdbda1dc8d5f5cc910020310df0fbee8dd1a43e00b2cb71964c3d55db1\""
+  "commits_etag": "\"916e29fe27550697032d69646f6699056377a2306ffb319a9b1c80d7b3bdc6bd\"",
+  "releases_etag": "\"bb30f0f36085cc06afa9358b4d6d847ad0c1e1cb504f68a53c1541008efa15fd\""
 }

@@ -1,6 +1,6 @@
 {
   "slug": "georgeharker/comment-tasks.nvim",
-  "fetched_at": "2026-11-15T11:09:21.252421178Z",
+  "fetched_at": "2026-11-16T11:38:29.222702705Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 11415
   },
   "slow_fetched_at": "2026-11-13T11:25:21.654449642Z",
-  "commits_etag": "\"82f2d7ba72449588564d0fd85429b4fd8bd38ab585d759c350da94f87441df8a\"",
-  "releases_etag": "\"b2f25abdbda1dc8d5f5cc910020310df0fbee8dd1a43e00b2cb71964c3d55db1\""
+  "commits_etag": "\"bb9e5c99cc44b25d4eeb330505ab53256fb5e09bdd3d74760f9e399bbbf84539\"",
+  "releases_etag": "\"bb30f0f36085cc06afa9358b4d6d847ad0c1e1cb504f68a53c1541008efa15fd\""
 }

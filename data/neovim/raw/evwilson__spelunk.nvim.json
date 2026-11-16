@@ -1,6 +1,6 @@
 {
   "slug": "evwilson/spelunk.nvim",
-  "fetched_at": "2026-11-15T11:07:02.804930691Z",
+  "fetched_at": "2026-11-16T11:35:26.669107913Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 6572
   },
   "slow_fetched_at": "2026-11-13T11:21:52.467343997Z",
-  "commits_etag": "\"6cae597c1d55caf8140528e90d4e3f32148ea41e564bcf23ed408c25d97bbd5d\"",
-  "releases_etag": "\"b2f25abdbda1dc8d5f5cc910020310df0fbee8dd1a43e00b2cb71964c3d55db1\""
+  "commits_etag": "\"228c518e1004f88015d30929006335a7348d1fd2fb111284a4a2c441c955ad4b\"",
+  "releases_etag": "\"bb30f0f36085cc06afa9358b4d6d847ad0c1e1cb504f68a53c1541008efa15fd\""
 }

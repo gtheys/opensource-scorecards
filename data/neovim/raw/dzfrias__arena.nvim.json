@@ -1,6 +1,6 @@
 {
   "slug": "dzfrias/arena.nvim",
-  "fetched_at": "2026-11-15T11:05:58.723540140Z",
+  "fetched_at": "2026-11-16T11:34:01.996556932Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 4800
   },
   "slow_fetched_at": "2026-11-13T11:20:01.367675680Z",
-  "commits_etag": "\"3f094e63176bdd46368a1b702633138881c627aec30aeb654b4396c369d8de68\"",
-  "releases_etag": "\"b2f25abdbda1dc8d5f5cc910020310df0fbee8dd1a43e00b2cb71964c3d55db1\""
+  "commits_etag": "\"a2d6509a3b6c957656a81c2f32a486355baf0c8f4e7d5d37b0ffdcd62034745d\"",
+  "releases_etag": "\"bb30f0f36085cc06afa9358b4d6d847ad0c1e1cb504f68a53c1541008efa15fd\""
 }

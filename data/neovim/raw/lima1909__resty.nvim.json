@@ -1,6 +1,6 @@
 {
   "slug": "lima1909/resty.nvim",
-  "fetched_at": "2026-11-15T11:18:06.498819174Z",
+  "fetched_at": "2026-11-16T11:49:50.726748520Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 8234
   },
   "slow_fetched_at": "2026-11-14T10:52:18.596030637Z",
-  "commits_etag": "\"5f3dfb515d558b95da4e628cc2d38713026dd7d804a5775957f351304a1e4b56\"",
-  "releases_etag": "\"b2f25abdbda1dc8d5f5cc910020310df0fbee8dd1a43e00b2cb71964c3d55db1\""
+  "commits_etag": "\"ebba7cda0e929b4c1d8a97abe6e7725a85560b536b0692ac34908957ac3531e3\"",
+  "releases_etag": "\"bb30f0f36085cc06afa9358b4d6d847ad0c1e1cb504f68a53c1541008efa15fd\""
 }

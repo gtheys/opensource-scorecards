@@ -1,6 +1,6 @@
 {
   "slug": "gpanders/nvim-moonwalk",
-  "fetched_at": "2026-11-15T11:09:57.108610925Z",
+  "fetched_at": "2026-11-16T11:39:17.426495725Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 6630
   },
   "slow_fetched_at": "2026-11-13T11:26:15.621037333Z",
-  "commits_etag": "\"b6051a54ccbd26f0548c4a50cb487ed4d9014d30caaf929450ead9b49cf7dba7\"",
-  "releases_etag": "\"b2f25abdbda1dc8d5f5cc910020310df0fbee8dd1a43e00b2cb71964c3d55db1\""
+  "commits_etag": "\"0ca5f35b9d6637bafde9fb0384764371da37f4a3fc7603cb88cc2035a534eec4\"",
+  "releases_etag": "\"bb30f0f36085cc06afa9358b4d6d847ad0c1e1cb504f68a53c1541008efa15fd\""
 }

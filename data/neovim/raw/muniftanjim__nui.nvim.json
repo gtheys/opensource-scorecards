@@ -1,15 +1,15 @@
 {
   "slug": "muniftanjim/nui.nvim",
-  "fetched_at": "2026-11-03T11:37:34.445202407Z",
+  "fetched_at": "2026-11-16T11:58:20.719587893Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 2134,
+    "stars": 2135,
     "forks": 84,
     "description": "UI Component Library for Neovim.",
     "license_spdx": "MIT",
     "last_commit_at": "2026-08-20T19:28:44Z",
-    "commits_90d": 8,
+    "commits_90d": 1,
     "releases_365d": 0,
     "median_issue_close_days": 1.353125,
     "median_pr_close_days": 2.0247569444444444,
@@ -25,5 +25,8 @@
     "has_ci": true,
     "has_tests": true,
     "readme_len": 8469
-  }
+  },
+  "slow_fetched_at": "2026-11-16T11:58:20.719587893Z",
+  "commits_etag": "\"0bc8eab97c1c5aed5ae847545279ec6041122a02fb55ec35941227e320c6a22c\"",
+  "releases_etag": "\"5a791cc39bec5fe9b90488fe259a3fe7eff9e62410aec4b46678405ff8d76d81\""
 }

@@ -1,6 +1,6 @@
 {
   "slug": "nat-418/boole.nvim",
-  "fetched_at": "2026-11-03T11:37:56.652899670Z",
+  "fetched_at": "2026-11-16T11:58:49.707192133Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -21,5 +21,8 @@
     "has_ci": true,
     "has_tests": false,
     "readme_len": 1467
-  }
+  },
+  "slow_fetched_at": "2026-11-16T11:58:49.707192133Z",
+  "commits_etag": "\"9828b2cacb9969a30b923624799fc36bda83e9061370847127a2200277b30ff5\"",
+  "releases_etag": "\"0af90f3310e995d804a7a451ddfd3bf848587bb4d367aa5771746b99cc5138fb\""
 }

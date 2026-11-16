@@ -1,6 +1,6 @@
 {
   "slug": "mawkler/hml.nvim",
-  "fetched_at": "2026-11-15T11:20:40.576346066Z",
+  "fetched_at": "2026-11-16T11:53:17.488083833Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 1032
   },
   "slow_fetched_at": "2026-11-14T10:55:26.653964285Z",
-  "commits_etag": "\"b84e3469f752a62736ea69dc5712895904c580abf6cc822596d57e009208c8b4\"",
-  "releases_etag": "\"b2f25abdbda1dc8d5f5cc910020310df0fbee8dd1a43e00b2cb71964c3d55db1\""
+  "commits_etag": "\"bd414c50254e26fecff2b9cebc16e952ccdfcb11863282dff3ef5274d111d9fb\"",
+  "releases_etag": "\"bb30f0f36085cc06afa9358b4d6d847ad0c1e1cb504f68a53c1541008efa15fd\""
 }

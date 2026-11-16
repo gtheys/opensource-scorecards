@@ -1,6 +1,6 @@
 {
   "slug": "javanoo6/intellij-formatter.nvim",
-  "fetched_at": "2026-11-15T11:12:59.529896570Z",
+  "fetched_at": "2026-11-16T11:43:24.195788265Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 9042
   },
   "slow_fetched_at": "2026-11-14T10:45:55.597171034Z",
-  "commits_etag": "\"c70cbfde2ac5190b835ab3fe0419b541a6d6030488c03d5d18c22e3f97fcd98b\"",
-  "releases_etag": "\"afb3e00a8f26155071b2fc19058e7f6523b67883c7b46913df1d20f3706e61e6\""
+  "commits_etag": "\"8824d47ce8f3e0cb314a827e257ab78e52744673db1ad7a5ceacb583baac7367\"",
+  "releases_etag": "\"575bd06bfbecc84d6b745811d11643b54cf0c319508d1aaabb36e3a51ff1b6f8\""
 }

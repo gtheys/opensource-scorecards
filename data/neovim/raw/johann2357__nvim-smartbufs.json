@@ -1,6 +1,6 @@
 {
   "slug": "johann2357/nvim-smartbufs",
-  "fetched_at": "2026-11-15T11:13:56.773424278Z",
+  "fetched_at": "2026-11-16T11:44:36.418011031Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 4185
   },
   "slow_fetched_at": "2026-11-14T10:47:04.076402291Z",
-  "commits_etag": "\"2dc7ce1ad6f63468d7a6711f2a3b058d56711dae4a8326d92b617359cd9c6da6\"",
-  "releases_etag": "\"b2f25abdbda1dc8d5f5cc910020310df0fbee8dd1a43e00b2cb71964c3d55db1\""
+  "commits_etag": "\"773448dad922c134e22611eb4fa7b02a634ee2e63a8fedf7de5c0686909c19ce\"",
+  "releases_etag": "\"bb30f0f36085cc06afa9358b4d6d847ad0c1e1cb504f68a53c1541008efa15fd\""
 }

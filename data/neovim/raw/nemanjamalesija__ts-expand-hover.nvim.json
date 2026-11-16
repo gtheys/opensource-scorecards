@@ -1,11 +1,11 @@
 {
   "slug": "nemanjamalesija/ts-expand-hover.nvim",
-  "fetched_at": "2026-11-03T11:38:35.383984529Z",
+  "fetched_at": "2026-11-16T11:59:22.991814483Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 80,
-    "forks": 5,
+    "stars": 82,
+    "forks": 4,
     "description": "Expandable TypeScript type hover for Neovim (vtsls and TypeScript 7)",
     "license_spdx": null,
     "last_commit_at": "2026-10-13T11:31:46Z",
@@ -25,5 +25,8 @@
     "has_ci": true,
     "has_tests": true,
     "readme_len": 5318
-  }
+  },
+  "slow_fetched_at": "2026-11-16T11:59:22.991814483Z",
+  "commits_etag": "\"5e9ea07b14793c77a1edd0de487c71ce8aca157bbaa70e09c29511e5a8227fde\"",
+  "releases_etag": "\"d9663317bcb454ed48cf641d8d7574d9e4b9fd610d8bde3dde3bb257dc1a90f7\""
 }

@@ -1,6 +1,6 @@
 {
   "slug": "mikavilpas/blink-ripgrep.nvim",
-  "fetched_at": "2026-11-15T11:21:56.893324734Z",
+  "fetched_at": "2026-11-16T11:54:41.870643444Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -12,7 +12,7 @@
     "commits_90d": 12,
     "releases_365d": 7,
     "median_issue_close_days": 1.1704398148148147,
-    "median_pr_close_days": 0.0017708333333333332,
+    "median_pr_close_days": 0.0018287037037037037,
     "open_issues": 1,
     "closed_issues_sampled": 2,
     "contributors_12mo": 1,
@@ -27,6 +27,6 @@
     "readme_len": 13222
   },
   "slow_fetched_at": "2026-11-15T11:21:56.893324734Z",
-  "commits_etag": "\"f483ee7df5a553b6e0915dd8ebe2c0bdac76fe6f9230faf5af094989a9a21f73\"",
-  "releases_etag": "\"a255a63297ab81e31c65783d7d6ba594f42d23ef1e1f6eaacd2a7fa9b779ed21\""
+  "commits_etag": "\"f9ec6be5cb0f490d03277b6b69759fddaf7c7d63a1fe4887d5de3f8daafdff2a\"",
+  "releases_etag": "\"9d8c66881c9f7e48420d331aa7109cba08d2c89fad355802a99034c0fc3fbbc6\""
 }

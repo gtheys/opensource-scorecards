@@ -1,6 +1,6 @@
 {
   "slug": "jgonmor16/hdlsnip.nvim",
-  "fetched_at": "2026-11-15T11:13:37.926178734Z",
+  "fetched_at": "2026-11-16T11:44:13.216130915Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 15974
   },
   "slow_fetched_at": "2026-11-14T10:46:41.476980892Z",
-  "commits_etag": "\"4d69171fb63387f38876e4fbf13db18cf16ef7fe6b0420f9fa88b6d1cdbf65fe\"",
-  "releases_etag": "\"76d28bc77292e617961e7c90524eb98dda956de189d77679166d6b825cfb9913\""
+  "commits_etag": "\"256af01a58528359cd3d12d6119ce9f7480cd3d17e00ccbce5cc2f5bfc8a2ce6\"",
+  "releases_etag": "\"c6d9f5298a1c2488195e17f905fdab78b0fa98a1ca9f0a20c74330aa3b289c64\""
 }

@@ -1,6 +1,6 @@
 {
   "slug": "nedra1998/nvim-mdlink",
-  "fetched_at": "2026-11-03T11:38:24.153748619Z",
+  "fetched_at": "2026-11-16T11:59:16.566553147Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -21,5 +21,8 @@
     "has_ci": true,
     "has_tests": false,
     "readme_len": 2556
-  }
+  },
+  "slow_fetched_at": "2026-11-16T11:59:16.566553147Z",
+  "commits_etag": "\"f5c819da6dec0dfd8cf4e8d46a4c3f82b1c5bef90b5b2c5d74b408aec544230e\"",
+  "releases_etag": "\"bb30f0f36085cc06afa9358b4d6d847ad0c1e1cb504f68a53c1541008efa15fd\""
 }

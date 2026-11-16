@@ -1,6 +1,6 @@
 {
   "slug": "myzel394/easytables.nvim",
-  "fetched_at": "2026-11-03T11:37:41.297756201Z",
+  "fetched_at": "2026-11-16T11:58:33.621098161Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -21,5 +21,8 @@
     "has_ci": false,
     "has_tests": false,
     "readme_len": 6848
-  }
+  },
+  "slow_fetched_at": "2026-11-16T11:58:33.621098161Z",
+  "commits_etag": "\"2c8fc129f72c9bd5c31fea98dcf59b4c45ee6a25d0a67a2f9f89b4e472d19b42\"",
+  "releases_etag": "\"bb30f0f36085cc06afa9358b4d6d847ad0c1e1cb504f68a53c1541008efa15fd\""
 }

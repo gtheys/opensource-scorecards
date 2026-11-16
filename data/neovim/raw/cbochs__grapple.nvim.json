@@ -1,10 +1,10 @@
 {
   "slug": "cbochs/grapple.nvim",
-  "fetched_at": "2026-11-15T11:00:03.598852566Z",
+  "fetched_at": "2026-11-16T11:26:24.374398415Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 721,
+    "stars": 720,
     "forks": 33,
     "description": "Neovim plugin for tagging important files",
     "license_spdx": "MIT",
@@ -23,6 +23,6 @@
     "readme_len": 32648
   },
   "slow_fetched_at": "2026-11-13T11:10:44.299162725Z",
-  "commits_etag": "\"df6291b1653a80cf7ba9d2747128b43eabf83083ac59223d942b776750df1863\"",
-  "releases_etag": "\"bab1487d71f3e1e5b25251c38e73b0cc8edbb1bb2d7c84f681fb6d446545af79\""
+  "commits_etag": "\"06b5206d80bef07ca63fa2ab70c48c2ca12216f5f94bca921698231ff3916b28\"",
+  "releases_etag": "\"fd399d69b433bf1c9753b3fe34b161e8ef56ca3e90c77c8735f3d7d7d73af158\""
 }

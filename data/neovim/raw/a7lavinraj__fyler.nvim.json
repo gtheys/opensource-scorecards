@@ -1,6 +1,6 @@
 {
   "slug": "a7lavinraj/fyler.nvim",
-  "fetched_at": "2026-11-15T10:54:38.910246267Z",
+  "fetched_at": "2026-11-16T11:18:48.697422069Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -16,7 +16,7 @@
     "open_issues": 26,
     "closed_issues_sampled": 23,
     "contributors_12mo": 20,
-    "top_author_commit_share": 0.7869565217391304,
+    "top_author_commit_share": 0.7831858407079646,
     "top_author": {
       "login": "A7Lavinraj",
       "account_created_at": "2022-06-11T19:40:02Z",
@@ -27,6 +27,6 @@
     "readme_len": 2808
   },
   "slow_fetched_at": "2026-11-13T11:02:30.161486268Z",
-  "commits_etag": "\"72199bd2e462d308896fef4ab803c81971b5b21c3ab030b9bcef544425b2567a\"",
-  "releases_etag": "\"cddb32e5fe749a64fee1d831cf3283c0801f0a1a557022e71a7c86d94564ce68\""
+  "commits_etag": "\"8d5b46d14a065f752e68997b5bfc39fcbeeca04c67b5450e2d92a02110061993\"",
+  "releases_etag": "\"8f38a2ace6048faf9397305c3e47cbb9cd5ea6de9e96f0bd47326e907f2c408b\""
 }

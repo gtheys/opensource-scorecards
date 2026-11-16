@@ -1,6 +1,6 @@
 {
   "slug": "4e554c4c/darkman.nvim",
-  "fetched_at": "2026-11-15T10:54:34.716749012Z",
+  "fetched_at": "2026-11-16T11:18:43.056670205Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 1803
   },
   "slow_fetched_at": "2026-11-13T11:02:22.604184111Z",
-  "commits_etag": "\"a32dfc729315bbfd72ac7929894b5e5854effd783b792a7f852e0b76c28b2262\"",
-  "releases_etag": "\"b2f25abdbda1dc8d5f5cc910020310df0fbee8dd1a43e00b2cb71964c3d55db1\""
+  "commits_etag": "\"1bb542c8c634bf9e12d611f79200c12e8c4b14ad7d1270dc1b2dd157fb558f3d\"",
+  "releases_etag": "\"bb30f0f36085cc06afa9358b4d6d847ad0c1e1cb504f68a53c1541008efa15fd\""
 }

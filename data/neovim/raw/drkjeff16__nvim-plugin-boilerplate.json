@@ -1,6 +1,6 @@
 {
   "slug": "drkjeff16/nvim-plugin-boilerplate",
-  "fetched_at": "2026-11-15T11:05:21.967530585Z",
+  "fetched_at": "2026-11-16T11:33:05.099919235Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 3339
   },
   "slow_fetched_at": "2026-11-13T11:19:00.918117678Z",
-  "commits_etag": "\"a2966a458e7a50439cf8629535b23115764f10379522bf417d99f21077543c4c\"",
-  "releases_etag": "\"b2f25abdbda1dc8d5f5cc910020310df0fbee8dd1a43e00b2cb71964c3d55db1\""
+  "commits_etag": "\"05a3bca51f6714462e44ec7e010ce329873298e5c6524742d08e2a75bf4a22f4\"",
+  "releases_etag": "\"bb30f0f36085cc06afa9358b4d6d847ad0c1e1cb504f68a53c1541008efa15fd\""
 }

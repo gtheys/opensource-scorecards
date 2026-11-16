@@ -1,15 +1,15 @@
 {
   "slug": "nanotee/sqls.nvim",
-  "fetched_at": "2026-11-03T11:37:50.138621445Z",
+  "fetched_at": "2026-11-16T11:58:42.444427029Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 257,
+    "stars": 258,
     "forks": 15,
     "description": "Neovim plugin for sqls that leverages the built-in LSP client",
     "license_spdx": "MIT",
     "last_commit_at": "2026-08-13T22:01:57Z",
-    "commits_90d": 1,
+    "commits_90d": 0,
     "releases_365d": 0,
     "median_issue_close_days": 0.6993402777777777,
     "median_pr_close_days": 3.991440972222222,
@@ -25,5 +25,8 @@
     "has_ci": false,
     "has_tests": false,
     "readme_len": 864
-  }
+  },
+  "slow_fetched_at": "2026-11-16T11:58:42.444427029Z",
+  "commits_etag": "\"4168440cde3dfaddeafeeedb6fba262e84d3d8fe2323e26c87e67df7d510375f\"",
+  "releases_etag": "\"bb30f0f36085cc06afa9358b4d6d847ad0c1e1cb504f68a53c1541008efa15fd\""
 }

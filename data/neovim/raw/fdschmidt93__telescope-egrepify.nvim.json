@@ -1,10 +1,10 @@
 {
   "slug": "fdschmidt93/telescope-egrepify.nvim",
-  "fetched_at": "2026-11-15T11:07:16.055272091Z",
+  "fetched_at": "2026-11-16T11:35:43.436520569Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 146,
+    "stars": 145,
     "forks": 17,
     "description": "Variable user customization for telescope.live_grep to set rg flags on-the-fly",
     "license_spdx": "MIT",
@@ -27,6 +27,6 @@
     "readme_len": 7169
   },
   "slow_fetched_at": "2026-11-13T11:22:14.499316197Z",
-  "commits_etag": "\"7f17da80edf330dd54711ef3a02bba338ae0f705c557172d4ae51ada7653774a\"",
-  "releases_etag": "\"b2f25abdbda1dc8d5f5cc910020310df0fbee8dd1a43e00b2cb71964c3d55db1\""
+  "commits_etag": "\"f4d1ca4210aae14c8ad14551670db63c9e7c2cd2d1b9ed66317a1e22babded27\"",
+  "releases_etag": "\"bb30f0f36085cc06afa9358b4d6d847ad0c1e1cb504f68a53c1541008efa15fd\""
 }

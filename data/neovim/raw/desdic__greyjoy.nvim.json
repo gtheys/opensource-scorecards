@@ -1,6 +1,6 @@
 {
   "slug": "desdic/greyjoy.nvim",
-  "fetched_at": "2026-11-15T11:04:24.963024234Z",
+  "fetched_at": "2026-11-16T11:31:57.305631347Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 13080
   },
   "slow_fetched_at": "2026-11-13T11:17:27.957380853Z",
-  "commits_etag": "\"6fbc85925b2e7aa2c5a2171345679f25927ce0b7f254a0bf136c7a60976d4332\"",
-  "releases_etag": "\"96f0becb794e82ee1b551b0399e85c4196fe6849ca5fc4d54ef51839e7a26eba\""
+  "commits_etag": "\"47d521826a6e61792a538cbd672150c32901f54c93a7871a431ff8e54e4c9858\"",
+  "releases_etag": "\"c49be49299e0d8cc9ac1198560e66b68bb35f26972c5b6e6dee2d37cafc01703\""
 }

@@ -1,10 +1,10 @@
 {
   "slug": "datsfilipe/min-theme.nvim",
-  "fetched_at": "2026-11-15T11:03:56.532103292Z",
+  "fetched_at": "2026-11-16T11:31:21.182192229Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 61,
+    "stars": 62,
     "forks": 4,
     "description": "Porting Min Theme from Visual Studio Code to Neovim.",
     "license_spdx": "MIT",
@@ -23,6 +23,6 @@
     "readme_len": 2012
   },
   "slow_fetched_at": "2026-11-13T11:16:36.646074106Z",
-  "commits_etag": "\"29f7367bd0279e3c60f51a02bc0a0ded28b5ebe86618e81be58f186587eda7bc\"",
-  "releases_etag": "\"b2f25abdbda1dc8d5f5cc910020310df0fbee8dd1a43e00b2cb71964c3d55db1\""
+  "commits_etag": "\"0842bf7cfb2035e88128162542cd94f4ad32917b9efc963f08e157c16ce4f49e\"",
+  "releases_etag": "\"bb30f0f36085cc06afa9358b4d6d847ad0c1e1cb504f68a53c1541008efa15fd\""
 }

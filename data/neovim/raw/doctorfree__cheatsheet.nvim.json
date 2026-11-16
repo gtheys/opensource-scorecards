@@ -1,6 +1,6 @@
 {
   "slug": "doctorfree/cheatsheet.nvim",
-  "fetched_at": "2026-11-15T11:05:04.400433893Z",
+  "fetched_at": "2026-11-16T11:32:44.194302167Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 12476
   },
   "slow_fetched_at": "2026-11-13T11:18:32.320518582Z",
-  "commits_etag": "\"e0a0a6fb5a11663ea84ed82998cc5bd719ab26738993a25d44a9cd1b802bf6ab\"",
-  "releases_etag": "\"b2f25abdbda1dc8d5f5cc910020310df0fbee8dd1a43e00b2cb71964c3d55db1\""
+  "commits_etag": "\"3e86cec1473560485c9e2200c11486e0be551b17b066cb6dad929d3ffdff1a4b\"",
+  "releases_etag": "\"bb30f0f36085cc06afa9358b4d6d847ad0c1e1cb504f68a53c1541008efa15fd\""
 }

@@ -1,6 +1,6 @@
 {
   "slug": "f-person/git-blame.nvim",
-  "fetched_at": "2026-11-15T11:07:08.654185552Z",
+  "fetched_at": "2026-11-16T11:35:34.647729613Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 12755
   },
   "slow_fetched_at": "2026-11-13T11:22:01.904263441Z",
-  "commits_etag": "\"559065a4f0d00ac21206fe14eadd7ca3dd584de8c604b56a37f7c21ae3a25bf4\"",
-  "releases_etag": "\"b2f25abdbda1dc8d5f5cc910020310df0fbee8dd1a43e00b2cb71964c3d55db1\""
+  "commits_etag": "\"2e63e5757d063d92aa85803d3f01747213395fc9942c1722e03ff2b90c51f699\"",
+  "releases_etag": "\"bb30f0f36085cc06afa9358b4d6d847ad0c1e1cb504f68a53c1541008efa15fd\""
 }

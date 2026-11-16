@@ -1,19 +1,19 @@
 {
   "slug": "navasvarela/vimdojo",
-  "fetched_at": "2026-11-03T11:38:06.403352950Z",
+  "fetched_at": "2026-11-16T11:59:02.307561509Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 0,
+    "stars": 1,
     "forks": 0,
     "description": "A Vim puzzle game in real Neovim: learn motions, workflows and your own init.lua, scored on keystrokes against par. Daily challenge in the browser.",
     "license_spdx": "MIT",
-    "last_commit_at": "2026-11-03T08:17:49Z",
-    "commits_90d": 66,
-    "releases_365d": 11,
+    "last_commit_at": "2026-11-14T09:01:22Z",
+    "commits_90d": 92,
+    "releases_365d": 18,
     "median_issue_close_days": null,
-    "median_pr_close_days": 0.010324074074074074,
-    "open_issues": 1,
+    "median_pr_close_days": 0.004438657407407407,
+    "open_issues": 0,
     "closed_issues_sampled": 0,
     "contributors_12mo": 1,
     "top_author_commit_share": 1.0,
@@ -24,6 +24,9 @@
     },
     "has_ci": true,
     "has_tests": true,
-    "readme_len": 5078
-  }
+    "readme_len": 5218
+  },
+  "slow_fetched_at": "2026-11-16T11:59:02.307561509Z",
+  "commits_etag": "\"8bdd9dd6586ecd82394916c2b5628c594d011c458d85ec29f2c2531bb11f0a52\"",
+  "releases_etag": "\"1cc05c397796b8685396e1c1d67b0bc8bd7c8f22b59cbbe2dbfea9dd1467d759\""
 }

@@ -1,6 +1,6 @@
 {
   "slug": "diegoulloao/neofusion.nvim",
-  "fetched_at": "2026-11-15T11:04:32.073245070Z",
+  "fetched_at": "2026-11-16T11:32:07.445510830Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 5338
   },
   "slow_fetched_at": "2026-11-13T11:17:41.101533580Z",
-  "commits_etag": "\"fc2eda03c6b03be6011b7a7f8445eaeabb818400433cd40f738afa01fa0453fb\"",
-  "releases_etag": "\"b2f25abdbda1dc8d5f5cc910020310df0fbee8dd1a43e00b2cb71964c3d55db1\""
+  "commits_etag": "\"cfbdfd740de5a0c538edfadfed03d8a15ae8ec70c44973b9b721af56bf540e3d\"",
+  "releases_etag": "\"bb30f0f36085cc06afa9358b4d6d847ad0c1e1cb504f68a53c1541008efa15fd\""
 }

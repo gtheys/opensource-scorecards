@@ -1,6 +1,6 @@
 {
   "slug": "esmuellert/codediff.nvim",
-  "fetched_at": "2026-11-15T11:06:45.689284896Z",
+  "fetched_at": "2026-11-16T11:35:03.625787960Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 28377
   },
   "slow_fetched_at": "2026-11-13T11:21:23.159142068Z",
-  "commits_etag": "\"35821e2479e437d09a492074329b6d9a8d0aee2c7767876713185fb3418add2d\"",
-  "releases_etag": "\"2d443b375c825ebae1520112d801594e63a7aa31be717dd470c8f166a949405e\""
+  "commits_etag": "\"78cb28d4da7bdaac76edc0d35f599fb8c06e49b7de63eab85fc2d2c0970d3477\"",
+  "releases_etag": "\"6b23f76c0f32befa02a2fb5d60981274029618d0d6d73835a08b381bc7122443\""
 }

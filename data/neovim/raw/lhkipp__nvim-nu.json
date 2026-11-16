@@ -1,6 +1,6 @@
 {
   "slug": "lhkipp/nvim-nu",
-  "fetched_at": "2026-11-15T11:18:03.777867336Z",
+  "fetched_at": "2026-11-16T11:49:47.465050877Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 2373
   },
   "slow_fetched_at": "2026-11-14T10:52:14.620722688Z",
-  "commits_etag": "\"b93cf82b1966fdf1bb3ea19f4757e44d3c8cd81503d0e902be756911400a991f\"",
-  "releases_etag": "\"b2f25abdbda1dc8d5f5cc910020310df0fbee8dd1a43e00b2cb71964c3d55db1\""
+  "commits_etag": "\"a5a3ca21434ddc24f0659a83c3d7644c4c662e0c52ddc9d44087a65b1f091981\"",
+  "releases_etag": "\"bb30f0f36085cc06afa9358b4d6d847ad0c1e1cb504f68a53c1541008efa15fd\""
 }

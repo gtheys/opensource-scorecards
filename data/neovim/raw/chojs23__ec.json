@@ -1,6 +1,6 @@
 {
   "slug": "chojs23/ec",
-  "fetched_at": "2026-11-15T11:00:26.877606976Z",
+  "fetched_at": "2026-11-16T11:26:55.104137824Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 12202
   },
   "slow_fetched_at": "2026-11-13T11:11:16.404603365Z",
-  "commits_etag": "\"a1bccfd7ad914c1ad8f624221770961836ccd479687803e50e67dc13abf501a8\"",
-  "releases_etag": "\"7aacc8bf0c39812bf754c1b361c6fe4228f5cef09daea34217c743213e4ac4de\""
+  "commits_etag": "\"16ae8236bdaea6d0803c402a9484596e3f1f9ff17d8a78dbfacf1890898d2dc5\"",
+  "releases_etag": "\"6c2109242646509c59a0fae5dfdf25b76a0e1d79d3b607fa61f1614737d04bf7\""
 }

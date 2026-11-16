@@ -1,6 +1,6 @@
 {
   "slug": "kiyoon/python-import.nvim",
-  "fetched_at": "2026-11-15T11:16:04.597419807Z",
+  "fetched_at": "2026-11-16T11:47:18.531271734Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 8574
   },
   "slow_fetched_at": "2026-11-14T10:49:46.974036211Z",
-  "commits_etag": "\"8ce045120dfd59ebec3255e024b2d0e4ee9b8372ed85befcadd8634e94e06c80\"",
-  "releases_etag": "\"7df6904a07df3b47a976b19472bf5549b59ab5498d2114af15b0a23b979bf6eb\""
+  "commits_etag": "\"8edd5942ef032da88e99b6c93b30b83324ef8cd297061d719e0ab662ec976dcf\"",
+  "releases_etag": "\"20c18991c33a15aba9b2c003289f4a26af3cb64a480193d3181b277b1d9f63e6\""
 }

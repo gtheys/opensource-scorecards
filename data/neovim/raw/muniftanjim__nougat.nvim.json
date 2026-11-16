@@ -1,10 +1,10 @@
 {
   "slug": "muniftanjim/nougat.nvim",
-  "fetched_at": "2026-11-03T11:37:32.388758956Z",
+  "fetched_at": "2026-11-16T11:58:17.199498111Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 200,
+    "stars": 199,
     "forks": 5,
     "description": "🍫 Hyperextensible Statusline / Tabline / Winbar for Neovim 🚀",
     "license_spdx": "MIT",
@@ -21,5 +21,8 @@
     "has_ci": true,
     "has_tests": true,
     "readme_len": 5579
-  }
+  },
+  "slow_fetched_at": "2026-11-16T11:58:17.199498111Z",
+  "commits_etag": "\"9674bf4897520fab5b455f35a6b193199985964d6a699ce33126758f8fc218d7\"",
+  "releases_etag": "\"a8a67beedfab16fae573831db4b3c584d38edfd212b33df89ca9f84be45c55a5\""
 }

@@ -1,10 +1,10 @@
 {
   "slug": "apyra/nvim-unity",
-  "fetched_at": "2026-11-15T10:57:04.585260031Z",
+  "fetched_at": "2026-11-16T11:22:15.840668886Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 130,
+    "stars": 129,
     "forks": 23,
     "description": "Use Neovim as the default code editor for Unity — with .csproj generation, OmniSharp support and LSP-ready workflow.",
     "license_spdx": "MIT",
@@ -27,6 +27,6 @@
     "readme_len": 9527
   },
   "slow_fetched_at": "2026-11-13T11:06:10.831397417Z",
-  "commits_etag": "\"e2efab3bb536476fad2a4564a5d48536499150c9f2cdd172b56deb8f4167ad1b\"",
-  "releases_etag": "\"66f9b28cc47525a50bfe03ab3033d021bacbdf8dace8e01395b8a538fd468eee\""
+  "commits_etag": "\"792d0f50b31a91b074d073c81accbe025731b2e52d5b6ebef333ae0dd4786d9b\"",
+  "releases_etag": "\"f588df5d3cd83ad83dc568a40bec6760b0be7495b210f01160b2d96bc14389de\""
 }

@@ -1,6 +1,6 @@
 {
   "slug": "kiddos/gemini.nvim",
-  "fetched_at": "2026-11-15T11:15:45.488353605Z",
+  "fetched_at": "2026-11-16T11:46:57.267997610Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 6710
   },
   "slow_fetched_at": "2026-11-14T10:49:25.437699074Z",
-  "commits_etag": "\"c6e14b3d16a255527862880f6658b95b7fb3c61b6a1a3f464379f22f3cdfbd37\"",
-  "releases_etag": "\"ff634176e88b29ce2c07a7493a2250bdd0c187954fd855b9a0f84a672b9ba1bf\""
+  "commits_etag": "\"986721633208597159e4e9e7c174000a9bdcc1d80a2a8e4093a0c44207cb474c\"",
+  "releases_etag": "\"fe5e26a8358288b0c9f590aa0594ddb0cba02483d677ac155ff400f65acb06e9\""
 }

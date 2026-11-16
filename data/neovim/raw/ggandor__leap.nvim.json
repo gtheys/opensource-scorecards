@@ -1,10 +1,10 @@
 {
   "slug": "ggandor/leap.nvim",
-  "fetched_at": "2026-11-15T11:09:28.252831446Z",
+  "fetched_at": "2026-11-16T11:38:38.683716196Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 5029,
+    "stars": 5028,
     "forks": 53,
     "description": "Neovim's answer to the mouse 🦘",
     "license_spdx": "MIT",
@@ -27,6 +27,6 @@
     "readme_len": 934
   },
   "slow_fetched_at": "2026-11-13T11:25:34.092411085Z",
-  "commits_etag": "\"52cee803e2b17fdc72fb0556a8512e9c344dd2292dd378fa3b4d80f257438461\"",
-  "releases_etag": "\"b2f25abdbda1dc8d5f5cc910020310df0fbee8dd1a43e00b2cb71964c3d55db1\""
+  "commits_etag": "\"b94cbdf62fae26cf77e30e3925a74efe10c68ad658ae1a7bd488436ca37e3b5b\"",
+  "releases_etag": "\"bb30f0f36085cc06afa9358b4d6d847ad0c1e1cb504f68a53c1541008efa15fd\""
 }

@@ -1,6 +1,6 @@
 {
   "slug": "monaqa/dial.nvim",
-  "fetched_at": "2026-11-15T11:23:27.016344124Z",
+  "fetched_at": "2026-11-16T11:56:16.906278355Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 16180
   },
   "slow_fetched_at": "2026-11-15T11:23:27.016344124Z",
-  "commits_etag": "\"39a1fe5a5404e8b17aaaced2237f3b6ce2ba9b3c5ef9648dcf77662cc509a1d7\"",
-  "releases_etag": "\"0b3baca3c778bf9ad96ffb2c4e82d31368175d47c80c7d8cccd1c56b66f50cc2\""
+  "commits_etag": "\"03b16a0fa338b2b56a744b275e7539baafecc6fd861cfcb4644065f8ee8a6549\"",
+  "releases_etag": "\"754c2672703bf327e51405de12a59cd86e00e8873291d13699f4efa2320e079d\""
 }

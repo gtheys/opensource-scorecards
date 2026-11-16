@@ -1,6 +1,6 @@
 {
   "slug": "netmute/foldchanged.nvim",
-  "fetched_at": "2026-11-03T11:38:56.341815698Z",
+  "fetched_at": "2026-11-16T11:59:54.320355189Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": false,
     "has_tests": false,
     "readme_len": 308
-  }
+  },
+  "slow_fetched_at": "2026-11-16T11:59:54.320355189Z",
+  "commits_etag": "\"03a0888567edc1b7c3f879589dff3a1c339694560717ce971e285ea89ddf6550\"",
+  "releases_etag": "\"bb30f0f36085cc06afa9358b4d6d847ad0c1e1cb504f68a53c1541008efa15fd\""
 }

@@ -1,6 +1,6 @@
 {
   "slug": "kaiser-yang/blink-cmp-git",
-  "fetched_at": "2026-11-15T11:14:55.568369944Z",
+  "fetched_at": "2026-11-16T11:45:52.157602691Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 23271
   },
   "slow_fetched_at": "2026-11-14T10:48:21.916387747Z",
-  "commits_etag": "\"4943bae35359ecf241b6ec929df765f253bf06426585052a993bd7bafb6ff66d\"",
-  "releases_etag": "\"3f582b051ae2d976658d56fb75b0a4c1f8a5abc1a22c211796f7c5df607e30b9\""
+  "commits_etag": "\"7f9189e37dc20c6eb461b82d84935f94f6b6a3afba3a74f254d4026ceca92bec\"",
+  "releases_etag": "\"a14a29ec5d17b5a7fa550c71dc2d5a69c398feba0554ee694711eda52578d489\""
 }

@@ -1,6 +1,6 @@
 {
   "slug": "edluffy/hologram.nvim",
-  "fetched_at": "2026-11-15T11:06:11.628066486Z",
+  "fetched_at": "2026-11-16T11:34:16.479381378Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 4843
   },
   "slow_fetched_at": "2026-11-13T11:20:24.736420825Z",
-  "commits_etag": "\"4e5c29cb5729c828cc4b010a3cbc70b4d7b182a976ce4dcb3ce01394b1b57aab\"",
-  "releases_etag": "\"b2f25abdbda1dc8d5f5cc910020310df0fbee8dd1a43e00b2cb71964c3d55db1\""
+  "commits_etag": "\"f617f1ec4a2a009b8b86103f837616918417b1edf417c03e974c19dde78c63be\"",
+  "releases_etag": "\"bb30f0f36085cc06afa9358b4d6d847ad0c1e1cb504f68a53c1541008efa15fd\""
 }

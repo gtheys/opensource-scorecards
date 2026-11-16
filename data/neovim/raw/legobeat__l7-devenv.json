@@ -1,6 +1,6 @@
 {
   "slug": "legobeat/l7-devenv",
-  "fetched_at": "2026-11-15T11:17:27.129275255Z",
+  "fetched_at": "2026-11-16T11:49:01.821268924Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 2406
   },
   "slow_fetched_at": "2026-11-14T10:51:25.262980529Z",
-  "commits_etag": "\"22cb2e63a07793b5aade21da593f61a5fc645bf90b0ac4f3ad938ad568fd6a56\"",
-  "releases_etag": "\"aa4e6f82c4c5659626dbf9fd6d5978715a6c16d26dba2cb3a62dc4233383986f\""
+  "commits_etag": "\"61c92657ef00d22cc181f48271024e581a53ffe89e9b50c1a7818fc46add0e92\"",
+  "releases_etag": "\"759315e29812e03894df9bef280ac9d6fbc4a1b1748091bc1fcdce42b84a45b9\""
 }

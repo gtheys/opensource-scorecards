@@ -1,6 +1,6 @@
 {
   "slug": "necrom4/convy.nvim",
-  "fetched_at": "2026-11-03T11:38:20.965815865Z",
+  "fetched_at": "2026-11-16T11:59:13.666785034Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": false,
     "has_tests": false,
     "readme_len": 6889
-  }
+  },
+  "slow_fetched_at": "2026-11-16T11:59:13.666785034Z",
+  "commits_etag": "\"66c87cb37cccf57c67f03c0c85c52412a5a3b7aa8228f7a0a7e574dbdbc0900e\"",
+  "releases_etag": "\"bb30f0f36085cc06afa9358b4d6d847ad0c1e1cb504f68a53c1541008efa15fd\""
 }

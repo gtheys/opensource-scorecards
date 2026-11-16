@@ -1,6 +1,6 @@
 {
   "slug": "gregorias/coerce.nvim",
-  "fetched_at": "2026-11-15T11:09:58.108935410Z",
+  "fetched_at": "2026-11-16T11:39:18.877950692Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 9620
   },
   "slow_fetched_at": "2026-11-13T11:26:17.474004412Z",
-  "commits_etag": "\"0621cf2d305bd55c6f08a8785052a0cbede6ff39e098d4812384a235396a7443\"",
-  "releases_etag": "\"b2f25abdbda1dc8d5f5cc910020310df0fbee8dd1a43e00b2cb71964c3d55db1\""
+  "commits_etag": "\"8db3a5a7281c7471a5f230851caa12f106f106971a88ac1716996a86d5fb498d\"",
+  "releases_etag": "\"bb30f0f36085cc06afa9358b4d6d847ad0c1e1cb504f68a53c1541008efa15fd\""
 }

@@ -1,6 +1,6 @@
 {
   "slug": "kkharji/sqlite.lua",
-  "fetched_at": "2026-11-15T11:16:17.434368964Z",
+  "fetched_at": "2026-11-16T11:47:33.114175026Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 2682
   },
   "slow_fetched_at": "2026-11-14T10:50:01.486815900Z",
-  "commits_etag": "\"3fde8211d81723d4f7376125750b4df19d120356baf54b6e70e40ea784cd3f58\"",
-  "releases_etag": "\"1009be361a93155f160032216e147df11d8055dce100f96c64e8a0df32d6dfce\""
+  "commits_etag": "\"584d9d461fa7c2308d3140ce252c60ff126b450074f83a8dd2c6bfb13eb70b0e\"",
+  "releases_etag": "\"970e4d0f70e532d937156a4c30dd99941659d4d57ceb87d1ce809a96403a6cf7\""
 }

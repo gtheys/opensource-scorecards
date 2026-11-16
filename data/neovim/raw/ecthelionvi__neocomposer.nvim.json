@@ -1,6 +1,6 @@
 {
   "slug": "ecthelionvi/neocomposer.nvim",
-  "fetched_at": "2026-11-15T11:06:05.933833749Z",
+  "fetched_at": "2026-11-16T11:34:10.447103870Z",
   "status": "ok",
   "data": {
     "archived": true,
@@ -23,6 +23,6 @@
     "readme_len": 8715
   },
   "slow_fetched_at": "2026-11-13T11:20:16.114019976Z",
-  "commits_etag": "\"68088e03a31ec2ca7124911c7cd49705a6abd5c08f311bb19ffb0ac9884ee9b1\"",
-  "releases_etag": "\"b2f25abdbda1dc8d5f5cc910020310df0fbee8dd1a43e00b2cb71964c3d55db1\""
+  "commits_etag": "\"de2fcb351e36475b5a1c33b969db8efc83ce10fdcc33f16ebb865208db09af9a\"",
+  "releases_etag": "\"bb30f0f36085cc06afa9358b4d6d847ad0c1e1cb504f68a53c1541008efa15fd\""
 }

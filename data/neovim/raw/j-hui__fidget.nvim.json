@@ -1,6 +1,6 @@
 {
   "slug": "j-hui/fidget.nvim",
-  "fetched_at": "2026-11-15T11:12:23.929695674Z",
+  "fetched_at": "2026-11-16T11:42:37.760298199Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 18565
   },
   "slow_fetched_at": "2026-11-13T11:30:01.176215732Z",
-  "commits_etag": "\"3236d4d9fbe551d6e5e453b36a8f51555d3f111f30ad7b987c3cb4bddf311f88\"",
-  "releases_etag": "\"87ed327baba07079b0387547129d07457989c1ac6ee5d7062483db92a24e6ba5\""
+  "commits_etag": "\"3631ee48d5418229327ccbc2f2d430ec64b7d86badc1789b60cf06a48bfbe395\"",
+  "releases_etag": "\"5d4368c55b5c5bbf41b062a45d4a8d7d9b4e4ae7b68b7ab33695a684dcbbb9d3\""
 }

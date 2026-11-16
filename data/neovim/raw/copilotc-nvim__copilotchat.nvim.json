@@ -1,6 +1,6 @@
 {
   "slug": "copilotc-nvim/copilotchat.nvim",
-  "fetched_at": "2026-11-15T11:02:06.403234769Z",
+  "fetched_at": "2026-11-16T11:28:59.962722611Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -13,7 +13,7 @@
     "releases_365d": 0,
     "median_issue_close_days": 22.835150462962964,
     "median_pr_close_days": 0.0017997685185185185,
-    "open_issues": 25,
+    "open_issues": 26,
     "closed_issues_sampled": 18,
     "contributors_12mo": 13,
     "top_author_commit_share": 0.5945945945945946,
@@ -27,6 +27,6 @@
     "readme_len": 53087
   },
   "slow_fetched_at": "2026-11-13T11:13:33.887269507Z",
-  "commits_etag": "\"44ad0d3d0643d594c98068148b387ba0031449ad33bf20ffe1c4d8662aff419e\"",
-  "releases_etag": "\"094d3bdd33596af6e86419c044bc8d68da0339512855adfe3252000a3c16e42b\""
+  "commits_etag": "\"79de065d12e034ab7d49eb8273aaf1909c2d9ed599b46efdf531317420fc8981\"",
+  "releases_etag": "\"1753fb7979ed20d321e90ab396f2d2a3fcfe9af037d6c60d8b1a248b0829b6d2\""
 }

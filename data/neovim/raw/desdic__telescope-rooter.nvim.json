@@ -1,6 +1,6 @@
 {
   "slug": "desdic/telescope-rooter.nvim",
-  "fetched_at": "2026-11-15T11:04:29.831468638Z",
+  "fetched_at": "2026-11-16T11:32:04.705816709Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 962
   },
   "slow_fetched_at": "2026-11-13T11:17:36.332035781Z",
-  "commits_etag": "\"964b52ad9b4946465c7fb34b934287e8a6fc8f97b9b294bebd0a84eaf8bd3ceb\"",
-  "releases_etag": "\"b2f25abdbda1dc8d5f5cc910020310df0fbee8dd1a43e00b2cb71964c3d55db1\""
+  "commits_etag": "\"208b1cc85a3f415f552915aeae424f957fcec91d1eee202baf82ba2d7a86a731\"",
+  "releases_etag": "\"bb30f0f36085cc06afa9358b4d6d847ad0c1e1cb504f68a53c1541008efa15fd\""
 }

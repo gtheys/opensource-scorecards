@@ -1,6 +1,6 @@
 {
   "slug": "bekaboo/deadcolumn.nvim",
-  "fetched_at": "2026-11-15T10:58:38.040294811Z",
+  "fetched_at": "2026-11-16T11:24:21.889657110Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -10,11 +10,11 @@
     "license_spdx": "GPL-3.0",
     "last_commit_at": null,
     "commits_90d": 0,
-    "releases_365d": 0,
-    "median_issue_close_days": 4.050081018518519,
-    "median_pr_close_days": 1.7486342592592594,
-    "open_issues": 2,
-    "closed_issues_sampled": 21,
+    "releases_365d": 1,
+    "median_issue_close_days": 4.465121527777778,
+    "median_pr_close_days": 2.1528935185185185,
+    "open_issues": 0,
+    "closed_issues_sampled": 22,
     "contributors_12mo": 0,
     "top_author_commit_share": 0.0,
     "top_author": null,
@@ -23,6 +23,6 @@
     "readme_len": 11237
   },
   "slow_fetched_at": "2026-11-13T11:08:31.581541404Z",
-  "commits_etag": "\"92363a883258f799ad9ca318a161d2caf5778cc0010eee87042a615cdc46b9bf\"",
-  "releases_etag": "\"4b57b2abca671dc70980a2b2a2139a419772d52ad7c0d716bc51354a4f167422\""
+  "commits_etag": "\"a2e82104bd566fad56a95a11dc6b1e9155c7994b1b2f8b6022cae9c63a922296\"",
+  "releases_etag": "\"096a7de426a7a00dbe6106fba5bb570768ee84ba1618cc032fb61b706a8d82e4\""
 }

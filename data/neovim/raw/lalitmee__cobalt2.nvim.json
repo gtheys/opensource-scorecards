@@ -1,6 +1,6 @@
 {
   "slug": "lalitmee/cobalt2.nvim",
-  "fetched_at": "2026-11-15T11:17:04.222412459Z",
+  "fetched_at": "2026-11-16T11:48:31.885328571Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 4530
   },
   "slow_fetched_at": "2026-11-14T10:51:01.106172834Z",
-  "commits_etag": "\"a36cfeb6c463ea5def561078188d1ccda3b03b83d7bfee9a1d1ea3c8e6d6635a\"",
-  "releases_etag": "\"b2f25abdbda1dc8d5f5cc910020310df0fbee8dd1a43e00b2cb71964c3d55db1\""
+  "commits_etag": "\"109c199f54c4185ec0fecfad44796282b7800bd2cc712903c8fc83729e451ec1\"",
+  "releases_etag": "\"bb30f0f36085cc06afa9358b4d6d847ad0c1e1cb504f68a53c1541008efa15fd\""
 }

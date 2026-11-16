@@ -1,10 +1,10 @@
 {
   "slug": "folke/todo-comments.nvim",
-  "fetched_at": "2026-11-15T11:08:18.751757804Z",
+  "fetched_at": "2026-11-16T11:37:10.292729147Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 4226,
+    "stars": 4225,
     "forks": 141,
     "description": "✅  Highlight, list and search todo comments in your projects",
     "license_spdx": "Apache-2.0",
@@ -23,6 +23,6 @@
     "readme_len": 6912
   },
   "slow_fetched_at": "2026-11-13T11:23:47.697002825Z",
-  "commits_etag": "\"f21ce9294c01a7626064469104a1be4808bba681cb6dea3db2e2d06dda6e3ab4\"",
-  "releases_etag": "\"089b41147bf7c19977079eac744c188a35a74f98549dea2b2536e0b0337875be\""
+  "commits_etag": "\"b8eaf5d3092db0ab15b9c6f03039c63377361c256d6c390723533d70ea17c296\"",
+  "releases_etag": "\"f8c03af213aa0328a76b717f336fef55f4ce5db65ba5c1f649b215db347f583f\""
 }

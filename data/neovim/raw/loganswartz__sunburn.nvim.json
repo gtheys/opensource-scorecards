@@ -1,6 +1,6 @@
 {
   "slug": "loganswartz/sunburn.nvim",
-  "fetched_at": "2026-11-15T11:18:41.501891269Z",
+  "fetched_at": "2026-11-16T11:50:35.004637778Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 4108
   },
   "slow_fetched_at": "2026-11-14T10:52:58.832191729Z",
-  "commits_etag": "\"b90ebe9bd423541d274ca179efa4e32d2ab4a3172c71423cd6c9a43f6c5e2a13\"",
-  "releases_etag": "\"b2f25abdbda1dc8d5f5cc910020310df0fbee8dd1a43e00b2cb71964c3d55db1\""
+  "commits_etag": "\"b44d4066b9b34bab76be15fa184663fd774ee947e1301db9d2daec5cd065cb0b\"",
+  "releases_etag": "\"bb30f0f36085cc06afa9358b4d6d847ad0c1e1cb504f68a53c1541008efa15fd\""
 }
