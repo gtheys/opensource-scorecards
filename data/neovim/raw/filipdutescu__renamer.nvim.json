@@ -1,10 +1,10 @@
 {
   "slug": "filipdutescu/renamer.nvim",
-  "fetched_at": "2026-11-16T11:35:59.596963214Z",
+  "fetched_at": "2026-11-17T12:09:23.892654012Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 318,
+    "stars": 319,
     "forks": 12,
     "description": "VS Code-like renaming UI for Neovim, writen in Lua.",
     "license_spdx": "Apache-2.0",
@@ -23,6 +23,6 @@
     "readme_len": 9234
   },
   "slow_fetched_at": "2026-11-13T11:22:37.646116034Z",
-  "commits_etag": "\"4e6ca1aab78ba97cb2afc56111311e7313d4804cb09e7ebcd13052a67c3e4db3\"",
-  "releases_etag": "\"5bcd94fc61734e5c54ae0f9b75380bcd7395208de486b2aa9e6a7222a61be9ad\""
+  "commits_etag": "\"16176cdb9bcfaf8eb439c933567df4c5a1d8713efb4e70c87423bcba1688faf6\"",
+  "releases_etag": "\"8de84d4c313f08b7f84d8bea2edaf45935b3adbe67f51ffffbcf3441d71bae19\""
 }

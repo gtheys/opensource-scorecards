@@ -1,6 +1,6 @@
 {
   "slug": "declancm/cinnamon.nvim",
-  "fetched_at": "2026-11-16T11:31:47.906547670Z",
+  "fetched_at": "2026-11-17T12:05:43.398802267Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 6228
   },
   "slow_fetched_at": "2026-11-13T11:17:13.206602744Z",
-  "commits_etag": "\"e5a0236e7e48299bdc2739b7c9ab6c829ba3a41080c88524cf0a1c532d1ac0fa\"",
-  "releases_etag": "\"2ff63dd9fbd34c86f66608e8946cb34d58a1cba8b31a7151618ca76e76a6638b\""
+  "commits_etag": "\"66364e2ec2b600b13c56cc7dcbcaf773b68f68caed83d54f535f5e9a8e71feb4\"",
+  "releases_etag": "\"319f74119d06b14e2011752f5fb36a825a7875e8feaa94b4604459d87b71a63d\""
 }

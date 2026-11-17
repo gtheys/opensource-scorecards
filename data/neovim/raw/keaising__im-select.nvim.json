@@ -1,6 +1,6 @@
 {
   "slug": "keaising/im-select.nvim",
-  "fetched_at": "2026-11-16T11:46:30.806293079Z",
+  "fetched_at": "2026-11-17T12:19:13.954423972Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 4656
   },
   "slow_fetched_at": "2026-11-14T10:48:57.492022200Z",
-  "commits_etag": "\"a297e38be5b64e74adff728f2f1c7e01919e3284c4be059ce8018ac3c776625c\"",
-  "releases_etag": "\"bb30f0f36085cc06afa9358b4d6d847ad0c1e1cb504f68a53c1541008efa15fd\""
+  "commits_etag": "\"1400fb7821d2b1706cd54c36675a29cf7847ad8b32a9d053020abf5eb0fea3ac\"",
+  "releases_etag": "\"eefddc31ac9c07a85eacb44de8107c6896691753467c8eac8024b909dc05b4c9\""
 }

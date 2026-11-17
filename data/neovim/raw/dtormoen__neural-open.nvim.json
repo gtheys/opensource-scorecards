@@ -1,6 +1,6 @@
 {
   "slug": "dtormoen/neural-open.nvim",
-  "fetched_at": "2026-11-16T11:33:49.575209347Z",
+  "fetched_at": "2026-11-17T12:07:30.710581423Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 14000
   },
   "slow_fetched_at": "2026-11-13T11:19:50.306169103Z",
-  "commits_etag": "\"9382ab9046adba0a4bce77ab0e3d09477454d40aa3fc90758cb98244f57c6e0f\"",
-  "releases_etag": "\"922531738f9de6e6ea1645e897e59f714b34fe6ad7cda4df47da3a5c98129b50\""
+  "commits_etag": "\"c61bd33cbd53dfd1f573a16a082d7cb48e99d4c91f2f07b3d3bb74e8a2ef96e4\"",
+  "releases_etag": "\"f4cce4d85e480f34963de80871e9856e712bfaf199492f031425e7e2f323a42e\""
 }

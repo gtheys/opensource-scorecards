@@ -1,10 +1,10 @@
 {
   "slug": "edluffy/hologram.nvim",
-  "fetched_at": "2026-11-16T11:34:16.479381378Z",
+  "fetched_at": "2026-11-17T12:07:49.825062096Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 1434,
+    "stars": 1435,
     "forks": 32,
     "description": "👻 A cross platform terminal image viewer for Neovim. Extensible and fast, written in Lua and C. Works on macOS and Linux.",
     "license_spdx": "MIT",
@@ -23,6 +23,6 @@
     "readme_len": 4843
   },
   "slow_fetched_at": "2026-11-13T11:20:24.736420825Z",
-  "commits_etag": "\"f617f1ec4a2a009b8b86103f837616918417b1edf417c03e974c19dde78c63be\"",
-  "releases_etag": "\"bb30f0f36085cc06afa9358b4d6d847ad0c1e1cb504f68a53c1541008efa15fd\""
+  "commits_etag": "\"ad3d699b767192325380926c1083a2741384a9f6ce2490eea56a31f8b22b0514\"",
+  "releases_etag": "\"eefddc31ac9c07a85eacb44de8107c6896691753467c8eac8024b909dc05b4c9\""
 }

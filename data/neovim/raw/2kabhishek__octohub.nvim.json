@@ -1,6 +1,6 @@
 {
   "slug": "2kabhishek/octohub.nvim",
-  "fetched_at": "2026-11-16T11:18:07.910098916Z",
+  "fetched_at": "2026-11-17T11:53:35.328367501Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 13403
   },
   "slow_fetched_at": "2026-11-13T11:01:46.689719835Z",
-  "commits_etag": "\"3c8b0f5eefa5a45bf8fa3a713621809cefe9307faae4a4f488fd4b042d3f22da\"",
-  "releases_etag": "\"755ab077c9dd4a0075faa67a011b736b663697d1d872d55a6b29c20f439a7fba\""
+  "commits_etag": "\"bd224f02184e5b61dda8554349a1d18622f14789c8c661e68a4d9b0d622d4dc9\"",
+  "releases_etag": "\"0b749a242267d97cf8227027035e70d643b3406d4fcd92663d5256f5b9e66f54\""
 }

@@ -1,6 +1,6 @@
 {
   "slug": "neur1n/hyphen.nvim",
-  "fetched_at": "2026-11-03T11:39:02.009185640Z",
+  "fetched_at": "2026-11-17T12:31:14.033899311Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -25,5 +25,8 @@
     "has_ci": false,
     "has_tests": false,
     "readme_len": 9470
-  }
+  },
+  "slow_fetched_at": "2026-11-17T12:31:14.033899311Z",
+  "commits_etag": "\"3c92f609f20d20d4a58ea100e70fb7bfcca1e7d96873205e1efc6a6d1bf09a35\"",
+  "releases_etag": "\"eefddc31ac9c07a85eacb44de8107c6896691753467c8eac8024b909dc05b4c9\""
 }

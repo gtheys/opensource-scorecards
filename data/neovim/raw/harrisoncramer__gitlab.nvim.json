@@ -1,6 +1,6 @@
 {
   "slug": "harrisoncramer/gitlab.nvim",
-  "fetched_at": "2026-11-16T11:39:44.792741944Z",
+  "fetched_at": "2026-11-17T12:12:47.938090258Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 15214
   },
   "slow_fetched_at": "2026-11-13T11:26:51.120621790Z",
-  "commits_etag": "\"636a045a4db843bab667dda3076dea69979a6370999b75849ae214be2c3a15e1\"",
-  "releases_etag": "\"4209d71448143577bd05e9551abae2f83a029e0594a9f6b907a862ebd5907174\""
+  "commits_etag": "\"2fc1ae3d735c1e645ff8d854463a39aa363acdd71f0072e1d8af7305999c743b\"",
+  "releases_etag": "\"b59fb8e349c6d5cf58cda5f1d1380a0f91f6957e7ffbebd6349ce4e65a433cd8\""
 }

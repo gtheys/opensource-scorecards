@@ -1,10 +1,10 @@
 {
   "slug": "gorbit99/codewindow.nvim",
-  "fetched_at": "2026-11-16T11:39:15.326796210Z",
+  "fetched_at": "2026-11-17T12:12:21.003721301Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 489,
+    "stars": 490,
     "forks": 20,
     "description": null,
     "license_spdx": "MIT",
@@ -23,6 +23,6 @@
     "readme_len": 5409
   },
   "slow_fetched_at": "2026-11-13T11:26:13.138415060Z",
-  "commits_etag": "\"529ad243faf7e3a15cb12149f8297545dc00b3513c7e3d60318ee4695b1c723f\"",
-  "releases_etag": "\"bb30f0f36085cc06afa9358b4d6d847ad0c1e1cb504f68a53c1541008efa15fd\""
+  "commits_etag": "\"c71bdc370322007f5fe8cd5f47d2237b4fd72ac39055471995e58bf7f2a3f4ec\"",
+  "releases_etag": "\"eefddc31ac9c07a85eacb44de8107c6896691753467c8eac8024b909dc05b4c9\""
 }

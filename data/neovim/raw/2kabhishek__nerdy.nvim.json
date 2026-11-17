@@ -1,6 +1,6 @@
 {
   "slug": "2kabhishek/nerdy.nvim",
-  "fetched_at": "2026-11-16T11:18:04.002390938Z",
+  "fetched_at": "2026-11-17T11:53:33.232305873Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -16,7 +16,7 @@
     "open_issues": 0,
     "closed_issues_sampled": 14,
     "contributors_12mo": 4,
-    "top_author_commit_share": 0.8846153846153846,
+    "top_author_commit_share": 0.8636363636363636,
     "top_author": {
       "login": "2KAbhishek",
       "account_created_at": "2017-01-30T01:00:13Z",
@@ -27,6 +27,6 @@
     "readme_len": 7200
   },
   "slow_fetched_at": "2026-11-13T11:01:43.896209360Z",
-  "commits_etag": "\"8abdf1a1caf1395de93f84818ce2b1c417d4cffba512f65b18adf0dfb1514cae\"",
-  "releases_etag": "\"5729d47c1d3b9dc1564d0354b7017a8ed9315e762f312fe568bf2c7fca144fc3\""
+  "commits_etag": "\"1984165d1548959fba9b078d9a9a8203040d2b2b27db45941167db8ea51396de\"",
+  "releases_etag": "\"1e8428d065d07e96e2651620b81b251277e345df8f2dc2a17e5374e8a4b9bde2\""
 }

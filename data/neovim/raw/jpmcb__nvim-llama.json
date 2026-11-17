@@ -1,6 +1,6 @@
 {
   "slug": "jpmcb/nvim-llama",
-  "fetched_at": "2026-11-16T11:44:56.531828331Z",
+  "fetched_at": "2026-11-17T12:17:45.480111601Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 2774
   },
   "slow_fetched_at": "2026-11-14T10:47:25.452238847Z",
-  "commits_etag": "\"0d79375a27e213451b7727eb71ae481242f8df4944936b3f7795931b3b540274\"",
-  "releases_etag": "\"02b7e498a8ddfefe6cbf16334599f1e247e6b6f91291adf202b3e6d704483ed3\""
+  "commits_etag": "\"2fd90fac385f47ddcafa8143fbac8109c7dd1866e24670f8a7787942ab86ca48\"",
+  "releases_etag": "\"d52cfb933099ce5abd5e11aa0c2725703ec0f00621178b2dacf3fa10de4def94\""
 }

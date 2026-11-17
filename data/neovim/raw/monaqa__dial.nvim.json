@@ -1,10 +1,10 @@
 {
   "slug": "monaqa/dial.nvim",
-  "fetched_at": "2026-11-16T11:56:16.906278355Z",
+  "fetched_at": "2026-11-17T12:28:11.098063634Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 1114,
+    "stars": 1115,
     "forks": 24,
     "description": "enhanced increment/decrement plugin for Neovim.",
     "license_spdx": "MIT",
@@ -27,6 +27,6 @@
     "readme_len": 16180
   },
   "slow_fetched_at": "2026-11-15T11:23:27.016344124Z",
-  "commits_etag": "\"03b16a0fa338b2b56a744b275e7539baafecc6fd861cfcb4644065f8ee8a6549\"",
-  "releases_etag": "\"754c2672703bf327e51405de12a59cd86e00e8873291d13699f4efa2320e079d\""
+  "commits_etag": "\"29e013330312f52a328a90e71dceb5f78dacef0d93537cd207bff71ea2295de3\"",
+  "releases_etag": "\"a249fbee6bbf0dcb859d237ce6e9f62b67d72218a3f48de8f33d09037bb2a2a3\""
 }

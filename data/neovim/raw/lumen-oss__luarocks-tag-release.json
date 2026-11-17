@@ -1,6 +1,6 @@
 {
   "slug": "lumen-oss/luarocks-tag-release",
-  "fetched_at": "2026-11-16T11:51:16.130081532Z",
+  "fetched_at": "2026-11-17T12:23:45.623477065Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -8,11 +8,11 @@
     "forks": 3,
     "description": "GitHub workflow for automatically generating Luarocks releases from tags and running busted tests",
     "license_spdx": "AGPL-3.0",
-    "last_commit_at": "2026-11-15T12:56:51Z",
-    "commits_90d": 120,
+    "last_commit_at": "2026-11-16T13:57:57Z",
+    "commits_90d": 121,
     "releases_365d": 27,
     "median_issue_close_days": 2.6930729166666665,
-    "median_pr_close_days": 0.0013078703703703703,
+    "median_pr_close_days": 0.001255787037037037,
     "open_issues": 7,
     "closed_issues_sampled": 4,
     "contributors_12mo": 3,
@@ -27,6 +27,6 @@
     "readme_len": 11853
   },
   "slow_fetched_at": "2026-11-14T10:53:40.132202031Z",
-  "commits_etag": "\"507e83545231363b359b53a0176d28076e7c7a0b34f2e5f9b12ca22afff301f4\"",
-  "releases_etag": "\"71229bdd28aca982ccc0911953d891ffda24e4a96cab6788462c0813b05fce97\""
+  "commits_etag": "\"b34326082f95a13f2538cdddc02fb2738a826549f7f7bcc432d0083f9169e76c\"",
+  "releases_etag": "\"5de0c20d873ad2f09926b9b0b3df87e23d2bceb1deb777f490e2b080066f31e8\""
 }

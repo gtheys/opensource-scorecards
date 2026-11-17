@@ -1,6 +1,6 @@
 {
   "slug": "attilarepka/header.nvim",
-  "fetched_at": "2026-11-16T11:22:57.799936136Z",
+  "fetched_at": "2026-11-17T11:57:37.463033095Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -16,7 +16,7 @@
     "open_issues": 0,
     "closed_issues_sampled": 6,
     "contributors_12mo": 3,
-    "top_author_commit_share": 0.8648648648648649,
+    "top_author_commit_share": 0.8571428571428571,
     "top_author": {
       "login": "attilarepka",
       "account_created_at": "2018-05-07T17:30:35Z",
@@ -27,6 +27,6 @@
     "readme_len": 9147
   },
   "slow_fetched_at": "2026-11-13T11:06:58.124333564Z",
-  "commits_etag": "\"55cf425b7a40d445b41f9fe6ffcbbf656b685e739bb61dacb5632b6ab9e6fd02\"",
-  "releases_etag": "\"bb30f0f36085cc06afa9358b4d6d847ad0c1e1cb504f68a53c1541008efa15fd\""
+  "commits_etag": "\"4c93b4c887eda7460b0d79ce4b12793561b9de4561e12dbdbf1ba27b869b74c7\"",
+  "releases_etag": "\"eefddc31ac9c07a85eacb44de8107c6896691753467c8eac8024b909dc05b4c9\""
 }

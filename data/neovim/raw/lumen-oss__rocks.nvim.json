@@ -1,6 +1,6 @@
 {
   "slug": "lumen-oss/rocks.nvim",
-  "fetched_at": "2026-11-16T11:51:35.398335851Z",
+  "fetched_at": "2026-11-17T12:23:59.825231023Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 19543
   },
   "slow_fetched_at": "2026-11-14T10:53:53.006671872Z",
-  "commits_etag": "\"60c47c978158dd16a300e65388cc42db01b4e9e41dd34fbf9b48acb5c9066d5a\"",
-  "releases_etag": "\"5d76e211d83bf7784ca8eab924a60d555b276e07c737d6a709a90115056f25a5\""
+  "commits_etag": "\"b6854fd4b73c334fa1cdea389f85393f81a0c53761e9ac3e44150d925163e825\"",
+  "releases_etag": "\"e470ca1e70601a58b7dbab548c7d92a7bfcd3c795119328ae4ed990af67cb103\""
 }

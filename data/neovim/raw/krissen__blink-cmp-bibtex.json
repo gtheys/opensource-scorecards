@@ -1,6 +1,6 @@
 {
   "slug": "krissen/blink-cmp-bibtex",
-  "fetched_at": "2026-11-16T11:48:00.108781897Z",
+  "fetched_at": "2026-11-17T12:20:33.295281800Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,14 +9,14 @@
     "description": "A lightweight BibTeX citation source for Blink completion.",
     "license_spdx": "MIT",
     "last_commit_at": "2026-09-08T12:03:10Z",
-    "commits_90d": 17,
+    "commits_90d": 14,
     "releases_365d": 6,
     "median_issue_close_days": 0.9075925925925925,
     "median_pr_close_days": 0.017193287037037035,
     "open_issues": 2,
     "closed_issues_sampled": 6,
     "contributors_12mo": 3,
-    "top_author_commit_share": 0.8439024390243902,
+    "top_author_commit_share": 0.8666666666666667,
     "top_author": {
       "login": "krissen",
       "account_created_at": "2012-12-02T10:49:04Z",
@@ -27,6 +27,6 @@
     "readme_len": 32488
   },
   "slow_fetched_at": "2026-11-14T10:50:31.867171016Z",
-  "commits_etag": "\"045e8c7dce25cf72d1c2137a621bbff68af42b0344296f11ecd815e32116a39f\"",
-  "releases_etag": "\"7bbcb1e396629fe18eace80b7e83da92488cc5118de400c4f801099018e2f1ea\""
+  "commits_etag": "\"01f5dba1d5dc1413e745762f9d2e107b2b87c93be98e35edf5a0a41672749abd\"",
+  "releases_etag": "\"7e4e71729bd0222c17249d39063e02716d658379b9c4a75240897eb5a4ce8cc3\""
 }

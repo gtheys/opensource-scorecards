@@ -1,6 +1,6 @@
 {
   "slug": "kiyoon/telescope-insert-path.nvim",
-  "fetched_at": "2026-11-16T11:47:21.717205996Z",
+  "fetched_at": "2026-11-17T12:19:55.091450843Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 2509
   },
   "slow_fetched_at": "2026-11-14T10:49:50.421999945Z",
-  "commits_etag": "\"733f5705a9629385cf3d776f7feba7997663962f31639f189d40de62bd5b123f\"",
-  "releases_etag": "\"bb30f0f36085cc06afa9358b4d6d847ad0c1e1cb504f68a53c1541008efa15fd\""
+  "commits_etag": "\"b66ded629ecee9db8e366941eb2104476a4ec7cf85677343184c8058b0ccb150\"",
+  "releases_etag": "\"eefddc31ac9c07a85eacb44de8107c6896691753467c8eac8024b909dc05b4c9\""
 }

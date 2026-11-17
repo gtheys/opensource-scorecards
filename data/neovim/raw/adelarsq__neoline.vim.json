@@ -1,6 +1,6 @@
 {
   "slug": "adelarsq/neoline.vim",
-  "fetched_at": "2026-11-16T11:19:42.141734509Z",
+  "fetched_at": "2026-11-17T11:54:49.470878973Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -18,15 +18,15 @@
     "contributors_12mo": 2,
     "top_author_commit_share": 0.5,
     "top_author": {
-      "login": "jwir3",
-      "account_created_at": "2011-08-22T19:18:43Z",
-      "other_repos_star_sum": 27
+      "login": "adelarsq",
+      "account_created_at": "2010-10-06T23:23:04Z",
+      "other_repos_star_sum": 502
     },
     "has_ci": false,
     "has_tests": true,
     "readme_len": 7236
   },
   "slow_fetched_at": "2026-11-13T11:03:23.586710742Z",
-  "commits_etag": "\"cee2ac47ff60dd1661902abe35d75833119b980f38d11efeeabb009c43e0f9d5\"",
-  "releases_etag": "\"bb30f0f36085cc06afa9358b4d6d847ad0c1e1cb504f68a53c1541008efa15fd\""
+  "commits_etag": "\"0df9ec5055191c53fcb67fa354043b48ee2eafc5171d5e45d5e7c1a4c7971de7\"",
+  "releases_etag": "\"eefddc31ac9c07a85eacb44de8107c6896691753467c8eac8024b909dc05b4c9\""
 }

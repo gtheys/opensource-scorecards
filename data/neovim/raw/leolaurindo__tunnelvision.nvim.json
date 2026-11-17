@@ -1,10 +1,10 @@
 {
   "slug": "leolaurindo/tunnelvision.nvim",
-  "fetched_at": "2026-11-16T11:49:10.202832198Z",
+  "fetched_at": "2026-11-17T12:21:49.728966710Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 38,
+    "stars": 39,
     "forks": 0,
     "description": "tunnelvision.nvim dims unrelated lines to keep you focused on the targeted symbol.",
     "license_spdx": "MIT",
@@ -27,6 +27,6 @@
     "readme_len": 19286
   },
   "slow_fetched_at": "2026-11-14T10:51:34.309056189Z",
-  "commits_etag": "\"a5d37072387ed17363ebbb5bb20163a22455a72ebe424cc52cc85533533f2b87\"",
-  "releases_etag": "\"477ef1d190ca61205d0715de639576b7fb9cf8191d7461071f40368dc4b5731f\""
+  "commits_etag": "\"9cd3e71b5ae68433d71ee0fa2c6393831eb42153c2c1b40e3e343ddf24731133\"",
+  "releases_etag": "\"4a9718c3b9708497a8281dc75469f85458709ed54a61ebd1821cc83272af4afa\""
 }

@@ -1,10 +1,10 @@
 {
   "slug": "apeoplescalendar/apc.nvim",
-  "fetched_at": "2026-11-16T11:22:13.903255721Z",
+  "fetched_at": "2026-11-17T11:56:56.091282578Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 23,
+    "stars": 24,
     "forks": 2,
     "description": "Plugin providing \"A People's Calendar\" for Neovim, written in lua.",
     "license_spdx": "MIT",
@@ -23,6 +23,6 @@
     "readme_len": 2304
   },
   "slow_fetched_at": "2026-11-13T11:06:08.868727629Z",
-  "commits_etag": "\"228327809605d8e9b4ea53b6dd9db28957719df59ed3206732a4fc4d70cedd51\"",
-  "releases_etag": "\"bb30f0f36085cc06afa9358b4d6d847ad0c1e1cb504f68a53c1541008efa15fd\""
+  "commits_etag": "\"7f07eccf2b6fc5bdef12a1d0210e98869b0a134305735dbc3fe8b6943580e53b\"",
+  "releases_etag": "\"eefddc31ac9c07a85eacb44de8107c6896691753467c8eac8024b909dc05b4c9\""
 }

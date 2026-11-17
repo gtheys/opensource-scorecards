@@ -1,6 +1,6 @@
 {
   "slug": "ahkohd/buffer-sticks.nvim",
-  "fetched_at": "2026-11-16T11:20:07.434131467Z",
+  "fetched_at": "2026-11-17T11:55:12.068391059Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 13786
   },
   "slow_fetched_at": "2026-11-13T11:03:52.170074331Z",
-  "commits_etag": "\"dd8dfc6cc728f549eac9a1c793c25fff70bfe9bf4180ed065e151fc4a36e8102\"",
-  "releases_etag": "\"bb30f0f36085cc06afa9358b4d6d847ad0c1e1cb504f68a53c1541008efa15fd\""
+  "commits_etag": "\"92c44381c265e13038a2a9561c38a6d9a2db38fb759bc3d29524ef6bd49847bd\"",
+  "releases_etag": "\"eefddc31ac9c07a85eacb44de8107c6896691753467c8eac8024b909dc05b4c9\""
 }

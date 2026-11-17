@@ -1,6 +1,6 @@
 {
   "slug": "mesirendon/nvim-ghrelease",
-  "fetched_at": "2026-11-16T11:53:54.885794113Z",
+  "fetched_at": "2026-11-17T12:26:01.061130161Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 5817
   },
   "slow_fetched_at": "2026-11-15T11:21:14.181336643Z",
-  "commits_etag": "\"dfbd246890e17b393f09df85ede5876439875dccfe5bd847125533bc4ae8d73f\"",
-  "releases_etag": "\"5f9e21ebd4a618ee934903578d6bc0b536de9f48c1e3e9d7b94c1ffa2611d354\""
+  "commits_etag": "\"cbc4e49d2bf519df34836fd666e4a3e0ed1183feaa27c3e21a88e2e68c6484fc\"",
+  "releases_etag": "\"176aa12634eb4855825863aaa3eda847ec1cc149e73f30366920cfd328bcf403\""
 }

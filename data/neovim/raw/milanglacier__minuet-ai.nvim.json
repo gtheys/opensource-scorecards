@@ -1,10 +1,10 @@
 {
   "slug": "milanglacier/minuet-ai.nvim",
-  "fetched_at": "2026-11-16T11:55:06.477975426Z",
+  "fetched_at": "2026-11-17T12:27:09.039269426Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 1462,
+    "stars": 1463,
     "forks": 68,
     "description": "💃 Dance with Intelligence in Your Code. Minuet offers code completion as-you-type from popular LLMs including OpenAI, Gemini, Claude, Ollama, Llama.cpp, Codestral, and more.",
     "license_spdx": "GPL-3.0",
@@ -27,6 +27,6 @@
     "readme_len": 74856
   },
   "slow_fetched_at": "2026-11-15T11:22:18.481393797Z",
-  "commits_etag": "\"441017727d29c94e4708fff2c811b161b4088fd839cd61fc3ca13320a3ab2d1a\"",
-  "releases_etag": "\"56c75fe9a88c2488949d2512da67d31f2b7581deb3b6fdb6b6eeddf05d85abf1\""
+  "commits_etag": "\"6da47da5fd94cebb25c7185afa70a47606a475ab3e81a5a27b1d7a78468aa7cf\"",
+  "releases_etag": "\"f5dbf0c9636e9717a134ef06e5d741eb9b96d1f7cc4e91183735f702f319321f\""
 }

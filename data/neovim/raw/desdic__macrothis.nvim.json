@@ -1,6 +1,6 @@
 {
   "slug": "desdic/macrothis.nvim",
-  "fetched_at": "2026-11-16T11:32:00.192375236Z",
+  "fetched_at": "2026-11-17T12:05:55.365864834Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 2632
   },
   "slow_fetched_at": "2026-11-13T11:17:31.205580411Z",
-  "commits_etag": "\"dfffa1f0927a7ecaca45343d2a5bad7bd4c53ca577efeaed3cec516757778aa8\"",
-  "releases_etag": "\"2f44ff295c3a5357f7d1dae8594275b4c71a39fddeb66cdf94e8144d53584574\""
+  "commits_etag": "\"62089f69b91fd72556f55fccec26096a19bd9efd5058cc22c417fbd054159395\"",
+  "releases_etag": "\"f8ce3612339302ca3e2266414cb9be623b536fb2e52d1fe7978cb8cac42d51a5\""
 }

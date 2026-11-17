@@ -1,6 +1,6 @@
 {
   "slug": "kosayoda/nvim-lightbulb",
-  "fetched_at": "2026-11-16T11:47:52.167201775Z",
+  "fetched_at": "2026-11-17T12:20:25.771905534Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 7590
   },
   "slow_fetched_at": "2026-11-14T10:50:21.286187070Z",
-  "commits_etag": "\"fefd5bca9b62fdc8be853f78b521efa53465e43a56cc4772f8ffd3ebf9277b92\"",
-  "releases_etag": "\"068c8c2c1b7fca5613bbd70973813b1b355f3c68419184cb492e3fac2015b898\""
+  "commits_etag": "\"8c54d093c5d4325d6d105b6667db46417633eeb35d5a7e1ba3c533f9109f0d46\"",
+  "releases_etag": "\"aec332c4429b201fa5bbb7702caca246a3ff638b3362266b7cf91ca07b4f09d8\""
 }

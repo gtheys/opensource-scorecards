@@ -1,6 +1,6 @@
 {
   "slug": "marko-cerovac/material.nvim",
-  "fetched_at": "2026-11-16T11:52:47.693221119Z",
+  "fetched_at": "2026-11-17T12:25:02.989648105Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 11237
   },
   "slow_fetched_at": "2026-11-14T10:54:56.249957972Z",
-  "commits_etag": "\"cf17e99cd5a1223265fd71c56f7d200c9870960cec42b6357ce5c4b075dca5ca\"",
-  "releases_etag": "\"bb30f0f36085cc06afa9358b4d6d847ad0c1e1cb504f68a53c1541008efa15fd\""
+  "commits_etag": "\"334714f8e80b34cc78b5ddd328b0ae6c120a70488a81573b3e7b639d8bc511dd\"",
+  "releases_etag": "\"eefddc31ac9c07a85eacb44de8107c6896691753467c8eac8024b909dc05b4c9\""
 }

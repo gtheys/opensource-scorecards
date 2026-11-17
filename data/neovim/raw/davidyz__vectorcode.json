@@ -1,10 +1,10 @@
 {
   "slug": "davidyz/vectorcode",
-  "fetched_at": "2026-11-16T11:31:36.316075948Z",
+  "fetched_at": "2026-11-17T12:05:30.283088407Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 874,
+    "stars": 875,
     "forks": 50,
     "description": "A code repository indexing tool to supercharge your LLM experience.",
     "license_spdx": "MIT",
@@ -18,15 +18,15 @@
     "contributors_12mo": 2,
     "top_author_commit_share": 0.5,
     "top_author": {
-      "login": "olimorris",
-      "account_created_at": "2014-11-02T11:41:08Z",
-      "other_repos_star_sum": 9537
+      "login": "larrybotha",
+      "account_created_at": "2012-03-07T07:56:11Z",
+      "other_repos_star_sum": 176
     },
     "has_ci": true,
     "has_tests": true,
     "readme_len": 6451
   },
   "slow_fetched_at": "2026-11-13T11:16:56.314151875Z",
-  "commits_etag": "\"04f9be61d5157ff551678eda21a4be19dccdecd689de2a0945148b08f4094694\"",
-  "releases_etag": "\"cf4b78726f6697170c620f5f38009b3cdc9c86c1703b7c142c8412c784cec299\""
+  "commits_etag": "\"a6ff062b8105675ac6fc4c14199d3bf43e8a2a9d95ede5c82bb69a82daff6e58\"",
+  "releases_etag": "\"e08ec4f9fce00331853bda912c0974ab77c9b5fff3946416a3b0304258418940\""
 }

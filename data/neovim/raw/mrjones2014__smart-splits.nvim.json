@@ -1,6 +1,6 @@
 {
   "slug": "mrjones2014/smart-splits.nvim",
-  "fetched_at": "2026-11-16T11:57:36.174591497Z",
+  "fetched_at": "2026-11-17T12:29:24.511898194Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -16,7 +16,7 @@
     "open_issues": 0,
     "closed_issues_sampled": 20,
     "contributors_12mo": 10,
-    "top_author_commit_share": 0.770949720670391,
+    "top_author_commit_share": 0.7976878612716763,
     "top_author": {
       "login": "mrjones2014",
       "account_created_at": "2014-09-03T23:51:58Z",
@@ -27,6 +27,6 @@
     "readme_len": 21491
   },
   "slow_fetched_at": "2026-11-15T11:24:41.429927624Z",
-  "commits_etag": "\"82dc2a3f72370feb122ce35f154427c4e07c1d0ee6d324c6b9f2a61683445b50\"",
-  "releases_etag": "\"8b37407131f3ab542ae5deb4989d2b75332c7e20e2e8c009e325533c584bdac0\""
+  "commits_etag": "\"b3497c23586745a67a9f406fd382bd7962d883ca84a6d28354f1219632a563f7\"",
+  "releases_etag": "\"4274e4fd5aadd07f2cb0bf62a011183b078d21ed1da3f9520731034aeea97a60\""
 }

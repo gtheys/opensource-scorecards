@@ -1,6 +1,6 @@
 {
   "slug": "mawkler/jsx-element.nvim",
-  "fetched_at": "2026-11-16T11:53:18.822691722Z",
+  "fetched_at": "2026-11-17T12:25:31.421061092Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 1345
   },
   "slow_fetched_at": "2026-11-14T10:55:28.185165671Z",
-  "commits_etag": "\"3ff525eddbe662ba4bedd4c00c3cd600bd467d449ceb198616df33c2a47ebd95\"",
-  "releases_etag": "\"bb30f0f36085cc06afa9358b4d6d847ad0c1e1cb504f68a53c1541008efa15fd\""
+  "commits_etag": "\"5e47a745302f730474ed40f0c12ceab3c8b7b15211c26a980c2a0b1f8c7e730a\"",
+  "releases_etag": "\"eefddc31ac9c07a85eacb44de8107c6896691753467c8eac8024b909dc05b4c9\""
 }

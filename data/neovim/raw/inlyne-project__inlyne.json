@@ -1,6 +1,6 @@
 {
   "slug": "inlyne-project/inlyne",
-  "fetched_at": "2026-11-16T11:42:04.383478859Z",
+  "fetched_at": "2026-11-17T12:14:43.880548128Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 5353
   },
   "slow_fetched_at": "2026-11-13T11:29:22.518037660Z",
-  "commits_etag": "\"c0eaad57c439765fbbb87c77d0ddba349888b499b2b372713466ec25cac01f8b\"",
-  "releases_etag": "\"6f2e55b9f26aab1effffc84a930e05fe97723c6387328442f3229bd3586383db\""
+  "commits_etag": "\"d49e85506f850fd8e667ec15924c969b7a8a06dd1e9825b075da283fa4582b11\"",
+  "releases_etag": "\"9f5837dd4139c85ed79cc1e2ca001236ac1a98bef0ddc9fc7eb88b4d8ea64e74\""
 }

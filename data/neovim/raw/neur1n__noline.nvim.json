@@ -1,6 +1,6 @@
 {
   "slug": "neur1n/noline.nvim",
-  "fetched_at": "2026-11-03T11:39:05.148753799Z",
+  "fetched_at": "2026-11-17T12:31:15.953028869Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -21,5 +21,8 @@
     "has_ci": false,
     "has_tests": false,
     "readme_len": 771
-  }
+  },
+  "slow_fetched_at": "2026-11-17T12:31:15.953028869Z",
+  "commits_etag": "\"ef6dd70aa94a626d19cc73cb01ba06522d53bcabab82262f68c5a0de08ce4d9d\"",
+  "releases_etag": "\"eefddc31ac9c07a85eacb44de8107c6896691753467c8eac8024b909dc05b4c9\""
 }

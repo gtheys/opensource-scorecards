@@ -1,6 +1,6 @@
 {
   "slug": "evwilson/spelunk.nvim",
-  "fetched_at": "2026-11-16T11:35:26.669107913Z",
+  "fetched_at": "2026-11-17T12:08:52.179143259Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -15,8 +15,8 @@
     "median_pr_close_days": 0.0011342592592592593,
     "open_issues": 0,
     "closed_issues_sampled": 18,
-    "contributors_12mo": 3,
-    "top_author_commit_share": 0.7142857142857143,
+    "contributors_12mo": 2,
+    "top_author_commit_share": 0.9090909090909091,
     "top_author": {
       "login": "EvWilson",
       "account_created_at": "2016-05-21T18:33:22Z",
@@ -27,6 +27,6 @@
     "readme_len": 6572
   },
   "slow_fetched_at": "2026-11-13T11:21:52.467343997Z",
-  "commits_etag": "\"228c518e1004f88015d30929006335a7348d1fd2fb111284a4a2c441c955ad4b\"",
-  "releases_etag": "\"bb30f0f36085cc06afa9358b4d6d847ad0c1e1cb504f68a53c1541008efa15fd\""
+  "commits_etag": "\"8eb058871e41e0d2844feaf011c3ca23d6b2b2ef411f0277000c961754e74cc5\"",
+  "releases_etag": "\"eefddc31ac9c07a85eacb44de8107c6896691753467c8eac8024b909dc05b4c9\""
 }

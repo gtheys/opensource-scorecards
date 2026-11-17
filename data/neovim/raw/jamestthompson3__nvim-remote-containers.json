@@ -1,10 +1,10 @@
 {
   "slug": "jamestthompson3/nvim-remote-containers",
-  "fetched_at": "2026-11-16T11:43:04.666129215Z",
+  "fetched_at": "2026-11-17T12:15:46.840795702Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 932,
+    "stars": 933,
     "forks": 25,
     "description": "Develop inside docker containers, just like VSCode",
     "license_spdx": "NOASSERTION",
@@ -23,6 +23,6 @@
     "readme_len": 2783
   },
   "slow_fetched_at": "2026-11-14T10:45:38.316280808Z",
-  "commits_etag": "\"897cb0bc6c1a0049f21e7a72817b51de7f68a4080c4d28d512f79a29e12efad3\"",
-  "releases_etag": "\"bb30f0f36085cc06afa9358b4d6d847ad0c1e1cb504f68a53c1541008efa15fd\""
+  "commits_etag": "\"59ec34ccfaf9adb2f39eefcd582db0390ee2fd9ba8ebe6bd0ea4be5a2e707882\"",
+  "releases_etag": "\"eefddc31ac9c07a85eacb44de8107c6896691753467c8eac8024b909dc05b4c9\""
 }

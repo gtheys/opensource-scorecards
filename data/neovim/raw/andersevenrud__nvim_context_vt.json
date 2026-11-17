@@ -1,6 +1,6 @@
 {
   "slug": "andersevenrud/nvim_context_vt",
-  "fetched_at": "2026-11-16T11:21:40.969687128Z",
+  "fetched_at": "2026-11-17T11:56:27.407749459Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 3094
   },
   "slow_fetched_at": "2026-11-13T11:05:35.051381611Z",
-  "commits_etag": "\"0789fc9111eb008794123842a9799fd0844dba2b37ee0e4c69d0ea3ea623555e\"",
-  "releases_etag": "\"bb30f0f36085cc06afa9358b4d6d847ad0c1e1cb504f68a53c1541008efa15fd\""
+  "commits_etag": "\"9ff80a21bf76f356934d3ab7618c6b61f2894463ef9974f05e7e7b0a0bd04a8d\"",
+  "releases_etag": "\"eefddc31ac9c07a85eacb44de8107c6896691753467c8eac8024b909dc05b4c9\""
 }

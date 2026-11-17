@@ -1,6 +1,6 @@
 {
   "slug": "alsi-lawr/agent-term.nvim",
-  "fetched_at": "2026-11-16T11:21:16.994721683Z",
+  "fetched_at": "2026-11-17T11:56:09.138974955Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 14134
   },
   "slow_fetched_at": "2026-11-13T11:05:08.223150931Z",
-  "commits_etag": "\"a9a29f0be29822acb747d53d12848826e3a94b8d815981c8d0c1ea1f16a1c4a5\"",
-  "releases_etag": "\"fb49200dae40d01ab720690319422b412953616226cb95ab83dfd891e58db7a7\""
+  "commits_etag": "\"c88809038446cf0a70327006b51fa4cbb33b3cd2fd1dfb933f7c5da19e62e22f\"",
+  "releases_etag": "\"85e2fe0aa23e67c8aa222d3ab065d57c4220f30e8ec08a3c8929602fccc82d40\""
 }

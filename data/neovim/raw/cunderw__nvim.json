@@ -1,6 +1,6 @@
 {
   "slug": "cunderw/nvim",
-  "fetched_at": "2026-11-16T11:30:13.757610977Z",
+  "fetched_at": "2026-11-17T12:04:14.881342291Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 171
   },
   "slow_fetched_at": "2026-11-13T11:15:01.804569755Z",
-  "commits_etag": "\"7a8b055aceedb956f0f0dbfcbbcb72a5f03faa7dc3f8e02719976b44a9a76618\"",
-  "releases_etag": "\"bb30f0f36085cc06afa9358b4d6d847ad0c1e1cb504f68a53c1541008efa15fd\""
+  "commits_etag": "\"1ace9d302f972f389024dee10afd2861603ca25498ea41bc2a5e72c684493d23\"",
+  "releases_etag": "\"eefddc31ac9c07a85eacb44de8107c6896691753467c8eac8024b909dc05b4c9\""
 }

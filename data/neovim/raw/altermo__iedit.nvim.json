@@ -1,6 +1,6 @@
 {
   "slug": "altermo/iedit.nvim",
-  "fetched_at": "2026-11-16T11:21:21.060169613Z",
+  "fetched_at": "2026-11-17T11:56:12.392024728Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -18,15 +18,15 @@
     "contributors_12mo": 2,
     "top_author_commit_share": 0.5,
     "top_author": {
-      "login": "phanen",
-      "account_created_at": "2021-09-28T13:06:19Z",
-      "other_repos_star_sum": 71
+      "login": "altermo",
+      "account_created_at": "2022-06-19T20:27:50Z",
+      "other_repos_star_sum": 1190
     },
     "has_ci": false,
     "has_tests": false,
     "readme_len": 2929
   },
   "slow_fetched_at": "2026-11-13T11:05:13.070313722Z",
-  "commits_etag": "\"dcd8269122e4005e3b725937202ae4d16c0191886c6e216c61ee1cdb8794fed0\"",
-  "releases_etag": "\"bb30f0f36085cc06afa9358b4d6d847ad0c1e1cb504f68a53c1541008efa15fd\""
+  "commits_etag": "\"e3a6928694a942e05ad20f37b37d20b258fe3063da153d10b36d815a2181a7c0\"",
+  "releases_etag": "\"eefddc31ac9c07a85eacb44de8107c6896691753467c8eac8024b909dc05b4c9\""
 }

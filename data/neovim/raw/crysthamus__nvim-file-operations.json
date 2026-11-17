@@ -1,6 +1,6 @@
 {
   "slug": "crysthamus/nvim-file-operations",
-  "fetched_at": "2026-11-16T11:30:01.846334472Z",
+  "fetched_at": "2026-11-17T12:04:04.610830314Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 3905
   },
   "slow_fetched_at": "2026-11-13T11:14:44.120443571Z",
-  "commits_etag": "\"2bdf63c748e6430b77f85e2bc74d6f1b2d471aca540b084aae0bb7460d9d0004\"",
-  "releases_etag": "\"bb30f0f36085cc06afa9358b4d6d847ad0c1e1cb504f68a53c1541008efa15fd\""
+  "commits_etag": "\"b8ec5b5700841c712f005e380654bfd3ce47af2d946d6dfc2b4da3cafed84b32\"",
+  "releases_etag": "\"eefddc31ac9c07a85eacb44de8107c6896691753467c8eac8024b909dc05b4c9\""
 }

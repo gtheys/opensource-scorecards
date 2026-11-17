@@ -1,6 +1,6 @@
 {
   "slug": "backdround/global-note.nvim",
-  "fetched_at": "2026-11-16T11:23:49.597917218Z",
+  "fetched_at": "2026-11-17T11:58:19.759648204Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 6119
   },
   "slow_fetched_at": "2026-11-13T11:07:54.165529871Z",
-  "commits_etag": "\"bbe4ede69afb3616b6340348ff7398dc179f8d5410925200089fa936fbe9eb3c\"",
-  "releases_etag": "\"bb30f0f36085cc06afa9358b4d6d847ad0c1e1cb504f68a53c1541008efa15fd\""
+  "commits_etag": "\"d8a8bd1bc6f6eed11a1d7f60f7a254c1b07bf2e26ea0c677e52397a305976cf8\"",
+  "releases_etag": "\"eefddc31ac9c07a85eacb44de8107c6896691753467c8eac8024b909dc05b4c9\""
 }

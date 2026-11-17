@@ -1,6 +1,6 @@
 {
   "slug": "everblush/nvim",
-  "fetched_at": "2026-11-16T11:35:18.817993102Z",
+  "fetched_at": "2026-11-17T12:08:44.519114588Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 5512
   },
   "slow_fetched_at": "2026-11-13T11:21:40.940920480Z",
-  "commits_etag": "\"b9af4b3ad018b6277814b66ed97674c7fe07afcdff5d163801722b8f4f71902f\"",
-  "releases_etag": "\"bb30f0f36085cc06afa9358b4d6d847ad0c1e1cb504f68a53c1541008efa15fd\""
+  "commits_etag": "\"e01eee468f6ab79ecaf3165b601fb39c078f1ef8cbb7b70a353212834c209825\"",
+  "releases_etag": "\"eefddc31ac9c07a85eacb44de8107c6896691753467c8eac8024b909dc05b4c9\""
 }

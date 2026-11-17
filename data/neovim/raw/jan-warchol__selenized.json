@@ -1,10 +1,10 @@
 {
   "slug": "jan-warchol/selenized",
-  "fetched_at": "2026-11-16T11:43:08.097517384Z",
+  "fetched_at": "2026-11-17T12:15:49.665658122Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 952,
+    "stars": 954,
     "forks": 70,
     "description": "Solarized redesigned: fine-tuned color palette for programmers with focus on readability.",
     "license_spdx": "MIT",
@@ -23,6 +23,6 @@
     "readme_len": 3228
   },
   "slow_fetched_at": "2026-11-14T10:45:41.756249264Z",
-  "commits_etag": "\"4c937b40232fa28bad6c539f1d9f87f4711e193b25f10b94efcff3a54479b398\"",
-  "releases_etag": "\"3956c631317aadbaa7c04879b9153b8854565451fe4b943a8dc0feb023ccec7a\""
+  "commits_etag": "\"0b40103d60aa757922422bc854e140a2796e1c13fbde55b12b4c007addf27473\"",
+  "releases_etag": "\"1b7033842f7d9a3c9b6a88ce463bc13fc37c347f3fd78c687b3635c3a11c49f0\""
 }

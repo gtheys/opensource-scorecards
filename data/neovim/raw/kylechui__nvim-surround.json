@@ -1,10 +1,10 @@
 {
   "slug": "kylechui/nvim-surround",
-  "fetched_at": "2026-11-16T11:48:17.248886500Z",
+  "fetched_at": "2026-11-17T12:21:00.754839826Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 4327,
+    "stars": 4326,
     "forks": 81,
     "description": "Add/change/delete surrounding delimiter pairs with ease. Written with :heart: in Lua.",
     "license_spdx": "MIT",
@@ -27,6 +27,6 @@
     "readme_len": 4530
   },
   "slow_fetched_at": "2026-11-14T10:50:49.049847020Z",
-  "commits_etag": "\"0cd8f8e1fd22e3c4b2a5315cc96d86cfea46f8a7471905c4fe904e9683ab2c9e\"",
-  "releases_etag": "\"025568f4fe03dbf5b96d7e29d73a2bc8669cf87d4028b8dc2354583b5f49889f\""
+  "commits_etag": "\"0e3b9dbf35f8785653170f80387e9ea6207edc00297b0de40495a3a0a14c0977\"",
+  "releases_etag": "\"ebee4336ef9aa4fb218e8521868477bbcec09a65f0cc13f5dbe414109cca6c4b\""
 }

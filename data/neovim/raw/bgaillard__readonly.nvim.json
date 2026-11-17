@@ -1,6 +1,6 @@
 {
   "slug": "bgaillard/readonly.nvim",
-  "fetched_at": "2026-11-16T11:24:44.899657500Z",
+  "fetched_at": "2026-11-17T11:59:06.941593941Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 8596
   },
   "slow_fetched_at": "2026-11-13T11:08:59.009301517Z",
-  "commits_etag": "\"9e5b38196724bcbfdb931a1991608160701c26d6d0382a52039f8a5fad9f938e\"",
-  "releases_etag": "\"bc4ad67991c5a3748fe9c43034aa624787cd47a107e9fdd0428cc6b561cbf3d8\""
+  "commits_etag": "\"25eeb5ce16f46081bbf1997391ea85930fc6ec4f7d038a107e73a235aa719ee9\"",
+  "releases_etag": "\"eb71e64956617d10e36bd134b8ed3c4918b2915ef29835f9db3d7ef5067aecc0\""
 }

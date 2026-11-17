@@ -1,10 +1,10 @@
 {
   "slug": "aznhe21/actions-preview.nvim",
-  "fetched_at": "2026-11-16T11:23:28.165703126Z",
+  "fetched_at": "2026-11-17T11:58:01.764871066Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 516,
+    "stars": 517,
     "forks": 20,
     "description": "Fully customizable previewer for LSP code actions.",
     "license_spdx": "GPL-3.0",
@@ -27,6 +27,6 @@
     "readme_len": 8015
   },
   "slow_fetched_at": "2026-11-13T11:07:32.513309307Z",
-  "commits_etag": "\"f4aa754378dae9808d9886cf45fe14fc12d2456671ff5e3059a64f018eea891c\"",
-  "releases_etag": "\"bb30f0f36085cc06afa9358b4d6d847ad0c1e1cb504f68a53c1541008efa15fd\""
+  "commits_etag": "\"14943fa6823a862e780dff4dac55b51bd4a5b5a3f384925266fca15bd7a15025\"",
+  "releases_etag": "\"eefddc31ac9c07a85eacb44de8107c6896691753467c8eac8024b909dc05b4c9\""
 }

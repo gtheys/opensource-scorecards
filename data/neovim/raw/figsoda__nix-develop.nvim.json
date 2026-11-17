@@ -1,6 +1,6 @@
 {
   "slug": "figsoda/nix-develop.nvim",
-  "fetched_at": "2026-11-16T11:35:55.455195546Z",
+  "fetched_at": "2026-11-17T12:09:20.266076421Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 453
   },
   "slow_fetched_at": "2026-11-13T11:22:31.912199654Z",
-  "commits_etag": "\"01e27db0b9144512382057b892ec14709077450429da9b4d275b9d0a751ab4d3\"",
-  "releases_etag": "\"bb30f0f36085cc06afa9358b4d6d847ad0c1e1cb504f68a53c1541008efa15fd\""
+  "commits_etag": "\"78467e91ac184aeeabda0d9db8509b24008fda5d00d9f34bba67ddcdd7a98762\"",
+  "releases_etag": "\"eefddc31ac9c07a85eacb44de8107c6896691753467c8eac8024b909dc05b4c9\""
 }

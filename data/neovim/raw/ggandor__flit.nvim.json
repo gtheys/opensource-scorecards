@@ -1,6 +1,6 @@
 {
   "slug": "ggandor/flit.nvim",
-  "fetched_at": "2026-11-16T11:38:35.044514681Z",
+  "fetched_at": "2026-11-17T12:11:44.854161893Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 1126
   },
   "slow_fetched_at": "2026-11-13T11:25:28.868144569Z",
-  "commits_etag": "\"2ca2eefbe2f53e2c668d428d62c06023d47d139e187ce55af099cf74bccad79f\"",
-  "releases_etag": "\"bb30f0f36085cc06afa9358b4d6d847ad0c1e1cb504f68a53c1541008efa15fd\""
+  "commits_etag": "\"c634539e63d66f180ab01944aabf1a29c3eccf23e09454855d04dbb8207e8fe2\"",
+  "releases_etag": "\"eefddc31ac9c07a85eacb44de8107c6896691753467c8eac8024b909dc05b4c9\""
 }

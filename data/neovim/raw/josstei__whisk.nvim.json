@@ -1,6 +1,6 @@
 {
   "slug": "josstei/whisk.nvim",
-  "fetched_at": "2026-11-16T11:44:52.057239760Z",
+  "fetched_at": "2026-11-17T12:17:41.502309849Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 7450
   },
   "slow_fetched_at": "2026-11-14T10:47:20.670289697Z",
-  "commits_etag": "\"ff6ecfd7e81d6918ff433c2dc8ce275e51100ae9c0062b69b62d80c5135fe4c8\"",
-  "releases_etag": "\"bb30f0f36085cc06afa9358b4d6d847ad0c1e1cb504f68a53c1541008efa15fd\""
+  "commits_etag": "\"afc132dc23a3a9a2d20fd6b4ef2cb4b7be0df93b0e944ea3e47ab91e540c3606\"",
+  "releases_etag": "\"eefddc31ac9c07a85eacb44de8107c6896691753467c8eac8024b909dc05b4c9\""
 }

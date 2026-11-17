@@ -1,6 +1,6 @@
 {
   "slug": "folke/zen-mode.nvim",
-  "fetched_at": "2026-11-16T11:37:38.853852168Z",
+  "fetched_at": "2026-11-17T12:10:50.885653834Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 7690
   },
   "slow_fetched_at": "2026-11-13T11:24:16.664554358Z",
-  "commits_etag": "\"680d7f19808f377f4ef8923abe3625c860dd8472985b0a8539fc201e13f9424a\"",
-  "releases_etag": "\"94e1e07f8d29b9a7cfbd7eca8d667e0b3d0d06c9952bb5497b1688d381972dbc\""
+  "commits_etag": "\"4e1ed798f5b378494772979c44eeed16e3ac2b97784fd31854ed4a793479e33a\"",
+  "releases_etag": "\"c69dd25daf2ec79ba143ddc617f6da8334f7ef8483d3eb2206d942d4bc576d03\""
 }

@@ -1,6 +1,6 @@
 {
   "slug": "klen/nvim-test",
-  "fetched_at": "2026-11-16T11:47:37.472012815Z",
+  "fetched_at": "2026-11-17T12:20:11.316179429Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 4651
   },
   "slow_fetched_at": "2026-11-14T10:50:05.903479887Z",
-  "commits_etag": "\"6042aaf1471f41f5c7227475fe2f8aa519f3c8237591dcb36b66832322ef4c53\"",
-  "releases_etag": "\"bb30f0f36085cc06afa9358b4d6d847ad0c1e1cb504f68a53c1541008efa15fd\""
+  "commits_etag": "\"e13cf54c0e2fce8605860467260fc3c70014370bb9441020c6a3afc097c9e053\"",
+  "releases_etag": "\"eefddc31ac9c07a85eacb44de8107c6896691753467c8eac8024b909dc05b4c9\""
 }

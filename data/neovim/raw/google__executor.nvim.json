@@ -1,6 +1,6 @@
 {
   "slug": "google/executor.nvim",
-  "fetched_at": "2026-11-16T11:39:09.499905248Z",
+  "fetched_at": "2026-11-17T12:12:15.669845204Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 12366
   },
   "slow_fetched_at": "2026-11-13T11:26:06.603165055Z",
-  "commits_etag": "\"edc03aeb9353f64d867caa8dedd2455cc4ac8537292cf82a8262816bfec53e52\"",
-  "releases_etag": "\"bb30f0f36085cc06afa9358b4d6d847ad0c1e1cb504f68a53c1541008efa15fd\""
+  "commits_etag": "\"e5b03ca2b6d0883c5309977c9332d38f1be96cff4e7e232aa6d5332aa2b3c624\"",
+  "releases_etag": "\"eefddc31ac9c07a85eacb44de8107c6896691753467c8eac8024b909dc05b4c9\""
 }

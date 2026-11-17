@@ -1,6 +1,6 @@
 {
   "slug": "jpwol/thorn.nvim",
-  "fetched_at": "2026-11-16T11:44:57.850776627Z",
+  "fetched_at": "2026-11-17T12:17:46.793804471Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -10,13 +10,13 @@
     "license_spdx": "MIT",
     "last_commit_at": "2026-08-27T01:32:01Z",
     "commits_90d": 2,
-    "releases_365d": 12,
+    "releases_365d": 10,
     "median_issue_close_days": 0.34319444444444447,
     "median_pr_close_days": 0.0020833333333333333,
     "open_issues": 0,
     "closed_issues_sampled": 3,
     "contributors_12mo": 4,
-    "top_author_commit_share": 0.88,
+    "top_author_commit_share": 0.8571428571428571,
     "top_author": {
       "login": "jpwol",
       "account_created_at": "2021-10-05T21:58:20Z",
@@ -27,6 +27,6 @@
     "readme_len": 10162
   },
   "slow_fetched_at": "2026-11-14T10:47:27.030587387Z",
-  "commits_etag": "\"449c05d215566f83b76e463381b12406e010589b4727d8431b9e67d807ab34d8\"",
-  "releases_etag": "\"0bc46b925f32419067d9f799ad338f90a91f8ef170294f061a2becda7efc77b3\""
+  "commits_etag": "\"3939a1c2861a6b0dad70d20a6bda4ad58cf6afa221e29fd1c905710c9075b4f7\"",
+  "releases_etag": "\"c9d4d956bcbbf25848a45ff0e2a6c23a3e7f763645e915cf5135e6a0a5a2e173\""
 }

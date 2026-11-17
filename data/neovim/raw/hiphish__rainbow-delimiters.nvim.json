@@ -1,11 +1,11 @@
 {
   "slug": "hiphish/rainbow-delimiters.nvim",
-  "fetched_at": "2026-11-16T11:40:26.348880489Z",
+  "fetched_at": "2026-11-17T12:13:25.825629110Z",
   "status": "ok",
   "data": {
     "archived": false,
     "stars": 901,
-    "forks": 75,
+    "forks": 76,
     "description": "Rainbow delimiters for Neovim with Tree-sitter",
     "license_spdx": "Apache-2.0",
     "last_commit_at": "2026-10-27T20:19:38Z",
@@ -13,7 +13,7 @@
     "releases_365d": 0,
     "median_issue_close_days": 15.350885416666667,
     "median_pr_close_days": 8.382488425925926,
-    "open_issues": 20,
+    "open_issues": 21,
     "closed_issues_sampled": 28,
     "contributors_12mo": 10,
     "top_author_commit_share": 0.8142857142857143,
@@ -27,6 +27,6 @@
     "readme_len": 8392
   },
   "slow_fetched_at": "2026-11-13T11:27:43.165673395Z",
-  "commits_etag": "\"31e5d12aaa5aa47b508a4976d3387d75552497e410a50a43ebf3968eb77b0939\"",
-  "releases_etag": "\"bb30f0f36085cc06afa9358b4d6d847ad0c1e1cb504f68a53c1541008efa15fd\""
+  "commits_etag": "\"30ebaa2b63966d6dd30a24c9da7641088ecff4d003fa595be4d3e059442508ed\"",
+  "releases_etag": "\"eefddc31ac9c07a85eacb44de8107c6896691753467c8eac8024b909dc05b4c9\""
 }

@@ -1,6 +1,6 @@
 {
   "slug": "backdround/tabscope.nvim",
-  "fetched_at": "2026-11-16T11:23:55.865871570Z",
+  "fetched_at": "2026-11-17T11:58:25.320560275Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 928
   },
   "slow_fetched_at": "2026-11-13T11:08:02.272712069Z",
-  "commits_etag": "\"4ace90adb7c5db6e4eaa3a5ed12a555c3a7a1369e0e581fc339086335a2a7ed9\"",
-  "releases_etag": "\"bb30f0f36085cc06afa9358b4d6d847ad0c1e1cb504f68a53c1541008efa15fd\""
+  "commits_etag": "\"7670d6de8c1f130c393e9ba33004019e63327bacdde2114aff06430cacae49aa\"",
+  "releases_etag": "\"eefddc31ac9c07a85eacb44de8107c6896691753467c8eac8024b909dc05b4c9\""
 }
