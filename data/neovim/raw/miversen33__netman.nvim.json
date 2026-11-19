@@ -1,6 +1,6 @@
 {
   "slug": "miversen33/netman.nvim",
-  "fetched_at": "2026-11-17T12:27:42.463492225Z",
+  "fetched_at": "2026-11-19T12:15:26.722990833Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -13,7 +13,7 @@
     "releases_365d": 0,
     "median_issue_close_days": 30.401099537037037,
     "median_pr_close_days": 0.00011574074074074075,
-    "open_issues": 52,
+    "open_issues": 53,
     "closed_issues_sampled": 27,
     "contributors_12mo": 0,
     "top_author_commit_share": 0.0,
@@ -23,6 +23,6 @@
     "readme_len": 12519
   },
   "slow_fetched_at": "2026-11-15T11:22:56.364862259Z",
-  "commits_etag": "\"37f381246eb1aa88bfa0bd56773a9863a3932ab0a57530304200eaaa83a5c272\"",
-  "releases_etag": "\"5627ee0d1619a63ee168279e13a836c98df1098f80d2dadceaa1006abaffc199\""
+  "commits_etag": "\"0be079b8d95fdb3dba025bfacdfea16959daf495e81ebc9f844cf637b62e4056\"",
+  "releases_etag": "\"63b35669fef190d95894e1ed78607271433c0766ee2fd553422a1459fc332c1c\""
 }

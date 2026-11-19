@@ -1,22 +1,22 @@
 {
   "slug": "hedyhli/outline.nvim",
-  "fetched_at": "2026-11-17T12:13:08.236890130Z",
+  "fetched_at": "2026-11-19T12:01:24.462127755Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 1050,
-    "forks": 44,
+    "stars": 1051,
+    "forks": 45,
     "description": "Fancy code outline sidebar to visualize and navigate code symbols in a tree hierarchy",
     "license_spdx": "MIT",
-    "last_commit_at": "2026-11-15T04:45:46Z",
-    "commits_90d": 7,
+    "last_commit_at": "2026-11-19T09:20:09Z",
+    "commits_90d": 8,
     "releases_365d": 1,
-    "median_issue_close_days": 37.84736111111111,
-    "median_pr_close_days": 4.220150462962963,
+    "median_issue_close_days": 34.5708275462963,
+    "median_pr_close_days": 4.082621527777778,
     "open_issues": 35,
-    "closed_issues_sampled": 29,
-    "contributors_12mo": 9,
-    "top_author_commit_share": 0.5,
+    "closed_issues_sampled": 28,
+    "contributors_12mo": 10,
+    "top_author_commit_share": 0.47619047619047616,
     "top_author": {
       "login": "hedyhli",
       "account_created_at": "2019-04-27T07:22:03Z",
@@ -27,6 +27,6 @@
     "readme_len": 46262
   },
   "slow_fetched_at": "2026-11-13T11:27:19.763609323Z",
-  "commits_etag": "\"1c72aa247d93cb13be42331d5f78befc0d9f403b7175778b4115f3f2f5ce9798\"",
-  "releases_etag": "\"21f47f5ad6aee7db1165b902d70029c18c4f16d9b48dadee490919795dd82f40\""
+  "commits_etag": "\"e5abd926ed7ac52c9d19e7e8156e66c2c9101d5baf17befc61478d86beb12b87\"",
+  "releases_etag": "\"81d6004fe0186711b31372723af19e3737f1624835561a2322c8a40608d91cc1\""
 }

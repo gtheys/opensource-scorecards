@@ -1,6 +1,6 @@
 {
   "slug": "kdheepak/monochrome.nvim",
-  "fetched_at": "2026-11-17T12:19:07.463036278Z",
+  "fetched_at": "2026-11-19T12:07:00.165145371Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 305
   },
   "slow_fetched_at": "2026-11-14T10:48:50.921510352Z",
-  "commits_etag": "\"320a69ea7e7584ecd82754e4f2d3e803d9f6b214fb6d70c704409c40fb0cedc9\"",
-  "releases_etag": "\"eefddc31ac9c07a85eacb44de8107c6896691753467c8eac8024b909dc05b4c9\""
+  "commits_etag": "\"f6d2d53553f5670ffb81a63fe3459c6dc2c4f70da4a132215f56114f00070347\"",
+  "releases_etag": "\"3d202bcddcc7c5e98a380f25d7cc95e29a32e4fff6291ad648e5cf78298fa24f\""
 }

@@ -1,6 +1,6 @@
 {
   "slug": "bekaboo/deadcolumn.nvim",
-  "fetched_at": "2026-11-17T11:58:47.395260495Z",
+  "fetched_at": "2026-11-19T11:47:06.580573166Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 11237
   },
   "slow_fetched_at": "2026-11-13T11:08:31.581541404Z",
-  "commits_etag": "\"eb6d8474c37b5bb261a1935d625437e811da8e7d7348a2e69abf495fde076d48\"",
-  "releases_etag": "\"c8804c7796606856f21de51c6d3b11380f182b96fe46fcb7c4f93008a6d84b2b\""
+  "commits_etag": "\"43c4fb793d8e0d24dc5dd52a7066f7f88e94d1b8356607c406343fecf4f0a743\"",
+  "releases_etag": "\"598374115facab503960e6f7795dd1798beb318543f32e70e3040306e2ecc0a5\""
 }

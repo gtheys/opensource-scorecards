@@ -1,6 +1,6 @@
 {
   "slug": "ilyasyoy/obs.nvim",
-  "fetched_at": "2026-11-17T12:14:24.056525811Z",
+  "fetched_at": "2026-11-19T12:02:43.650911680Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 10817
   },
   "slow_fetched_at": "2026-11-13T11:28:54.350630664Z",
-  "commits_etag": "\"7474853ea6ba246f5f9a9b85cd6a72a4356907a326434526d8b78540996a321f\"",
-  "releases_etag": "\"b80fd2ccf058e029830268e7c866d5c321986e9a0025eb3c173f804eea0a3051\""
+  "commits_etag": "\"bb76735d2ee58755c933ff57968211ff6532256fd89deb8afb271bb0495694e9\"",
+  "releases_etag": "\"4a3b4d295f62d6bce0e90af62333813c129e9db435a4eef689365a69bd49fb3a\""
 }

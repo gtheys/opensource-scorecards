@@ -1,6 +1,6 @@
 {
   "slug": "gbprod/nord.nvim",
-  "fetched_at": "2026-11-17T12:11:12.403133783Z",
+  "fetched_at": "2026-11-19T11:59:21.872812010Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -18,15 +18,15 @@
     "contributors_12mo": 2,
     "top_author_commit_share": 0.5,
     "top_author": {
-      "login": "gbprod",
-      "account_created_at": "2013-03-02T20:23:41Z",
-      "other_repos_star_sum": 3084
+      "login": "ironbars",
+      "account_created_at": "2015-11-21T19:17:29Z",
+      "other_repos_star_sum": 5
     },
     "has_ci": true,
     "has_tests": false,
     "readme_len": 7186
   },
   "slow_fetched_at": "2026-11-13T11:24:46.869826872Z",
-  "commits_etag": "\"0f7fe72f032cd04ddbe47e5204b5890ee0e93c2150f4aaea752c8cb804f7655a\"",
-  "releases_etag": "\"6b56e05098367a5e9ff46ce3ffb1289ac5e7a5d180cd6f66ed07aa6ba739dc69\""
+  "commits_etag": "\"47ade90223b439d259bd45bcf410554bdab8984991dc49571ceba4de239efd27\"",
+  "releases_etag": "\"cf3aca40532add75d1534e43671c3fe13aaf697f6e60a0da44ef73cb5f54892c\""
 }

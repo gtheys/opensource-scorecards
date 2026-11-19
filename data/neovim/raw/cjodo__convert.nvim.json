@@ -1,6 +1,6 @@
 {
   "slug": "cjodo/convert.nvim",
-  "fetched_at": "2026-11-17T12:02:39.973498504Z",
+  "fetched_at": "2026-11-19T11:50:58.237139754Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 3155
   },
   "slow_fetched_at": "2026-11-13T11:13:03.915347609Z",
-  "commits_etag": "\"db7458eec2c429d1e39377de52fbe3c0d299cf38fac87f54b50816d738a6714c\"",
-  "releases_etag": "\"08e83a2b7beadda6c642587021c6d136f52920727e28f0b0a51ea4c98c3f7c3f\""
+  "commits_etag": "\"96be89580353927c81c290f8d720d7de555ed8d679365acc201f1f8015a9496a\"",
+  "releases_etag": "\"f8de377eb2299606f0279828383aea5e3dfac51416a56f4b6836d8e9c84d01da\""
 }

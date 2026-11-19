@@ -1,10 +1,10 @@
 {
   "slug": "dybdeskarphet/min.nvim",
-  "fetched_at": "2026-11-17T12:07:34.019510024Z",
+  "fetched_at": "2026-11-19T11:55:50.498169440Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 20,
+    "stars": 21,
     "forks": 1,
     "description": " 🌈 A minimal colorscheme with several flavors conceptually inspired by Alabaster",
     "license_spdx": "GPL-3.0",
@@ -27,6 +27,6 @@
     "readme_len": 4647
   },
   "slow_fetched_at": "2026-11-16T11:33:52.984197048Z",
-  "commits_etag": "\"d842296fe711f78f2af4a9fc08804648402b0d2fccc71347e2fe87881598450a\"",
-  "releases_etag": "\"8b42d3464122680962b340bba90b4082e05d431271374c3008bc06f886c289f5\""
+  "commits_etag": "\"dd21441b5c7f6910e1247e3772bbd34a623677ee7acefd174c930d4673586729\"",
+  "releases_etag": "\"7db6447e8433f8605eb51ffa317bb158839521a6ea78b42cff2a37bba2aab4e8\""
 }

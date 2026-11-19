@@ -1,6 +1,6 @@
 {
   "slug": "hinell/lsp-timeout.nvim",
-  "fetched_at": "2026-11-17T12:13:22.041018422Z",
+  "fetched_at": "2026-11-19T12:01:39.470381953Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 2519
   },
   "slow_fetched_at": "2026-11-13T11:27:38.843191708Z",
-  "commits_etag": "\"649037754c2204c0a8b926bf0a59550e71887a5050c598bf2592992a0cd44b6a\"",
-  "releases_etag": "\"938b8ac0c1fd7b8f011fe35b4aa22bec3b966ad15f51214e1e3deb73fef18cce\""
+  "commits_etag": "\"9d41bb202ea314b2f980b380ebb06d5d6202f4709f6269df5c3572ac26acc17a\"",
+  "releases_etag": "\"9fea98a361b1e831115615ffac7e397bde34e79ac79663ccf5ab30995f13039b\""
 }

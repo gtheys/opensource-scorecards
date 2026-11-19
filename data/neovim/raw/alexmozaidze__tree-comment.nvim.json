@@ -1,6 +1,6 @@
 {
   "slug": "alexmozaidze/tree-comment.nvim",
-  "fetched_at": "2026-11-17T11:56:01.007865464Z",
+  "fetched_at": "2026-11-19T11:44:09.968389037Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -8,25 +8,21 @@
     "forks": 0,
     "description": "A plugin to simplify integration with tree-sitter-comment parser.",
     "license_spdx": "CC0-1.0",
-    "last_commit_at": "2025-11-19T02:58:43Z",
+    "last_commit_at": null,
     "commits_90d": 0,
     "releases_365d": 0,
     "median_issue_close_days": null,
     "median_pr_close_days": null,
     "open_issues": 1,
     "closed_issues_sampled": 0,
-    "contributors_12mo": 1,
-    "top_author_commit_share": 1.0,
-    "top_author": {
-      "login": "alexmozaidze",
-      "account_created_at": "2019-06-04T13:26:08Z",
-      "other_repos_star_sum": 72
-    },
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
     "has_ci": false,
     "has_tests": false,
     "readme_len": 2526
   },
   "slow_fetched_at": "2026-11-13T11:04:57.435070575Z",
-  "commits_etag": "\"63131f05789d6d54d52d72a677293a75805fa4525d910d5d9dd00c0abac5d058\"",
-  "releases_etag": "\"eefddc31ac9c07a85eacb44de8107c6896691753467c8eac8024b909dc05b4c9\""
+  "commits_etag": "\"40f014ddbc2e9d57641dd2bb60e0febb692eae64395ecb3c872c01a374e5b622\"",
+  "releases_etag": "\"3d202bcddcc7c5e98a380f25d7cc95e29a32e4fff6291ad648e5cf78298fa24f\""
 }

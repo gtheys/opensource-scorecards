@@ -1,6 +1,6 @@
 {
   "slug": "nghiant03/jove.nvim",
-  "fetched_at": "2026-11-17T12:31:29.947861207Z",
+  "fetched_at": "2026-11-19T12:19:08.621853518Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -8,8 +8,8 @@
     "forks": 2,
     "description": "Jupyter Notebook editing and output rendering inside Neovim. Jupyter Lab experience in your favourite editor.",
     "license_spdx": "MIT",
-    "last_commit_at": "2026-11-06T18:50:18Z",
-    "commits_90d": 173,
+    "last_commit_at": "2026-11-18T14:36:25Z",
+    "commits_90d": 182,
     "releases_365d": 17,
     "median_issue_close_days": null,
     "median_pr_close_days": 1.9160127314814814,
@@ -27,6 +27,6 @@
     "readme_len": 12688
   },
   "slow_fetched_at": "2026-11-17T12:31:29.947861207Z",
-  "commits_etag": "\"62ce12d77f9903c9af8bdda03ff220b4ffc0f6d0e1ab94c2c6a6c2a5f8414ed7\"",
-  "releases_etag": "\"c5de3cf414578fa969cd01ef8dedff21df9ace9e778ee1de7dae93c89ce665fb\""
+  "commits_etag": "\"769d8f9992eed416f3dccf30893956f0693a2e3de57529f05c8dd0104e8dffb4\"",
+  "releases_etag": "\"26ff65539d45df620b3a001e1303a1f0757225ab1cfde28c33902e158716a26c\""
 }

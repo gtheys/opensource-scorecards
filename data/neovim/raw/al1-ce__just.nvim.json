@@ -1,6 +1,6 @@
 {
   "slug": "al1-ce/just.nvim",
-  "fetched_at": "2026-11-17T11:55:41.644937831Z",
+  "fetched_at": "2026-11-19T11:43:45.982492698Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -16,7 +16,7 @@
     "open_issues": 6,
     "closed_issues_sampled": 21,
     "contributors_12mo": 3,
-    "top_author_commit_share": 0.7931034482758621,
+    "top_author_commit_share": 0.7857142857142857,
     "top_author": {
       "login": "nxuv",
       "account_created_at": "2020-02-12T22:08:05Z",
@@ -27,6 +27,6 @@
     "readme_len": 4465
   },
   "slow_fetched_at": "2026-11-13T11:04:28.739667846Z",
-  "commits_etag": "\"86191c36176f07c24aed7ee65dea78f7ecb8e370955edfeb8e03b40428908215\"",
-  "releases_etag": "\"d05fdf895cca15bf4dd92eb0e0bca2683a76627dd4f3482bc8913ae4e807deac\""
+  "commits_etag": "\"649c3ce617cb77168a9fdb21eece039011ed52ec05ac2c4c75fe4cfda9db070c\"",
+  "releases_etag": "\"57043c1c8a7326f3c19ffdb8bca5b8770729526163a1f1dfff30d314d17902ba\""
 }

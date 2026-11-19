@@ -1,6 +1,6 @@
 {
   "slug": "m-demare/attempt.nvim",
-  "fetched_at": "2026-11-17T12:24:23.728094297Z",
+  "fetched_at": "2026-11-19T12:11:57.672846044Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -18,15 +18,15 @@
     "contributors_12mo": 2,
     "top_author_commit_share": 0.5,
     "top_author": {
-      "login": "m-demare",
-      "account_created_at": "2017-12-24T19:17:00Z",
-      "other_repos_star_sum": 669
+      "login": "Skyppex",
+      "account_created_at": "2021-05-21T01:32:14Z",
+      "other_repos_star_sum": 43
     },
     "has_ci": false,
     "has_tests": false,
     "readme_len": 4289
   },
   "slow_fetched_at": "2026-11-14T10:54:15.233205318Z",
-  "commits_etag": "\"a2b011de32a477713132b4550c1992a9237198c3db4cadb68a75cc9ca32977c0\"",
-  "releases_etag": "\"eefddc31ac9c07a85eacb44de8107c6896691753467c8eac8024b909dc05b4c9\""
+  "commits_etag": "\"0ee689bbbba81eaa5c25f254d419106e3c7eb30d7a896cb44cfb3f8e6ab30c47\"",
+  "releases_etag": "\"3d202bcddcc7c5e98a380f25d7cc95e29a32e4fff6291ad648e5cf78298fa24f\""
 }

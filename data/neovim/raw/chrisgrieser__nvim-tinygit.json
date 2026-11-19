@@ -1,6 +1,6 @@
 {
   "slug": "chrisgrieser/nvim-tinygit",
-  "fetched_at": "2026-11-17T12:01:57.972044701Z",
+  "fetched_at": "2026-11-19T11:50:20.327221698Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 16036
   },
   "slow_fetched_at": "2026-11-13T11:12:21.012734568Z",
-  "commits_etag": "\"f322af02c68033872d74c58466df2eedd385a1406c6af702f727122fc307989a\"",
-  "releases_etag": "\"eefddc31ac9c07a85eacb44de8107c6896691753467c8eac8024b909dc05b4c9\""
+  "commits_etag": "\"ff268c42d7302d81b974ae0acd37babfbe1e48de801ed427ba0ac39b6055324d\"",
+  "releases_etag": "\"3d202bcddcc7c5e98a380f25d7cc95e29a32e4fff6291ad648e5cf78298fa24f\""
 }

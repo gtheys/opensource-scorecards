@@ -1,6 +1,6 @@
 {
   "slug": "alessandropietrobelli/dotnet-counters.nvim",
-  "fetched_at": "2026-11-17T11:55:48.140697087Z",
+  "fetched_at": "2026-11-19T11:43:54.114734553Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 7445
   },
   "slow_fetched_at": "2026-11-13T11:04:39.973341666Z",
-  "commits_etag": "\"289ce746bc2bc1210b1ec10031bc2cff70299327d50289f973105b6b5745984f\"",
-  "releases_etag": "\"dd26a0e2666d2b816348f1e8bd29fa4ed939d331b8ec7425d8e95d24b2384014\""
+  "commits_etag": "\"118aff438df46c3f5660ebd0e928db320ea237ca491a05663bb735e7a63ee4e2\"",
+  "releases_etag": "\"27130fba3e0652b6b40007ae191ed3f2c28c44228aed450a82dc7d3d552f8c97\""
 }

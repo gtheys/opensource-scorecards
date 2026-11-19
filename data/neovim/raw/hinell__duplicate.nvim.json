@@ -1,6 +1,6 @@
 {
   "slug": "hinell/duplicate.nvim",
-  "fetched_at": "2026-11-17T12:13:20.793339006Z",
+  "fetched_at": "2026-11-19T12:01:38.269792821Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 2390
   },
   "slow_fetched_at": "2026-11-13T11:27:37.275716407Z",
-  "commits_etag": "\"ef1c2c2e778d67ee1e570c63076aa0a78730704a51ae8e691184e4fb2061c17b\"",
-  "releases_etag": "\"3cd98f261de2de3937b3bc6685f25c5ce9afc790ed05d88f5bacbccfacf356aa\""
+  "commits_etag": "\"5b0680646b0bd9a86af1be858eb56a705d3710b14710543ee6583f8ce82b00fa\"",
+  "releases_etag": "\"ef12d2ade0a8901e43728121b2f8e0006805d7268b78f030519c40ec6cfa9e10\""
 }

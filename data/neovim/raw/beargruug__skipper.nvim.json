@@ -1,6 +1,6 @@
 {
   "slug": "beargruug/skipper.nvim",
-  "fetched_at": "2026-11-17T11:58:43.810104828Z",
+  "fetched_at": "2026-11-19T11:47:02.473658732Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -10,7 +10,7 @@
     "license_spdx": "MIT",
     "last_commit_at": "2026-07-07T05:58:57Z",
     "commits_90d": 0,
-    "releases_365d": 7,
+    "releases_365d": 6,
     "median_issue_close_days": 0.05443287037037037,
     "median_pr_close_days": 0.0005555555555555556,
     "open_issues": 0,
@@ -27,6 +27,6 @@
     "readme_len": 5872
   },
   "slow_fetched_at": "2026-11-13T11:08:25.413839582Z",
-  "commits_etag": "\"8407c030f2010084989f7075f56560a0bf21aa8e8dbd0a4add00797e3309a83e\"",
-  "releases_etag": "\"cd8a06f352fbd092ca0a9d49cb41ba9230517cd5a4763aef730cf13d68e11f20\""
+  "commits_etag": "\"272df32b353cef4973f3eb33c94219af3eabe9529dceca7be933d28eccba0619\"",
+  "releases_etag": "\"2dc54afc2cd82691d8344e19eefa72be3a6c263bcb9cd5fbff4f12475033ae8d\""
 }

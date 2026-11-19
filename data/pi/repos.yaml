@@ -44,6 +44,11 @@ repos:
   - eliemessiecode/pi-code-theme
   - fitchmultz/pi-agent-browser-native
   - geminixiang/mikan
+  - ghabix/pi-background-job
+  - ghabix/pi-btw-cached
+  - ghabix/pi-compact-tree
+  - ghabix/pi-timeout-policy
+  - ghabix/spine-plugin
   - gintasz/neuralyzer
   - gotgenes/pi-packages
   - happyfeetw/tibo-rush
@@ -96,6 +101,7 @@ repos:
   - safzanpirani/pi-jev-skill-picker
   - samfoy/pi-rose-pine
   - saravananravi08/pi-langfuse-extension
+  - sebion7125/pi-protokoll
   - sfgartland/better-pi-voice
   - sherif-fanous/pi-catppuccin
   - sherif-fanous/pi-theme-sync

@@ -1,20 +1,20 @@
 {
   "slug": "3rd/image.nvim",
-  "fetched_at": "2026-11-17T11:53:48.117257085Z",
+  "fetched_at": "2026-11-19T11:41:34.937786657Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 2115,
+    "stars": 2117,
     "forks": 117,
     "description": "🖼️ Bringing images to Neovim.",
     "license_spdx": "MIT",
     "last_commit_at": "2026-09-04T21:04:19Z",
-    "commits_90d": 5,
+    "commits_90d": 3,
     "releases_365d": 2,
-    "median_issue_close_days": 56.84563078703704,
-    "median_pr_close_days": 6.711585648148148,
+    "median_issue_close_days": 57.34282407407407,
+    "median_pr_close_days": 5.517210648148148,
     "open_issues": 78,
-    "closed_issues_sampled": 32,
+    "closed_issues_sampled": 31,
     "contributors_12mo": 7,
     "top_author_commit_share": 0.75,
     "top_author": {
@@ -27,6 +27,6 @@
     "readme_len": 20327
   },
   "slow_fetched_at": "2026-11-13T11:02:03.674067968Z",
-  "commits_etag": "\"03ac3819d7bb8fd54075dace1604c972a46c5e4f85d288dea2c47d4b40c04722\"",
-  "releases_etag": "\"625ac7ef9fd228f807165f432bbac791fee8cb738f213fdb825cf5c3e9c603c1\""
+  "commits_etag": "\"b77e8bd4207d9860c079713a6e9ae419d46a1078cf428ce2ff89a0e421418654\"",
+  "releases_etag": "\"5aa3aa15dd36f36c4fe5854fdd1a8615f5ca70cc65ce6a81965899fb66a286e3\""
 }

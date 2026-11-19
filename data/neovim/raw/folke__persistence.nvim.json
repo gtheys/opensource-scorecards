@@ -1,6 +1,6 @@
 {
   "slug": "folke/persistence.nvim",
-  "fetched_at": "2026-11-17T12:10:13.646617903Z",
+  "fetched_at": "2026-11-19T11:58:25.215859673Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 2040
   },
   "slow_fetched_at": "2026-11-13T11:23:36.204437055Z",
-  "commits_etag": "\"8a548f979dbaf3ef8ada9383717e1b2fd7a3dd7ee6d76be2ab72763daa1927e1\"",
-  "releases_etag": "\"d0fb6911656394c951d39d3cf63a4cbd23b2162825b9c8ffe1e8ba57efef37cb\""
+  "commits_etag": "\"d93ac02fe61438096dab44fd26542041c223c3bc25190f120a138809111f3f0a\"",
+  "releases_etag": "\"80e2eb461a8572e252604ba45bb8369f01a7dac53ee9d5498fa7b87660d8e6be\""
 }

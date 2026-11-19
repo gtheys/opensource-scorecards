@@ -1,6 +1,6 @@
 {
   "slug": "disrupted/blink-cmp-conventional-commits",
-  "fetched_at": "2026-11-17T12:06:03.701075241Z",
+  "fetched_at": "2026-11-19T11:54:16.640697125Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 4275
   },
   "slow_fetched_at": "2026-11-13T11:17:45.989847995Z",
-  "commits_etag": "\"2c13c4a3439da106dc40106917581f3b22c7d29fc3e97a20970943f6bf081781\"",
-  "releases_etag": "\"eefddc31ac9c07a85eacb44de8107c6896691753467c8eac8024b909dc05b4c9\""
+  "commits_etag": "\"ff86497e18c2134ec1706c595daceb1771dcfe7a2c7cf167cd5cbdf8bbd774b9\"",
+  "releases_etag": "\"3d202bcddcc7c5e98a380f25d7cc95e29a32e4fff6291ad648e5cf78298fa24f\""
 }

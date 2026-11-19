@@ -1,6 +1,6 @@
 {
   "slug": "cwood-sdf/pineapple",
-  "fetched_at": "2026-11-17T12:04:30.485419101Z",
+  "fetched_at": "2026-11-19T11:52:43.520685420Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 7249
   },
   "slow_fetched_at": "2026-11-13T11:15:26.271099798Z",
-  "commits_etag": "\"875c8c2f2c7bd1fa207c228b6fce6b2bee30d189db2885bb680d751af08168e0\"",
-  "releases_etag": "\"53863bdb97e5a5b4445c647fdacd398242a51a34c574f9447bfbeb2d0578d411\""
+  "commits_etag": "\"9633b8d914fd979eaed5829b401e53576471b62816df92d225954c8728aab20b\"",
+  "releases_etag": "\"27f821e3894ee863a2aefdab521a1f22ea69bde5e9b7bfb6f2a783398f3833e3\""
 }

@@ -1,6 +1,6 @@
 {
   "slug": "chomosuke/typst-preview.nvim",
-  "fetched_at": "2026-11-17T12:01:09.087427690Z",
+  "fetched_at": "2026-11-19T11:49:30.430498027Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 6819
   },
   "slow_fetched_at": "2026-11-13T11:11:24.195856835Z",
-  "commits_etag": "\"0744bdf393f98268d63a38f7158ea3c75b3d8cda9250d04a2ffa80b06c823e97\"",
-  "releases_etag": "\"bec034d4314272caa4bd24c9a44a60a216b23a979280095bc4429971e27e2e45\""
+  "commits_etag": "\"de45bbafa8f790977af205beeea32c319b74f1ba18d2af793103f73ce21d7c79\"",
+  "releases_etag": "\"0443594c2283f67adbce1ffe051030321ceb4d9c0d6f8a7ebba14925216867fe\""
 }

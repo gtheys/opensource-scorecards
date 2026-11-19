@@ -1,10 +1,10 @@
 {
   "slug": "metalelf0/jellybeans-nvim",
-  "fetched_at": "2026-11-17T12:26:02.416713202Z",
+  "fetched_at": "2026-11-19T12:13:43.786612923Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 128,
+    "stars": 129,
     "forks": 19,
     "description": "A port of jellybeans colorscheme for neovim",
     "license_spdx": "MIT",
@@ -23,6 +23,6 @@
     "readme_len": 1244
   },
   "slow_fetched_at": "2026-11-15T11:21:15.887333735Z",
-  "commits_etag": "\"5028880873ec6dd3e4609196710547c761bb6e2e57b281b95aab06622dbecd4f\"",
-  "releases_etag": "\"eefddc31ac9c07a85eacb44de8107c6896691753467c8eac8024b909dc05b4c9\""
+  "commits_etag": "\"247517eaff107df05f7e32f3840a7d9b342936fbcec349e0552aa86a007b9d7b\"",
+  "releases_etag": "\"3d202bcddcc7c5e98a380f25d7cc95e29a32e4fff6291ad648e5cf78298fa24f\""
 }

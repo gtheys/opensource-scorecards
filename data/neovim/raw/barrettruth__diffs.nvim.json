@@ -1,6 +1,6 @@
 {
   "slug": "barrettruth/diffs.nvim",
-  "fetched_at": "2026-11-17T11:58:31.395425177Z",
+  "fetched_at": "2026-11-19T11:46:49.009372488Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 5302
   },
   "slow_fetched_at": "2026-11-13T11:08:10.812943336Z",
-  "commits_etag": "\"82075d5f0d2e8430fa4ace0279a965c29d968a5a9a85748460d8d77506d354fd\"",
-  "releases_etag": "\"eefddc31ac9c07a85eacb44de8107c6896691753467c8eac8024b909dc05b4c9\""
+  "commits_etag": "\"242fbddf4e3e7acbb07eebcbe7791e343dc32e5664d5dbd3a63918cc1dd8d131\"",
+  "releases_etag": "\"3d202bcddcc7c5e98a380f25d7cc95e29a32e4fff6291ad648e5cf78298fa24f\""
 }

@@ -1,22 +1,22 @@
 {
   "slug": "neovim/nvim-lspconfig",
-  "fetched_at": "2026-11-17T12:31:03.101070094Z",
+  "fetched_at": "2026-11-19T12:18:49.334999251Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 14015,
+    "stars": 14017,
     "forks": 2503,
     "description": "Quickstart configs for Nvim LSP",
     "license_spdx": "Apache-2.0",
-    "last_commit_at": "2026-11-17T11:27:59Z",
+    "last_commit_at": "2026-11-18T11:28:39Z",
     "commits_90d": 57,
     "releases_365d": 7,
     "median_issue_close_days": 2.2524305555555557,
-    "median_pr_close_days": 0.6218518518518519,
-    "open_issues": 38,
+    "median_pr_close_days": 0.6171296296296296,
+    "open_issues": 40,
     "closed_issues_sampled": 5,
-    "contributors_12mo": 198,
-    "top_author_commit_share": 0.09859154929577464,
+    "contributors_12mo": 196,
+    "top_author_commit_share": 0.09929078014184398,
     "top_author": {
       "login": "justinmk",
       "account_created_at": "2012-01-20T17:37:03Z",
@@ -27,6 +27,6 @@
     "readme_len": 9629
   },
   "slow_fetched_at": "2026-11-16T11:59:45.890047338Z",
-  "commits_etag": "\"da04ad505a5a4b5a2a30024bb561c8853913f1915efdf3af4830453498346629\"",
-  "releases_etag": "\"66eef15629364fc9edb48e678f29733802fa89dc68f0a141c6bceef1131c47f3\""
+  "commits_etag": "\"adff113393d642d2b8f7be327ca8c10d75c932e59ba17a6778fbd7e66fa9aa52\"",
+  "releases_etag": "\"593e269c138ca2befa940698fa1bbf193b1c6f22407fb91b291c43c109d05d47\""
 }

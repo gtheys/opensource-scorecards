@@ -1,6 +1,6 @@
 {
   "slug": "adriancmiranda/glimpse.nvim",
-  "fetched_at": "2026-11-17T11:55:01.936319518Z",
+  "fetched_at": "2026-11-19T11:42:58.354910183Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 30235
   },
   "slow_fetched_at": "2026-11-13T11:03:39.874619186Z",
-  "commits_etag": "\"ee86a2ac35b9d77e5059c4403849fe8d8eaac2a356ceb858e76bc2def921f0ed\"",
-  "releases_etag": "\"ff6fc0e3da88da3e64dbaefc347ee8c3afe20e0ed7da87189c43dc47e8bea698\""
+  "commits_etag": "\"8c67c2892930da4de5f7fda3bef7011b5fa515158fec4726742f2fc30043fd5f\"",
+  "releases_etag": "\"6dfc97ebb3509019ddab89ea8a7b8d18865a0983bbb00f017d463a4d9539f95b\""
 }

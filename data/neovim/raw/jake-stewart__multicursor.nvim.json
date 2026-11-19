@@ -1,6 +1,6 @@
 {
   "slug": "jake-stewart/multicursor.nvim",
-  "fetched_at": "2026-11-17T12:15:35.312724402Z",
+  "fetched_at": "2026-11-19T12:03:50.609675916Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -16,7 +16,7 @@
     "open_issues": 1,
     "closed_issues_sampled": 45,
     "contributors_12mo": 3,
-    "top_author_commit_share": 0.9230769230769231,
+    "top_author_commit_share": 0.92,
     "top_author": {
       "login": "jake-stewart",
       "account_created_at": "2021-05-02T05:28:58Z",
@@ -27,6 +27,6 @@
     "readme_len": 7163
   },
   "slow_fetched_at": "2026-11-13T11:30:19.267706104Z",
-  "commits_etag": "\"7d2c195ba78ee03652b409a73e3974350bcefab8a3f3b751e8b4d68084d4960f\"",
-  "releases_etag": "\"eefddc31ac9c07a85eacb44de8107c6896691753467c8eac8024b909dc05b4c9\""
+  "commits_etag": "\"2cf7effdcb78f3deee6c735a6ecfb8c364d9da8c8dd062bc666cb8f06efb1f92\"",
+  "releases_etag": "\"3d202bcddcc7c5e98a380f25d7cc95e29a32e4fff6291ad648e5cf78298fa24f\""
 }

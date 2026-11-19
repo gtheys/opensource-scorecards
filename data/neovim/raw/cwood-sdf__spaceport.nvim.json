@@ -1,6 +1,6 @@
 {
   "slug": "cwood-sdf/spaceport.nvim",
-  "fetched_at": "2026-11-17T12:04:33.210773742Z",
+  "fetched_at": "2026-11-19T11:52:46.189872379Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 17282
   },
   "slow_fetched_at": "2026-11-13T11:15:29.968092061Z",
-  "commits_etag": "\"b1a77b3ceb6e4bfd91a56382e7772ebaec125864e8c79da43094427ad5d6990f\"",
-  "releases_etag": "\"926cc13e12aca10f6b7bb622f1a56bd6710fffa238e483f582338dd42a69b905\""
+  "commits_etag": "\"c3f80a0490e8a2992c0654fd67ca384111c9ccf913f1408a717234d0eeca96a2\"",
+  "releases_etag": "\"5b1049bb191aa970dd80ea4bccc9b776bc763bed527909bb8e048971954ccc1a\""
 }

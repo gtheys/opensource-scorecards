@@ -1,6 +1,6 @@
 {
   "slug": "hakonharnes/img-clip.nvim",
-  "fetched_at": "2026-11-17T12:12:42.711049919Z",
+  "fetched_at": "2026-11-19T12:00:53.919856686Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -18,15 +18,15 @@
     "contributors_12mo": 3,
     "top_author_commit_share": 0.3333333333333333,
     "top_author": {
-      "login": "riodelphino",
-      "account_created_at": "2017-06-12T14:41:08Z",
-      "other_repos_star_sum": 48
+      "login": "engeir",
+      "account_created_at": "2018-04-30T11:52:21Z",
+      "other_repos_star_sum": 93
     },
     "has_ci": true,
     "has_tests": true,
     "readme_len": 22831
   },
   "slow_fetched_at": "2026-11-13T11:26:42.981157471Z",
-  "commits_etag": "\"1ecda00323780b58cc0c83e27295e621d57c50e454be633e57e6c49b23fa7a57\"",
-  "releases_etag": "\"ed593669512734b4ca8c6d960efad5de802f444efb6bba5504064899d4e05b79\""
+  "commits_etag": "\"5bf699d6c56f882e35e37f2391dcd6054d1fd877b4a2fa7bc96fa3388100e541\"",
+  "releases_etag": "\"63f7eda98e2f7e9d3bebf73e64ba634bd9b6602c769d4bf3b3b64c079f889427\""
 }

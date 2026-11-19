@@ -1,6 +1,6 @@
 {
   "slug": "nanozuki/tabby.nvim",
-  "fetched_at": "2026-11-17T12:30:19.382283487Z",
+  "fetched_at": "2026-11-19T12:18:04.035725672Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 26417
   },
   "slow_fetched_at": "2026-11-16T11:58:45.176178941Z",
-  "commits_etag": "\"813fbfb0f060f1c2b827952cb002e734a838df33b62de5736a79e587aad6ead3\"",
-  "releases_etag": "\"6e50ed48411726c41d46c3c803b271f19128a5c7a6324b444c77869c3370f721\""
+  "commits_etag": "\"ceb131092dc0755ddb1ad7b1db9d81a60570f081880027b6a65001e1c327a313\"",
+  "releases_etag": "\"e125d2463334e05c7d1044a40794e2744aec26583b3b7b0fb983c98f3b6abc39\""
 }

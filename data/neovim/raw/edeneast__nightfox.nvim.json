@@ -1,6 +1,6 @@
 {
   "slug": "edeneast/nightfox.nvim",
-  "fetched_at": "2026-11-17T12:07:45.077152439Z",
+  "fetched_at": "2026-11-19T11:56:02.200007854Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -13,7 +13,7 @@
     "releases_365d": 0,
     "median_issue_close_days": 3.550457175925926,
     "median_pr_close_days": 10.90924189814815,
-    "open_issues": 37,
+    "open_issues": 39,
     "closed_issues_sampled": 20,
     "contributors_12mo": 2,
     "top_author_commit_share": 0.5,
@@ -27,6 +27,6 @@
     "readme_len": 25229
   },
   "slow_fetched_at": "2026-11-13T11:20:18.952825340Z",
-  "commits_etag": "\"99cff1c373e38bcb5b18dada7c2cf9a89cfba8c6de2ebe8e0f376773f69de00e\"",
-  "releases_etag": "\"966722f75af0d99f4ce85f2612d2a5be1267227f711e6b935ad8f9c19069acde\""
+  "commits_etag": "\"f6c2b62f23ffff5527481e4e772c87fa20bfe9cac7c027f0e50b7679ec2f0e18\"",
+  "releases_etag": "\"deb5973398c5e94f0318f66000649e165e8ee1350ea90f5bc8f19a586426b58f\""
 }

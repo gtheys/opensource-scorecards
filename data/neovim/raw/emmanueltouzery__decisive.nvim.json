@@ -1,6 +1,6 @@
 {
   "slug": "emmanueltouzery/decisive.nvim",
-  "fetched_at": "2026-11-17T12:08:07.415048120Z",
+  "fetched_at": "2026-11-19T11:56:23.923799784Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -18,15 +18,15 @@
     "contributors_12mo": 2,
     "top_author_commit_share": 0.5,
     "top_author": {
-      "login": "emmanueltouzery",
-      "account_created_at": "2010-07-21T07:50:29Z",
-      "other_repos_star_sum": 794
+      "login": "ervandew",
+      "account_created_at": "2009-04-16T23:40:05Z",
+      "other_repos_star_sum": 4665
     },
     "has_ci": false,
     "has_tests": false,
     "readme_len": 3686
   },
   "slow_fetched_at": "2026-11-13T11:20:50.883717521Z",
-  "commits_etag": "\"d057aa9df1e9597f604360ecc032e203e80b76f8c10194f50025f9a77fe1dbcb\"",
-  "releases_etag": "\"eefddc31ac9c07a85eacb44de8107c6896691753467c8eac8024b909dc05b4c9\""
+  "commits_etag": "\"68040f38cac1f86ac9d329b0d24571b8a8a9e88a2dde8c1f1f35bb879ef861f4\"",
+  "releases_etag": "\"3d202bcddcc7c5e98a380f25d7cc95e29a32e4fff6291ad648e5cf78298fa24f\""
 }

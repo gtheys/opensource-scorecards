@@ -1,6 +1,6 @@
 {
   "slug": "lotabout/skim",
-  "fetched_at": "2026-11-17T12:23:19.315076675Z",
+  "fetched_at": "2026-11-19T12:10:52.404344980Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 33093
   },
   "slow_fetched_at": "2026-11-14T10:53:09.102120360Z",
-  "commits_etag": "\"dcdae9d29906bd2f20ab4d67bd10eb476761ed4820e2eb17a83e5b67690c8ed7\"",
-  "releases_etag": "\"48d90a2ab1df22dd0c454ce6c6af85b9023be811454bb9a7d8098128b8e191ae\""
+  "commits_etag": "\"eab3fec85cf7feea391eb097b6db116db03a2fabbac4b6c721038119813d4c59\"",
+  "releases_etag": "\"bb697d7c6aa2257dec47de58961eb78ba0d2fde4c4b34795e5b2143cd09b982a\""
 }

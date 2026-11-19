@@ -1,6 +1,6 @@
 {
   "slug": "lintaoamons/cd-project.nvim",
-  "fetched_at": "2026-11-17T12:23:00.341019716Z",
+  "fetched_at": "2026-11-19T12:10:33.274552708Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 8449
   },
   "slow_fetched_at": "2026-11-14T10:52:46.821649534Z",
-  "commits_etag": "\"5f4982df76b64d99970c0b0cc2a42dae864cade72b7c861865800eb333b447fd\"",
-  "releases_etag": "\"2e72bc7df699eced108f159cf01b8645780605010c8314b60565d4250c9b0b13\""
+  "commits_etag": "\"320a982378db9486e1c3002983f3c8a888c65b0088dcc70f5b74b38615621760\"",
+  "releases_etag": "\"fa33771bd6354fd594a6c74d3849272a641f264333b2bdd26f094af531a12217\""
 }

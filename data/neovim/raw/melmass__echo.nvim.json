@@ -1,6 +1,6 @@
 {
   "slug": "melmass/echo.nvim",
-  "fetched_at": "2026-11-17T12:25:59.409157532Z",
+  "fetched_at": "2026-11-19T12:13:40.958484500Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 3498
   },
   "slow_fetched_at": "2026-11-15T11:21:11.886164844Z",
-  "commits_etag": "\"f146442854545f3393c368aa2c70df97f70fb5d355ea4045a5a44f5aa660408c\"",
-  "releases_etag": "\"6b4066cfd73dfc3905083a6965bddf0c57120ffa9a7255b6caa135303a9756da\""
+  "commits_etag": "\"edcf9266be305a082f2329c19c7ce585db5732827b9dd6a52b70611d0042e381\"",
+  "releases_etag": "\"83e67d4f892dff74f184a1afa59d8c08a72cde3c8109612006064385da42c5a2\""
 }

@@ -1,6 +1,6 @@
 {
   "slug": "jpease/hex-outdated.nvim",
-  "fetched_at": "2026-11-17T12:17:42.924128388Z",
+  "fetched_at": "2026-11-19T12:05:41.929128123Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "A Neovim plugin that shows Hex dependency status inline in your Elixir mix.exs. Each dependency's latest version and   status appears as virtual text as you type, with one-key upgrades and a versions browser.",
     "license_spdx": "MIT",
     "last_commit_at": "2026-11-16T01:00:16Z",
-    "commits_90d": 34,
+    "commits_90d": 33,
     "releases_365d": 1,
     "median_issue_close_days": 0.20273726851851853,
     "median_pr_close_days": null,
@@ -27,6 +27,6 @@
     "readme_len": 9936
   },
   "slow_fetched_at": "2026-11-14T10:47:22.449414856Z",
-  "commits_etag": "\"979efc6ad0b147051df4cd9168efec5ce194ffadf60647d9c3f879cfaf6c0ab8\"",
-  "releases_etag": "\"718e1402e78023f7d9d7f0c6a9abbf0b6810dc17f608ad4afb175d0342c4e985\""
+  "commits_etag": "\"db1087a6a2062ae6226a49f6ec83376a2ab0181d2cab934bcebc331d5294de6f\"",
+  "releases_etag": "\"2a16226d16fd3ef8d59d3e3d6ac174d62d3db71664f8a8966148cefe83df0c39\""
 }

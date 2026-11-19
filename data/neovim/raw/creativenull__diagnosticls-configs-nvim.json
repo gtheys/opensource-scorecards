@@ -1,6 +1,6 @@
 {
   "slug": "creativenull/diagnosticls-configs-nvim",
-  "fetched_at": "2026-11-17T12:03:34.987027363Z",
+  "fetched_at": "2026-11-19T11:51:48.290106363Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 6862
   },
   "slow_fetched_at": "2026-11-13T11:14:08.437008970Z",
-  "commits_etag": "\"83a7248f4d63f98b246f117c1bb492b88084c728780ae50930beb47fad5e1ffb\"",
-  "releases_etag": "\"1eaa9144d5c90e0b2f60fe096e4e27d3634f9761970f5ebc38f2981bed0077e0\""
+  "commits_etag": "\"1a869220e09b8da785d1f36c48af93ad941e81adb4960fd65d0a21a95c8b12f5\"",
+  "releases_etag": "\"96aabdbf8e212cd8b318425bdf0bc7aa5c75a268513168b2e53e82b975d9628c\""
 }

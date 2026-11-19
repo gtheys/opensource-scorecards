@@ -1,6 +1,6 @@
 {
   "slug": "fnune/recall.nvim",
-  "fetched_at": "2026-11-17T12:09:43.681157965Z",
+  "fetched_at": "2026-11-19T11:57:56.625805231Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -8,15 +8,15 @@
     "forks": 6,
     "description": "Recall refines the use of Neovim marks by focusing on global marks, streamlining their usage and enhancing their visibility and navigability.",
     "license_spdx": "MIT",
-    "last_commit_at": "2026-04-24T10:03:27Z",
-    "commits_90d": 0,
+    "last_commit_at": "2026-11-17T14:10:25Z",
+    "commits_90d": 1,
     "releases_365d": 0,
     "median_issue_close_days": 0.8689409722222221,
     "median_pr_close_days": 0.14227430555555556,
     "open_issues": 2,
     "closed_issues_sampled": 8,
     "contributors_12mo": 3,
-    "top_author_commit_share": 0.5925925925925926,
+    "top_author_commit_share": 0.5714285714285714,
     "top_author": {
       "login": "bvdmitri",
       "account_created_at": "2014-01-31T21:56:03Z",
@@ -27,6 +27,6 @@
     "readme_len": 9247
   },
   "slow_fetched_at": "2026-11-13T11:23:02.653546146Z",
-  "commits_etag": "\"96f0660b791585bca37d2464899d2016d363396d17d5e90e73eba9381cc9f5f6\"",
-  "releases_etag": "\"eefddc31ac9c07a85eacb44de8107c6896691753467c8eac8024b909dc05b4c9\""
+  "commits_etag": "\"6da4a6c0972ce152247a079bdce9c147cd77976e1b776faaef4399fb83f3f90c\"",
+  "releases_etag": "\"3d202bcddcc7c5e98a380f25d7cc95e29a32e4fff6291ad648e5cf78298fa24f\""
 }

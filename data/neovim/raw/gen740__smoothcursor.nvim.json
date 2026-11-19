@@ -1,6 +1,6 @@
 {
   "slug": "gen740/smoothcursor.nvim",
-  "fetched_at": "2026-11-17T12:11:28.250980844Z",
+  "fetched_at": "2026-11-19T11:59:35.141271047Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 7492
   },
   "slow_fetched_at": "2026-11-13T11:25:05.544048958Z",
-  "commits_etag": "\"fefeea86ba563193032daccdddf5b77d96f52d475bf3b24fc1794f9b89f37e23\"",
-  "releases_etag": "\"eefddc31ac9c07a85eacb44de8107c6896691753467c8eac8024b909dc05b4c9\""
+  "commits_etag": "\"56f03e4831e3ee6edbf3a70f9437b173f57d0c7b5b13354325b6970d4b6b9c1e\"",
+  "releases_etag": "\"3d202bcddcc7c5e98a380f25d7cc95e29a32e4fff6291ad648e5cf78298fa24f\""
 }

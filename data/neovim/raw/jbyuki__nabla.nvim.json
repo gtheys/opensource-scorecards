@@ -1,6 +1,6 @@
 {
   "slug": "jbyuki/nabla.nvim",
-  "fetched_at": "2026-11-17T12:16:21.951562981Z",
+  "fetched_at": "2026-11-19T12:04:25.365803283Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 3968
   },
   "slow_fetched_at": "2026-11-14T10:46:04.044183470Z",
-  "commits_etag": "\"b88f445c190711a341045d555283eda5e6720cd979b8f9f3b4ad1b8480e14a82\"",
-  "releases_etag": "\"eefddc31ac9c07a85eacb44de8107c6896691753467c8eac8024b909dc05b4c9\""
+  "commits_etag": "\"ec185cbc490e9cc131661414e3779ad09e69eeb550475a18821fe506af3afb1a\"",
+  "releases_etag": "\"3d202bcddcc7c5e98a380f25d7cc95e29a32e4fff6291ad648e5cf78298fa24f\""
 }
