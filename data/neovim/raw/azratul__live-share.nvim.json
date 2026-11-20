@@ -1,6 +1,6 @@
 {
   "slug": "azratul/live-share.nvim",
-  "fetched_at": "2026-11-19T11:46:21.822572255Z",
+  "fetched_at": "2026-11-20T11:44:43.390105087Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 18098
   },
   "slow_fetched_at": "2026-11-13T11:07:39.176950462Z",
-  "commits_etag": "\"305a428da994c639b2dfe02efc92519b786a2365560725f5e342a6f308c105a9\"",
-  "releases_etag": "\"7342a92144c590e7b136a7f1bfbb7e1e4d1b7df2e13243c20be816e5c30219c3\""
+  "commits_etag": "\"75cd7d36db08877d8060fd815263bc1f6ae08e4a35560790f36d5f83da800532\"",
+  "releases_etag": "\"01b2717cdc4b3ca6a5cf8edda0c2e247cae660a231acb92de312c0ea2e5f9c1f\""
 }

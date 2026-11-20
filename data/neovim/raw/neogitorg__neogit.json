@@ -1,6 +1,6 @@
 {
   "slug": "neogitorg/neogit",
-  "fetched_at": "2026-11-19T12:18:38.547284057Z",
+  "fetched_at": "2026-11-20T12:15:55.763306405Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 21270
   },
   "slow_fetched_at": "2026-11-16T11:59:31.774241148Z",
-  "commits_etag": "\"d5da8324fadebc2f62f30a0c7aaeceb2abad8af41e31a127f2f5c74bbbb1499d\"",
-  "releases_etag": "\"06f250c7b5afb73229d61725b7a869e4c7845d89950005202044d6849c96c422\""
+  "commits_etag": "\"6291f0f6655ca35c1eaaea3cdd8a267dab56541b8b79f0cd4b8031d4ceff12b5\"",
+  "releases_etag": "\"c7366fb330f7edd195179afedde12e2419d4acf3e1bfd6f53d8a4aae92f74d10\""
 }

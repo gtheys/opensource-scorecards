@@ -1,11 +1,11 @@
 {
   "slug": "esensar/nvim-dev-container",
-  "fetched_at": "2026-11-19T11:56:45.161941526Z",
+  "fetched_at": "2026-11-20T11:54:31.206229947Z",
   "status": "ok",
   "data": {
     "archived": true,
-    "stars": 743,
-    "forks": 21,
+    "stars": 742,
+    "forks": 22,
     "description": "Neovim dev container support - Mirror of https://codeberg.org/esensar/nvim-dev-container",
     "license_spdx": "MIT",
     "last_commit_at": "2026-11-17T08:47:39Z",
@@ -27,6 +27,6 @@
     "readme_len": 8333
   },
   "slow_fetched_at": "2026-11-13T11:21:19.977244739Z",
-  "commits_etag": "\"75b0aea18f0f46f3034abef4ff5ece584c00d411119bbf1aa61f45045a9ca104\"",
-  "releases_etag": "\"db4edc17508e139918439190d205483a988b6da4d5015ee52f7e38c0dd0dee5d\""
+  "commits_etag": "\"f3222091bbb1fda2f1f6ff348c6e4b92db811ad3cc9b88ea6b80ff104981e9dd\"",
+  "releases_etag": "\"3cbb35d580743111e0a8364856447c6f1672218138fff717bc4c89d29e0727d4\""
 }

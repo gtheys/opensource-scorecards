@@ -1,10 +1,10 @@
 {
   "slug": "kibi2/tirenvi.nvim",
-  "fetched_at": "2026-11-19T12:07:25.703772554Z",
+  "fetched_at": "2026-11-20T12:04:52.742410138Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 43,
+    "stars": 42,
     "forks": 2,
     "description": "Edit Markdown and CSV tables in Neovim with lossless round-trip.",
     "license_spdx": "MIT",
@@ -27,6 +27,6 @@
     "readme_len": 11856
   },
   "slow_fetched_at": "2026-11-14T10:49:20.947924128Z",
-  "commits_etag": "\"831bcf714bb4384dda120901a4928e81cfe96b8ffe09203d92f65c1d8d9870aa\"",
-  "releases_etag": "\"743c6d6e794277afd637ca88f745f109c1d75a2af4fff7bf0db185459ca0dde4\""
+  "commits_etag": "\"03bdb44b42b45ff93d215cc5946de04d0a3a013f721d070a439e51b3d0524480\"",
+  "releases_etag": "\"8d4cb371f98ad7652a17d8bcaae1d1c315823f59215f5179facba268854bf4be\""
 }

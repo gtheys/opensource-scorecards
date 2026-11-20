@@ -1,6 +1,6 @@
 {
   "slug": "hrsh7th/cmp-cmdline",
-  "fetched_at": "2026-11-19T12:02:00.709164265Z",
+  "fetched_at": "2026-11-20T11:59:28.628837790Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 1124
   },
   "slow_fetched_at": "2026-11-13T11:28:03.971210006Z",
-  "commits_etag": "\"60c1d8499606b9cae8454dbc1674f5246c0d657ee6ba02133f9967850c3f52de\"",
-  "releases_etag": "\"3d202bcddcc7c5e98a380f25d7cc95e29a32e4fff6291ad648e5cf78298fa24f\""
+  "commits_etag": "\"e96d6aa600ec36579569b1e86842671f5e14fbfd9a7ff6df955b4997acb4b14d\"",
+  "releases_etag": "\"3bdf9136ecfbf7ff68ff16a0afe67fc8b62f5dc213b57b0b8febefb2a0cceff6\""
 }

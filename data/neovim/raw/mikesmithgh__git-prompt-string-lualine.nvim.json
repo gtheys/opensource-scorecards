@@ -1,6 +1,6 @@
 {
   "slug": "mikesmithgh/git-prompt-string-lualine.nvim",
-  "fetched_at": "2026-11-19T12:14:45.684367665Z",
+  "fetched_at": "2026-11-20T12:12:05.414978921Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 6858
   },
   "slow_fetched_at": "2026-11-15T11:22:12.485586272Z",
-  "commits_etag": "\"c711fbe232b69b8633a88074553296d348c57dcda5d4a57d60be3a03fa3e1ac0\"",
-  "releases_etag": "\"a0f5bf47b7398b713ea691cae589a1c7c41fdeb2b9a1a84ee675851c8b633859\""
+  "commits_etag": "\"030bd6d0101446862f29bbe1bdb6468db9549dc50ce4d8f979f5d2f99eb9d567\"",
+  "releases_etag": "\"72fecb1a0c8bf98be796442f9a0a16d84084891af78928724feec13673399e7d\""
 }

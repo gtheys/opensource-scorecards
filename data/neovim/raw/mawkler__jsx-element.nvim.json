@@ -1,6 +1,6 @@
 {
   "slug": "mawkler/jsx-element.nvim",
-  "fetched_at": "2026-11-19T12:13:09.567534690Z",
+  "fetched_at": "2026-11-20T12:10:31.938861673Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -18,15 +18,15 @@
     "contributors_12mo": 2,
     "top_author_commit_share": 0.5,
     "top_author": {
-      "login": "mawkler",
-      "account_created_at": "2015-11-12T12:52:11Z",
-      "other_repos_star_sum": 740
+      "login": "BibekBhusal0",
+      "account_created_at": "2023-06-29T12:50:02Z",
+      "other_repos_star_sum": 237
     },
     "has_ci": true,
     "has_tests": false,
     "readme_len": 1345
   },
   "slow_fetched_at": "2026-11-14T10:55:28.185165671Z",
-  "commits_etag": "\"df339ce63c02e3e9e8c53c0f87b98e87e92cdb10f89e53d35799a6e0e6d088ec\"",
-  "releases_etag": "\"3d202bcddcc7c5e98a380f25d7cc95e29a32e4fff6291ad648e5cf78298fa24f\""
+  "commits_etag": "\"83b8b89374f8925aa8fe54422e1691e431a52dbb3fe41334b4360f38821970e1\"",
+  "releases_etag": "\"3bdf9136ecfbf7ff68ff16a0afe67fc8b62f5dc213b57b0b8febefb2a0cceff6\""
 }

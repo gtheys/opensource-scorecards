@@ -1,10 +1,10 @@
 {
   "slug": "hakonharnes/img-clip.nvim",
-  "fetched_at": "2026-11-19T12:00:53.919856686Z",
+  "fetched_at": "2026-11-20T11:58:28.400687708Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 950,
+    "stars": 949,
     "forks": 43,
     "description": "Embed images into any markup language, like LaTeX, Markdown or Typst",
     "license_spdx": "MIT",
@@ -18,15 +18,15 @@
     "contributors_12mo": 3,
     "top_author_commit_share": 0.3333333333333333,
     "top_author": {
-      "login": "engeir",
-      "account_created_at": "2018-04-30T11:52:21Z",
-      "other_repos_star_sum": 93
+      "login": "riodelphino",
+      "account_created_at": "2017-06-12T14:41:08Z",
+      "other_repos_star_sum": 48
     },
     "has_ci": true,
     "has_tests": true,
     "readme_len": 22831
   },
   "slow_fetched_at": "2026-11-13T11:26:42.981157471Z",
-  "commits_etag": "\"5bf699d6c56f882e35e37f2391dcd6054d1fd877b4a2fa7bc96fa3388100e541\"",
-  "releases_etag": "\"63f7eda98e2f7e9d3bebf73e64ba634bd9b6602c769d4bf3b3b64c079f889427\""
+  "commits_etag": "\"4f27b40cc3fbb12f3cb8e7136cd6bd074f92088919957fec52b43f171151052e\"",
+  "releases_etag": "\"11e8092de37efd1ca5750f1e0bf6d21e09d18c9cdb3843be0fe1ca41f52bf983\""
 }

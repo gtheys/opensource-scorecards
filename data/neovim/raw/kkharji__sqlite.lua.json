@@ -1,10 +1,10 @@
 {
   "slug": "kkharji/sqlite.lua",
-  "fetched_at": "2026-11-19T12:08:00.707601934Z",
+  "fetched_at": "2026-11-20T12:05:27.610978600Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 573,
+    "stars": 572,
     "forks": 32,
     "description": "SQLite LuaJIT binding with a very simple api.",
     "license_spdx": "MIT",
@@ -23,6 +23,6 @@
     "readme_len": 2682
   },
   "slow_fetched_at": "2026-11-14T10:50:01.486815900Z",
-  "commits_etag": "\"3f45193f733bc180961bb5a7a133d778cfbbd513569735577e1b6e0a6acde850\"",
-  "releases_etag": "\"9ee9005aec76c9fed9376a71698abf3829e478498c690c3e7962beff2b0c3e20\""
+  "commits_etag": "\"0c3159906b907f1c4b8e16ad2132820f70744c6e7c6606b4e776ed0d14996116\"",
+  "releases_etag": "\"dc5948f2c1f475c71b9eb7e5b126370cfeee52e3736b30d2a36c550cff2a79d8\""
 }

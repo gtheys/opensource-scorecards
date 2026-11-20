@@ -1,6 +1,6 @@
 {
   "slug": "batoaqaa/nvim-pio",
-  "fetched_at": "2026-11-19T11:46:56.783445005Z",
+  "fetched_at": "2026-11-20T11:45:15.002312096Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 15812
   },
   "slow_fetched_at": "2026-11-13T11:08:19.587562458Z",
-  "commits_etag": "\"1b79f35419ecebc2f83d59363df32f11b6f79d73c49a05c0b44a2635dd8ba869\"",
-  "releases_etag": "\"3d202bcddcc7c5e98a380f25d7cc95e29a32e4fff6291ad648e5cf78298fa24f\""
+  "commits_etag": "\"d57808fa32bb59d305a1cb8733dd84af271ecc37410b879abbd692632ffb6510\"",
+  "releases_etag": "\"3bdf9136ecfbf7ff68ff16a0afe67fc8b62f5dc213b57b0b8febefb2a0cceff6\""
 }

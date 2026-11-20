@@ -1,6 +1,6 @@
 {
   "slug": "kohei-wada/yadm-git.nvim",
-  "fetched_at": "2026-11-19T12:08:12.571952423Z",
+  "fetched_at": "2026-11-20T12:05:39.586730371Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 2729
   },
   "slow_fetched_at": "2026-11-14T10:50:14.617578548Z",
-  "commits_etag": "\"3246422a0bb0b5e8dfc2ec17a0323020ae26f57cc130f38f5aef7d01eefee4a3\"",
-  "releases_etag": "\"5b54abce3e9f904b3f0424c9d9d310132a92e4328c392c89f80d71722848e194\""
+  "commits_etag": "\"dd99eaa94644740517b9ee4e56515586ce9976e90882b883fe0a90822f544cbe\"",
+  "releases_etag": "\"badeebff2b130ce120b5eccae26ed5871659f299394d69fe7b0d1efc15316c74\""
 }

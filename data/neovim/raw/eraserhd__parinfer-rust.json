@@ -1,10 +1,10 @@
 {
   "slug": "eraserhd/parinfer-rust",
-  "fetched_at": "2026-11-19T11:56:36.158794530Z",
+  "fetched_at": "2026-11-20T11:54:22.728261460Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 635,
+    "stars": 636,
     "forks": 55,
     "description": "A Rust port of parinfer.",
     "license_spdx": "ISC",
@@ -27,6 +27,6 @@
     "readme_len": 5866
   },
   "slow_fetched_at": "2026-11-13T11:21:07.133611328Z",
-  "commits_etag": "\"8219620956d45f438387bafa843bd27dfd7f48946bcce0e48841ba3b28e0955d\"",
-  "releases_etag": "\"ba5f81aef5b2aa928e29700a3aab6d61e564e7c77e9e9e1b154bfcb4a7822c19\""
+  "commits_etag": "\"b121c07e0950e0384c733102b63c491b9fddb6fa4c59c05a6f42960989df615e\"",
+  "releases_etag": "\"e104fe2b28add6404ad4c64ff3172fa6d862206aceef718836b6b8df02895150\""
 }

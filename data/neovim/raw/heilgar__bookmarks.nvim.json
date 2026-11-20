@@ -1,6 +1,6 @@
 {
   "slug": "heilgar/bookmarks.nvim",
-  "fetched_at": "2026-11-19T12:01:30.930517948Z",
+  "fetched_at": "2026-11-20T11:58:59.518642513Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 10187
   },
   "slow_fetched_at": "2026-11-13T11:27:26.598972076Z",
-  "commits_etag": "\"b6b652ba1c123269026e738908322137f7a4a5f21bb35777a9f47d8fa1009066\"",
-  "releases_etag": "\"b7a7726c9d0a30b3afd3daa2d3912cb585fd914d18444701d915f1dba1345cc2\""
+  "commits_etag": "\"d267d9b3bba634abd995403c7d690962a1ff7a4d6186c17d1312aa60b45f0fdb\"",
+  "releases_etag": "\"b00e41182532c91aecd0ffae78d649ed0bf8f618fe4a71b93016b68401256795\""
 }

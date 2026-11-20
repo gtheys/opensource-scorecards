@@ -1,10 +1,10 @@
 {
   "slug": "kosayoda/nvim-lightbulb",
-  "fetched_at": "2026-11-19T12:08:19.101719107Z",
+  "fetched_at": "2026-11-20T12:05:45.861992289Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 892,
+    "stars": 889,
     "forks": 29,
     "description": "VSCode 💡 for neovim's built-in LSP.",
     "license_spdx": "MIT",
@@ -27,6 +27,6 @@
     "readme_len": 7590
   },
   "slow_fetched_at": "2026-11-14T10:50:21.286187070Z",
-  "commits_etag": "\"8fe6607b2ff18ce9505b358227e6e629fc99aa89b5d371458f3bca34478a86f8\"",
-  "releases_etag": "\"fe6d0278434dfdec7cfdfe92f462e5916452c806d3131230ca63dcae69f33ed5\""
+  "commits_etag": "\"30e08375621b9cddbc6676cb1f8fcfa9790955c83a4eaf610306d94488a4f04a\"",
+  "releases_etag": "\"3a9cdc967ff6646eeb3acd246914abc4a380ec2077fb814b792462429ccbea8e\""
 }

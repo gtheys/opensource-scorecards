@@ -1,6 +1,6 @@
 {
   "slug": "hinell/move.nvim",
-  "fetched_at": "2026-11-19T12:01:41.061174021Z",
+  "fetched_at": "2026-11-20T11:59:09.732587635Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 3138
   },
   "slow_fetched_at": "2026-11-13T11:27:40.862637392Z",
-  "commits_etag": "\"99c71cacf9a037fee665db2f8e4f3cc53292fabf79781a7817856bf22f920eda\"",
-  "releases_etag": "\"3d202bcddcc7c5e98a380f25d7cc95e29a32e4fff6291ad648e5cf78298fa24f\""
+  "commits_etag": "\"a7a7b839dd8d404edd4976e634c676c127cc672e177cd35dabc55af2c0a3f1cd\"",
+  "releases_etag": "\"3bdf9136ecfbf7ff68ff16a0afe67fc8b62f5dc213b57b0b8febefb2a0cceff6\""
 }

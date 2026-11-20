@@ -1,6 +1,6 @@
 {
   "slug": "inhesrom/remote-ssh.nvim",
-  "fetched_at": "2026-11-19T12:03:02.233012708Z",
+  "fetched_at": "2026-11-20T12:00:27.576249855Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 63558
   },
   "slow_fetched_at": "2026-11-13T11:29:19.122247033Z",
-  "commits_etag": "\"e4d82d2bb04f200002d5803a116dc1a1b4b910310bdb3e939aabe858b239f6f9\"",
-  "releases_etag": "\"5115670d085de0f916f4098818f6252ee5325f4f747da4864ab83f88487d891a\""
+  "commits_etag": "\"259fd9361adbb5e5891d5be2c8d4837ba73664edf09fd79d83e8d644c68ee693\"",
+  "releases_etag": "\"bf03f11b1793e9b1f85d990f5cd22ae42bd850483447ce7c7cfa252669f13509\""
 }

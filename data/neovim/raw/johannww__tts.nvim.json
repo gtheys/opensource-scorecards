@@ -1,6 +1,6 @@
 {
   "slug": "johannww/tts.nvim",
-  "fetched_at": "2026-11-19T12:05:26.629473558Z",
+  "fetched_at": "2026-11-20T12:02:52.952101343Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 12178
   },
   "slow_fetched_at": "2026-11-14T10:47:05.619436213Z",
-  "commits_etag": "\"8b232e94b0c2f2192347c644504f0e9bcd2848640c910942aceee99ed6a92ece\"",
-  "releases_etag": "\"3d202bcddcc7c5e98a380f25d7cc95e29a32e4fff6291ad648e5cf78298fa24f\""
+  "commits_etag": "\"488ef2fca8f974055ddbb87587646672fb0f5de94ba2eca99721fa5bdb374fa5\"",
+  "releases_etag": "\"3bdf9136ecfbf7ff68ff16a0afe67fc8b62f5dc213b57b0b8febefb2a0cceff6\""
 }

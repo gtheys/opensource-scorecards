@@ -1,10 +1,10 @@
 {
   "slug": "bradley101/nvim-remote-ssh",
-  "fetched_at": "2026-11-19T11:48:03.806515649Z",
+  "fetched_at": "2026-11-20T11:46:17.385982103Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 3,
+    "stars": 4,
     "forks": 0,
     "description": "Work on remote machines from your local Neovim, like VS Code Remote-SSH: your config stays local; files, search and language servers run on the server.",
     "license_spdx": "MIT",
@@ -27,6 +27,6 @@
     "readme_len": 11879
   },
   "slow_fetched_at": "2026-11-19T11:48:03.806515649Z",
-  "commits_etag": "\"f20c0201095cb8d276637ee50f387be87644ebe22fe9c81c574b689cc478a403\"",
-  "releases_etag": "\"0c89ad285c8696783044e0479e40c71ef616ae78a837fe791728987ccc6f59cc\""
+  "commits_etag": "\"793f025cf178631b2bcd107c7a1e6f61ed7209f19da3041c4bf448e60df393d4\"",
+  "releases_etag": "\"49e41771d88822f87d102c0993faf3e443bd2d29d8e5ad2ecfd8e0f2a3b9680e\""
 }

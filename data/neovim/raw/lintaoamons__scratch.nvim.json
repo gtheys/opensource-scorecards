@@ -1,6 +1,6 @@
 {
   "slug": "lintaoamons/scratch.nvim",
-  "fetched_at": "2026-11-19T12:10:35.641200908Z",
+  "fetched_at": "2026-11-20T12:08:04.063768460Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 5948
   },
   "slow_fetched_at": "2026-11-14T10:52:49.337851406Z",
-  "commits_etag": "\"be34f1c917b4cddd7ac05d7c342f9efcd91d1a49dec7c5271a7c8b0b37e94316\"",
-  "releases_etag": "\"73bfc9b9215b965c3b3d20800123d2d62275ec6504371884eeadd5367689f2be\""
+  "commits_etag": "\"24cd8a6552cac6a3ad10357f1fb2b09fe17e9b1b44478adc06faf37f59495be8\"",
+  "releases_etag": "\"c18a4bf80689c35ae9ab301d5f1575685dc3c251895f01459cbe205ab6d65bd4\""
 }

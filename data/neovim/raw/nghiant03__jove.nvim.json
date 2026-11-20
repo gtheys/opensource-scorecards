@@ -1,6 +1,6 @@
 {
   "slug": "nghiant03/jove.nvim",
-  "fetched_at": "2026-11-19T12:19:08.621853518Z",
+  "fetched_at": "2026-11-20T12:16:26.546827177Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -10,10 +10,10 @@
     "license_spdx": "MIT",
     "last_commit_at": "2026-11-18T14:36:25Z",
     "commits_90d": 182,
-    "releases_365d": 17,
+    "releases_365d": 18,
     "median_issue_close_days": null,
     "median_pr_close_days": 1.9160127314814814,
-    "open_issues": 0,
+    "open_issues": 1,
     "closed_issues_sampled": 0,
     "contributors_12mo": 1,
     "top_author_commit_share": 1.0,
@@ -27,6 +27,6 @@
     "readme_len": 12688
   },
   "slow_fetched_at": "2026-11-17T12:31:29.947861207Z",
-  "commits_etag": "\"769d8f9992eed416f3dccf30893956f0693a2e3de57529f05c8dd0104e8dffb4\"",
-  "releases_etag": "\"26ff65539d45df620b3a001e1303a1f0757225ab1cfde28c33902e158716a26c\""
+  "commits_etag": "\"e92c7d13bdaf6cb9da2b07014b91bf6b7203bc402c050f0f58391cabb016ba8b\"",
+  "releases_etag": "\"f51f30cfc65b065ddc3bdb9b1987827acae2d097be5f02038c284d7ae620ab4b\""
 }

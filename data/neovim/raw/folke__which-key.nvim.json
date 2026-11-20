@@ -1,10 +1,10 @@
 {
   "slug": "folke/which-key.nvim",
-  "fetched_at": "2026-11-19T11:58:54.281912797Z",
+  "fetched_at": "2026-11-20T11:56:37.023124698Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 7343,
+    "stars": 7348,
     "forks": 271,
     "description": "💥   Create key bindings that stick. WhichKey helps you remember your Neovim keymaps, by showing available keybindings in a popup as you type.",
     "license_spdx": "Apache-2.0",
@@ -23,6 +23,6 @@
     "readme_len": 16679
   },
   "slow_fetched_at": "2026-11-13T11:24:09.713230052Z",
-  "commits_etag": "\"08f3314b9726a85b0d28a5ff0630ab9b2addbad2476a60cf457c4a4eb33de931\"",
-  "releases_etag": "\"dd19f56fc0a6f72a3a9d74f6dc92d73e06720255f7e76c56e8fec9e6a2f667ac\""
+  "commits_etag": "\"a0ca170e8b3695ada6b3abbec29cadd593676b79290c38d096fa81aa24c81d3f\"",
+  "releases_etag": "\"be6518f54e3e793861b6a8f00e680e1cd6d1c8f0f5c227682654bd655790f04d\""
 }

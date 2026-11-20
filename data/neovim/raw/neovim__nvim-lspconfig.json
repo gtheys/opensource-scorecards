@@ -1,6 +1,6 @@
 {
   "slug": "neovim/nvim-lspconfig",
-  "fetched_at": "2026-11-19T12:18:49.334999251Z",
+  "fetched_at": "2026-11-20T12:16:06.454684665Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,8 +9,8 @@
     "description": "Quickstart configs for Nvim LSP",
     "license_spdx": "Apache-2.0",
     "last_commit_at": "2026-11-18T11:28:39Z",
-    "commits_90d": 57,
-    "releases_365d": 7,
+    "commits_90d": 56,
+    "releases_365d": 8,
     "median_issue_close_days": 2.2524305555555557,
     "median_pr_close_days": 0.6171296296296296,
     "open_issues": 40,
@@ -27,6 +27,6 @@
     "readme_len": 9629
   },
   "slow_fetched_at": "2026-11-16T11:59:45.890047338Z",
-  "commits_etag": "\"adff113393d642d2b8f7be327ca8c10d75c932e59ba17a6778fbd7e66fa9aa52\"",
-  "releases_etag": "\"593e269c138ca2befa940698fa1bbf193b1c6f22407fb91b291c43c109d05d47\""
+  "commits_etag": "\"f6864bd424da486e7bdedaed1261377fd1b61ebbe323712c11fe9bdfd289772a\"",
+  "releases_etag": "\"0225ced7dd90e566ae45091a1181be21754591cc9fd83d285fda5ba13e832c60\""
 }

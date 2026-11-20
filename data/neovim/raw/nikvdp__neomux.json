@@ -1,10 +1,10 @@
 {
   "slug": "nikvdp/neomux",
-  "fetched_at": "2026-11-19T12:19:26.454110211Z",
+  "fetched_at": "2026-11-20T12:16:42.129557214Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 395,
+    "stars": 394,
     "forks": 10,
     "description": "Control Neovim from shells running inside Neovim.",
     "license_spdx": "MIT",
@@ -27,6 +27,6 @@
     "readme_len": 22724
   },
   "slow_fetched_at": "2026-11-19T12:19:26.454110211Z",
-  "commits_etag": "\"5c8a4d011aad6a3fc67ad7508e249fa733b919b95e849b2c1d5541534b79176c\"",
-  "releases_etag": "\"101ec489d16c4aa000bb221626d2097e88e7a2ae00aa4151edba16642a13582d\""
+  "commits_etag": "\"89ec3db8181542525d2f77c9934d98350131ead4d8b1b7a045cfb41f7f588b16\"",
+  "releases_etag": "\"a47655c2d04495c718d5049381437fa36f033d5be82e574e5d431f23519923c1\""
 }

@@ -1,6 +1,6 @@
 {
   "slug": "gfanto/fzf-lsp.nvim",
-  "fetched_at": "2026-11-19T11:59:49.685854504Z",
+  "fetched_at": "2026-11-20T11:57:31.383172296Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 5930
   },
   "slow_fetched_at": "2026-11-13T11:25:26.165348512Z",
-  "commits_etag": "\"02d177a2c386789a7e7d336886105a7942b4771fa26f6c52d6b89c6ae936f242\"",
-  "releases_etag": "\"3d202bcddcc7c5e98a380f25d7cc95e29a32e4fff6291ad648e5cf78298fa24f\""
+  "commits_etag": "\"4b4c699b8a5219dc2b649576f273d1733dabead8b528bf5748173f7b654b7175\"",
+  "releases_etag": "\"3bdf9136ecfbf7ff68ff16a0afe67fc8b62f5dc213b57b0b8febefb2a0cceff6\""
 }

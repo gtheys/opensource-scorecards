@@ -1,6 +1,6 @@
 {
   "slug": "nishu-murmu/themeswitch.nvim",
-  "fetched_at": "2026-11-03T11:39:46.062156920Z",
+  "fetched_at": "2026-11-20T12:16:46.125132664Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -21,5 +21,8 @@
     "has_ci": false,
     "has_tests": false,
     "readme_len": 749
-  }
+  },
+  "slow_fetched_at": "2026-11-20T12:16:46.125132664Z",
+  "commits_etag": "\"2963f83c04a1f714c2043ccd2db149de0c111b124226da2b38c58c302b1546f4\"",
+  "releases_etag": "\"3bdf9136ecfbf7ff68ff16a0afe67fc8b62f5dc213b57b0b8febefb2a0cceff6\""
 }

@@ -1,6 +1,6 @@
 {
   "slug": "jrop/morph.nvim",
-  "fetched_at": "2026-11-19T12:05:48.165977331Z",
+  "fetched_at": "2026-11-20T12:03:15.142145571Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 16810
   },
   "slow_fetched_at": "2026-11-14T10:47:29.380834085Z",
-  "commits_etag": "\"497216b747f783e680f056d4ba59ffee57222ed5e9205a2e3d70bc40c7fcf716\"",
-  "releases_etag": "\"3d202bcddcc7c5e98a380f25d7cc95e29a32e4fff6291ad648e5cf78298fa24f\""
+  "commits_etag": "\"6fa98bfe87b345be1463ab491431e8fc71f3e7444a8d465f436e4b50667e5fdc\"",
+  "releases_etag": "\"3bdf9136ecfbf7ff68ff16a0afe67fc8b62f5dc213b57b0b8febefb2a0cceff6\""
 }

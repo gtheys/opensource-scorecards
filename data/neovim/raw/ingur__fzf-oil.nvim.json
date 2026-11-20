@@ -1,6 +1,6 @@
 {
   "slug": "ingur/fzf-oil.nvim",
-  "fetched_at": "2026-11-19T12:03:00.704918416Z",
+  "fetched_at": "2026-11-20T12:00:25.927426745Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 4053
   },
   "slow_fetched_at": "2026-11-13T11:29:16.878153017Z",
-  "commits_etag": "\"ffa03def2ac303b86ca5bdea3595b82f48d652ee5f9a66aee4ccf6c49a7484cd\"",
-  "releases_etag": "\"bbaca1c1b31e26e28c99091296d13f7b68e671de32f5ea93f7c66e00827da902\""
+  "commits_etag": "\"0e873c9d75979c22ab6966b9114a41f9ddc01558a80ba0c1afd2c58ea83043b3\"",
+  "releases_etag": "\"bb5a87741c9d79d8028fa84caaf8eb4986b6b7a4928b4cba3d38460c12cfeedd\""
 }

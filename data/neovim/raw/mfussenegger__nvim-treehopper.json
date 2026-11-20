@@ -1,10 +1,10 @@
 {
   "slug": "mfussenegger/nvim-treehopper",
-  "fetched_at": "2026-11-19T12:13:58.159029281Z",
+  "fetched_at": "2026-11-20T12:11:20.600696628Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 467,
+    "stars": 466,
     "forks": 17,
     "description": "Region selection with hints on the AST nodes of a document powered by treesitter",
     "license_spdx": "GPL-3.0",
@@ -23,6 +23,6 @@
     "readme_len": 1954
   },
   "slow_fetched_at": "2026-11-15T11:21:30.727765110Z",
-  "commits_etag": "\"611bdb6f6110ca448f8658da24ce94edf12782e74c21268812b84171c5d21600\"",
-  "releases_etag": "\"3d202bcddcc7c5e98a380f25d7cc95e29a32e4fff6291ad648e5cf78298fa24f\""
+  "commits_etag": "\"f648488b89f82c3023dbb7263b5c243eec3af84c8fbb5770ad5ed42444b8e5cf\"",
+  "releases_etag": "\"3bdf9136ecfbf7ff68ff16a0afe67fc8b62f5dc213b57b0b8febefb2a0cceff6\""
 }

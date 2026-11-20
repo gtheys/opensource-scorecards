@@ -1,10 +1,10 @@
 {
   "slug": "andythigpen/nvim-coverage",
-  "fetched_at": "2026-11-19T11:44:45.355438065Z",
+  "fetched_at": "2026-11-20T11:43:19.165838612Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 426,
+    "stars": 427,
     "forks": 56,
     "description": "Displays test coverage data in the sign column",
     "license_spdx": "MIT",
@@ -23,6 +23,6 @@
     "readme_len": 6012
   },
   "slow_fetched_at": "2026-11-13T11:05:45.008451572Z",
-  "commits_etag": "\"e6fbc1aedbc8849ea7fee2fff424c14d0289b398efd4708d79951946fcb6b6ac\"",
-  "releases_etag": "\"3d202bcddcc7c5e98a380f25d7cc95e29a32e4fff6291ad648e5cf78298fa24f\""
+  "commits_etag": "\"5475e179b35323da98e0cd4438559cdcc6f0996a050a1620700867b637318292\"",
+  "releases_etag": "\"3bdf9136ecfbf7ff68ff16a0afe67fc8b62f5dc213b57b0b8febefb2a0cceff6\""
 }

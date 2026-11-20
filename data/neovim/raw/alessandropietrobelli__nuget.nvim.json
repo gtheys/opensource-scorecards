@@ -1,6 +1,6 @@
 {
   "slug": "alessandropietrobelli/nuget.nvim",
-  "fetched_at": "2026-11-19T11:43:58.601371049Z",
+  "fetched_at": "2026-11-20T11:42:31.226091554Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 12121
   },
   "slow_fetched_at": "2026-11-13T11:04:44.271981030Z",
-  "commits_etag": "\"914de8df6597b135d188d23c45963f8aa489ccf9901c50c35a29c0d7f03f7789\"",
-  "releases_etag": "\"39e5c3a79ee4be656f10cb24c5f07c2e79b9b220c8db038247fddb90ee3da4f8\""
+  "commits_etag": "\"485c0c68890a6128c3c492867a7b5479373f2ce648bfe85095d872c9fc34ae08\"",
+  "releases_etag": "\"2ef61447665c0d380bd1f6f639f56e22677da584c4a9e1db083b1dc26e39e1ba\""
 }

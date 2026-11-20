@@ -1,6 +1,6 @@
 {
   "slug": "echaya/neowiki.nvim",
-  "fetched_at": "2026-11-19T11:55:56.030830593Z",
+  "fetched_at": "2026-11-20T11:53:44.095362541Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 11410
   },
   "slow_fetched_at": "2026-11-13T11:20:06.284955739Z",
-  "commits_etag": "\"4d57880bfc125c9a4c1f1f616db4d5e66b7add440857a1d785027c8443e96abf\"",
-  "releases_etag": "\"66be24c8c665a3b34df04b66904ee3feeb2f4a0e1689685fdef7a652ffe59a75\""
+  "commits_etag": "\"200048442a1ab2bec02f60caf285e3375f906e5bc6807a2501ba261a0e0e3da1\"",
+  "releases_etag": "\"f059a8f8cc83992cf5995a55bfd81bc35e163ca0295618fbba3a885f3410c36b\""
 }

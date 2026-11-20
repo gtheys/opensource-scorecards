@@ -1,6 +1,6 @@
 {
   "slug": "kaiser-yang/blink-cmp-git",
-  "fetched_at": "2026-11-19T12:06:35.557632087Z",
+  "fetched_at": "2026-11-20T12:04:00.790615919Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -8,15 +8,15 @@
     "forks": 8,
     "description": "Git source for blink.cmp",
     "license_spdx": "MIT",
-    "last_commit_at": "2026-10-09T13:59:32Z",
-    "commits_90d": 4,
+    "last_commit_at": "2026-11-19T17:46:30Z",
+    "commits_90d": 10,
     "releases_365d": 0,
-    "median_issue_close_days": 0.9897048611111111,
-    "median_pr_close_days": 0.3836805555555556,
-    "open_issues": 10,
-    "closed_issues_sampled": 34,
+    "median_issue_close_days": 0.9424363425925926,
+    "median_pr_close_days": 0.6396006944444445,
+    "open_issues": 7,
+    "closed_issues_sampled": 32,
     "contributors_12mo": 3,
-    "top_author_commit_share": 0.625,
+    "top_author_commit_share": 0.5714285714285714,
     "top_author": {
       "login": "Kaiser-Yang",
       "account_created_at": "2019-11-26T08:36:10Z",
@@ -27,6 +27,6 @@
     "readme_len": 23271
   },
   "slow_fetched_at": "2026-11-14T10:48:21.916387747Z",
-  "commits_etag": "\"520004f8e484bae5f32b29f52cc4e958397c3e5d9637d65e437ac44afd4a2149\"",
-  "releases_etag": "\"e4e40b5a1a3a2f6f685e70ae111324b18de8857727ba2ca15895b6db8ba1206d\""
+  "commits_etag": "\"58ef239982c2abad81b02de830c6bcb0fa14b2473a9c021b61a1d732e6e2c8c2\"",
+  "releases_etag": "\"52476a8416c19940e85e6009fe0188046e6942073a4baedd943cd12c8428658e\""
 }

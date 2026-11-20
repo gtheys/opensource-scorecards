@@ -1,10 +1,10 @@
 {
   "slug": "0x101-cyber-security/netlock-rmm",
-  "fetched_at": "2026-11-19T12:19:36.042909443Z",
+  "fetched_at": "2026-11-20T12:16:54.935109937Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 414,
+    "stars": 415,
     "forks": 49,
     "description": "The open-core RMM from Germany",
     "license_spdx": "AGPL-3.0",
@@ -13,7 +13,7 @@
     "releases_365d": 13,
     "median_issue_close_days": 25.37282986111111,
     "median_pr_close_days": null,
-    "open_issues": 416,
+    "open_issues": 421,
     "closed_issues_sampled": 50,
     "contributors_12mo": 1,
     "top_author_commit_share": 1.0,
@@ -27,6 +27,6 @@
     "readme_len": 25844
   },
   "slow_fetched_at": "2026-11-13T11:30:39.522242024Z",
-  "commits_etag": "\"0e91c6e7c6d0326aaf23e94aa169599ed24667531bce80316bb86d727ec61c95\"",
-  "releases_etag": "\"c8c96e42e0d964ba87dae723f596552c12faf69420bc7dff6dfd501b3a94937e\""
+  "commits_etag": "\"cb66d82c6657c4bcf93efc48b57a3fc8bf608f717e597a730b741bdb2df9b1f3\"",
+  "releases_etag": "\"0be7c24d42391ab0b9e2d3f0c44cf5f40311da25ebd3a86c48cffde464f17e39\""
 }

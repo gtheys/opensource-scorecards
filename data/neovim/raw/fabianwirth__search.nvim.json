@@ -1,6 +1,6 @@
 {
   "slug": "fabianwirth/search.nvim",
-  "fetched_at": "2026-11-19T11:57:15.779440393Z",
+  "fetched_at": "2026-11-20T11:55:03.039660694Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 6749
   },
   "slow_fetched_at": "2026-11-13T11:22:05.015132559Z",
-  "commits_etag": "\"9e125f12c7b3af8300ce9c726abbe30670151c8b48f5073c7d6277e487bb5375\"",
-  "releases_etag": "\"3d202bcddcc7c5e98a380f25d7cc95e29a32e4fff6291ad648e5cf78298fa24f\""
+  "commits_etag": "\"cfedb8e85f62e6373aac3c63638c08bfa983988e0d0f3379ebcad1d6343bae73\"",
+  "releases_etag": "\"3bdf9136ecfbf7ff68ff16a0afe67fc8b62f5dc213b57b0b8febefb2a0cceff6\""
 }

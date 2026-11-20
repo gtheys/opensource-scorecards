@@ -1,10 +1,10 @@
 {
   "slug": "monaqa/dial.nvim",
-  "fetched_at": "2026-11-19T12:15:54.866126604Z",
+  "fetched_at": "2026-11-20T12:13:15.193464390Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 1115,
+    "stars": 1114,
     "forks": 24,
     "description": "enhanced increment/decrement plugin for Neovim.",
     "license_spdx": "MIT",
@@ -18,15 +18,15 @@
     "contributors_12mo": 3,
     "top_author_commit_share": 0.42857142857142855,
     "top_author": {
-      "login": "kawarimidoll",
-      "account_created_at": "2014-07-13T00:36:21Z",
-      "other_repos_star_sum": 657
+      "login": "monaqa",
+      "account_created_at": "2019-03-24T13:09:54Z",
+      "other_repos_star_sum": 1578
     },
     "has_ci": true,
     "has_tests": true,
     "readme_len": 16180
   },
   "slow_fetched_at": "2026-11-15T11:23:27.016344124Z",
-  "commits_etag": "\"3829da25375c6f9a8345986dd2e3f39568bea98b5fa029018456c8965c8b1c4e\"",
-  "releases_etag": "\"d0cecc21bf91ca8e49fca1d8bcdbdedcb0227075be4bf4c3ba8940effc14e82d\""
+  "commits_etag": "\"32133df10dbc4b89b30c678d6d3a4f274a28fe85ff0dd5338df3b1ff4550c32a\"",
+  "releases_etag": "\"81739d799913cda9204b67d02b7d1b6b193d6754c6678d0eca3982dac38e7274\""
 }

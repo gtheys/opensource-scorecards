@@ -1,6 +1,6 @@
 {
   "slug": "frenzyexists/aquarium-vim",
-  "fetched_at": "2026-11-19T11:59:13.800478537Z",
+  "fetched_at": "2026-11-20T11:56:55.754412112Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 5687
   },
   "slow_fetched_at": "2026-11-13T11:24:34.114141862Z",
-  "commits_etag": "\"49831c4e700598d4186239e4a409195cdcc36dc003dac697ea92e5a46c123386\"",
-  "releases_etag": "\"fd94fe5937624f20a03182fdcc956f756196d31a3abe263d18a6b195b5ca8565\""
+  "commits_etag": "\"e3ba8c29fd6ede82ce4f98becad181afdc6c555268b46a09a1fdaf03bdaa0723\"",
+  "releases_etag": "\"dd2d6dda4cedf8d21893a4a79419669fea46cb3fbfe989b601cf98a638e974c5\""
 }

@@ -1,10 +1,10 @@
 {
   "slug": "copilotc-nvim/copilotchat.nvim",
-  "fetched_at": "2026-11-19T11:51:20.953825188Z",
+  "fetched_at": "2026-11-20T11:49:19.441192953Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 3648,
+    "stars": 3645,
     "forks": 174,
     "description": "Chat with GitHub Copilot in Neovim",
     "license_spdx": "GPL-3.0",
@@ -15,8 +15,8 @@
     "median_pr_close_days": 0.0017997685185185185,
     "open_issues": 26,
     "closed_issues_sampled": 18,
-    "contributors_12mo": 13,
-    "top_author_commit_share": 0.5833333333333334,
+    "contributors_12mo": 12,
+    "top_author_commit_share": 0.6060606060606061,
     "top_author": {
       "login": "deathbeam",
       "account_created_at": "2013-07-29T19:31:04Z",
@@ -27,6 +27,6 @@
     "readme_len": 53087
   },
   "slow_fetched_at": "2026-11-13T11:13:33.887269507Z",
-  "commits_etag": "\"24b12076417983c4465998094b209e43ee7b87b90f37404321338fc740747bdc\"",
-  "releases_etag": "\"4c34a52d1aa320b3fffdc126fadbae80cc45e65b660ab32b601a7639c646c637\""
+  "commits_etag": "\"bfb8eeee25afed7b6c3ae575de77f04c573f6a70207b1d8b65c93057eda65cd0\"",
+  "releases_etag": "\"0b6d2b8d4e8f9f3a613cbda0c19819289d16a1494bef8723fcdbd8d91343257b\""
 }

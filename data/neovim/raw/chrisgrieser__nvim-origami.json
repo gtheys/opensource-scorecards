@@ -1,6 +1,6 @@
 {
   "slug": "chrisgrieser/nvim-origami",
-  "fetched_at": "2026-11-19T11:49:54.155488643Z",
+  "fetched_at": "2026-11-20T11:47:56.624390497Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 6222
   },
   "slow_fetched_at": "2026-11-13T11:11:50.480410895Z",
-  "commits_etag": "\"1cce76f06dedbcae09f06774f261206f83553087ecaab6b49e024b3bfdf0dee0\"",
-  "releases_etag": "\"3d202bcddcc7c5e98a380f25d7cc95e29a32e4fff6291ad648e5cf78298fa24f\""
+  "commits_etag": "\"245fe30af2677dbcf522ff2e187e583e56c2655371fe6ffa990e89edc311af08\"",
+  "releases_etag": "\"3bdf9136ecfbf7ff68ff16a0afe67fc8b62f5dc213b57b0b8febefb2a0cceff6\""
 }

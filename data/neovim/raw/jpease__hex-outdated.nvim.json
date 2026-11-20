@@ -1,6 +1,6 @@
 {
   "slug": "jpease/hex-outdated.nvim",
-  "fetched_at": "2026-11-19T12:05:41.929128123Z",
+  "fetched_at": "2026-11-20T12:03:08.166807119Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 9936
   },
   "slow_fetched_at": "2026-11-14T10:47:22.449414856Z",
-  "commits_etag": "\"db1087a6a2062ae6226a49f6ec83376a2ab0181d2cab934bcebc331d5294de6f\"",
-  "releases_etag": "\"2a16226d16fd3ef8d59d3e3d6ac174d62d3db71664f8a8966148cefe83df0c39\""
+  "commits_etag": "\"429b05bc33c89e90527f81e4c67aae1b5b137dbfc11b857a3273885d39ada679\"",
+  "releases_etag": "\"22f0bb7281d6f8b5c79ed11fb8372e8bb103c718cc29dae964ccd97a9f73f058\""
 }

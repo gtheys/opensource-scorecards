@@ -1,10 +1,10 @@
 {
   "slug": "muniftanjim/prettier.nvim",
-  "fetched_at": "2026-11-19T12:17:54.810259038Z",
+  "fetched_at": "2026-11-20T12:15:13.141419477Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 316,
+    "stars": 317,
     "forks": 10,
     "description": "Prettier plugin for Neovim's built-in LSP client.",
     "license_spdx": "MIT",
@@ -23,6 +23,6 @@
     "readme_len": 5371
   },
   "slow_fetched_at": "2026-11-16T11:58:30.977322302Z",
-  "commits_etag": "\"778bc6250280e4b82aa718a6f7eab22e2c4b6e638bf1c7c6482cf2700d5d3254\"",
-  "releases_etag": "\"3d202bcddcc7c5e98a380f25d7cc95e29a32e4fff6291ad648e5cf78298fa24f\""
+  "commits_etag": "\"db1d3c892419d40ebe04df16d58eb4a9eec4d2e64d18135aba5f5b371bc5b480\"",
+  "releases_etag": "\"3bdf9136ecfbf7ff68ff16a0afe67fc8b62f5dc213b57b0b8febefb2a0cceff6\""
 }

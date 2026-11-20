@@ -1,6 +1,6 @@
 {
   "slug": "julian/lean.nvim",
-  "fetched_at": "2026-11-19T12:05:58.689888806Z",
+  "fetched_at": "2026-11-20T12:03:25.604408231Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 6073
   },
   "slow_fetched_at": "2026-11-14T10:47:45.127681469Z",
-  "commits_etag": "\"748f2fd499a99e1528cdd6334340aaba05777b056ec45043b05f376c0cb749c1\"",
-  "releases_etag": "\"aa5149f5b75c490aa47917685d19a827cabf8467fe879ea4c4c64a9987dc686c\""
+  "commits_etag": "\"80dce521c20b9459025e5bb682222a312cd651e6fca99c5805ae9414d74f61da\"",
+  "releases_etag": "\"0d9e07893c57881792778db523b3566e7ba50aa7db77dcb59a51f92f8b86da57\""
 }

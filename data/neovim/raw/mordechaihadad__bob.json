@@ -1,10 +1,10 @@
 {
   "slug": "mordechaihadad/bob",
-  "fetched_at": "2026-11-19T12:16:01.163197744Z",
+  "fetched_at": "2026-11-20T12:13:22.341057576Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 2156,
+    "stars": 2155,
     "forks": 65,
     "description": "A version manager for neovim",
     "license_spdx": "MIT",
@@ -27,6 +27,6 @@
     "readme_len": 19001
   },
   "slow_fetched_at": "2026-11-15T11:23:33.718936245Z",
-  "commits_etag": "\"0342723348afcccdf3126cec41fc8334df29f458bdd3c864dc7af95aa7a3c690\"",
-  "releases_etag": "\"b313fe0707be617a40b165211415531509b3001bceea63aa5f6c3bc4da0c740e\""
+  "commits_etag": "\"f57ac3f4829acc64406fe886f14214e9482dba75a6c3db80c3ff7bd86271ebbd\"",
+  "releases_etag": "\"36edfe15cbaac66df795ad0b1378f3a13d0bc33053e14937b5ecbc53d1989dbd\""
 }

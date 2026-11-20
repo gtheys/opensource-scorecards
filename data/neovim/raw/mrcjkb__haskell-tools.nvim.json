@@ -1,6 +1,6 @@
 {
   "slug": "mrcjkb/haskell-tools.nvim",
-  "fetched_at": "2026-11-19T12:16:36.780781157Z",
+  "fetched_at": "2026-11-20T12:13:57.037609139Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -8,11 +8,11 @@
     "forks": 23,
     "description": " 🦥 Supercharge your Haskell experience in neovim!",
     "license_spdx": "GPL-2.0",
-    "last_commit_at": "2026-11-19T00:16:43Z",
+    "last_commit_at": "2026-11-20T00:17:36Z",
     "commits_90d": 71,
     "releases_365d": 16,
     "median_issue_close_days": null,
-    "median_pr_close_days": 0.004548611111111111,
+    "median_pr_close_days": 0.004496527777777778,
     "open_issues": 20,
     "closed_issues_sampled": 0,
     "contributors_12mo": 1,
@@ -27,6 +27,6 @@
     "readme_len": 30886
   },
   "slow_fetched_at": "2026-11-15T11:24:10.231799526Z",
-  "commits_etag": "\"65845ebe5bfb7b6e573a9e203e712019c3b9f465bfc4b61e71fbd1cfcdb16886\"",
-  "releases_etag": "\"ec147c349baaae683a6ee8dd0a012f7de18e40704c3c95cb4dcc13983e7ef9e2\""
+  "commits_etag": "\"40954910314e63a9188543f7aff02b7e18918f82911335c4658d681bc956fe34\"",
+  "releases_etag": "\"06f89d4f6ab2e370bfa889e4d9d28aa5d97bac714af5a9d7aa13135ed4a1bb0a\""
 }

@@ -1,6 +1,6 @@
 {
   "slug": "lumen-oss/lz.n",
-  "fetched_at": "2026-11-19T12:11:30.025317459Z",
+  "fetched_at": "2026-11-20T12:08:58.107548058Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 22195
   },
   "slow_fetched_at": "2026-11-14T10:53:48.323904952Z",
-  "commits_etag": "\"ac6ec0cfd639d8e07a788e7a871a8a79adcd663a2ab39b8d730db71ad77dc64a\"",
-  "releases_etag": "\"d843178c5283ffc1319c63b1f4689b03988e548fe6717353465bfc25e4a7d2b3\""
+  "commits_etag": "\"059e706e53af98b7c9ae7aae5faea15456bfba233e3361225ae693208f3286c0\"",
+  "releases_etag": "\"2f74c73c3aadaa921ae6ddad2ee52c9d3912bdc0a66f8d02aee365b6b56fa59b\""
 }

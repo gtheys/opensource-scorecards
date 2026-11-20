@@ -1,10 +1,10 @@
 {
   "slug": "akinsho/toggleterm.nvim",
-  "fetched_at": "2026-11-19T11:43:37.010233267Z",
+  "fetched_at": "2026-11-20T11:42:11.831905058Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 5622,
+    "stars": 5621,
     "forks": 206,
     "description": "A neovim lua plugin to help easily manage multiple terminal windows",
     "license_spdx": "GPL-3.0",
@@ -23,6 +23,6 @@
     "readme_len": 22502
   },
   "slow_fetched_at": "2026-11-13T11:04:18.503517932Z",
-  "commits_etag": "\"97bded36cda6d3a608bb81275cec5f45064723e99998d9074a37adbb3be9c17f\"",
-  "releases_etag": "\"a4bf40c48b9309a8d8a1e5a4203097530e5ebcb46b44922387e94b8d965d1773\""
+  "commits_etag": "\"e671951ee85df6a787c3399f09398a216ecee0b5eb3c728a08356875fccafbd2\"",
+  "releases_etag": "\"ae1b6f9a946584e9850f3f52b5d4d480ac914a8c89c273246efc8529e1baf9d0\""
 }

@@ -1,10 +1,10 @@
 {
   "slug": "folke/twilight.nvim",
-  "fetched_at": "2026-11-19T11:58:51.956043590Z",
+  "fetched_at": "2026-11-20T11:56:35.243229917Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 1548,
+    "stars": 1547,
     "forks": 29,
     "description": "🌅  Twilight is a Lua plugin for Neovim 0.5 that dims inactive portions of the code you're editing using TreeSitter.",
     "license_spdx": "Apache-2.0",
@@ -23,6 +23,6 @@
     "readme_len": 2209
   },
   "slow_fetched_at": "2026-11-13T11:24:06.468774840Z",
-  "commits_etag": "\"28ddaa1ec9ad2541bb461bb98831ffe8527dda5c5d8874fa75bbd5e677435671\"",
-  "releases_etag": "\"1686d1509d8b3f20e035f5a61d3a858dd4d743b7eaa7cb0db61a5cbe928613a6\""
+  "commits_etag": "\"a916019a7a389a70f2400834dfedc69cde5bfcd474bf566d019e80e6ce008484\"",
+  "releases_etag": "\"ffa851703712d05425ef030516a271f229be1daabb618cdc8aeac441406da5c0\""
 }

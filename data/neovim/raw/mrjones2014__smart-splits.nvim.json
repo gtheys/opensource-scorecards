@@ -1,15 +1,15 @@
 {
   "slug": "mrjones2014/smart-splits.nvim",
-  "fetched_at": "2026-11-19T12:17:12.982398670Z",
+  "fetched_at": "2026-11-20T12:14:31.110391329Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 1753,
+    "stars": 1752,
     "forks": 81,
     "description": "🧠 Smart, seamless, directional navigation and resizing of Neovim + terminal multiplexer splits. Supports Zellij, Tmux, Wezterm, and Kitty. Think about splits in terms of \"up/down/left/right\".",
     "license_spdx": "MIT",
     "last_commit_at": "2026-11-09T18:08:13Z",
-    "commits_90d": 54,
+    "commits_90d": 52,
     "releases_365d": 3,
     "median_issue_close_days": 32.315746527777776,
     "median_pr_close_days": 0.005543981481481481,
@@ -27,6 +27,6 @@
     "readme_len": 21491
   },
   "slow_fetched_at": "2026-11-15T11:24:41.429927624Z",
-  "commits_etag": "\"1d6b83e8f9fd61bd516c58c2be61d1aa1a95fb2e87e938c698003459d9e4847a\"",
-  "releases_etag": "\"91a2d9febcfc39851f04e22aef996636fe88e6192188f4575f29e0e39cdf2844\""
+  "commits_etag": "\"268af47a86e691b3ae087ee915f06aa5793848fe9e0aab0663821523d032fa96\"",
+  "releases_etag": "\"e4eee2fe057b404c5cbdb47ab6700b96cf322637f06371d2ad8c0dc28f00cd9c\""
 }

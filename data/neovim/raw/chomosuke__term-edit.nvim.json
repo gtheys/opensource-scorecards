@@ -1,6 +1,6 @@
 {
   "slug": "chomosuke/term-edit.nvim",
-  "fetched_at": "2026-11-19T11:49:28.475105519Z",
+  "fetched_at": "2026-11-20T11:47:32.853126369Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 4739
   },
   "slow_fetched_at": "2026-11-13T11:11:21.773357383Z",
-  "commits_etag": "\"68f1622ac1b05787dfde04b558b04ef59e668bc30215f031cfbc588f609ce825\"",
-  "releases_etag": "\"87c42dd45a8a9c1d15e5c422a96fe2effe77f5e37714c1751b7bbcd8ed17a2a0\""
+  "commits_etag": "\"602a9f5dd5683c048ffb7f09879bf77998d04247edad6989ce2412a0a81dcbcb\"",
+  "releases_etag": "\"cb4341eb7f96d1af28a091abbabc9882985f9d9c28ea743ced67045506607abc\""
 }

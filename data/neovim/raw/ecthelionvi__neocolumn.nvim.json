@@ -1,6 +1,6 @@
 {
   "slug": "ecthelionvi/neocolumn.nvim",
-  "fetched_at": "2026-11-19T11:55:58.214231050Z",
+  "fetched_at": "2026-11-20T11:53:46.126743904Z",
   "status": "ok",
   "data": {
     "archived": true,
@@ -23,6 +23,6 @@
     "readme_len": 3143
   },
   "slow_fetched_at": "2026-11-13T11:20:10.827068619Z",
-  "commits_etag": "\"276b667df2abe713f35273ac5cbfb6079d3353a63b4239d8f4ff905b337e3b98\"",
-  "releases_etag": "\"3d202bcddcc7c5e98a380f25d7cc95e29a32e4fff6291ad648e5cf78298fa24f\""
+  "commits_etag": "\"db8ef720e117c2b6e877733f201dc8c3871aab5ac0f71346055f7062bf902dad\"",
+  "releases_etag": "\"3bdf9136ecfbf7ff68ff16a0afe67fc8b62f5dc213b57b0b8febefb2a0cceff6\""
 }

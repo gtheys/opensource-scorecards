@@ -1,10 +1,10 @@
 {
   "slug": "chomosuke/typst-preview.nvim",
-  "fetched_at": "2026-11-19T11:49:30.430498027Z",
+  "fetched_at": "2026-11-20T11:47:34.719716035Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 1027,
+    "stars": 1026,
     "forks": 62,
     "description": "Low latency typst preview for Neovim",
     "license_spdx": "GPL-3.0",
@@ -27,6 +27,6 @@
     "readme_len": 6819
   },
   "slow_fetched_at": "2026-11-13T11:11:24.195856835Z",
-  "commits_etag": "\"de45bbafa8f790977af205beeea32c319b74f1ba18d2af793103f73ce21d7c79\"",
-  "releases_etag": "\"0443594c2283f67adbce1ffe051030321ceb4d9c0d6f8a7ebba14925216867fe\""
+  "commits_etag": "\"b652ccb4241f79827c89be4ed5cf92a293cc950d715eb0d1aaee7b182008a41c\"",
+  "releases_etag": "\"05c43c83e736edb5c0d136ee76024515128d3be9ebfc75cf183a3eb7b3d2cc13\""
 }

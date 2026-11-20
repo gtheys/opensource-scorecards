@@ -1,6 +1,6 @@
 {
   "slug": "atomicptr/defold.nvim",
-  "fetched_at": "2026-11-19T11:45:46.348746291Z",
+  "fetched_at": "2026-11-20T11:44:11.400117889Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 12300
   },
   "slow_fetched_at": "2026-11-13T11:06:53.746984234Z",
-  "commits_etag": "\"150cff959ba9bd4c9e81edff1e705c0a38120e378f14ab9e55abc6dd539c4b67\"",
-  "releases_etag": "\"905cc5e8326b3215f9684fd5d2adc873d89568a1b7a2b62f69c5f7b6a1278331\""
+  "commits_etag": "\"a46142a550769a99016d7e20cc489713c386b4db8b78e22d28e3d5b78e75d472\"",
+  "releases_etag": "\"0663187ff9ebb165ccaa74da789e32cbbb1c1d2ccd6ff0891a222e6da6bfe1c0\""
 }

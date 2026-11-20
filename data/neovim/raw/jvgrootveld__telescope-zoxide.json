@@ -1,6 +1,6 @@
 {
   "slug": "jvgrootveld/telescope-zoxide",
-  "fetched_at": "2026-11-19T12:06:28.037701103Z",
+  "fetched_at": "2026-11-20T12:03:53.693740051Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 5902
   },
   "slow_fetched_at": "2026-11-14T10:48:12.800195962Z",
-  "commits_etag": "\"99ab6ad92ad0aa9edf6118d3ed3f007866d43f396630c65d9adf0b88505643f6\"",
-  "releases_etag": "\"26c2cbadc046933d1ca2e1a4d5b9f114295b338975d228e3d71e62c4ef663531\""
+  "commits_etag": "\"fc38c7308db4a1cc845317045b95450156deb97d7561e92b6fa77bd1c0433fdf\"",
+  "releases_etag": "\"d9ca747309df359fe9b71c4dbaccb35227fdde7b2c4df23cd71722984328e8bb\""
 }

@@ -1,6 +1,6 @@
 {
   "slug": "chatvim/chatvim.nvim",
-  "fetched_at": "2026-11-19T11:49:14.219141531Z",
+  "fetched_at": "2026-11-20T11:47:20.826848967Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 4721
   },
   "slow_fetched_at": "2026-11-13T11:11:03.681457759Z",
-  "commits_etag": "\"c390da56bf0fcffdf53f0ec11b2142553d849a900172b62aeaa42fce2dc837ef\"",
-  "releases_etag": "\"3d202bcddcc7c5e98a380f25d7cc95e29a32e4fff6291ad648e5cf78298fa24f\""
+  "commits_etag": "\"6e2fd2f799207b7ab5a09e5ac3dd50baa6ed4feffd970de6cd674be51b4ea771\"",
+  "releases_etag": "\"3bdf9136ecfbf7ff68ff16a0afe67fc8b62f5dc213b57b0b8febefb2a0cceff6\""
 }

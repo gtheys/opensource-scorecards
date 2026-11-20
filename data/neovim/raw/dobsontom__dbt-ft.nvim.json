@@ -1,19 +1,19 @@
 {
   "slug": "dobsontom/dbt-ft.nvim",
-  "fetched_at": "2026-11-19T11:54:48.608534161Z",
+  "fetched_at": "2026-11-20T11:52:39.952935284Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 3,
+    "stars": 4,
     "forks": 0,
     "description": "Jinja-aware filetype for dbt models in Neovim",
     "license_spdx": "MIT",
-    "last_commit_at": "2026-11-19T10:28:30Z",
-    "commits_90d": 89,
-    "releases_365d": 9,
+    "last_commit_at": "2026-11-19T13:23:00Z",
+    "commits_90d": 90,
+    "releases_365d": 10,
     "median_issue_close_days": null,
-    "median_pr_close_days": 0.0014814814814814814,
-    "open_issues": 1,
+    "median_pr_close_days": 0.0021643518518518518,
+    "open_issues": 0,
     "closed_issues_sampled": 0,
     "contributors_12mo": 1,
     "top_author_commit_share": 1.0,
@@ -27,6 +27,6 @@
     "readme_len": 2333
   },
   "slow_fetched_at": "2026-11-13T11:18:29.913130584Z",
-  "commits_etag": "\"ec2974fffb307176d954d137734b11a3db2a77d18ea14d64ea34ee486dcb078b\"",
-  "releases_etag": "\"7e45514c9132e9f0262640568fdc8e7dae0c4ea9b80723f0f25c1c60129b18e4\""
+  "commits_etag": "\"acd6629dabf380130013b291d1321537324807ddf9ec42de608d0c778abf7ee3\"",
+  "releases_etag": "\"98072edaf574660bb90faefb3ad6992b26ec2ae9315f86df2fb11e4032852ba1\""
 }

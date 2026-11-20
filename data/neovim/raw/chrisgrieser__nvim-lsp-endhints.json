@@ -1,10 +1,10 @@
 {
   "slug": "chrisgrieser/nvim-lsp-endhints",
-  "fetched_at": "2026-11-19T11:49:51.823965352Z",
+  "fetched_at": "2026-11-20T11:47:54.429571520Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 248,
+    "stars": 249,
     "forks": 8,
     "description": "Display LSP inlay hints at the end of the line, rather than within the line.",
     "license_spdx": "MIT",
@@ -27,6 +27,6 @@
     "readme_len": 7866
   },
   "slow_fetched_at": "2026-11-13T11:11:47.663835591Z",
-  "commits_etag": "\"e14edfa3628ac48d0fcef93ac06327acf1604c3615f7e6c8635270a6d4b681f8\"",
-  "releases_etag": "\"3d202bcddcc7c5e98a380f25d7cc95e29a32e4fff6291ad648e5cf78298fa24f\""
+  "commits_etag": "\"ce6db3e9e09cada9adf7ef6828e64a726f14b18e1a25d961e3657388c59adad6\"",
+  "releases_etag": "\"3bdf9136ecfbf7ff68ff16a0afe67fc8b62f5dc213b57b0b8febefb2a0cceff6\""
 }

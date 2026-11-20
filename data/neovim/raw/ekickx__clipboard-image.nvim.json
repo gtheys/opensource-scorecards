@@ -1,10 +1,10 @@
 {
   "slug": "ekickx/clipboard-image.nvim",
-  "fetched_at": "2026-11-19T11:56:08.974766980Z",
+  "fetched_at": "2026-11-20T11:53:56.357889384Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 335,
+    "stars": 334,
     "forks": 57,
     "description": "Neovim Lua plugin to paste image from clipboard.",
     "license_spdx": "MIT",
@@ -23,6 +23,6 @@
     "readme_len": 3835
   },
   "slow_fetched_at": "2026-11-13T11:20:27.840478257Z",
-  "commits_etag": "\"4c513435dda43273a0c8477c1171652aa568c329019ebc3242d289ebbaf0174a\"",
-  "releases_etag": "\"3d202bcddcc7c5e98a380f25d7cc95e29a32e4fff6291ad648e5cf78298fa24f\""
+  "commits_etag": "\"17d11a20eb321403e9261594f2c37554c55015c24be26b6d73bacffcec7f3d5a\"",
+  "releases_etag": "\"3bdf9136ecfbf7ff68ff16a0afe67fc8b62f5dc213b57b0b8febefb2a0cceff6\""
 }
