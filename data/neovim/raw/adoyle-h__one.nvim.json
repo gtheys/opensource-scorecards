@@ -1,6 +1,6 @@
 {
   "slug": "adoyle-h/one.nvim",
-  "fetched_at": "2026-11-20T11:41:36.279096857Z",
+  "fetched_at": "2026-11-21T11:04:05.206796785Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 13925
   },
   "slow_fetched_at": "2026-11-13T11:03:36.166826690Z",
-  "commits_etag": "\"6c22c29b134d2a5275e7f2f4e8765bfc5186a892867e608c3db65ed7f6c75e36\"",
-  "releases_etag": "\"6472bc8fae805f1d1fb193960b7d200bb2618c6cd0a2aac72b4894907b1b937d\""
+  "commits_etag": "\"c8aa9fd00eb50197f48e72e2fd07217389903978603033d7e24d8241f73a8780\"",
+  "releases_etag": "\"3fbffd26c869f028f9ad2aaaf0fa78a74a0e6986f1146f2e9097a51a3dcfb973\""
 }

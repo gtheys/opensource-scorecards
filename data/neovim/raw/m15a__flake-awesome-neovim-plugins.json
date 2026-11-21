@@ -1,6 +1,6 @@
 {
   "slug": "m15a/flake-awesome-neovim-plugins",
-  "fetched_at": "2026-11-20T12:09:30.321962325Z",
+  "fetched_at": "2026-11-21T11:28:29.775435461Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 3359
   },
   "slow_fetched_at": "2026-11-14T10:54:21.091843300Z",
-  "commits_etag": "\"694c836f7f7aa855824a7562115e073f41a32d69218a08531bb8d583d972da35\"",
-  "releases_etag": "\"3bdf9136ecfbf7ff68ff16a0afe67fc8b62f5dc213b57b0b8febefb2a0cceff6\""
+  "commits_etag": "\"42b677ee3345b65280239ca4b82d2d7a478c09cd9d589b1b416ffb9def97deb4\"",
+  "releases_etag": "\"2c04a1f28e0ba125cb22a0bddedf8bf50b47a0534acd1abd7816f7622d90674a\""
 }

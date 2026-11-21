@@ -1,6 +1,6 @@
 {
   "slug": "chrisgrieser/nvim-rulebook",
-  "fetched_at": "2026-11-20T11:48:10.719197805Z",
+  "fetched_at": "2026-11-21T11:09:53.582789011Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 16721
   },
   "slow_fetched_at": "2026-11-13T11:12:07.986782704Z",
-  "commits_etag": "\"d3a9ba79f5f0bedfd0cd125a31104534a6644fc1c38a856d5fbae6a271484e4c\"",
-  "releases_etag": "\"3bdf9136ecfbf7ff68ff16a0afe67fc8b62f5dc213b57b0b8febefb2a0cceff6\""
+  "commits_etag": "\"f894553771726b7705740b09d1ec9da61b2887d494ca962d3c1a950468b56229\"",
+  "releases_etag": "\"2c04a1f28e0ba125cb22a0bddedf8bf50b47a0534acd1abd7816f7622d90674a\""
 }

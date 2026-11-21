@@ -1,6 +1,6 @@
 {
   "slug": "kawre/leetcode.nvim",
-  "fetched_at": "2026-11-20T12:04:17.614544499Z",
+  "fetched_at": "2026-11-21T11:24:04.453272021Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -11,10 +11,10 @@
     "last_commit_at": "2026-04-28T16:14:09Z",
     "commits_90d": 0,
     "releases_365d": 0,
-    "median_issue_close_days": 4.8254166666666665,
-    "median_pr_close_days": 53.00884259259259,
-    "open_issues": 71,
-    "closed_issues_sampled": 33,
+    "median_issue_close_days": 5.274276620370371,
+    "median_pr_close_days": 22.22455439814815,
+    "open_issues": 73,
+    "closed_issues_sampled": 30,
     "contributors_12mo": 3,
     "top_author_commit_share": 0.3333333333333333,
     "top_author": {
@@ -27,6 +27,6 @@
     "readme_len": 12322
   },
   "slow_fetched_at": "2026-11-14T10:48:41.371083257Z",
-  "commits_etag": "\"b6ebc6bdd167802094aa8a27e8c10a6c36954fc8a3680b108778d9fd39ba33f7\"",
-  "releases_etag": "\"118063ec61b106dec7cd1a7588746bbdf471b9f8c62c4929a0f6445676e8715b\""
+  "commits_etag": "\"ca9157b1fe090fdd2c5fb0a70d4ec18b83f451eef3d0248f051be1d176be3650\"",
+  "releases_etag": "\"60537ff3cdcea45230e67899981aa3bfb60e0658d8a3ce8e8879a2398de15130\""
 }

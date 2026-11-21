@@ -1,6 +1,6 @@
 {
   "slug": "benoror/gpg.nvim",
-  "fetched_at": "2026-11-20T11:45:39.909812993Z",
+  "fetched_at": "2026-11-21T11:07:37.946376098Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 5454
   },
   "slow_fetched_at": "2026-11-13T11:08:52.842407147Z",
-  "commits_etag": "\"565085354f0f68df3fa48a887407c3a3d4c77ae8a6704cac77654ef2d189372e\"",
-  "releases_etag": "\"0661917b0c15aac6aeb02f28b6b937b579f294f0f578591d8bb77babc1bb816a\""
+  "commits_etag": "\"7d92dffa7520bbaa0b5d5fd35b0576fdf425aba23981c0052f07d4cbd994f052\"",
+  "releases_etag": "\"7997f6f665f00e6bebf8bf18b4c70ad289edd9e9db431cf57f06946cf489d601\""
 }

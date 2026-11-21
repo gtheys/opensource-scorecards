@@ -1,6 +1,6 @@
 {
   "slug": "ibhagwan/fzf-lua",
-  "fetched_at": "2026-11-20T11:59:50.427639002Z",
+  "fetched_at": "2026-11-21T11:20:22.554679202Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -15,8 +15,8 @@
     "median_pr_close_days": 0.826400462962963,
     "open_issues": 9,
     "closed_issues_sampled": 17,
-    "contributors_12mo": 35,
-    "top_author_commit_share": 0.5034965034965035,
+    "contributors_12mo": 34,
+    "top_author_commit_share": 0.5046728971962616,
     "top_author": {
       "login": "phanen",
       "account_created_at": "2021-09-28T13:06:19Z",
@@ -27,6 +27,6 @@
     "readme_len": 75222
   },
   "slow_fetched_at": "2026-11-13T11:28:35.279416900Z",
-  "commits_etag": "\"1a8d7002c237034571df497560c4808ea82b9358b60f9eb2eed99c73063bd635\"",
-  "releases_etag": "\"3bdf9136ecfbf7ff68ff16a0afe67fc8b62f5dc213b57b0b8febefb2a0cceff6\""
+  "commits_etag": "\"5921a9cb21dc0f7a1e3dd3371a1c6a664103ff1616ff1493dda6da602f993678\"",
+  "releases_etag": "\"2c04a1f28e0ba125cb22a0bddedf8bf50b47a0534acd1abd7816f7622d90674a\""
 }

@@ -1,11 +1,11 @@
 {
   "slug": "folke/noice.nvim",
-  "fetched_at": "2026-11-20T11:56:01.393191485Z",
+  "fetched_at": "2026-11-21T11:16:53.460486764Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 5832,
-    "forks": 181,
+    "stars": 5830,
+    "forks": 182,
     "description": "💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.",
     "license_spdx": "Apache-2.0",
     "last_commit_at": null,
@@ -13,7 +13,7 @@
     "releases_365d": 0,
     "median_issue_close_days": 47.99604166666667,
     "median_pr_close_days": 212.87751157407408,
-    "open_issues": 33,
+    "open_issues": 34,
     "closed_issues_sampled": 46,
     "contributors_12mo": 0,
     "top_author_commit_share": 0.0,
@@ -23,6 +23,6 @@
     "readme_len": 40029
   },
   "slow_fetched_at": "2026-11-13T11:23:26.891582183Z",
-  "commits_etag": "\"1fbd976d1258d0e910cd114c74a230ef9731bc8e23a7a396f2ae07c9a47cf912\"",
-  "releases_etag": "\"12df3276571b1997ca51691c10bf22bb9070ff4ea2aa04ca5897ff842bed49c7\""
+  "commits_etag": "\"dfc4b3e0990aa0fcf37a7fe4ea65d61e05c23c0ae7c470715ac139d9dc346b6e\"",
+  "releases_etag": "\"2bab8fe7ba14b5a3c2e6999807b4467cf59420c5959cdde03d2de6b2cfd17ed4\""
 }

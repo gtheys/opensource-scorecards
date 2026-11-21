@@ -1,6 +1,6 @@
 {
   "slug": "isak102/telescope-git-file-history.nvim",
-  "fetched_at": "2026-11-20T12:00:50.396369202Z",
+  "fetched_at": "2026-11-21T11:21:10.506822450Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 4519
   },
   "slow_fetched_at": "2026-11-13T11:29:43.588599619Z",
-  "commits_etag": "\"613f463c65769e744c30cd0373c8a9546dc7015ec8a8f03800a42913c05e99c7\"",
-  "releases_etag": "\"3bdf9136ecfbf7ff68ff16a0afe67fc8b62f5dc213b57b0b8febefb2a0cceff6\""
+  "commits_etag": "\"247dfc4c530b25389a6f090aa3316babddd8e1f814204bdc8c9885dc56490e35\"",
+  "releases_etag": "\"2c04a1f28e0ba125cb22a0bddedf8bf50b47a0534acd1abd7816f7622d90674a\""
 }

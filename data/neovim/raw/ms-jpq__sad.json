@@ -1,10 +1,10 @@
 {
   "slug": "ms-jpq/sad",
-  "fetched_at": "2026-11-20T12:14:58.182449938Z",
+  "fetched_at": "2026-11-21T11:33:11.039215064Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 2053,
+    "stars": 2055,
     "forks": 29,
     "description": "CLI search and replace | Space Age seD",
     "license_spdx": "MIT",
@@ -27,6 +27,6 @@
     "readme_len": 6761
   },
   "slow_fetched_at": "2026-11-16T11:58:07.820239986Z",
-  "commits_etag": "\"ded0fc57fc51b34e1a3cb1a2baad7bca0039c3625ec4ff7cd17cfcbbdf34340b\"",
-  "releases_etag": "\"9079a577c709110463377fe1779f74f5e0d9043bdf41728ac78e726e2f5fe69f\""
+  "commits_etag": "\"4ba05a41cf4c22f2969cb6a11e495694bd3d6bada8b2c8ff887c301946a546e8\"",
+  "releases_etag": "\"517e9855349c1820bccfaff7d17fe795ad730831dd43a008623b22a26efa62a1\""
 }

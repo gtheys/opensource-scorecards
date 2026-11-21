@@ -1,10 +1,10 @@
 {
   "slug": "hrsh7th/cmp-nvim-lua",
-  "fetched_at": "2026-11-20T11:59:33.636322431Z",
+  "fetched_at": "2026-11-21T11:20:07.053846476Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 323,
+    "stars": 322,
     "forks": 9,
     "description": "nvim-cmp source for nvim lua",
     "license_spdx": "MIT",
@@ -23,6 +23,6 @@
     "readme_len": 404
   },
   "slow_fetched_at": "2026-11-13T11:28:11.843188919Z",
-  "commits_etag": "\"7f396aa01cda15e89dca69ff75488e050ab74beb39decb5d3cf795346080db7b\"",
-  "releases_etag": "\"3bdf9136ecfbf7ff68ff16a0afe67fc8b62f5dc213b57b0b8febefb2a0cceff6\""
+  "commits_etag": "\"7bc992793bb327b49e663bf7d24ad55cb0d9ea704ea9d55fad5d742b8748270d\"",
+  "releases_etag": "\"2c04a1f28e0ba125cb22a0bddedf8bf50b47a0534acd1abd7816f7622d90674a\""
 }

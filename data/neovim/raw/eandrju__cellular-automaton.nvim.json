@@ -1,6 +1,6 @@
 {
   "slug": "eandrju/cellular-automaton.nvim",
-  "fetched_at": "2026-11-20T11:53:42.635716073Z",
+  "fetched_at": "2026-11-21T11:14:48.703915145Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 3218
   },
   "slow_fetched_at": "2026-11-13T11:20:03.988449857Z",
-  "commits_etag": "\"1750129b1f8d448545ff2d45ca681650d3974f324cf5093e2536bcf064d6e034\"",
-  "releases_etag": "\"3bdf9136ecfbf7ff68ff16a0afe67fc8b62f5dc213b57b0b8febefb2a0cceff6\""
+  "commits_etag": "\"9c5dcf49bed080b2fc7524def0556d4fab6031bde4bf6f99f71416244bfcec8f\"",
+  "releases_etag": "\"2c04a1f28e0ba125cb22a0bddedf8bf50b47a0534acd1abd7816f7622d90674a\""
 }

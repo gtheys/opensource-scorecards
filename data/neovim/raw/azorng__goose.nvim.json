@@ -1,6 +1,6 @@
 {
   "slug": "azorng/goose.nvim",
-  "fetched_at": "2026-11-20T11:44:40.628921658Z",
+  "fetched_at": "2026-11-21T11:06:44.776647625Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "seamless neovim integration with goose - work with a powerful AI agent without leaving your editor",
     "license_spdx": "Apache-2.0",
     "last_commit_at": "2026-08-22T16:14:02Z",
-    "commits_90d": 1,
+    "commits_90d": 0,
     "releases_365d": 2,
     "median_issue_close_days": 7.704149305555555,
     "median_pr_close_days": 0.0038483796296296295,
@@ -27,6 +27,6 @@
     "readme_len": 13406
   },
   "slow_fetched_at": "2026-11-13T11:07:34.936035399Z",
-  "commits_etag": "\"e1aa468010713522827f13f5c0dc5d72076cfa9734e7b01d5bf7b1aad84c5d1b\"",
-  "releases_etag": "\"055738bdd0941ae4619d86928757c50d524ac76d30330ef64e99cc1eaa064e59\""
+  "commits_etag": "\"1ab2a9f4dda6eb9750818d35659610003b1fa20bcc6f6049d4aec2d87f5ff53a\"",
+  "releases_etag": "\"f087c8a8a34027b4d7c95b4b019e2c53b94d0acab9fe15dc5bf720e35ca59135\""
 }

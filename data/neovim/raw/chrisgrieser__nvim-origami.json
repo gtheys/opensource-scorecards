@@ -1,6 +1,6 @@
 {
   "slug": "chrisgrieser/nvim-origami",
-  "fetched_at": "2026-11-20T11:47:56.624390497Z",
+  "fetched_at": "2026-11-21T11:09:40.963873622Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -11,10 +11,10 @@
     "last_commit_at": "2026-07-06T19:12:11Z",
     "commits_90d": 0,
     "releases_365d": 0,
-    "median_issue_close_days": 0.18178240740740742,
-    "median_pr_close_days": 0.07165509259259259,
+    "median_issue_close_days": 0.17949074074074073,
+    "median_pr_close_days": 0.0790451388888889,
     "open_issues": 3,
-    "closed_issues_sampled": 23,
+    "closed_issues_sampled": 24,
     "contributors_12mo": 5,
     "top_author_commit_share": 0.8775510204081632,
     "top_author": {
@@ -27,6 +27,6 @@
     "readme_len": 6222
   },
   "slow_fetched_at": "2026-11-13T11:11:50.480410895Z",
-  "commits_etag": "\"245fe30af2677dbcf522ff2e187e583e56c2655371fe6ffa990e89edc311af08\"",
-  "releases_etag": "\"3bdf9136ecfbf7ff68ff16a0afe67fc8b62f5dc213b57b0b8febefb2a0cceff6\""
+  "commits_etag": "\"47c33a070aa147a62b9d130d90cfe4283d3869e329020c47788d0e0d96ce66f2\"",
+  "releases_etag": "\"2c04a1f28e0ba125cb22a0bddedf8bf50b47a0534acd1abd7816f7622d90674a\""
 }

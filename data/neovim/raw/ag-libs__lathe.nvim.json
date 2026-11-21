@@ -1,6 +1,6 @@
 {
   "slug": "ag-libs/lathe.nvim",
-  "fetched_at": "2026-11-20T11:41:48.718172661Z",
+  "fetched_at": "2026-11-21T11:04:16.129318515Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 3039
   },
   "slow_fetched_at": "2026-11-13T11:03:50.254765956Z",
-  "commits_etag": "\"f694b599cf55cd5f70acbd6d903563404ec684b9a2339928366bcb86df62cb27\"",
-  "releases_etag": "\"3bdf9136ecfbf7ff68ff16a0afe67fc8b62f5dc213b57b0b8febefb2a0cceff6\""
+  "commits_etag": "\"314480bf926eb5eed38d095b09e2236901aa736a1de69641c6937615458308e6\"",
+  "releases_etag": "\"2c04a1f28e0ba125cb22a0bddedf8bf50b47a0534acd1abd7816f7622d90674a\""
 }

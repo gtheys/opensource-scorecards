@@ -1,6 +1,6 @@
 {
   "slug": "al1-ce/just.nvim",
-  "fetched_at": "2026-11-20T11:42:19.933488597Z",
+  "fetched_at": "2026-11-21T11:04:42.985676206Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 4465
   },
   "slow_fetched_at": "2026-11-13T11:04:28.739667846Z",
-  "commits_etag": "\"63e672d0d21b650dea0f60d7ae2ddc3669f948d32d96d8ca3dfbe2f9d5dc38d4\"",
-  "releases_etag": "\"d837f378d22cf99bd0c0c05a4dfdca1280c21ce9b96210750fd377ccb7d6e5b4\""
+  "commits_etag": "\"87c687671e03f699a1286e7e8703fd1d0b049db96d9ec839a0e1b5406f60ea75\"",
+  "releases_etag": "\"4c8826d8ed123f25d33d461f03680521815f33ade0eb99710d3b863cde4362ca\""
 }

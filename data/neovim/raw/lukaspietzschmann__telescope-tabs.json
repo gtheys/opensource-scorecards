@@ -1,10 +1,10 @@
 {
   "slug": "lukaspietzschmann/telescope-tabs",
-  "fetched_at": "2026-11-20T12:08:46.489527749Z",
+  "fetched_at": "2026-11-21T11:27:53.053726864Z",
   "status": "ok",
   "data": {
     "archived": true,
-    "stars": 286,
+    "stars": 285,
     "forks": 11,
     "description": "Fly through your tabs in NeoVim ✈️",
     "license_spdx": "BSD-3-Clause",
@@ -27,6 +27,6 @@
     "readme_len": 4249
   },
   "slow_fetched_at": "2026-11-14T10:53:38.097911010Z",
-  "commits_etag": "\"73843b5e296c8cc25f6e58b75c06f54b6eb3763e80ca501a531d51ba08a38b90\"",
-  "releases_etag": "\"3bdf9136ecfbf7ff68ff16a0afe67fc8b62f5dc213b57b0b8febefb2a0cceff6\""
+  "commits_etag": "\"23c0d587e6bd592305034abbf19401df81785771457aeac949f7ec805fb3ce81\"",
+  "releases_etag": "\"2c04a1f28e0ba125cb22a0bddedf8bf50b47a0534acd1abd7816f7622d90674a\""
 }

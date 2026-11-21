@@ -1,6 +1,6 @@
 {
   "slug": "civitasv/cmake-tools.nvim",
-  "fetched_at": "2026-11-20T11:48:53.800256440Z",
+  "fetched_at": "2026-11-21T11:10:31.953481613Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 11703
   },
   "slow_fetched_at": "2026-11-13T11:12:59.301645405Z",
-  "commits_etag": "\"a57ae162f75281c0236b8450fdccecd70918fd8144d440cd8205854b4d195a38\"",
-  "releases_etag": "\"3bdf9136ecfbf7ff68ff16a0afe67fc8b62f5dc213b57b0b8febefb2a0cceff6\""
+  "commits_etag": "\"7f6812749fc93abd46d83b4c649e58b365d499b0eb250f960becc5877a977023\"",
+  "releases_etag": "\"2c04a1f28e0ba125cb22a0bddedf8bf50b47a0534acd1abd7816f7622d90674a\""
 }

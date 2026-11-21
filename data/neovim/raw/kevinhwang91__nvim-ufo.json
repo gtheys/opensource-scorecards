@@ -1,10 +1,10 @@
 {
   "slug": "kevinhwang91/nvim-ufo",
-  "fetched_at": "2026-11-20T12:04:45.721926508Z",
+  "fetched_at": "2026-11-21T11:24:26.310751609Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 2960,
+    "stars": 2958,
     "forks": 73,
     "description": "Not UFO in the sky, but an ultra fold in Neovim.",
     "license_spdx": "BSD-3-Clause",
@@ -27,6 +27,6 @@
     "readme_len": 15889
   },
   "slow_fetched_at": "2026-11-14T10:49:13.103924072Z",
-  "commits_etag": "\"a46e83abbee266d4329601386645bd483ae0fad1bb852d99cd3950e40d11c9fa\"",
-  "releases_etag": "\"eb228b1f30cbd794b21f04f2fbb467438c6270878a033c24315946da25a1cdae\""
+  "commits_etag": "\"034bfa4fbf3af26327cfdd21b9950caa28b559c686d74f6defc239ed20d15d61\"",
+  "releases_etag": "\"76475d26c8b9abe99b511650ee0c1bd2d845f212c373a69e5719937c23cd9d5a\""
 }

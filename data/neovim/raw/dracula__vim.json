@@ -1,11 +1,11 @@
 {
   "slug": "dracula/vim",
-  "fetched_at": "2026-11-20T11:52:55.549558696Z",
+  "fetched_at": "2026-11-21T11:14:06.908018287Z",
   "status": "ok",
   "data": {
     "archived": false,
     "stars": 1395,
-    "forks": 449,
+    "forks": 450,
     "description": "🧛🏻‍♂️ Dark theme for Vim",
     "license_spdx": "MIT",
     "last_commit_at": "2026-10-30T14:05:38Z",
@@ -27,6 +27,6 @@
     "readme_len": 1600
   },
   "slow_fetched_at": "2026-11-13T11:18:51.427043102Z",
-  "commits_etag": "\"f9b41100c96d04419582560612859db8fb5b547dbff895ceff89b6e19e746c59\"",
-  "releases_etag": "\"2864ed4db3c93216362b174f5926b54d382178442d74a3855b32222447b4fda3\""
+  "commits_etag": "\"b2e4100d3da23ee9d7678b8ee32c1ba68b1455e520b968d2807206b10b5a46de\"",
+  "releases_etag": "\"76cfbdbdae60cd922d2434da26dbedfd129dbca4a71eff01e8abb8fe11fa8ab9\""
 }

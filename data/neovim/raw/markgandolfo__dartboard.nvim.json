@@ -1,6 +1,6 @@
 {
   "slug": "markgandolfo/dartboard.nvim",
-  "fetched_at": "2026-11-20T12:09:59.882067906Z",
+  "fetched_at": "2026-11-21T11:28:54.845058285Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 3800
   },
   "slow_fetched_at": "2026-11-14T10:54:53.193718743Z",
-  "commits_etag": "\"66e12611fd1c5617d05e82f8163383e953ebfa60116b4f145aeb1cd9c92cb1fa\"",
-  "releases_etag": "\"3bdf9136ecfbf7ff68ff16a0afe67fc8b62f5dc213b57b0b8febefb2a0cceff6\""
+  "commits_etag": "\"be908bf166e4bd5ee60c07e54c1de53ce8b86cd36b90e5b8b1880920ad688151\"",
+  "releases_etag": "\"2c04a1f28e0ba125cb22a0bddedf8bf50b47a0534acd1abd7816f7622d90674a\""
 }

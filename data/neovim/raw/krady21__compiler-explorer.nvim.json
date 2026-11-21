@@ -1,6 +1,6 @@
 {
   "slug": "krady21/compiler-explorer.nvim",
-  "fetched_at": "2026-11-20T12:05:51.055680325Z",
+  "fetched_at": "2026-11-21T11:25:25.560055294Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 6286
   },
   "slow_fetched_at": "2026-11-14T10:50:29.587972182Z",
-  "commits_etag": "\"12b9ff747a206566843a4dc11e6cc84c0ddaebb2e5ca87c61d9010430574b432\"",
-  "releases_etag": "\"3bdf9136ecfbf7ff68ff16a0afe67fc8b62f5dc213b57b0b8febefb2a0cceff6\""
+  "commits_etag": "\"96ca128731ce33eb122d9f8a2625bb888e74b8fbb7d908fabb5d9974e2606ed9\"",
+  "releases_etag": "\"2c04a1f28e0ba125cb22a0bddedf8bf50b47a0534acd1abd7816f7622d90674a\""
 }

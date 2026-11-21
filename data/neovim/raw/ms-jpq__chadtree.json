@@ -1,6 +1,6 @@
 {
   "slug": "ms-jpq/chadtree",
-  "fetched_at": "2026-11-20T12:14:41.128228286Z",
+  "fetched_at": "2026-11-21T11:32:56.225105941Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -18,15 +18,15 @@
     "contributors_12mo": 2,
     "top_author_commit_share": 0.5,
     "top_author": {
-      "login": "ms-jpq",
-      "account_created_at": "2019-05-13T20:56:35Z",
-      "other_repos_star_sum": 9645
+      "login": "fooyoo",
+      "account_created_at": "2018-02-23T16:22:08Z",
+      "other_repos_star_sum": 2
     },
     "has_ci": true,
     "has_tests": false,
     "readme_len": 5257
   },
   "slow_fetched_at": "2026-11-15T11:24:51.840795414Z",
-  "commits_etag": "\"c5deb762b5037df15c9280c92d8d66dcec4896bf282a150e6f932082d82f3312\"",
-  "releases_etag": "\"3bdf9136ecfbf7ff68ff16a0afe67fc8b62f5dc213b57b0b8febefb2a0cceff6\""
+  "commits_etag": "\"65ec081591ab5e24efaec9f0de5193f2a228041faf88cc24d2ff2b2d1e0b3ba5\"",
+  "releases_etag": "\"2c04a1f28e0ba125cb22a0bddedf8bf50b47a0534acd1abd7816f7622d90674a\""
 }

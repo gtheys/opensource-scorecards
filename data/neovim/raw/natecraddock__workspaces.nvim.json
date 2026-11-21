@@ -1,6 +1,6 @@
 {
   "slug": "natecraddock/workspaces.nvim",
-  "fetched_at": "2026-11-20T12:15:27.164180448Z",
+  "fetched_at": "2026-11-21T11:33:35.108201017Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 8829
   },
   "slow_fetched_at": "2026-11-16T11:58:52.479323934Z",
-  "commits_etag": "\"7e9af4a969e740a53ce55497eba11b96484ffe4a596fb26d1c60717be9f6fe83\"",
-  "releases_etag": "\"8aebb34af884a1374aeeddd1617e034e125cb72eef2336f1fcb9579319cdd63e\""
+  "commits_etag": "\"cc8fdfc54aeb8cf2545fa4c3d69d3cabe291954e37017b441319ec76e93ccd86\"",
+  "releases_etag": "\"f60747ab74e5796af12d9a7cb30c52d8b8f51b03cd5f7de18d4b5fdb7e5b040a\""
 }

@@ -1,6 +1,6 @@
 {
   "slug": "jim-fx/sudoku.nvim",
-  "fetched_at": "2026-11-20T12:02:34.395887476Z",
+  "fetched_at": "2026-11-21T11:22:36.537357820Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 4972
   },
   "slow_fetched_at": "2026-11-14T10:46:45.421571211Z",
-  "commits_etag": "\"11d6428dc5ba3a93774fdaedeefce2ef5af9e61aa6bac2f8c364e91d60988627\"",
-  "releases_etag": "\"3bdf9136ecfbf7ff68ff16a0afe67fc8b62f5dc213b57b0b8febefb2a0cceff6\""
+  "commits_etag": "\"1b813dd145cd169c72644835e0ca02da07f525d51cf759df13a5b65481412ff3\"",
+  "releases_etag": "\"2c04a1f28e0ba125cb22a0bddedf8bf50b47a0534acd1abd7816f7622d90674a\""
 }

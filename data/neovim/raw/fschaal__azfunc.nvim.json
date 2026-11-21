@@ -1,6 +1,6 @@
 {
   "slug": "fschaal/azfunc.nvim",
-  "fetched_at": "2026-11-20T11:56:57.155712552Z",
+  "fetched_at": "2026-11-21T11:17:45.426217630Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 8860
   },
   "slow_fetched_at": "2026-11-13T11:24:36.696893635Z",
-  "commits_etag": "\"6cccb2a3e6069ef01656e5856bfe1bcc00cb92ded9de6a11a2ae524c4e45532a\"",
-  "releases_etag": "\"3bdf9136ecfbf7ff68ff16a0afe67fc8b62f5dc213b57b0b8febefb2a0cceff6\""
+  "commits_etag": "\"17d38164dbf206e988572dd46d60a83fcd32575db55dd6e53995ad5071866e38\"",
+  "releases_etag": "\"2c04a1f28e0ba125cb22a0bddedf8bf50b47a0534acd1abd7816f7622d90674a\""
 }

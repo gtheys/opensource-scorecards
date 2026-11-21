@@ -1,6 +1,6 @@
 {
   "slug": "milanglacier/minuet-ai.nvim",
-  "fetched_at": "2026-11-20T12:12:11.654284306Z",
+  "fetched_at": "2026-11-21T11:30:46.911584185Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -11,7 +11,7 @@
     "last_commit_at": "2026-10-07T20:03:06Z",
     "commits_90d": 2,
     "releases_365d": 4,
-    "median_issue_close_days": 1.041724537037037,
+    "median_issue_close_days": 0.9512037037037037,
     "median_pr_close_days": 0.7853472222222222,
     "open_issues": 14,
     "closed_issues_sampled": 27,
@@ -27,6 +27,6 @@
     "readme_len": 74856
   },
   "slow_fetched_at": "2026-11-15T11:22:18.481393797Z",
-  "commits_etag": "\"50b64015443b18314f9aa6ba071dc37472b4ff1fe7a82b0085d622f96c31128d\"",
-  "releases_etag": "\"5e2cc85c3a21ea2551b90ac232d5e93c942e4b19f0bb4452909ba10208b671ee\""
+  "commits_etag": "\"c29b83423555fb3156b2ebea5b3852368dbff81e74b865079fdf20658e7fb2c4\"",
+  "releases_etag": "\"2aa0c622b575c218ea18782c7c1e232979758d7fe8f979e79b9193373e019642\""
 }

@@ -1,6 +1,6 @@
 {
   "slug": "jubnzv/mdeval.nvim",
-  "fetched_at": "2026-11-20T12:03:21.262160658Z",
+  "fetched_at": "2026-11-21T11:23:15.352503546Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 3289
   },
   "slow_fetched_at": "2026-11-14T10:47:39.586863392Z",
-  "commits_etag": "\"55a8d60d0b50d09540730e6355fcb12130fd02aa69142cfcfbc1fa230a082921\"",
-  "releases_etag": "\"3bdf9136ecfbf7ff68ff16a0afe67fc8b62f5dc213b57b0b8febefb2a0cceff6\""
+  "commits_etag": "\"ba8f85b0ba8934a90bcc77cea4daaa9848b938f3e486a0d284b861c4f0c213f2\"",
+  "releases_etag": "\"2c04a1f28e0ba125cb22a0bddedf8bf50b47a0534acd1abd7816f7622d90674a\""
 }

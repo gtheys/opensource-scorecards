@@ -1,6 +1,6 @@
 {
   "slug": "mrcjkb/haskell-snippets.nvim",
-  "fetched_at": "2026-11-20T12:13:54.569863452Z",
+  "fetched_at": "2026-11-21T11:32:16.407764312Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 8314
   },
   "slow_fetched_at": "2026-11-15T11:24:07.729195383Z",
-  "commits_etag": "\"a29147e5d47ea1407239e24a820648e1c533b214302b0be93d1b85dac7b39c4b\"",
-  "releases_etag": "\"2692871c1c0d67ff16d32c739d55fca75ecab853bf36d0694b3ab3ff3bb18d52\""
+  "commits_etag": "\"8032278a626b290e796a81f82f351424cfdd4e13216e9990a23a65704c7ef61b\"",
+  "releases_etag": "\"b45cc4b39e5e814ee0bb0afa81862980241ca655aa6db14a529b2c9fd2f3ffa7\""
 }

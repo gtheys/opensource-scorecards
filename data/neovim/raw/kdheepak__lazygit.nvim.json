@@ -1,6 +1,6 @@
 {
   "slug": "kdheepak/lazygit.nvim",
-  "fetched_at": "2026-11-20T12:04:25.621564718Z",
+  "fetched_at": "2026-11-21T11:24:08.348114393Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 9128
   },
   "slow_fetched_at": "2026-11-14T10:48:48.065030571Z",
-  "commits_etag": "\"10eb798dbea9266c20dd8e8004f65eba4a5356290cf886992fd9a6781050a810\"",
-  "releases_etag": "\"3bdf9136ecfbf7ff68ff16a0afe67fc8b62f5dc213b57b0b8febefb2a0cceff6\""
+  "commits_etag": "\"e39c23922c309ae77e855e85d7c2e68db8f519c4c15eadf47d2b6d8792b70ba4\"",
+  "releases_etag": "\"2c04a1f28e0ba125cb22a0bddedf8bf50b47a0534acd1abd7816f7622d90674a\""
 }

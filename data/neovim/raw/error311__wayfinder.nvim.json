@@ -1,6 +1,6 @@
 {
   "slug": "error311/wayfinder.nvim",
-  "fetched_at": "2026-11-20T11:54:29.889074572Z",
+  "fetched_at": "2026-11-21T11:15:30.569824080Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 6579
   },
   "slow_fetched_at": "2026-11-13T11:21:17.486569261Z",
-  "commits_etag": "\"0e19c018f456c0ff889e77e50a01f2c67bc323f211292e57864bd5868c8bb4ab\"",
-  "releases_etag": "\"1f171e2af9d6206bf2b2babda6ed6a362a4bb2660a2d031f26ca078393f66e1d\""
+  "commits_etag": "\"f2ae8344fb3a95d250263c4220e0d5e833cdc3ce66d5750f41abbf472c10670d\"",
+  "releases_etag": "\"b95fa2aa5df596dd8c3a31834cad820e00e104281681d94c4a619bd639ea91ef\""
 }

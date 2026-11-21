@@ -1,6 +1,6 @@
 {
   "slug": "b0o/schemastore.nvim",
-  "fetched_at": "2026-11-20T11:44:48.663769209Z",
+  "fetched_at": "2026-11-21T11:06:52.245634153Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -16,7 +16,7 @@
     "open_issues": 11,
     "closed_issues_sampled": 22,
     "contributors_12mo": 2,
-    "top_author_commit_share": 0.9888059701492538,
+    "top_author_commit_share": 0.9887640449438202,
     "top_author": {
       "login": "b0o",
       "account_created_at": "2016-08-29T00:44:30Z",
@@ -27,6 +27,6 @@
     "readme_len": 4269
   },
   "slow_fetched_at": "2026-11-13T11:07:45.211745931Z",
-  "commits_etag": "\"97fa4c488b18721bba9df69d43dc41fc3f69b119d68ca825c89adc63b6178564\"",
-  "releases_etag": "\"3bdf9136ecfbf7ff68ff16a0afe67fc8b62f5dc213b57b0b8febefb2a0cceff6\""
+  "commits_etag": "\"b451c2bf050aac044a0ccdbc15805fdf46c489e78db0866320d11eda3c3cf5fe\"",
+  "releases_etag": "\"2c04a1f28e0ba125cb22a0bddedf8bf50b47a0534acd1abd7816f7622d90674a\""
 }

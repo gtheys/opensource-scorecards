@@ -1,6 +1,6 @@
 {
   "slug": "bytehound-labs/nvim-flow",
-  "fetched_at": "2026-11-20T11:46:39.460660071Z",
+  "fetched_at": "2026-11-21T11:08:31.213815654Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 22419
   },
   "slow_fetched_at": "2026-11-13T11:10:09.923011456Z",
-  "commits_etag": "\"2686a89e7907168b58992577003bcc16b416d4158a72cc846fa0f4fc2dc6d144\"",
-  "releases_etag": "\"3bdf9136ecfbf7ff68ff16a0afe67fc8b62f5dc213b57b0b8febefb2a0cceff6\""
+  "commits_etag": "\"956d9b1c3a160db256be9d4b2c3bc4300c65e888837a00270c2566f99dc4c465\"",
+  "releases_etag": "\"2c04a1f28e0ba125cb22a0bddedf8bf50b47a0534acd1abd7816f7622d90674a\""
 }

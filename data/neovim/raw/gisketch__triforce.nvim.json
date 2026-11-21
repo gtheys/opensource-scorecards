@@ -1,10 +1,10 @@
 {
   "slug": "gisketch/triforce.nvim",
-  "fetched_at": "2026-11-20T11:57:49.764550809Z",
+  "fetched_at": "2026-11-21T11:18:34.344674253Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 328,
+    "stars": 329,
     "forks": 10,
     "description": "Triforce is a Neovim plugin with beautiful UI that adds a bit of RPG flavor to your coding — XP, levels, and achievements while you work.",
     "license_spdx": "MIT",
@@ -27,6 +27,6 @@
     "readme_len": 35167
   },
   "slow_fetched_at": "2026-11-13T11:25:50.428181989Z",
-  "commits_etag": "\"0788e776df9884aaf7eb414628f517b68942cc9294b74fa18f217b97d767c7bd\"",
-  "releases_etag": "\"4baa919516ec85190364c70763f0b869017f85b2aab5c940ae697a1d55a51a12\""
+  "commits_etag": "\"aeb54a69e3c23a2f809a76233ef41a93258336493164802d9ed19ad7a5e299a2\"",
+  "releases_etag": "\"953d4b306350243a29de674410f821bbdc6c1aa8432ea5172fb5e94afd99e94d\""
 }

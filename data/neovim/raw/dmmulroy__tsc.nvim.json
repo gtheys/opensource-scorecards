@@ -1,10 +1,10 @@
 {
   "slug": "dmmulroy/tsc.nvim",
-  "fetched_at": "2026-11-20T11:52:22.860954228Z",
+  "fetched_at": "2026-11-21T11:13:40.525676160Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 552,
+    "stars": 553,
     "forks": 33,
     "description": "A Neovim plugin for seamless, asynchronous project-wide TypeScript type-checking using the TypeScript compiler (tsc)",
     "license_spdx": "MIT",
@@ -27,6 +27,6 @@
     "readme_len": 8981
   },
   "slow_fetched_at": "2026-11-13T11:18:06.767577980Z",
-  "commits_etag": "\"bb0b2abe5311b12f1f803cd0c9187e4c0734f93d37f7ad35dc441cd1208a9269\"",
-  "releases_etag": "\"b7fb5255b6493582693be20e9d850448ff1bf81b78a1ce024e2537e4b1bbece5\""
+  "commits_etag": "\"892c579ed611873e4e19ee9b4d5b22032683b6336676304e8a62c2f33c4e93b4\"",
+  "releases_etag": "\"53e30f583c32e22901934814dcb5e106daf17a50107e45772c17bcdc66253ba8\""
 }

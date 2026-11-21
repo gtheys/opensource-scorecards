@@ -1,10 +1,10 @@
 {
   "slug": "chrisgrieser/nvim-chainsaw",
-  "fetched_at": "2026-11-20T11:47:40.743689978Z",
+  "fetched_at": "2026-11-21T11:09:27.106319927Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 163,
+    "stars": 162,
     "forks": 18,
     "description": "Smart and customizable creation of logs.",
     "license_spdx": "MIT",
@@ -27,6 +27,6 @@
     "readme_len": 20996
   },
   "slow_fetched_at": "2026-11-13T11:11:30.822790531Z",
-  "commits_etag": "\"a96bddaae2888b21b3043dfc90539a4d5793cb08bee89a0db00bf6ca861d0668\"",
-  "releases_etag": "\"3bdf9136ecfbf7ff68ff16a0afe67fc8b62f5dc213b57b0b8febefb2a0cceff6\""
+  "commits_etag": "\"c95d121cdcccfc3a6c5878cc909318cc03d0a2adf19f6c1d999e972b5209142c\"",
+  "releases_etag": "\"2c04a1f28e0ba125cb22a0bddedf8bf50b47a0534acd1abd7816f7622d90674a\""
 }

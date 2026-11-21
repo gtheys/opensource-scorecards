@@ -1,6 +1,6 @@
 {
   "slug": "allendang/nvim-expand-expr",
-  "fetched_at": "2026-11-20T11:42:48.861032635Z",
+  "fetched_at": "2026-11-21T11:05:07.468065789Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 1032
   },
   "slow_fetched_at": "2026-11-13T11:05:06.231572638Z",
-  "commits_etag": "\"4dcdd897ad19b49c5caccfcf7d998a96090450851d8fda42126f19c1f0ad6a01\"",
-  "releases_etag": "\"3bdf9136ecfbf7ff68ff16a0afe67fc8b62f5dc213b57b0b8febefb2a0cceff6\""
+  "commits_etag": "\"7c1f5fceb4a11982611d595324e2e71de4234e0416821beb8c3b33673857ab2e\"",
+  "releases_etag": "\"2c04a1f28e0ba125cb22a0bddedf8bf50b47a0534acd1abd7816f7622d90674a\""
 }

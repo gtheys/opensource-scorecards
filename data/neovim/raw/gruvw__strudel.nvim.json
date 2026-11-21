@@ -1,6 +1,6 @@
 {
   "slug": "gruvw/strudel.nvim",
-  "fetched_at": "2026-11-20T11:58:14.519053405Z",
+  "fetched_at": "2026-11-21T11:18:56.312950284Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 12637
   },
   "slow_fetched_at": "2026-11-13T11:26:23.357344409Z",
-  "commits_etag": "\"91434c3318be0b8a30b233eb3cc20dd27550cda0241d6b345fb6606fc8a0d77c\"",
-  "releases_etag": "\"3bdf9136ecfbf7ff68ff16a0afe67fc8b62f5dc213b57b0b8febefb2a0cceff6\""
+  "commits_etag": "\"8cc2f0c4b7630255e832f80eaf4a19902c3210a3d261cce34a17d631db406ed6\"",
+  "releases_etag": "\"2c04a1f28e0ba125cb22a0bddedf8bf50b47a0534acd1abd7816f7622d90674a\""
 }

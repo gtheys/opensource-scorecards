@@ -1,11 +1,11 @@
 {
   "slug": "max397574/better-escape.nvim",
-  "fetched_at": "2026-11-20T12:10:39.370681813Z",
+  "fetched_at": "2026-11-21T11:29:27.023291325Z",
   "status": "ok",
   "data": {
     "archived": false,
     "stars": 798,
-    "forks": 23,
+    "forks": 24,
     "description": "Map keys without delay when typing",
     "license_spdx": "GPL-3.0",
     "last_commit_at": "2026-04-22T15:02:07Z",
@@ -27,6 +27,6 @@
     "readme_len": 5137
   },
   "slow_fetched_at": "2026-11-15T11:20:46.389335789Z",
-  "commits_etag": "\"bd41c9ac4c527668a9a62c48c87d619f9ed4875f26ebede262c38e3196eab5b1\"",
-  "releases_etag": "\"066c551322ab7530d0b3a96348d6c10b5da5edd8b85fca760d62e6feab436f15\""
+  "commits_etag": "\"ef377bc4c20dac517a76b057ec7e6179dd1bb6ecbff6c64a4b53bf03583160a5\"",
+  "releases_etag": "\"08f3c5076ba18842c2415f53ea525dd20bdd7bdf50f66ebe5ac41d009778dcb2\""
 }

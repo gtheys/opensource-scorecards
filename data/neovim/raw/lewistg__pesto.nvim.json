@@ -1,6 +1,6 @@
 {
   "slug": "lewistg/pesto.nvim",
-  "fetched_at": "2026-11-20T12:07:16.829128683Z",
+  "fetched_at": "2026-11-21T11:26:37.570117144Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 13165
   },
   "slow_fetched_at": "2026-11-14T10:51:59.166218857Z",
-  "commits_etag": "\"3941c96fe3d3f43d058e785a394208bfc1e4c364a7a06d1ee7df5e2b92dfb7b6\"",
-  "releases_etag": "\"923d33083a83cf516d9172ff0ec0c35d0ade77daa4fc91e10ccb7017ee582587\""
+  "commits_etag": "\"18ffb6538a8ebe5bb465ec3c65fa31c1078b934e7c981fff7c550b356f33ecb3\"",
+  "releases_etag": "\"8c826e91d41fd7c3dd8e320a075a04e2369aa3d3492a628b208d332183e64084\""
 }

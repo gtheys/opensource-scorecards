@@ -1,6 +1,6 @@
 {
   "slug": "0x101-cyber-security/netlock-rmm",
-  "fetched_at": "2026-11-20T12:16:54.935109937Z",
+  "fetched_at": "2026-11-21T11:34:53.024286707Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -13,7 +13,7 @@
     "releases_365d": 13,
     "median_issue_close_days": 25.37282986111111,
     "median_pr_close_days": null,
-    "open_issues": 421,
+    "open_issues": 423,
     "closed_issues_sampled": 50,
     "contributors_12mo": 1,
     "top_author_commit_share": 1.0,
@@ -27,6 +27,6 @@
     "readme_len": 25844
   },
   "slow_fetched_at": "2026-11-13T11:30:39.522242024Z",
-  "commits_etag": "\"cb66d82c6657c4bcf93efc48b57a3fc8bf608f717e597a730b741bdb2df9b1f3\"",
-  "releases_etag": "\"0be7c24d42391ab0b9e2d3f0c44cf5f40311da25ebd3a86c48cffde464f17e39\""
+  "commits_etag": "\"5c6c2d3cc37bb3a2d983e57b5f7bee891580e1097e1323753869a15a05f8b3d2\"",
+  "releases_etag": "\"b7a23da3018200c52b00b45eb7bc67805ce8c224e8cc7a70f8b5358bc8913bf3\""
 }

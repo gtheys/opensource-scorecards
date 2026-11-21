@@ -1,6 +1,6 @@
 {
   "slug": "abidibo/nvim-httpyac",
-  "fetched_at": "2026-11-20T11:41:08.471806484Z",
+  "fetched_at": "2026-11-21T11:03:41.943478585Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 6344
   },
   "slow_fetched_at": "2026-11-13T11:02:56.084011849Z",
-  "commits_etag": "\"d0b7a6b5fa29a093a747b1e6c869ad4d2dd260d21be3057060525dcb2f95110d\"",
-  "releases_etag": "\"786a277b30970a8d7fa01d9d7afcdf50640d3eacc34dfa0d5a07d72c6517e622\""
+  "commits_etag": "\"a651b45880ef9c0a8daa22184747a126e110b817c3024828c2c133285c09ef54\"",
+  "releases_etag": "\"5ad73b7c37bbc9b86eb12a2a13b96d245cbb5e229cdca3a45565e558ab704e8a\""
 }

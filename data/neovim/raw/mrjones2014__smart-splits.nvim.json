@@ -1,6 +1,6 @@
 {
   "slug": "mrjones2014/smart-splits.nvim",
-  "fetched_at": "2026-11-20T12:14:31.110391329Z",
+  "fetched_at": "2026-11-21T11:32:48.181106230Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -11,12 +11,12 @@
     "last_commit_at": "2026-11-09T18:08:13Z",
     "commits_90d": 52,
     "releases_365d": 3,
-    "median_issue_close_days": 32.315746527777776,
-    "median_pr_close_days": 0.005543981481481481,
+    "median_issue_close_days": 32.278067129629626,
+    "median_pr_close_days": 0.004733796296296297,
     "open_issues": 0,
-    "closed_issues_sampled": 20,
+    "closed_issues_sampled": 19,
     "contributors_12mo": 10,
-    "top_author_commit_share": 0.8058823529411765,
+    "top_author_commit_share": 0.8292682926829268,
     "top_author": {
       "login": "mrjones2014",
       "account_created_at": "2014-09-03T23:51:58Z",
@@ -27,6 +27,6 @@
     "readme_len": 21491
   },
   "slow_fetched_at": "2026-11-15T11:24:41.429927624Z",
-  "commits_etag": "\"268af47a86e691b3ae087ee915f06aa5793848fe9e0aab0663821523d032fa96\"",
-  "releases_etag": "\"e4eee2fe057b404c5cbdb47ab6700b96cf322637f06371d2ad8c0dc28f00cd9c\""
+  "commits_etag": "\"aa154f3b54db4594feffee16de8b35bf0f091b948e7921c167c8304f5ff2cd35\"",
+  "releases_etag": "\"c994f4f31663cc814dbbacf1a1723630585fe3e4a56eeaf19d65533f5f88a0d1\""
 }

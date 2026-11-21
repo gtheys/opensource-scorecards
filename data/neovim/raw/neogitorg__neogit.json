@@ -1,15 +1,15 @@
 {
   "slug": "neogitorg/neogit",
-  "fetched_at": "2026-11-20T12:15:55.763306405Z",
+  "fetched_at": "2026-11-21T11:34:01.211841454Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 5678,
+    "stars": 5677,
     "forks": 367,
     "description": "An interactive and powerful Git interface for Neovim, inspired by Magit",
     "license_spdx": "MIT",
     "last_commit_at": "2026-11-17T09:10:05Z",
-    "commits_90d": 43,
+    "commits_90d": 42,
     "releases_365d": 0,
     "median_issue_close_days": 50.41905092592593,
     "median_pr_close_days": 4.482071759259259,
@@ -27,6 +27,6 @@
     "readme_len": 21270
   },
   "slow_fetched_at": "2026-11-16T11:59:31.774241148Z",
-  "commits_etag": "\"6291f0f6655ca35c1eaaea3cdd8a267dab56541b8b79f0cd4b8031d4ceff12b5\"",
-  "releases_etag": "\"c7366fb330f7edd195179afedde12e2419d4acf3e1bfd6f53d8a4aae92f74d10\""
+  "commits_etag": "\"f34fe8e6cc7ba9e9796797bdca3cda6fc203dbb22e00510fb3c15250f16c8af0\"",
+  "releases_etag": "\"80a97c378d92fc4eb089078b8b131f013f37fe43e75fbdf6d2f361b12cfca59a\""
 }

@@ -1,6 +1,6 @@
 {
   "slug": "bradley101/nvim-remote-ssh",
-  "fetched_at": "2026-11-20T11:46:17.385982103Z",
+  "fetched_at": "2026-11-21T11:08:11.380849319Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 11879
   },
   "slow_fetched_at": "2026-11-19T11:48:03.806515649Z",
-  "commits_etag": "\"793f025cf178631b2bcd107c7a1e6f61ed7209f19da3041c4bf448e60df393d4\"",
-  "releases_etag": "\"49e41771d88822f87d102c0993faf3e443bd2d29d8e5ad2ecfd8e0f2a3b9680e\""
+  "commits_etag": "\"721e69ead2c21618696f6f76fa3f33175f57a4dd5f72610d995e2f5d8e31cde6\"",
+  "releases_etag": "\"6c9e0b137fe789c70604cc0e08fe8fe15efbb1c678ba9da2387ccdfd347a786e\""
 }

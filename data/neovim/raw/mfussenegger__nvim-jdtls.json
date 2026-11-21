@@ -1,6 +1,6 @@
 {
   "slug": "mfussenegger/nvim-jdtls",
-  "fetched_at": "2026-11-20T12:11:12.665164170Z",
+  "fetched_at": "2026-11-21T11:29:54.511799081Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 18426
   },
   "slow_fetched_at": "2026-11-15T11:21:22.860955684Z",
-  "commits_etag": "\"c7029cd1629000ef17a4433c34c040c277e4c5497519c7ed6ef14a2176badf5e\"",
-  "releases_etag": "\"e3622f430e68094db1a6b33efd668fa02e62d5d6d6342495d6f8d9eb6b6548b4\""
+  "commits_etag": "\"a000b3ad7b152e767fdbba8c02c1694f65a45c5f628416ef57869e934641f85f\"",
+  "releases_etag": "\"01e25d0d38703b6df54372a1b16680313bb9e5ca1d1cbcab62676367b65f22db\""
 }

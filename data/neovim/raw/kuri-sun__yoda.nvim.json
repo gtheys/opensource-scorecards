@@ -1,6 +1,6 @@
 {
   "slug": "kuri-sun/yoda.nvim",
-  "fetched_at": "2026-11-20T12:06:07.789477695Z",
+  "fetched_at": "2026-11-21T11:25:39.009212352Z",
   "status": "ok",
   "data": {
     "archived": true,
@@ -27,6 +27,6 @@
     "readme_len": 8757
   },
   "slow_fetched_at": "2026-11-14T10:50:45.983813418Z",
-  "commits_etag": "\"6552cd2ca195bf92bbf2d7f495c4ead11ed4d9c4df36975b89a80d383604d480\"",
-  "releases_etag": "\"a5a421d7afc8129b3e427bee61a42d6bf92c6636de778f379dca7fccee404049\""
+  "commits_etag": "\"52cfe3e063a84ec6a34302724815ad33387cc2fe686a3c03d272e7193ba446ea\"",
+  "releases_etag": "\"dcb112b2bfe1f8854ef9f0618d6b135e509ebd62c113733d5840274bcdd0b680\""
 }

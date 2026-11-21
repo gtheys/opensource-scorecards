@@ -1,6 +1,6 @@
 {
   "slug": "dafi-1/tasknvim",
-  "fetched_at": "2026-11-20T11:50:53.455455148Z",
+  "fetched_at": "2026-11-21T11:12:23.276216098Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 2233
   },
   "slow_fetched_at": "2026-11-13T11:15:48.547801838Z",
-  "commits_etag": "\"44531a9e4ffc9cdfea08abf787844f2aed470de7082d3205fd9c640dbe8fd966\"",
-  "releases_etag": "\"3bdf9136ecfbf7ff68ff16a0afe67fc8b62f5dc213b57b0b8febefb2a0cceff6\""
+  "commits_etag": "\"c19e5d80dce114a22122390cc1eb30d324ecabfae8c2f0b79193cdb9bd73f91b\"",
+  "releases_etag": "\"2c04a1f28e0ba125cb22a0bddedf8bf50b47a0534acd1abd7816f7622d90674a\""
 }

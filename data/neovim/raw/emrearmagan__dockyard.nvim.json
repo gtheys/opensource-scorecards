@@ -1,6 +1,6 @@
 {
   "slug": "emrearmagan/dockyard.nvim",
-  "fetched_at": "2026-11-20T11:54:18.583122666Z",
+  "fetched_at": "2026-11-21T11:15:20.447539578Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 7748
   },
   "slow_fetched_at": "2026-11-13T11:21:00.369899652Z",
-  "commits_etag": "\"8d0bbb82c09775947818f2aeb78945b5936e6f92a92c62e9529e8ba11f13eeae\"",
-  "releases_etag": "\"3bdf9136ecfbf7ff68ff16a0afe67fc8b62f5dc213b57b0b8febefb2a0cceff6\""
+  "commits_etag": "\"8b475743005685b60521019cbd060d42359f7df3ba758e3f08347d25524da533\"",
+  "releases_etag": "\"2c04a1f28e0ba125cb22a0bddedf8bf50b47a0534acd1abd7816f7622d90674a\""
 }

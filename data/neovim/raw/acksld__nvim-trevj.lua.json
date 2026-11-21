@@ -1,6 +1,6 @@
 {
   "slug": "acksld/nvim-trevj.lua",
-  "fetched_at": "2026-11-20T11:41:23.955377835Z",
+  "fetched_at": "2026-11-21T11:03:55.086798095Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 3886
   },
   "slow_fetched_at": "2026-11-13T11:03:16.569194692Z",
-  "commits_etag": "\"b0c2950ba6ad51d8e34633509e638ae21567396d7f147bb914f4f0a9343b6ebb\"",
-  "releases_etag": "\"3bdf9136ecfbf7ff68ff16a0afe67fc8b62f5dc213b57b0b8febefb2a0cceff6\""
+  "commits_etag": "\"fe428ee4a1bd9373e03ebf798a006ed4215f952dd642f92aaeaae3fdcf941c54\"",
+  "releases_etag": "\"2c04a1f28e0ba125cb22a0bddedf8bf50b47a0534acd1abd7816f7622d90674a\""
 }

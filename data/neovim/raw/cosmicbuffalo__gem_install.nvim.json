@@ -1,6 +1,6 @@
 {
   "slug": "cosmicbuffalo/gem_install.nvim",
-  "fetched_at": "2026-11-20T11:49:28.140769804Z",
+  "fetched_at": "2026-11-21T11:11:04.014063287Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 2036
   },
   "slow_fetched_at": "2026-11-13T11:13:45.041120050Z",
-  "commits_etag": "\"c5d069ebc983ee0eb02ef66b69f074645cc89906d16676059602b1f8a446a87e\"",
-  "releases_etag": "\"3bdf9136ecfbf7ff68ff16a0afe67fc8b62f5dc213b57b0b8febefb2a0cceff6\""
+  "commits_etag": "\"494d3994402c08fa044e67ea664444313a3b4cc6a8a2790a4e9585cd783e018a\"",
+  "releases_etag": "\"2c04a1f28e0ba125cb22a0bddedf8bf50b47a0534acd1abd7816f7622d90674a\""
 }

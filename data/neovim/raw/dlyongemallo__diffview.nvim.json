@@ -1,6 +1,6 @@
 {
   "slug": "dlyongemallo/diffview.nvim",
-  "fetched_at": "2026-11-20T11:52:15.825794863Z",
+  "fetched_at": "2026-11-21T11:13:34.346234515Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 8744
   },
   "slow_fetched_at": "2026-11-13T11:17:55.236397421Z",
-  "commits_etag": "\"de2f3cbbf3545d2412085f0e0fa133783533d488bc4fc812fa368a812db12e92\"",
-  "releases_etag": "\"bcc6bbe27af88a4e7731a37b5be8d81e55a6f17c0156836b76f5258a23b63e5d\""
+  "commits_etag": "\"a2b346b3ddf0801ab6b8e726299374a2809ab45f5d24fa299190473bbbcbd9ad\"",
+  "releases_etag": "\"1f5baa166d830705ec7e6bc83cdec91cfe05b761a51d90b147e0a3f7a5b51e36\""
 }

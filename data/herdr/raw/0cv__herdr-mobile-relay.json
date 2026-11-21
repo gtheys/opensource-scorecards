@@ -1,18 +1,18 @@
 {
   "slug": "0cv/herdr-mobile-relay",
-  "fetched_at": "2026-11-19T12:19:41.159066850Z",
+  "fetched_at": "2026-11-21T11:34:57.453100313Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 391,
+    "stars": 390,
     "forks": 55,
     "description": "Approve and monitor Herdr agents remotely from your phone, a mobile web app for Android/iOS smartphones with push notifications, QR setup, and multi-computer relays over Cloudflare, WebRTC or Tailscale connections.",
     "license_spdx": "NOASSERTION",
-    "last_commit_at": "2026-11-18T21:27:24Z",
+    "last_commit_at": "2026-11-21T10:06:31Z",
     "commits_90d": 1000,
     "releases_365d": 100,
     "median_issue_close_days": null,
-    "median_pr_close_days": 0.095625,
+    "median_pr_close_days": 0.08526041666666667,
     "open_issues": 5,
     "closed_issues_sampled": 0,
     "contributors_12mo": 11,
@@ -27,6 +27,6 @@
     "readme_len": 0
   },
   "slow_fetched_at": "2026-11-13T11:30:44.192692290Z",
-  "commits_etag": "\"c0a5bac7bd603bcedd72e896c06ae0e8ddd7eee36f5237aa7383eefaebf183d2\"",
-  "releases_etag": "\"e8d70a2b5b2edfbedf0f5e0fb3e78711c6a5306106a088882dfb0cbdf1dd232c\""
+  "commits_etag": "\"8b7a5cb9f34e4cf9ac45d3b77ee9f0069fc467b1ab1524b722e3fe15c39a1951\"",
+  "releases_etag": "\"42efbf616e6eaa7e498f9c789bb495150008543132e0251d95529f28cd2979a4\""
 }

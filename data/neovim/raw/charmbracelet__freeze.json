@@ -1,6 +1,6 @@
 {
   "slug": "charmbracelet/freeze",
-  "fetched_at": "2026-11-20T11:47:17.161221465Z",
+  "fetched_at": "2026-11-21T11:09:04.378166581Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 10706
   },
   "slow_fetched_at": "2026-11-13T11:10:58.421770683Z",
-  "commits_etag": "\"a3d161dd38c25753c88b92d940cd8cb3899e0d3053546fcc0325d211b04c6576\"",
-  "releases_etag": "\"297ef40160ba14ef58df1b7b28817dc9fcab80e738e48b2fc226207820f279e5\""
+  "commits_etag": "\"86faef799f82a947742f684546e122d123459d5b13435220add9cd2d896288a6\"",
+  "releases_etag": "\"284837e00235f2aa2aff8ce6a527e962d81a9f3a6d603c03e411a1da413e482a\""
 }

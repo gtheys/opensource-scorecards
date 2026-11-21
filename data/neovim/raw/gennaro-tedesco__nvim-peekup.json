@@ -1,10 +1,10 @@
 {
   "slug": "gennaro-tedesco/nvim-peekup",
-  "fetched_at": "2026-11-20T11:57:23.952237595Z",
+  "fetched_at": "2026-11-21T11:18:10.904481477Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 344,
+    "stars": 345,
     "forks": 7,
     "description": "👀 dynamically interact with vim registers",
     "license_spdx": "MIT",
@@ -23,6 +23,6 @@
     "readme_len": 6839
   },
   "slow_fetched_at": "2026-11-13T11:25:15.832530642Z",
-  "commits_etag": "\"8a2582ac5052427404025f0335a29a5d8ef26666147332aab2648fa0e44213c1\"",
-  "releases_etag": "\"79092cf2f72c478efdffe99f1fe7c1670d0d5ae60cb2548f8d3a122803b709cd\""
+  "commits_etag": "\"d4e08ad821189d71f6b0566e24ad540193d1c073217824adb9d5ec22ed45b75a\"",
+  "releases_etag": "\"e9e65f59d47d63bc96d77b8088d22381affcbbe80f001d8ef63691ecda8d2317\""
 }

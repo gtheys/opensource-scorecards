@@ -1,6 +1,6 @@
 {
   "slug": "jmbuhr/otter.nvim",
-  "fetched_at": "2026-11-20T12:02:47.160195988Z",
+  "fetched_at": "2026-11-21T11:22:47.288741326Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 13800
   },
   "slow_fetched_at": "2026-11-14T10:46:59.572425848Z",
-  "commits_etag": "\"6fd5279995cad5754ab2b4379bb1038de1eb7ac8e82ac81f79b0724fe34780c8\"",
-  "releases_etag": "\"fad5044143f96e8b21247c7d81e9c581bf6a4c49c2b34216f7ed2debeeffe4c8\""
+  "commits_etag": "\"49c72f6604a6f11edd3db6e7f6e5fe18c08f8ceae980d90eb0b399e9a9fdfcd9\"",
+  "releases_etag": "\"bdc1ead830edb91adef81341e909a8047bab4a5118c768226840599dd9a95e98\""
 }

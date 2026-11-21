@@ -1,6 +1,6 @@
 {
   "slug": "lukas-reineke/indent-blankline.nvim",
-  "fetched_at": "2026-11-20T12:08:41.307281506Z",
+  "fetched_at": "2026-11-21T11:27:47.992535731Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 5110
   },
   "slow_fetched_at": "2026-11-14T10:53:31.004072640Z",
-  "commits_etag": "\"8627fb016fd79601b28e2b7969e603882fa361eb48e3d8d3d2223d26cf4262f0\"",
-  "releases_etag": "\"f4169ffec76dad6b6cbb98dc36eeef2fc4973e5c1dd26ce1d3b0b5eab8557caa\""
+  "commits_etag": "\"8be5434f49514baf96fb3cf8673dcd3323b905f98241ddf2753af8db9dfabeb7\"",
+  "releases_etag": "\"9e36ac89d69c65a184558df7a0e7a84052452db44675784f3174094b16756855\""
 }

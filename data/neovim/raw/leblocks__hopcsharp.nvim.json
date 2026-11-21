@@ -1,6 +1,6 @@
 {
   "slug": "leblocks/hopcsharp.nvim",
-  "fetched_at": "2026-11-20T12:06:40.040756669Z",
+  "fetched_at": "2026-11-21T11:26:05.598313478Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 7149
   },
   "slow_fetched_at": "2026-11-14T10:51:20.752293517Z",
-  "commits_etag": "\"e9ae87959730bc712837cfdb4863c96568a5aafab2463050e9c6965d1a5481aa\"",
-  "releases_etag": "\"0795c533b73bdd6444eb173bb2ecb1a712fc361b63834c65a737e9682cfa28f4\""
+  "commits_etag": "\"ab6b72296ec5447ddaebcddd55ea32e23209990899ddae2d2896a0640796325f\"",
+  "releases_etag": "\"210eb3e1a009bfb18360db51ba113886d4ae16188c12f3ac5451dc92d33638fb\""
 }

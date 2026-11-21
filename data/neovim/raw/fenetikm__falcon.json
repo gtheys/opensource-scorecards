@@ -1,10 +1,10 @@
 {
   "slug": "fenetikm/falcon",
-  "fetched_at": "2026-11-20T11:55:15.885000098Z",
+  "fetched_at": "2026-11-21T11:16:12.681753885Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 850,
+    "stars": 851,
     "forks": 34,
     "description": "A colour scheme for terminals, Vim and friends.",
     "license_spdx": "MIT",
@@ -23,6 +23,6 @@
     "readme_len": 1518
   },
   "slow_fetched_at": "2026-11-13T11:22:26.851421799Z",
-  "commits_etag": "\"96956161cf33311a73f538e9f415ca084306be12263b3cb8d7de8cd4202dd71e\"",
-  "releases_etag": "\"3bdf9136ecfbf7ff68ff16a0afe67fc8b62f5dc213b57b0b8febefb2a0cceff6\""
+  "commits_etag": "\"477307f3995a726444126a0d4c6f61f9df95d814d1ba9c74b91887c134bdfa74\"",
+  "releases_etag": "\"2c04a1f28e0ba125cb22a0bddedf8bf50b47a0534acd1abd7816f7622d90674a\""
 }

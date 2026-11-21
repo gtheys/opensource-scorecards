@@ -1,10 +1,10 @@
 {
   "slug": "justinmk/guh.nvim",
-  "fetched_at": "2026-11-20T12:03:49.757138812Z",
+  "fetched_at": "2026-11-21T11:23:39.688803290Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 259,
+    "stars": 261,
     "forks": 13,
     "description": "Work with GitHub in Neovim 🌊",
     "license_spdx": "MIT",
@@ -27,6 +27,6 @@
     "readme_len": 2870
   },
   "slow_fetched_at": "2026-11-14T10:48:08.872733633Z",
-  "commits_etag": "\"b5227892bd1176475ef045d10a92fef4e34c67d0584e16e561618942a4a8ed72\"",
-  "releases_etag": "\"d5078268a93750d1d0f33734e186e431d7dd70d257387faf125eed38a0d535fd\""
+  "commits_etag": "\"a26f882dcbafae9665abd53378854cbbce664624cfc2a633e67ac4d211c886c3\"",
+  "releases_etag": "\"4a1c0e7a4fc076fd75625fc36e72136f1bc3eced2fdd4dd6c7988e2c5c1ba21d\""
 }

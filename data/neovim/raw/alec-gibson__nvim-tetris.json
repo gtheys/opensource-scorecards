@@ -1,6 +1,6 @@
 {
   "slug": "alec-gibson/nvim-tetris",
-  "fetched_at": "2026-11-20T11:42:24.684868464Z",
+  "fetched_at": "2026-11-21T11:04:46.263873001Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 2315
   },
   "slow_fetched_at": "2026-11-13T11:04:35.752840727Z",
-  "commits_etag": "\"4f71f64aee1734aec50a35b276aeb0fdfd16a57acf7de83bd37cd8cca1fc7601\"",
-  "releases_etag": "\"3bdf9136ecfbf7ff68ff16a0afe67fc8b62f5dc213b57b0b8febefb2a0cceff6\""
+  "commits_etag": "\"59e38a5e78563136218edbc66a18f96c4c1bf6db6126ac5f84b970fb592f325d\"",
+  "releases_etag": "\"2c04a1f28e0ba125cb22a0bddedf8bf50b47a0534acd1abd7816f7622d90674a\""
 }

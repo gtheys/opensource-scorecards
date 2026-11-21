@@ -1,6 +1,6 @@
 {
   "slug": "cwood-sdf/banana.nvim",
-  "fetched_at": "2026-11-20T11:50:35.453220213Z",
+  "fetched_at": "2026-11-21T11:12:06.918100563Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 5077
   },
   "slow_fetched_at": "2026-11-13T11:15:17.516930285Z",
-  "commits_etag": "\"cb356a7ec1063d72304a52f5f969a781150b940322a51124935aa8f2b35d32bb\"",
-  "releases_etag": "\"20ea0a060a39f0ae9f43cb8e1eb2fdad9a17641993ae08797afc7b7db793ef32\""
+  "commits_etag": "\"0a560b520f21cbf3a983a73385e3a29e15550de23991958f6ed0236c5be2a46b\"",
+  "releases_etag": "\"7902385a10bc4b0b4196e0b2c0bd5b9bd2002dd81d18a9e0c56b947cd0fb0d21\""
 }

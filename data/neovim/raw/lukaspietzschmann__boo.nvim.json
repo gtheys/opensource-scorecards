@@ -1,6 +1,6 @@
 {
   "slug": "lukaspietzschmann/boo.nvim",
-  "fetched_at": "2026-11-20T12:08:45.215777473Z",
+  "fetched_at": "2026-11-21T11:27:51.781973112Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 1996
   },
   "slow_fetched_at": "2026-11-14T10:53:36.365325827Z",
-  "commits_etag": "\"1741214fe769ac1232cd9dce2e97495de35fba5f2a6db810efae3b6f154a88a0\"",
-  "releases_etag": "\"3bdf9136ecfbf7ff68ff16a0afe67fc8b62f5dc213b57b0b8febefb2a0cceff6\""
+  "commits_etag": "\"4f42bda63ef00f8daa393fbb09f916b0448ed50078bb99c504f061f5a84987da\"",
+  "releases_etag": "\"2c04a1f28e0ba125cb22a0bddedf8bf50b47a0534acd1abd7816f7622d90674a\""
 }

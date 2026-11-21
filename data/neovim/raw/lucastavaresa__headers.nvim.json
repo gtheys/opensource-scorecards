@@ -1,6 +1,6 @@
 {
   "slug": "lucastavaresa/headers.nvim",
-  "fetched_at": "2026-11-20T12:08:30.797122170Z",
+  "fetched_at": "2026-11-21T11:27:39.240106521Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "Zero-config header/footer warnings.",
     "license_spdx": "GPL-3.0",
     "last_commit_at": "2026-08-23T00:33:33Z",
-    "commits_90d": 3,
+    "commits_90d": 0,
     "releases_365d": 0,
     "median_issue_close_days": 286.4224189814815,
     "median_pr_close_days": null,
@@ -27,6 +27,6 @@
     "readme_len": 1700
   },
   "slow_fetched_at": "2026-11-14T10:53:18.175119654Z",
-  "commits_etag": "\"44314d8afc552f5c65c9a418e19036224eb4ddcb6dac649b723b012a1f883685\"",
-  "releases_etag": "\"3bdf9136ecfbf7ff68ff16a0afe67fc8b62f5dc213b57b0b8febefb2a0cceff6\""
+  "commits_etag": "\"61e0915d14cd01f94c95d840c07bd2d0ee582ad7765fa4ad084a66614004f774\"",
+  "releases_etag": "\"2c04a1f28e0ba125cb22a0bddedf8bf50b47a0534acd1abd7816f7622d90674a\""
 }
