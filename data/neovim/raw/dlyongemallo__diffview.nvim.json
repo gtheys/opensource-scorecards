@@ -1,11 +1,11 @@
 {
   "slug": "dlyongemallo/diffview.nvim",
-  "fetched_at": "2026-11-21T11:13:34.346234515Z",
+  "fetched_at": "2026-11-22T11:36:14.715093985Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 386,
-    "forks": 36,
+    "stars": 389,
+    "forks": 37,
     "description": "Single tabpage interface for easily cycling through diffs for all modified files for any git rev (actively maintained fork).",
     "license_spdx": "NOASSERTION",
     "last_commit_at": "2026-11-03T14:30:04Z",
@@ -13,7 +13,7 @@
     "releases_365d": 15,
     "median_issue_close_days": 8.799664351851852,
     "median_pr_close_days": 0.028287037037037038,
-    "open_issues": 16,
+    "open_issues": 18,
     "closed_issues_sampled": 7,
     "contributors_12mo": 27,
     "top_author_commit_share": 0.9225181598062954,
@@ -27,6 +27,6 @@
     "readme_len": 8744
   },
   "slow_fetched_at": "2026-11-13T11:17:55.236397421Z",
-  "commits_etag": "\"a2b346b3ddf0801ab6b8e726299374a2809ab45f5d24fa299190473bbbcbd9ad\"",
-  "releases_etag": "\"1f5baa166d830705ec7e6bc83cdec91cfe05b761a51d90b147e0a3f7a5b51e36\""
+  "commits_etag": "\"1589742c03849d9ec86a175f5451d099d32431a03a85176af144a5acbe9f606b\"",
+  "releases_etag": "\"2f64ab9c42898c8ad98705377ffe9c3ffe484b3c886bbca0e689330e97611ef6\""
 }

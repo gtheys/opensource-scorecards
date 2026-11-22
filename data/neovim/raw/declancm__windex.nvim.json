@@ -1,6 +1,6 @@
 {
   "slug": "declancm/windex.nvim",
-  "fetched_at": "2026-11-21T11:13:12.980547196Z",
+  "fetched_at": "2026-11-22T11:35:52.542487237Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 7510
   },
   "slow_fetched_at": "2026-11-13T11:17:18.693647877Z",
-  "commits_etag": "\"eddad2f2fa9f1f2e3e691c7d1fa8d987ad07cc0f12667b5ce17c7a4b22cfdc02\"",
-  "releases_etag": "\"2c04a1f28e0ba125cb22a0bddedf8bf50b47a0534acd1abd7816f7622d90674a\""
+  "commits_etag": "\"37e816ecbe15b74027f7ddfd85e533fbe53640c598fbeb6ab74c0f4d2b0a34d9\"",
+  "releases_etag": "\"61e3edb30ef61e06e283236939a07f3fba90af808bbdd9c52d9252245a1236f7\""
 }

@@ -1,6 +1,6 @@
 {
   "slug": "kiyoon/repeatable-move.nvim",
-  "fetched_at": "2026-11-21T11:24:54.258561592Z",
+  "fetched_at": "2026-11-22T11:47:27.149370718Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 5950
   },
   "slow_fetched_at": "2026-11-14T10:49:48.825040878Z",
-  "commits_etag": "\"7de4f093bb56bd521d5850715b91b40f6f8f5a61bcf6314831527a84d3416504\"",
-  "releases_etag": "\"2c04a1f28e0ba125cb22a0bddedf8bf50b47a0534acd1abd7816f7622d90674a\""
+  "commits_etag": "\"28e0c286724d089fe5439170410171640305f6a09fecc9d877dbeab48822c4a6\"",
+  "releases_etag": "\"61e3edb30ef61e06e283236939a07f3fba90af808bbdd9c52d9252245a1236f7\""
 }

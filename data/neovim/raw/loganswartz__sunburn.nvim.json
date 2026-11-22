@@ -1,6 +1,6 @@
 {
   "slug": "loganswartz/sunburn.nvim",
-  "fetched_at": "2026-11-21T11:27:23.301616001Z",
+  "fetched_at": "2026-11-22T11:50:00.749755762Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "A Neovim colorscheme emphasizing readability above all else.",
     "license_spdx": "MIT",
     "last_commit_at": "2026-08-23T21:38:19Z",
-    "commits_90d": 1,
+    "commits_90d": 0,
     "releases_365d": 0,
     "median_issue_close_days": 15.984918981481481,
     "median_pr_close_days": null,
@@ -27,6 +27,6 @@
     "readme_len": 4108
   },
   "slow_fetched_at": "2026-11-14T10:52:58.832191729Z",
-  "commits_etag": "\"d9ca0a32b76850e78d012c0cee1824fa8e8b538cd081c15e051b6920fecbe2f8\"",
-  "releases_etag": "\"2c04a1f28e0ba125cb22a0bddedf8bf50b47a0534acd1abd7816f7622d90674a\""
+  "commits_etag": "\"86d92d332ba86861aa105ee0d2a66c2729fb8c76d1ad317f5a25fd0eb1b0342d\"",
+  "releases_etag": "\"61e3edb30ef61e06e283236939a07f3fba90af808bbdd9c52d9252245a1236f7\""
 }

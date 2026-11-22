@@ -1,6 +1,6 @@
 {
   "slug": "chrisgrieser/nvim-early-retirement",
-  "fetched_at": "2026-11-21T11:09:30.428688101Z",
+  "fetched_at": "2026-11-22T11:32:05.290803128Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 3627
   },
   "slow_fetched_at": "2026-11-13T11:11:35.321068408Z",
-  "commits_etag": "\"88d77d7d1cac7d46e070c8f6bb107c7d3f609f3d30e70ced67c46cc16be435e2\"",
-  "releases_etag": "\"2c04a1f28e0ba125cb22a0bddedf8bf50b47a0534acd1abd7816f7622d90674a\""
+  "commits_etag": "\"9c0ecf5019a021cd8878c30952612614e5501c396fe33ec4e2955e969d2d087e\"",
+  "releases_etag": "\"61e3edb30ef61e06e283236939a07f3fba90af808bbdd9c52d9252245a1236f7\""
 }

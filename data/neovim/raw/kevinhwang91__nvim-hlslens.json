@@ -1,10 +1,10 @@
 {
   "slug": "kevinhwang91/nvim-hlslens",
-  "fetched_at": "2026-11-21T11:24:24.081536165Z",
+  "fetched_at": "2026-11-22T11:46:58.871493307Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 927,
+    "stars": 928,
     "forks": 18,
     "description": "Hlsearch Lens for Neovim",
     "license_spdx": "BSD-3-Clause",
@@ -27,6 +27,6 @@
     "readme_len": 11616
   },
   "slow_fetched_at": "2026-11-14T10:49:07.621153669Z",
-  "commits_etag": "\"6b4904ba9e105bf3de711a57c7a0e76e5d6c6f414298798340eba4206035b416\"",
-  "releases_etag": "\"46a7a70a5706b050659d49f6036bd8b95bb00df31b81a909228df620b8620466\""
+  "commits_etag": "\"a06f46820e9acdd90272245d1546dd0ac2636bd8dfbd17ef033ce026aeed285f\"",
+  "releases_etag": "\"af525a263abaffb05a05038d71bc4ef8f347616f5dce1b03de15702f39f24a33\""
 }

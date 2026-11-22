@@ -1,10 +1,10 @@
 {
   "slug": "karb94/neoscroll.nvim",
-  "fetched_at": "2026-11-21T11:23:54.831920193Z",
+  "fetched_at": "2026-11-22T11:46:28.357668404Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 2085,
+    "stars": 2087,
     "forks": 42,
     "description": "Smooth scrolling neovim plugin written in lua",
     "license_spdx": "MIT",
@@ -27,6 +27,6 @@
     "readme_len": 7838
   },
   "slow_fetched_at": "2026-11-14T10:48:28.254085281Z",
-  "commits_etag": "\"6162443eed329382be946c77d1b8fdc2bbe7119c508bb556327bea32c4bb1509\"",
-  "releases_etag": "\"2c04a1f28e0ba125cb22a0bddedf8bf50b47a0534acd1abd7816f7622d90674a\""
+  "commits_etag": "\"b1a782b16057e4f73eda3d6befb219c9ed795e059e5843b375149168730ab7b8\"",
+  "releases_etag": "\"61e3edb30ef61e06e283236939a07f3fba90af808bbdd9c52d9252245a1236f7\""
 }

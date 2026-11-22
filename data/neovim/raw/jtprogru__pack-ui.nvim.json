@@ -1,6 +1,6 @@
 {
   "slug": "jtprogru/pack-ui.nvim",
-  "fetched_at": "2026-11-21T11:23:13.996048807Z",
+  "fetched_at": "2026-11-22T11:45:45.672714762Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 5766
   },
   "slow_fetched_at": "2026-11-14T10:47:34.664817749Z",
-  "commits_etag": "\"5fadf1ad82c7badf4bc3d82a2f7925f55c70a0f084f427b1d75d9b94d246ea6a\"",
-  "releases_etag": "\"6653329c1278189cf263549e96fd9f0f0dfdca8cb422c01192b7e42431c13b9d\""
+  "commits_etag": "\"6982e943d034e0f6fccdf627512c008133e265a081196f4255e4eda280717e94\"",
+  "releases_etag": "\"0bea065409a0475003cc8d6c8443636da9e69a2a6b26d5c78b3db725c496a510\""
 }

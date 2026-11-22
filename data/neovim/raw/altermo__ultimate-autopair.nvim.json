@@ -1,6 +1,6 @@
 {
   "slug": "altermo/ultimate-autopair.nvim",
-  "fetched_at": "2026-11-21T11:05:13.818907951Z",
+  "fetched_at": "2026-11-22T11:27:45.570916580Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 3457
   },
   "slow_fetched_at": "2026-11-13T11:05:18.319135903Z",
-  "commits_etag": "\"43789a51d5f264929b666a11fe5fba3efce45d14a140350b97891b42b8b23021\"",
-  "releases_etag": "\"2c04a1f28e0ba125cb22a0bddedf8bf50b47a0534acd1abd7816f7622d90674a\""
+  "commits_etag": "\"76ac716fd65cd73235058cbe1b4844719cb6f22b884f09c0d261ba0aff2143ec\"",
+  "releases_etag": "\"61e3edb30ef61e06e283236939a07f3fba90af808bbdd9c52d9252245a1236f7\""
 }

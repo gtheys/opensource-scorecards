@@ -1,6 +1,6 @@
 {
   "slug": "elentok/format-on-save.nvim",
-  "fetched_at": "2026-11-21T11:15:03.717474603Z",
+  "fetched_at": "2026-11-22T11:37:45.378750401Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 9522
   },
   "slow_fetched_at": "2026-11-13T11:20:30.794740306Z",
-  "commits_etag": "\"23e064627de50ad1aa478ef7dc1ece0724aa06a7d8b9e04a83829977a5b58bc4\"",
-  "releases_etag": "\"2c04a1f28e0ba125cb22a0bddedf8bf50b47a0534acd1abd7816f7622d90674a\""
+  "commits_etag": "\"eb0f0fa8ac0758a6d0212afee8d50c707732e1282bfbf60e59e8c8bbffb1cbfd\"",
+  "releases_etag": "\"61e3edb30ef61e06e283236939a07f3fba90af808bbdd9c52d9252245a1236f7\""
 }

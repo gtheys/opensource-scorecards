@@ -1,6 +1,6 @@
 {
   "slug": "emrearmagan/atlas.nvim",
-  "fetched_at": "2026-11-21T11:15:16.083474262Z",
+  "fetched_at": "2026-11-22T11:37:58.689984457Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "Review pull requests and manage issues across GitHub, GitLab, Bitbucket and Jira directly in Neovim.",
     "license_spdx": "MIT",
     "last_commit_at": "2026-11-17T22:19:08Z",
-    "commits_90d": 176,
+    "commits_90d": 174,
     "releases_365d": 48,
     "median_issue_close_days": 11.124594907407408,
     "median_pr_close_days": 0.3399537037037037,
@@ -27,6 +27,6 @@
     "readme_len": 36489
   },
   "slow_fetched_at": "2026-11-13T11:20:53.498587623Z",
-  "commits_etag": "\"c32127e491fd424dcddec6f978a49261dbb90d8cbeb93b5d51ea70063707101c\"",
-  "releases_etag": "\"da61f5bd76de262f18358e744dce1c321579522003cc8cab72e8c9ac9a4d7393\""
+  "commits_etag": "\"05a1eae4ddca1542745c993527574f890dda6923327b731f1c84ca93db2743cd\"",
+  "releases_etag": "\"b91dc76480255752d306c6a68561840c2d9337f4677bbcb62f1a0f11cecbbddb\""
 }

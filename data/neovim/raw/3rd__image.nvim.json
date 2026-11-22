@@ -1,6 +1,6 @@
 {
   "slug": "3rd/image.nvim",
-  "fetched_at": "2026-11-21T11:03:06.653033278Z",
+  "fetched_at": "2026-11-22T11:25:36.107913862Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 20327
   },
   "slow_fetched_at": "2026-11-13T11:02:03.674067968Z",
-  "commits_etag": "\"1d6a5ed848348cf1f34faee080dc16f22d21ccec52a87a086df16c52479eb61f\"",
-  "releases_etag": "\"aa90c23d4c194203ccb55a9764f3288c014004e981e0e32871b4f8ee95b38597\""
+  "commits_etag": "\"b8a12b667774892f885685a69e2960ed5ffa2202f562475848c58b462d6b8139\"",
+  "releases_etag": "\"90277c6d09a4aa2471ea2c5d5a4ffd3cf50031f63b8f77babbfa8738046ca249\""
 }

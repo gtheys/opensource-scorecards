@@ -1,6 +1,6 @@
 {
   "slug": "404pilo/aicommits.nvim",
-  "fetched_at": "2026-11-21T11:03:17.556961162Z",
+  "fetched_at": "2026-11-22T11:25:46.947921281Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 18757
   },
   "slow_fetched_at": "2026-11-13T11:02:20.577769128Z",
-  "commits_etag": "\"ca773150d1e12e721169c219ca69e653d76cf53d82024d01496e83b3a91af1c9\"",
-  "releases_etag": "\"2c04a1f28e0ba125cb22a0bddedf8bf50b47a0534acd1abd7816f7622d90674a\""
+  "commits_etag": "\"92e2269a403fcee319c9dcd4bfad3142f3a3dbb1b3b96eae41b665de631d5268\"",
+  "releases_etag": "\"61e3edb30ef61e06e283236939a07f3fba90af808bbdd9c52d9252245a1236f7\""
 }

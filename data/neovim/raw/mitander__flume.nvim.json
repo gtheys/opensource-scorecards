@@ -1,6 +1,6 @@
 {
   "slug": "mitander/flume.nvim",
-  "fetched_at": "2026-11-21T11:31:14.777633934Z",
+  "fetched_at": "2026-11-22T11:53:49.202282364Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 7549
   },
   "slow_fetched_at": "2026-11-15T11:22:54.701494558Z",
-  "commits_etag": "\"e9854a6e0b67a2dca1d5a7368c13577badc5bb0e4a9be3dc246d11320ceba61d\"",
-  "releases_etag": "\"9f743c3dbfab50d6c1eff0d460cde37232b4143635c212d77e9b8ecf4ba6ab4a\""
+  "commits_etag": "\"038f396b92e9d3f99e6f7d7b98529d1c02956473ef5aecfa24b771ddacd118d2\"",
+  "releases_etag": "\"622f88b0a21885fadfd0fe34a44797e77ff246d20618f092b0e9deef9facefbc\""
 }

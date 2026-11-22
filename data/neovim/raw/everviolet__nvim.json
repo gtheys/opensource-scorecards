@@ -1,6 +1,6 @@
 {
   "slug": "everviolet/nvim",
-  "fetched_at": "2026-11-21T11:15:46.971745384Z",
+  "fetched_at": "2026-11-22T11:38:31.807614123Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 7433
   },
   "slow_fetched_at": "2026-11-13T11:21:43.454642560Z",
-  "commits_etag": "\"e305ebaf3251aa74a5908902dd3fbf7584eb394a7c3fa85c0a3b4895ae97b8c3\"",
-  "releases_etag": "\"2c04a1f28e0ba125cb22a0bddedf8bf50b47a0534acd1abd7816f7622d90674a\""
+  "commits_etag": "\"939b0124d160c9df55e8bdf12409a0a8f759a5f6027f05447629faa2b87d6414\"",
+  "releases_etag": "\"61e3edb30ef61e06e283236939a07f3fba90af808bbdd9c52d9252245a1236f7\""
 }

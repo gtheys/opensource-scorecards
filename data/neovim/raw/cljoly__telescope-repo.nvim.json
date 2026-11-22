@@ -1,6 +1,6 @@
 {
   "slug": "cljoly/telescope-repo.nvim",
-  "fetched_at": "2026-11-21T11:10:43.150660441Z",
+  "fetched_at": "2026-11-22T11:33:21.896847473Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 19350
   },
   "slow_fetched_at": "2026-11-13T11:13:17.689254132Z",
-  "commits_etag": "\"77463fe1975b7bc478e4faba578e1149414e6198831842f7abb0f528fb6555c5\"",
-  "releases_etag": "\"2c04a1f28e0ba125cb22a0bddedf8bf50b47a0534acd1abd7816f7622d90674a\""
+  "commits_etag": "\"c45e76d2de68dd61dd60e5aa6f8dbfebb216db9f5a67e79bb8c441c307171246\"",
+  "releases_etag": "\"61e3edb30ef61e06e283236939a07f3fba90af808bbdd9c52d9252245a1236f7\""
 }

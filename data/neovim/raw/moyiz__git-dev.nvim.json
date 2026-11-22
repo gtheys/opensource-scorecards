@@ -1,6 +1,6 @@
 {
   "slug": "moyiz/git-dev.nvim",
-  "fetched_at": "2026-11-21T11:32:03.309462619Z",
+  "fetched_at": "2026-11-22T11:54:35.121251906Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 22996
   },
   "slow_fetched_at": "2026-11-15T11:23:50.160066671Z",
-  "commits_etag": "\"3e939efd4c63d3de57d6866584f4eed7f46f473e164c6aca5850b6b15f5292e1\"",
-  "releases_etag": "\"2c04a1f28e0ba125cb22a0bddedf8bf50b47a0534acd1abd7816f7622d90674a\""
+  "commits_etag": "\"e87fb825deeebda0f91491cfd8d43bd92c924b238e464b4c59fd738a034271f0\"",
+  "releases_etag": "\"61e3edb30ef61e06e283236939a07f3fba90af808bbdd9c52d9252245a1236f7\""
 }

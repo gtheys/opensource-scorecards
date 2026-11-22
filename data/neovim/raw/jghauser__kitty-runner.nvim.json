@@ -1,6 +1,6 @@
 {
   "slug": "jghauser/kitty-runner.nvim",
-  "fetched_at": "2026-11-21T11:22:26.798573490Z",
+  "fetched_at": "2026-11-22T11:44:56.008811278Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 3248
   },
   "slow_fetched_at": "2026-11-14T10:46:33.456302527Z",
-  "commits_etag": "\"032db2cae51c6b4111d6d9bef7cd0b566b923486deae9712ffd6bce414390ba0\"",
-  "releases_etag": "\"2c04a1f28e0ba125cb22a0bddedf8bf50b47a0534acd1abd7816f7622d90674a\""
+  "commits_etag": "\"b80c9388956afba403ecf03734499d83c4b46788acaed328ef6d4c5c275f9d74\"",
+  "releases_etag": "\"61e3edb30ef61e06e283236939a07f3fba90af808bbdd9c52d9252245a1236f7\""
 }

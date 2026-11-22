@@ -1,6 +1,6 @@
 {
   "slug": "nacro90/numb.nvim",
-  "fetched_at": "2026-11-21T11:33:25.664444473Z",
+  "fetched_at": "2026-11-22T11:55:58.311369120Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 12591
   },
   "slow_fetched_at": "2026-11-16T11:58:36.001062435Z",
-  "commits_etag": "\"31e0587adb0a407241f0be0cfd4669dcc2311d702fe2759e6ccaa14caaac873d\"",
-  "releases_etag": "\"8975d9a11f5e500a34d2ae01d722ce4fdc5b412ad2c3e3648c3365b72dde5e76\""
+  "commits_etag": "\"ead9800b9cf7eb40ab7e798a132e42df33980d7ac73ea9e33a647e2cd9b61d16\"",
+  "releases_etag": "\"0c6bd27909d56fd5ce5f1d157a1b61a12137e02bb9141fd7f982db8250c17b4b\""
 }

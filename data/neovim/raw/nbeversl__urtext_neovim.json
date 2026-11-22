@@ -1,6 +1,6 @@
 {
   "slug": "nbeversl/urtext_neovim",
-  "fetched_at": "2026-11-21T11:33:44.458585764Z",
+  "fetched_at": "2026-11-22T11:56:14.490142074Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 1443
   },
   "slow_fetched_at": "2026-11-16T11:59:04.972626966Z",
-  "commits_etag": "\"a01f6a5757d6f94142803d6da10e2529173ae8245c29a933dd0150c15a5b4706\"",
-  "releases_etag": "\"2c04a1f28e0ba125cb22a0bddedf8bf50b47a0534acd1abd7816f7622d90674a\""
+  "commits_etag": "\"4ae0522a907fe5fc6bd67e3ab00e9306200ac71e2322e3b926c248ffde285230\"",
+  "releases_etag": "\"61e3edb30ef61e06e283236939a07f3fba90af808bbdd9c52d9252245a1236f7\""
 }

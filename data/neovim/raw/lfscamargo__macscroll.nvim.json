@@ -1,6 +1,6 @@
 {
   "slug": "lfscamargo/macscroll.nvim",
-  "fetched_at": "2026-11-21T11:26:44.331212428Z",
+  "fetched_at": "2026-11-22T11:49:20.813738839Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 3773
   },
   "slow_fetched_at": "2026-11-14T10:52:07.545358493Z",
-  "commits_etag": "\"6eeb8379b812b745caecc8da49407ad16ca989c6dcbd4e760be6838138344d31\"",
-  "releases_etag": "\"04e7a85393fb8c66cb8c0a86f605cb2577f62b664734e4fab592ff9733b9ca3f\""
+  "commits_etag": "\"3e6cd1b9ef57bcc69b7c39919d99f8bc9c92baf4487f6c378536de8e6ea1271a\"",
+  "releases_etag": "\"df9c08bbb27f9f6aa0199003f21cbbf72bcd32cda45408f1c6a60602ea97623e\""
 }

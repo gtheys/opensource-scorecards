@@ -1,6 +1,6 @@
 {
   "slug": "bydlw98/blink-cmp-sshconfig",
-  "fetched_at": "2026-11-21T11:08:30.057853902Z",
+  "fetched_at": "2026-11-22T11:31:02.947775881Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 2362
   },
   "slow_fetched_at": "2026-11-13T11:10:07.893033597Z",
-  "commits_etag": "\"431a2d10b51e07403fd630a2293c76ba722401a9973f91152c7bd599c55f38ab\"",
-  "releases_etag": "\"2c04a1f28e0ba125cb22a0bddedf8bf50b47a0534acd1abd7816f7622d90674a\""
+  "commits_etag": "\"b746fd322229e949ddc67005c4d5b7940d9046de96a48c5925d60611e7a5e5b0\"",
+  "releases_etag": "\"61e3edb30ef61e06e283236939a07f3fba90af808bbdd9c52d9252245a1236f7\""
 }

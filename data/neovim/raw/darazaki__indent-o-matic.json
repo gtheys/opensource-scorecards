@@ -1,6 +1,6 @@
 {
   "slug": "darazaki/indent-o-matic",
-  "fetched_at": "2026-11-21T11:12:43.513269002Z",
+  "fetched_at": "2026-11-22T11:35:22.592210547Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 3460
   },
   "slow_fetched_at": "2026-11-13T11:16:25.175153352Z",
-  "commits_etag": "\"a22a41a3dd5e1be4c3c89b8185ae599eb3b4332c9b64eb0ba44ad306fd3b87bf\"",
-  "releases_etag": "\"2c04a1f28e0ba125cb22a0bddedf8bf50b47a0534acd1abd7816f7622d90674a\""
+  "commits_etag": "\"47ead6345b4ef37c5633a43e018658ffc060dd3288b1be410fba6fcdc3213b24\"",
+  "releases_etag": "\"61e3edb30ef61e06e283236939a07f3fba90af808bbdd9c52d9252245a1236f7\""
 }

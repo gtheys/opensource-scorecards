@@ -1,10 +1,10 @@
 {
   "slug": "gelguy/wilder.nvim",
-  "fetched_at": "2026-11-21T11:18:01.475152757Z",
+  "fetched_at": "2026-11-22T11:40:37.438644440Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 1483,
+    "stars": 1484,
     "forks": 40,
     "description": "A more adventurous wildmenu",
     "license_spdx": "MIT",
@@ -23,6 +23,6 @@
     "readme_len": 37986
   },
   "slow_fetched_at": "2026-11-13T11:25:02.066626768Z",
-  "commits_etag": "\"5f576e03aaefa47eb3fcacd6639d4099b0e34a8cfaccdb9a979433dce1749235\"",
-  "releases_etag": "\"2c04a1f28e0ba125cb22a0bddedf8bf50b47a0534acd1abd7816f7622d90674a\""
+  "commits_etag": "\"8655faeeb5f045d220866f268f70869d1697aa2a7c8f097dc43e02798260c2ad\"",
+  "releases_etag": "\"61e3edb30ef61e06e283236939a07f3fba90af808bbdd9c52d9252245a1236f7\""
 }

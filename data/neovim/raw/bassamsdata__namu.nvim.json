@@ -1,10 +1,10 @@
 {
   "slug": "bassamsdata/namu.nvim",
-  "fetched_at": "2026-11-21T11:07:13.489627084Z",
+  "fetched_at": "2026-11-22T11:29:44.697506750Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 434,
+    "stars": 435,
     "forks": 18,
     "description": "Navigate your code with context, fuzzy picker, LSP symbol navigator, and much more. ",
     "license_spdx": "MIT",
@@ -27,6 +27,6 @@
     "readme_len": 10416
   },
   "slow_fetched_at": "2026-11-13T11:08:15.045395683Z",
-  "commits_etag": "\"20197967880b7a35dc9914ae91acb07f702249016b44d5fee08e1089b540ee15\"",
-  "releases_etag": "\"e8891c148d71e25ccbc6ef44efd18bff227d208fab630a212bd6717760cd8dc0\""
+  "commits_etag": "\"435ebe53353ef7580daaaecb7959058a4042304cbdba1c0efbce2ef0edca7f79\"",
+  "releases_etag": "\"fed8f783cff562e8ee482e4502156fd7f349818ac22bd80d5ccc21d877e1b093\""
 }

@@ -1,6 +1,6 @@
 {
   "slug": "jedrzejboczar/toggletasks.nvim",
-  "fetched_at": "2026-11-21T11:22:18.946003891Z",
+  "fetched_at": "2026-11-22T11:44:47.923802031Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 15242
   },
   "slow_fetched_at": "2026-11-14T10:46:22.824910861Z",
-  "commits_etag": "\"b617640cb772dc92f5c53bcb2d5a833cc936f5f417f3f471cb7f45dd1bf2b266\"",
-  "releases_etag": "\"2c04a1f28e0ba125cb22a0bddedf8bf50b47a0534acd1abd7816f7622d90674a\""
+  "commits_etag": "\"f0e946d82c42668fbb903c678623b2621706c7f51c6414a867bc06d1bfbab830\"",
+  "releases_etag": "\"61e3edb30ef61e06e283236939a07f3fba90af808bbdd9c52d9252245a1236f7\""
 }

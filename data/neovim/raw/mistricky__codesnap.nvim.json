@@ -1,6 +1,6 @@
 {
   "slug": "mistricky/codesnap.nvim",
-  "fetched_at": "2026-11-21T11:31:04.541363449Z",
+  "fetched_at": "2026-11-22T11:53:39.306558790Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 19281
   },
   "slow_fetched_at": "2026-11-15T11:22:42.318217172Z",
-  "commits_etag": "\"d7563ba6fda2a726c65529230f1cf4fcaf900e00334a5ca2f68b7b3c5aa9c780\"",
-  "releases_etag": "\"810fe0b1f5e5cad083b04e9c0e6278bd69e027b4d97d20c70c482bb6ee7b8688\""
+  "commits_etag": "\"7bdd89eef0a86ccdc266b180bae99085baa8c2898768f85c0d7401c80683985f\"",
+  "releases_etag": "\"01bb6032d0ba7684219e2593cb4789874215e555310bad5bbef7bc8755d7b664\""
 }

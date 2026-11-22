@@ -1,6 +1,6 @@
 {
   "slug": "cxwx/rslime.nvim",
-  "fetched_at": "2026-11-21T11:12:16.521396129Z",
+  "fetched_at": "2026-11-22T11:34:55.285842382Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 15776
   },
   "slow_fetched_at": "2026-11-19T11:52:50.665618223Z",
-  "commits_etag": "\"9c6828146246c1ad9ae5ffdefcfaf8f75bdcb970c097eb89a75d6c251c3b20fb\"",
-  "releases_etag": "\"c9eb95f3c66df100979a16c178f2f59b8c2a87070bbc685d9c7a9715a2b5f8a1\""
+  "commits_etag": "\"48aa2d26c0e07254e1986e56630a9916d05796447e45df7cfb550482d67051e6\"",
+  "releases_etag": "\"fa762d119728413b77d1ffc20cfc633b5ecf3a006aa71f989d9cc6f901c254ac\""
 }

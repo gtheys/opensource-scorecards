@@ -1,10 +1,10 @@
 {
   "slug": "joryeugene/dadbod-grip.nvim",
-  "fetched_at": "2026-11-21T11:22:56.028311526Z",
+  "fetched_at": "2026-11-22T11:45:27.744570405Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 182,
+    "stars": 184,
     "forks": 10,
     "description": "Dadbod Grip turns database tables into editable Vim buffers, with schema browsing, staged mutations, generated SQL, relationship navigation, and cross-database federation inside Neovim.",
     "license_spdx": "MIT",
@@ -27,6 +27,6 @@
     "readme_len": 14718
   },
   "slow_fetched_at": "2026-11-14T10:47:11.727195465Z",
-  "commits_etag": "\"96ceb0ab3421b85940e9de38d115f0a5390ae0ad47f02b82669d65f9c270a741\"",
-  "releases_etag": "\"f872191e3798f3e9283159cc34e45035058c7d90684daa35b745022124995928\""
+  "commits_etag": "\"cb7ab34bb9b2c25b0d0a1b4d9fe55854e1124da731c7b9673a442a0696776c7a\"",
+  "releases_etag": "\"76df205c7d5851bc22063fd8bbd50410b91cb41473f5df43f092e6db68a4f60d\""
 }

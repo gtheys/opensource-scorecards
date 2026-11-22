@@ -1,6 +1,6 @@
 {
   "slug": "brianhuster/live-preview.nvim",
-  "fetched_at": "2026-11-21T11:08:20.264139621Z",
+  "fetched_at": "2026-11-22T11:30:53.369226998Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 6365
   },
   "slow_fetched_at": "2026-11-13T11:09:54.850990295Z",
-  "commits_etag": "\"aa96d381f6e73bab401dd5c732ebdd943bf31ff55ecdec4c33b117cf5a5d0732\"",
-  "releases_etag": "\"f760dde9f3ae71c562eaf21011985098b402a5277221a65f36348fceabf0eba8\""
+  "commits_etag": "\"25ec79b39df4d2cf76fac9abb39d48a1a4a27ae9519e1391c91c3663a3aba763\"",
+  "releases_etag": "\"f1fb1f1cfd7098eccc51c341faf54fa6c8c493e5a9d1d2a234cd744cd7837ddf\""
 }

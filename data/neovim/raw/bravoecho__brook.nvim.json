@@ -1,6 +1,6 @@
 {
   "slug": "bravoecho/brook.nvim",
-  "fetched_at": "2026-11-21T11:08:12.721888384Z",
+  "fetched_at": "2026-11-22T11:30:45.480226259Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 10325
   },
   "slow_fetched_at": "2026-11-13T11:09:43.633978884Z",
-  "commits_etag": "\"181bd99dcef86655923695380484395e2f5a0e823fa9e066a8918088c44026a6\"",
-  "releases_etag": "\"2c04a1f28e0ba125cb22a0bddedf8bf50b47a0534acd1abd7816f7622d90674a\""
+  "commits_etag": "\"4f80a02fa551604d51ac6840315f3cce424972a09ad0e71c659df9b81387e13c\"",
+  "releases_etag": "\"61e3edb30ef61e06e283236939a07f3fba90af808bbdd9c52d9252245a1236f7\""
 }

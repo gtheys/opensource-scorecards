@@ -1,6 +1,6 @@
 {
   "slug": "embark-theme/vim",
-  "fetched_at": "2026-11-21T11:15:11.929798235Z",
+  "fetched_at": "2026-11-22T11:37:53.956869806Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 2617
   },
   "slow_fetched_at": "2026-11-13T11:20:44.831177078Z",
-  "commits_etag": "\"9e044efcd398c5d4dcedea0a8f3c7a523d11fecad69a97f391865081332d84c2\"",
-  "releases_etag": "\"2c04a1f28e0ba125cb22a0bddedf8bf50b47a0534acd1abd7816f7622d90674a\""
+  "commits_etag": "\"2f6bf1dbd52048a44d63e941a84ee36944a903c1fc93f20db2ffead3ffdfb959\"",
+  "releases_etag": "\"61e3edb30ef61e06e283236939a07f3fba90af808bbdd9c52d9252245a1236f7\""
 }

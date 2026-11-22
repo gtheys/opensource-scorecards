@@ -1,6 +1,6 @@
 {
   "slug": "3v0k4/exit.nvim",
-  "fetched_at": "2026-11-21T11:03:10.770192079Z",
+  "fetched_at": "2026-11-22T11:25:39.924425644Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 3781
   },
   "slow_fetched_at": "2026-11-13T11:02:08.331590299Z",
-  "commits_etag": "\"6cf3b42a967c6d9c67e5cea3a958f58f9531e81a30d4d46cad619e23137236bd\"",
-  "releases_etag": "\"2c04a1f28e0ba125cb22a0bddedf8bf50b47a0534acd1abd7816f7622d90674a\""
+  "commits_etag": "\"f96054f9354aed0624a40c997747c35db4d6375e186f56b6a6c48d1c1d8fbc4d\"",
+  "releases_etag": "\"61e3edb30ef61e06e283236939a07f3fba90af808bbdd9c52d9252245a1236f7\""
 }

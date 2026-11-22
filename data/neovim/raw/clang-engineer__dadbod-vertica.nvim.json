@@ -1,6 +1,6 @@
 {
   "slug": "clang-engineer/dadbod-vertica.nvim",
-  "fetched_at": "2026-11-21T11:10:39.826194973Z",
+  "fetched_at": "2026-11-22T11:33:18.451047896Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 6237
   },
   "slow_fetched_at": "2026-11-13T11:13:11.187666230Z",
-  "commits_etag": "\"bc1e41a8451200fb3d13045dea318665c23cc3926fea60f40cf126c061ef4874\"",
-  "releases_etag": "\"2c04a1f28e0ba125cb22a0bddedf8bf50b47a0534acd1abd7816f7622d90674a\""
+  "commits_etag": "\"6e6305ddcc132918bf2b5c570f0b766cac35bc5a6c6f802f104c300cfb0d8786\"",
+  "releases_etag": "\"61e3edb30ef61e06e283236939a07f3fba90af808bbdd9c52d9252245a1236f7\""
 }

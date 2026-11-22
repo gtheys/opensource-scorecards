@@ -1,11 +1,11 @@
 {
   "slug": "gruvw/strudel.nvim",
-  "fetched_at": "2026-11-21T11:18:56.312950284Z",
+  "fetched_at": "2026-11-22T11:41:28.869550943Z",
   "status": "ok",
   "data": {
     "archived": false,
     "stars": 499,
-    "forks": 31,
+    "forks": 32,
     "description": "A Neovim based strudel.cc controller, live coding using Strudel from Neovim.",
     "license_spdx": "AGPL-3.0",
     "last_commit_at": "2026-04-10T00:42:18Z",
@@ -13,7 +13,7 @@
     "releases_365d": 0,
     "median_issue_close_days": 4.435196759259259,
     "median_pr_close_days": 0.9540335648148148,
-    "open_issues": 4,
+    "open_issues": 6,
     "closed_issues_sampled": 12,
     "contributors_12mo": 2,
     "top_author_commit_share": 0.8571428571428571,
@@ -27,6 +27,6 @@
     "readme_len": 12637
   },
   "slow_fetched_at": "2026-11-13T11:26:23.357344409Z",
-  "commits_etag": "\"8cc2f0c4b7630255e832f80eaf4a19902c3210a3d261cce34a17d631db406ed6\"",
-  "releases_etag": "\"2c04a1f28e0ba125cb22a0bddedf8bf50b47a0534acd1abd7816f7622d90674a\""
+  "commits_etag": "\"23762a4df9805bbfba9042ed21529470eb1419fa6911736e434e4e61e80efa2f\"",
+  "releases_etag": "\"61e3edb30ef61e06e283236939a07f3fba90af808bbdd9c52d9252245a1236f7\""
 }

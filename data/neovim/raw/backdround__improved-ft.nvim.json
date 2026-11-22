@@ -1,6 +1,6 @@
 {
   "slug": "backdround/improved-ft.nvim",
-  "fetched_at": "2026-11-21T11:07:00.917526311Z",
+  "fetched_at": "2026-11-22T11:29:32.226522042Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 3540
   },
   "slow_fetched_at": "2026-11-13T11:07:56.212137251Z",
-  "commits_etag": "\"1e0006918f790bfc34f0f0aaec54a48f939bf369952dda2547f55d44f8a59b8d\"",
-  "releases_etag": "\"2c04a1f28e0ba125cb22a0bddedf8bf50b47a0534acd1abd7816f7622d90674a\""
+  "commits_etag": "\"ee9207fcc70357a7033f9cac9c62b717dbe6738275ba9eaaf3f72ed9410afa52\"",
+  "releases_etag": "\"61e3edb30ef61e06e283236939a07f3fba90af808bbdd9c52d9252245a1236f7\""
 }

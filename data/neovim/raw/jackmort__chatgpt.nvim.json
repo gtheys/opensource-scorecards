@@ -1,6 +1,6 @@
 {
   "slug": "jackmort/chatgpt.nvim",
-  "fetched_at": "2026-11-21T11:21:27.581948972Z",
+  "fetched_at": "2026-11-22T11:43:58.584563986Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 13884
   },
   "slow_fetched_at": "2026-11-13T11:30:08.547100354Z",
-  "commits_etag": "\"9217172ed4fe870fd6f6ce2f47fc843816e04ceeaff26be15364e6d55b267b0c\"",
-  "releases_etag": "\"abc274589e051d6bf7b63b2b0a1a1872d17627cdd445a87c2c438d65cba7ab60\""
+  "commits_etag": "\"ecf1d44e587e9131b5cd8c9a467568308c831e2573daad339932f5c7461ecf93\"",
+  "releases_etag": "\"2e6383a18ac37b4e9fbe5afc747b871cdd46508d9e62d155d332fc2b00b2cbad\""
 }

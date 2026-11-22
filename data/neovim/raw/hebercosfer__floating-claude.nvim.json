@@ -1,6 +1,6 @@
 {
   "slug": "hebercosfer/floating-claude.nvim",
-  "fetched_at": "2026-11-21T11:19:31.405406985Z",
+  "fetched_at": "2026-11-22T11:42:02.116972663Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 33226
   },
   "slow_fetched_at": "2026-11-13T11:27:16.793699501Z",
-  "commits_etag": "\"c0b8b5bfbbd3698cc36ec83e45d7fa7cdf74ce659b99b0d3e1310a1f649ba917\"",
-  "releases_etag": "\"abd4eef52a298f4e20e7b4c8cdd48056579ddb6cbdc79dafa9318fa9478287ca\""
+  "commits_etag": "\"ea90b2d484dde85c9eec28854cadff323f8ac3393cfa8d7eb1c44cc77cd86d51\"",
+  "releases_etag": "\"38570de8249b4c5341623ed509c1ae01504ec5ad513aab8ee6e2df3c9235ec72\""
 }

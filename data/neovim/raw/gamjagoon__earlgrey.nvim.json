@@ -1,6 +1,6 @@
 {
   "slug": "gamjagoon/earlgrey.nvim",
-  "fetched_at": "2026-11-21T11:17:48.772059168Z",
+  "fetched_at": "2026-11-22T11:40:25.743512736Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 4624
   },
   "slow_fetched_at": "2026-11-13T11:24:42.880260080Z",
-  "commits_etag": "\"c6c14be3c6404f7e32e5f6cd77152ee95bec95db2c9b8d86d1e263814c109285\"",
-  "releases_etag": "\"2c04a1f28e0ba125cb22a0bddedf8bf50b47a0534acd1abd7816f7622d90674a\""
+  "commits_etag": "\"97577191f619a721d3de55dbea6d3b53f3280d7a47de4d1cc79da42a459cf45c\"",
+  "releases_etag": "\"61e3edb30ef61e06e283236939a07f3fba90af808bbdd9c52d9252245a1236f7\""
 }

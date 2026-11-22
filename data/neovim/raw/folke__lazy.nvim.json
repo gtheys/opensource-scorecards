@@ -1,11 +1,11 @@
 {
   "slug": "folke/lazy.nvim",
-  "fetched_at": "2026-11-21T11:16:43.939976217Z",
+  "fetched_at": "2026-11-22T11:39:26.227650842Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 21748,
-    "forks": 618,
+    "stars": 21757,
+    "forks": 628,
     "description": "💤 A modern plugin manager for Neovim",
     "license_spdx": "Apache-2.0",
     "last_commit_at": null,
@@ -23,6 +23,6 @@
     "readme_len": 3696
   },
   "slow_fetched_at": "2026-11-13T11:23:14.191188359Z",
-  "commits_etag": "\"fa3fbdce461b33c2e2e69b5abe2652e13604325af5e6568a32019e00b370966e\"",
-  "releases_etag": "\"4934ef96badfd60882306026e815b138af832c0a71cd2b8efbce044f5599268c\""
+  "commits_etag": "\"023a3bb08cb4ffdc59e7a66af444d74e6d236fcde39022a3234d64d7493ef1e9\"",
+  "releases_etag": "\"d6686cc2b5f21e833c75a43fee253dea5005cba64aae3c1aa7e1f7786f65e570\""
 }

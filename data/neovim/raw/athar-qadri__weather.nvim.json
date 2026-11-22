@@ -1,6 +1,6 @@
 {
   "slug": "athar-qadri/weather.nvim",
-  "fetched_at": "2026-11-21T11:06:16.868845695Z",
+  "fetched_at": "2026-11-22T11:28:49.857078532Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 7030
   },
   "slow_fetched_at": "2026-11-13T11:06:51.882746090Z",
-  "commits_etag": "\"943dd8e06f48dd78aaeeaace0a4c91ef5bd0cde9ef82214a69c1ef4808dadd39\"",
-  "releases_etag": "\"2c04a1f28e0ba125cb22a0bddedf8bf50b47a0534acd1abd7816f7622d90674a\""
+  "commits_etag": "\"1a378ac0d78ee145ecadc18318c784a595cbe0173b007aa0d0b0e69685d1b68a\"",
+  "releases_etag": "\"61e3edb30ef61e06e283236939a07f3fba90af808bbdd9c52d9252245a1236f7\""
 }

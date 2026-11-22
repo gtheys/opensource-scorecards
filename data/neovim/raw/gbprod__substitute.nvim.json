@@ -1,6 +1,6 @@
 {
   "slug": "gbprod/substitute.nvim",
-  "fetched_at": "2026-11-21T11:17:57.393635521Z",
+  "fetched_at": "2026-11-22T11:40:33.663284042Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 14476
   },
   "slow_fetched_at": "2026-11-13T11:24:56.449710300Z",
-  "commits_etag": "\"98e693bfee96662ba2cb4aa21f4e1d22ef3fb9abeb21f075dafd2ceca315220e\"",
-  "releases_etag": "\"65fff20b699f73bf380b1a1b945907064d9d32f5ea535c8344297d15c8d7d65b\""
+  "commits_etag": "\"89371f71907ee437c7d3f497b38815d5be5ce447fbd33007b269351ef6001d3c\"",
+  "releases_etag": "\"4c3683b4554329616ac265dbd87b318fab356fd7ac35ee744185a0b658c847e5\""
 }

@@ -1,6 +1,6 @@
 {
   "slug": "kokusenz/deltaview.nvim",
-  "fetched_at": "2026-11-21T11:25:17.937709278Z",
+  "fetched_at": "2026-11-22T11:47:48.811616796Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 13742
   },
   "slow_fetched_at": "2026-11-14T10:50:16.607984397Z",
-  "commits_etag": "\"cb20dc09a7d383fa6a51e3b2a12e7b8b38ce7555178782de4d5f16555361aad2\"",
-  "releases_etag": "\"2c04a1f28e0ba125cb22a0bddedf8bf50b47a0534acd1abd7816f7622d90674a\""
+  "commits_etag": "\"8178a788338ccaec5bc3a1c6e46340f68e6aa2373657e00a45c6806978fdb0b1\"",
+  "releases_etag": "\"61e3edb30ef61e06e283236939a07f3fba90af808bbdd9c52d9252245a1236f7\""
 }

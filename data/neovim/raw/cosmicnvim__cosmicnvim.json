@@ -1,6 +1,6 @@
 {
   "slug": "cosmicnvim/cosmicnvim",
-  "fetched_at": "2026-11-21T11:11:08.947359510Z",
+  "fetched_at": "2026-11-22T11:33:49.164695798Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 10754
   },
   "slow_fetched_at": "2026-11-13T11:13:53.186908857Z",
-  "commits_etag": "\"dc30f24abca893985b3d85b8c6da2e4f89d31aeaddb758958679f6f85c44b9fb\"",
-  "releases_etag": "\"7b4e252a6cec1746b5e5bad8cbeff6f56ce339ad81548182ac1f6dafb0fa52cb\""
+  "commits_etag": "\"ab3bc1477b52ba49b66e53b0fd099f8fcbc3dc599f15eeb3babacc96fe4ead02\"",
+  "releases_etag": "\"24b4ffb1681e52cca42a0abd0a85505c390185eda832a019c0990f7196f11368\""
 }

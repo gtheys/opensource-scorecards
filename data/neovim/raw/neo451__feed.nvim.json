@@ -1,11 +1,11 @@
 {
   "slug": "neo451/feed.nvim",
-  "fetched_at": "2026-11-21T11:33:55.875084896Z",
+  "fetched_at": "2026-11-22T11:56:25.913387240Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 209,
-    "forks": 3,
+    "stars": 210,
+    "forks": 4,
     "description": "Neovim feed reader, rss, atom and jsonfeed, all in lua",
     "license_spdx": "GPL-3.0",
     "last_commit_at": "2026-10-06T06:34:18Z",
@@ -27,6 +27,6 @@
     "readme_len": 4523
   },
   "slow_fetched_at": "2026-11-16T11:59:25.085023896Z",
-  "commits_etag": "\"9d0622f1d6db3badabee3c8c4415e7d0e343a2352e5c568c4b7b4193980b736d\"",
-  "releases_etag": "\"756fd5564caabdc6e60ff5d6a492e72aa70d46865dfec8cf3705b98bcd969ffa\""
+  "commits_etag": "\"332f6915b7c80141a626cee7f6da05de24c52d1660b0804a214ec7317009dafb\"",
+  "releases_etag": "\"3d461bcd5d67838185c1c46f9ff55f7ce70f4cbca1f8a0c5de2173348a39bc93\""
 }

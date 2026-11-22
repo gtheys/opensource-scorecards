@@ -1,6 +1,6 @@
 {
   "slug": "mrjones2014/codesettings.nvim",
-  "fetched_at": "2026-11-21T11:32:37.003210452Z",
+  "fetched_at": "2026-11-22T11:55:09.270191486Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -16,7 +16,7 @@
     "open_issues": 3,
     "closed_issues_sampled": 2,
     "contributors_12mo": 5,
-    "top_author_commit_share": 0.9624413145539906,
+    "top_author_commit_share": 0.9620853080568721,
     "top_author": {
       "login": "mrjones2014",
       "account_created_at": "2014-09-03T23:51:58Z",
@@ -27,6 +27,6 @@
     "readme_len": 29076
   },
   "slow_fetched_at": "2026-11-15T11:24:29.813030652Z",
-  "commits_etag": "\"cde2329fec5c8ace354b9b0152a3faf23e85ff7bedea8c2515e1a1d1cb80e97b\"",
-  "releases_etag": "\"38cb351b677d7033fe8e1943303bb79e078b77f75757f0f72d9affc4d94ed6fa\""
+  "commits_etag": "\"8367d9c217a76231fc7922af0ddabc794f8cba873e27cc5828a67db827dac2ca\"",
+  "releases_etag": "\"8587a9986e8e431b6dc1673a6b964e85a275ac2f9bf2dad82ace6c5a5f261a92\""
 }

@@ -1,6 +1,6 @@
 {
   "slug": "akinsho/bufferline.nvim",
-  "fetched_at": "2026-11-21T11:04:32.289976682Z",
+  "fetched_at": "2026-11-22T11:27:01.850517513Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 12641
   },
   "slow_fetched_at": "2026-11-13T11:04:13.429097843Z",
-  "commits_etag": "\"df62e794bc6091c4b45759cdaae85f6aa7b89e53cd4bebe8d6587d08e20dd37c\"",
-  "releases_etag": "\"aec113a8948df37d605ce7d4ea9e5fd17bfe267c91c4d67bf193247b75bad48c\""
+  "commits_etag": "\"131f7bcc857eaaf008e9d70db5f7db8068a0c7a0667ad55d8a88ac574d582ecc\"",
+  "releases_etag": "\"77989ef3b0191cc43940df33914e8c9480287149a4821c2c0e0f01b5023008b2\""
 }

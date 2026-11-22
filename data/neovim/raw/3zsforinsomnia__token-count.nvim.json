@@ -1,6 +1,6 @@
 {
   "slug": "3zsforinsomnia/token-count.nvim",
-  "fetched_at": "2026-11-21T11:03:15.265524924Z",
+  "fetched_at": "2026-11-22T11:25:44.522050181Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 8623
   },
   "slow_fetched_at": "2026-11-13T11:02:16.706116592Z",
-  "commits_etag": "\"cde1f368934eff018b756d7934b59de342d31d2df1da947f78613990b1e6e277\"",
-  "releases_etag": "\"2c04a1f28e0ba125cb22a0bddedf8bf50b47a0534acd1abd7816f7622d90674a\""
+  "commits_etag": "\"646a0dd5ac9695f90057031274d602902e36a4050edcbb4fcf84978953a01b9a\"",
+  "releases_etag": "\"61e3edb30ef61e06e283236939a07f3fba90af808bbdd9c52d9252245a1236f7\""
 }

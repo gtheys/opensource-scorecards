@@ -1,6 +1,6 @@
 {
   "slug": "cxwx/shadowmyname.nvim",
-  "fetched_at": "2026-11-21T11:12:17.604163846Z",
+  "fetched_at": "2026-11-22T11:34:56.312307423Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 4405
   },
   "slow_fetched_at": "2026-11-13T11:15:37.192758458Z",
-  "commits_etag": "\"243c6e93333f5cfd65dcd9a09a2325f934671d3a01d56647b18b7c8263cdf9d5\"",
-  "releases_etag": "\"2c04a1f28e0ba125cb22a0bddedf8bf50b47a0534acd1abd7816f7622d90674a\""
+  "commits_etag": "\"1c3fe31ce30511ff2384f775eeee4e1d4ba4d02fa3a6df8db1536fc583543ee6\"",
+  "releases_etag": "\"61e3edb30ef61e06e283236939a07f3fba90af808bbdd9c52d9252245a1236f7\""
 }

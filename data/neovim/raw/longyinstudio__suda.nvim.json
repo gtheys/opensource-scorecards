@@ -1,6 +1,6 @@
 {
   "slug": "longyinstudio/suda.nvim",
-  "fetched_at": "2026-11-21T11:27:27.635246524Z",
+  "fetched_at": "2026-11-22T11:50:04.831876878Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 1906
   },
   "slow_fetched_at": "2026-11-14T10:53:03.622051266Z",
-  "commits_etag": "\"6d743e2ee3aed3d1d3ca67900957c23b98a4f6098e7d92ddf37fddf1a08b59a8\"",
-  "releases_etag": "\"2c04a1f28e0ba125cb22a0bddedf8bf50b47a0534acd1abd7816f7622d90674a\""
+  "commits_etag": "\"2d2d17b020de6d124ad3d31842d4e964e08fdba50626ade9b4e6835b99663596\"",
+  "releases_etag": "\"61e3edb30ef61e06e283236939a07f3fba90af808bbdd9c52d9252245a1236f7\""
 }

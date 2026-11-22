@@ -1,10 +1,10 @@
 {
   "slug": "edeneast/nightfox.nvim",
-  "fetched_at": "2026-11-21T11:14:54.410725893Z",
+  "fetched_at": "2026-11-22T11:37:38.405809884Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 4102,
+    "stars": 4103,
     "forks": 174,
     "description": "🦊A highly customizable theme for vim and neovim with support for lsp, treesitter and a variety of plugins.",
     "license_spdx": "MIT",
@@ -18,15 +18,15 @@
     "contributors_12mo": 2,
     "top_author_commit_share": 0.5,
     "top_author": {
-      "login": "meichuanyi",
-      "account_created_at": "2018-01-03T06:56:47Z",
-      "other_repos_star_sum": 1
+      "login": "jackson2608",
+      "account_created_at": "2016-09-22T16:45:38Z",
+      "other_repos_star_sum": 0
     },
     "has_ci": true,
     "has_tests": true,
     "readme_len": 25229
   },
   "slow_fetched_at": "2026-11-13T11:20:18.952825340Z",
-  "commits_etag": "\"a1bb1aa03e3c66346bd7118a73f6a715baef5f70ea970d069dcf0c02b132b5d3\"",
-  "releases_etag": "\"fb58453914964298f71e0d6ebdb6edfb48ad75947302a98524a771e5dd00560c\""
+  "commits_etag": "\"66d9bf1c56f8d877e3e2e90d550d3366565e06e024c043e4caef139ae5f20b6d\"",
+  "releases_etag": "\"6450a6d8a829d77f01f5b73f2e6ebec80518415d816ca202575db6b9c1daee1c\""
 }

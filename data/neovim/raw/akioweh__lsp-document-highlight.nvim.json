@@ -1,6 +1,6 @@
 {
   "slug": "akioweh/lsp-document-highlight.nvim",
-  "fetched_at": "2026-11-21T11:04:38.965743706Z",
+  "fetched_at": "2026-11-22T11:27:09.079707036Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 3892
   },
   "slow_fetched_at": "2026-11-13T11:04:22.141382285Z",
-  "commits_etag": "\"955091d2aa5a1f912a010916c3c9ad1977cbbbc6ecade5c913bfc16464663689\"",
-  "releases_etag": "\"5b842239f1cb1cd7b312fe7ac09931ccdde7ed11c368976fc0864b128b09234c\""
+  "commits_etag": "\"d16c76aa8355c202a5d40d951e2b2adf2a8159f0f03c0f4a6a1e9275d8f8a58c\"",
+  "releases_etag": "\"cc19e232016ab0ad7cb135aa805beaa0bafa6ae375e379f9b78833e8b09cae72\""
 }

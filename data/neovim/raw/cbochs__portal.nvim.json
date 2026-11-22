@@ -1,6 +1,6 @@
 {
   "slug": "cbochs/portal.nvim",
-  "fetched_at": "2026-11-21T11:08:58.307886946Z",
+  "fetched_at": "2026-11-22T11:31:31.659030591Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 19111
   },
   "slow_fetched_at": "2026-11-13T11:10:48.880875874Z",
-  "commits_etag": "\"80cf0758b25b83ff223cd016ff2d7810a60a3e9a5a24e8f68c2637193585129b\"",
-  "releases_etag": "\"0df79b8a62444c0228643b93aa85fb5ae92b0003c4a954d76a2493737b658cb6\""
+  "commits_etag": "\"a5083f3ac1a6bc2ec7bce1a467fbb876954c7fb4150f9d158f18c32bd465ffee\"",
+  "releases_etag": "\"d8d13f4f9448de0a061242ef6fb265141f6dbb5cefd28301ef94f20fcd43224e\""
 }

@@ -1,6 +1,6 @@
 {
   "slug": "3zsforinsomnia/pacer.nvim",
-  "fetched_at": "2026-11-21T11:03:12.948293094Z",
+  "fetched_at": "2026-11-22T11:25:42.111541127Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 5964
   },
   "slow_fetched_at": "2026-11-13T11:02:12.842204738Z",
-  "commits_etag": "\"62c0b08731080b203ef267e63509fd28ebb5294c8c5359fdc3f42114f97246ba\"",
-  "releases_etag": "\"2c04a1f28e0ba125cb22a0bddedf8bf50b47a0534acd1abd7816f7622d90674a\""
+  "commits_etag": "\"a36f0dc501389b46a8a877d63268056c413204778fbc2f1928713223e01f82a0\"",
+  "releases_etag": "\"61e3edb30ef61e06e283236939a07f3fba90af808bbdd9c52d9252245a1236f7\""
 }

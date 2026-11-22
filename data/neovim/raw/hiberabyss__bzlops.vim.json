@@ -1,6 +1,6 @@
 {
   "slug": "hiberabyss/bzlops.vim",
-  "fetched_at": "2026-11-21T11:19:42.755300654Z",
+  "fetched_at": "2026-11-22T11:42:15.007970722Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 2123
   },
   "slow_fetched_at": "2026-11-13T11:27:35.570851522Z",
-  "commits_etag": "\"bd55b83e2cf214e4d98ff52cae5503d8aa1bcecc3515234d8616d9ddc6d77f5d\"",
-  "releases_etag": "\"2c04a1f28e0ba125cb22a0bddedf8bf50b47a0534acd1abd7816f7622d90674a\""
+  "commits_etag": "\"cee87c8dd8d726350a17dd501c15e1fd063ed248282fb898e916f6d5f2c72624\"",
+  "releases_etag": "\"61e3edb30ef61e06e283236939a07f3fba90af808bbdd9c52d9252245a1236f7\""
 }

@@ -1,6 +1,6 @@
 {
   "slug": "iquzart/toggleword.nvim",
-  "fetched_at": "2026-11-21T11:20:58.713164598Z",
+  "fetched_at": "2026-11-22T11:43:31.166927896Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 1728
   },
   "slow_fetched_at": "2026-11-13T11:29:27.225772815Z",
-  "commits_etag": "\"936017a073a70a81b1f042ba41a9e94931a01efda350cada89f9ded84f967343\"",
-  "releases_etag": "\"3c922f1445a0f2f4ba7ee12a958801202a967fb3b3b2560a5ea1e77c0262ecc2\""
+  "commits_etag": "\"bcbf058f118427b438888dc197133abf25ba0ff734e455ecddda5498a178df6e\"",
+  "releases_etag": "\"0a89021a133a4c63635809711186ce7b472972e58298362a5d3e12072c95f906\""
 }

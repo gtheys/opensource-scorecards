@@ -1,6 +1,6 @@
 {
   "slug": "mrcjkb/rustaceanvim",
-  "fetched_at": "2026-11-21T11:32:29.575109584Z",
+  "fetched_at": "2026-11-22T11:55:01.293746132Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -8,15 +8,15 @@
     "forks": 137,
     "description": "🦀 Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim",
     "license_spdx": "GPL-2.0",
-    "last_commit_at": "2026-11-21T00:25:27Z",
+    "last_commit_at": "2026-11-22T00:27:21Z",
     "commits_90d": 76,
     "releases_365d": 36,
     "median_issue_close_days": 0.10908564814814815,
-    "median_pr_close_days": 0.0027199074074074074,
+    "median_pr_close_days": 0.0027083333333333334,
     "open_issues": 20,
     "closed_issues_sampled": 1,
     "contributors_12mo": 14,
-    "top_author_commit_share": 0.9381107491856677,
+    "top_author_commit_share": 0.9383116883116883,
     "top_author": {
       "login": "mrcjkb",
       "account_created_at": "2015-06-12T07:36:11Z",
@@ -27,6 +27,6 @@
     "readme_len": 31617
   },
   "slow_fetched_at": "2026-11-15T11:24:22.332974615Z",
-  "commits_etag": "\"7305937c3d8ba40ed29ca1caa9c18bf8c9bd02648bce54d75005d4d89f58e4c6\"",
-  "releases_etag": "\"5ac57950a60940d338dd9b03ecff4b02b09d944163a930a32f9e84db6cd894b8\""
+  "commits_etag": "\"e3754bab86c6b2193c9203a1670dd36d897a0bd5dbf5e4415ab5b8fc3c4cc571\"",
+  "releases_etag": "\"4036423bc6cb5581169e057798c74067a4927d1870caf3903fc6b0c7fadd0f39\""
 }

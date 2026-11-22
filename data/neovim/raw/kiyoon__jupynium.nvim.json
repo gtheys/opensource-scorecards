@@ -1,6 +1,6 @@
 {
   "slug": "kiyoon/jupynium.nvim",
-  "fetched_at": "2026-11-21T11:24:46.357654603Z",
+  "fetched_at": "2026-11-22T11:47:21.287547726Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -18,15 +18,15 @@
     "contributors_12mo": 3,
     "top_author_commit_share": 0.3333333333333333,
     "top_author": {
-      "login": "HuntFeng",
-      "account_created_at": "2017-11-12T07:21:11Z",
-      "other_repos_star_sum": 208
+      "login": "zalt50",
+      "account_created_at": "2013-03-01T07:07:48Z",
+      "other_repos_star_sum": 2
     },
     "has_ci": true,
     "has_tests": true,
     "readme_len": 23700
   },
   "slow_fetched_at": "2026-11-14T10:49:39.442786646Z",
-  "commits_etag": "\"07d2210c3a9721376b0e661316956a094f3948e99dee8bff053e9fa96015ae90\"",
-  "releases_etag": "\"00176cce7927d75bcc6b8e0a33cf09e0200545d6228bad23ded41774a7397aeb\""
+  "commits_etag": "\"2deb7fc3c8faee8ef49ae7f2d5799429ce9f7b61da579b42e5f00fbda2b3b03a\"",
+  "releases_etag": "\"d0b33b6a6e6d17187b3ebce93f5f6916f99ecf2936fcc2d91ca41f3e4a578f9e\""
 }

@@ -1,6 +1,6 @@
 {
   "slug": "flemma-dev/flemma.nvim",
-  "fetched_at": "2026-11-21T11:16:27.483370272Z",
+  "fetched_at": "2026-11-22T11:39:11.827215656Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 30085
   },
   "slow_fetched_at": "2026-11-13T11:22:52.619837238Z",
-  "commits_etag": "\"eed9c16bdc40f9d0b561893869b78f8bb77920bb691051361e36d42e824642ec\"",
-  "releases_etag": "\"61bf683ea291ae2e86ad1880fa5a085324dd4a6531ce2c74f1b7ac6dc2402f7f\""
+  "commits_etag": "\"d6a90fa40a28e054bafa2660ab92234eb17d7e1b77982c48d5e9204783f8f587\"",
+  "releases_etag": "\"19da8145abb1dd57f445d81892187c5055b00280081096dcba3be5ab0e12ef97\""
 }

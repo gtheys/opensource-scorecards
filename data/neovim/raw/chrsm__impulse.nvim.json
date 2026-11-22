@@ -1,6 +1,6 @@
 {
   "slug": "chrsm/impulse.nvim",
-  "fetched_at": "2026-11-21T11:10:18.602807845Z",
+  "fetched_at": "2026-11-22T11:32:55.792241749Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 3316
   },
   "slow_fetched_at": "2026-11-13T11:12:40.447882024Z",
-  "commits_etag": "\"e7fb638fce487da93ae2e240839a114618d1970f3f9ca1976ae70eade58603ce\"",
-  "releases_etag": "\"2c04a1f28e0ba125cb22a0bddedf8bf50b47a0534acd1abd7816f7622d90674a\""
+  "commits_etag": "\"541e298156ab579da02a77674ff9e08c2be6ec81a5b076819358d56d7eb584c4\"",
+  "releases_etag": "\"61e3edb30ef61e06e283236939a07f3fba90af808bbdd9c52d9252245a1236f7\""
 }

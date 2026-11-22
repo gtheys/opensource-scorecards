@@ -1,6 +1,6 @@
 {
   "slug": "mofiqul/vscode.nvim",
-  "fetched_at": "2026-11-21T11:31:37.122111709Z",
+  "fetched_at": "2026-11-22T11:54:11.767261186Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 6872
   },
   "slow_fetched_at": "2026-11-15T11:23:21.377730050Z",
-  "commits_etag": "\"ac3afdc3b1d7126db11a7d4302eb679298cd710b35c1cf7d291287c498d6a685\"",
-  "releases_etag": "\"2c04a1f28e0ba125cb22a0bddedf8bf50b47a0534acd1abd7816f7622d90674a\""
+  "commits_etag": "\"0ac5398169bf2aac9de9a4e94f3914a4d03d29b88c4f2f4493dac1dad3a8b796\"",
+  "releases_etag": "\"61e3edb30ef61e06e283236939a07f3fba90af808bbdd9c52d9252245a1236f7\""
 }

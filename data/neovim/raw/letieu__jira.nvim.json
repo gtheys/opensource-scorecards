@@ -1,6 +1,6 @@
 {
   "slug": "letieu/jira.nvim",
-  "fetched_at": "2026-11-21T11:26:21.446096455Z",
+  "fetched_at": "2026-11-22T11:48:57.373467530Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 7878
   },
   "slow_fetched_at": "2026-11-14T10:51:40.258368543Z",
-  "commits_etag": "\"2aa89dfc604f6e4921d415c9bce55ae27d7e9e31db541340bfc97a39b1a55a11\"",
-  "releases_etag": "\"2fa21962ccf2425b4bd1c9fac994ac88bda091e61b9974550eedf5076b875470\""
+  "commits_etag": "\"3656fbacf4083de552c74bb9d5109a671b72d0b55f9f2c3257db12a16012d529\"",
+  "releases_etag": "\"21468bc047fad2acb4d7504a671db767f038f87a9a103a148ebb6930aabbafa1\""
 }

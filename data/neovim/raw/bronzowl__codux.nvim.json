@@ -1,6 +1,6 @@
 {
   "slug": "bronzowl/codux.nvim",
-  "fetched_at": "2026-11-21T11:08:26.349746399Z",
+  "fetched_at": "2026-11-22T11:30:59.232519065Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 21089
   },
   "slow_fetched_at": "2026-11-13T11:10:02.247719947Z",
-  "commits_etag": "\"ca3dc8de0535eb5aae330216ecce39c823d4ad6c3f3d4710f578473b013b1b20\"",
-  "releases_etag": "\"605bb595d4dff8d474b80e20421f7bfce2b13cbb4c135dbf60216b7725207429\""
+  "commits_etag": "\"cbd4babceaca6653c669e87c8bc050ec7aa1c7589366eb75eb1d4c9a1fc4f18d\"",
+  "releases_etag": "\"36883df0ca8bda1ad008f26f58b281bd4e04f9ecb8d36f53846d0a3d96fb5acf\""
 }

@@ -1,6 +1,6 @@
 {
   "slug": "imngzx/resonance.nvim",
-  "fetched_at": "2026-11-21T11:20:40.775711497Z",
+  "fetched_at": "2026-11-22T11:43:12.417408915Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -8,13 +8,13 @@
     "forks": 0,
     "description": "An actual optimized `vim.pack` wrapper that loves `vim.pack`",
     "license_spdx": "MIT",
-    "last_commit_at": "2026-11-20T16:54:48Z",
-    "commits_90d": 182,
-    "releases_365d": 1,
-    "median_issue_close_days": null,
+    "last_commit_at": "2026-11-22T07:35:00Z",
+    "commits_90d": 194,
+    "releases_365d": 4,
+    "median_issue_close_days": 1.5277604166666667,
     "median_pr_close_days": null,
-    "open_issues": 8,
-    "closed_issues_sampled": 0,
+    "open_issues": 0,
+    "closed_issues_sampled": 8,
     "contributors_12mo": 1,
     "top_author_commit_share": 1.0,
     "top_author": {
@@ -27,6 +27,6 @@
     "readme_len": 9630
   },
   "slow_fetched_at": "2026-11-13T11:29:00.963240634Z",
-  "commits_etag": "\"cbd3d662a157e4b09d9b95344ab8b04762f2d8629806a1ddcbe442964e0d6844\"",
-  "releases_etag": "\"a0a402b60b3865c19d35d8a3e45e6ae94ff6bbf3661b65ff1421ecfa168bfd1e\""
+  "commits_etag": "\"0bd16541fa6dd1295a32546eca7c5863f0b0490eaeb4a729ecfece188cc2c26b\"",
+  "releases_etag": "\"4c6fc7ef5437148c2ded0653332c503271f46ea653a64ac99412dd5053e64670\""
 }

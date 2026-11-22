@@ -1,6 +1,6 @@
 {
   "slug": "heilgar/nvim-http-client",
-  "fetched_at": "2026-11-21T11:19:40.050282603Z",
+  "fetched_at": "2026-11-22T11:42:11.391858518Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -18,15 +18,15 @@
     "contributors_12mo": 3,
     "top_author_commit_share": 0.3333333333333333,
     "top_author": {
-      "login": "kojidev",
-      "account_created_at": "2016-03-06T22:00:43Z",
-      "other_repos_star_sum": 0
+      "login": "HiMyNameIsIlNano",
+      "account_created_at": "2015-01-18T16:24:09Z",
+      "other_repos_star_sum": 18
     },
     "has_ci": true,
     "has_tests": true,
     "readme_len": 9870
   },
   "slow_fetched_at": "2026-11-13T11:27:30.666516096Z",
-  "commits_etag": "\"c9d95671f2d8f0ce31412a4165a5252cdbd3bc89de088804cce3485b33836f58\"",
-  "releases_etag": "\"5219e63d8a131fe48bee81800ae1a072376db56318a28da69db0be13cda7241c\""
+  "commits_etag": "\"10954a4072623c8b367eb7ad2b347cb9cdc7bf0edd365c48c366acf68aa6d7b9\"",
+  "releases_etag": "\"e0226a8cb1e92598b748d0518150e68938fc0308c325f3dbe78bd0556669c397\""
 }

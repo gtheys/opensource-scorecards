@@ -1,6 +1,6 @@
 {
   "slug": "moyiz/command-and-cursor.nvim",
-  "fetched_at": "2026-11-21T11:32:02.085221526Z",
+  "fetched_at": "2026-11-22T11:54:34.041181805Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 1373
   },
   "slow_fetched_at": "2026-11-15T11:23:48.571407314Z",
-  "commits_etag": "\"0dc306fda48913dde5a4846c983818ce7dbfd7b3a47af797d7ea091ff66fb0ac\"",
-  "releases_etag": "\"2c04a1f28e0ba125cb22a0bddedf8bf50b47a0534acd1abd7816f7622d90674a\""
+  "commits_etag": "\"a102a25579ee840ee0b94cde9609c1be926b8440e3fc3f5260b156a28d133817\"",
+  "releases_etag": "\"61e3edb30ef61e06e283236939a07f3fba90af808bbdd9c52d9252245a1236f7\""
 }

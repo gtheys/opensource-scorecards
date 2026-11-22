@@ -1,6 +1,6 @@
 {
   "slug": "carloscalla/notepad.nvim",
-  "fetched_at": "2026-11-21T11:08:45.244584719Z",
+  "fetched_at": "2026-11-22T11:31:18.480878544Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 1822
   },
   "slow_fetched_at": "2026-11-13T11:10:31.011637982Z",
-  "commits_etag": "\"25eb945d7f355f4553d3f7dc94c0e49cc8f68bb1277cd47dae4dd27d2d463ea3\"",
-  "releases_etag": "\"2c04a1f28e0ba125cb22a0bddedf8bf50b47a0534acd1abd7816f7622d90674a\""
+  "commits_etag": "\"0c97a6cf4d67e1b81125e2fb9d4124a5f84700525f740789466c6eba84f9bdb2\"",
+  "releases_etag": "\"61e3edb30ef61e06e283236939a07f3fba90af808bbdd9c52d9252245a1236f7\""
 }

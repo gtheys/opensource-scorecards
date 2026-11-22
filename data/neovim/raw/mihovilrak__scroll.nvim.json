@@ -1,6 +1,6 @@
 {
   "slug": "mihovilrak/scroll.nvim",
-  "fetched_at": "2026-11-21T11:30:22.596083801Z",
+  "fetched_at": "2026-11-22T11:52:59.102286030Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 15382
   },
   "slow_fetched_at": "2026-11-15T11:21:52.604144390Z",
-  "commits_etag": "\"249adc54cca03f0a854b256ddb4a1ee966758f6cb54d1849eed1f07d92333aaf\"",
-  "releases_etag": "\"2c04a1f28e0ba125cb22a0bddedf8bf50b47a0534acd1abd7816f7622d90674a\""
+  "commits_etag": "\"1d45af153cb11f5601b2f7c5ad60fc09257e5ff0a28770c4eba5e643a9d6ce2e\"",
+  "releases_etag": "\"61e3edb30ef61e06e283236939a07f3fba90af808bbdd9c52d9252245a1236f7\""
 }

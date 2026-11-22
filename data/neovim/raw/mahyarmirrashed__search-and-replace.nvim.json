@@ -1,6 +1,6 @@
 {
   "slug": "mahyarmirrashed/search-and-replace.nvim",
-  "fetched_at": "2026-11-21T11:28:47.021923420Z",
+  "fetched_at": "2026-11-22T11:51:24.760830411Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 3261
   },
   "slow_fetched_at": "2026-11-14T10:54:41.769037202Z",
-  "commits_etag": "\"5525d8589a4fce5dec045054f06a17b954e82d7c54754e64604a7e4ea270730c\"",
-  "releases_etag": "\"2c04a1f28e0ba125cb22a0bddedf8bf50b47a0534acd1abd7816f7622d90674a\""
+  "commits_etag": "\"aad8879f1ad6f2682804df0c691f9ff14254724813c465c6f191ef1a6f34620b\"",
+  "releases_etag": "\"61e3edb30ef61e06e283236939a07f3fba90af808bbdd9c52d9252245a1236f7\""
 }

@@ -1,6 +1,6 @@
 {
   "slug": "lionc/nest.nvim",
-  "fetched_at": "2026-11-21T11:27:18.648839414Z",
+  "fetched_at": "2026-11-22T11:49:55.966652202Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 5843
   },
   "slow_fetched_at": "2026-11-14T10:52:52.762725405Z",
-  "commits_etag": "\"75ad32de1eda4512235f5f22188f67adb6bdb50f04c2cc9376e804a5b2419361\"",
-  "releases_etag": "\"7e499c3fcc22c50e3bea651b649a9d5cfac8b19f3dea7798f523c2f13233b14f\""
+  "commits_etag": "\"4c43e130cb789602b4e1d3ba16eee0a08c789b13c692c37eb90d45a84818d798\"",
+  "releases_etag": "\"6aae256ad3f14e9c4eb93777f3cdd6e2565ca2ef97c23ecff560cb80722c11ea\""
 }

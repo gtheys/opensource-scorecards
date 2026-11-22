@@ -1,6 +1,6 @@
 {
   "slug": "jonestristand/dune.nvim",
-  "fetched_at": "2026-11-21T11:22:53.041694181Z",
+  "fetched_at": "2026-11-22T11:45:24.351208944Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 16649
   },
   "slow_fetched_at": "2026-11-14T10:47:07.449001048Z",
-  "commits_etag": "\"b20521e1c2d34d885d6b9329b2f9995cc20e3d896761b3cc4a8266f1986c9ac8\"",
-  "releases_etag": "\"2c04a1f28e0ba125cb22a0bddedf8bf50b47a0534acd1abd7816f7622d90674a\""
+  "commits_etag": "\"65e704de45a02ad16621b882918b2c41962663eee7982f101e40fd0c4e400cc1\"",
+  "releases_etag": "\"61e3edb30ef61e06e283236939a07f3fba90af808bbdd9c52d9252245a1236f7\""
 }

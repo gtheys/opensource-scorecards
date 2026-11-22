@@ -1,6 +1,6 @@
 {
   "slug": "cd-4/git-needy.nvim",
-  "fetched_at": "2026-11-21T11:09:00.417510693Z",
+  "fetched_at": "2026-11-22T11:31:34.046121088Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 5618
   },
   "slow_fetched_at": "2026-11-13T11:10:52.085112335Z",
-  "commits_etag": "\"ded255dacc705217500d1756027d378ebd1aa1d31497ae76fe570f250b27da40\"",
-  "releases_etag": "\"2c04a1f28e0ba125cb22a0bddedf8bf50b47a0534acd1abd7816f7622d90674a\""
+  "commits_etag": "\"ea11cabeb139c626cf60a43f7e3ca0351d8cf1542fdf2ec3d058c18e958959b2\"",
+  "releases_etag": "\"61e3edb30ef61e06e283236939a07f3fba90af808bbdd9c52d9252245a1236f7\""
 }

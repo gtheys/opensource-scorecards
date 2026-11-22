@@ -1,6 +1,6 @@
 {
   "slug": "gaborvecsei/cryptoprice.nvim",
-  "fetched_at": "2026-11-21T11:17:46.362521151Z",
+  "fetched_at": "2026-11-22T11:40:23.508296498Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 2893
   },
   "slow_fetched_at": "2026-11-13T11:24:38.612831781Z",
-  "commits_etag": "\"5a6d8ee7008b323639de9bb2ea5782f5cb607d2db4f1811a479860a24a127cac\"",
-  "releases_etag": "\"2c04a1f28e0ba125cb22a0bddedf8bf50b47a0534acd1abd7816f7622d90674a\""
+  "commits_etag": "\"ad998fc18de113c1c9e0b69faf0ef5b7a74666739332364928490930030b1294\"",
+  "releases_etag": "\"61e3edb30ef61e06e283236939a07f3fba90af808bbdd9c52d9252245a1236f7\""
 }

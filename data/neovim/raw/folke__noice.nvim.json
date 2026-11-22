@@ -1,6 +1,6 @@
 {
   "slug": "folke/noice.nvim",
-  "fetched_at": "2026-11-21T11:16:53.460486764Z",
+  "fetched_at": "2026-11-22T11:39:34.785612348Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 40029
   },
   "slow_fetched_at": "2026-11-13T11:23:26.891582183Z",
-  "commits_etag": "\"dfc4b3e0990aa0fcf37a7fe4ea65d61e05c23c0ae7c470715ac139d9dc346b6e\"",
-  "releases_etag": "\"2bab8fe7ba14b5a3c2e6999807b4467cf59420c5959cdde03d2de6b2cfd17ed4\""
+  "commits_etag": "\"ee46ca553d747369b27326e7c7ee76d219ad7cda4397822fa5d98ebc90f7f5c2\"",
+  "releases_etag": "\"e64d963e7e3b3e658cf72bad57266c63a7d5ec0bceb17e60d38ef431073af101\""
 }

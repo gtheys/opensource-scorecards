@@ -1,6 +1,6 @@
 {
   "slug": "hawkinst/pathfinder.nvim",
-  "fetched_at": "2026-11-21T11:19:25.769933836Z",
+  "fetched_at": "2026-11-22T11:41:57.062749379Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 12072
   },
   "slow_fetched_at": "2026-11-13T11:27:07.890639192Z",
-  "commits_etag": "\"81a6411eb8fff003f43c36bc8a1118d8468b2993d44a8a586df9811f35f48414\"",
-  "releases_etag": "\"2c04a1f28e0ba125cb22a0bddedf8bf50b47a0534acd1abd7816f7622d90674a\""
+  "commits_etag": "\"917f5037d95985e509b3bc4bfa268178b4b9a4ea3b79b250fa4f7c32097b950d\"",
+  "releases_etag": "\"61e3edb30ef61e06e283236939a07f3fba90af808bbdd9c52d9252245a1236f7\""
 }

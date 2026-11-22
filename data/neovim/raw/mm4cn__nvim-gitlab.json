@@ -1,6 +1,6 @@
 {
   "slug": "mm4cn/nvim-gitlab",
-  "fetched_at": "2026-11-21T11:31:31.627953499Z",
+  "fetched_at": "2026-11-22T11:54:06.541477828Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "Gitlab actions in Neovim",
     "license_spdx": "MIT",
     "last_commit_at": "2026-11-02T21:54:39Z",
-    "commits_90d": 2,
+    "commits_90d": 1,
     "releases_365d": 2,
     "median_issue_close_days": null,
     "median_pr_close_days": null,
@@ -27,6 +27,6 @@
     "readme_len": 8361
   },
   "slow_fetched_at": "2026-11-15T11:23:14.573501827Z",
-  "commits_etag": "\"4ad45b6c7f1a082cb96d20b26c40ec1760c141b2d39a3b0de5e8c9aa1564be6a\"",
-  "releases_etag": "\"b99c2b4992556b69f1e1f0a49d95ceb32d1f699b7d12887211237e7c50371f18\""
+  "commits_etag": "\"2e40aadadf2b34ed6d45889cea5c4d6488faf0dd868eacf7fd48f2680b18f3f6\"",
+  "releases_etag": "\"d2d8ae190487c7a1480550c6b71393cfdc2c53a933d22dd6de52a59522c9be92\""
 }

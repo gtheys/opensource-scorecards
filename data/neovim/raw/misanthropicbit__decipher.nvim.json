@@ -1,6 +1,6 @@
 {
   "slug": "misanthropicbit/decipher.nvim",
-  "fetched_at": "2026-11-21T11:30:58.776176539Z",
+  "fetched_at": "2026-11-22T11:53:33.568286327Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 8101
   },
   "slow_fetched_at": "2026-11-15T11:22:35.297053961Z",
-  "commits_etag": "\"3e4dc6d81cc4a8e23f68a8d546e7281a0ed64ec3cf9f7ff91512e6a6a50ed0da\"",
-  "releases_etag": "\"46bc46e4594d02e14846160a493e9c5280147ac3384c6e4335fa43e0322e94e4\""
+  "commits_etag": "\"332ba75241f77109c6629410feac98fb44b6d69a581bb1aa6de95ca4142f549c\"",
+  "releases_etag": "\"4fa47d7f06d3f137258498447cff84aea80d89c850d5c65fb6ca4ac626018962\""
 }

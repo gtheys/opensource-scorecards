@@ -1,6 +1,6 @@
 {
   "slug": "ms-jpq/chadtree",
-  "fetched_at": "2026-11-21T11:32:56.225105941Z",
+  "fetched_at": "2026-11-22T11:55:28.713368545Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -8,25 +8,25 @@
     "forks": 61,
     "description": "File manager for Neovim. Better than NERDTree.",
     "license_spdx": "GPL-3.0",
-    "last_commit_at": "2026-01-18T02:14:58Z",
-    "commits_90d": 0,
+    "last_commit_at": "2026-11-22T09:16:21Z",
+    "commits_90d": 1,
     "releases_365d": 0,
     "median_issue_close_days": 154.39997685185185,
     "median_pr_close_days": 1.1191319444444445,
     "open_issues": 93,
     "closed_issues_sampled": 23,
     "contributors_12mo": 2,
-    "top_author_commit_share": 0.5,
+    "top_author_commit_share": 0.6666666666666666,
     "top_author": {
-      "login": "fooyoo",
-      "account_created_at": "2018-02-23T16:22:08Z",
-      "other_repos_star_sum": 2
+      "login": "ms-jpq",
+      "account_created_at": "2019-05-13T20:56:35Z",
+      "other_repos_star_sum": 9647
     },
     "has_ci": true,
     "has_tests": false,
     "readme_len": 5257
   },
   "slow_fetched_at": "2026-11-15T11:24:51.840795414Z",
-  "commits_etag": "\"65ec081591ab5e24efaec9f0de5193f2a228041faf88cc24d2ff2b2d1e0b3ba5\"",
-  "releases_etag": "\"2c04a1f28e0ba125cb22a0bddedf8bf50b47a0534acd1abd7816f7622d90674a\""
+  "commits_etag": "\"7b299be768ef3a5b895550b1106bbc16868171e7a42dab50935424212c14c912\"",
+  "releases_etag": "\"61e3edb30ef61e06e283236939a07f3fba90af808bbdd9c52d9252245a1236f7\""
 }
