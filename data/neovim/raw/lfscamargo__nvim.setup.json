@@ -1,6 +1,6 @@
 {
   "slug": "lfscamargo/nvim.setup",
-  "fetched_at": "2026-11-22T11:49:21.849700519Z",
+  "fetched_at": "2026-11-23T13:12:32.165221411Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -8,9 +8,9 @@
     "forks": 0,
     "description": "A portable Neovim config that puts your files, editor, and AI chats in one window. Extensible, allowing you to manage, themes, extensions, settings",
     "license_spdx": "MIT",
-    "last_commit_at": "2026-11-11T19:49:19Z",
-    "commits_90d": 134,
-    "releases_365d": 5,
+    "last_commit_at": "2026-11-22T23:07:51Z",
+    "commits_90d": 162,
+    "releases_365d": 7,
     "median_issue_close_days": null,
     "median_pr_close_days": 0.0009953703703703704,
     "open_issues": 0,
@@ -27,6 +27,6 @@
     "readme_len": 27270
   },
   "slow_fetched_at": "2026-11-14T10:52:11.160634369Z",
-  "commits_etag": "\"bb02b888250adc511049686ba1e58830023c935dfef969726665675737208512\"",
-  "releases_etag": "\"56bb7a6b65b9ea7bc644a06d92c48dea1d776de52a9f2e0ffb6c6eb673311b54\""
+  "commits_etag": "\"2ba0e2162617821a1db83dabd7facc2a27a650560b55626adf9d6df73e159c6b\"",
+  "releases_etag": "\"580ed4bb2f2b125fc19aeb239097e9364aed9a1136f7d48072fa294834cdcf32\""
 }

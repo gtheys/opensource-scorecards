@@ -1,6 +1,6 @@
 {
   "slug": "mauritz8/gitstatus.nvim",
-  "fetched_at": "2026-11-22T11:51:54.360402932Z",
+  "fetched_at": "2026-11-23T13:15:49.494473054Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 916
   },
   "slow_fetched_at": "2026-11-14T10:55:21.764654650Z",
-  "commits_etag": "\"cfe2b41395630215e4b0e40e0dd25aec52a4e1ce9293d071800e19f104abe26f\"",
-  "releases_etag": "\"61e3edb30ef61e06e283236939a07f3fba90af808bbdd9c52d9252245a1236f7\""
+  "commits_etag": "\"b10b4c66df38a9e17c1a7c3c5069d89e8a59bae70f3e987771ad1e514dd6faaa\"",
+  "releases_etag": "\"064b23601e52b2de987b73c46bc995a0139cbb7cccf2222e02509af7eed2edb4\""
 }

@@ -1,6 +1,6 @@
 {
   "slug": "duane9/nvim-rg",
-  "fetched_at": "2026-11-22T11:37:27.903676777Z",
+  "fetched_at": "2026-11-23T12:57:09.150956076Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 1017
   },
   "slow_fetched_at": "2026-11-13T11:19:54.144976629Z",
-  "commits_etag": "\"60e61d856a69d5af1bca7e29d920bc8d8c385d2963cbe4dd92b2077a88e252ad\"",
-  "releases_etag": "\"61e3edb30ef61e06e283236939a07f3fba90af808bbdd9c52d9252245a1236f7\""
+  "commits_etag": "\"2ceba4e5aaef091e6d76f382c3f536e09cbba71626b72d77c8c554d6fe1860da\"",
+  "releases_etag": "\"064b23601e52b2de987b73c46bc995a0139cbb7cccf2222e02509af7eed2edb4\""
 }

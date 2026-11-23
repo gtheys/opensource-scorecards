@@ -1,6 +1,6 @@
 {
   "slug": "mr-lllll/treesitter-outer",
-  "fetched_at": "2026-11-22T11:54:45.239745158Z",
+  "fetched_at": "2026-11-23T13:19:34.569155347Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 1787
   },
   "slow_fetched_at": "2026-11-15T11:24:03.583137337Z",
-  "commits_etag": "\"64eacd141d6a4ad9e09f8f777735e2ad14a62d93307ae667dc2e71595fc0435e\"",
-  "releases_etag": "\"61e3edb30ef61e06e283236939a07f3fba90af808bbdd9c52d9252245a1236f7\""
+  "commits_etag": "\"3fe953a6fae730c7bba4ffc7f68295a46409092c97c5c3eb879fc54d7987f4d0\"",
+  "releases_etag": "\"064b23601e52b2de987b73c46bc995a0139cbb7cccf2222e02509af7eed2edb4\""
 }

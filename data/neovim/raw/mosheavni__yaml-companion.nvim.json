@@ -1,6 +1,6 @@
 {
   "slug": "mosheavni/yaml-companion.nvim",
-  "fetched_at": "2026-11-22T11:54:27.648257603Z",
+  "fetched_at": "2026-11-23T13:19:12.914754529Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 13465
   },
   "slow_fetched_at": "2026-11-15T11:23:41.343435253Z",
-  "commits_etag": "\"ec45625cc461fa352ec4b70d7e7f6a380989ff81736120acd0ace565202684e4\"",
-  "releases_etag": "\"61e3edb30ef61e06e283236939a07f3fba90af808bbdd9c52d9252245a1236f7\""
+  "commits_etag": "\"0fd489b3012e2b9032d37a5852ec27113cf4579e9be9d5dc918134db9398f9b8\"",
+  "releases_etag": "\"064b23601e52b2de987b73c46bc995a0139cbb7cccf2222e02509af7eed2edb4\""
 }

@@ -1,6 +1,6 @@
 {
   "slug": "2kabhishek/seeker.nvim",
-  "fetched_at": "2026-11-22T11:25:26.386671733Z",
+  "fetched_at": "2026-11-23T12:41:01.508935124Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "Progressive file seeker for Neovim 🔍🎯",
     "license_spdx": "GPL-3.0",
     "last_commit_at": "2026-08-25T07:44:22Z",
-    "commits_90d": 8,
+    "commits_90d": 0,
     "releases_365d": 4,
     "median_issue_close_days": 101.4640914351852,
     "median_pr_close_days": 6.114010416666667,
@@ -27,6 +27,6 @@
     "readme_len": 10077
   },
   "slow_fetched_at": "2026-11-13T11:01:49.784121513Z",
-  "commits_etag": "\"b10843dd9e9ac8d8cad4fbefc6fad14c7828514a21ce722b4c91be35eab344c2\"",
-  "releases_etag": "\"20729b9d3b2eeadca9b58b25b71dbe9dc4187ecdc5e5c2850fdd0937cd548643\""
+  "commits_etag": "\"4be3bf92e687d9ae1047b80db2c3790d17b30b68cd2423e6a971b3a836ee4794\"",
+  "releases_etag": "\"9080f04d7e694c8ee1907cbcb0b5ceb8a4949962b1078e47835cbdd6a7e1edfc\""
 }

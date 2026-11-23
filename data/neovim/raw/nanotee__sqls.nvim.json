@@ -1,6 +1,6 @@
 {
   "slug": "nanotee/sqls.nvim",
-  "fetched_at": "2026-11-22T11:56:02.331862705Z",
+  "fetched_at": "2026-11-23T13:21:13.048001986Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 864
   },
   "slow_fetched_at": "2026-11-16T11:58:42.444427029Z",
-  "commits_etag": "\"c4b73e03cb9073499ec3a930eea6a5597e3abbdedc5bb89e94aafad6d7991232\"",
-  "releases_etag": "\"61e3edb30ef61e06e283236939a07f3fba90af808bbdd9c52d9252245a1236f7\""
+  "commits_etag": "\"d0b9fb8444f9abc3f5e29636c9ae96e81cbec4eb0ac8509e934ea234329e0d68\"",
+  "releases_etag": "\"064b23601e52b2de987b73c46bc995a0139cbb7cccf2222e02509af7eed2edb4\""
 }

@@ -1,6 +1,6 @@
 {
   "slug": "kiyoon/haskell-scope-highlighting.nvim",
-  "fetched_at": "2026-11-22T11:47:20.068530737Z",
+  "fetched_at": "2026-11-23T13:09:56.304653409Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 4687
   },
   "slow_fetched_at": "2026-11-14T10:49:37.594593109Z",
-  "commits_etag": "\"6e47588ba1f60407d4c2fadb7f1b8aae4e2bf48abbb2d708adb93e01adac4918\"",
-  "releases_etag": "\"61e3edb30ef61e06e283236939a07f3fba90af808bbdd9c52d9252245a1236f7\""
+  "commits_etag": "\"d10db9c9abde37776922d0e9b49be972247ff797cb9ac45021c4d344c4fd28d6\"",
+  "releases_etag": "\"064b23601e52b2de987b73c46bc995a0139cbb7cccf2222e02509af7eed2edb4\""
 }

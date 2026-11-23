@@ -1,6 +1,6 @@
 {
   "slug": "mm4cn/nvim-gitlab",
-  "fetched_at": "2026-11-22T11:54:06.541477828Z",
+  "fetched_at": "2026-11-23T13:18:42.698163180Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 8361
   },
   "slow_fetched_at": "2026-11-15T11:23:14.573501827Z",
-  "commits_etag": "\"2e40aadadf2b34ed6d45889cea5c4d6488faf0dd868eacf7fd48f2680b18f3f6\"",
-  "releases_etag": "\"d2d8ae190487c7a1480550c6b71393cfdc2c53a933d22dd6de52a59522c9be92\""
+  "commits_etag": "\"f264cc01c342906cbb668e59c05b9b5308c68d5cd506f8bc647c0ee34195c0c7\"",
+  "releases_etag": "\"57088fdb9a8be005135e6907248ba4262fda252a78c37859ad1900a8c4f3c043\""
 }

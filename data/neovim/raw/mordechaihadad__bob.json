@@ -1,22 +1,22 @@
 {
   "slug": "mordechaihadad/bob",
-  "fetched_at": "2026-11-22T11:54:21.057593728Z",
+  "fetched_at": "2026-11-23T13:19:04.801763148Z",
   "status": "ok",
   "data": {
     "archived": false,
     "stars": 2156,
-    "forks": 65,
+    "forks": 66,
     "description": "A version manager for neovim",
     "license_spdx": "MIT",
     "last_commit_at": "2026-10-30T11:23:38Z",
-    "commits_90d": 34,
-    "releases_365d": 6,
+    "commits_90d": 28,
+    "releases_365d": 5,
     "median_issue_close_days": 79.5752488425926,
     "median_pr_close_days": 1.249693287037037,
-    "open_issues": 12,
+    "open_issues": 14,
     "closed_issues_sampled": 34,
     "contributors_12mo": 6,
-    "top_author_commit_share": 0.8682634730538922,
+    "top_author_commit_share": 0.8674698795180723,
     "top_author": {
       "login": "MordechaiHadad",
       "account_created_at": "2017-11-10T12:43:50Z",
@@ -27,6 +27,6 @@
     "readme_len": 19001
   },
   "slow_fetched_at": "2026-11-15T11:23:33.718936245Z",
-  "commits_etag": "\"107507af6fc07bcca4cc46927d0531be433ff4e6f9f654b0a0594a24c2e14568\"",
-  "releases_etag": "\"dea307048bf6e2214f51a44cfe94d2d8b534b2c6294a45afc80a747b477b63bb\""
+  "commits_etag": "\"a90838fa4f8f02cc2cbf31438239639df4d3aa1e52f6f80237f821b4cb3989ae\"",
+  "releases_etag": "\"c3d581fe0df65965335a3b3f9daea9e73767326d4b97989f5ebffbaddf6e0b94\""
 }

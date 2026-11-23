@@ -1,6 +1,6 @@
 {
   "slug": "ms-jpq/chadtree",
-  "fetched_at": "2026-11-22T11:55:28.713368545Z",
+  "fetched_at": "2026-11-23T13:20:30.906030336Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 5257
   },
   "slow_fetched_at": "2026-11-15T11:24:51.840795414Z",
-  "commits_etag": "\"7b299be768ef3a5b895550b1106bbc16868171e7a42dab50935424212c14c912\"",
-  "releases_etag": "\"61e3edb30ef61e06e283236939a07f3fba90af808bbdd9c52d9252245a1236f7\""
+  "commits_etag": "\"0116b7488a43942551cc22cc0a79f4b2921765c7fb8060ed739a981ec587756a\"",
+  "releases_etag": "\"064b23601e52b2de987b73c46bc995a0139cbb7cccf2222e02509af7eed2edb4\""
 }

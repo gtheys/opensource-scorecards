@@ -1,6 +1,6 @@
 {
   "slug": "calops/hmts.nvim",
-  "fetched_at": "2026-11-22T11:31:06.301585455Z",
+  "fetched_at": "2026-11-23T12:49:10.841976141Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 5317
   },
   "slow_fetched_at": "2026-11-13T11:10:13.582458630Z",
-  "commits_etag": "\"cbe5d3e3b5f6cd96b9c012ca83e268a248d4cc895cc335af1eb5203a7c76111c\"",
-  "releases_etag": "\"0dead0e1cb8598f3a990c0b42f1f4026166f76dea833bdb6f553f118da110ef6\""
+  "commits_etag": "\"1a8da506c4b9674ac58d145518425b0445db889284ba7540deea84f6f5f225b8\"",
+  "releases_etag": "\"04cebeae9e0b9168d12f61b819843f17359f26eb95ae0f976a3dd9eb298b5998\""
 }

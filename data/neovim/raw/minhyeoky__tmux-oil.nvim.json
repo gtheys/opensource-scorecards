@@ -1,6 +1,6 @@
 {
   "slug": "minhyeoky/tmux-oil.nvim",
-  "fetched_at": "2026-11-22T11:53:30.716855179Z",
+  "fetched_at": "2026-11-23T13:17:58.012113629Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 11603
   },
   "slow_fetched_at": "2026-11-15T11:22:31.602805078Z",
-  "commits_etag": "\"b51314507da4a8b1bc50c4e781acabf8a909cc47e9705ac8cccb657a0b5abf66\"",
-  "releases_etag": "\"61e3edb30ef61e06e283236939a07f3fba90af808bbdd9c52d9252245a1236f7\""
+  "commits_etag": "\"5046e8ee9ead017cd549f2a49e286d775f001c8f8cfe62345969e97e6c9cbeda\"",
+  "releases_etag": "\"064b23601e52b2de987b73c46bc995a0139cbb7cccf2222e02509af7eed2edb4\""
 }

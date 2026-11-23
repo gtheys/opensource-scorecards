@@ -1,6 +1,6 @@
 {
   "slug": "adelarsq/image_preview.nvim",
-  "fetched_at": "2026-11-22T11:26:29.578338666Z",
+  "fetched_at": "2026-11-23T12:42:19.753288145Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 2584
   },
   "slow_fetched_at": "2026-11-13T11:03:21.510994742Z",
-  "commits_etag": "\"0cebb6a312aa58c73fe096c22d1ea311b96295edb4d87bae1870dac33c4e3e4c\"",
-  "releases_etag": "\"61e3edb30ef61e06e283236939a07f3fba90af808bbdd9c52d9252245a1236f7\""
+  "commits_etag": "\"3d44d9a7b7ec4be80dd787c21191d6b861144abf9df9ffc3333bb2a60eeecd5d\"",
+  "releases_etag": "\"064b23601e52b2de987b73c46bc995a0139cbb7cccf2222e02509af7eed2edb4\""
 }

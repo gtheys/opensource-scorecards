@@ -1,6 +1,6 @@
 {
   "slug": "davidyz/vectorcode",
-  "fetched_at": "2026-11-22T11:35:40.788798620Z",
+  "fetched_at": "2026-11-23T12:54:58.145555946Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -18,15 +18,15 @@
     "contributors_12mo": 2,
     "top_author_commit_share": 0.5,
     "top_author": {
-      "login": "larrybotha",
-      "account_created_at": "2012-03-07T07:56:11Z",
-      "other_repos_star_sum": 176
+      "login": "olimorris",
+      "account_created_at": "2014-11-02T11:41:08Z",
+      "other_repos_star_sum": 9545
     },
     "has_ci": true,
     "has_tests": true,
     "readme_len": 6451
   },
   "slow_fetched_at": "2026-11-13T11:16:56.314151875Z",
-  "commits_etag": "\"3892aaed66d56f546f1577bd1803a36784c6f211f54878fe9a7250bbea445539\"",
-  "releases_etag": "\"e81816cc299a11846615b53a1fad704d389ea1d57dc3f1db3a3a8074f30619e8\""
+  "commits_etag": "\"e7e45766ed05834051bad8715aecb06c7d9608364c0e4982d94c61c3559a653b\"",
+  "releases_etag": "\"30f2cbaa5c5f3d458d9065407bfb929c74a0ee54397e64d421d538a4f4b3d54c\""
 }

@@ -1,6 +1,6 @@
 {
   "slug": "jbyuki/one-small-step-for-vimkind",
-  "fetched_at": "2026-11-22T11:44:35.593802947Z",
+  "fetched_at": "2026-11-23T13:06:26.653282273Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 6819
   },
   "slow_fetched_at": "2026-11-14T10:46:07.136111478Z",
-  "commits_etag": "\"f60df6e5162231fe9debc0e2d014de212ef27c61afc91988376f8a9e4d458635\"",
-  "releases_etag": "\"61e3edb30ef61e06e283236939a07f3fba90af808bbdd9c52d9252245a1236f7\""
+  "commits_etag": "\"2a3a9dd3585f8b7f5514221b70275cc5710d82052bfc5a762872a97bef71ad2b\"",
+  "releases_etag": "\"064b23601e52b2de987b73c46bc995a0139cbb7cccf2222e02509af7eed2edb4\""
 }

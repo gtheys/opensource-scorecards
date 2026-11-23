@@ -1,6 +1,6 @@
 {
   "slug": "alanfortlink/blackjack.nvim",
-  "fetched_at": "2026-11-22T11:27:15.456536211Z",
+  "fetched_at": "2026-11-23T12:43:29.002184975Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 1367
   },
   "slow_fetched_at": "2026-11-13T11:04:32.218065721Z",
-  "commits_etag": "\"69e9ddfcd89044ce5aed02d4affe4364543fb16fc103285d100024339290200e\"",
-  "releases_etag": "\"61e3edb30ef61e06e283236939a07f3fba90af808bbdd9c52d9252245a1236f7\""
+  "commits_etag": "\"55a15ce5f1363229437f7310145909ba5612598ad9ba9cabc7c43fe898c08157\"",
+  "releases_etag": "\"064b23601e52b2de987b73c46bc995a0139cbb7cccf2222e02509af7eed2edb4\""
 }

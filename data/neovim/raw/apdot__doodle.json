@@ -1,6 +1,6 @@
 {
   "slug": "apdot/doodle",
-  "fetched_at": "2026-11-22T11:28:19.901459370Z",
+  "fetched_at": "2026-11-23T12:44:58.586999605Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 9229
   },
   "slow_fetched_at": "2026-11-13T11:06:05.627219101Z",
-  "commits_etag": "\"55c32bdc06e3c3d7b992064aee229496c44c1eb652bd6aeee42dc978b6a68ade\"",
-  "releases_etag": "\"b7ed82879cfecbf99e03db76e8f38237599ef31f141246789a84985ebb26b83a\""
+  "commits_etag": "\"9495eee16ab4ee3fb2e6f13328f5370b0051de24c83efff666c15cb4d7945296\"",
+  "releases_etag": "\"a73440c9f7645125939bb17748bc5b8461f0fd82195030fb0ad97994527e46cc\""
 }

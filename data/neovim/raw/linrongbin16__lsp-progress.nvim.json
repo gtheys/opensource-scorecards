@@ -1,6 +1,6 @@
 {
   "slug": "linrongbin16/lsp-progress.nvim",
-  "fetched_at": "2026-11-22T11:49:45.521830297Z",
+  "fetched_at": "2026-11-23T13:13:03.041444668Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 8212
   },
   "slow_fetched_at": "2026-11-14T10:52:40.146964657Z",
-  "commits_etag": "\"3d1865c9bfe0de8777b8268357ca9f8112062016c92ce3ccd2ac818060bc79ab\"",
-  "releases_etag": "\"1432e5d62d118e3366c0ff5a372fd235e8d1eb5a9232b758f4696b03c4942151\""
+  "commits_etag": "\"132fcc6ee3f2a44a81620784767ea24124e44f628d79aa5fe7540850a62c66ab\"",
+  "releases_etag": "\"dd3c2ded1951c33499a61e25a36e4d35a4a72292c9b766168e5a6a48d9d377a5\""
 }

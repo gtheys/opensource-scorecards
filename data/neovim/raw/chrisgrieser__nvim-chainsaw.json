@@ -1,6 +1,6 @@
 {
   "slug": "chrisgrieser/nvim-chainsaw",
-  "fetched_at": "2026-11-22T11:32:01.612597039Z",
+  "fetched_at": "2026-11-23T12:50:25.565949973Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 20996
   },
   "slow_fetched_at": "2026-11-13T11:11:30.822790531Z",
-  "commits_etag": "\"b1817d5512f0c5f5e7afc813caf33b67420648712544a70e6b9aca4fb5a02042\"",
-  "releases_etag": "\"61e3edb30ef61e06e283236939a07f3fba90af808bbdd9c52d9252245a1236f7\""
+  "commits_etag": "\"60972068aebb658d6fc521ba9e2f426b5c3777604ebea8816bbef2091a2705b1\"",
+  "releases_etag": "\"064b23601e52b2de987b73c46bc995a0139cbb7cccf2222e02509af7eed2edb4\""
 }

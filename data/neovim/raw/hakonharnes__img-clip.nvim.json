@@ -1,10 +1,10 @@
 {
   "slug": "hakonharnes/img-clip.nvim",
-  "fetched_at": "2026-11-22T11:41:41.871939003Z",
+  "fetched_at": "2026-11-23T13:02:43.738406151Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 949,
+    "stars": 950,
     "forks": 43,
     "description": "Embed images into any markup language, like LaTeX, Markdown or Typst",
     "license_spdx": "MIT",
@@ -27,6 +27,6 @@
     "readme_len": 22831
   },
   "slow_fetched_at": "2026-11-13T11:26:42.981157471Z",
-  "commits_etag": "\"6faa896ec8a32bfb27e31101ed537449e7201a34192fda40bb35435e4d2c7808\"",
-  "releases_etag": "\"be6529f1796f5a4f94b3284ca7c6e5d3c58ac45f0015ef2d7cbfbbf052fde784\""
+  "commits_etag": "\"f88a1e61a9f7a9357fbb04e295b4ffa63ee86d0346c63af9a3393da1a6d512b1\"",
+  "releases_etag": "\"d298183eac2611158179401962317058e1e4e19977836dafd9318918f734081b\""
 }

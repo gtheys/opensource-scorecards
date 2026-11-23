@@ -1,6 +1,6 @@
 {
   "slug": "alejandrosuero/freeze-code.nvim",
-  "fetched_at": "2026-11-22T11:27:19.091578415Z",
+  "fetched_at": "2026-11-23T12:43:32.422474048Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 5837
   },
   "slow_fetched_at": "2026-11-13T11:04:37.772642603Z",
-  "commits_etag": "\"0df4d76512f2614e87f80256f4aaf29a63e073e06558ffd3bfcc5a0a589c264e\"",
-  "releases_etag": "\"f7693fdf71fcfa6c6f0fd973267b394c0ebebc0b892513b01223f5f7e23280e2\""
+  "commits_etag": "\"e297fbfd2d236aabe7c82c99ff3b7dcc5c737546fa7aa874db7f40e5bbc53b3d\"",
+  "releases_etag": "\"83e7f16c175bd520b8ea32a8dd1e6d3235a0e3aa031b027ce94838905d341290\""
 }

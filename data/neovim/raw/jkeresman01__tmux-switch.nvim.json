@@ -1,6 +1,6 @@
 {
   "slug": "jkeresman01/tmux-switch.nvim",
-  "fetched_at": "2026-11-22T11:45:15.701534009Z",
+  "fetched_at": "2026-11-23T13:07:22.032066238Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 4493
   },
   "slow_fetched_at": "2026-11-14T10:46:55.933671801Z",
-  "commits_etag": "\"119b5d0301ed0a7ab1589c10a52dba6ca5440adfbb545c0b674c9af88a6210e0\"",
-  "releases_etag": "\"61e3edb30ef61e06e283236939a07f3fba90af808bbdd9c52d9252245a1236f7\""
+  "commits_etag": "\"05d49b25eee35acbfa856416f7acf0f4d729f564066af38999ca57e39b03211c\"",
+  "releases_etag": "\"064b23601e52b2de987b73c46bc995a0139cbb7cccf2222e02509af7eed2edb4\""
 }

@@ -1,10 +1,10 @@
 {
   "slug": "charmbracelet/freeze",
-  "fetched_at": "2026-11-22T11:31:37.895843970Z",
+  "fetched_at": "2026-11-23T12:49:53.742960697Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 4923,
+    "stars": 4924,
     "forks": 112,
     "description": "Generate images of code and terminal output 📸",
     "license_spdx": "MIT",
@@ -27,6 +27,6 @@
     "readme_len": 10706
   },
   "slow_fetched_at": "2026-11-13T11:10:58.421770683Z",
-  "commits_etag": "\"62d7a73560b6e71d8307c719718706ec95a3ccc44bc0b1f369cfab4529f7dece\"",
-  "releases_etag": "\"8173c33c44d1714c438decf2580f161152b8e25170e7d779ef5f59b9e6212e9a\""
+  "commits_etag": "\"f805cbb4c51215dca19f28f62faf59b001d8571fd0a9f71837e09f10f1a5e5f7\"",
+  "releases_etag": "\"6655fd61049a8f16defacbc43fb7e13a15ddd480622dc749011fe0a26942747b\""
 }

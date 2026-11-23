@@ -1,10 +1,10 @@
 {
   "slug": "mfussenegger/nvim-dap",
-  "fetched_at": "2026-11-22T11:52:28.473202468Z",
+  "fetched_at": "2026-11-23T13:16:36.095582185Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 7314,
+    "stars": 7315,
     "forks": 267,
     "description": "Debug Adapter Protocol client implementation for Neovim",
     "license_spdx": "GPL-3.0",
@@ -27,6 +27,6 @@
     "readme_len": 6070
   },
   "slow_fetched_at": "2026-11-15T11:21:17.874671873Z",
-  "commits_etag": "\"1be6118f06662bb031ac1593ede0e426293426b788b5324b52e6428feafd0510\"",
-  "releases_etag": "\"34a06c7898637b8ed5d05caf9b0aa06b906473a95c1d574b9840dc7b18a1f9ce\""
+  "commits_etag": "\"c05d60b64b5a677f3cb04e894590e6327f502ef353e7524fab2012481cbcdc88\"",
+  "releases_etag": "\"d558d4e2d59302e15cf9458e38c8bcfcc06fe86331fc0cfcfef0f8a8669b8102\""
 }

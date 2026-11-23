@@ -1,11 +1,11 @@
 {
   "slug": "jackmort/chatgpt.nvim",
-  "fetched_at": "2026-11-22T11:43:58.584563986Z",
+  "fetched_at": "2026-11-23T13:05:38.926233915Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 3986,
-    "forks": 312,
+    "stars": 3987,
+    "forks": 311,
     "description": "ChatGPT Neovim Plugin: Effortless Natural Language Generation with OpenAI's ChatGPT API",
     "license_spdx": "Apache-2.0",
     "last_commit_at": "2026-01-13T09:56:42Z",
@@ -27,6 +27,6 @@
     "readme_len": 13884
   },
   "slow_fetched_at": "2026-11-13T11:30:08.547100354Z",
-  "commits_etag": "\"ecf1d44e587e9131b5cd8c9a467568308c831e2573daad339932f5c7461ecf93\"",
-  "releases_etag": "\"2e6383a18ac37b4e9fbe5afc747b871cdd46508d9e62d155d332fc2b00b2cbad\""
+  "commits_etag": "\"41e6b27563786397b187d6341175bd6e67d9b3f48bf8bb52becba28d9343b4f2\"",
+  "releases_etag": "\"a98f3e6840c10b2f25ed4211d4647dd99ff1ab55ac64222c9ff0d720a8c202e0\""
 }

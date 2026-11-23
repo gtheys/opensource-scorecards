@@ -1,6 +1,6 @@
 {
   "slug": "kibi2/tirenvi.nvim",
-  "fetched_at": "2026-11-22T11:47:07.391647515Z",
+  "fetched_at": "2026-11-23T13:09:40.764543924Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 11856
   },
   "slow_fetched_at": "2026-11-14T10:49:20.947924128Z",
-  "commits_etag": "\"0f927a3ceefc36e4711f48359a7c00a5bbeb161251caf4e7b13d2bc60f807361\"",
-  "releases_etag": "\"2dfeba1a79fb8ec44879b8b0b2a81db22f204c0b4b7a893540017df1046a43f7\""
+  "commits_etag": "\"d7e7ed11f70095235a39667a2574155488de49e7c2325ff773fefdc9daf53c90\"",
+  "releases_etag": "\"de7f3bdd156490db72fa153fffc20b94d16cef0b70c8c0ca2e9e160b89c1eacb\""
 }

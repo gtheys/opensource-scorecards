@@ -1,6 +1,6 @@
 {
   "slug": "crusj/bookmarks.nvim",
-  "fetched_at": "2026-11-22T11:34:20.035237147Z",
+  "fetched_at": "2026-11-23T12:53:18.885712992Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 8922
   },
   "slow_fetched_at": "2026-11-13T11:14:34.604574144Z",
-  "commits_etag": "\"fb3ccf34f55af2a777a0301c4ba1498fe394b8d704e0945ab5df6a2eeaaf2abb\"",
-  "releases_etag": "\"61e3edb30ef61e06e283236939a07f3fba90af808bbdd9c52d9252245a1236f7\""
+  "commits_etag": "\"e1be6b32351fd66b0dc6de7bf1dd475c905756cb95ab15ca65b7c4ef38902c6b\"",
+  "releases_etag": "\"064b23601e52b2de987b73c46bc995a0139cbb7cccf2222e02509af7eed2edb4\""
 }

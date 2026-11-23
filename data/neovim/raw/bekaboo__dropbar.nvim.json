@@ -1,11 +1,11 @@
 {
   "slug": "bekaboo/dropbar.nvim",
-  "fetched_at": "2026-11-22T11:29:57.612961613Z",
+  "fetched_at": "2026-11-23T12:47:32.577078861Z",
   "status": "ok",
   "data": {
     "archived": false,
     "stars": 1614,
-    "forks": 47,
+    "forks": 48,
     "description": "IDE-like breadcrumbs, out of the box",
     "license_spdx": "GPL-3.0",
     "last_commit_at": "2026-11-15T14:28:55Z",
@@ -27,6 +27,6 @@
     "readme_len": 58803
   },
   "slow_fetched_at": "2026-11-13T11:08:34.471628711Z",
-  "commits_etag": "\"2fb904af437c5dff9d7cca988fbeb3c7fff93738c3b674635f4af23b91643dcb\"",
-  "releases_etag": "\"72c1e7dc2c319a65b6f74c567514c3a767d1af7c02c5162d0e4db209bff244ef\""
+  "commits_etag": "\"fd4bf294cfbdf63806ea5032b57303974b079a58890e18d53551a0049aeec8d3\"",
+  "releases_etag": "\"f39bdb6b3dfbf199acbbd626fa324fb8ccdead07c33d81be740e3a9a81e4171d\""
 }

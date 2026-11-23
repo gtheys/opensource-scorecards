@@ -1,6 +1,6 @@
 {
   "slug": "karnull/only-tmux.nvim",
-  "fetched_at": "2026-11-22T11:46:30.564485533Z",
+  "fetched_at": "2026-11-23T13:08:51.758906907Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 1117
   },
   "slow_fetched_at": "2026-11-14T10:48:30.704274198Z",
-  "commits_etag": "\"fd4665d6cfbf9988d4dc611cc4b3b7f6468ec645f67fa464b2fcc601438f4eaf\"",
-  "releases_etag": "\"61e3edb30ef61e06e283236939a07f3fba90af808bbdd9c52d9252245a1236f7\""
+  "commits_etag": "\"2a9fc222c3a394338243fba92c0a2e46ea70a6588d13b70ce8b7daae1edbcc81\"",
+  "releases_etag": "\"064b23601e52b2de987b73c46bc995a0139cbb7cccf2222e02509af7eed2edb4\""
 }

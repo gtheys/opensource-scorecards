@@ -1,6 +1,6 @@
 {
   "slug": "mrcjkb/kickstart-nix.nvim",
-  "fetched_at": "2026-11-22T11:54:58.894270354Z",
+  "fetched_at": "2026-11-23T13:19:51.875143007Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 12434
   },
   "slow_fetched_at": "2026-11-15T11:24:19.048906252Z",
-  "commits_etag": "\"266257452a06586bfcb6f5349b9b98d3fbe09a006270664143c57ef6c0aadee9\"",
-  "releases_etag": "\"61e3edb30ef61e06e283236939a07f3fba90af808bbdd9c52d9252245a1236f7\""
+  "commits_etag": "\"b902c1b0bc34064f3080712245f95483e39064f79e01039c984aa954cbb21d72\"",
+  "releases_etag": "\"064b23601e52b2de987b73c46bc995a0139cbb7cccf2222e02509af7eed2edb4\""
 }

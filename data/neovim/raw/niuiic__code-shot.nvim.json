@@ -1,6 +1,6 @@
 {
   "slug": "niuiic/code-shot.nvim",
-  "fetched_at": "2026-11-03T11:39:50.592462349Z",
+  "fetched_at": "2026-11-23T13:22:47.956418192Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -21,5 +21,8 @@
     "has_ci": false,
     "has_tests": false,
     "readme_len": 2804
-  }
+  },
+  "slow_fetched_at": "2026-11-23T13:22:47.956418192Z",
+  "commits_etag": "\"0800985889c67fe2a0cf48af94600ac04bd3fbd8481c40d0504ab20e798cbcd1\"",
+  "releases_etag": "\"064b23601e52b2de987b73c46bc995a0139cbb7cccf2222e02509af7eed2edb4\""
 }

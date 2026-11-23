@@ -1,6 +1,6 @@
 {
   "slug": "doehnert/laravel-log-watcher.nvim",
-  "fetched_at": "2026-11-22T11:36:44.711567585Z",
+  "fetched_at": "2026-11-23T12:56:17.443191250Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 5933
   },
   "slow_fetched_at": "2026-11-13T11:18:42.056073413Z",
-  "commits_etag": "\"fad62a069f203cc00edaeb39a33926c78bd13a3bc598a2a154066301c6c8a502\"",
-  "releases_etag": "\"61e3edb30ef61e06e283236939a07f3fba90af808bbdd9c52d9252245a1236f7\""
+  "commits_etag": "\"b40535afd61865e874519dee3421b392b845916f1c267092d374230234adb674\"",
+  "releases_etag": "\"064b23601e52b2de987b73c46bc995a0139cbb7cccf2222e02509af7eed2edb4\""
 }

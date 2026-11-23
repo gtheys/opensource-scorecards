@@ -1,6 +1,6 @@
 {
   "slug": "akmadan23/local-session.nvim",
-  "fetched_at": "2026-11-22T11:27:10.107333299Z",
+  "fetched_at": "2026-11-23T12:43:21.979041679Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 4698
   },
   "slow_fetched_at": "2026-11-13T11:04:24.090991154Z",
-  "commits_etag": "\"377cb7aeffd4fd867c4895389adf9b0c8db9053be8efbad4f76a2db2b9e6c3c7\"",
-  "releases_etag": "\"61e3edb30ef61e06e283236939a07f3fba90af808bbdd9c52d9252245a1236f7\""
+  "commits_etag": "\"85287002a7a17df95c59ff0efc2c48b12ff26ef5b8605025d6e134a57e74979e\"",
+  "releases_etag": "\"064b23601e52b2de987b73c46bc995a0139cbb7cccf2222e02509af7eed2edb4\""
 }

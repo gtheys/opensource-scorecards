@@ -1,6 +1,6 @@
 {
   "slug": "atusy/treemonkey.nvim",
-  "fetched_at": "2026-11-22T11:28:56.651388370Z",
+  "fetched_at": "2026-11-23T12:45:56.319623155Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 2636
   },
   "slow_fetched_at": "2026-11-13T11:07:00.813562843Z",
-  "commits_etag": "\"cce96eca6203b6a65f756f709faf0ffa187b87e43d3dc69ebac268d61fd65cf3\"",
-  "releases_etag": "\"6c9366bcb3ff5cc2b82182d83047ded36aac5e6e5d1960d901aa26b7c6003334\""
+  "commits_etag": "\"6331d63613a5f03b285732dcdbb72987b83ca11c90e14eb5945d82f69d02223a\"",
+  "releases_etag": "\"ab113b1f6702b2a5e641443ff722b7fc0c3394091b5d693dfebff5227eef9322\""
 }

@@ -1,6 +1,6 @@
 {
   "slug": "juniorsundar/cling.nvim",
-  "fetched_at": "2026-11-22T11:46:04.615957902Z",
+  "fetched_at": "2026-11-23T13:08:20.301350728Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "Thin wrapper around your command-line",
     "license_spdx": "MIT",
     "last_commit_at": "2026-09-20T13:48:57Z",
-    "commits_90d": 8,
+    "commits_90d": 2,
     "releases_365d": 6,
     "median_issue_close_days": 1.6977777777777778,
     "median_pr_close_days": 6.647060185185185,
@@ -27,6 +27,6 @@
     "readme_len": 16599
   },
   "slow_fetched_at": "2026-11-14T10:47:58.543378332Z",
-  "commits_etag": "\"afaaa73cfd5f15a80ab7214262b13d60f49e252897ca73f7d1eb790ef425bbf9\"",
-  "releases_etag": "\"9ccac758b0dbcf3f1b4ea5bb7c3feea6fe2d7658df8c5640161a536a2ca57f95\""
+  "commits_etag": "\"88f81a596b81b592629fd5a62f3f65d8e4d2d4b39907ad069bf03a21a85f8f19\"",
+  "releases_etag": "\"f4ecaee4ce0e2d822498dbca694e4b3b17904d51cdd8075150b62b993e8dbe11\""
 }

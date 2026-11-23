@@ -1,6 +1,6 @@
 {
   "slug": "b3nj5m1n/kommentary",
-  "fetched_at": "2026-11-22T11:29:29.353026922Z",
+  "fetched_at": "2026-11-23T12:46:45.768983039Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 11312
   },
   "slow_fetched_at": "2026-11-13T11:07:51.364198350Z",
-  "commits_etag": "\"cc1df4b86fb8f8aa2952772a7f090cfe6b45a8e31c3a51c519ffe7561590f693\"",
-  "releases_etag": "\"61e3edb30ef61e06e283236939a07f3fba90af808bbdd9c52d9252245a1236f7\""
+  "commits_etag": "\"f6a385694cdb8aa07d323c67402c3e2b892150e0fa79a4c9d1b279366f988ab9\"",
+  "releases_etag": "\"064b23601e52b2de987b73c46bc995a0139cbb7cccf2222e02509af7eed2edb4\""
 }

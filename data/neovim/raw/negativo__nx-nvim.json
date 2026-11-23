@@ -1,6 +1,6 @@
 {
   "slug": "negativo/nx-nvim",
-  "fetched_at": "2026-11-22T11:56:22.222106410Z",
+  "fetched_at": "2026-11-23T13:21:38.880138296Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 4200
   },
   "slow_fetched_at": "2026-11-16T11:59:18.612611818Z",
-  "commits_etag": "\"60c1fac679ba9d81ecf9f30ca528c4e7bbd9d389d30b0b9ca56e7bb34834b150\"",
-  "releases_etag": "\"61e3edb30ef61e06e283236939a07f3fba90af808bbdd9c52d9252245a1236f7\""
+  "commits_etag": "\"30cd63fd4ce8a52e521b94e5c266e2432ba652437b62d1a4d3d0aa0b95b4b661\"",
+  "releases_etag": "\"064b23601e52b2de987b73c46bc995a0139cbb7cccf2222e02509af7eed2edb4\""
 }

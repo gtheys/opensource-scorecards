@@ -1,6 +1,6 @@
 {
   "slug": "coder/claudecode.nvim",
-  "fetched_at": "2026-11-22T11:33:26.114118680Z",
+  "fetched_at": "2026-11-23T12:52:12.840672460Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 59712
   },
   "slow_fetched_at": "2026-11-13T11:13:23.225089620Z",
-  "commits_etag": "\"47ca746e6bd17c3bd79676fe948f7b932519a904c3a92dba4bc49a96c5651905\"",
-  "releases_etag": "\"f70afbfcee1cff9a42834fbcd4b9fd3a3207b6ff27e5108f27d5b3d54cd8cbdc\""
+  "commits_etag": "\"469afdfc170b298e7991b028579afda408af4809e2e40229a0c782fc2e77da9f\"",
+  "releases_etag": "\"170bb70401e4035eb24f010ebaed9eca220552935afb85da5d8d76828fc5683f\""
 }

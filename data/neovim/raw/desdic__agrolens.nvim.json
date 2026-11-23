@@ -1,6 +1,6 @@
 {
   "slug": "desdic/agrolens.nvim",
-  "fetched_at": "2026-11-22T11:35:55.859240189Z",
+  "fetched_at": "2026-11-23T12:55:17.455257380Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 8478
   },
   "slow_fetched_at": "2026-11-13T11:17:24.615503798Z",
-  "commits_etag": "\"a5b770bf0cfcf7cef6d32e338c17aac3e3f5f3b7802fec4ff15656420524164e\"",
-  "releases_etag": "\"3623bbb86e0482e3faf88026603943bfedbdb0796a88c291414d5f52b0d72d55\""
+  "commits_etag": "\"0bbf62f8cbaa725491bd7ef190df7f82c7670c3eae6be613c8ac516dfe770cbe\"",
+  "releases_etag": "\"d73aa3c751dbc892540ebac4212e9f91da527609f71e8a429e19fa43e8125c76\""
 }

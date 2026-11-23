@@ -1,6 +1,6 @@
 {
   "slug": "apeoplescalendar/apc.nvim",
-  "fetched_at": "2026-11-22T11:28:21.686032131Z",
+  "fetched_at": "2026-11-23T12:45:00.795281458Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 2304
   },
   "slow_fetched_at": "2026-11-13T11:06:08.868727629Z",
-  "commits_etag": "\"d1016b8bd4bc795c9dd14b93fea1f95b66dfe781b789b720b6511841d136960d\"",
-  "releases_etag": "\"61e3edb30ef61e06e283236939a07f3fba90af808bbdd9c52d9252245a1236f7\""
+  "commits_etag": "\"5ae9c1134669437459dd54294e9923c6ff15f284e25c5ab9b1af2161baa4fb3b\"",
+  "releases_etag": "\"064b23601e52b2de987b73c46bc995a0139cbb7cccf2222e02509af7eed2edb4\""
 }

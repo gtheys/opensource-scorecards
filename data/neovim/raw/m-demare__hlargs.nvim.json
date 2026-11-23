@@ -1,6 +1,6 @@
 {
   "slug": "m-demare/hlargs.nvim",
-  "fetched_at": "2026-11-22T11:51:04.463261493Z",
+  "fetched_at": "2026-11-23T13:14:44.895699509Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 7641
   },
   "slow_fetched_at": "2026-11-14T10:54:17.076733318Z",
-  "commits_etag": "\"b8368104766e69fb3ad316eaac9ff1c4d70d984e11576231d7c810b1cefbdbe4\"",
-  "releases_etag": "\"61e3edb30ef61e06e283236939a07f3fba90af808bbdd9c52d9252245a1236f7\""
+  "commits_etag": "\"79acd0e2ca4db1dab7e9c9712fdc702e76a2cd17c7b9c86ed65076bf75f2063b\"",
+  "releases_etag": "\"064b23601e52b2de987b73c46bc995a0139cbb7cccf2222e02509af7eed2edb4\""
 }

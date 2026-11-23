@@ -1,6 +1,6 @@
 {
   "slug": "iamt4nk/smm.nvim",
-  "fetched_at": "2026-11-22T11:42:51.758806235Z",
+  "fetched_at": "2026-11-23T13:04:15.256491518Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 4567
   },
   "slow_fetched_at": "2026-11-13T11:28:32.588991334Z",
-  "commits_etag": "\"0a07eb2ad9ec70cd48e42fd38c72f4739e5f0cca26f94711c033b61bdfc61600\"",
-  "releases_etag": "\"9bc0e030ffe2635f2a167c1d97cdbc95272c405dfa9331542b1376150d43660d\""
+  "commits_etag": "\"4a1b367bdddb83e527e1593a0dc358bca3501ed47d2722a6ebd5fb85f5c14fba\"",
+  "releases_etag": "\"51626a440739d0f138fd33013788c0c38abdc0f7d5c7774420a88d33d6c7eae8\""
 }

@@ -1,6 +1,6 @@
 {
   "slug": "monaqa/dial.nvim",
-  "fetched_at": "2026-11-22T11:54:16.147355467Z",
+  "fetched_at": "2026-11-23T13:18:54.782690725Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -15,18 +15,18 @@
     "median_pr_close_days": 0.7162615740740741,
     "open_issues": 20,
     "closed_issues_sampled": 24,
-    "contributors_12mo": 3,
-    "top_author_commit_share": 0.42857142857142855,
+    "contributors_12mo": 2,
+    "top_author_commit_share": 0.5,
     "top_author": {
-      "login": "kawarimidoll",
-      "account_created_at": "2014-07-13T00:36:21Z",
-      "other_repos_star_sum": 658
+      "login": "monaqa",
+      "account_created_at": "2019-03-24T13:09:54Z",
+      "other_repos_star_sum": 1578
     },
     "has_ci": true,
     "has_tests": true,
     "readme_len": 16180
   },
   "slow_fetched_at": "2026-11-15T11:23:27.016344124Z",
-  "commits_etag": "\"546527afb38ebf2962f0c8e7f568ffb74a1ed16ebcf57e1d5b0934c75d17af36\"",
-  "releases_etag": "\"0bc06959250b37440e81714944cdf26c1d97b070882669dcdb57834a04d52cc8\""
+  "commits_etag": "\"375b3395819aea1ed24b61936f54930d381c938382bcdade3ce12b2401e137c7\"",
+  "releases_etag": "\"5f55e04a938b7c8f29b3690bde637a0801e8ce6d4c17a926fe017d31ac3c0432\""
 }

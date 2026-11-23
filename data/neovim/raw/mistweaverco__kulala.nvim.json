@@ -1,6 +1,6 @@
 {
   "slug": "mistweaverco/kulala.nvim",
-  "fetched_at": "2026-11-22T11:53:42.686609571Z",
+  "fetched_at": "2026-11-23T13:18:13.202513970Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -13,7 +13,7 @@
     "releases_365d": 81,
     "median_issue_close_days": 2.038292824074074,
     "median_pr_close_days": 0.0003703703703703704,
-    "open_issues": 3,
+    "open_issues": 2,
     "closed_issues_sampled": 32,
     "contributors_12mo": 7,
     "top_author_commit_share": 0.9261363636363636,
@@ -27,6 +27,6 @@
     "readme_len": 16550
   },
   "slow_fetched_at": "2026-11-15T11:22:47.351610528Z",
-  "commits_etag": "\"98df6b7c20d6256a06527805924d68801e67ea733f4457f20fec54ff750b1309\"",
-  "releases_etag": "\"c2d169ccf6d5d20146bd7e1a85b42b4b42881fad624251236445de0f7636c8d0\""
+  "commits_etag": "\"aa12bd19efc7e6093e3a4b205206eaece9512807376141ec7c456e675aa1c5e2\"",
+  "releases_etag": "\"238cbf2c1e73541f648d95c21416fc6a8a01232265ed7e9abbc0fe2b9ddf8701\""
 }

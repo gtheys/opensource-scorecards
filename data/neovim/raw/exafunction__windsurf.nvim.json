@@ -1,6 +1,6 @@
 {
   "slug": "exafunction/windsurf.nvim",
-  "fetched_at": "2026-11-22T11:38:38.140380608Z",
+  "fetched_at": "2026-11-23T12:58:36.021219840Z",
   "status": "ok",
   "data": {
     "archived": true,
@@ -23,6 +23,6 @@
     "readme_len": 13083
   },
   "slow_fetched_at": "2026-11-13T11:21:55.022833325Z",
-  "commits_etag": "\"7482d884a2791f855a7989280ab0bf5dfc88e83ab1bc17be8ba480025b960dec\"",
-  "releases_etag": "\"61e3edb30ef61e06e283236939a07f3fba90af808bbdd9c52d9252245a1236f7\""
+  "commits_etag": "\"36aced141828e11a09654fca75322b1e8d9a0591a846cfe2c1f8713f849d146a\"",
+  "releases_etag": "\"064b23601e52b2de987b73c46bc995a0139cbb7cccf2222e02509af7eed2edb4\""
 }

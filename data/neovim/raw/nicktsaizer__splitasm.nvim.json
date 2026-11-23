@@ -1,6 +1,6 @@
 {
   "slug": "nicktsaizer/splitasm.nvim",
-  "fetched_at": "2026-11-22T11:57:10.179150651Z",
+  "fetched_at": "2026-11-23T13:22:39.572820693Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 6534
   },
   "slow_fetched_at": "2026-11-19T12:19:24.429282236Z",
-  "commits_etag": "\"e15bfb4376fe5f80b864989f0a375190bf67a63844ac614f9b2d8148d393eb64\"",
-  "releases_etag": "\"61e3edb30ef61e06e283236939a07f3fba90af808bbdd9c52d9252245a1236f7\""
+  "commits_etag": "\"2ad157c0dd617e4788f21c62db0d6e923fbb56578fce49d156b731ef2d774e96\"",
+  "releases_etag": "\"064b23601e52b2de987b73c46bc995a0139cbb7cccf2222e02509af7eed2edb4\""
 }

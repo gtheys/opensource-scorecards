@@ -1,10 +1,10 @@
 {
   "slug": "hawknewton/matrix-splash.nvim",
-  "fetched_at": "2026-11-22T11:41:58.969925705Z",
+  "fetched_at": "2026-11-23T13:03:05.426556102Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 6,
+    "stars": 7,
     "forks": 0,
     "description": "A matrix-inspired splash screen for neovim",
     "license_spdx": "MIT",
@@ -27,6 +27,6 @@
     "readme_len": 3629
   },
   "slow_fetched_at": "2026-11-13T11:27:11.323433620Z",
-  "commits_etag": "\"5593b8a3836d95a76c9ffe778e65083a021d140e5985f36e57ff5861b6574fc5\"",
-  "releases_etag": "\"61e3edb30ef61e06e283236939a07f3fba90af808bbdd9c52d9252245a1236f7\""
+  "commits_etag": "\"b707ecad88307c88bccb8ad4da72f39de8443f18c48352f58e5a28dea5bf5c91\"",
+  "releases_etag": "\"064b23601e52b2de987b73c46bc995a0139cbb7cccf2222e02509af7eed2edb4\""
 }

@@ -1,6 +1,6 @@
 {
   "slug": "mrjones2014/smart-splits.nvim",
-  "fetched_at": "2026-11-22T11:55:20.074902916Z",
+  "fetched_at": "2026-11-23T13:20:18.625713787Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 21491
   },
   "slow_fetched_at": "2026-11-15T11:24:41.429927624Z",
-  "commits_etag": "\"acbde18ddca0837bbef8b7eb3063f8acc3a8bf17f7555f9011a08033bed56b60\"",
-  "releases_etag": "\"1cfe126792ecb6bfb62c9e43d360857a0e3b01cde1e649234c22c01c400cf3d1\""
+  "commits_etag": "\"64dd179044aac655d01ae8fec7d40a8fd1b6a8e63e3553212116b008cf93fc16\"",
+  "releases_etag": "\"d7c6b17c7c039321c7cd29ab5bbbb4b209d7c9c7e90d843a945de6375a666407\""
 }

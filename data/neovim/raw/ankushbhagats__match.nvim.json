@@ -1,6 +1,6 @@
 {
   "slug": "ankushbhagats/match.nvim",
-  "fetched_at": "2026-11-22T11:28:07.227332622Z",
+  "fetched_at": "2026-11-23T12:44:41.321896950Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -18,15 +18,15 @@
     "contributors_12mo": 3,
     "top_author_commit_share": 0.47058823529411764,
     "top_author": {
-      "login": "DrKJeff16",
-      "account_created_at": "2020-09-29T00:05:14Z",
-      "other_repos_star_sum": 275
+      "login": "ankushbhagats",
+      "account_created_at": "2020-04-08T10:32:11Z",
+      "other_repos_star_sum": 755
     },
     "has_ci": false,
     "has_tests": false,
     "readme_len": 2341
   },
   "slow_fetched_at": "2026-11-13T11:05:49.607361303Z",
-  "commits_etag": "\"520ae51eef78eeda571419e519cbe85974128e98df50b4d1c6aadb5b57c0a624\"",
-  "releases_etag": "\"61e3edb30ef61e06e283236939a07f3fba90af808bbdd9c52d9252245a1236f7\""
+  "commits_etag": "\"ddded85e0d1da44312af9dfb4831762761acb852f44677b56b29a0c4602e6832\"",
+  "releases_etag": "\"064b23601e52b2de987b73c46bc995a0139cbb7cccf2222e02509af7eed2edb4\""
 }

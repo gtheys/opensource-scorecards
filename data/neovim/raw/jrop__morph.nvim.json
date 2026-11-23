@@ -1,10 +1,10 @@
 {
   "slug": "jrop/morph.nvim",
-  "fetched_at": "2026-11-22T11:45:42.034027393Z",
+  "fetched_at": "2026-11-23T13:07:51.756947091Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 141,
+    "stars": 142,
     "forks": 0,
     "description": "React-like renderer for Neovim",
     "license_spdx": null,
@@ -27,6 +27,6 @@
     "readme_len": 16810
   },
   "slow_fetched_at": "2026-11-14T10:47:29.380834085Z",
-  "commits_etag": "\"f784740a4bd80a9468a8e62f75a3cef563c62acfc1afef1a06c0c83afb6d72c2\"",
-  "releases_etag": "\"61e3edb30ef61e06e283236939a07f3fba90af808bbdd9c52d9252245a1236f7\""
+  "commits_etag": "\"a8581bb0f4fc9e633cebe62603e14e657a565f2b49d508f8bc51f4a21fb7e3c7\"",
+  "releases_etag": "\"064b23601e52b2de987b73c46bc995a0139cbb7cccf2222e02509af7eed2edb4\""
 }

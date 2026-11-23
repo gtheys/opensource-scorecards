@@ -1,6 +1,6 @@
 {
   "slug": "carlos-algms/agentic.nvim",
-  "fetched_at": "2026-11-22T11:31:16.034863490Z",
+  "fetched_at": "2026-11-23T12:49:24.166663901Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -16,7 +16,7 @@
     "open_issues": 12,
     "closed_issues_sampled": 11,
     "contributors_12mo": 18,
-    "top_author_commit_share": 0.8697478991596639,
+    "top_author_commit_share": 0.869198312236287,
     "top_author": {
       "login": "carlos-algms",
       "account_created_at": "2013-06-06T21:38:35Z",
@@ -27,6 +27,6 @@
     "readme_len": 64105
   },
   "slow_fetched_at": "2026-11-13T11:10:27.497938762Z",
-  "commits_etag": "\"197e4617f26e81d261d0539eb372635651025a0ff1f2f33e9ae09357e1075df7\"",
-  "releases_etag": "\"61e3edb30ef61e06e283236939a07f3fba90af808bbdd9c52d9252245a1236f7\""
+  "commits_etag": "\"4ccacc8926e4d7045ba8c3ee8a608ee00a2d099dbb59b0efdb75e937f80f4a3d\"",
+  "releases_etag": "\"064b23601e52b2de987b73c46bc995a0139cbb7cccf2222e02509af7eed2edb4\""
 }
