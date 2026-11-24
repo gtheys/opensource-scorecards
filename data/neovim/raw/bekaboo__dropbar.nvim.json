@@ -1,6 +1,6 @@
 {
   "slug": "bekaboo/dropbar.nvim",
-  "fetched_at": "2026-11-23T12:47:32.577078861Z",
+  "fetched_at": "2026-11-24T13:50:56.715868182Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -13,7 +13,7 @@
     "releases_365d": 0,
     "median_issue_close_days": 3.767615740740741,
     "median_pr_close_days": 11.210451388888888,
-    "open_issues": 12,
+    "open_issues": 13,
     "closed_issues_sampled": 33,
     "contributors_12mo": 3,
     "top_author_commit_share": 0.75,
@@ -27,6 +27,6 @@
     "readme_len": 58803
   },
   "slow_fetched_at": "2026-11-13T11:08:34.471628711Z",
-  "commits_etag": "\"fd4bf294cfbdf63806ea5032b57303974b079a58890e18d53551a0049aeec8d3\"",
-  "releases_etag": "\"f39bdb6b3dfbf199acbbd626fa324fb8ccdead07c33d81be740e3a9a81e4171d\""
+  "commits_etag": "\"084d184d89e4acadbfa92279efbd66c52bdb987c24181e0743efb03e045d8569\"",
+  "releases_etag": "\"1c3c1debed0efbd03bd2bb949fb78229d15de27c6e7219b04615141f284ce819\""
 }

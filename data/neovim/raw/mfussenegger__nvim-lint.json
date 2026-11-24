@@ -1,6 +1,6 @@
 {
   "slug": "mfussenegger/nvim-lint",
-  "fetched_at": "2026-11-23T13:16:45.716959576Z",
+  "fetched_at": "2026-11-24T14:27:16.327984939Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "Mirror of: https://codeberg.org/mfussenegger/nvim-lint An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.",
     "license_spdx": "GPL-3.0",
     "last_commit_at": "2026-11-19T12:15:14Z",
-    "commits_90d": 8,
+    "commits_90d": 7,
     "releases_365d": 0,
     "median_issue_close_days": 15.564733796296297,
     "median_pr_close_days": 13.522251157407407,
@@ -27,6 +27,6 @@
     "readme_len": 33168
   },
   "slow_fetched_at": "2026-11-15T11:21:26.071866809Z",
-  "commits_etag": "\"dfb1806e8967bd409bb02a1b49650e71f947d496bf5414b9ec468af8fac76c3b\"",
-  "releases_etag": "\"064b23601e52b2de987b73c46bc995a0139cbb7cccf2222e02509af7eed2edb4\""
+  "commits_etag": "\"0d48ff98fb5f93ca36e79571bbe554ddfe785ede307c56c41312f85b7ffe2257\"",
+  "releases_etag": "\"ebf85665c50ec132503c5e077e15f36a4ee3bd7aa6218510e22f453bc7dc21cf\""
 }

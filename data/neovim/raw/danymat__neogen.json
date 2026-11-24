@@ -1,11 +1,11 @@
 {
   "slug": "danymat/neogen",
-  "fetched_at": "2026-11-23T12:54:30.890962605Z",
+  "fetched_at": "2026-11-24T13:59:43.170066884Z",
   "status": "ok",
   "data": {
     "archived": false,
     "stars": 1651,
-    "forks": 77,
+    "forks": 76,
     "description": "A better annotation generator. Supports multiple languages and annotation conventions.",
     "license_spdx": "GPL-3.0",
     "last_commit_at": "2026-01-10T18:00:38Z",
@@ -13,7 +13,7 @@
     "releases_365d": 0,
     "median_issue_close_days": 6.611712962962963,
     "median_pr_close_days": 10.908449074074074,
-    "open_issues": 46,
+    "open_issues": 45,
     "closed_issues_sampled": 21,
     "contributors_12mo": 2,
     "top_author_commit_share": 0.5,
@@ -27,6 +27,6 @@
     "readme_len": 14650
   },
   "slow_fetched_at": "2026-11-13T11:16:18.694812094Z",
-  "commits_etag": "\"dd64623f72b99acb933f55b72a829d7dc4c0d8a97b347b64c1972abfa58dd5ba\"",
-  "releases_etag": "\"064b23601e52b2de987b73c46bc995a0139cbb7cccf2222e02509af7eed2edb4\""
+  "commits_etag": "\"0360ebc26e37335e1ad2f8192de148094fa5f3579c0cb91e978f8c47c6881ce6\"",
+  "releases_etag": "\"ebf85665c50ec132503c5e077e15f36a4ee3bd7aa6218510e22f453bc7dc21cf\""
 }

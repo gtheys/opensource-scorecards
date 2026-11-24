@@ -1,10 +1,10 @@
 {
   "slug": "f-person/git-blame.nvim",
-  "fetched_at": "2026-11-23T12:58:41.530252340Z",
+  "fetched_at": "2026-11-24T14:05:24.519011799Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 1111,
+    "stars": 1112,
     "forks": 53,
     "description": "Git Blame plugin for Neovim written in Lua",
     "license_spdx": "GPL-3.0",
@@ -23,6 +23,6 @@
     "readme_len": 12755
   },
   "slow_fetched_at": "2026-11-13T11:22:01.904263441Z",
-  "commits_etag": "\"ef3a282666cfb92b6360180cbb81813261a01ad3bfc69ed177f1a3196071a1b8\"",
-  "releases_etag": "\"064b23601e52b2de987b73c46bc995a0139cbb7cccf2222e02509af7eed2edb4\""
+  "commits_etag": "\"75f48e28e63837bedf397d94d0155ada9278e5d2bb693dbeb16b09ae5d22c4c7\"",
+  "releases_etag": "\"ebf85665c50ec132503c5e077e15f36a4ee3bd7aa6218510e22f453bc7dc21cf\""
 }

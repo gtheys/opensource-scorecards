@@ -1,11 +1,11 @@
 {
   "slug": "ggandor/lightspeed.nvim",
-  "fetched_at": "2026-11-23T13:01:46.831539942Z",
+  "fetched_at": "2026-11-24T14:09:06.291695195Z",
   "status": "ok",
   "data": {
     "archived": true,
     "stars": 1551,
-    "forks": 27,
+    "forks": 28,
     "description": "deprecated in favor of leap.nvim",
     "license_spdx": "MIT",
     "last_commit_at": null,
@@ -23,6 +23,6 @@
     "readme_len": 33146
   },
   "slow_fetched_at": "2026-11-13T11:25:38.072095236Z",
-  "commits_etag": "\"5b4dbf6cfbf90850ec7680d279f8e9365671fc3c848cbd169c38a012fc8a439b\"",
-  "releases_etag": "\"064b23601e52b2de987b73c46bc995a0139cbb7cccf2222e02509af7eed2edb4\""
+  "commits_etag": "\"90da48fd53b4bbdc750ed8c2434daaafa98535da33d89ae1470e1fe2a2b5b3fb\"",
+  "releases_etag": "\"ebf85665c50ec132503c5e077e15f36a4ee3bd7aa6218510e22f453bc7dc21cf\""
 }

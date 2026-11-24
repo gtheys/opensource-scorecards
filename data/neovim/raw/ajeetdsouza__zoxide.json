@@ -1,22 +1,22 @@
 {
   "slug": "ajeetdsouza/zoxide",
-  "fetched_at": "2026-11-23T12:42:59.919475417Z",
+  "fetched_at": "2026-11-24T13:46:28.677321722Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 40706,
-    "forks": 994,
+    "stars": 40720,
+    "forks": 998,
     "description": "A smarter cd command. Supports all major shells.",
     "license_spdx": "MIT",
-    "last_commit_at": "2026-11-21T21:52:21Z",
-    "commits_90d": 24,
+    "last_commit_at": "2026-11-24T00:31:39Z",
+    "commits_90d": 27,
     "releases_365d": 2,
     "median_issue_close_days": 46.36460069444444,
     "median_pr_close_days": 4.370873842592593,
-    "open_issues": 165,
+    "open_issues": 161,
     "closed_issues_sampled": 10,
-    "contributors_12mo": 24,
-    "top_author_commit_share": 0.5757575757575758,
+    "contributors_12mo": 26,
+    "top_author_commit_share": 0.5507246376811594,
     "top_author": {
       "login": "ajeetdsouza",
       "account_created_at": "2012-05-25T11:23:01Z",
@@ -27,6 +27,6 @@
     "readme_len": 23511
   },
   "slow_fetched_at": "2026-11-13T11:04:05.703725243Z",
-  "commits_etag": "\"0120208dd2452bcaa0914dff3092e396eb4b7ed327d804689600f6c6ee3abfe0\"",
-  "releases_etag": "\"c51316686629cc96cb411ca8c86880d6856e2f2521800034019973524bbd8368\""
+  "commits_etag": "\"958b44d13ca65556bcb3d20c697b590e9ce8e3c329da13ea0dfa6eaf8b2154c4\"",
+  "releases_etag": "\"059f4758023919b01b1244984f3da3feddd54829e42196d4acceb314443d8801\""
 }

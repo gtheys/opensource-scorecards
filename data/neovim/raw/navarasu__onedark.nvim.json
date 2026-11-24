@@ -1,10 +1,10 @@
 {
   "slug": "navarasu/onedark.nvim",
-  "fetched_at": "2026-11-23T13:21:22.487159335Z",
+  "fetched_at": "2026-11-24T14:32:44.067561131Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 2017,
+    "stars": 2016,
     "forks": 178,
     "description": "One dark and light colorscheme for neovim >= 0.5.0 written in lua based on Atom's One Dark and Light theme. Additionally, it comes with 5 color variant styles",
     "license_spdx": "MIT",
@@ -15,18 +15,18 @@
     "median_pr_close_days": 10.865387731481482,
     "open_issues": 55,
     "closed_issues_sampled": 28,
-    "contributors_12mo": 4,
-    "top_author_commit_share": 0.25,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
     "top_author": {
-      "login": "vec2pt",
-      "account_created_at": "2020-07-16T21:02:01Z",
-      "other_repos_star_sum": 12
+      "login": "kebiBGit",
+      "account_created_at": "2024-06-20T13:22:47Z",
+      "other_repos_star_sum": 7
     },
     "has_ci": false,
     "has_tests": true,
     "readme_len": 9251
   },
   "slow_fetched_at": "2026-11-16T11:58:55.291613025Z",
-  "commits_etag": "\"26b25f572fe90ab7f0e7e7a8376acc0d7d5632c9880457eb670aa859b81b27db\"",
-  "releases_etag": "\"1e5fddd37669d7f78e6097c3c4894a4949f64314ffe04852dbb799beaab71588\""
+  "commits_etag": "\"52418685895a44913357b7504d482e1cf9e549ba1329a1f600518176fe794dff\"",
+  "releases_etag": "\"0e4e0041b5ed287d0191cf6abcc67dbb9755ced53635cb3ea8202b41f7c0b356\""
 }

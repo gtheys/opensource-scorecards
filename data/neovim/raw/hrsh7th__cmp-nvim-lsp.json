@@ -1,6 +1,6 @@
 {
   "slug": "hrsh7th/cmp-nvim-lsp",
-  "fetched_at": "2026-11-23T13:03:54.715534330Z",
+  "fetched_at": "2026-11-24T14:11:44.031342337Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 2001
   },
   "slow_fetched_at": "2026-11-13T11:28:06.820786121Z",
-  "commits_etag": "\"a2e1c6d8717fa4ece7078874e049dc21866b04003665519a5e365d08d308bbc5\"",
-  "releases_etag": "\"064b23601e52b2de987b73c46bc995a0139cbb7cccf2222e02509af7eed2edb4\""
+  "commits_etag": "\"98af04c1cd2b3fa7ecfadda3d841565c077b9cfd9a934c92017963271d73f4d7\"",
+  "releases_etag": "\"ebf85665c50ec132503c5e077e15f36a4ee3bd7aa6218510e22f453bc7dc21cf\""
 }

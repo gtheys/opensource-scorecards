@@ -1,6 +1,6 @@
 {
   "slug": "cshuaimin/ssr.nvim",
-  "fetched_at": "2026-11-23T12:53:31.026683919Z",
+  "fetched_at": "2026-11-24T13:58:13.002251932Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -12,7 +12,7 @@
     "commits_90d": 1,
     "releases_365d": 0,
     "median_issue_close_days": 2.365520833333333,
-    "median_pr_close_days": 0.5239699074074073,
+    "median_pr_close_days": 0.4104861111111111,
     "open_issues": 18,
     "closed_issues_sampled": 12,
     "contributors_12mo": 2,
@@ -27,6 +27,6 @@
     "readme_len": 2122
   },
   "slow_fetched_at": "2026-11-13T11:14:50.672523251Z",
-  "commits_etag": "\"ed15dbc25e7183c8bc706441691ba2898e6b8a1f2feeecb06c8cb95b9dbcddc2\"",
-  "releases_etag": "\"064b23601e52b2de987b73c46bc995a0139cbb7cccf2222e02509af7eed2edb4\""
+  "commits_etag": "\"be2971a64f1d3cbab9b835192513972494994ecc756e5ff7271e73c03f76b87a\"",
+  "releases_etag": "\"ebf85665c50ec132503c5e077e15f36a4ee3bd7aa6218510e22f453bc7dc21cf\""
 }

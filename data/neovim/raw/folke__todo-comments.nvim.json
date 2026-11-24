@@ -1,6 +1,6 @@
 {
   "slug": "folke/todo-comments.nvim",
-  "fetched_at": "2026-11-23T13:00:10.229722965Z",
+  "fetched_at": "2026-11-24T14:07:14.866923701Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 6912
   },
   "slow_fetched_at": "2026-11-13T11:23:47.697002825Z",
-  "commits_etag": "\"5f83d9d051c32e6b335646e407f5c6cf14634023ad8473142751ff0a11353386\"",
-  "releases_etag": "\"3941670a9fd2491c869def829da3c38531db20eae1874ed30ed55b033be26dbe\""
+  "commits_etag": "\"96deafd8e20347bbd3b65d9edc3da1b1d25fc9dd726265fc1dce802182496162\"",
+  "releases_etag": "\"b73cce86ed900485a29fd404c535bf494e155262aada05a4592027ab168eb9be\""
 }

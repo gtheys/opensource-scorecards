@@ -1,6 +1,6 @@
 {
   "slug": "neogitorg/neogit",
-  "fetched_at": "2026-11-23T13:21:50.158159096Z",
+  "fetched_at": "2026-11-24T14:33:15.653434736Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -8,15 +8,15 @@
     "forks": 369,
     "description": "An interactive and powerful Git interface for Neovim, inspired by Magit",
     "license_spdx": "MIT",
-    "last_commit_at": "2026-11-17T09:10:05Z",
-    "commits_90d": 42,
+    "last_commit_at": "2026-11-24T13:18:40Z",
+    "commits_90d": 55,
     "releases_365d": 0,
-    "median_issue_close_days": 50.41905092592593,
-    "median_pr_close_days": 4.482071759259259,
-    "open_issues": 205,
-    "closed_issues_sampled": 10,
-    "contributors_12mo": 48,
-    "top_author_commit_share": 0.5728155339805825,
+    "median_issue_close_days": 43.358078703703704,
+    "median_pr_close_days": 2.686909722222222,
+    "open_issues": 204,
+    "closed_issues_sampled": 11,
+    "contributors_12mo": 49,
+    "top_author_commit_share": 0.591743119266055,
     "top_author": {
       "login": "CKolkey",
       "account_created_at": "2014-04-08T16:29:48Z",
@@ -27,6 +27,6 @@
     "readme_len": 21270
   },
   "slow_fetched_at": "2026-11-16T11:59:31.774241148Z",
-  "commits_etag": "\"c9bb680a26dadb1451e7330140bc4fa494fb8ef6ff724899f929e995b7a3ea1d\"",
-  "releases_etag": "\"5c8760bb213ed3a235efaef7ebcf3e776c833995597ccec0969980cdf696cca2\""
+  "commits_etag": "\"3d252fd78995ab9af41c8336ad9b1b91d599ca0ceeb59081abf70e12e5588c2b\"",
+  "releases_etag": "\"c83acd8bc552c505f834ecd9d3736a4d64ec8868b7f4b56ace53c69b91374122\""
 }

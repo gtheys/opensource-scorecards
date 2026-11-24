@@ -1,10 +1,10 @@
 {
   "slug": "ecthelionvi/neocomposer.nvim",
-  "fetched_at": "2026-11-23T12:57:22.009037598Z",
+  "fetched_at": "2026-11-24T14:03:42.350525188Z",
   "status": "ok",
   "data": {
     "archived": true,
-    "stars": 412,
+    "stars": 411,
     "forks": 10,
     "description": "Neovim plugin that simplifies macros, enhancing productivity with harmony.",
     "license_spdx": "MIT",
@@ -23,6 +23,6 @@
     "readme_len": 8715
   },
   "slow_fetched_at": "2026-11-13T11:20:16.114019976Z",
-  "commits_etag": "\"47d455d1801223adfb40ed2aa4d7e3668bcc84f25afea8fbb78f4ab5dd9a33e0\"",
-  "releases_etag": "\"064b23601e52b2de987b73c46bc995a0139cbb7cccf2222e02509af7eed2edb4\""
+  "commits_etag": "\"90d849aec4874e4178506226ee043a0e72c1dd2c90591d896f30a37fc34f06b7\"",
+  "releases_etag": "\"ebf85665c50ec132503c5e077e15f36a4ee3bd7aa6218510e22f453bc7dc21cf\""
 }

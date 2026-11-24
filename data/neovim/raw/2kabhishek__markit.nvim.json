@@ -1,10 +1,10 @@
 {
   "slug": "2kabhishek/markit.nvim",
-  "fetched_at": "2026-11-23T12:40:53.886365428Z",
+  "fetched_at": "2026-11-24T13:44:01.381904963Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 58,
+    "stars": 59,
     "forks": 3,
     "description": "Better marks for Neovim 🏹📌",
     "license_spdx": "MIT",
@@ -23,6 +23,6 @@
     "readme_len": 14115
   },
   "slow_fetched_at": "2026-11-13T11:01:40.980067579Z",
-  "commits_etag": "\"5756dcf9466d320772138c27fd89b6879c1d78a9677ec08fc1542f4ce067d5a9\"",
-  "releases_etag": "\"4614de269f7bf5456fb241853bc733d7dd5e34e394a783c489c899262f3ded08\""
+  "commits_etag": "\"aef28628557a76b3f0a1164186245a9a1e5a4aece376436a2edc0d951d666798\"",
+  "releases_etag": "\"8a258966fdd0a26e53e733473006ff586b152d67bf2756982f6bbc98449317b5\""
 }

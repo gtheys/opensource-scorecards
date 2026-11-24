@@ -1,6 +1,6 @@
 {
   "slug": "gbprod/cutlass.nvim",
-  "fetched_at": "2026-11-23T13:01:02.678145059Z",
+  "fetched_at": "2026-11-24T14:08:13.227919546Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 5085
   },
   "slow_fetched_at": "2026-11-13T11:24:44.775663689Z",
-  "commits_etag": "\"92772931d9ba4232d93ae0dbe3a6c16cb0a74237f649ff8ef217973e11818315\"",
-  "releases_etag": "\"510abdb9b0012212c2ee0d46ace735c4c0d333ab4289a296ca659a5d11ed3113\""
+  "commits_etag": "\"df7d77d24a91ed261c19600f8d7fb4fea1695230b83efb9c481c3fc4edc24fb2\"",
+  "releases_etag": "\"d3eeb05d07f05511d3b674d934bcd16386709b674a4c8458606336e8c84c0a61\""
 }

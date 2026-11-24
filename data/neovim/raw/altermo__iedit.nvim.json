@@ -1,6 +1,6 @@
 {
   "slug": "altermo/iedit.nvim",
-  "fetched_at": "2026-11-23T12:44:06.225627884Z",
+  "fetched_at": "2026-11-24T13:47:36.208856553Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 2929
   },
   "slow_fetched_at": "2026-11-13T11:05:13.070313722Z",
-  "commits_etag": "\"d12c7bbea29f3516f53c4372be51d7f58e8a1fd9729b86533f4db43d35777349\"",
-  "releases_etag": "\"064b23601e52b2de987b73c46bc995a0139cbb7cccf2222e02509af7eed2edb4\""
+  "commits_etag": "\"1600381246fa0eb6e780cdf3d4339657cca348c3c725d11c942711ac21dd47fe\"",
+  "releases_etag": "\"ebf85665c50ec132503c5e077e15f36a4ee3bd7aa6218510e22f453bc7dc21cf\""
 }

@@ -1,6 +1,6 @@
 {
   "slug": "cosmicbuffalo/super_lazy.nvim",
-  "fetched_at": "2026-11-23T12:52:36.813098681Z",
+  "fetched_at": "2026-11-24T13:56:57.793215873Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 6792
   },
   "slow_fetched_at": "2026-11-13T11:13:48.648376449Z",
-  "commits_etag": "\"96e25dc19a5f987c53f53251ed4732d467e039eec2e11981a75f2e7cbb176bd8\"",
-  "releases_etag": "\"e5bbaefe25f5afba505c3197cd78a490b2902f0d3cae2363174f5475df132553\""
+  "commits_etag": "\"417c890d4d13209e94b01da1c3d4d091aa469dd43d2150f1470e8b80ea76310f\"",
+  "releases_etag": "\"8d45cfe43c4485088d988475638d1c3d43bb7f58b2b05d4b18f4ed814efd919d\""
 }

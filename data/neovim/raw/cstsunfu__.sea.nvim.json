@@ -1,6 +1,6 @@
 {
   "slug": "cstsunfu/.sea.nvim",
-  "fetched_at": "2026-11-23T12:53:32.918615794Z",
+  "fetched_at": "2026-11-24T13:58:15.537988433Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -13,7 +13,7 @@
     "releases_365d": 0,
     "median_issue_close_days": null,
     "median_pr_close_days": null,
-    "open_issues": 4,
+    "open_issues": 0,
     "closed_issues_sampled": 0,
     "contributors_12mo": 1,
     "top_author_commit_share": 1.0,
@@ -27,6 +27,6 @@
     "readme_len": 11439
   },
   "slow_fetched_at": "2026-11-13T11:14:56.380837208Z",
-  "commits_etag": "\"4aa2a0fe2a2ec50d7c4a7abdb4250edcb2bf32bdb8f6db9b1e23d780b9438d41\"",
-  "releases_etag": "\"064b23601e52b2de987b73c46bc995a0139cbb7cccf2222e02509af7eed2edb4\""
+  "commits_etag": "\"1af1c076c3cbd5f7c899a71b6f163eb4dfed9c46155dff5d81e463f687b793d8\"",
+  "releases_etag": "\"ebf85665c50ec132503c5e077e15f36a4ee3bd7aa6218510e22f453bc7dc21cf\""
 }

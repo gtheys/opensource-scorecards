@@ -1,6 +1,6 @@
 {
   "slug": "ckolkey/ts-node-action",
-  "fetched_at": "2026-11-23T12:51:59.397919279Z",
+  "fetched_at": "2026-11-24T13:56:05.826135859Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 11561
   },
   "slow_fetched_at": "2026-11-13T11:13:06.663905431Z",
-  "commits_etag": "\"5d3117a2aa04a2be9d4edb767cf4143fe169fad8a53f73e05352be3967d592d5\"",
-  "releases_etag": "\"064b23601e52b2de987b73c46bc995a0139cbb7cccf2222e02509af7eed2edb4\""
+  "commits_etag": "\"c5afb4977332cd307a46bee25341c5f5716c041304e1b2042ee1790bac9cc81a\"",
+  "releases_etag": "\"ebf85665c50ec132503c5e077e15f36a4ee3bd7aa6218510e22f453bc7dc21cf\""
 }

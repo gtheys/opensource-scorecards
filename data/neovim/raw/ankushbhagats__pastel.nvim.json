@@ -1,11 +1,11 @@
 {
   "slug": "ankushbhagats/pastel.nvim",
-  "fetched_at": "2026-11-23T12:44:44.985540201Z",
+  "fetched_at": "2026-11-24T13:48:17.480458781Z",
   "status": "ok",
   "data": {
     "archived": false,
     "stars": 34,
-    "forks": 1,
+    "forks": 2,
     "description": "✨ Elegant pastel colorschemes for Neovim with advanced customization, styles, and integrations",
     "license_spdx": "GPL-3.0",
     "last_commit_at": "2026-04-18T18:38:48Z",
@@ -27,6 +27,6 @@
     "readme_len": 6867
   },
   "slow_fetched_at": "2026-11-13T11:05:52.702830296Z",
-  "commits_etag": "\"d11712d10ac1b9a8ba9ef3f2412bf38da42cfbcd04af1a4f449d6cf8ae9b371c\"",
-  "releases_etag": "\"064b23601e52b2de987b73c46bc995a0139cbb7cccf2222e02509af7eed2edb4\""
+  "commits_etag": "\"5fed2d649b25049aa96b7b02357395376e7b4262600dc89dd71297330f13726e\"",
+  "releases_etag": "\"ebf85665c50ec132503c5e077e15f36a4ee3bd7aa6218510e22f453bc7dc21cf\""
 }

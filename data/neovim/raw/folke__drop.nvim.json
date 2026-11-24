@@ -1,6 +1,6 @@
 {
   "slug": "folke/drop.nvim",
-  "fetched_at": "2026-11-23T12:59:28.519251814Z",
+  "fetched_at": "2026-11-24T14:06:25.672789041Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 7469
   },
   "slow_fetched_at": "2026-11-13T11:23:04.854324171Z",
-  "commits_etag": "\"f803693d7eef3bff125973b4c1a7dc3f31f6cfc54d98a5f4da489ade3fdeb691\"",
-  "releases_etag": "\"688250ea63a0808de7798868e633a83e838c07e459ef6b7ee61825bd523dfbf7\""
+  "commits_etag": "\"c26bb3d1b797630c0c61ac160719f8d03da3ebc01ac01e5ebe6da2c54cb75714\"",
+  "releases_etag": "\"d6605a8cf5f8e1fefe6a27f50c96e0c2417adbb83becdaa107b868bab1019092\""
 }

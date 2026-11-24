@@ -1,6 +1,6 @@
 {
   "slug": "klen/nvim-config-local",
-  "fetched_at": "2026-11-23T13:10:20.197005Z",
+  "fetched_at": "2026-11-24T14:19:37.376376447Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 2922
   },
   "slow_fetched_at": "2026-11-14T10:50:04.237371578Z",
-  "commits_etag": "\"460c950065df752de77f0eec37c4b0299807acd21be101a9f7fc39fefeb0ec2a\"",
-  "releases_etag": "\"064b23601e52b2de987b73c46bc995a0139cbb7cccf2222e02509af7eed2edb4\""
+  "commits_etag": "\"7d0c00d85cc7e12d5fd4be58136ac86a94d8381ba3eb1516fc36b0620fdde955\"",
+  "releases_etag": "\"ebf85665c50ec132503c5e077e15f36a4ee3bd7aa6218510e22f453bc7dc21cf\""
 }

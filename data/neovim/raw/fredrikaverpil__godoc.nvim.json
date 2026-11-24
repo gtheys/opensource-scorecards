@@ -1,6 +1,6 @@
 {
   "slug": "fredrikaverpil/godoc.nvim",
-  "fetched_at": "2026-11-23T13:00:52.736587024Z",
+  "fetched_at": "2026-11-24T14:08:01.064792588Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -8,11 +8,11 @@
     "forks": 7,
     "description": "Fuzzy search Go packages/symbols and view docs from within Neovim",
     "license_spdx": "MIT",
-    "last_commit_at": "2026-11-22T07:42:56Z",
-    "commits_90d": 3,
+    "last_commit_at": "2026-11-23T18:02:37Z",
+    "commits_90d": 5,
     "releases_365d": 3,
     "median_issue_close_days": 0.01119212962962963,
-    "median_pr_close_days": 0.009074074074074075,
+    "median_pr_close_days": 0.009594907407407408,
     "open_issues": 4,
     "closed_issues_sampled": 3,
     "contributors_12mo": 1,
@@ -27,6 +27,6 @@
     "readme_len": 11875
   },
   "slow_fetched_at": "2026-11-13T11:24:31.408839764Z",
-  "commits_etag": "\"f5c0f08a7a24652d86111729cf69ac53b3b441ab206d39fd77eab18e665a11a2\"",
-  "releases_etag": "\"47cb772591894a231c5e655511e06765ded413b05cd41ea25e4a85077474e6c3\""
+  "commits_etag": "\"57c904a501383cdf4e4c1a426a85c48965279f5becaf59fec661ffc68384678c\"",
+  "releases_etag": "\"61a8d2e07125cf47cae3059149625175d4870b981a12d3094d469616691114ea\""
 }

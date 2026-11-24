@@ -1,10 +1,10 @@
 {
   "slug": "lunarvim/lunarvim",
-  "fetched_at": "2026-11-23T13:14:26.726486237Z",
+  "fetched_at": "2026-11-24T14:24:28.368758995Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 19238,
+    "stars": 19236,
     "forks": 1482,
     "description": "🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.",
     "license_spdx": "GPL-3.0",
@@ -23,6 +23,6 @@
     "readme_len": 4407
   },
   "slow_fetched_at": "2026-11-14T10:53:59.642909835Z",
-  "commits_etag": "\"01c027020d7469878dfaf04e5da0d0b020e6c2b55bbb960fb21af6b36628be65\"",
-  "releases_etag": "\"f27a8806059382c822a3eb906b1675aae3366f96bb977ac5a84108759d03b641\""
+  "commits_etag": "\"5b3c2201715881d054b2200e653def2a8f830c84a068f6359a9ce5014ca1d93e\"",
+  "releases_etag": "\"b482b1795c30ba9a6e1db81e355e84728557fc37ee59b2f9c4e75afc96686817\""
 }

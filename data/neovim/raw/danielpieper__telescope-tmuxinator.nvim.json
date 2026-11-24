@@ -1,6 +1,6 @@
 {
   "slug": "danielpieper/telescope-tmuxinator.nvim",
-  "fetched_at": "2026-11-23T12:54:29.536819530Z",
+  "fetched_at": "2026-11-24T13:59:41.330753506Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 1828
   },
   "slow_fetched_at": "2026-11-13T11:16:15.621202035Z",
-  "commits_etag": "\"f59d353898d5ecb55d570439dbdcb12d4763d04bc366978bab5dfebe3849d0e2\"",
-  "releases_etag": "\"064b23601e52b2de987b73c46bc995a0139cbb7cccf2222e02509af7eed2edb4\""
+  "commits_etag": "\"96b7a41e9c88a965b13ff9f297cb6032188e201a3ef1657f609195f600b4a196\"",
+  "releases_etag": "\"ebf85665c50ec132503c5e077e15f36a4ee3bd7aa6218510e22f453bc7dc21cf\""
 }

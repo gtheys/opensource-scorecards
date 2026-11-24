@@ -1,6 +1,6 @@
 {
   "slug": "jxstxs/conceal.nvim",
-  "fetched_at": "2026-11-23T13:08:37.272404185Z",
+  "fetched_at": "2026-11-24T14:17:31.469747737Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 2320
   },
   "slow_fetched_at": "2026-11-14T10:48:14.697102723Z",
-  "commits_etag": "\"04d8b7ef51f2e62aa7d12cc6c3970965d670b0fc54e7f6432409cd265595afc6\"",
-  "releases_etag": "\"064b23601e52b2de987b73c46bc995a0139cbb7cccf2222e02509af7eed2edb4\""
+  "commits_etag": "\"2a1e164db1ba82edd6b3ae4adbb476b257c443e28e406b7c7787489a1104bc56\"",
+  "releases_etag": "\"ebf85665c50ec132503c5e077e15f36a4ee3bd7aa6218510e22f453bc7dc21cf\""
 }

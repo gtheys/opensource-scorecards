@@ -1,10 +1,10 @@
 {
   "slug": "kevinhwang91/nvim-bqf",
-  "fetched_at": "2026-11-23T13:09:26.525373374Z",
+  "fetched_at": "2026-11-24T14:18:30.887263797Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 2030,
+    "stars": 2029,
     "forks": 42,
     "description": "Better quickfix window in Neovim, polish old quickfix window.",
     "license_spdx": "BSD-3-Clause",
@@ -27,6 +27,6 @@
     "readme_len": 25029
   },
   "slow_fetched_at": "2026-11-14T10:49:04.162154556Z",
-  "commits_etag": "\"eb180394976daadb2437fbfcd9f8149de867a8cfa983f1381ed1f65f98b573e9\"",
-  "releases_etag": "\"0ba9b462a9c730237f9d37a70ccbad8854906a3847e3746717fcccfd661ad055\""
+  "commits_etag": "\"04499a02b0b1737efdc2d975ce317c6bfb04a7bb0d835071dd04ed12618dfd42\"",
+  "releases_etag": "\"afd25abe9d79ccc4640697a1c3327bbbcca58df5f2772c0323063ec626a003a4\""
 }

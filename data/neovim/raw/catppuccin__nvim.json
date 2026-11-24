@@ -1,6 +1,6 @@
 {
   "slug": "catppuccin/nvim",
-  "fetched_at": "2026-11-23T12:49:32.780193814Z",
+  "fetched_at": "2026-11-24T13:53:00.643981755Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 38320
   },
   "slow_fetched_at": "2026-11-13T11:10:36.353322698Z",
-  "commits_etag": "\"38990c68e649b35834cdacfca84add1f0c2dec2c9db9d0c10a9370689c4f965d\"",
-  "releases_etag": "\"e23d3e6549d96fd30a92e1e409ae56108b7e7b95f1e51c97748ea054558ea3b6\""
+  "commits_etag": "\"6157d9415473154f4f816f97564398d559bf354c5b203ed73f76fd7f3c4ba85a\"",
+  "releases_etag": "\"89b40ba52ab01f9ffae31d87be7c1e0960a5952bcac74d324be11e3a4a19f3e7\""
 }

@@ -1,6 +1,6 @@
 {
   "slug": "coffebar/neovim-project",
-  "fetched_at": "2026-11-23T12:52:18.335520014Z",
+  "fetched_at": "2026-11-24T13:56:30.541065289Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -18,15 +18,15 @@
     "contributors_12mo": 2,
     "top_author_commit_share": 0.5,
     "top_author": {
-      "login": "aidan-dubs",
-      "account_created_at": "2020-05-24T22:14:08Z",
-      "other_repos_star_sum": 0
+      "login": "coffebar",
+      "account_created_at": "2012-12-21T18:04:37Z",
+      "other_repos_star_sum": 1069
     },
     "has_ci": false,
     "has_tests": false,
     "readme_len": 11619
   },
   "slow_fetched_at": "2026-11-13T11:13:27.745058823Z",
-  "commits_etag": "\"50e5bc40f228a70121d7935b56169882dd10ad0f1ac8278322628fa528e56e47\"",
-  "releases_etag": "\"064b23601e52b2de987b73c46bc995a0139cbb7cccf2222e02509af7eed2edb4\""
+  "commits_etag": "\"f19f43d0d1e00d2fb9c0907ed55d8bbf2e4d92b737e37f6242db4f5c09eacaed\"",
+  "releases_etag": "\"ebf85665c50ec132503c5e077e15f36a4ee3bd7aa6218510e22f453bc7dc21cf\""
 }

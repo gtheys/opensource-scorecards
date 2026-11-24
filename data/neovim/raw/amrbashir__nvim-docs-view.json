@@ -1,6 +1,6 @@
 {
   "slug": "amrbashir/nvim-docs-view",
-  "fetched_at": "2026-11-23T12:44:18.494253741Z",
+  "fetched_at": "2026-11-24T13:47:48.911199837Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -12,7 +12,7 @@
     "commits_90d": 4,
     "releases_365d": 0,
     "median_issue_close_days": 8.018842592592593,
-    "median_pr_close_days": 0.36591435185185184,
+    "median_pr_close_days": 0.36561342592592594,
     "open_issues": 0,
     "closed_issues_sampled": 11,
     "contributors_12mo": 3,
@@ -27,6 +27,6 @@
     "readme_len": 2106
   },
   "slow_fetched_at": "2026-11-13T11:05:29.687205363Z",
-  "commits_etag": "\"3f324e8c4c4b0ad3acd78ed15d3f2b170ac199ea2aff092a77adb3deb9d29117\"",
-  "releases_etag": "\"064b23601e52b2de987b73c46bc995a0139cbb7cccf2222e02509af7eed2edb4\""
+  "commits_etag": "\"21e8bcf2c87ba1e2f4c54972a2ce516b786576202794ceb3fab0712f3f6b70f1\"",
+  "releases_etag": "\"ebf85665c50ec132503c5e077e15f36a4ee3bd7aa6218510e22f453bc7dc21cf\""
 }

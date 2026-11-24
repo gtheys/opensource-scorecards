@@ -1,6 +1,6 @@
 {
   "slug": "desdic/marlin.nvim",
-  "fetched_at": "2026-11-23T12:55:24.670999865Z",
+  "fetched_at": "2026-11-24T14:01:01.818514474Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 11379
   },
   "slow_fetched_at": "2026-11-13T11:17:33.904398215Z",
-  "commits_etag": "\"1e1ead894361210a9156a0e7b288ff5c269841d3fd5928f720eb4490dd6a6f32\"",
-  "releases_etag": "\"7c554f158b7309e98feb79e3fa7ee8cc9177f96183c637b8670f19397a8fb353\""
+  "commits_etag": "\"abd183bab69f59cfef48c531bbd97722589971cb2fe999ded8b9fa61d2eb98b6\"",
+  "releases_etag": "\"c9caae8400ecdf8394666c6956336eda5ddf0eb80e7e6afb529155e3bdbcc83d\""
 }

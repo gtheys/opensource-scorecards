@@ -1,6 +1,6 @@
 {
   "slug": "clang-engineer/jvm-env.nvim",
-  "fetched_at": "2026-11-23T12:52:04.513986593Z",
+  "fetched_at": "2026-11-24T13:56:12.586820037Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 8526
   },
   "slow_fetched_at": "2026-11-13T11:13:13.166847146Z",
-  "commits_etag": "\"b573194da414b57dfc8e6c26166044c1348ca70dec8e30a604cede3a2c503655\"",
-  "releases_etag": "\"9a1a5fcdf75c95bc5122f6727113c1855018d39065d717b74eed04da7539a11f\""
+  "commits_etag": "\"e5e69944ae11598fe939f5a7444a765b170aa7116350b24509da45add8ec3483\"",
+  "releases_etag": "\"5a49c8505656e4c8522bd3ee3992b2a4f6a44727ddb40f012778b087fb25ac27\""
 }

@@ -1,6 +1,6 @@
 {
   "slug": "nfrid/due.nvim",
-  "fetched_at": "2026-11-23T13:22:18.460922671Z",
+  "fetched_at": "2026-11-24T14:33:46.436999418Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 3419
   },
   "slow_fetched_at": "2026-11-17T12:31:24.097804756Z",
-  "commits_etag": "\"4ebceccbae237900a2b86fb403e5fcfc3dad7f312aadd2fc03b60ff5ca1f3f4a\"",
-  "releases_etag": "\"064b23601e52b2de987b73c46bc995a0139cbb7cccf2222e02509af7eed2edb4\""
+  "commits_etag": "\"d94f8c4f2dc754badfab568310c0505763c391b54f45c3245d845ec466ac507b\"",
+  "releases_etag": "\"ebf85665c50ec132503c5e077e15f36a4ee3bd7aa6218510e22f453bc7dc21cf\""
 }

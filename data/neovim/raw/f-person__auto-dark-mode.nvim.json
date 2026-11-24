@@ -1,6 +1,6 @@
 {
   "slug": "f-person/auto-dark-mode.nvim",
-  "fetched_at": "2026-11-23T12:58:39.701064034Z",
+  "fetched_at": "2026-11-24T14:05:21.846367395Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 3844
   },
   "slow_fetched_at": "2026-11-13T11:21:59.068465448Z",
-  "commits_etag": "\"11d6c058d68a389c8b9ff7ca479d2b4ee935ec2ff5e37e48880e052035f97a9e\"",
-  "releases_etag": "\"064b23601e52b2de987b73c46bc995a0139cbb7cccf2222e02509af7eed2edb4\""
+  "commits_etag": "\"8ad7942ddb996e546e98c167c43dc7287f14d4c4c453ca75325774a7e76b8ecf\"",
+  "releases_etag": "\"ebf85665c50ec132503c5e077e15f36a4ee3bd7aa6218510e22f453bc7dc21cf\""
 }

@@ -1,6 +1,6 @@
 {
   "slug": "lintaoamons/bookmarks.nvim",
-  "fetched_at": "2026-11-23T13:13:06.584247295Z",
+  "fetched_at": "2026-11-24T14:22:55.360495041Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 9908
   },
   "slow_fetched_at": "2026-11-14T10:52:43.144523138Z",
-  "commits_etag": "\"90267d68822f6c08c799bfc57ad3acd0f74ee2b0cfb5a83f42d2c8638b49a0f3\"",
-  "releases_etag": "\"1ff0941dd61b1f7dac4944b358f9f2d07597747df44be0bbc775e594a5b3f907\""
+  "commits_etag": "\"d82f62d08f892dd844ff945aa9ea970f1327495b293924cfdd9c2364ac7d8d18\"",
+  "releases_etag": "\"516dfb0a3c87e5c155bb64ca3fbe25bb592d64e24e74b68f55a601cb299f8155\""
 }

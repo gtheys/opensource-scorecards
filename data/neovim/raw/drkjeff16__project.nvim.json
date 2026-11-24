@@ -1,6 +1,6 @@
 {
   "slug": "drkjeff16/project.nvim",
-  "fetched_at": "2026-11-23T12:56:34.171190458Z",
+  "fetched_at": "2026-11-24T14:02:38.067018492Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -16,7 +16,7 @@
     "open_issues": 2,
     "closed_issues_sampled": 15,
     "contributors_12mo": 6,
-    "top_author_commit_share": 0.9827833572453372,
+    "top_author_commit_share": 0.9826589595375722,
     "top_author": {
       "login": "DrKJeff16",
       "account_created_at": "2020-09-29T00:05:14Z",
@@ -27,6 +27,6 @@
     "readme_len": 34141
   },
   "slow_fetched_at": "2026-11-13T11:19:07.717870640Z",
-  "commits_etag": "\"274e87859c934de4151a9c042beab73f0ee5ca063f576368d5f698a321d5c73a\"",
-  "releases_etag": "\"9eaf1c38ecf13e85b2f175fc383d891e5f418e58c63b1a021c3e72ff468b7f36\""
+  "commits_etag": "\"516cd54d19f7e7e7b007029cfab80da10bd09de3dd09dad2470555701f77b514\"",
+  "releases_etag": "\"062ca7b0b4f09f658b31494d12e319d3870c70aeb0ae893e5359fae930de11de\""
 }

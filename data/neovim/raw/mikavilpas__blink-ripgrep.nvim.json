@@ -1,6 +1,6 @@
 {
   "slug": "mikavilpas/blink-ripgrep.nvim",
-  "fetched_at": "2026-11-23T13:17:20.868950526Z",
+  "fetched_at": "2026-11-24T14:27:54.729512739Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -11,10 +11,10 @@
     "last_commit_at": "2026-11-13T11:27:57Z",
     "commits_90d": 12,
     "releases_365d": 7,
-    "median_issue_close_days": 1.1704398148148147,
-    "median_pr_close_days": 0.0018287037037037037,
-    "open_issues": 2,
-    "closed_issues_sampled": 2,
+    "median_issue_close_days": 1.494560185185185,
+    "median_pr_close_days": 0.0017824074074074075,
+    "open_issues": 3,
+    "closed_issues_sampled": 3,
     "contributors_12mo": 1,
     "top_author_commit_share": 1.0,
     "top_author": {
@@ -27,6 +27,6 @@
     "readme_len": 13222
   },
   "slow_fetched_at": "2026-11-15T11:21:56.893324734Z",
-  "commits_etag": "\"1300e032f4a84070366c1f24bdff1a6345b12cbe0f936e9ba5ef92b5ddf60fa1\"",
-  "releases_etag": "\"f82d9caa7790c8fe20665cf672b16b65a1c8bea755b75c2e6c41cb57bd3e464d\""
+  "commits_etag": "\"f4377bb2f48b152566670274985f4fafa936fe65e2346fc4313f8d1cae677a7a\"",
+  "releases_etag": "\"cae9fd5e5d8a5b6202cc537533399f22c3c4b110d2e101f79c9e48cfcf928c60\""
 }

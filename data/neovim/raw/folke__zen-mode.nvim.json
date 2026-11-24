@@ -1,10 +1,10 @@
 {
   "slug": "folke/zen-mode.nvim",
-  "fetched_at": "2026-11-23T13:00:40.194025046Z",
+  "fetched_at": "2026-11-24T14:07:46.434258053Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 2166,
+    "stars": 2165,
     "forks": 77,
     "description": "🧘  Distraction-free coding for Neovim",
     "license_spdx": "Apache-2.0",
@@ -23,6 +23,6 @@
     "readme_len": 7690
   },
   "slow_fetched_at": "2026-11-13T11:24:16.664554358Z",
-  "commits_etag": "\"abcd81b0bbee3e24c8f7745403891781a38f969b6cd2954b5414da17505f3b40\"",
-  "releases_etag": "\"29f3380f3226d6aba99feb3fb537751f620207d9c89761646b4862a51906ffce\""
+  "commits_etag": "\"1f1626054028bf0728e26986493fad2af4aab42ad27bdd188cc3448eb6e0d532\"",
+  "releases_etag": "\"37bad0603c3bc1199e2cd8834ef60a030d2d0a97d00a33b9777dbb40889d416b\""
 }

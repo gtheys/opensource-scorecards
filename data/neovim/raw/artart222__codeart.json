@@ -1,10 +1,10 @@
 {
   "slug": "artart222/codeart",
-  "fetched_at": "2026-11-23T12:45:12.829605240Z",
+  "fetched_at": "2026-11-24T13:48:42.774406766Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 906,
+    "stars": 905,
     "forks": 33,
     "description": "Use NeoVim as general purpose IDE",
     "license_spdx": "GPL-3.0",
@@ -27,6 +27,6 @@
     "readme_len": 7535
   },
   "slow_fetched_at": "2026-11-13T11:06:19.937956959Z",
-  "commits_etag": "\"ea65aa3c5106f5fec8f3cae5e6f8ada47ecf9a5c690ccf3d929b34e3552d8810\"",
-  "releases_etag": "\"9d521a13d04f2a1b97c27a2afbbc183aab86a611f66b999e799ec95cc58954f5\""
+  "commits_etag": "\"91ec4f9b83e30e9b01499742f3edcac335ab62b78daa44c3d587bcd3b68723bd\"",
+  "releases_etag": "\"c94d6c53f27b13a8a49509a8aeff5629467c9bcdc1bdbbeee2cb3181d5020965\""
 }

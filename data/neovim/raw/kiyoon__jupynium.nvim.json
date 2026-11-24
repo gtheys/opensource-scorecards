@@ -1,6 +1,6 @@
 {
   "slug": "kiyoon/jupynium.nvim",
-  "fetched_at": "2026-11-23T13:09:58.015168263Z",
+  "fetched_at": "2026-11-24T14:19:11.252804969Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 23700
   },
   "slow_fetched_at": "2026-11-14T10:49:39.442786646Z",
-  "commits_etag": "\"1580e1b2d75ed401f6f31f743890cd155fdc11f11e30d5a5e8f1866c556a027f\"",
-  "releases_etag": "\"0de26cc1275fa750891933e42080aeb5ea5df4ffc6f4071ba89e9e9be58fc387\""
+  "commits_etag": "\"bcfdc0265b5daacc834636e235cb3096acdb1beb6870dfaf785d60e0500d14a3\"",
+  "releases_etag": "\"9be9b3d57876eec12ec1c9d974fea7a120e60d6df66a8dff9d8323eecb965b6e\""
 }

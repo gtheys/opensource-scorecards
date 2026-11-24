@@ -1,6 +1,6 @@
 {
   "slug": "0xjohnnyboy/scretch.nvim",
-  "fetched_at": "2026-11-23T12:40:41.309595292Z",
+  "fetched_at": "2026-11-24T13:43:46.095279591Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 6559
   },
   "slow_fetched_at": "2026-11-13T11:01:26.232240190Z",
-  "commits_etag": "\"bda82a70ca9db952cf2aa79d965f2482b925bb7a6b21b0abe9633dfad3e3255c\"",
-  "releases_etag": "\"972ca9b7920bb9ed423ba958907c60946d61ca742c1188b778d0d06e4cd93a2a\""
+  "commits_etag": "\"fe9b4b32f106fea35b3d54619e77f71d4f098c8850fa0993ab24109ce03cfd62\"",
+  "releases_etag": "\"e121f7649fc1d80cf5ddf8421ecc1d25af3cd720ffd9bd62a1903cb46f82eecb\""
 }

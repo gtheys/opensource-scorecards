@@ -1,6 +1,6 @@
 {
   "slug": "aserowy/tmux.nvim",
-  "fetched_at": "2026-11-23T12:45:24.967952878Z",
+  "fetched_at": "2026-11-24T13:48:53.689280189Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -18,15 +18,15 @@
     "contributors_12mo": 3,
     "top_author_commit_share": 0.4,
     "top_author": {
-      "login": "askoufis",
-      "account_created_at": "2013-10-11T09:33:28Z",
-      "other_repos_star_sum": 7
+      "login": "rudenkornk",
+      "account_created_at": "2017-04-26T15:57:41Z",
+      "other_repos_star_sum": 15
     },
     "has_ci": true,
     "has_tests": true,
     "readme_len": 14092
   },
   "slow_fetched_at": "2026-11-13T11:06:30.268450014Z",
-  "commits_etag": "\"b6c27e959e23243f897108b26a18474367233cf09e02b7a27855319007376f61\"",
-  "releases_etag": "\"064b23601e52b2de987b73c46bc995a0139cbb7cccf2222e02509af7eed2edb4\""
+  "commits_etag": "\"ce35d4831ce9150e9815092cf10315a06d2c1162e1ec5f1ebc482ca2fc222d7e\"",
+  "releases_etag": "\"ebf85665c50ec132503c5e077e15f36a4ee3bd7aa6218510e22f453bc7dc21cf\""
 }

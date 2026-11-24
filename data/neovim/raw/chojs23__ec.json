@@ -1,10 +1,10 @@
 {
   "slug": "chojs23/ec",
-  "fetched_at": "2026-11-23T12:50:11.140722667Z",
+  "fetched_at": "2026-11-24T13:53:43.372248019Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 326,
+    "stars": 327,
     "forks": 8,
     "description": "Terminal-native 3-way git mergetool and diff viewer",
     "license_spdx": "MIT",
@@ -27,6 +27,6 @@
     "readme_len": 12202
   },
   "slow_fetched_at": "2026-11-13T11:11:16.404603365Z",
-  "commits_etag": "\"a944b10d014b19eef8183b1a2d9ec0f545d50ad69ae265ef9cb676db53f3d50b\"",
-  "releases_etag": "\"84d49cc0bcfc6854337eaa40df82c0c860889d99ebbed75d78900a2cce4ce38b\""
+  "commits_etag": "\"dadb2407ca65395ec71efe26f6b0dbba0072b89a0a7e57b146575ed32ae65c77\"",
+  "releases_etag": "\"47b373958c3828519bbad4a0e7654e67c54893a83dc1275157f09477878078cd\""
 }

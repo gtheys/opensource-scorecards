@@ -1,6 +1,6 @@
 {
   "slug": "darazaki/indent-o-matic",
-  "fetched_at": "2026-11-23T12:54:35.496141323Z",
+  "fetched_at": "2026-11-24T13:59:49.274153095Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -12,11 +12,11 @@
     "commits_90d": 2,
     "releases_365d": 0,
     "median_issue_close_days": 4.67234375,
-    "median_pr_close_days": 0.0031134259259259257,
+    "median_pr_close_days": 0.0024652777777777776,
     "open_issues": 0,
     "closed_issues_sampled": 10,
     "contributors_12mo": 2,
-    "top_author_commit_share": 0.875,
+    "top_author_commit_share": 0.75,
     "top_author": {
       "login": "Darazaki",
       "account_created_at": "2018-02-22T12:17:13Z",
@@ -27,6 +27,6 @@
     "readme_len": 3460
   },
   "slow_fetched_at": "2026-11-13T11:16:25.175153352Z",
-  "commits_etag": "\"298e4be0d1c2176cd17737f520e0b0952ab051ae083d0b37f79caad9d25546a6\"",
-  "releases_etag": "\"064b23601e52b2de987b73c46bc995a0139cbb7cccf2222e02509af7eed2edb4\""
+  "commits_etag": "\"3b910a07d5dd8ea14c6f3e559dd8772acb3f6c588934cad8ad57031f3887f4ad\"",
+  "releases_etag": "\"ebf85665c50ec132503c5e077e15f36a4ee3bd7aa6218510e22f453bc7dc21cf\""
 }

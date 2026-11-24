@@ -1,6 +1,6 @@
 {
   "slug": "karnull/switchboard.nvim",
-  "fetched_at": "2026-11-23T13:08:53.167730323Z",
+  "fetched_at": "2026-11-24T14:17:51.780904372Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 4851
   },
   "slow_fetched_at": "2026-11-14T10:48:32.385454488Z",
-  "commits_etag": "\"1b536d2304b874897e50c5767815d84b9785dce8fbab9e7399f1035efd87b7c1\"",
-  "releases_etag": "\"007070648701c3c42ef3500d1867e2feb65f09f149e67d4decdeb5e54457667b\""
+  "commits_etag": "\"a9a2ac9e4e29795b789ccd0c6f35dcdbdbc875312ae7b152b4f223e564b33903\"",
+  "releases_etag": "\"93b0cbc5aaca5165a900b7a52c56778392eb122b66ce2be326bda1392ca2afd6\""
 }

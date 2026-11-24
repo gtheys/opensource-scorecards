@@ -1,10 +1,10 @@
 {
   "slug": "heilgar/bookmarks.nvim",
-  "fetched_at": "2026-11-23T13:03:18.664426724Z",
+  "fetched_at": "2026-11-24T14:11:00.408652802Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 28,
+    "stars": 29,
     "forks": 2,
     "description": "A Neovim plugin for managing line bookmarks with Telescope integration and SQLite storage. Mark, organize, and quickly navigate between important locations in your codebase.",
     "license_spdx": "MIT",
@@ -27,6 +27,6 @@
     "readme_len": 10187
   },
   "slow_fetched_at": "2026-11-13T11:27:26.598972076Z",
-  "commits_etag": "\"632fb53cf3ee9ab7f5c04278fc25661f2565ea0c6fa2ca5245c62b2876a221c0\"",
-  "releases_etag": "\"43857b771687e6e2d516bcc5cb6eaf62aa24974970a3a3686badaf9347dce112\""
+  "commits_etag": "\"3459265c6f29c8c1522656e4262305d6c986a1a97a67dee424bc2eef43cf41ec\"",
+  "releases_etag": "\"facf06579ef7c3ee0edff6d93aedf3b6caf715c124facca04a74e3a9509a4381\""
 }

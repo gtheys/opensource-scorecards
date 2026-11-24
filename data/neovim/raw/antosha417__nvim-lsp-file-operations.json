@@ -1,6 +1,6 @@
 {
   "slug": "antosha417/nvim-lsp-file-operations",
-  "fetched_at": "2026-11-23T12:44:50.164315042Z",
+  "fetched_at": "2026-11-24T13:48:22.914110515Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -12,11 +12,11 @@
     "commits_90d": 108,
     "releases_365d": 6,
     "median_issue_close_days": 505.9024074074074,
-    "median_pr_close_days": 2.8640162037037036,
+    "median_pr_close_days": 3.3581770833333335,
     "open_issues": 1,
     "closed_issues_sampled": 24,
     "contributors_12mo": 8,
-    "top_author_commit_share": 0.9181818181818182,
+    "top_author_commit_share": 0.9174311926605505,
     "top_author": {
       "login": "DrKJeff16",
       "account_created_at": "2020-09-29T00:05:14Z",
@@ -27,6 +27,6 @@
     "readme_len": 8322
   },
   "slow_fetched_at": "2026-11-13T11:05:58.466956218Z",
-  "commits_etag": "\"84b8ae6ef8f651712c1e1df102f059f30e47984150bc9f3b4ac9621405b98d42\"",
-  "releases_etag": "\"20ec2094d73ba28a65c27d7ca8f3fa4a787c507603edf8e20032c662f3c6f66a\""
+  "commits_etag": "\"da923dc0e26ba5879ae1b2a6ef90d69443fdc67435c6e97e260c648e6dee46c1\"",
+  "releases_etag": "\"080e464573dd9d7ae3ccf4a718936cc1d202edfaadfbedcada3295fffd6c699b\""
 }

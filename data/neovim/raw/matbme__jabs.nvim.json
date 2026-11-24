@@ -1,6 +1,6 @@
 {
   "slug": "matbme/jabs.nvim",
-  "fetched_at": "2026-11-23T13:15:43.802396181Z",
+  "fetched_at": "2026-11-24T14:26:06.698080126Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 5714
   },
   "slow_fetched_at": "2026-11-14T10:55:15.458037272Z",
-  "commits_etag": "\"b6f9f01e7ae387013b14be3f80440091305874bba40adb10a3596e2942581ca9\"",
-  "releases_etag": "\"064b23601e52b2de987b73c46bc995a0139cbb7cccf2222e02509af7eed2edb4\""
+  "commits_etag": "\"229cbc971e3d71624916a388b01a704edf11da070e3c1e007854aafc7b499079\"",
+  "releases_etag": "\"ebf85665c50ec132503c5e077e15f36a4ee3bd7aa6218510e22f453bc7dc21cf\""
 }

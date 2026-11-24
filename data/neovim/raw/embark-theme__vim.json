@@ -1,10 +1,10 @@
 {
   "slug": "embark-theme/vim",
-  "fetched_at": "2026-11-23T12:57:42.950204187Z",
+  "fetched_at": "2026-11-24T14:04:08.988000568Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 735,
+    "stars": 736,
     "forks": 33,
     "description": "An ambitious theme for vim",
     "license_spdx": "MIT",
@@ -27,6 +27,6 @@
     "readme_len": 2617
   },
   "slow_fetched_at": "2026-11-13T11:20:44.831177078Z",
-  "commits_etag": "\"850c3386e99668f2b5d0e0e361274a9b5828274989b23d25969b7c140a6c008b\"",
-  "releases_etag": "\"064b23601e52b2de987b73c46bc995a0139cbb7cccf2222e02509af7eed2edb4\""
+  "commits_etag": "\"3f53978a531a1d64333afc152e519cc4dc68c7e753bf19dc6c0e8d86d958b423\"",
+  "releases_etag": "\"ebf85665c50ec132503c5e077e15f36a4ee3bd7aa6218510e22f453bc7dc21cf\""
 }

@@ -1,6 +1,6 @@
 {
   "slug": "dmmulroy/tsc.nvim",
-  "fetched_at": "2026-11-23T12:55:48.092411748Z",
+  "fetched_at": "2026-11-24T14:01:34.438088548Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -18,15 +18,15 @@
     "contributors_12mo": 3,
     "top_author_commit_share": 0.3333333333333333,
     "top_author": {
-      "login": "davidmh",
-      "account_created_at": "2011-02-01T08:26:21Z",
-      "other_repos_star_sum": 251
+      "login": "nounder",
+      "account_created_at": "2011-05-03T14:48:03Z",
+      "other_repos_star_sum": 193
     },
     "has_ci": true,
     "has_tests": false,
     "readme_len": 8981
   },
   "slow_fetched_at": "2026-11-13T11:18:06.767577980Z",
-  "commits_etag": "\"6bf5c50c8f2fb02eff1d7cf56627009e1d2baedb327187376e58e21526c74503\"",
-  "releases_etag": "\"833974ae6d5d11b2d836a426be4d2731190fe258f44d0cb0c2afeb62e9704a40\""
+  "commits_etag": "\"a818d11add58373e42d52931959f11b623b92b1cbb65d6d309a92b2cf7fb6862\"",
+  "releases_etag": "\"55b42776ba0b7eea20b865fb28be7c45e4ff5ebd035afea8b382664616d5e096\""
 }

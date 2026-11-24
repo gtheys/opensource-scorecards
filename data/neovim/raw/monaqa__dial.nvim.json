@@ -1,6 +1,6 @@
 {
   "slug": "monaqa/dial.nvim",
-  "fetched_at": "2026-11-23T13:18:54.782690725Z",
+  "fetched_at": "2026-11-24T14:29:46.600698706Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -16,17 +16,17 @@
     "open_issues": 20,
     "closed_issues_sampled": 24,
     "contributors_12mo": 2,
-    "top_author_commit_share": 0.5,
+    "top_author_commit_share": 0.75,
     "top_author": {
-      "login": "monaqa",
-      "account_created_at": "2019-03-24T13:09:54Z",
-      "other_repos_star_sum": 1578
+      "login": "kawarimidoll",
+      "account_created_at": "2014-07-13T00:36:21Z",
+      "other_repos_star_sum": 658
     },
     "has_ci": true,
     "has_tests": true,
     "readme_len": 16180
   },
   "slow_fetched_at": "2026-11-15T11:23:27.016344124Z",
-  "commits_etag": "\"375b3395819aea1ed24b61936f54930d381c938382bcdade3ce12b2401e137c7\"",
-  "releases_etag": "\"5f55e04a938b7c8f29b3690bde637a0801e8ce6d4c17a926fe017d31ac3c0432\""
+  "commits_etag": "\"6421c3029fbfbb18b71e40de5cf2c724242effcb4e0e0c66678284e3cd478432\"",
+  "releases_etag": "\"1f550aa9820ff6a0495044a9f5c28e7ac37c4e880bddf3ce70dcd7fd65716251\""
 }

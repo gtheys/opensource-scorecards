@@ -1,6 +1,6 @@
 {
   "slug": "astronvim/astronvim",
-  "fetched_at": "2026-11-23T12:45:34.648739514Z",
+  "fetched_at": "2026-11-24T13:49:04.932891637Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 10253
   },
   "slow_fetched_at": "2026-11-13T11:06:41.076765072Z",
-  "commits_etag": "\"36d8c9bf73cf4e0aa137b264a578b736c1fd9ab2c153dfe2bed5fb4b700a2944\"",
-  "releases_etag": "\"bc4b7c28e7df9178577bcbc1b703ec4ef92cc38be22cbad0eb426be028395620\""
+  "commits_etag": "\"a31a40647b55549239fc1be1a8bf42d77ac713b1d42fa76107495e1b3f7fdf71\"",
+  "releases_etag": "\"0b3045faddca97522604879a76192fb73eb66c58c79d70c0a041c7bf03e03824\""
 }

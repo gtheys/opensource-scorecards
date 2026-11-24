@@ -1,0 +1,32 @@
+{
+  "slug": "irdis/swimd",
+  "fetched_at": "2026-11-24T14:13:11.181315790Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 2,
+    "forks": 0,
+    "description": "A fuzzy search Neovim plugin with Smith Waterman algo in C and SIMD ",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-11-22T19:00:33Z",
+    "commits_90d": 91,
+    "releases_365d": 0,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.1870138888888889,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "Irdis",
+      "account_created_at": "2011-05-30T18:27:10Z",
+      "other_repos_star_sum": 111
+    },
+    "has_ci": false,
+    "has_tests": true,
+    "readme_len": 2501
+  },
+  "slow_fetched_at": "2026-11-24T14:13:11.181315790Z",
+  "commits_etag": "\"a1038026e269bbbf021b0cb1cf84b0811200067e8c0b91eed5f81a16edede32c\"",
+  "releases_etag": "\"ebf85665c50ec132503c5e077e15f36a4ee3bd7aa6218510e22f453bc7dc21cf\""
+}

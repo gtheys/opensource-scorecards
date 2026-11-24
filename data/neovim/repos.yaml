@@ -475,6 +475,7 @@ repos:
   - hakonharnes/img-clip.nvim
   - happyeric77/joplin.nvim
   - harrisoncramer/gitlab.nvim
+  - harukikuri/tsconfig-lens.nvim
   - harukikuri/viteenv.nvim
   - hasansujon786/nvim-navbuddy
   - hat0uma/csvview.nvim
@@ -528,6 +529,7 @@ repos:
   - inhesrom/remote-ssh.nvim
   - inlyne-project/inlyne
   - iquzart/toggleword.nvim
+  - irdis/swimd
   - iron-e/nvim-cartographer
   - iron-e/nvim-highlite
   - is0n/jaq-nvim
@@ -656,6 +658,7 @@ repos:
   - klen/nvim-test
   - kndndrj/nvim-dbee
   - kobbikobb/move-lines.nvim
+  - kochetkov-ma/brewpage-nvim
   - kohei-wada/yadm-git.nvim
   - kokusenz/deltaview.nvim
   - konapun/vacuumline.nvim
@@ -742,6 +745,7 @@ repos:
   - mahyarmirrashed/famous-quotes.nvim
   - mahyarmirrashed/search-and-replace.nvim
   - malbertzard/inline-fold.nvim
+  - malick-tammal/chroma.nvim
   - mangelozzi/rgflow.nvim
   - marchamamji/runner.nvim
   - marekh19/meowsoot.nvim

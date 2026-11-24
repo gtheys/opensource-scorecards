@@ -1,6 +1,6 @@
 {
   "slug": "dracula/vim",
-  "fetched_at": "2026-11-23T12:56:23.873170280Z",
+  "fetched_at": "2026-11-24T14:02:23.004201036Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 1600
   },
   "slow_fetched_at": "2026-11-13T11:18:51.427043102Z",
-  "commits_etag": "\"57994cb37f3ba950ade6427236fe96a125d6e3e6e0176913c6a9d3d774794fd6\"",
-  "releases_etag": "\"8f4676d8a3512cb8c0700547ada2138bbfe4a4142ece5d1333ceae9f1e251a4c\""
+  "commits_etag": "\"4742be04d4d3ff4f89f3a051942a3438d37293429faca9033fdff8e50581e455\"",
+  "releases_etag": "\"1f59f679dc4ab59ad53314480ea925ec5f9f10e8b2631bb4ef9e3e40d94a1135\""
 }
