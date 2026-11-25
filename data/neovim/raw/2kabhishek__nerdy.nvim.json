@@ -1,10 +1,10 @@
 {
   "slug": "2kabhishek/nerdy.nvim",
-  "fetched_at": "2026-11-24T13:44:04.313130876Z",
+  "fetched_at": "2026-11-25T12:55:40.272958017Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 433,
+    "stars": 432,
     "forks": 10,
     "description": "Find Nerd Glyphs Easily 🤓🔭",
     "license_spdx": "GPL-3.0",
@@ -27,6 +27,6 @@
     "readme_len": 7200
   },
   "slow_fetched_at": "2026-11-13T11:01:43.896209360Z",
-  "commits_etag": "\"3dc770291ffa787c3c1d6158cd1aada1ac061dc2371f5864cfa7e0deb921f14e\"",
-  "releases_etag": "\"11e79435bad5793dc46cf5dbb6ddd6aded1d7dda49fad18788ec090d73b176c1\""
+  "commits_etag": "\"2b3522379913c9847cd979316767c5e423f7435ee69f9b20c76fa649a378a462\"",
+  "releases_etag": "\"d60bd8af1d79f950dd8af3c6bb6c4fa25a5071f1537aebb7df9a46a603ad5064\""
 }

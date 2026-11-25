@@ -1,6 +1,6 @@
 {
   "slug": "chrisgrieser/nvim-genghis",
-  "fetched_at": "2026-11-24T13:54:08.610285602Z",
+  "fetched_at": "2026-11-25T13:04:28.176823491Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -16,7 +16,7 @@
     "open_issues": 2,
     "closed_issues_sampled": 18,
     "contributors_12mo": 2,
-    "top_author_commit_share": 0.9848484848484849,
+    "top_author_commit_share": 0.9814814814814815,
     "top_author": {
       "login": "chrisgrieser",
       "account_created_at": "2020-10-22T10:50:35Z",
@@ -27,6 +27,6 @@
     "readme_len": 7418
   },
   "slow_fetched_at": "2026-11-13T11:11:37.898739247Z",
-  "commits_etag": "\"46862a7c4b79ba2ec4a3d0eda51bdd5d75bd560fd8da442ae3f330489b23eaa0\"",
-  "releases_etag": "\"ebf85665c50ec132503c5e077e15f36a4ee3bd7aa6218510e22f453bc7dc21cf\""
+  "commits_etag": "\"81092ef0955b8fca268306f0c637c0d77e4f1f9c8798ad77a057507097291466\"",
+  "releases_etag": "\"5447f9da702058fbeb0b0ce2faf81a88df98b951c0227af6bd99163899b9cce9\""
 }

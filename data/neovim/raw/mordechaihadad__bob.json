@@ -1,6 +1,6 @@
 {
   "slug": "mordechaihadad/bob",
-  "fetched_at": "2026-11-24T14:29:56.387484744Z",
+  "fetched_at": "2026-11-25T13:35:27.167415768Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 19001
   },
   "slow_fetched_at": "2026-11-15T11:23:33.718936245Z",
-  "commits_etag": "\"95bd84553d54a14dcf2340f303ae808381e7adfbf24520fe0faa0d19ab55bdda\"",
-  "releases_etag": "\"3e0f1f13528e106efa335899d06d0c1a0fe5fa2ede5286d36b2dc37ca16b1141\""
+  "commits_etag": "\"755502b4d5ae746ea2f3834880a5455e4553ab94e0c3d8284557ec9ac61224a3\"",
+  "releases_etag": "\"e92b00538dd5a1bb0d171ab4b8c3ffc086254fdc51589d9886be3ec1bc0aa455\""
 }

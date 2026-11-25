@@ -1,10 +1,10 @@
 {
   "slug": "andersevenrud/nvim_context_vt",
-  "fetched_at": "2026-11-24T13:47:53.934652440Z",
+  "fetched_at": "2026-11-25T12:58:58.334559729Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 418,
+    "stars": 417,
     "forks": 19,
     "description": "Virtual text context for neovim treesitter",
     "license_spdx": "MIT",
@@ -27,6 +27,6 @@
     "readme_len": 3094
   },
   "slow_fetched_at": "2026-11-13T11:05:35.051381611Z",
-  "commits_etag": "\"346f39e39ed700d1e2f12a922e0fc0221725f4c2ae52c7a16d914d67e05af254\"",
-  "releases_etag": "\"ebf85665c50ec132503c5e077e15f36a4ee3bd7aa6218510e22f453bc7dc21cf\""
+  "commits_etag": "\"989b76fb7d75a65d0ec760cc087a562f824395990c869dca6a85641e47011f2d\"",
+  "releases_etag": "\"5447f9da702058fbeb0b0ce2faf81a88df98b951c0227af6bd99163899b9cce9\""
 }

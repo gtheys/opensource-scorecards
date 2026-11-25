@@ -1,6 +1,6 @@
 {
   "slug": "famiu/bufdelete.nvim",
-  "fetched_at": "2026-11-24T14:05:29.757032480Z",
+  "fetched_at": "2026-11-25T13:14:23.683713907Z",
   "status": "ok",
   "data": {
     "archived": true,
@@ -23,6 +23,6 @@
     "readme_len": 3906
   },
   "slow_fetched_at": "2026-11-13T11:22:07.190600950Z",
-  "commits_etag": "\"73e184193be06c65202d87d3983b95b49bef1acc07caaea475e8c052a5889b47\"",
-  "releases_etag": "\"ebf85665c50ec132503c5e077e15f36a4ee3bd7aa6218510e22f453bc7dc21cf\""
+  "commits_etag": "\"7a75a59722708e46470df5000c4aca4cd14cb86c935824565897652497c08b2a\"",
+  "releases_etag": "\"5447f9da702058fbeb0b0ce2faf81a88df98b951c0227af6bd99163899b9cce9\""
 }

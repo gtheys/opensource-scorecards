@@ -1,6 +1,6 @@
 {
   "slug": "matthandzel/taskwarrior.nvim",
-  "fetched_at": "2026-11-24T14:26:11.527925062Z",
+  "fetched_at": "2026-11-25T13:32:13.795001107Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 21407
   },
   "slow_fetched_at": "2026-11-14T10:55:19.620139312Z",
-  "commits_etag": "\"b4aefc27f539617f95e85ece9623f46cb820931402ad47605feb4e5d255ae6e3\"",
-  "releases_etag": "\"2fbcbaa3378fb1738bcc8a956ab79bc981ed405e6111cf0af9b23f430d8ef064\""
+  "commits_etag": "\"88cbee7ba245fafbbeaa1285277f84556784dbe09a392829c0b77197219645e2\"",
+  "releases_etag": "\"38ea64ea45d70bee134798edf275c6711a61d6bf1998396eedf874012081177e\""
 }

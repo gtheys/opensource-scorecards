@@ -1,6 +1,6 @@
 {
   "slug": "cxwx/rslime.nvim",
-  "fetched_at": "2026-11-24T13:58:58.881223187Z",
+  "fetched_at": "2026-11-25T13:08:26.112820206Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -8,8 +8,8 @@
     "forks": 0,
     "description": "slime like ROOT(CERN) repl",
     "license_spdx": "MIT",
-    "last_commit_at": "2026-11-15T04:21:37Z",
-    "commits_90d": 11,
+    "last_commit_at": "2026-11-25T12:24:27Z",
+    "commits_90d": 14,
     "releases_365d": 1,
     "median_issue_close_days": null,
     "median_pr_close_days": null,
@@ -27,6 +27,6 @@
     "readme_len": 15776
   },
   "slow_fetched_at": "2026-11-19T11:52:50.665618223Z",
-  "commits_etag": "\"0b2289d0b985ec3cf9bfe16bb405298c75b104f2c38019592ab8a59e42675e4e\"",
-  "releases_etag": "\"37fc89cc3d13643ae2e29e9fb20d6dd780acef9f29605ffa916ae800e0278330\""
+  "commits_etag": "\"fc467bb3d77bcf9e00cc6bd26a800a491fd6bf57cb336353eb10ae6913da02c5\"",
+  "releases_etag": "\"8249114acf068b607a21716b59b123d3cc737b290b0db2df339695ae21024839\""
 }

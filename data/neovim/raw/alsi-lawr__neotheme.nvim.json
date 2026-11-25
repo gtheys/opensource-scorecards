@@ -1,6 +1,6 @@
 {
   "slug": "alsi-lawr/neotheme.nvim",
-  "fetched_at": "2026-11-24T13:47:33.407521278Z",
+  "fetched_at": "2026-11-25T12:58:40.211705305Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 2569
   },
   "slow_fetched_at": "2026-11-13T11:05:10.169968334Z",
-  "commits_etag": "\"167258274b9f3f380380f392582295ec569498a7258a8e8ea00e6ceb05445aae\"",
-  "releases_etag": "\"b3f5cf21c7fe8238ecc3ef80bfc07c55d12390c05d017e243100fd444e9f8eaa\""
+  "commits_etag": "\"b1599b42c9bf306974c28d7197d0ee4d58e0bfab52568aeb73930bc0f2bb5ea7\"",
+  "releases_etag": "\"1f923c8af8b4cf3ee1bd9c2d1683d38a4ac52d15a9ed3fdce4fcc2271fdbc566\""
 }

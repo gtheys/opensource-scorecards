@@ -1,10 +1,10 @@
 {
   "slug": "mikavilpas/yazi.nvim",
-  "fetched_at": "2026-11-24T14:28:04.812679479Z",
+  "fetched_at": "2026-11-25T13:33:51.843353581Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 1902,
+    "stars": 1903,
     "forks": 60,
     "description": "A Neovim Plugin for the yazi terminal file manager",
     "license_spdx": "MIT",
@@ -13,7 +13,7 @@
     "releases_365d": 21,
     "median_issue_close_days": 2.229050925925926,
     "median_pr_close_days": 0.0026967592592592594,
-    "open_issues": 6,
+    "open_issues": 5,
     "closed_issues_sampled": 1,
     "contributors_12mo": 6,
     "top_author_commit_share": 0.9593023255813954,
@@ -27,6 +27,6 @@
     "readme_len": 16939
   },
   "slow_fetched_at": "2026-11-15T11:22:04.544010571Z",
-  "commits_etag": "\"7c53d56ee64fe4af01480803f942da0bab150e6353064775d3ac380b8e8ebf2a\"",
-  "releases_etag": "\"9a0257b58259395b267c458e7e42b5fd0f1587394ba40cb80f104c0b932dd0ea\""
+  "commits_etag": "\"56f4982b841f50a07050938a5b4cdd8db7eeacb8c554bd539c705201a26b4d72\"",
+  "releases_etag": "\"9173a4ac0d93d200f8d07b620f97a6f8e1d051b7966a4c1e9733df5682d53734\""
 }

@@ -1,6 +1,6 @@
 {
   "slug": "barreiroleo/ltex_extra.nvim",
-  "fetched_at": "2026-11-24T13:50:30.469641564Z",
+  "fetched_at": "2026-11-25T13:01:18.822783614Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 6562
   },
   "slow_fetched_at": "2026-11-13T11:08:07.590055665Z",
-  "commits_etag": "\"ed04f11e9a1689f3ae05a0b62026d8981f1502965dd0f38209187cd1609de872\"",
-  "releases_etag": "\"52e3d4d673e0def1cc1cf1a42f46942df1f5d94e11eadff0fa176dc41a6a1afe\""
+  "commits_etag": "\"5da4db07cccbfff564187072fdfc3daa21d6985f5ca3e7f1ed790c03b73c4716\"",
+  "releases_etag": "\"f3a0ccad14e75a66894e0b798e50a10214df58da41cec6d2124e528ce310f80e\""
 }

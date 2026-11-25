@@ -1,6 +1,6 @@
 {
   "slug": "mawkler/modicator.nvim",
-  "fetched_at": "2026-11-24T14:26:23.523655330Z",
+  "fetched_at": "2026-11-25T13:32:25.261668687Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 5029
   },
   "slow_fetched_at": "2026-11-14T10:55:29.850423489Z",
-  "commits_etag": "\"dddb251b810e9f057147a17bd61a15c69e358a3d7faf08fbae78006db35e5c82\"",
-  "releases_etag": "\"ebf85665c50ec132503c5e077e15f36a4ee3bd7aa6218510e22f453bc7dc21cf\""
+  "commits_etag": "\"2add053e094ddc315c086d75d7204b0b869dd4af366d07b2f25bd3689c23d06b\"",
+  "releases_etag": "\"5447f9da702058fbeb0b0ce2faf81a88df98b951c0227af6bd99163899b9cce9\""
 }

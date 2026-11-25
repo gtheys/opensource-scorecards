@@ -1,10 +1,10 @@
 {
   "slug": "akinsho/bufferline.nvim",
-  "fetched_at": "2026-11-24T13:46:37.221664730Z",
+  "fetched_at": "2026-11-25T12:57:50.894561268Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 4392,
+    "stars": 4394,
     "forks": 239,
     "description": "A snazzy bufferline for Neovim",
     "license_spdx": "GPL-3.0",
@@ -23,6 +23,6 @@
     "readme_len": 12641
   },
   "slow_fetched_at": "2026-11-13T11:04:13.429097843Z",
-  "commits_etag": "\"71ed1d82c5820631627005c30dd8e1a20af4ac4de31e2865ccc542ba4e987a84\"",
-  "releases_etag": "\"4f051355a1fbce32b93894e3266b324b0d30412c7ecc63690d380da889e4e526\""
+  "commits_etag": "\"78177596205f7460e4215fcd38f88abf4e7c5c28ccdebc4a63f937de3b1178df\"",
+  "releases_etag": "\"9b0dc643e694a83ab75c6c3b1e4cf986d5e3d1e5996672a74351a105e172d038\""
 }

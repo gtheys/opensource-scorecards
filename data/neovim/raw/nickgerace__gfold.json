@@ -1,6 +1,6 @@
 {
   "slug": "nickgerace/gfold",
-  "fetched_at": "2026-11-23T13:22:28.177759724Z",
+  "fetched_at": "2026-11-25T13:38:46.068774215Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 9165
   },
   "slow_fetched_at": "2026-11-17T12:31:36.024058901Z",
-  "commits_etag": "\"621fdb42727562cc24ee4385b5b0f45b117a68764a46b15411be7fd5649ed8a0\"",
-  "releases_etag": "\"6df46db85f55fcfc7e9bc7ee333f142fd260628519b40e55ec0d5c4443b5ff30\""
+  "commits_etag": "\"29aa511b228807d8c0bd9c7ce2ca5841e76ed10f53b2f4f9f1cf7db98a255059\"",
+  "releases_etag": "\"c458f0f6bf249271c2df95d74f4aca59c4d1c8ff385f45ab00899bd5b69c3222\""
 }

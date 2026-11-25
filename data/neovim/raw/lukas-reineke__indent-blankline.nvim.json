@@ -1,22 +1,22 @@
 {
   "slug": "lukas-reineke/indent-blankline.nvim",
-  "fetched_at": "2026-11-24T14:23:52.023311164Z",
+  "fetched_at": "2026-11-25T13:30:16.464820460Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 5012,
+    "stars": 5010,
     "forks": 126,
     "description": "Indent guides  for Neovim",
     "license_spdx": "MIT",
-    "last_commit_at": "2026-09-04T00:57:28Z",
-    "commits_90d": 5,
-    "releases_365d": 4,
-    "median_issue_close_days": 0.7080671296296296,
-    "median_pr_close_days": 0.002361111111111111,
-    "open_issues": 28,
-    "closed_issues_sampled": 37,
-    "contributors_12mo": 4,
-    "top_author_commit_share": 0.5,
+    "last_commit_at": "2026-11-25T13:12:11Z",
+    "commits_90d": 8,
+    "releases_365d": 5,
+    "median_issue_close_days": 1.210949074074074,
+    "median_pr_close_days": 0.0024189814814814816,
+    "open_issues": 25,
+    "closed_issues_sampled": 35,
+    "contributors_12mo": 5,
+    "top_author_commit_share": 0.5555555555555556,
     "top_author": {
       "login": "lukas-reineke",
       "account_created_at": "2015-06-15T18:44:44Z",
@@ -27,6 +27,6 @@
     "readme_len": 5110
   },
   "slow_fetched_at": "2026-11-14T10:53:31.004072640Z",
-  "commits_etag": "\"cadbb3682b3f4e6d56181bc45f6392db4ff3fcb965d19f019071bd923daeb2a5\"",
-  "releases_etag": "\"cf31ea6a2316893eb9a67e8a18b8b1ccf208e3b97594e000e8b8a97d86f242f5\""
+  "commits_etag": "\"491501b608c79c189cb6577a54f035364c73398f1ac036dfcae7ccdd23f30d01\"",
+  "releases_etag": "\"2f122da64eda43b4dccf2604f8b9b1cd25ab68959ab13c2872e6845ea15de2bf\""
 }

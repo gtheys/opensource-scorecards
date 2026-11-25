@@ -1,10 +1,10 @@
 {
   "slug": "booperlv/nvim-gomove",
-  "fetched_at": "2026-11-24T13:52:01.709267714Z",
+  "fetched_at": "2026-11-25T13:02:39.857581738Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 204,
+    "stars": 203,
     "forks": 3,
     "description": "A complete plugin for moving and duplicating blocks and lines, with complete fold handling, reindenting, and undoing in one go.",
     "license_spdx": "MIT",
@@ -23,6 +23,6 @@
     "readme_len": 6917
   },
   "slow_fetched_at": "2026-11-13T11:09:41.677677692Z",
-  "commits_etag": "\"88c7296b237ea44768423a65c7910448569b39381f03a0c96a82c6aa05d270de\"",
-  "releases_etag": "\"ebf85665c50ec132503c5e077e15f36a4ee3bd7aa6218510e22f453bc7dc21cf\""
+  "commits_etag": "\"24013ab8056b960027c5df7b7763d0f68741b4b47732499fb4db002cedcc4b31\"",
+  "releases_etag": "\"5447f9da702058fbeb0b0ce2faf81a88df98b951c0227af6bd99163899b9cce9\""
 }

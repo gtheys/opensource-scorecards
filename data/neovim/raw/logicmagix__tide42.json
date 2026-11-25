@@ -1,6 +1,6 @@
 {
   "slug": "logicmagix/tide42",
-  "fetched_at": "2026-11-24T14:23:15.922075627Z",
+  "fetched_at": "2026-11-25T13:29:46.576606988Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 22610
   },
   "slow_fetched_at": "2026-11-14T10:53:00.317794965Z",
-  "commits_etag": "\"3fe7c9e6b307117ce12676874992e0eb7c0e944d57fcfcf510fab8f059317404\"",
-  "releases_etag": "\"4150f1deee2112442a72aae776fe437c16d30e2308e2faebf3fea4612fb59d11\""
+  "commits_etag": "\"246bfc983f94f70f12f2100c76776299398607c688cf4f94aa4fcf773d677b8c\"",
+  "releases_etag": "\"9a301545bb596b217275cf6dca49a312671a7b3107daaf7fe129deddaea237c5\""
 }

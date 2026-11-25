@@ -1,6 +1,6 @@
 {
   "slug": "lumen-oss/luarocks-tag-release",
-  "fetched_at": "2026-11-24T14:24:01.133888251Z",
+  "fetched_at": "2026-11-25T13:30:24.008676869Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 11853
   },
   "slow_fetched_at": "2026-11-14T10:53:40.132202031Z",
-  "commits_etag": "\"cdddacec0240d4a3df37323ddee69a462e8e1377ad0ce9e541704b6c6b146c6a\"",
-  "releases_etag": "\"6b0d721d07213de47793f31dc156abe4cdf7f2a3633996f65469d472e0d8356a\""
+  "commits_etag": "\"ec9bc60c6d256f417e3403d9266bb1fd488dc6fdefc161317907bc8d7229d0cb\"",
+  "releases_etag": "\"4a3764c0fb19ed756fe32312dd07b9cb81598475f414f47367d087da7e357b4c\""
 }

@@ -1,10 +1,10 @@
 {
   "slug": "hackorum/vapournvim",
-  "fetched_at": "2026-11-24T14:10:08.675169513Z",
+  "fetched_at": "2026-11-25T13:18:39.715886108Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 561,
+    "stars": 560,
     "forks": 47,
     "description": "A NeoVim config for THE ULTIMATE vim IDE-like experience.",
     "license_spdx": "GPL-3.0",
@@ -23,6 +23,6 @@
     "readme_len": 3152
   },
   "slow_fetched_at": "2026-11-13T11:26:36.553790944Z",
-  "commits_etag": "\"5f5c70653cfd9eec199f095fefa3cacbc87463de09710bead20227a6f2f2e18a\"",
-  "releases_etag": "\"ebf85665c50ec132503c5e077e15f36a4ee3bd7aa6218510e22f453bc7dc21cf\""
+  "commits_etag": "\"9ccddce09bedaaf9cdbba8d5f23940fd720bb3bd22c50ca145f585339f14c75a\"",
+  "releases_etag": "\"5447f9da702058fbeb0b0ce2faf81a88df98b951c0227af6bd99163899b9cce9\""
 }

@@ -1,6 +1,6 @@
 {
   "slug": "luxvim/nvim-luxterm",
-  "fetched_at": "2026-11-24T14:24:45.477012242Z",
+  "fetched_at": "2026-11-25T13:31:04.478852792Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 10299
   },
   "slow_fetched_at": "2026-11-14T10:54:13.554682133Z",
-  "commits_etag": "\"18c9310dbff0a81cc490edcdb37e735810d76e92d30a5e0469a40304f28f98ae\"",
-  "releases_etag": "\"ebf85665c50ec132503c5e077e15f36a4ee3bd7aa6218510e22f453bc7dc21cf\""
+  "commits_etag": "\"55f9e31f51ba11cc821755c88daa1d2a4bbf55b216ce23f28cbcc3fb3c003365\"",
+  "releases_etag": "\"5447f9da702058fbeb0b0ce2faf81a88df98b951c0227af6bd99163899b9cce9\""
 }

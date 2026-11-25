@@ -1,6 +1,6 @@
 {
   "slug": "nemanjamalesija/smart-paste.nvim",
-  "fetched_at": "2026-11-24T14:33:04.122822466Z",
+  "fetched_at": "2026-11-25T13:37:58.051412708Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 5351
   },
   "slow_fetched_at": "2026-11-16T11:59:20.512916297Z",
-  "commits_etag": "\"bbe564abec60b1d6a55b7764562a29dd0226298b16e196da196ec7ec3eb8de6d\"",
-  "releases_etag": "\"7a53aad2955bf9276099a5cc59f6a9607655cc75858afb1c0ba009d69a54d2b3\""
+  "commits_etag": "\"c4decf043e127bd413a24256a473c9822dc2fe0e1b3ff5c2314bdc0432a9ec6a\"",
+  "releases_etag": "\"2a2a03b8319d849228bf93efab4d1a544c80ea0d2911c4482efe62546ccedeeb\""
 }

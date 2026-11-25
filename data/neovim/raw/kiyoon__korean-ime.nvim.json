@@ -1,6 +1,6 @@
 {
   "slug": "kiyoon/korean-ime.nvim",
-  "fetched_at": "2026-11-24T14:19:14.715229121Z",
+  "fetched_at": "2026-11-25T13:26:27.962303964Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -18,15 +18,15 @@
     "contributors_12mo": 2,
     "top_author_commit_share": 0.5,
     "top_author": {
-      "login": "ywbird",
-      "account_created_at": "2021-04-29T11:28:02Z",
-      "other_repos_star_sum": 0
+      "login": "kiyoon",
+      "account_created_at": "2015-06-20T17:30:29Z",
+      "other_repos_star_sum": 1183
     },
     "has_ci": false,
     "has_tests": false,
     "readme_len": 4785
   },
   "slow_fetched_at": "2026-11-14T10:49:43.160078414Z",
-  "commits_etag": "\"9b3fdb7e30933f84f97decb29ca8f0050e9933f2de3a7849a900230b9dfd16ae\"",
-  "releases_etag": "\"ebf85665c50ec132503c5e077e15f36a4ee3bd7aa6218510e22f453bc7dc21cf\""
+  "commits_etag": "\"262fcb84d6772422623f9e52901e4e2fade7ca3d38a73661f38508bb5da65334\"",
+  "releases_etag": "\"5447f9da702058fbeb0b0ce2faf81a88df98b951c0227af6bd99163899b9cce9\""
 }

@@ -1,10 +1,10 @@
 {
   "slug": "nickjvandyke/opencode.nvim",
-  "fetched_at": "2026-11-23T13:22:32.324519905Z",
+  "fetched_at": "2026-11-25T13:38:50.122969674Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 3925,
+    "stars": 3924,
     "forks": 161,
     "description": "Neovim 🤝 OpenCode in the flow that you already know.",
     "license_spdx": "MIT",
@@ -15,8 +15,8 @@
     "median_pr_close_days": 1.9646412037037038,
     "open_issues": 12,
     "closed_issues_sampled": 21,
-    "contributors_12mo": 37,
-    "top_author_commit_share": 0.8594771241830066,
+    "contributors_12mo": 36,
+    "top_author_commit_share": 0.8622950819672132,
     "top_author": {
       "login": "nickjvandyke",
       "account_created_at": "2015-10-26T09:17:51Z",
@@ -27,6 +27,6 @@
     "readme_len": 12872
   },
   "slow_fetched_at": "2026-11-17T12:31:40.007791709Z",
-  "commits_etag": "\"41618ccd00f0ffdaca46e8446d16fa5f241d153bdbbe2b3db1ef529141ea6ad3\"",
-  "releases_etag": "\"65a70715163ad92e330d24e83f82c3334802bd71416a7bfaaf8f083f8dfe32ec\""
+  "commits_etag": "\"40a2809669f379f5348caac23bb6b73ab068aa0d16514d5aeabf036ee34738bb\"",
+  "releases_etag": "\"bd93a935173042d0c34d96e9112a420f5d896a6572022ac1fca01ff593b61def\""
 }

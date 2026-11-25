@@ -1,6 +1,6 @@
 {
   "slug": "2kabhishek/termim.nvim",
-  "fetched_at": "2026-11-24T13:44:18.029936950Z",
+  "fetched_at": "2026-11-25T12:55:51.320441476Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -16,7 +16,7 @@
     "open_issues": 0,
     "closed_issues_sampled": 6,
     "contributors_12mo": 2,
-    "top_author_commit_share": 0.7857142857142857,
+    "top_author_commit_share": 0.8571428571428571,
     "top_author": {
       "login": "2KAbhishek",
       "account_created_at": "2017-01-30T01:00:13Z",
@@ -27,6 +27,6 @@
     "readme_len": 5165
   },
   "slow_fetched_at": "2026-11-13T11:01:56.591040609Z",
-  "commits_etag": "\"021f5908619f4aba5c0b3f747c7383f44bf8c5ceb5ec4f79971663d5d0773552\"",
-  "releases_etag": "\"a0a59b3d52bec3893e9118764eb2f78f36687d395cb702fb13ba94a0a4454f1d\""
+  "commits_etag": "\"e881ac4b411e209cfc2dd2dfb85cca2e30a39eafa97c0bcb79e396229e8eff70\"",
+  "releases_etag": "\"d3d9a1df4f007b86c387d3ec979f5f7736ec7e47f6544ad0f40537b0f52224a4\""
 }

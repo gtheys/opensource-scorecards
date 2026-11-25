@@ -1,6 +1,6 @@
 {
   "slug": "0cv/herdr-mobile-relay",
-  "fetched_at": "2026-11-24T14:34:11.049073981Z",
+  "fetched_at": "2026-11-25T13:39:08.463397002Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -13,7 +13,7 @@
     "releases_365d": 100,
     "median_issue_close_days": null,
     "median_pr_close_days": 0.07431134259259259,
-    "open_issues": 5,
+    "open_issues": 6,
     "closed_issues_sampled": 0,
     "contributors_12mo": 11,
     "top_author_commit_share": 0.9457831325301205,
@@ -27,6 +27,6 @@
     "readme_len": 0
   },
   "slow_fetched_at": "2026-11-13T11:30:44.192692290Z",
-  "commits_etag": "\"de1b8506aeabdfe89aad87b48e1d72aa4be5c7ce755f7a8b12d21a4871aa6436\"",
-  "releases_etag": "\"4c4ad6164c45b5b010f5e745618912a8ca29c788cc63597d07b6ec7b0acaaf14\""
+  "commits_etag": "\"1ab23a2f78797a350a49ee56d1827d59c63e39c1aa25e82886e63aab1fb0b7fb\"",
+  "releases_etag": "\"f992a60c97619b5e38b5b787e7a6f81cd7b4ab50b51ed433ada9554da408d0bd\""
 }

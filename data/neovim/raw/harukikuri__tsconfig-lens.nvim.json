@@ -1,10 +1,10 @@
 {
   "slug": "harukikuri/tsconfig-lens.nvim",
-  "fetched_at": "2026-11-24T14:10:26.621111378Z",
+  "fetched_at": "2026-11-25T13:18:57.932066775Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 1,
+    "stars": 2,
     "forks": 0,
     "description": "See which tsconfig applies to the current file (nvim plugin)",
     "license_spdx": "MIT",
@@ -27,6 +27,6 @@
     "readme_len": 1055
   },
   "slow_fetched_at": "2026-11-24T14:10:26.621111378Z",
-  "commits_etag": "\"3d8ea47e0da295c31162b9ff94762836d7424558f4c15777de3d33d52035b40e\"",
-  "releases_etag": "\"614d07991806bb9a50fb918bfbdd7c8959983567b9c05f61327445734a1c0949\""
+  "commits_etag": "\"d66c0030e8eb082fdadb87441e3966d2c110d0982517220d8172ab038147671d\"",
+  "releases_etag": "\"6b1633569e152ccae685bb4e93db2abab6fc23b0d9bc871950624870dddfbe1f\""
 }

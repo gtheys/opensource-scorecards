@@ -1,10 +1,10 @@
 {
   "slug": "malick-tammal/chroma.nvim",
-  "fetched_at": "2026-11-24T14:25:28.109696749Z",
+  "fetched_at": "2026-11-25T13:31:38.772752016Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 15,
+    "stars": 18,
     "forks": 0,
     "description": "Fast, customizable Lua theming engine for Neovim with 99+ base46-compatible colorschemes.",
     "license_spdx": "NOASSERTION",
@@ -27,6 +27,6 @@
     "readme_len": 9236
   },
   "slow_fetched_at": "2026-11-24T14:25:28.109696749Z",
-  "commits_etag": "\"7b994ba9dbe961326914e3899ed297fd218dbe04c342301f817459f77c6db875\"",
-  "releases_etag": "\"0005c020f52a7d591e5a25cde7521ed4c021cb4b176db07229d9b48f1d7b025d\""
+  "commits_etag": "\"d12397cf26d8ec17e44bcc1b05fd297c2513e6a5b7628613a733b5ac4e5eeec5\"",
+  "releases_etag": "\"30ae01905d3209ccafafb90e3c6023497a397c329ee1999cde0d5158a4328a68\""
 }

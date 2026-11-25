@@ -1,6 +1,6 @@
 {
   "slug": "gbprod/stay-in-place.nvim",
-  "fetched_at": "2026-11-24T14:08:22.464476745Z",
+  "fetched_at": "2026-11-25T13:17:06.599529021Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 2325
   },
   "slow_fetched_at": "2026-11-13T11:24:54.456764148Z",
-  "commits_etag": "\"e20fe1477944cbfd534f34e78415240cbe6c954474206f6494fe698cfebdb20f\"",
-  "releases_etag": "\"60d8114e5eaa291ce3e7488c74f47ed95a014d73aef6686399cb5f198bb666bf\""
+  "commits_etag": "\"94027ebb4ffaa32a3a6095b06d7457aba63e75980eb828b415405984fca67c68\"",
+  "releases_etag": "\"a5c65d3389dcbf52abdafce67da5dd2fb15d59333acc0a1c57b7e437e2f06119\""
 }

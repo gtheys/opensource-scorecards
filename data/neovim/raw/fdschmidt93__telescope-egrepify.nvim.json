@@ -1,6 +1,6 @@
 {
   "slug": "fdschmidt93/telescope-egrepify.nvim",
-  "fetched_at": "2026-11-24T14:05:35.982691389Z",
+  "fetched_at": "2026-11-25T13:14:28.824192652Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 7169
   },
   "slow_fetched_at": "2026-11-13T11:22:14.499316197Z",
-  "commits_etag": "\"8c3c2994ad95a4b7758283a7fa24cff61c86b30c6ed1e32bb99cc5bd6c212f09\"",
-  "releases_etag": "\"ebf85665c50ec132503c5e077e15f36a4ee3bd7aa6218510e22f453bc7dc21cf\""
+  "commits_etag": "\"c83d8b9c958f086b724e4f7d1b469961e4fd528451c1c6b3747b027d96ee0075\"",
+  "releases_etag": "\"5447f9da702058fbeb0b0ce2faf81a88df98b951c0227af6bd99163899b9cce9\""
 }

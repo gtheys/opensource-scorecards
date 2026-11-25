@@ -1,6 +1,6 @@
 {
   "slug": "mcauley-penney/visual-whitespace.nvim",
-  "fetched_at": "2026-11-24T14:26:44.274328549Z",
+  "fetched_at": "2026-11-25T13:32:43.051798452Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -15,8 +15,8 @@
     "median_pr_close_days": 2.1670023148148148,
     "open_issues": 1,
     "closed_issues_sampled": 39,
-    "contributors_12mo": 3,
-    "top_author_commit_share": 0.7777777777777778,
+    "contributors_12mo": 2,
+    "top_author_commit_share": 0.8571428571428571,
     "top_author": {
       "login": "mcauley-penney",
       "account_created_at": "2020-01-03T16:05:06Z",
@@ -27,6 +27,6 @@
     "readme_len": 4319
   },
   "slow_fetched_at": "2026-11-15T11:20:58.561503022Z",
-  "commits_etag": "\"3e8ca594d1a26f5f24f2dd6a0e99dac4e9c9a32dde8f9fdc29c6a0e580ba1e56\"",
-  "releases_etag": "\"ebf85665c50ec132503c5e077e15f36a4ee3bd7aa6218510e22f453bc7dc21cf\""
+  "commits_etag": "\"70cc80824d4039fd6d104e446749db045c7e99fbb7615b0e4fa0a31a26941f48\"",
+  "releases_etag": "\"5447f9da702058fbeb0b0ce2faf81a88df98b951c0227af6bd99163899b9cce9\""
 }

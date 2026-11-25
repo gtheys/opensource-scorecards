@@ -1,10 +1,10 @@
 {
   "slug": "mellow-theme/mellow.nvim",
-  "fetched_at": "2026-11-24T14:26:56.916017732Z",
+  "fetched_at": "2026-11-25T13:32:54.093572325Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 435,
+    "stars": 436,
     "forks": 20,
     "description": "A soothing dark color scheme for neovim and friends.",
     "license_spdx": "MIT",
@@ -27,6 +27,6 @@
     "readme_len": 5218
   },
   "slow_fetched_at": "2026-11-15T11:21:09.732602310Z",
-  "commits_etag": "\"8f289a1c202bac8470691e295d417c7ed4f7b8c161f69e1c5839b7072a3ac5cb\"",
-  "releases_etag": "\"ebf85665c50ec132503c5e077e15f36a4ee3bd7aa6218510e22f453bc7dc21cf\""
+  "commits_etag": "\"d38911b35a0e4216911b63810e5f9815e50f19618b8b23cbba50d0d1c606b83f\"",
+  "releases_etag": "\"5447f9da702058fbeb0b0ce2faf81a88df98b951c0227af6bd99163899b9cce9\""
 }

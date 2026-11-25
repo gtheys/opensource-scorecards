@@ -1,10 +1,10 @@
 {
   "slug": "dobsontom/dbt-ft.nvim",
-  "fetched_at": "2026-11-24T14:02:00.716758751Z",
+  "fetched_at": "2026-11-25T13:11:09.293949987Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 4,
+    "stars": 5,
     "forks": 0,
     "description": "Jinja-aware filetype for dbt models in Neovim",
     "license_spdx": "MIT",
@@ -27,6 +27,6 @@
     "readme_len": 2333
   },
   "slow_fetched_at": "2026-11-13T11:18:29.913130584Z",
-  "commits_etag": "\"2f36358b025d79f100c0c055c310b2ca82b05c27274268cbaebc267e03a3f64f\"",
-  "releases_etag": "\"694329f88ee522a2c155b5070fa82cb5e830c410bc9e6c955c98819345a394ab\""
+  "commits_etag": "\"2e443045333570c919c1fd160f4345e2fb75fda0cc3bbeffd8df24fb525ebdf0\"",
+  "releases_etag": "\"155b4f2574e48b91e75763bc2769fe20a27b5dd3f6ec3ae9f896790b5a85e0bb\""
 }

@@ -1,6 +1,6 @@
 {
   "slug": "gbprod/yanky.nvim",
-  "fetched_at": "2026-11-24T14:08:27.117926216Z",
+  "fetched_at": "2026-11-25T13:17:11.140233855Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 27396
   },
   "slow_fetched_at": "2026-11-13T11:24:59.078848093Z",
-  "commits_etag": "\"95d77d802c86d09588583219074878869dcad1da12266a851fc116c45264aec2\"",
-  "releases_etag": "\"df505f8b5d1a115bf6116fc08e2ee2c015a9447fa28cbdf9635b64e179499018\""
+  "commits_etag": "\"d4f6a6caaf82d9abf9991edf4f4fb5e0c5e52522217c998229ae85fc1fb0634f\"",
+  "releases_etag": "\"bf44b6543bf11ad9e5756e1282c2a4387615d5cefb211159212952c7cd12f853\""
 }

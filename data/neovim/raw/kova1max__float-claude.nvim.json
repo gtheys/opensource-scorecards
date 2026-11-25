@@ -1,6 +1,6 @@
 {
   "slug": "kova1max/float-claude.nvim",
-  "fetched_at": "2026-11-24T14:20:03.087314193Z",
+  "fetched_at": "2026-11-25T13:27:08.117515819Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 19353
   },
   "slow_fetched_at": "2026-11-14T10:50:23.969368498Z",
-  "commits_etag": "\"f41e11b22441360f2916f1e4f898edb58ec3d54fdaff74454a1fe47bd77868a1\"",
-  "releases_etag": "\"ebf85665c50ec132503c5e077e15f36a4ee3bd7aa6218510e22f453bc7dc21cf\""
+  "commits_etag": "\"8636e87b2156eac9be70700b0c28d544a0e58b6623f4c9d20df2598065bc6cf2\"",
+  "releases_etag": "\"5447f9da702058fbeb0b0ce2faf81a88df98b951c0227af6bd99163899b9cce9\""
 }

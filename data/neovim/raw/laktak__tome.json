@@ -1,6 +1,6 @@
 {
   "slug": "laktak/tome",
-  "fetched_at": "2026-11-24T14:20:47.294461192Z",
+  "fetched_at": "2026-11-25T13:27:42.841622881Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 8174
   },
   "slow_fetched_at": "2026-11-14T10:50:59.366846970Z",
-  "commits_etag": "\"0f74d8e1157ddeb0ac8b46154b671107577a983531357fbca5610f2d601508e5\"",
-  "releases_etag": "\"ebf85665c50ec132503c5e077e15f36a4ee3bd7aa6218510e22f453bc7dc21cf\""
+  "commits_etag": "\"95da6743617a532cf9a61bef027a5037f2f8c9a05484a8bfa3121b4e42af3153\"",
+  "releases_etag": "\"5447f9da702058fbeb0b0ce2faf81a88df98b951c0227af6bd99163899b9cce9\""
 }

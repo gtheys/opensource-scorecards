@@ -1,6 +1,6 @@
 {
   "slug": "navarasu/onedark.nvim",
-  "fetched_at": "2026-11-24T14:32:44.067561131Z",
+  "fetched_at": "2026-11-25T13:37:41.219063104Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -10,7 +10,7 @@
     "license_spdx": "MIT",
     "last_commit_at": "2026-04-13T10:10:07Z",
     "commits_90d": 0,
-    "releases_365d": 3,
+    "releases_365d": 0,
     "median_issue_close_days": 103.17662615740741,
     "median_pr_close_days": 10.865387731481482,
     "open_issues": 55,
@@ -27,6 +27,6 @@
     "readme_len": 9251
   },
   "slow_fetched_at": "2026-11-16T11:58:55.291613025Z",
-  "commits_etag": "\"52418685895a44913357b7504d482e1cf9e549ba1329a1f600518176fe794dff\"",
-  "releases_etag": "\"0e4e0041b5ed287d0191cf6abcc67dbb9755ced53635cb3ea8202b41f7c0b356\""
+  "commits_etag": "\"1b8d1f3c13fd38101ff2df2589435bbae8483a66cf0a6d392935a26004479717\"",
+  "releases_etag": "\"2019908a0b73a6042dcb8d247a3e933acfb5d4e02cedba10f311f1d5853e14bd\""
 }

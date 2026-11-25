@@ -1,6 +1,6 @@
 {
   "slug": "francescoderme/tuna.nvim",
-  "fetched_at": "2026-11-24T14:07:55.981979270Z",
+  "fetched_at": "2026-11-25T13:16:43.547736881Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 17810
   },
   "slow_fetched_at": "2026-11-13T11:24:26.995506175Z",
-  "commits_etag": "\"2be41f30de6f3c3c280f2c34b0c6f0a4f82243c45fb26b78705cc9d8bec08698\"",
-  "releases_etag": "\"de66c25ecdb2719b53f8082b667ddf497423840f677ef0783d5310fd2cb6a8c2\""
+  "commits_etag": "\"4d7d5bfc53f79cfca829d395d4e6d9c972a13ff775d49eaecd34268e8c679161\"",
+  "releases_etag": "\"1f0d37e988b8075c6246673c832cc4715c5fdb915c25cd0f84ddd90392e1762e\""
 }

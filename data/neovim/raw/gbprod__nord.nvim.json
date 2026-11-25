@@ -1,10 +1,10 @@
 {
   "slug": "gbprod/nord.nvim",
-  "fetched_at": "2026-11-24T14:08:15.370188474Z",
+  "fetched_at": "2026-11-25T13:17:00.635643938Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 312,
+    "stars": 311,
     "forks": 32,
     "description": " An arctic, north-bluish clean and elegant Neovim theme. ",
     "license_spdx": "WTFPL",
@@ -18,15 +18,15 @@
     "contributors_12mo": 2,
     "top_author_commit_share": 0.5,
     "top_author": {
-      "login": "gbprod",
-      "account_created_at": "2013-03-02T20:23:41Z",
-      "other_repos_star_sum": 3082
+      "login": "ironbars",
+      "account_created_at": "2015-11-21T19:17:29Z",
+      "other_repos_star_sum": 5
     },
     "has_ci": true,
     "has_tests": false,
     "readme_len": 7186
   },
   "slow_fetched_at": "2026-11-13T11:24:46.869826872Z",
-  "commits_etag": "\"14cda2449d90046611720e25e8371a7b4c08ce6e1b52c6b23d09acca5f880324\"",
-  "releases_etag": "\"4c6b82b896283ffb169d8f6b8f2a0e4572c41bf86b65d91d4acf77e47154e9af\""
+  "commits_etag": "\"07e8174f2ca0c07186cfc9d5341ad9a25a37756276e0f39d49bf953bdf506c59\"",
+  "releases_etag": "\"daefeb3350a5dd7062a5dfd266ae0fd5ba1754e6b66178a619b694a7e93bcdb0\""
 }

@@ -1,6 +1,6 @@
 {
   "slug": "imbacraft/dusk.nvim",
-  "fetched_at": "2026-11-24T14:12:35.747654085Z",
+  "fetched_at": "2026-11-25T13:20:48.386518162Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 6002
   },
   "slow_fetched_at": "2026-11-13T11:28:56.707502934Z",
-  "commits_etag": "\"7e461da03f2dc94bb7147d1564b36ffb2fb9471252d67cae406a990601273cde\"",
-  "releases_etag": "\"f5caf4ba80cae89fc6de02278a1e95862a59b3650f1ae98174ba83fa246c62a7\""
+  "commits_etag": "\"40b6ae46524c9bb2bcb3d8e01efcb512d9be8b6b2fd644c9077e81e6122e632f\"",
+  "releases_etag": "\"5a2dc612c57f3ad3ff316285af48acbe8b861ae439d34a92c975bb4cb3a73810\""
 }

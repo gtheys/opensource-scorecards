@@ -1,6 +1,6 @@
 {
   "slug": "j-morano/buffer_manager.nvim",
-  "fetched_at": "2026-11-24T14:13:51.563038204Z",
+  "fetched_at": "2026-11-25T13:21:52.322120475Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 12741
   },
   "slow_fetched_at": "2026-11-13T11:30:05.376097028Z",
-  "commits_etag": "\"94bee1bd4a2abe587ccce527111d3362c939217944caefc745dfa89f6a6d5d73\"",
-  "releases_etag": "\"ebf85665c50ec132503c5e077e15f36a4ee3bd7aa6218510e22f453bc7dc21cf\""
+  "commits_etag": "\"2f5afd8e460ea0179c4a1e44775afbcfca0bcb7c8bdefa52450fdf36711f3207\"",
+  "releases_etag": "\"5447f9da702058fbeb0b0ce2faf81a88df98b951c0227af6bd99163899b9cce9\""
 }

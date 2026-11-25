@@ -1,6 +1,6 @@
 {
   "slug": "abdellatif-temsamani/adev.nvim",
-  "fetched_at": "2026-11-24T13:45:09.060299022Z",
+  "fetched_at": "2026-11-25T12:56:33.762871085Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -8,11 +8,11 @@
     "forks": 3,
     "description": "The over-engineered Neovim distribution for developers who want everything",
     "license_spdx": "MIT",
-    "last_commit_at": "2026-10-06T00:31:18Z",
-    "commits_90d": 7,
-    "releases_365d": 10,
+    "last_commit_at": "2026-11-25T12:39:39Z",
+    "commits_90d": 51,
+    "releases_365d": 11,
     "median_issue_close_days": 6.059230324074074,
-    "median_pr_close_days": 0.024363425925925927,
+    "median_pr_close_days": 0.027141203703703702,
     "open_issues": 1,
     "closed_issues_sampled": 12,
     "contributors_12mo": 1,
@@ -27,6 +27,6 @@
     "readme_len": 6303
   },
   "slow_fetched_at": "2026-11-13T11:02:48.215273282Z",
-  "commits_etag": "\"52ed15147db81946a8af9cb750095d4fdf63670e65f7bb2258b50840bb8e0b4a\"",
-  "releases_etag": "\"3b593a43f11cab50a528dd37b3481579b5fb65b57778abfec1cc598f3e88b908\""
+  "commits_etag": "\"635c15cda54054e6f7a64994a5a2200171197759b0f76d8f0e8b98476c784faf\"",
+  "releases_etag": "\"772418e87d7f6a78d38adbde3ad3f2cc7e05755526daaa1989ad8b8fdd0e9269\""
 }

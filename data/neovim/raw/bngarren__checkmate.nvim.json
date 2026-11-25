@@ -1,6 +1,6 @@
 {
   "slug": "bngarren/checkmate.nvim",
-  "fetched_at": "2026-11-24T13:51:57.876761838Z",
+  "fetched_at": "2026-11-25T13:02:36.021182715Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 36560
   },
   "slow_fetched_at": "2026-11-13T11:09:38.152058684Z",
-  "commits_etag": "\"ddeca8b1b0330716dc02a26d644aa04e09b056825634063515a13041c294f7ee\"",
-  "releases_etag": "\"d0df27425e676e103f1065e05fca71ffe326fea08dce3c7fa8545d71e5d2cc10\""
+  "commits_etag": "\"0a500488fe6e3067dbe4f73762a39155fb722bbca043ba32220d707ed61a989a\"",
+  "releases_etag": "\"aa3a00fb8f30a6046db51b3e2b6b6388f089861e7ee423df189014eb6c91758c\""
 }

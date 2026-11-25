@@ -1,6 +1,6 @@
 {
   "slug": "mikesmithgh/kitty-scrollback.nvim",
-  "fetched_at": "2026-11-24T14:28:18.100482937Z",
+  "fetched_at": "2026-11-25T13:34:02.412122777Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 62143
   },
   "slow_fetched_at": "2026-11-15T11:22:14.299528370Z",
-  "commits_etag": "\"7a0311439284e51b3e79de7a3e53945cfa97bcc02c229d85c8dcc5060efa9b74\"",
-  "releases_etag": "\"87ea5e1b8cafdf2635512c49f65dd895f5ebc320f4916edfc5050c1a4abd1af6\""
+  "commits_etag": "\"5081b6af38a701e6f09017aa0b45cbfdbf3b97f6a41315c3e647529224437f72\"",
+  "releases_etag": "\"1638d8bc289a940969cae390bc6f48d94b4825a668a91c0011615cc0cf31bd15\""
 }

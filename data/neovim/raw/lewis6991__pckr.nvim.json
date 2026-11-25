@@ -1,10 +1,10 @@
 {
   "slug": "lewis6991/pckr.nvim",
-  "fetched_at": "2026-11-24T14:21:48.980809821Z",
+  "fetched_at": "2026-11-25T13:28:34.272958083Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 346,
+    "stars": 347,
     "forks": 17,
     "description": "Spiritual successor of https://github.com/wbthomason/packer.nvim",
     "license_spdx": "MIT",
@@ -23,6 +23,6 @@
     "readme_len": 9797
   },
   "slow_fetched_at": "2026-11-14T10:51:48.985344702Z",
-  "commits_etag": "\"d439b94dcc2a546d9ef0e515bce672f6531d602ddc2cbe39415473f014252c03\"",
-  "releases_etag": "\"32f7cefbecdac860a8bda4a379a9ca055b554b7c35098cbfed842cc242cc3e08\""
+  "commits_etag": "\"54c165fdd5625ab0f1ab1ef59617f2a25e8f38cddc8055c20001e6f588fe2aec\"",
+  "releases_etag": "\"cf00a69e8aa90854a2ba9bd99064ed46f57ad81ef61e5c1611bd8b798f1614c6\""
 }

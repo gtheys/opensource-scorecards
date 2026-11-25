@@ -1,6 +1,6 @@
 {
   "slug": "eraserhd/parinfer-rust",
-  "fetched_at": "2026-11-24T14:04:29.903730811Z",
+  "fetched_at": "2026-11-25T13:13:25.684294557Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 5866
   },
   "slow_fetched_at": "2026-11-13T11:21:07.133611328Z",
-  "commits_etag": "\"39965df68301bc57395e8526bf10cffcbace04d8dfe048cc5b62d4cfbf1e4fc1\"",
-  "releases_etag": "\"fffaa28d685a58996a6523ebb05c68d2fe1486960b31929f37baf58837975378\""
+  "commits_etag": "\"9e953eb5828cb81925ce2405bb6bc07030f3b5f0e899844f1e41f86061c85414\"",
+  "releases_etag": "\"d0ae2191e96e15d3441f108f3c1dd5c65f2d423273f5b817f780b69b98b67f99\""
 }

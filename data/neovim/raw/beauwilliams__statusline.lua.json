@@ -1,10 +1,10 @@
 {
   "slug": "beauwilliams/statusline.lua",
-  "fetched_at": "2026-11-24T13:50:51.449145356Z",
+  "fetched_at": "2026-11-25T13:01:37.991025650Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 262,
+    "stars": 263,
     "forks": 14,
     "description": "A zero-config minimal statusline for neovim written in lua featuring awesome integrations and blazing speed!",
     "license_spdx": "MIT",
@@ -23,6 +23,6 @@
     "readme_len": 5227
   },
   "slow_fetched_at": "2026-11-13T11:08:28.696839122Z",
-  "commits_etag": "\"ae0e0a3a7dd8ac8a7846a5ddc24a98f1342feac45653715c0a1057caa039a3d0\"",
-  "releases_etag": "\"ebf85665c50ec132503c5e077e15f36a4ee3bd7aa6218510e22f453bc7dc21cf\""
+  "commits_etag": "\"d68abd21ece9eb042ab4d2e02427fa9e11d74057e10a735fbe9e00b7b22d16b8\"",
+  "releases_etag": "\"5447f9da702058fbeb0b0ce2faf81a88df98b951c0227af6bd99163899b9cce9\""
 }

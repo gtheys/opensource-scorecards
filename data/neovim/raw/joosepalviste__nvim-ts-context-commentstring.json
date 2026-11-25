@@ -1,10 +1,10 @@
 {
   "slug": "joosepalviste/nvim-ts-context-commentstring",
-  "fetched_at": "2026-11-24T14:16:11.199463196Z",
+  "fetched_at": "2026-11-25T13:23:50.659314879Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 1302,
+    "stars": 1301,
     "forks": 47,
     "description": "Neovim treesitter plugin for setting the commentstring based on the cursor location in a file.",
     "license_spdx": "MIT",
@@ -27,6 +27,6 @@
     "readme_len": 4167
   },
   "slow_fetched_at": "2026-11-14T10:47:08.935115129Z",
-  "commits_etag": "\"2e135b22bda05101abfbae7f29e3ca581c5be455caa6152f6c9a1d2bcf119eaf\"",
-  "releases_etag": "\"ebf85665c50ec132503c5e077e15f36a4ee3bd7aa6218510e22f453bc7dc21cf\""
+  "commits_etag": "\"e805416aaecaa71e184b8bb9026ab2319d92bafabbc3fd05059df3f8ca16b1cc\"",
+  "releases_etag": "\"5447f9da702058fbeb0b0ce2faf81a88df98b951c0227af6bd99163899b9cce9\""
 }

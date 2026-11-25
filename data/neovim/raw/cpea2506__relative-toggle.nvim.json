@@ -1,6 +1,6 @@
 {
   "slug": "cpea2506/relative-toggle.nvim",
-  "fetched_at": "2026-11-24T13:57:13.992723340Z",
+  "fetched_at": "2026-11-25T13:07:01.786444195Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 2761
   },
   "slow_fetched_at": "2026-11-13T11:14:02.121095041Z",
-  "commits_etag": "\"e69880c35a0bffc1a902762eb7d37e053bd4c3b25c7185259fcd4da37090136e\"",
-  "releases_etag": "\"69b94e9061f90db1f7e32b9a3c32f21e0d576b6ebfb6bd31604f16a23fd08e43\""
+  "commits_etag": "\"ae710a857088c4f01b997531211d6f797c19c4ea99bbf70e8e853bdf1a39ed44\"",
+  "releases_etag": "\"02818a0f272d1a1b20b2c662fbcab31a6d11724da10c877d4f31f6516ff25214\""
 }

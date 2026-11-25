@@ -1,6 +1,6 @@
 {
   "slug": "chrisgrieser/nvim-lsp-endhints",
-  "fetched_at": "2026-11-24T13:54:19.338537386Z",
+  "fetched_at": "2026-11-25T13:04:39.101243245Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -16,7 +16,7 @@
     "open_issues": 0,
     "closed_issues_sampled": 13,
     "contributors_12mo": 2,
-    "top_author_commit_share": 0.9722222222222222,
+    "top_author_commit_share": 0.9714285714285714,
     "top_author": {
       "login": "chrisgrieser",
       "account_created_at": "2020-10-22T10:50:35Z",
@@ -27,6 +27,6 @@
     "readme_len": 7866
   },
   "slow_fetched_at": "2026-11-13T11:11:47.663835591Z",
-  "commits_etag": "\"e3d6921da8275bead5e4923ecf878171757e5f5797dfe437d264a19775fe763f\"",
-  "releases_etag": "\"ebf85665c50ec132503c5e077e15f36a4ee3bd7aa6218510e22f453bc7dc21cf\""
+  "commits_etag": "\"fac7c1521ea6b8e50b5d7ce076c3f1b10b7e59913b62cc97bf32697e350ab8fb\"",
+  "releases_etag": "\"5447f9da702058fbeb0b0ce2faf81a88df98b951c0227af6bd99163899b9cce9\""
 }

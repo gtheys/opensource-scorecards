@@ -1,6 +1,6 @@
 {
   "slug": "aserowy/tmux.nvim",
-  "fetched_at": "2026-11-24T13:48:53.689280189Z",
+  "fetched_at": "2026-11-25T12:59:49.632009983Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 14092
   },
   "slow_fetched_at": "2026-11-13T11:06:30.268450014Z",
-  "commits_etag": "\"ce35d4831ce9150e9815092cf10315a06d2c1162e1ec5f1ebc482ca2fc222d7e\"",
-  "releases_etag": "\"ebf85665c50ec132503c5e077e15f36a4ee3bd7aa6218510e22f453bc7dc21cf\""
+  "commits_etag": "\"bf9840cb96f688b6abae64998d8219a9fec4a96d7aa6d3d98723cac2833a0b78\"",
+  "releases_etag": "\"5447f9da702058fbeb0b0ce2faf81a88df98b951c0227af6bd99163899b9cce9\""
 }

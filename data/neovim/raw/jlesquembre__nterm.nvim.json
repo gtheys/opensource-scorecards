@@ -1,6 +1,6 @@
 {
   "slug": "jlesquembre/nterm.nvim",
-  "fetched_at": "2026-11-24T14:15:57.077206885Z",
+  "fetched_at": "2026-11-25T13:23:39.776047948Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 5363
   },
   "slow_fetched_at": "2026-11-14T10:46:57.610824906Z",
-  "commits_etag": "\"eb56883c0c62b01a635e4e9ba8d1d6a989c5fbb7b7bec1a8225d6105313d1370\"",
-  "releases_etag": "\"ebf85665c50ec132503c5e077e15f36a4ee3bd7aa6218510e22f453bc7dc21cf\""
+  "commits_etag": "\"1765a9ffe307938fd77ba3937ef2e26fb5f3bac14b01a1ee6eea3cfb3e9d04d2\"",
+  "releases_etag": "\"5447f9da702058fbeb0b0ce2faf81a88df98b951c0227af6bd99163899b9cce9\""
 }
