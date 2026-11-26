@@ -1,10 +1,10 @@
 {
   "slug": "johann2357/nvim-smartbufs",
-  "fetched_at": "2026-11-25T13:23:46.050486556Z",
+  "fetched_at": "2026-11-26T13:01:35.503297677Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 60,
+    "stars": 61,
     "forks": 2,
     "description": "Smart buffer management in neovim",
     "license_spdx": "MIT",
@@ -23,6 +23,6 @@
     "readme_len": 4185
   },
   "slow_fetched_at": "2026-11-14T10:47:04.076402291Z",
-  "commits_etag": "\"01c5a3363073ed18cb45fcd470d340ff455f82905302f672c82b14d0edb105f6\"",
-  "releases_etag": "\"5447f9da702058fbeb0b0ce2faf81a88df98b951c0227af6bd99163899b9cce9\""
+  "commits_etag": "\"d453ac8f91cbee57a3567d8fe60eac33144e90822572977b300f83adf193fdcf\"",
+  "releases_etag": "\"07560434939fa4e1e7ef75c3702731d9c5dde8a35d13d3a0108045b06a53179d\""
 }

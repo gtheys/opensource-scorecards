@@ -1,6 +1,6 @@
 {
   "slug": "chrsm/paramount-ng.nvim",
-  "fetched_at": "2026-11-25T13:05:34.698800561Z",
+  "fetched_at": "2026-11-26T12:44:34.880262547Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 593
   },
   "slow_fetched_at": "2026-11-13T11:12:42.237909683Z",
-  "commits_etag": "\"18c1d13f92bcaee562c79aed65bd8f8977829c038e774321279d75b381051402\"",
-  "releases_etag": "\"5447f9da702058fbeb0b0ce2faf81a88df98b951c0227af6bd99163899b9cce9\""
+  "commits_etag": "\"ebc3fec0144220a4bbdcaabea39b03ca04b69d1a9cf4e1da108e693796b77db0\"",
+  "releases_etag": "\"07560434939fa4e1e7ef75c3702731d9c5dde8a35d13d3a0108045b06a53179d\""
 }

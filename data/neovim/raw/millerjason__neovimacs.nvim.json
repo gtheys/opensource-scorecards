@@ -1,6 +1,6 @@
 {
   "slug": "millerjason/neovimacs.nvim",
-  "fetched_at": "2026-11-25T13:34:17.749704411Z",
+  "fetched_at": "2026-11-26T13:13:46.854043058Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 3237
   },
   "slow_fetched_at": "2026-11-15T11:22:29.853319506Z",
-  "commits_etag": "\"c214c8268f34167a5741f444af10aa14b14a3346cf2068a15f5eda51f1f51274\"",
-  "releases_etag": "\"e9d7c72870fc58c83d53a15226658daec09d2c253fdd6e50f99b3d0f2fa05392\""
+  "commits_etag": "\"c40aa4ab56aa894f974a9d84cda4351b93e2c6dd5c8cacb69e0237044b7913f6\"",
+  "releases_etag": "\"fb032f4497e51011ffbb42c65fafab807e8638e0d27718b5562f26949bf2320e\""
 }

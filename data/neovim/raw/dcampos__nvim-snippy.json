@@ -1,11 +1,11 @@
 {
   "slug": "dcampos/nvim-snippy",
-  "fetched_at": "2026-11-25T13:09:41.688884940Z",
+  "fetched_at": "2026-11-26T12:48:17.810970591Z",
   "status": "ok",
   "data": {
     "archived": false,
     "stars": 340,
-    "forks": 21,
+    "forks": 20,
     "description": "Snippet plugin for Neovim written in Lua",
     "license_spdx": "MIT",
     "last_commit_at": "2026-10-29T03:27:59Z",
@@ -27,6 +27,6 @@
     "readme_len": 6101
   },
   "slow_fetched_at": "2026-11-13T11:17:05.805619180Z",
-  "commits_etag": "\"060a65cc48c8f3a1f34b90bf202ecf3c0d80644df73a0eaeea517fb7c7243d8b\"",
-  "releases_etag": "\"6794bec584f7f7684f33bbba71b860805ac315e07d8052d507d0d1aa8d8b9dbd\""
+  "commits_etag": "\"37bdd29c3b7ce92c08498af6b0f617450b24b8034b4a59bd801387e743a0662a\"",
+  "releases_etag": "\"4aa0cb20b526eaf9c8a30d7a7289cd0701d761e5ead28c583a2dd262ab42be92\""
 }

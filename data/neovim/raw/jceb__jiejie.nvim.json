@@ -1,6 +1,6 @@
 {
   "slug": "jceb/jiejie.nvim",
-  "fetched_at": "2026-11-25T13:22:50.928773557Z",
+  "fetched_at": "2026-11-26T13:00:33.333215201Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "Neovim frontend for Jujutsu in the style of vim-fugitive",
     "license_spdx": "MIT",
     "last_commit_at": "2026-11-12T15:07:48Z",
-    "commits_90d": 6,
+    "commits_90d": 5,
     "releases_365d": 0,
     "median_issue_close_days": 20.22394675925926,
     "median_pr_close_days": 0.5447743055555556,
@@ -27,6 +27,6 @@
     "readme_len": 7536
   },
   "slow_fetched_at": "2026-11-14T10:46:11.858831350Z",
-  "commits_etag": "\"066d570abec5a0c846b19553382e3dd3cc657c7c09fa4df6ac247976363a1339\"",
-  "releases_etag": "\"5447f9da702058fbeb0b0ce2faf81a88df98b951c0227af6bd99163899b9cce9\""
+  "commits_etag": "\"deb8612443b2bc69f497317f51b8d4e7965884b170cc308c162fba1c5aba60ed\"",
+  "releases_etag": "\"07560434939fa4e1e7ef75c3702731d9c5dde8a35d13d3a0108045b06a53179d\""
 }

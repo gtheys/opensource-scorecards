@@ -1,22 +1,22 @@
 {
   "slug": "astronvim/astronvim",
-  "fetched_at": "2026-11-25T12:59:57.216269227Z",
+  "fetched_at": "2026-11-26T12:38:59.930220503Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 14488,
+    "stars": 14493,
     "forks": 945,
     "description": "AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins ",
     "license_spdx": "GPL-3.0",
-    "last_commit_at": "2026-10-16T13:49:09Z",
-    "commits_90d": 9,
-    "releases_365d": 12,
-    "median_issue_close_days": 0.3029513888888889,
-    "median_pr_close_days": 0.009293981481481481,
-    "open_issues": 1,
-    "closed_issues_sampled": 19,
+    "last_commit_at": "2026-11-25T17:00:51Z",
+    "commits_90d": 33,
+    "releases_365d": 13,
+    "median_issue_close_days": 0.254212962962963,
+    "median_pr_close_days": 0.01439814814814815,
+    "open_issues": 0,
+    "closed_issues_sampled": 18,
     "contributors_12mo": 4,
-    "top_author_commit_share": 0.6288659793814433,
+    "top_author_commit_share": 0.6942148760330579,
     "top_author": {
       "login": "mehalter",
       "account_created_at": "2012-03-30T21:27:18Z",
@@ -27,6 +27,6 @@
     "readme_len": 10253
   },
   "slow_fetched_at": "2026-11-13T11:06:41.076765072Z",
-  "commits_etag": "\"45d03596345284f03cb440df5263d0b8b2b832ec62b4c2b2b56cd6b024dc1bc8\"",
-  "releases_etag": "\"789e2b5b35ed984759584e528219494ba94745eaf966ea7a2eadcd4cabe0c49c\""
+  "commits_etag": "\"9d07362d868f9df45198fb063286756dda35880ed554dd7f2bd8bd98a9c2ef0b\"",
+  "releases_etag": "\"520ef3f34394097a2471b19da0c638fbfa3d8ad07d95b02a5e3be2803dffbf27\""
 }

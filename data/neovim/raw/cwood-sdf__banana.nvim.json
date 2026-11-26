@@ -1,11 +1,11 @@
 {
   "slug": "cwood-sdf/banana.nvim",
-  "fetched_at": "2026-11-25T13:08:11.688946196Z",
+  "fetched_at": "2026-11-26T12:46:57.218259050Z",
   "status": "ok",
   "data": {
     "archived": false,
     "stars": 159,
-    "forks": 2,
+    "forks": 1,
     "description": "An html renderer for neovim plugin UIs",
     "license_spdx": "MIT",
     "last_commit_at": "2025-12-09T03:18:07Z",
@@ -27,6 +27,6 @@
     "readme_len": 5077
   },
   "slow_fetched_at": "2026-11-13T11:15:17.516930285Z",
-  "commits_etag": "\"46964aafa203a0547d64b9812e95b3966a1b90ff2afe42d7d2d9d0526477aab5\"",
-  "releases_etag": "\"ff80fa110a8c3dcce2021b89b383ac46162932710844a2a0978053d25d712ef3\""
+  "commits_etag": "\"cd65a5586cec692fcc8e4ddbad5446fb4e5a2e6a7bc43e1ae4782f4d94c2a546\"",
+  "releases_etag": "\"8fffa6502aa7c3db41ec8a090fddafc66de0c386ac47126666d9c9d4cdddbf22\""
 }

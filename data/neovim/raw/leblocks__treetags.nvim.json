@@ -1,6 +1,6 @@
 {
   "slug": "leblocks/treetags.nvim",
-  "fetched_at": "2026-11-25T13:28:08.430987771Z",
+  "fetched_at": "2026-11-26T13:06:40.140385778Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 14536
   },
   "slow_fetched_at": "2026-11-15T11:17:24.172871807Z",
-  "commits_etag": "\"6cf608b6349b8038901549d3bf3fa0077b6156508bdf0346f45c8bbef0cb22eb\"",
-  "releases_etag": "\"1e3aa0bb6ffac41d2182841795b3c07dbccc9a473efca6cad619e2bb481e965a\""
+  "commits_etag": "\"d1b8c638548473d3bcba1e5829315a3d41a6d1e271a59b61572a4c2a4ef94919\"",
+  "releases_etag": "\"786741d1748b84dcc93b1009c80ce0a03c716427eded0079bff07217ea075f0a\""
 }

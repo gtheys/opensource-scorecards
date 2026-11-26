@@ -1,22 +1,22 @@
 {
   "slug": "chrisgrieser/nvim-recorder",
-  "fetched_at": "2026-11-25T13:04:49.920541212Z",
+  "fetched_at": "2026-11-26T12:43:51.437715910Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 291,
+    "stars": 292,
     "forks": 12,
     "description": "Enhance the usage of macros in Neovim.",
     "license_spdx": "MIT",
     "last_commit_at": "2026-10-28T12:27:09Z",
     "commits_90d": 1,
     "releases_365d": 0,
-    "median_issue_close_days": 0.07336805555555556,
+    "median_issue_close_days": 0.11361111111111111,
     "median_pr_close_days": 0.10457175925925927,
-    "open_issues": 1,
-    "closed_issues_sampled": 17,
+    "open_issues": 0,
+    "closed_issues_sampled": 18,
     "contributors_12mo": 2,
-    "top_author_commit_share": 0.9642857142857143,
+    "top_author_commit_share": 0.96,
     "top_author": {
       "login": "chrisgrieser",
       "account_created_at": "2020-10-22T10:50:35Z",
@@ -27,6 +27,6 @@
     "readme_len": 11560
   },
   "slow_fetched_at": "2026-11-13T11:11:59.901841660Z",
-  "commits_etag": "\"2607d96e78a11973841ec98a2a6fa91bc2518206dd845ac223a918db51c693b8\"",
-  "releases_etag": "\"5447f9da702058fbeb0b0ce2faf81a88df98b951c0227af6bd99163899b9cce9\""
+  "commits_etag": "\"fca7a183d0d011dbed4d38c9c8ac9b7414f7d22112c8242cf8b5ff30c2f73c1d\"",
+  "releases_etag": "\"07560434939fa4e1e7ef75c3702731d9c5dde8a35d13d3a0108045b06a53179d\""
 }

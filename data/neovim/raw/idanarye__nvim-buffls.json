@@ -1,6 +1,6 @@
 {
   "slug": "idanarye/nvim-buffls",
-  "fetched_at": "2026-11-25T13:20:34.828869947Z",
+  "fetched_at": "2026-11-26T12:58:09.196392148Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 1916
   },
   "slow_fetched_at": "2026-11-13T11:28:42.880167228Z",
-  "commits_etag": "\"6dd386dce6fb1787eeebd20e913de82712afbb315fd77f756be3579312da3c9b\"",
-  "releases_etag": "\"95e7fa09c090eb602cc5fa32007d01e5b4df7e0d3a755b5c7d33fe77276c8c4d\""
+  "commits_etag": "\"a40b8d772bbf22a51cbe43b05a959d09efa8d78ec5e95a7f5aabab46669df96a\"",
+  "releases_etag": "\"4afbd3d06a62c883aa5808d81099ba66c0db7c93ada6b75a27de4578d2316820\""
 }

@@ -1,6 +1,6 @@
 {
   "slug": "calind/selenized.nvim",
-  "fetched_at": "2026-11-25T13:03:08.785030830Z",
+  "fetched_at": "2026-11-26T12:42:11.221810429Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 1010
   },
   "slow_fetched_at": "2026-11-13T11:10:11.732248305Z",
-  "commits_etag": "\"389c64a09314f92797935bf1d5b1a5ec993561f0bdcd3dd3a8344fd1ea04e7cc\"",
-  "releases_etag": "\"5447f9da702058fbeb0b0ce2faf81a88df98b951c0227af6bd99163899b9cce9\""
+  "commits_etag": "\"ca18bde46cf4ce971ea8165943df1fffec24fbd49212b10f1c0071d2a5b50fcf\"",
+  "releases_etag": "\"07560434939fa4e1e7ef75c3702731d9c5dde8a35d13d3a0108045b06a53179d\""
 }

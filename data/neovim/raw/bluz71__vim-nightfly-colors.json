@@ -1,10 +1,10 @@
 {
   "slug": "bluz71/vim-nightfly-colors",
-  "fetched_at": "2026-11-25T13:02:31.193430004Z",
+  "fetched_at": "2026-11-26T12:41:33.369604938Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 943,
+    "stars": 942,
     "forks": 53,
     "description": "A dark midnight theme for modern Neovim & classic Vim",
     "license_spdx": "MIT",
@@ -27,6 +27,6 @@
     "readme_len": 19026
   },
   "slow_fetched_at": "2026-11-13T11:09:33.417390412Z",
-  "commits_etag": "\"767c8eefc8998bd71a9b739d6afad87a29fcd4b96ad8e637cf6f200d7e986e69\"",
-  "releases_etag": "\"5447f9da702058fbeb0b0ce2faf81a88df98b951c0227af6bd99163899b9cce9\""
+  "commits_etag": "\"6d240f8dfae0ced72629bda857021b45d621a56cdf075d8db38d1be04af89e96\"",
+  "releases_etag": "\"07560434939fa4e1e7ef75c3702731d9c5dde8a35d13d3a0108045b06a53179d\""
 }

@@ -1,6 +1,6 @@
 {
   "slug": "aikhe/wrapped.nvim",
-  "fetched_at": "2026-11-25T12:57:32.229462745Z",
+  "fetched_at": "2026-11-26T12:36:23.204732460Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 3796
   },
   "slow_fetched_at": "2026-11-13T11:03:55.256495776Z",
-  "commits_etag": "\"647b5218012f0bb807f5a62e248d577b9fb21898240181ee86081b98bf870a07\"",
-  "releases_etag": "\"5447f9da702058fbeb0b0ce2faf81a88df98b951c0227af6bd99163899b9cce9\""
+  "commits_etag": "\"b82c997e5ccee98801680d605676e8b3ca39a732caa6a4ad965415e8b4bd7152\"",
+  "releases_etag": "\"07560434939fa4e1e7ef75c3702731d9c5dde8a35d13d3a0108045b06a53179d\""
 }

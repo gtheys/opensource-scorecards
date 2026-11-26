@@ -1,6 +1,6 @@
 {
   "slug": "itsfernn/auto-gnome-theme.nvim",
-  "fetched_at": "2026-11-25T13:21:42.693394580Z",
+  "fetched_at": "2026-11-26T12:59:20.170837436Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 2444
   },
   "slow_fetched_at": "2026-11-13T11:29:53.232322103Z",
-  "commits_etag": "\"fe5066c8a69970bc11e525e0f56b43219a58905eea95b201f55f6dcba2598658\"",
-  "releases_etag": "\"5447f9da702058fbeb0b0ce2faf81a88df98b951c0227af6bd99163899b9cce9\""
+  "commits_etag": "\"50474dbb77b6690cb0e57e3cf3d299d8470c9dd38d1ad8adc7891c634892d0df\"",
+  "releases_etag": "\"07560434939fa4e1e7ef75c3702731d9c5dde8a35d13d3a0108045b06a53179d\""
 }

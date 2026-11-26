@@ -1,6 +1,6 @@
 {
   "slug": "gisketch/triforce.nvim",
-  "fetched_at": "2026-11-25T13:17:58.117320537Z",
+  "fetched_at": "2026-11-26T12:55:34.423749401Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 35167
   },
   "slow_fetched_at": "2026-11-13T11:25:50.428181989Z",
-  "commits_etag": "\"0794cac50d38a04961d3af109bb7160f3dc9f4b8816b63ca8f43463e452896b7\"",
-  "releases_etag": "\"c48dde8950ad70c1b33f0223ca717d8e3d84f6362fcd076dd56d6748fe47d84c\""
+  "commits_etag": "\"d4671bc42f3f065b1291f4ceb8ec1a36ce8e442a029c150607b676f53da6a955\"",
+  "releases_etag": "\"ab2addd5b861da80e5718be2063348f3e8022750e267ac856c0dc145c964206a\""
 }

@@ -1,6 +1,6 @@
 {
   "slug": "creativenull/efmls-configs-nvim",
-  "fetched_at": "2026-11-25T13:07:12.332903577Z",
+  "fetched_at": "2026-11-26T12:46:01.593645550Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 6894
   },
   "slow_fetched_at": "2026-11-13T11:14:11.557482237Z",
-  "commits_etag": "\"d92b1843d83ec3856d3a850822e89f0faacd85d7ad5279d641efc30ec71b6f28\"",
-  "releases_etag": "\"25da35711e7719cb300d065ef7866e6137b6ef8bfed30e0c8729694369487228\""
+  "commits_etag": "\"fdddeeae5f47be0565383a62fb21f425b323dcf61e47c2cb13ca00451e9f20d2\"",
+  "releases_etag": "\"a4f38c501601b0f126479a2cbe72c62fedbddf4b086e0f081b692a32606cfc10\""
 }

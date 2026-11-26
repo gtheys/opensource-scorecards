@@ -1,6 +1,6 @@
 {
   "slug": "nemanjamalesija/ts-expand-hover.nvim",
-  "fetched_at": "2026-11-25T13:37:59.896092302Z",
+  "fetched_at": "2026-11-26T13:18:22.188117544Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 5318
   },
   "slow_fetched_at": "2026-11-16T11:59:22.991814483Z",
-  "commits_etag": "\"407ba0038e8a80a27bdeae679e6e61f36fa3c1cda307fa1251495a790c445ac3\"",
-  "releases_etag": "\"929a04c45d20f57994cf38fdaf833d1719a7d0e73c26cf4767d6a0a1eb8fd0f1\""
+  "commits_etag": "\"b8ed4fe7ca1342ba465eece33ab1c22f81e722252ad6853f7024dedeca3c5fb6\"",
+  "releases_etag": "\"50da0bdec726b31d9e57e91b1a149162a68a1bec4aee68adb864b2215bf843e1\""
 }

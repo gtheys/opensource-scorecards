@@ -1,10 +1,10 @@
 {
   "slug": "michaelb/sniprun",
-  "fetched_at": "2026-11-25T13:33:29.487716144Z",
+  "fetched_at": "2026-11-26T13:12:50.342179741Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 1714,
+    "stars": 1715,
     "forks": 53,
     "description": "A neovim plugin to run lines/blocs of code (independently of the rest of the file), supporting multiples languages",
     "license_spdx": "MIT",
@@ -27,6 +27,6 @@
     "readme_len": 6068
   },
   "slow_fetched_at": "2026-11-15T11:21:44.932611610Z",
-  "commits_etag": "\"7725fb41d6ec6df6d318624a6a1ff415e619cf38c23759d174d4ec5fcd4752b8\"",
-  "releases_etag": "\"803f1c96779d24b8d4a427e3ea643d6ceb3709b8216b1654f5f4e7a16740bcd6\""
+  "commits_etag": "\"68b9f7040636f6afb20f6c0ba24150ccc8af72e89c81c052d41f1123f0d256e2\"",
+  "releases_etag": "\"8b4fc02d330178df5fc4316c22ab8c7933649ad36810ad27fbb63a8c5735bf98\""
 }

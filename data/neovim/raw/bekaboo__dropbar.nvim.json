@@ -1,11 +1,11 @@
 {
   "slug": "bekaboo/dropbar.nvim",
-  "fetched_at": "2026-11-25T13:01:43.213256468Z",
+  "fetched_at": "2026-11-26T12:40:43.626751424Z",
   "status": "ok",
   "data": {
     "archived": false,
     "stars": 1615,
-    "forks": 48,
+    "forks": 49,
     "description": "IDE-like breadcrumbs, out of the box",
     "license_spdx": "GPL-3.0",
     "last_commit_at": "2026-11-15T14:28:55Z",
@@ -13,7 +13,7 @@
     "releases_365d": 0,
     "median_issue_close_days": 3.767615740740741,
     "median_pr_close_days": 11.210451388888888,
-    "open_issues": 13,
+    "open_issues": 14,
     "closed_issues_sampled": 33,
     "contributors_12mo": 3,
     "top_author_commit_share": 0.75,
@@ -27,6 +27,6 @@
     "readme_len": 58803
   },
   "slow_fetched_at": "2026-11-13T11:08:34.471628711Z",
-  "commits_etag": "\"7acfab4c8e4d052e224519540774def9a191424338e7cfc52cb9d80aa0757f2a\"",
-  "releases_etag": "\"ff0d6fd30400d7098ebed1459b1a151e12c845274306eeeb3689c1d2a88cda65\""
+  "commits_etag": "\"28cd41996d2eeb1a19d51e7308c9e92c923020487878691391d0f4c115e56c86\"",
+  "releases_etag": "\"ff86219793c00804a4aec02168c59eac2c1f850740fd85307e1552452517266d\""
 }

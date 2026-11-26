@@ -1,10 +1,10 @@
 {
   "slug": "matbme/jabs.nvim",
-  "fetched_at": "2026-11-25T13:32:09.757796408Z",
+  "fetched_at": "2026-11-26T13:11:15.835693540Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 283,
+    "stars": 282,
     "forks": 10,
     "description": "Just Another Buffer Switcher for Neovim",
     "license_spdx": "GPL-3.0",
@@ -23,6 +23,6 @@
     "readme_len": 5714
   },
   "slow_fetched_at": "2026-11-14T10:55:15.458037272Z",
-  "commits_etag": "\"67b559de844e96745c98f6fe73342e1380df8c59fd0298a8333e039b695a9527\"",
-  "releases_etag": "\"5447f9da702058fbeb0b0ce2faf81a88df98b951c0227af6bd99163899b9cce9\""
+  "commits_etag": "\"e54424ef924c2215afb99af62ef72a4adf83afc56a84e3eabca01fef28fcb510\"",
+  "releases_etag": "\"07560434939fa4e1e7ef75c3702731d9c5dde8a35d13d3a0108045b06a53179d\""
 }

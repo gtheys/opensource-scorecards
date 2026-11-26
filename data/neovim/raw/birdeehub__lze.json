@@ -1,6 +1,6 @@
 {
   "slug": "birdeehub/lze",
-  "fetched_at": "2026-11-25T13:02:14.650022168Z",
+  "fetched_at": "2026-11-26T12:41:17.394853352Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -13,7 +13,7 @@
     "releases_365d": 4,
     "median_issue_close_days": 10.895196759259258,
     "median_pr_close_days": 0.379375,
-    "open_issues": 0,
+    "open_issues": 1,
     "closed_issues_sampled": 1,
     "contributors_12mo": 1,
     "top_author_commit_share": 1.0,
@@ -27,6 +27,6 @@
     "readme_len": 27880
   },
   "slow_fetched_at": "2026-11-13T11:09:14.948621544Z",
-  "commits_etag": "\"dabc1778fcabc4708c36d93004cd940381763bd6640a9a4ae2663255996909db\"",
-  "releases_etag": "\"32d3766af10ca1384ee837392cbb698a3d499d16aa3a1453f7a3906267dc91a6\""
+  "commits_etag": "\"037b25eb99aa959a24bf62b73037bf6a3efce987f13deda579694797fe556132\"",
+  "releases_etag": "\"cb6126828ae6ae5da0bce26954fe67a3c65ad9616724ddb9728568bb90aff0ca\""
 }

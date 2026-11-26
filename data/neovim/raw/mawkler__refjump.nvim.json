@@ -1,6 +1,6 @@
 {
   "slug": "mawkler/refjump.nvim",
-  "fetched_at": "2026-11-25T13:32:27.805579989Z",
+  "fetched_at": "2026-11-26T13:11:35.539217768Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 2373
   },
   "slow_fetched_at": "2026-11-15T11:20:44.480995235Z",
-  "commits_etag": "\"44d1db848d6c7529112ddffff2d7e885868bf7173038cea5f3624dbca2686d50\"",
-  "releases_etag": "\"5447f9da702058fbeb0b0ce2faf81a88df98b951c0227af6bd99163899b9cce9\""
+  "commits_etag": "\"a28a128522505e21879b9bf1ffa5d74afe69980a033088b6d2dcc1d8075f0d42\"",
+  "releases_etag": "\"07560434939fa4e1e7ef75c3702731d9c5dde8a35d13d3a0108045b06a53179d\""
 }

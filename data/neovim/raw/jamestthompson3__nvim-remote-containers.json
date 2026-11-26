@@ -1,6 +1,6 @@
 {
   "slug": "jamestthompson3/nvim-remote-containers",
-  "fetched_at": "2026-11-25T13:22:15.350540313Z",
+  "fetched_at": "2026-11-26T12:59:53.006683617Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 2783
   },
   "slow_fetched_at": "2026-11-14T10:45:38.316280808Z",
-  "commits_etag": "\"86a1b160d0021c481b07ecec9e1e80baf0c622349931154431e64a08bc363223\"",
-  "releases_etag": "\"5447f9da702058fbeb0b0ce2faf81a88df98b951c0227af6bd99163899b9cce9\""
+  "commits_etag": "\"290810ddf686e1986b0db3b26c9bc0aea9d2c2d18f7cf17809dafbfcd0d7bd3f\"",
+  "releases_etag": "\"07560434939fa4e1e7ef75c3702731d9c5dde8a35d13d3a0108045b06a53179d\""
 }

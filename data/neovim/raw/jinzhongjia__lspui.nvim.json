@@ -1,10 +1,10 @@
 {
   "slug": "jinzhongjia/lspui.nvim",
-  "fetched_at": "2026-11-25T13:23:29.085179839Z",
+  "fetched_at": "2026-11-26T13:01:16.656146584Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 301,
+    "stars": 302,
     "forks": 4,
     "description": "A modern and useful UI plugin that wraps lsp operations.",
     "license_spdx": "MIT",
@@ -27,6 +27,6 @@
     "readme_len": 6705
   },
   "slow_fetched_at": "2026-11-14T10:46:47.104224570Z",
-  "commits_etag": "\"d8dac2cd7124aeb6444d42a8ea5bddc492f14cbadb6026ff8e7b5ac70e65235e\"",
-  "releases_etag": "\"5447f9da702058fbeb0b0ce2faf81a88df98b951c0227af6bd99163899b9cce9\""
+  "commits_etag": "\"502df94b9cce9329a563e9cee9229e65492f814ffe9a7a33b04b9f7571891fb8\"",
+  "releases_etag": "\"07560434939fa4e1e7ef75c3702731d9c5dde8a35d13d3a0108045b06a53179d\""
 }

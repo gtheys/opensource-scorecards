@@ -1,10 +1,10 @@
 {
   "slug": "aserowy/tmux.nvim",
-  "fetched_at": "2026-11-25T12:59:49.632009983Z",
+  "fetched_at": "2026-11-26T12:38:51.482681975Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 811,
+    "stars": 812,
     "forks": 51,
     "description": "tmux integration for nvim features pane movement and resizing from within nvim.",
     "license_spdx": "MIT",
@@ -27,6 +27,6 @@
     "readme_len": 14092
   },
   "slow_fetched_at": "2026-11-13T11:06:30.268450014Z",
-  "commits_etag": "\"bf9840cb96f688b6abae64998d8219a9fec4a96d7aa6d3d98723cac2833a0b78\"",
-  "releases_etag": "\"5447f9da702058fbeb0b0ce2faf81a88df98b951c0227af6bd99163899b9cce9\""
+  "commits_etag": "\"c20bc38707c249ab4fc7213a6e83f10eb195329cef27c16cf300da4e0b5d9c0f\"",
+  "releases_etag": "\"07560434939fa4e1e7ef75c3702731d9c5dde8a35d13d3a0108045b06a53179d\""
 }

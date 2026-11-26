@@ -1,6 +1,6 @@
 {
   "slug": "jaimeibanezrivera/zj-theme",
-  "fetched_at": "2026-11-25T13:21:57.967948847Z",
+  "fetched_at": "2026-11-26T12:59:36.545129993Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "Sync your zellij theme to whatever colorscheme is active in neovim, live — no restart needed.",
     "license_spdx": "MIT",
     "last_commit_at": "2026-08-27T16:38:00Z",
-    "commits_90d": 2,
+    "commits_90d": 0,
     "releases_365d": 3,
     "median_issue_close_days": null,
     "median_pr_close_days": 0.0013078703703703703,
@@ -27,6 +27,6 @@
     "readme_len": 12137
   },
   "slow_fetched_at": "2026-11-13T11:30:12.416980559Z",
-  "commits_etag": "\"905ed12925b68bd80f190010498fa9048a4fe5d27322af8ca7bea6c0b0f7d3c7\"",
-  "releases_etag": "\"fa50dc705415e9804c27def2682031ab2776c856bbe439f13a8aa06c6e8071b9\""
+  "commits_etag": "\"c4a8e26125cc78805e6b845ee992570ede389397d0d0f300a430439274d68933\"",
+  "releases_etag": "\"cd5bb231bb25c0477a5e798e8d92f351c22c37ed28119eb9c0b5fa4c500dac78\""
 }

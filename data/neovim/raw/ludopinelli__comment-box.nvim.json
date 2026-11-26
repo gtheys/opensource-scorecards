@@ -1,6 +1,6 @@
 {
   "slug": "ludopinelli/comment-box.nvim",
-  "fetched_at": "2026-11-25T13:30:09.242107366Z",
+  "fetched_at": "2026-11-26T13:08:52.434196310Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 20576
   },
   "slow_fetched_at": "2026-11-14T10:53:23.723725370Z",
-  "commits_etag": "\"fbef3bb8a290f2f37892116329ab2939ed3059b4e374fce4a973ab64e21fb8da\"",
-  "releases_etag": "\"36c603372b406c9173be9b4bea079b83d71ab8d1865eff1b41caae6b6ca77c25\""
+  "commits_etag": "\"a60c43aa63acff210709cdfa8ad211fd37c81b22a2cad56c484b84888739c174\"",
+  "releases_etag": "\"6e898042684bf49eeb34d57a4cedb6f802beae9710ce35209435a63299fc4832\""
 }

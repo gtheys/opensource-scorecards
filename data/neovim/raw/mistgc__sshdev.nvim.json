@@ -1,10 +1,10 @@
 {
   "slug": "mistgc/sshdev.nvim",
-  "fetched_at": "2026-11-25T13:34:30.254078388Z",
+  "fetched_at": "2026-11-26T13:14:03.633315722Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 3,
+    "stars": 4,
     "forks": 0,
     "description": null,
     "license_spdx": "MIT",
@@ -27,6 +27,6 @@
     "readme_len": 42702
   },
   "slow_fetched_at": "2026-11-25T13:34:30.254078388Z",
-  "commits_etag": "\"0d29ad0e8694caea451d5220f3bdf8795a66272c755bd33eaab3df40c6d05eef\"",
-  "releases_etag": "\"5447f9da702058fbeb0b0ce2faf81a88df98b951c0227af6bd99163899b9cce9\""
+  "commits_etag": "\"ac478091374d0f59b1b6f405c181df8f3a9fbf4ab01866aecf567d7840fb5c46\"",
+  "releases_etag": "\"07560434939fa4e1e7ef75c3702731d9c5dde8a35d13d3a0108045b06a53179d\""
 }

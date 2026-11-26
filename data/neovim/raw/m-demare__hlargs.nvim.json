@@ -1,10 +1,10 @@
 {
   "slug": "m-demare/hlargs.nvim",
-  "fetched_at": "2026-11-25T13:31:08.573922017Z",
+  "fetched_at": "2026-11-26T13:09:56.859359517Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 569,
+    "stars": 570,
     "forks": 14,
     "description": "Highlight arguments' definitions and usages, using Treesitter",
     "license_spdx": "GPL-3.0",
@@ -27,6 +27,6 @@
     "readme_len": 7641
   },
   "slow_fetched_at": "2026-11-14T10:54:17.076733318Z",
-  "commits_etag": "\"bdfc8151d5f2fc3bb42d264801b9fc6fa21ea4d54d8cdf9ee6ecb5e8b55d16ed\"",
-  "releases_etag": "\"5447f9da702058fbeb0b0ce2faf81a88df98b951c0227af6bd99163899b9cce9\""
+  "commits_etag": "\"915bb6a81696fccf680a24b7b130875b7254343d6a36ac0de6e294292bf221b1\"",
+  "releases_etag": "\"07560434939fa4e1e7ef75c3702731d9c5dde8a35d13d3a0108045b06a53179d\""
 }

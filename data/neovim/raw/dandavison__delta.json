@@ -1,22 +1,22 @@
 {
   "slug": "dandavison/delta",
-  "fetched_at": "2026-11-25T13:08:50.901779109Z",
+  "fetched_at": "2026-11-26T12:47:32.257497522Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 32830,
-    "forks": 743,
+    "stars": 32845,
+    "forks": 745,
     "description": "A syntax-highlighting interface for git, diff, blame, and grep/ripgrep",
     "license_spdx": "MIT",
-    "last_commit_at": "2026-11-25T00:26:54Z",
-    "commits_90d": 65,
+    "last_commit_at": "2026-11-25T22:33:49Z",
+    "commits_90d": 67,
     "releases_365d": 8,
-    "median_issue_close_days": 2.05634837962963,
-    "median_pr_close_days": 0.3692303240740741,
-    "open_issues": 502,
-    "closed_issues_sampled": 16,
-    "contributors_12mo": 17,
-    "top_author_commit_share": 0.7349397590361446,
+    "median_issue_close_days": 2.744976851851852,
+    "median_pr_close_days": 0.3478125,
+    "open_issues": 503,
+    "closed_issues_sampled": 15,
+    "contributors_12mo": 16,
+    "top_author_commit_share": 0.75,
     "top_author": {
       "login": "dandavison",
       "account_created_at": "2009-02-05T23:34:07Z",
@@ -27,6 +27,6 @@
     "readme_len": 7783
   },
   "slow_fetched_at": "2026-11-13T11:16:05.547470742Z",
-  "commits_etag": "\"504a1ed95cbb902123128fa70af15928f7d087635db8048a64640fecd50dc775\"",
-  "releases_etag": "\"00ec987681afc4882c35c0979dd9aab718f293e05802a3c40d4245b1117c2d50\""
+  "commits_etag": "\"c9bee2fa290bf0834f24edb557fa178dca5eb20903250bcffb0c7a8e043fde0e\"",
+  "releases_etag": "\"2d0be836484edf2d9d720555a02d74cbcbcb0edb781878e55fb8ddaa74617666\""
 }

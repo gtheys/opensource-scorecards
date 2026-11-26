@@ -1,6 +1,6 @@
 {
   "slug": "chuwy/ucm.nvim",
-  "fetched_at": "2026-11-25T13:05:39.816715452Z",
+  "fetched_at": "2026-11-26T12:44:39.778583513Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 1923
   },
   "slow_fetched_at": "2026-11-13T11:12:48.222713300Z",
-  "commits_etag": "\"96003e89910a4347ffe16a2bd5844612e094c7a8202d618b3c540cf58be011e5\"",
-  "releases_etag": "\"5447f9da702058fbeb0b0ce2faf81a88df98b951c0227af6bd99163899b9cce9\""
+  "commits_etag": "\"b1106414cdf86858d4e0ba2555bdcbf33f32e216b8fe479d34e05e184ed5e74b\"",
+  "releases_etag": "\"07560434939fa4e1e7ef75c3702731d9c5dde8a35d13d3a0108045b06a53179d\""
 }

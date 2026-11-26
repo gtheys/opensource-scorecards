@@ -1,11 +1,11 @@
 {
   "slug": "jmbuhr/otter.nvim",
-  "fetched_at": "2026-11-25T13:23:41.503646746Z",
+  "fetched_at": "2026-11-26T13:01:29.979102310Z",
   "status": "ok",
   "data": {
     "archived": false,
     "stars": 911,
-    "forks": 41,
+    "forks": 42,
     "description": "Just ask an otter! 🦦",
     "license_spdx": "MIT",
     "last_commit_at": "2026-10-19T12:55:26Z",
@@ -13,7 +13,7 @@
     "releases_365d": 11,
     "median_issue_close_days": 9.82335648148148,
     "median_pr_close_days": 0.11413194444444444,
-    "open_issues": 21,
+    "open_issues": 22,
     "closed_issues_sampled": 21,
     "contributors_12mo": 9,
     "top_author_commit_share": 0.4375,
@@ -27,6 +27,6 @@
     "readme_len": 13800
   },
   "slow_fetched_at": "2026-11-14T10:46:59.572425848Z",
-  "commits_etag": "\"feeec2314579f0da6f58693af0c53cd0776a3d2a899b42f1c5746e0c80cf5e52\"",
-  "releases_etag": "\"ab7ae1dea9e20e8a4920e4fecce682a4c178439d60c18a512f09ad8f7bf90525\""
+  "commits_etag": "\"97a0060762889dde6670acb3bd8d222d3fa3fd1c987a8e605fffe77fd067cf37\"",
+  "releases_etag": "\"25668a94f0998f8b2026af4a68b583bfcc56718edfa131d0d69b451b654c5c80\""
 }

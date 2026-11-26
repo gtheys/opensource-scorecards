@@ -1,6 +1,6 @@
 {
   "slug": "aejkatappaja/sora",
-  "fetched_at": "2026-11-25T12:57:25.176289360Z",
+  "fetched_at": "2026-11-26T12:36:15.983865508Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 10230
   },
   "slow_fetched_at": "2026-11-13T11:03:46.984184285Z",
-  "commits_etag": "\"4b4be5744ef8e7c76001614f41d7934b9848e9213b3641f6e6357304b49f4e35\"",
-  "releases_etag": "\"78d319997f200e6c448e44693e763d0d61ca3e4b99b1bedd7bf6ad4c58aaeb49\""
+  "commits_etag": "\"33f5d1751fffebb68f8c63e86e0ac52914be949d4f7f5912c27761af45dbeacb\"",
+  "releases_etag": "\"02c60c19391cfe0977d82ec1bf32d64478201bf5f3c7436a3eff733daefe15b8\""
 }

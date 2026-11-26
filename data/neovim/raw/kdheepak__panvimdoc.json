@@ -1,6 +1,6 @@
 {
   "slug": "kdheepak/panvimdoc",
-  "fetched_at": "2026-11-25T13:25:36.651493854Z",
+  "fetched_at": "2026-11-26T13:03:42.474921993Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -8,15 +8,15 @@
     "forks": 22,
     "description": "Write documentation in pandoc markdown. Generate documentation in vimdoc.",
     "license_spdx": "MIT",
-    "last_commit_at": "2026-11-22T04:17:52Z",
-    "commits_90d": 27,
+    "last_commit_at": "2026-11-25T15:26:19Z",
+    "commits_90d": 28,
     "releases_365d": 3,
-    "median_issue_close_days": 1.3238136574074075,
-    "median_pr_close_days": 0.16041666666666665,
+    "median_issue_close_days": 1.6536689814814816,
+    "median_pr_close_days": 0.13885416666666667,
     "open_issues": 6,
-    "closed_issues_sampled": 14,
+    "closed_issues_sampled": 13,
     "contributors_12mo": 3,
-    "top_author_commit_share": 0.8709677419354839,
+    "top_author_commit_share": 0.875,
     "top_author": {
       "login": "kdheepak",
       "account_created_at": "2012-06-03T21:05:14Z",
@@ -27,6 +27,6 @@
     "readme_len": 16149
   },
   "slow_fetched_at": "2026-11-14T10:48:52.319138052Z",
-  "commits_etag": "\"862a701a9faa28958fe2651ad56da4d419b3f4f93493d45196ae1768614ff26c\"",
-  "releases_etag": "\"d44739ca9c61e2fd24ab3d8657010b3853d7cdd85dce9e3b8997815662c4f28b\""
+  "commits_etag": "\"5a1b482220acfd136d69e6f5d75389fcb0f84a05a062ddee7f03beafa25f89e3\"",
+  "releases_etag": "\"382e072cb02f2387ca8512398b76f9a74e78e7eb399f5522a8976d7ef8bb3f92\""
 }

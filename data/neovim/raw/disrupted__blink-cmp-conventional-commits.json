@@ -1,6 +1,6 @@
 {
   "slug": "disrupted/blink-cmp-conventional-commits",
-  "fetched_at": "2026-11-25T13:10:22.688753596Z",
+  "fetched_at": "2026-11-26T12:48:47.325924559Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -16,7 +16,7 @@
     "open_issues": 1,
     "closed_issues_sampled": 2,
     "contributors_12mo": 3,
-    "top_author_commit_share": 0.6666666666666666,
+    "top_author_commit_share": 0.6,
     "top_author": {
       "login": "Dynge",
       "account_created_at": "2017-02-06T12:20:41Z",
@@ -27,6 +27,6 @@
     "readme_len": 4275
   },
   "slow_fetched_at": "2026-11-13T11:17:45.989847995Z",
-  "commits_etag": "\"b9ba06fc91714ce89bbb527f93d50bbefcee263cf1ca96974b1dbb995330d374\"",
-  "releases_etag": "\"5447f9da702058fbeb0b0ce2faf81a88df98b951c0227af6bd99163899b9cce9\""
+  "commits_etag": "\"ee069cdd12408be0125915e494efdcd5c5f878d9aed2d0ef2d9da1826ceb2120\"",
+  "releases_etag": "\"07560434939fa4e1e7ef75c3702731d9c5dde8a35d13d3a0108045b06a53179d\""
 }

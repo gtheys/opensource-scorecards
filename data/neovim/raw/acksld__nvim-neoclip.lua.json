@@ -1,6 +1,6 @@
 {
   "slug": "acksld/nvim-neoclip.lua",
-  "fetched_at": "2026-11-25T12:56:55.621316584Z",
+  "fetched_at": "2026-11-26T12:35:47.580124169Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 17639
   },
   "slow_fetched_at": "2026-11-13T11:03:13.608699046Z",
-  "commits_etag": "\"30649350b3d8b74c65f39fe510cf46aede8adc8b6cb3ee6c67ede8a95c44e247\"",
-  "releases_etag": "\"5447f9da702058fbeb0b0ce2faf81a88df98b951c0227af6bd99163899b9cce9\""
+  "commits_etag": "\"ef9774af5678f1bd30f3d3f238b629bc0fb31bda20754c13ab151c31a853aa8d\"",
+  "releases_etag": "\"07560434939fa4e1e7ef75c3702731d9c5dde8a35d13d3a0108045b06a53179d\""
 }

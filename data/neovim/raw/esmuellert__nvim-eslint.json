@@ -1,6 +1,6 @@
 {
   "slug": "esmuellert/nvim-eslint",
-  "fetched_at": "2026-11-25T13:13:54.757637532Z",
+  "fetched_at": "2026-11-26T12:51:47.483963965Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 15725
   },
   "slow_fetched_at": "2026-11-13T11:21:32.730553798Z",
-  "commits_etag": "\"a861d0b328589f5e1fa0a05107719f3495cad4107f7844b06cd0ad7202695c37\"",
-  "releases_etag": "\"5447f9da702058fbeb0b0ce2faf81a88df98b951c0227af6bd99163899b9cce9\""
+  "commits_etag": "\"1f5591cc9acfa5523c78e3863519ae56903493a8aadd4f19c903f2ec70bfc8ca\"",
+  "releases_etag": "\"07560434939fa4e1e7ef75c3702731d9c5dde8a35d13d3a0108045b06a53179d\""
 }

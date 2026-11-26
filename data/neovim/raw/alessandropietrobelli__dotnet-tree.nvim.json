@@ -1,10 +1,10 @@
 {
   "slug": "alessandropietrobelli/dotnet-tree.nvim",
-  "fetched_at": "2026-11-25T12:58:14.917805480Z",
+  "fetched_at": "2026-11-26T12:37:06.881820807Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 21,
+    "stars": 22,
     "forks": 0,
     "description": "A .NET solution explorer for Neovim, as a neo-tree source",
     "license_spdx": "Apache-2.0",
@@ -27,6 +27,6 @@
     "readme_len": 15153
   },
   "slow_fetched_at": "2026-11-13T11:04:41.897562209Z",
-  "commits_etag": "\"9f2dbc4664f9788595d7f67dd5361375a7b5d3d5227f47cb8d40572a482150c4\"",
-  "releases_etag": "\"19e2da5f1dc490ebf9bda4dfce023fb2cc17649970f92d8e5fa4dd13f61e620d\""
+  "commits_etag": "\"fa424e6efa2a5a4a33f258fc6b862b4a24a48fa583a3df047e5143bdf7d692c7\"",
+  "releases_etag": "\"0b9cfea9fd8bd5181487f7490323b92d0ec3391ee86f07993958f7923f29cbce\""
 }

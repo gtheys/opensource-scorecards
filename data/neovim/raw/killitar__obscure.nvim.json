@@ -1,6 +1,6 @@
 {
   "slug": "killitar/obscure.nvim",
-  "fetched_at": "2026-11-25T13:26:13.523833470Z",
+  "fetched_at": "2026-11-26T13:04:28.194496387Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 3379
   },
   "slow_fetched_at": "2026-11-14T10:49:30.554213331Z",
-  "commits_etag": "\"fde7adf8f1ba15170a1c758cd104837b38349524a6ebcda6fc49102233ed080e\"",
-  "releases_etag": "\"22aba623b003477be6fff61b0a9e61ccbc229df4dd047d4b6753a99b3e43e896\""
+  "commits_etag": "\"dee26f1e7644b6a0bd907c4c7323d235636000f575b4987729ef22740036ab0f\"",
+  "releases_etag": "\"fda9148670ad6dbbfe46c2ab2bff34b558d0c28ac66e19a7987414bf3ac8207e\""
 }

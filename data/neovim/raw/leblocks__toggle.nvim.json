@@ -1,6 +1,6 @@
 {
   "slug": "leblocks/toggle.nvim",
-  "fetched_at": "2026-11-25T13:28:06.612063073Z",
+  "fetched_at": "2026-11-26T13:06:38.244496249Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 4500
   },
   "slow_fetched_at": "2026-11-14T10:51:23.325027808Z",
-  "commits_etag": "\"1b2c1e87252efeb40d0aeb9847cb6f2ab04b3625b5e53b74760dd5752e305de7\"",
-  "releases_etag": "\"e21b41c412700e98a81fd089333f11da0016fc9a109e075a01463b41f81ba15f\""
+  "commits_etag": "\"bb57fca7fc0d31547c642fa557a7f58f46563a40f40219448aca8224d17062d0\"",
+  "releases_etag": "\"7cf6e0e7cd8bf7bba7afffad42dc6382f1805aca1046f4d493e6d79ac5848aa0\""
 }

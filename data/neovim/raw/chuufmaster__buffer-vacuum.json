@@ -1,6 +1,6 @@
 {
   "slug": "chuufmaster/buffer-vacuum",
-  "fetched_at": "2026-11-25T13:05:36.337225082Z",
+  "fetched_at": "2026-11-26T12:44:36.435200144Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 3106
   },
   "slow_fetched_at": "2026-11-13T11:12:44.224191995Z",
-  "commits_etag": "\"35ccd131ce1b46cb2821c71bc3789435fc1cea3c075c28fde48347c9d46126e9\"",
-  "releases_etag": "\"6951ccfa70a9adcdc0c6e2901157cdd82bbc7f21d98f0a74584beb2917e1c357\""
+  "commits_etag": "\"0a35da3b9c14e942dae7575f5f640415d598ae2ffee2e42fb2636dedff64e5b3\"",
+  "releases_etag": "\"b8f710550cc67ec47019d1f3c0437878096dd609303b75a20a539cbb9f8961a6\""
 }

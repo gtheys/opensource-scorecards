@@ -1,10 +1,10 @@
 {
   "slug": "mfussenegger/nvim-jdtls",
-  "fetched_at": "2026-11-25T13:33:06.003803002Z",
+  "fetched_at": "2026-11-26T13:12:22.451338125Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 1496,
+    "stars": 1498,
     "forks": 81,
     "description": "MIRROR of: https://codeberg.org/mfussenegger/nvim-jdtls",
     "license_spdx": "GPL-3.0",
@@ -27,6 +27,6 @@
     "readme_len": 18426
   },
   "slow_fetched_at": "2026-11-15T11:21:22.860955684Z",
-  "commits_etag": "\"c8ebdcc7f36ec4840a602aaa13cfc127746f950ed17e3b908adde21fe7bc965d\"",
-  "releases_etag": "\"663a94d65890a593bad7a54dbb0d11aa6bd21607ba7b92cc1aa9bedd9caadc70\""
+  "commits_etag": "\"e5ef4f69393b6ada11f8202ffba4294aca66428a5c10e0358a448f6e193a8789\"",
+  "releases_etag": "\"c954d903fcf2482cef662be13a37c7f1d00e30f65386d5ef897941978509c4cc\""
 }

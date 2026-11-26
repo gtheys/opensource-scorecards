@@ -1,6 +1,6 @@
 {
   "slug": "mcp1766/stylepeek.nvim",
-  "fetched_at": "2026-11-25T13:32:44.918407175Z",
+  "fetched_at": "2026-11-26T13:11:55.510948751Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 5644
   },
   "slow_fetched_at": "2026-11-15T11:21:00.889519341Z",
-  "commits_etag": "\"06d638ab9bbd0ecc6422f7766304de51d15dd9be416a135db817b51da7e7b17c\"",
-  "releases_etag": "\"5447f9da702058fbeb0b0ce2faf81a88df98b951c0227af6bd99163899b9cce9\""
+  "commits_etag": "\"72ebcc0b2d16bc9f94f1094eaec6a117013e5c03426fa3b2e47aea9d0576fd67\"",
+  "releases_etag": "\"07560434939fa4e1e7ef75c3702731d9c5dde8a35d13d3a0108045b06a53179d\""
 }

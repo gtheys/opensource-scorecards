@@ -1,6 +1,6 @@
 {
   "slug": "0xstepit/flow.nvim",
-  "fetched_at": "2026-11-25T12:55:26.538264387Z",
+  "fetched_at": "2026-11-26T12:34:05.346352495Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 6619
   },
   "slow_fetched_at": "2026-11-13T11:01:28.214453600Z",
-  "commits_etag": "\"37280ef6f777c2ec8eae2b51c3a9f7f617332d5fbb78d32e53bbcdf8c9959d6f\"",
-  "releases_etag": "\"7b7b04c621de09acc3866eb9c9a641cde84c4bdade776a0e86bae60a85b7d830\""
+  "commits_etag": "\"0616934ac6aec62790f851b5c759c594fae40c58afe1e8c09b4cee6011617bbc\"",
+  "releases_etag": "\"de635a45a71966e608ea8740b7ac4b90ff036129ba5c9701e26dcd0ab12b3ab5\""
 }

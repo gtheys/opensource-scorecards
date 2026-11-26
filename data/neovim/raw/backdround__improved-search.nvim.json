@@ -1,6 +1,6 @@
 {
   "slug": "backdround/improved-search.nvim",
-  "fetched_at": "2026-11-25T13:01:10.030134637Z",
+  "fetched_at": "2026-11-26T12:40:09.803683333Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 2681
   },
   "slow_fetched_at": "2026-11-13T11:07:58.404451571Z",
-  "commits_etag": "\"4a4f708bf0c282416ff89391a8a2bb9c588347a2a37fda4941272edfe590ffcc\"",
-  "releases_etag": "\"5447f9da702058fbeb0b0ce2faf81a88df98b951c0227af6bd99163899b9cce9\""
+  "commits_etag": "\"966d522d6b8e3e5f696a83d1c31dc93d592d7a45e376243a7c0fe2adae0c84b9\"",
+  "releases_etag": "\"07560434939fa4e1e7ef75c3702731d9c5dde8a35d13d3a0108045b06a53179d\""
 }

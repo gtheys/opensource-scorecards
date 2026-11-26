@@ -1,10 +1,10 @@
 {
   "slug": "chrsm/impulse.nvim",
-  "fetched_at": "2026-11-25T13:05:32.975196073Z",
+  "fetched_at": "2026-11-26T12:44:33.037172218Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 100,
+    "stars": 101,
     "forks": 2,
     "description": "Mirror. Not actively maintained here.",
     "license_spdx": "MIT",
@@ -23,6 +23,6 @@
     "readme_len": 3316
   },
   "slow_fetched_at": "2026-11-13T11:12:40.447882024Z",
-  "commits_etag": "\"2155aca7e03d7a85e2152b30a86ac76566916c142d13170331efb8215b8ac411\"",
-  "releases_etag": "\"5447f9da702058fbeb0b0ce2faf81a88df98b951c0227af6bd99163899b9cce9\""
+  "commits_etag": "\"b66eabbc08249684d84a33728ce4d55b32ffe1419f3ecf0a3bab8902016b51cc\"",
+  "releases_etag": "\"07560434939fa4e1e7ef75c3702731d9c5dde8a35d13d3a0108045b06a53179d\""
 }

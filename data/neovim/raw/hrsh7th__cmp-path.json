@@ -1,11 +1,11 @@
 {
   "slug": "hrsh7th/cmp-path",
-  "fetched_at": "2026-11-25T13:20:08.355446589Z",
+  "fetched_at": "2026-11-26T12:57:43.555871841Z",
   "status": "ok",
   "data": {
     "archived": false,
     "stars": 690,
-    "forks": 75,
+    "forks": 74,
     "description": "nvim-cmp source for path",
     "license_spdx": "MIT",
     "last_commit_at": null,
@@ -23,6 +23,6 @@
     "readme_len": 1456
   },
   "slow_fetched_at": "2026-11-13T11:28:13.948420228Z",
-  "commits_etag": "\"1efb4db078cc2d607f40f7fb0cab43554b905b91188f71dc21b12360211a6370\"",
-  "releases_etag": "\"5447f9da702058fbeb0b0ce2faf81a88df98b951c0227af6bd99163899b9cce9\""
+  "commits_etag": "\"258e542c53f36314c5e71f753e518c885e6518203308397bd715d147b9a63e99\"",
+  "releases_etag": "\"07560434939fa4e1e7ef75c3702731d9c5dde8a35d13d3a0108045b06a53179d\""
 }

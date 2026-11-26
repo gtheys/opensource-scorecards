@@ -1,6 +1,6 @@
 {
   "slug": "frabjous/knap",
-  "fetched_at": "2026-11-25T13:16:37.573998193Z",
+  "fetched_at": "2026-11-26T12:54:15.400367416Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 47584
   },
   "slow_fetched_at": "2026-11-13T11:24:20.615940051Z",
-  "commits_etag": "\"484aac45cd8f7bf18889cadf9c56aaef04c17319b4dd13284300d80c370ad56f\"",
-  "releases_etag": "\"5447f9da702058fbeb0b0ce2faf81a88df98b951c0227af6bd99163899b9cce9\""
+  "commits_etag": "\"7dad55ab7647eb77d66cdebf92e07355e787fbf843497fe9c11071ad66436260\"",
+  "releases_etag": "\"07560434939fa4e1e7ef75c3702731d9c5dde8a35d13d3a0108045b06a53179d\""
 }

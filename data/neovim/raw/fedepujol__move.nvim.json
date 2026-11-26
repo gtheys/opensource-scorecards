@@ -1,6 +1,6 @@
 {
   "slug": "fedepujol/move.nvim",
-  "fetched_at": "2026-11-25T13:14:31.130753248Z",
+  "fetched_at": "2026-11-26T12:52:23.099352464Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 5224
   },
   "slow_fetched_at": "2026-11-13T11:22:17.388896038Z",
-  "commits_etag": "\"d237dec711514e2523bcd5a6725f42e4cf77ec50b77671d21a56fc8be73313f3\"",
-  "releases_etag": "\"85496270124af36d2f9abbdaab06df9ec7dbf636a2b80a06e217cf54cdc6f6c7\""
+  "commits_etag": "\"ca260af962a7ec90186e8bf7d2a31b14f1efc5ea0a59952fe37cecdcf04e4fb9\"",
+  "releases_etag": "\"f3a3e200bbae2a9a4151bc7d1fff05c08f79cb9e149fa3e21c5c8b42f4bd2eba\""
 }

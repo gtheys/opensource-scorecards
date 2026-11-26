@@ -1,6 +1,6 @@
 {
   "slug": "acksld/swenv.nvim",
-  "fetched_at": "2026-11-25T12:57:00.359062748Z",
+  "fetched_at": "2026-11-26T12:35:52.773820326Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 4964
   },
   "slow_fetched_at": "2026-11-13T11:03:19.235588815Z",
-  "commits_etag": "\"faa5a629184ad52c50fe5deb039463a3569fce36b9003532f0a8af390831e22c\"",
-  "releases_etag": "\"5447f9da702058fbeb0b0ce2faf81a88df98b951c0227af6bd99163899b9cce9\""
+  "commits_etag": "\"ffed0a10a505e482c59acf0f60c4ec2b5b8120fe1bbbadf5cfac8a10adf0c568\"",
+  "releases_etag": "\"07560434939fa4e1e7ef75c3702731d9c5dde8a35d13d3a0108045b06a53179d\""
 }

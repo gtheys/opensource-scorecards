@@ -1,6 +1,6 @@
 {
   "slug": "bennypowers/svgo.nvim",
-  "fetched_at": "2026-11-25T13:01:56.713638804Z",
+  "fetched_at": "2026-11-26T12:40:58.068836466Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 683
   },
   "slow_fetched_at": "2026-11-13T11:08:48.770019649Z",
-  "commits_etag": "\"42d18541ecff9dd9223687e4b1c791860d923b19c39791573849723083d6a469\"",
-  "releases_etag": "\"df59a4ab50d2f3f79106eec3271c0aff96bf7d8ff83ff443103f23960062bf0b\""
+  "commits_etag": "\"4ed5c4fb8ce90f722699d2afb4184634dc6e854edefd0017214295eb0d680a8c\"",
+  "releases_etag": "\"10d63fa472a67c2d352ef976d17fcb29b7150e6d86631a5eb25c3391253c191a\""
 }

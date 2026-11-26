@@ -1,15 +1,15 @@
 {
   "slug": "drkjeff16/wezterm-types",
-  "fetched_at": "2026-11-25T13:12:00.619845069Z",
+  "fetched_at": "2026-11-26T12:50:06.236992141Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 229,
+    "stars": 230,
     "forks": 30,
     "description": "WezTerm Lua config types for LuaLS, with Neovim and VSCode support. Also supperts various WezTerm plugins.",
     "license_spdx": "MIT",
     "last_commit_at": "2026-11-22T19:42:02Z",
-    "commits_90d": 25,
+    "commits_90d": 24,
     "releases_365d": 40,
     "median_issue_close_days": 32.853547453703705,
     "median_pr_close_days": 0.0013368055555555555,
@@ -27,6 +27,6 @@
     "readme_len": 44358
   },
   "slow_fetched_at": "2026-11-13T11:19:20.714373785Z",
-  "commits_etag": "\"3ab3b9fc4c1d66dce3bd16f799da5ec58f561b760b10f62213f12ae8b942fcd7\"",
-  "releases_etag": "\"6e741d675d855ead86bfbb4343bbb8b9768593337d2350de274449df20f33077\""
+  "commits_etag": "\"23833660018fe592dc33ed36de52db38610e8147163d380c92f205cd62f3f495\"",
+  "releases_etag": "\"d9c73e90b92a98f5ce4dac93c529c216382232e7793442090d63968f5da2c51a\""
 }

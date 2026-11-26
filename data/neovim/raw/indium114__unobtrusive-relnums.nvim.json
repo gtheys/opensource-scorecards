@@ -1,6 +1,6 @@
 {
   "slug": "indium114/unobtrusive-relnums.nvim",
-  "fetched_at": "2026-11-25T13:21:03.001193101Z",
+  "fetched_at": "2026-11-26T12:58:38.582191096Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 1214
   },
   "slow_fetched_at": "2026-11-13T11:29:13.059129527Z",
-  "commits_etag": "\"b185d185654acafc8453becc0fdc76b365ce865fdc6b83d448e0c263333aff75\"",
-  "releases_etag": "\"5447f9da702058fbeb0b0ce2faf81a88df98b951c0227af6bd99163899b9cce9\""
+  "commits_etag": "\"be1fe235aed0be27b00b3354d54de614ca646d09cda079ba88b2b4af85b6e46d\"",
+  "releases_etag": "\"07560434939fa4e1e7ef75c3702731d9c5dde8a35d13d3a0108045b06a53179d\""
 }

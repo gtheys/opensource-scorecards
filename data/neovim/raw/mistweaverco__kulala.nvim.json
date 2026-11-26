@@ -1,10 +1,10 @@
 {
   "slug": "mistweaverco/kulala.nvim",
-  "fetched_at": "2026-11-25T13:34:38.252190455Z",
+  "fetched_at": "2026-11-26T13:14:10.878389584Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 52,
+    "stars": 53,
     "forks": 14,
     "description": "A fully-featured ⚡️ HTTP/GraphQL/gRPC/Websocket-client 🐼 interface 🖥️ for Neovim ❤️, that supports the Jetbrains .http spec (with full scripting support).",
     "license_spdx": "MIT",
@@ -27,6 +27,6 @@
     "readme_len": 16550
   },
   "slow_fetched_at": "2026-11-15T11:22:47.351610528Z",
-  "commits_etag": "\"b84dbbb137aa77166289df1d2e7332de2a591b38e1b9ceeabaa002bc92030d60\"",
-  "releases_etag": "\"719a11851a7c4f75f0c0be2602e90a85dcc05381a7d2707c9ba2e38687a73b9c\""
+  "commits_etag": "\"a078f1f85c30b816daf59801fef49f1f03fa3f09033bfceb2d65cb191058e9a3\"",
+  "releases_etag": "\"853fc6e4f77aba51e7e3296a25e6424c5e1fc60b00721b37740c71ba538c8966\""
 }

@@ -1,6 +1,6 @@
 {
   "slug": "brenton-leighton/multiple-cursors.nvim",
-  "fetched_at": "2026-11-25T13:02:47.610389407Z",
+  "fetched_at": "2026-11-26T12:41:50.231171632Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 26529
   },
   "slow_fetched_at": "2026-11-13T11:09:48.519522567Z",
-  "commits_etag": "\"36f48b34a497f77c6833a8d4d624f44039a7b137ff8427822ccca1ad53f026b5\"",
-  "releases_etag": "\"26c5754192c6572ac15994c45eedf85e9d29fa912f91fbcd15cc9314c3841ec3\""
+  "commits_etag": "\"775b8b2aee1f73d8193b59152764628d81961743b94e35f0308a248bc10732e6\"",
+  "releases_etag": "\"66300ee85b56a6f1966d1d1c34d2fd103297dd346f3eb2f4d7d7aa65214948d6\""
 }

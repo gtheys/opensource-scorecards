@@ -1,6 +1,6 @@
 {
   "slug": "kiyoon/korean-ime.nvim",
-  "fetched_at": "2026-11-25T13:26:27.962303964Z",
+  "fetched_at": "2026-11-26T13:04:40.486267775Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 4785
   },
   "slow_fetched_at": "2026-11-14T10:49:43.160078414Z",
-  "commits_etag": "\"262fcb84d6772422623f9e52901e4e2fade7ca3d38a73661f38508bb5da65334\"",
-  "releases_etag": "\"5447f9da702058fbeb0b0ce2faf81a88df98b951c0227af6bd99163899b9cce9\""
+  "commits_etag": "\"8a8fc20ba64e58a0d63680ba77ffa8a8a0bf7abc1791e02a6ca94479d125e6da\"",
+  "releases_etag": "\"07560434939fa4e1e7ef75c3702731d9c5dde8a35d13d3a0108045b06a53179d\""
 }

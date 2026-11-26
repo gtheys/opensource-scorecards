@@ -1,6 +1,6 @@
 {
   "slug": "h-hg/fcitx.nvim",
-  "fetched_at": "2026-11-25T13:18:38.205594495Z",
+  "fetched_at": "2026-11-26T12:56:15.704303092Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "A Neovim plugin writing in Lua to switch and restore fcitx state for each buffer.",
     "license_spdx": "MIT",
     "last_commit_at": "2026-10-31T02:16:38Z",
-    "commits_90d": 4,
+    "commits_90d": 2,
     "releases_365d": 0,
     "median_issue_close_days": 29.325653935185187,
     "median_pr_close_days": 1.9891724537037037,
@@ -27,6 +27,6 @@
     "readme_len": 918
   },
   "slow_fetched_at": "2026-11-13T11:26:34.429192995Z",
-  "commits_etag": "\"51b6cd24411a7b237a9b22801b394bd25579c4d15b9f8ece12132261ddafd889\"",
-  "releases_etag": "\"5447f9da702058fbeb0b0ce2faf81a88df98b951c0227af6bd99163899b9cce9\""
+  "commits_etag": "\"a52d5f64cce3523d69bbce3ba31d15454e574385b75588c733a1f4e86c2b4220\"",
+  "releases_etag": "\"07560434939fa4e1e7ef75c3702731d9c5dde8a35d13d3a0108045b06a53179d\""
 }

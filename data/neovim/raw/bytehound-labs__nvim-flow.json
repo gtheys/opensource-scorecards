@@ -1,6 +1,6 @@
 {
   "slug": "bytehound-labs/nvim-flow",
-  "fetched_at": "2026-11-25T13:03:07.290038126Z",
+  "fetched_at": "2026-11-26T12:42:09.615729231Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "neovim command runner",
     "license_spdx": "MIT",
     "last_commit_at": "2026-10-27T12:17:46Z",
-    "commits_90d": 6,
+    "commits_90d": 5,
     "releases_365d": 0,
     "median_issue_close_days": null,
     "median_pr_close_days": null,
@@ -27,6 +27,6 @@
     "readme_len": 22419
   },
   "slow_fetched_at": "2026-11-13T11:10:09.923011456Z",
-  "commits_etag": "\"9a45c8a438cc9054c3574300d96a4d01899a79f26bad42ae958249e83ba6b960\"",
-  "releases_etag": "\"5447f9da702058fbeb0b0ce2faf81a88df98b951c0227af6bd99163899b9cce9\""
+  "commits_etag": "\"a489131592ab337e9dfbb61f6f2f8ae014d43ebe29bdbac43370d7bb15046049\"",
+  "releases_etag": "\"07560434939fa4e1e7ef75c3702731d9c5dde8a35d13d3a0108045b06a53179d\""
 }

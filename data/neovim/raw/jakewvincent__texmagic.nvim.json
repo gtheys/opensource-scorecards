@@ -1,6 +1,6 @@
 {
   "slug": "jakewvincent/texmagic.nvim",
-  "fetched_at": "2026-11-25T13:22:13.501086762Z",
+  "fetched_at": "2026-11-26T12:59:51.433106806Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 8509
   },
   "slow_fetched_at": "2026-11-13T11:30:30.202765817Z",
-  "commits_etag": "\"4bf3e4c196940c814dfe71453f05c4ea48fba22fabfadbbcc28c8dc54b1150d9\"",
-  "releases_etag": "\"5447f9da702058fbeb0b0ce2faf81a88df98b951c0227af6bd99163899b9cce9\""
+  "commits_etag": "\"fea8e28b3e8a715bc1d7603115d9035bcc63a70a652fbc337e4a6d994ebc73a1\"",
+  "releases_etag": "\"07560434939fa4e1e7ef75c3702731d9c5dde8a35d13d3a0108045b06a53179d\""
 }

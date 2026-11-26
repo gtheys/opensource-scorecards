@@ -1,6 +1,6 @@
 {
   "slug": "awsum-lang/awsum-nvim",
-  "fetched_at": "2026-11-25T13:00:18.846545546Z",
+  "fetched_at": "2026-11-26T12:39:21.269232430Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 6866
   },
   "slow_fetched_at": "2026-11-13T11:07:03.036929588Z",
-  "commits_etag": "\"476d67ceaa7dc8cf9b11760a52c326e3bfed1acb39936bbccdd8963327e3d9ff\"",
-  "releases_etag": "\"029a17a026f598231a9086bddee48da6faef6d441b3935f2e7b4390d9b3fb1c9\""
+  "commits_etag": "\"aea242558cd8da2b5036136151840c58b838ba7fe5c9d9c754d3f5b193335b6e\"",
+  "releases_etag": "\"ce781e576e912c9b4da0c1f9158b038c8073ecb62b8505eed2c0d0f38ac85d41\""
 }

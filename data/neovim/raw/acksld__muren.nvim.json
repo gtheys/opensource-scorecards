@@ -1,6 +1,6 @@
 {
   "slug": "acksld/muren.nvim",
-  "fetched_at": "2026-11-25T12:56:52.402222825Z",
+  "fetched_at": "2026-11-26T12:35:44.062937512Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 7181
   },
   "slow_fetched_at": "2026-11-13T11:03:09.242248767Z",
-  "commits_etag": "\"8dfbdfa478aa0d6c3571b68b5596a28e89fc11b476d91ebb3a945bafb6433016\"",
-  "releases_etag": "\"5447f9da702058fbeb0b0ce2faf81a88df98b951c0227af6bd99163899b9cce9\""
+  "commits_etag": "\"aae6ff44027104ec9c4d7c893114fdada0c1424b369e5a721a8f59ac68eba3c8\"",
+  "releases_etag": "\"07560434939fa4e1e7ef75c3702731d9c5dde8a35d13d3a0108045b06a53179d\""
 }

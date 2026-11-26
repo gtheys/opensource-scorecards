@@ -1,6 +1,6 @@
 {
   "slug": "ggandor/lightspeed.nvim",
-  "fetched_at": "2026-11-25T13:17:46.497726778Z",
+  "fetched_at": "2026-11-26T12:55:22.584948557Z",
   "status": "ok",
   "data": {
     "archived": true,
@@ -23,6 +23,6 @@
     "readme_len": 33146
   },
   "slow_fetched_at": "2026-11-13T11:25:38.072095236Z",
-  "commits_etag": "\"2ae862ec8ab3dd25f1bc194fe7e8fc0d6018dd8eda37c9d48fa5beb1e8e35739\"",
-  "releases_etag": "\"5447f9da702058fbeb0b0ce2faf81a88df98b951c0227af6bd99163899b9cce9\""
+  "commits_etag": "\"0b45941f183c9e9f64311839dc8a198a5ffb43c0f429ef81d97d7812fe49426c\"",
+  "releases_etag": "\"07560434939fa4e1e7ef75c3702731d9c5dde8a35d13d3a0108045b06a53179d\""
 }

@@ -1,6 +1,6 @@
 {
   "slug": "mikavilpas/yazi.nvim",
-  "fetched_at": "2026-11-25T13:33:51.843353581Z",
+  "fetched_at": "2026-11-26T13:13:16.244798881Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -12,7 +12,7 @@
     "commits_90d": 14,
     "releases_365d": 21,
     "median_issue_close_days": 2.229050925925926,
-    "median_pr_close_days": 0.0026967592592592594,
+    "median_pr_close_days": 0.002685185185185185,
     "open_issues": 5,
     "closed_issues_sampled": 1,
     "contributors_12mo": 6,
@@ -27,6 +27,6 @@
     "readme_len": 16939
   },
   "slow_fetched_at": "2026-11-15T11:22:04.544010571Z",
-  "commits_etag": "\"56f4982b841f50a07050938a5b4cdd8db7eeacb8c554bd539c705201a26b4d72\"",
-  "releases_etag": "\"9173a4ac0d93d200f8d07b620f97a6f8e1d051b7966a4c1e9733df5682d53734\""
+  "commits_etag": "\"1457c4d902aed6e8bf4c46a6f4753fd7040a3a7b4d424f914abdd69273ca8261\"",
+  "releases_etag": "\"42a7bd6e2a55847bd45f49b74267d03c783b3884bf75d09c204f57d107c86504\""
 }

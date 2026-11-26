@@ -1,10 +1,10 @@
 {
   "slug": "j-hui/fidget.nvim",
-  "fetched_at": "2026-11-25T13:21:48.469059246Z",
+  "fetched_at": "2026-11-26T12:59:26.487731057Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 2602,
+    "stars": 2604,
     "forks": 83,
     "description": "💫  Extensible UI for Neovim notifications and LSP progress messages.",
     "license_spdx": "MIT",
@@ -27,6 +27,6 @@
     "readme_len": 18565
   },
   "slow_fetched_at": "2026-11-13T11:30:01.176215732Z",
-  "commits_etag": "\"a3794a73d224417ad8bc993217c591877194a9ff337b816bf86286b6f7a22b8f\"",
-  "releases_etag": "\"74f875708023c3d1e1ed889fb17b439b96bf4334634b08ae42c624a85d6156ea\""
+  "commits_etag": "\"3e1e475fa04085ee0eefb746c88d8195d32578cd3a77dfc2f65d31b3ce884e5e\"",
+  "releases_etag": "\"c12081ff644dcfdff7f5254ac23b26c2fda84d71bf83ef50be45ae48191c89af\""
 }

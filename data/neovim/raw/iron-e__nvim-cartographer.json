@@ -1,10 +1,10 @@
 {
   "slug": "iron-e/nvim-cartographer",
-  "fetched_at": "2026-11-25T13:21:20.814246034Z",
+  "fetched_at": "2026-11-26T12:58:58.152214144Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 53,
+    "stars": 54,
     "forks": 4,
     "description": "Create Neovim `:map`pings in Lua with ease!",
     "license_spdx": "NOASSERTION",
@@ -23,6 +23,6 @@
     "readme_len": 3887
   },
   "slow_fetched_at": "2026-11-13T11:29:29.170445411Z",
-  "commits_etag": "\"1c297fdda14cb0a7c901858b784f972c09712c7858c6863aa10cc96450f3a3cd\"",
-  "releases_etag": "\"6219a55128b0457d313ee3a5951eb6819c36960bc7327bedff4ab1a80f4f3e3b\""
+  "commits_etag": "\"b0c63ec1e1f7d45b1f2f8db19b8cae66023710582e51e4fd46589d4108c6bd9c\"",
+  "releases_etag": "\"7a5a29ac7872ebc8e92ec33433a610cdb28ced4177395dc13708214cb64a83dd\""
 }

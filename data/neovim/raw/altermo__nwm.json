@@ -1,6 +1,6 @@
 {
   "slug": "altermo/nwm",
-  "fetched_at": "2026-11-25T12:58:44.647331373Z",
+  "fetched_at": "2026-11-26T12:37:41.001830647Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 9592
   },
   "slow_fetched_at": "2026-11-13T11:05:15.210399733Z",
-  "commits_etag": "\"8a89b9c0c0d761133169e496c87360b465475d66de89f4933ffc0eb6e1719d2f\"",
-  "releases_etag": "\"5447f9da702058fbeb0b0ce2faf81a88df98b951c0227af6bd99163899b9cce9\""
+  "commits_etag": "\"bb72f5093793ba9fa9a2da542f2a8c7e9b5771c8d3f1982d74c01850463a4db6\"",
+  "releases_etag": "\"07560434939fa4e1e7ef75c3702731d9c5dde8a35d13d3a0108045b06a53179d\""
 }
