@@ -1,6 +1,6 @@
 {
   "slug": "antonvanassche/music-controls.nvim",
-  "fetched_at": "2026-11-26T12:38:20.007092896Z",
+  "fetched_at": "2026-11-27T12:23:29.856937031Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 5894
   },
   "slow_fetched_at": "2026-11-13T11:05:56.375851807Z",
-  "commits_etag": "\"3b70a685cca65dd2703fba5d049631933bef57c429b2efd5fe8f3c8714c4bf94\"",
-  "releases_etag": "\"07560434939fa4e1e7ef75c3702731d9c5dde8a35d13d3a0108045b06a53179d\""
+  "commits_etag": "\"e630b99195e76b3442610be746e4aed9d7d439dade7b16cbf0dc7ca3b4eb49d3\"",
+  "releases_etag": "\"b3f677ec8dc33fbe5733cec2d7ab93227b43d921ba1ffde58057ea7eb75ef7aa\""
 }

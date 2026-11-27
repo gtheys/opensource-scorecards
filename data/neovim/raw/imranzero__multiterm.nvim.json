@@ -1,6 +1,6 @@
 {
   "slug": "imranzero/multiterm.nvim",
-  "fetched_at": "2026-11-26T12:58:31.755203582Z",
+  "fetched_at": "2026-11-27T12:40:59.811429956Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 6555
   },
   "slow_fetched_at": "2026-11-13T11:29:04.222121107Z",
-  "commits_etag": "\"65d247f6c43507c9529ca8bc31ad9cd29c6127a373a17f25b28f31742e0de680\"",
-  "releases_etag": "\"07560434939fa4e1e7ef75c3702731d9c5dde8a35d13d3a0108045b06a53179d\""
+  "commits_etag": "\"ddd6586414ca4d78c387e05484307a7f8bf4e9fccded6c4da6ebecf5cabd27c6\"",
+  "releases_etag": "\"b3f677ec8dc33fbe5733cec2d7ab93227b43d921ba1ffde58057ea7eb75ef7aa\""
 }

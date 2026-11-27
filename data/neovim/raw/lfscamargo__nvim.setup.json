@@ -1,6 +1,6 @@
 {
   "slug": "lfscamargo/nvim.setup",
-  "fetched_at": "2026-11-26T13:07:30.777260469Z",
+  "fetched_at": "2026-11-27T12:48:08.566315800Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 27270
   },
   "slow_fetched_at": "2026-11-14T10:52:11.160634369Z",
-  "commits_etag": "\"b2d2037f04a72532bf2e7fa15ecb39da4771688c5b8b3d6a192f012528976c6e\"",
-  "releases_etag": "\"ebdce105903c1eb1d4c2f316c0296ebf5f70a233332113b0d9338c28beee857e\""
+  "commits_etag": "\"601f2ea0b5e4e0fa0bc980af627062537ff22728b9523a296927b2deed0c7293\"",
+  "releases_etag": "\"b6c7219230c5338b45e97e5810688bc7f8eaac08bf4ed19bb58bea3e567c0a85\""
 }

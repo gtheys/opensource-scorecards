@@ -1,6 +1,6 @@
 {
   "slug": "camspiers/snap",
-  "fetched_at": "2026-11-26T12:42:17.039530417Z",
+  "fetched_at": "2026-11-27T12:26:51.076496458Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 25810
   },
   "slow_fetched_at": "2026-11-13T11:10:17.873413617Z",
-  "commits_etag": "\"f2259795509e95db105b5113e2f6d9e26f13fb64796538c3964cfa2a64ad3750\"",
-  "releases_etag": "\"07560434939fa4e1e7ef75c3702731d9c5dde8a35d13d3a0108045b06a53179d\""
+  "commits_etag": "\"149d90d366c51779050feaee1145edc7b7a7182e3b49a072f6119301e0f633dc\"",
+  "releases_etag": "\"b3f677ec8dc33fbe5733cec2d7ab93227b43d921ba1ffde58057ea7eb75ef7aa\""
 }

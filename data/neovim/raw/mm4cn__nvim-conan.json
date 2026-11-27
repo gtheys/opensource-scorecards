@@ -1,6 +1,6 @@
 {
   "slug": "mm4cn/nvim-conan",
-  "fetched_at": "2026-11-26T13:14:46.148947791Z",
+  "fetched_at": "2026-11-27T12:54:17.051135124Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 6655
   },
   "slow_fetched_at": "2026-11-15T11:23:12.524873149Z",
-  "commits_etag": "\"bed788af59a391a381f335bb45007440bae95348d19bf6f47a4fde48f3486d83\"",
-  "releases_etag": "\"bfee924fab317c59d39aeaab4bbef9e969d46f05b2d6cd0f6642de8b4d6e36bc\""
+  "commits_etag": "\"7cc67a326283e8835a20b52319b0f455edfd2f317115c79e5ff3ad9f6b679b33\"",
+  "releases_etag": "\"bdbdb14e6e863925ea27ac4909f5aa425cdcfd26e2a4e5310e06fd4ec0274ad1\""
 }

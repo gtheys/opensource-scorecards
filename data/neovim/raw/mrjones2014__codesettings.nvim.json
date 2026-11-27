@@ -1,6 +1,6 @@
 {
   "slug": "mrjones2014/codesettings.nvim",
-  "fetched_at": "2026-11-26T13:16:32.367496040Z",
+  "fetched_at": "2026-11-27T12:55:41.393806574Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -12,7 +12,7 @@
     "commits_90d": 54,
     "releases_365d": 12,
     "median_issue_close_days": 77.97555555555556,
-    "median_pr_close_days": 0.005827546296296296,
+    "median_pr_close_days": 0.005758101851851852,
     "open_issues": 3,
     "closed_issues_sampled": 2,
     "contributors_12mo": 5,
@@ -27,6 +27,6 @@
     "readme_len": 29076
   },
   "slow_fetched_at": "2026-11-15T11:24:29.813030652Z",
-  "commits_etag": "\"8aa3b286e91fc55780ddf5a39d15c6c694f60be78261d01baf5f3c1325668905\"",
-  "releases_etag": "\"37fe2a0123d17268018d6f7381a5a74cff787d5935f77cc9bb63973be1425d06\""
+  "commits_etag": "\"ca734f0481ab8660313a0129d64a520abb65bedff0f8eaf648b58493109abd2d\"",
+  "releases_etag": "\"e22f6e19084fe2b78b4c4b5de4d512d0a5fbbbacf30318bb40639df14bb5867e\""
 }

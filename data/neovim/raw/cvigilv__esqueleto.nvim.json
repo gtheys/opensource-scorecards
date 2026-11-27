@@ -1,6 +1,6 @@
 {
   "slug": "cvigilv/esqueleto.nvim",
-  "fetched_at": "2026-11-26T12:46:48.874526862Z",
+  "fetched_at": "2026-11-27T12:30:46.516612003Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 13190
   },
   "slow_fetched_at": "2026-11-13T11:15:09.317622935Z",
-  "commits_etag": "\"8fbe591bf1116a367c0fa6c8e5c8f35eebb7c9c6cd8b7cd1705d0af803f711f7\"",
-  "releases_etag": "\"0d2f1a18116d8ebd405dc435b2429e68e0104a56127c16178e7254a46dea6b76\""
+  "commits_etag": "\"cab5bf21718bb02cac896e3407c9f2778b8541f68b9b183cbf1fc62ef1908c39\"",
+  "releases_etag": "\"29a03ee1252601b1518284041a58985bcaeefc3be0e7cab3f79f35e8e2ceaded\""
 }

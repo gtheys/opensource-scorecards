@@ -1,10 +1,10 @@
 {
   "slug": "alessandroyorba/alduin",
-  "fetched_at": "2026-11-26T12:37:11.148830911Z",
+  "fetched_at": "2026-11-27T12:22:35.515633302Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 494,
+    "stars": 495,
     "forks": 24,
     "description": "A Vim Colorscheme",
     "license_spdx": null,
@@ -23,6 +23,6 @@
     "readme_len": 1919
   },
   "slow_fetched_at": "2026-11-13T11:04:46.037470155Z",
-  "commits_etag": "\"755b5e97ac584898fa1fb176c2edb612c1635abc39f01997ce0ffcc545f83271\"",
-  "releases_etag": "\"04e3d01057f2853c1b21d5471d213391017242a9438b4bd86f6f5714098a31a5\""
+  "commits_etag": "\"16dec3eaa38c79da3ad70e43f2d8c622e7bf24b5aff3f638f221dbc26202c467\"",
+  "releases_etag": "\"35d7349dc48511b7d5029ecdf3a44ad4619e844cc43b5ef3a175fa177ae419f1\""
 }

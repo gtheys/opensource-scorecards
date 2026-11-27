@@ -1,0 +1,32 @@
+{
+  "slug": "drumandbytes/dbt-lens.nvim",
+  "fetched_at": "2026-11-27T12:33:45.825150604Z",
+  "status": "ok",
+  "data": {
+    "archived": false,
+    "stars": 0,
+    "forks": 0,
+    "description": "Neovim plugin for dbt Core: run/test/build, go to ref/source/macro, lineage, compiled SQL",
+    "license_spdx": "MIT",
+    "last_commit_at": "2026-11-23T16:04:15Z",
+    "commits_90d": 14,
+    "releases_365d": 1,
+    "median_issue_close_days": null,
+    "median_pr_close_days": 0.0025810185185185185,
+    "open_issues": 0,
+    "closed_issues_sampled": 0,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
+    "top_author": {
+      "login": "JustMaris",
+      "account_created_at": "2017-01-03T22:00:51Z",
+      "other_repos_star_sum": 11
+    },
+    "has_ci": true,
+    "has_tests": true,
+    "readme_len": 9745
+  },
+  "slow_fetched_at": "2026-11-27T12:33:45.825150604Z",
+  "commits_etag": "\"994f325bb30be5dd9555c84dd2d044424f17e379026d350d3e2234f793c52632\"",
+  "releases_etag": "\"3c7982e502d0f50757d8b3237e079f884dbbfaf10bdfe68a274f9851e0070eaf\""
+}

@@ -347,6 +347,7 @@ repos:
   - drkjeff16/wezterm-types
   - drkjeff16/which-colorscheme.nvim
   - droma82/add-subtract-ex.nvim
+  - drumandbytes/dbt-lens.nvim
   - drybalka/clean.nvim
   - drybalka/tree-climber.nvim
   - dstein64/nvim-scrollview
@@ -1121,6 +1122,7 @@ repos:
   - rtarun3606k/takatime
   - rutatang/compter.nvim
   - ryan-work/ohm
+  - ryanjayleyva/kasumi.nvim
   - ryanoasis/vim-devicons
   - ryutaro-asada/partial-diff.nvim
   - s1n7ax/nvim-comment-frame

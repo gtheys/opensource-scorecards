@@ -1,6 +1,6 @@
 {
   "slug": "cryptomilk/nightcity.nvim",
-  "fetched_at": "2026-11-26T12:46:29.478383210Z",
+  "fetched_at": "2026-11-27T12:30:27.600010868Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 6124
   },
   "slow_fetched_at": "2026-11-13T11:14:42.030330510Z",
-  "commits_etag": "\"becb3417b7211b127653255585367f745066069f9ca721fb417240ad032b6bbf\"",
-  "releases_etag": "\"07560434939fa4e1e7ef75c3702731d9c5dde8a35d13d3a0108045b06a53179d\""
+  "commits_etag": "\"d091a276a3182a337c24b02aea00d447f8dad560cefcef063c872f7c6ab8cdbf\"",
+  "releases_etag": "\"b3f677ec8dc33fbe5733cec2d7ab93227b43d921ba1ffde58057ea7eb75ef7aa\""
 }

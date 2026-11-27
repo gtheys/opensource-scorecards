@@ -1,6 +1,6 @@
 {
   "slug": "iron-e/nvim-cartographer",
-  "fetched_at": "2026-11-26T12:58:58.152214144Z",
+  "fetched_at": "2026-11-27T12:41:21.466631939Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 3887
   },
   "slow_fetched_at": "2026-11-13T11:29:29.170445411Z",
-  "commits_etag": "\"b0c63ec1e1f7d45b1f2f8db19b8cae66023710582e51e4fd46589d4108c6bd9c\"",
-  "releases_etag": "\"7a5a29ac7872ebc8e92ec33433a610cdb28ced4177395dc13708214cb64a83dd\""
+  "commits_etag": "\"01263ff1913032740b0a6f6f32f093e55d96fa40e9a94271311bff0c47f1b2a5\"",
+  "releases_etag": "\"4597194d22ba95716871cdf27a33ee31ed08364a3ef75ce6f2053fd7c1fa011e\""
 }

@@ -1,6 +1,6 @@
 {
   "slug": "jkeresman01/spring-initializr.nvim",
-  "fetched_at": "2026-11-26T13:01:22.449291045Z",
+  "fetched_at": "2026-11-27T12:43:18.640828965Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -16,7 +16,7 @@
     "open_issues": 62,
     "closed_issues_sampled": 49,
     "contributors_12mo": 2,
-    "top_author_commit_share": 0.9777777777777777,
+    "top_author_commit_share": 0.9761904761904762,
     "top_author": {
       "login": "jkeresman01",
       "account_created_at": "2024-03-30T20:54:41Z",
@@ -27,6 +27,6 @@
     "readme_len": 9174
   },
   "slow_fetched_at": "2026-11-14T10:46:52.652461256Z",
-  "commits_etag": "\"181452235e9b6fc60d897e4a10bc275938fb4717bf3fdb578415f303c625411b\"",
-  "releases_etag": "\"01ec99a5f66a1433493fb851bdb44465c1b7f0b8d90184c458831f7056f1018f\""
+  "commits_etag": "\"2b2dc78ff69813e86c9b13d06a6a24fdf48e7168be501c1556fada1841df9ae4\"",
+  "releases_etag": "\"2ade5eef6a068ed08187512638bcae1f7f7e30ef110bd760e10e5588ed107ec2\""
 }

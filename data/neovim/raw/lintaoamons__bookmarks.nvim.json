@@ -1,11 +1,11 @@
 {
   "slug": "lintaoamons/bookmarks.nvim",
-  "fetched_at": "2026-11-26T13:08:06.470066080Z",
+  "fetched_at": "2026-11-27T12:48:40.256786117Z",
   "status": "ok",
   "data": {
     "archived": false,
     "stars": 296,
-    "forks": 14,
+    "forks": 13,
     "description": "Persistent bookmarks: hard disk of your thoughts",
     "license_spdx": "MIT",
     "last_commit_at": "2026-07-10T04:20:15Z",
@@ -27,6 +27,6 @@
     "readme_len": 9908
   },
   "slow_fetched_at": "2026-11-14T10:52:43.144523138Z",
-  "commits_etag": "\"5033c7cc83e8ab10135d11bbbc5a14adfaab9bcab0718166cbce6472c86113d5\"",
-  "releases_etag": "\"cb9cbafd246757f5debae31f111c250fbd0ef9ae5733ebf590957a2baecc8c2d\""
+  "commits_etag": "\"02e1c0f6cbe3e79f4429271efd75ca716c8a27cb4e9241910cd4b38f9fa1be80\"",
+  "releases_etag": "\"a80f58cb3ca88060e3a643810d2fe21bc417b6c28b00abefc98e491658decaff\""
 }

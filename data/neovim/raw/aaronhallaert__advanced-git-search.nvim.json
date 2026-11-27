@@ -1,6 +1,6 @@
 {
   "slug": "aaronhallaert/advanced-git-search.nvim",
-  "fetched_at": "2026-11-26T12:35:14.773981770Z",
+  "fetched_at": "2026-11-27T12:20:55.238097341Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 9529
   },
   "slow_fetched_at": "2026-11-13T11:02:39.235916951Z",
-  "commits_etag": "\"514e7b1f057eb7815fe09cfcaac48bab8deda9d95dae50f6c33382bb69c0450f\"",
-  "releases_etag": "\"0fd2e28b7d25779bfe3608a92fb06a1c1ff5c0fc3bf95d60848dc79c9769509a\""
+  "commits_etag": "\"b1ca0a0a2f952de84250ef97e7769020c412f80a18c79da752241e78bb447199\"",
+  "releases_etag": "\"0839877129f6e8dbbef40e290cf1abddbdcef53f374255f9651e15dc1bf9b0ad\""
 }

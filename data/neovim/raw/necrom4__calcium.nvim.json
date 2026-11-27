@@ -1,11 +1,11 @@
 {
   "slug": "necrom4/calcium.nvim",
-  "fetched_at": "2026-11-26T13:18:12.115489822Z",
+  "fetched_at": "2026-11-27T12:57:20.289364172Z",
   "status": "ok",
   "data": {
     "archived": false,
     "stars": 71,
-    "forks": 3,
+    "forks": 2,
     "description": "Neovim plugin to calculate mathematical expressions within a buffer with visual mode, functions and variable support.",
     "license_spdx": "MIT",
     "last_commit_at": "2026-11-24T14:02:13Z",
@@ -27,6 +27,6 @@
     "readme_len": 3761
   },
   "slow_fetched_at": "2026-11-16T11:59:11.250240600Z",
-  "commits_etag": "\"9d49426da352fcb654ced3b4918c9a3d1ac66733b1cb678b9828db6ecefa53dd\"",
-  "releases_etag": "\"07560434939fa4e1e7ef75c3702731d9c5dde8a35d13d3a0108045b06a53179d\""
+  "commits_etag": "\"560ff044364832a7bbe41f73427f407c45807734f8bbbf3d7a72ecacce618678\"",
+  "releases_etag": "\"b3f677ec8dc33fbe5733cec2d7ab93227b43d921ba1ffde58057ea7eb75ef7aa\""
 }

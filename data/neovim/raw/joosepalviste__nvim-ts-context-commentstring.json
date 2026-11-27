@@ -1,6 +1,6 @@
 {
   "slug": "joosepalviste/nvim-ts-context-commentstring",
-  "fetched_at": "2026-11-26T13:01:40.566825557Z",
+  "fetched_at": "2026-11-27T12:43:33.763374494Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 4167
   },
   "slow_fetched_at": "2026-11-14T10:47:08.935115129Z",
-  "commits_etag": "\"aabba9cfd4eb75ed86cd1e53a4f695a9e3fb591db199c0c2640650d235bab879\"",
-  "releases_etag": "\"07560434939fa4e1e7ef75c3702731d9c5dde8a35d13d3a0108045b06a53179d\""
+  "commits_etag": "\"706fefb29782f48003365bfa6c1d05ca1c29c8cf634c74863ed93f34e16ac861\"",
+  "releases_etag": "\"b3f677ec8dc33fbe5733cec2d7ab93227b43d921ba1ffde58057ea7eb75ef7aa\""
 }

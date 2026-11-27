@@ -1,6 +1,6 @@
 {
   "slug": "0xble/dotagent.nvim",
-  "fetched_at": "2026-11-26T12:34:01.407987719Z",
+  "fetched_at": "2026-11-27T12:19:56.048186686Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 5116
   },
   "slow_fetched_at": "2026-11-13T11:01:24.337319544Z",
-  "commits_etag": "\"36e9b21c99a56998a275c44c1c921c431fbd806b127393d99cbe4c759d7f7359\"",
-  "releases_etag": "\"39892519f4ecbdc89495afed3bcc0aa549acac26d8664ebaea501a86e7907b69\""
+  "commits_etag": "\"956dca69cb61ace9262f22ea117992046dce18eca210b399e78bb6de8397de7a\"",
+  "releases_etag": "\"5b2d25b95835f7fe641a38f4157dfa9d026cc0a40c6b7322cfb857ea611c2faa\""
 }

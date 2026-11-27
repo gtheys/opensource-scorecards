@@ -1,6 +1,6 @@
 {
   "slug": "copilotc-nvim/copilotchat.nvim",
-  "fetched_at": "2026-11-26T12:45:26.222447343Z",
+  "fetched_at": "2026-11-27T12:29:30.214448080Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 53087
   },
   "slow_fetched_at": "2026-11-13T11:13:33.887269507Z",
-  "commits_etag": "\"c797b3e9b85937d858974d7dde8d60a1ae5c3b0cc9323ac3158af61754a58c38\"",
-  "releases_etag": "\"1a5fd891c7d95f61508ef76b57c6a27b7d89d47c9433233a97af431a63581836\""
+  "commits_etag": "\"c346cdf6aafdf553fba443409492a1289a4629330ccf217e9fca1656d3f2371e\"",
+  "releases_etag": "\"ccb4b9a92ba74ef7a4e2c355fb69a390ee13021603238a0c6fb4591b206629bb\""
 }

@@ -1,22 +1,22 @@
 {
   "slug": "dmmulroy/ts-error-translator.nvim",
-  "fetched_at": "2026-11-15T11:04:46.625892823Z",
+  "fetched_at": "2026-11-27T12:32:41.377663835Z",
   "status": "ok",
   "data": {
     "archived": false,
     "stars": 438,
-    "forks": 9,
+    "forks": 8,
     "description": null,
     "license_spdx": "MIT",
     "last_commit_at": "2026-01-03T23:49:04Z",
     "commits_90d": 0,
-    "releases_365d": 2,
+    "releases_365d": 0,
     "median_issue_close_days": 2.769409722222222,
     "median_pr_close_days": 0.15577546296296296,
-    "open_issues": 3,
+    "open_issues": 2,
     "closed_issues_sampled": 11,
-    "contributors_12mo": 2,
-    "top_author_commit_share": 0.6,
+    "contributors_12mo": 1,
+    "top_author_commit_share": 1.0,
     "top_author": {
       "login": "dmmulroy",
       "account_created_at": "2012-11-09T02:59:48Z",
@@ -27,6 +27,6 @@
     "readme_len": 4421
   },
   "slow_fetched_at": "2026-11-13T11:18:03.824892555Z",
-  "commits_etag": "\"f4ef413803312d45566cb2e818cd62ef34b90521c89c94bead832ccf4b096759\"",
-  "releases_etag": "\"a6a31fbbd91ba84ff21b5221cbedf106579960ce8064e8223c656db594c34c91\""
+  "commits_etag": "\"1b44f48ad200df33f5318e91abfa623e10604eba87012469c2fb53d697ab5de2\"",
+  "releases_etag": "\"c391c07bbe336c1d2fd7455c007c4b768d3cabd813cbd58e725a8af3e797f425\""
 }

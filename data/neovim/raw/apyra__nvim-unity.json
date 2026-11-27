@@ -1,6 +1,6 @@
 {
   "slug": "apyra/nvim-unity",
-  "fetched_at": "2026-11-26T12:38:32.331743489Z",
+  "fetched_at": "2026-11-27T12:23:39.808192400Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -18,15 +18,15 @@
     "contributors_12mo": 4,
     "top_author_commit_share": 0.38461538461538464,
     "top_author": {
-      "login": "KneeCapStealer",
-      "account_created_at": "2021-07-23T13:35:29Z",
-      "other_repos_star_sum": 2
+      "login": "apyra",
+      "account_created_at": "2025-02-23T20:06:17Z",
+      "other_repos_star_sum": 150
     },
     "has_ci": false,
     "has_tests": false,
     "readme_len": 9527
   },
   "slow_fetched_at": "2026-11-13T11:06:10.831397417Z",
-  "commits_etag": "\"efa5ac249778111408f65d3ef4df1c67a5442e328c0f4de73d503b982aa04bb7\"",
-  "releases_etag": "\"67f9666a9cb7f7baf59f3a912d1532e99ddcd1451f26f819e8b38a50d09e4394\""
+  "commits_etag": "\"cb44fab40e85c111e0298a0b60dfcd9f4d031a1484398b76789a86e842565543\"",
+  "releases_etag": "\"8ddc85521f1fc3aeb42f67df613452b0c8e5c8e0009e3f70c4b69323f5418002\""
 }

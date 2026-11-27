@@ -1,6 +1,6 @@
 {
   "slug": "chiarandini/smart-enter.nvim",
-  "fetched_at": "2026-11-26T12:43:05.452703788Z",
+  "fetched_at": "2026-11-27T12:27:33.951635499Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 9988
   },
   "slow_fetched_at": "2026-11-13T11:11:10.817991616Z",
-  "commits_etag": "\"079a59e4c21cb9c0e1b250c28ca9f5bf33e55ad0a784fb0168fdcd164fcdecff\"",
-  "releases_etag": "\"07560434939fa4e1e7ef75c3702731d9c5dde8a35d13d3a0108045b06a53179d\""
+  "commits_etag": "\"82b2a0d95d2aba0abbf09034c478b63cbed99166ec01754406c7662c796edbf5\"",
+  "releases_etag": "\"b3f677ec8dc33fbe5733cec2d7ab93227b43d921ba1ffde58057ea7eb75ef7aa\""
 }

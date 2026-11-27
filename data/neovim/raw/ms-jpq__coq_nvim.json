@@ -1,6 +1,6 @@
 {
   "slug": "ms-jpq/coq_nvim",
-  "fetched_at": "2026-11-26T13:17:10.686527177Z",
+  "fetched_at": "2026-11-27T12:56:14.589877798Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 11950
   },
   "slow_fetched_at": "2026-11-16T11:57:56.123016044Z",
-  "commits_etag": "\"c921e71f71fb3554339057d740fd89dd197482dd7bd3bca98f0af0316217d715\"",
-  "releases_etag": "\"07560434939fa4e1e7ef75c3702731d9c5dde8a35d13d3a0108045b06a53179d\""
+  "commits_etag": "\"943f08457dbb53f98dde80d70c58dd184ffa03ec003a0a26d66e5e7fe49dbb58\"",
+  "releases_etag": "\"b3f677ec8dc33fbe5733cec2d7ab93227b43d921ba1ffde58057ea7eb75ef7aa\""
 }

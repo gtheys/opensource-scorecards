@@ -1,6 +1,6 @@
 {
   "slug": "dimtion/guttermarks.nvim",
-  "fetched_at": "2026-11-26T12:48:45.656512430Z",
+  "fetched_at": "2026-11-27T12:32:26.265855048Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 6302
   },
   "slow_fetched_at": "2026-11-13T11:17:43.728614145Z",
-  "commits_etag": "\"239040f2243b747028d96746a0dd8919d1a8e0b8a8ab2e134043c2bc87825adf\"",
-  "releases_etag": "\"07560434939fa4e1e7ef75c3702731d9c5dde8a35d13d3a0108045b06a53179d\""
+  "commits_etag": "\"1e6b612507f27ac35617334b3903adb9cb4d362e9049b7abc39c946abd928371\"",
+  "releases_etag": "\"b3f677ec8dc33fbe5733cec2d7ab93227b43d921ba1ffde58057ea7eb75ef7aa\""
 }

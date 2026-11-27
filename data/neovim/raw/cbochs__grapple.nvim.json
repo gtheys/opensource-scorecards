@@ -1,6 +1,6 @@
 {
   "slug": "cbochs/grapple.nvim",
-  "fetched_at": "2026-11-26T12:42:42.540743683Z",
+  "fetched_at": "2026-11-27T12:27:13.502559596Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 32648
   },
   "slow_fetched_at": "2026-11-13T11:10:44.299162725Z",
-  "commits_etag": "\"6a5cffe552f3d20e9f7fb306e1cf2f958c1917ca27b2c90bea37c8f43cebab84\"",
-  "releases_etag": "\"f68fff7e6c024a7cd0f7ecd5c7ec4a67138286771e16976201f003bf0ac90853\""
+  "commits_etag": "\"2f538711db69790aab53cdd1c0bf83b523673a5b9530f3a754d859806024b48f\"",
+  "releases_etag": "\"7e651633824ccbd994aec3520d3a6ce7859aff92826274d650cccff1a564188f\""
 }

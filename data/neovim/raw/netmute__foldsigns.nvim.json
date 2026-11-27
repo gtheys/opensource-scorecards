@@ -1,6 +1,6 @@
 {
   "slug": "netmute/foldsigns.nvim",
-  "fetched_at": "2026-11-26T13:18:53.014051574Z",
+  "fetched_at": "2026-11-27T12:58:00.682145640Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 881
   },
   "slow_fetched_at": "2026-11-16T11:59:56.820785488Z",
-  "commits_etag": "\"2118f2cc8109e9ca3b8f4651c26f9972d12bce698361ed0271695951e4ed50bd\"",
-  "releases_etag": "\"07560434939fa4e1e7ef75c3702731d9c5dde8a35d13d3a0108045b06a53179d\""
+  "commits_etag": "\"b1684a4f30547d37b49a30bb1166db87bccdfbfc31a5291afcac2af47d08eebf\"",
+  "releases_etag": "\"b3f677ec8dc33fbe5733cec2d7ab93227b43d921ba1ffde58057ea7eb75ef7aa\""
 }

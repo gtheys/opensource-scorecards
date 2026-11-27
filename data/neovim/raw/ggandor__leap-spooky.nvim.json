@@ -1,6 +1,6 @@
 {
   "slug": "ggandor/leap-spooky.nvim",
-  "fetched_at": "2026-11-26T12:55:15.850072874Z",
+  "fetched_at": "2026-11-27T12:38:10.906575283Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 4682
   },
   "slow_fetched_at": "2026-11-13T11:25:31.402697925Z",
-  "commits_etag": "\"84f7c8dca29ec5b88a8c4550e89d955ff02499bb56742caeeb5f59b224e8a177\"",
-  "releases_etag": "\"07560434939fa4e1e7ef75c3702731d9c5dde8a35d13d3a0108045b06a53179d\""
+  "commits_etag": "\"b7273bb5be9fa7f4a7007b36c157639caf2be5ee3b61933315ec4a29e51cd7e0\"",
+  "releases_etag": "\"b3f677ec8dc33fbe5733cec2d7ab93227b43d921ba1ffde58057ea7eb75ef7aa\""
 }

@@ -1,11 +1,11 @@
 {
   "slug": "cshuaimin/ssr.nvim",
-  "fetched_at": "2026-11-25T13:07:50.554903636Z",
+  "fetched_at": "2026-11-27T12:30:33.868073998Z",
   "status": "ok",
   "data": {
     "archived": false,
     "stars": 1010,
-    "forks": 13,
+    "forks": 12,
     "description": "Treesitter based structural search and replace plugin for Neovim.",
     "license_spdx": "MIT",
     "last_commit_at": "2026-11-13T07:32:38Z",
@@ -27,6 +27,6 @@
     "readme_len": 2122
   },
   "slow_fetched_at": "2026-11-13T11:14:50.672523251Z",
-  "commits_etag": "\"5f98579191f4d46df002a59e8bdc72e4ef61cdd548a8f087d7289e0e81898096\"",
-  "releases_etag": "\"5447f9da702058fbeb0b0ce2faf81a88df98b951c0227af6bd99163899b9cce9\""
+  "commits_etag": "\"c9cc2f6748cf3fcf947041ad0ecfa6b139c0e884aa2e5a8600f209050c2ab4b8\"",
+  "releases_etag": "\"b3f677ec8dc33fbe5733cec2d7ab93227b43d921ba1ffde58057ea7eb75ef7aa\""
 }

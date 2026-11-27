@@ -1,6 +1,6 @@
 {
   "slug": "0x-ximon/acario.nvim",
-  "fetched_at": "2026-11-26T12:33:59.621114536Z",
+  "fetched_at": "2026-11-27T12:19:54.824068456Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 765
   },
   "slow_fetched_at": "2026-11-13T11:01:21.805486085Z",
-  "commits_etag": "\"c19c6652643f44117ccbd31202c94ebc02713abe5ab14e14a29c6f387ebbba66\"",
-  "releases_etag": "\"e06ef91b7084b60ef4d7fd1a07cf6789e0afc81d406332871a2c513f2c24c44b\""
+  "commits_etag": "\"c7894dd4eaf57afd7e0765f288045e6ec5e836582b6320205a576a903eda8a5e\"",
+  "releases_etag": "\"91e5c54a3f88ad42d0ed25bd90591793f86a168f9fc70351734c6eeb379081f2\""
 }

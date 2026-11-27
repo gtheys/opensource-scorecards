@@ -1,6 +1,6 @@
 {
   "slug": "nagato-yuzuru/bang.nvim",
-  "fetched_at": "2026-11-26T13:17:46.139547216Z",
+  "fetched_at": "2026-11-27T12:56:51.977040053Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 3883
   },
   "slow_fetched_at": "2026-11-16T11:58:39.426560398Z",
-  "commits_etag": "\"b2261f94f0575c171614f8c763216ee69d0e7ddb9a2e67c0bed976a7cd3aabd8\"",
-  "releases_etag": "\"7f01b138cf1650e289e0d25c16e178dd820852eaf86043c5fc9174e9cde77e9f\""
+  "commits_etag": "\"69d90a2793f56a3d95ed7c9b2565be82ec808c1e878e9c361272ace535f38ae3\"",
+  "releases_etag": "\"1a92bc337378008392c67a76da9253f243bdbc07aeb0db9d93297918ae84aa86\""
 }

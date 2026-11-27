@@ -1,6 +1,6 @@
 {
   "slug": "claydugo/browsher.nvim",
-  "fetched_at": "2026-11-26T12:45:05.327719715Z",
+  "fetched_at": "2026-11-27T12:29:15.310963035Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 6631
   },
   "slow_fetched_at": "2026-11-13T11:13:15.324867649Z",
-  "commits_etag": "\"bad9845e1d3befa187a27e11fda85c17846cdefd279ef9bf9b5a6d1f147de1e8\"",
-  "releases_etag": "\"c2e2d826b871cf0ab9e9422a213c601a7e06861d7578c1c549ef42b0b7d552ba\""
+  "commits_etag": "\"476aeb030aac348ca87a1a31ddfe1c782e66c63d3cccfc01798f4a168ecd3645\"",
+  "releases_etag": "\"20b9a5bd9dcfad1bab4c80a3ef88c4b43ce5351d53482b8f59e266ffc53215d4\""
 }

@@ -1,6 +1,6 @@
 {
   "slug": "dobsontom/dbt-ft.nvim",
-  "fetched_at": "2026-11-26T12:49:25.378258883Z",
+  "fetched_at": "2026-11-27T12:32:58.175315984Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 2333
   },
   "slow_fetched_at": "2026-11-13T11:18:29.913130584Z",
-  "commits_etag": "\"596358ba29740616e9fd0ff517a9d5adcdea33713d2b47e765c6efbeff80474a\"",
-  "releases_etag": "\"aef017f5e0964a2a89ad64c8d04167c412ee1c9eea8ea411325123c6e0dc19e5\""
+  "commits_etag": "\"b7dc121256a0c700b52e7f03d94cc9ddc9d9e95ed844bbe5783297fe4b98b96f\"",
+  "releases_etag": "\"8977301f45189297a80366be78d38993b2b22f7031746efbbf52c5584c283911\""
 }

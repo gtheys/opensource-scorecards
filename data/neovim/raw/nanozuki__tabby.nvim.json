@@ -1,10 +1,10 @@
 {
   "slug": "nanozuki/tabby.nvim",
-  "fetched_at": "2026-11-26T13:17:50.709763647Z",
+  "fetched_at": "2026-11-27T12:56:57.812726355Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 772,
+    "stars": 773,
     "forks": 35,
     "description": "A declarative, highly configurable, and neovim style tabline plugin. Use your nvim tabs as a workspace multiplexer!",
     "license_spdx": "MIT",
@@ -27,6 +27,6 @@
     "readme_len": 26417
   },
   "slow_fetched_at": "2026-11-16T11:58:45.176178941Z",
-  "commits_etag": "\"42906063fe25c207da3b01e0f6f3f023d2196f5d08d41a262c80485292966bdb\"",
-  "releases_etag": "\"8d5261ccc56dfe2003a463076e9ce70f62453356a03e1f488cbfab365322a845\""
+  "commits_etag": "\"67c654d2a2226450fefe7081196de36bb2ff68982049e7676b025ad4770917ab\"",
+  "releases_etag": "\"f2906aa063369bf3d8319c1e33ae43deb3186b2f93b0900e304de87d3c165d7e\""
 }

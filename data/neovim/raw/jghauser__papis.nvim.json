@@ -1,6 +1,6 @@
 {
   "slug": "jghauser/papis.nvim",
-  "fetched_at": "2026-11-26T13:01:04.122528853Z",
+  "fetched_at": "2026-11-27T12:43:02.960193765Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 32517
   },
   "slow_fetched_at": "2026-11-14T10:46:36.739550770Z",
-  "commits_etag": "\"9bb0aeefeacf37d1f935f12e6acf6c3cd27e32193a9ac525418f1421aaa6cc9e\"",
-  "releases_etag": "\"1a6c9d2a011c4fba767675625da5c2382e7b76aeab3f6ffcc39bfe65d8aafd27\""
+  "commits_etag": "\"2877658d0480b825637c3e9f06ce41527a3c7ecc6d0a5842ab65dd071b85ab39\"",
+  "releases_etag": "\"bdf913d5a74a7dc240a364a6738880d84f166bacd858807ff2ab02ce6b07ca98\""
 }

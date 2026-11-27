@@ -1,6 +1,6 @@
 {
   "slug": "mong8se/buffish.nvim",
-  "fetched_at": "2026-11-26T13:15:12.669280552Z",
+  "fetched_at": "2026-11-27T12:54:36.061546714Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 2845
   },
   "slow_fetched_at": "2026-11-15T11:23:31.884385733Z",
-  "commits_etag": "\"7daf0c161863f9f03b8592450a4904f72334e604c32749dec724dd68b3f26d7a\"",
-  "releases_etag": "\"75ba77f1e8e4bb5efb99dc24ee95800235be97d59e9555912bdeaa5534c4fdf0\""
+  "commits_etag": "\"af22b5e945247f885dc8321d2a39667873f0352c8c4c93c3df09d05ca9a45e07\"",
+  "releases_etag": "\"0c11d486ebdb12e91379790642b2a9c4c74ea99e6ddfc01de021a8a3bb9aadea\""
 }

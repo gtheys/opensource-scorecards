@@ -1,6 +1,6 @@
 {
   "slug": "fei6409/log-highlight.nvim",
-  "fetched_at": "2026-11-26T12:52:25.218803187Z",
+  "fetched_at": "2026-11-27T12:35:42.966560386Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 3705
   },
   "slow_fetched_at": "2026-11-13T11:22:20.262741036Z",
-  "commits_etag": "\"2dc22ad9b44f9aceaaf571b5b217d099a1c467c428fb5c26fc43e7d5839c6076\"",
-  "releases_etag": "\"07560434939fa4e1e7ef75c3702731d9c5dde8a35d13d3a0108045b06a53179d\""
+  "commits_etag": "\"403ae4b596c026c76a2b1d8bdcbb7be78820c34fe206b963f5099f513eb3e7fd\"",
+  "releases_etag": "\"b3f677ec8dc33fbe5733cec2d7ab93227b43d921ba1ffde58057ea7eb75ef7aa\""
 }

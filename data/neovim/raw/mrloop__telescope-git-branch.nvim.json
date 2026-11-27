@@ -1,6 +1,6 @@
 {
   "slug": "mrloop/telescope-git-branch.nvim",
-  "fetched_at": "2026-11-26T13:16:58.466699502Z",
+  "fetched_at": "2026-11-27T12:56:04.027967094Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 1715
   },
   "slow_fetched_at": "2026-11-15T11:24:48.668576897Z",
-  "commits_etag": "\"daf12ad622114927adf219be1ef9eaff514ae88f31fe93d3f8c1218182253ca8\"",
-  "releases_etag": "\"07560434939fa4e1e7ef75c3702731d9c5dde8a35d13d3a0108045b06a53179d\""
+  "commits_etag": "\"676fbd694c4dfcd56ad80c8bb7890c367657f821c2fffc008260cbb72c0499ba\"",
+  "releases_etag": "\"b3f677ec8dc33fbe5733cec2d7ab93227b43d921ba1ffde58057ea7eb75ef7aa\""
 }

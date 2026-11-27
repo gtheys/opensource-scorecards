@@ -1,6 +1,6 @@
 {
   "slug": "fnune/recall.nvim",
-  "fetched_at": "2026-11-26T12:53:01.753085629Z",
+  "fetched_at": "2026-11-27T12:36:14.421152641Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 9247
   },
   "slow_fetched_at": "2026-11-13T11:23:02.653546146Z",
-  "commits_etag": "\"6f43c11c453dfa7e0c885293fee405eb977fc4914db1e5d7be90e0adc4a54fc5\"",
-  "releases_etag": "\"07560434939fa4e1e7ef75c3702731d9c5dde8a35d13d3a0108045b06a53179d\""
+  "commits_etag": "\"0cf4a98609a242eb792469088ba09a3472320c667b70f2167e7b46115792a81f\"",
+  "releases_etag": "\"b3f677ec8dc33fbe5733cec2d7ab93227b43d921ba1ffde58057ea7eb75ef7aa\""
 }

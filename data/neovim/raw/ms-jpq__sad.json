@@ -1,6 +1,6 @@
 {
   "slug": "ms-jpq/sad",
-  "fetched_at": "2026-11-26T13:17:21.098788082Z",
+  "fetched_at": "2026-11-27T12:56:25.338377111Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 6761
   },
   "slow_fetched_at": "2026-11-16T11:58:07.820239986Z",
-  "commits_etag": "\"e9741003b70cd78794544cbb679758420cdd4f59816974b993f1f3ac7424b4e8\"",
-  "releases_etag": "\"17ce5a5096e677b5bb7713f219c28f24803af65a5c062445fd22fd24f92ca8cd\""
+  "commits_etag": "\"ba16289b97cb54c115876cd3d26805ee1bf7af8394005c42c91de6a4b92c0782\"",
+  "releases_etag": "\"337399a23e34e9f53a5874b4f6c061b4536dccad883984d1e24a9a4db3d71347\""
 }

@@ -1,10 +1,10 @@
 {
   "slug": "coder/claudecode.nvim",
-  "fetched_at": "2026-11-26T12:45:12.932880130Z",
+  "fetched_at": "2026-11-27T12:29:21.279156588Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 3165,
+    "stars": 3166,
     "forks": 224,
     "description": "🧩 Claude Code Neovim IDE Extension",
     "license_spdx": "MIT",
@@ -27,6 +27,6 @@
     "readme_len": 59712
   },
   "slow_fetched_at": "2026-11-13T11:13:23.225089620Z",
-  "commits_etag": "\"66cdb6b2ae20535c7fea150c6b57bf139dd01221c770b5bcbc3af9c5f3b0d53f\"",
-  "releases_etag": "\"2c26f0f8d4509ea7e29d04f6edae19c0876384f7c12e5781e78c5d5959d29112\""
+  "commits_etag": "\"ea21e14783d8cdd35fe07fba9f2187f234ac3b6dc7aee482842f70e7e9b4286e\"",
+  "releases_etag": "\"afa63eddd2dbadb2e7a5f5b78b6f30400be17b9e80d9ff450224fd4b541ee1d6\""
 }

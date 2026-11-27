@@ -1,6 +1,6 @@
 {
   "slug": "julwrites/llm-nvim",
-  "fetched_at": "2026-11-26T13:02:28.480144976Z",
+  "fetched_at": "2026-11-27T12:44:12.919384537Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 8685
   },
   "slow_fetched_at": "2026-11-14T10:47:54.628337250Z",
-  "commits_etag": "\"b88b2ef68065d7f477beb28dea4380c58d41bf6551ce722124f829de8fe02d15\"",
-  "releases_etag": "\"07560434939fa4e1e7ef75c3702731d9c5dde8a35d13d3a0108045b06a53179d\""
+  "commits_etag": "\"3c4da92833dc23bdf3f1237746b2afa3879b3c5bf04c9d8c20d63916730bd100\"",
+  "releases_etag": "\"b3f677ec8dc33fbe5733cec2d7ab93227b43d921ba1ffde58057ea7eb75ef7aa\""
 }

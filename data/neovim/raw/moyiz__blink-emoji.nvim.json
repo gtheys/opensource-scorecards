@@ -1,6 +1,6 @@
 {
   "slug": "moyiz/blink-emoji.nvim",
-  "fetched_at": "2026-11-26T13:15:35.292355003Z",
+  "fetched_at": "2026-11-27T12:54:53.611571894Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -8,8 +8,8 @@
     "forks": 7,
     "description": "Emoji source for blink.cmp.",
     "license_spdx": "BSD-3-Clause",
-    "last_commit_at": "2026-04-11T21:18:40Z",
-    "commits_90d": 0,
+    "last_commit_at": "2026-11-27T07:24:09Z",
+    "commits_90d": 1,
     "releases_365d": 0,
     "median_issue_close_days": 1.3675925925925927,
     "median_pr_close_days": 0.00028356481481481483,
@@ -27,6 +27,6 @@
     "readme_len": 1276
   },
   "slow_fetched_at": "2026-11-15T11:23:46.865065517Z",
-  "commits_etag": "\"7c7740b32d1038a90985bdaba07aa8c354ca8f2b6def8ac1612a5547b294f52b\"",
-  "releases_etag": "\"07560434939fa4e1e7ef75c3702731d9c5dde8a35d13d3a0108045b06a53179d\""
+  "commits_etag": "\"32abd9781af9ef2155034addab8f84e3f13b231a2d19b33e1e6dcf78d15a9567\"",
+  "releases_etag": "\"b3f677ec8dc33fbe5733cec2d7ab93227b43d921ba1ffde58057ea7eb75ef7aa\""
 }

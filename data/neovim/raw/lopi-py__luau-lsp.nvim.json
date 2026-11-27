@@ -1,6 +1,6 @@
 {
   "slug": "lopi-py/luau-lsp.nvim",
-  "fetched_at": "2026-11-26T13:08:30.522767273Z",
+  "fetched_at": "2026-11-27T12:49:00.276962360Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 8295
   },
   "slow_fetched_at": "2026-11-14T10:53:06.307129878Z",
-  "commits_etag": "\"a7b1c56e41e4fc5f816ff2d0b0513b1b5af983a4a56b8e44c67aa777ffcc506a\"",
-  "releases_etag": "\"12c4434589a9e23d10fa561a6ad38364360b6f97e28d6dfef0cf15fdeabe7d9e\""
+  "commits_etag": "\"10b1a553a48551dff406f166073da889e628226ec9f0c07aba2813166eea6edf\"",
+  "releases_etag": "\"769e779de6526a067af3cbaca88d4874213a4e76ce99d157d55bd5f8edf45bd3\""
 }

@@ -1,19 +1,19 @@
 {
   "slug": "filosottile/age",
-  "fetched_at": "2026-11-26T12:52:41.450318207Z",
+  "fetched_at": "2026-11-27T12:35:56.937116291Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 24479,
-    "forks": 690,
+    "stars": 24498,
+    "forks": 694,
     "description": "A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.",
     "license_spdx": "BSD-3-Clause",
     "last_commit_at": "2026-08-29T17:40:19Z",
-    "commits_90d": 46,
+    "commits_90d": 32,
     "releases_365d": 3,
     "median_issue_close_days": 63.67321180555555,
     "median_pr_close_days": 9.589091435185185,
-    "open_issues": 33,
+    "open_issues": 34,
     "closed_issues_sampled": 28,
     "contributors_12mo": 12,
     "top_author_commit_share": 0.831858407079646,
@@ -27,6 +27,6 @@
     "readme_len": 12013
   },
   "slow_fetched_at": "2026-11-13T11:22:40.858815781Z",
-  "commits_etag": "\"34e346c2a2f7f025fd9ebc5786c4992911a4f2abc02209be387d0478a1a159a4\"",
-  "releases_etag": "\"113ab8ed72f6a60cabbc82d3070cd4a99bf6331f494143f32313586e58884304\""
+  "commits_etag": "\"38f256264f140fa1b93dfc816eb6def64ebdae029237f17404f7f837ccd76df9\"",
+  "releases_etag": "\"9707d0314d457fa00d523d5923be59560ce2e5b594c15cd67920691ea79cfa59\""
 }

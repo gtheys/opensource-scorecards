@@ -1,6 +1,6 @@
 {
   "slug": "neo451/feed.nvim",
-  "fetched_at": "2026-11-26T13:18:23.999310047Z",
+  "fetched_at": "2026-11-27T12:57:31.354363401Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 4523
   },
   "slow_fetched_at": "2026-11-16T11:59:25.085023896Z",
-  "commits_etag": "\"e0ef9348473f4221ef07979a28482895b7fbb775289fb4f5f6fc700aeb4e33dc\"",
-  "releases_etag": "\"63d985c18990a61f85e55fba96900fc29910c902c296c3d0d8f64764f484c792\""
+  "commits_etag": "\"401ee7ff17a6a6f33ed2d26a7d4c8f5d14d72f411998e47d6a2c516b84275248\"",
+  "releases_etag": "\"d304509a95e43e095731f8ec386144c433109135c26e3a467d1c3fc9f45fc938\""
 }

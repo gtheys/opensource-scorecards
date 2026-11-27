@@ -1,6 +1,6 @@
 {
   "slug": "kamegoro/tobira.nvim",
-  "fetched_at": "2026-11-26T13:03:12.084718367Z",
+  "fetched_at": "2026-11-27T12:44:40.125717604Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 12164
   },
   "slow_fetched_at": "2026-11-14T10:48:24.673664033Z",
-  "commits_etag": "\"e0a5954e903635370067f9c02d21dcf35e7d493de3131ac467676a4c55f6b258\"",
-  "releases_etag": "\"07560434939fa4e1e7ef75c3702731d9c5dde8a35d13d3a0108045b06a53179d\""
+  "commits_etag": "\"395346c6fd4779ab6bb535bb94051d19e9b88b0c1605cf9a763f77c7c0f68623\"",
+  "releases_etag": "\"b3f677ec8dc33fbe5733cec2d7ab93227b43d921ba1ffde58057ea7eb75ef7aa\""
 }

@@ -1,6 +1,6 @@
 {
   "slug": "cursortab/cursortab.nvim",
-  "fetched_at": "2026-11-26T12:46:44.916265538Z",
+  "fetched_at": "2026-11-27T12:30:42.517674007Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 23503
   },
   "slow_fetched_at": "2026-11-13T11:15:03.907678903Z",
-  "commits_etag": "\"2f2ff43e26b99e936cc2f5db23f7fd4fbfde4b47383231f8cc8b75d242cdf7c9\"",
-  "releases_etag": "\"53dc78cbd6d15e382dffc110903494cb3c089b8645adee403a9e93f0ded095a7\""
+  "commits_etag": "\"694301483e1c31eb1bf3d17479b84fce5805a9638e6caec4174bb93b3757683f\"",
+  "releases_etag": "\"b38963275b4df9dc4785ab9cb2a3e4b3886b7701d1f779157f6c5c5fd9ebc03e\""
 }

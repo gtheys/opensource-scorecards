@@ -1,6 +1,6 @@
 {
   "slug": "mfussenegger/nvim-treehopper",
-  "fetched_at": "2026-11-26T13:12:34.320752656Z",
+  "fetched_at": "2026-11-27T12:52:10.711630761Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 1954
   },
   "slow_fetched_at": "2026-11-15T11:21:30.727765110Z",
-  "commits_etag": "\"b3a242922eb1b41702d94d48bde9b961c4936509b8a69c50a4e999c3e14ba8be\"",
-  "releases_etag": "\"07560434939fa4e1e7ef75c3702731d9c5dde8a35d13d3a0108045b06a53179d\""
+  "commits_etag": "\"e303c9201e78b1eb97de4d09a559a7e041e84924353b7e26ce228e3eb658a7a2\"",
+  "releases_etag": "\"b3f677ec8dc33fbe5733cec2d7ab93227b43d921ba1ffde58057ea7eb75ef7aa\""
 }

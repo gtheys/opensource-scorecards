@@ -1,6 +1,6 @@
 {
   "slug": "mordechaihadad/bob",
-  "fetched_at": "2026-11-26T13:15:14.940182732Z",
+  "fetched_at": "2026-11-27T12:54:37.791314287Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -16,7 +16,7 @@
     "open_issues": 11,
     "closed_issues_sampled": 34,
     "contributors_12mo": 7,
-    "top_author_commit_share": 0.863905325443787,
+    "top_author_commit_share": 0.8987341772151899,
     "top_author": {
       "login": "MordechaiHadad",
       "account_created_at": "2017-11-10T12:43:50Z",
@@ -27,6 +27,6 @@
     "readme_len": 19001
   },
   "slow_fetched_at": "2026-11-15T11:23:33.718936245Z",
-  "commits_etag": "\"5beb83ff58f436d71eefeb3d4371c131fd8ad337d0cbd39137fb723d51b472b2\"",
-  "releases_etag": "\"2156f1c6b87b0bef10da0626a0d902dbe965b67817c663323054513835c8ca02\""
+  "commits_etag": "\"e67c50703d0c32430402111fabad391d841b0e8586737151f8b0751429f5ace2\"",
+  "releases_etag": "\"ab1a677741e65ac0b87254f22ab704d265b548a9cf3771abcd37739a85418e96\""
 }

@@ -1,6 +1,6 @@
 {
   "slug": "melmass/echo.nvim",
-  "fetched_at": "2026-11-26T13:12:09.201765372Z",
+  "fetched_at": "2026-11-27T12:51:52.324797905Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -8,25 +8,21 @@
     "forks": 0,
     "description": "🔊 Seamlessly integrate sound into your Neovim workflow",
     "license_spdx": "MIT",
-    "last_commit_at": "2025-11-26T19:43:54Z",
+    "last_commit_at": null,
     "commits_90d": 0,
     "releases_365d": 0,
     "median_issue_close_days": null,
     "median_pr_close_days": 0.00038194444444444446,
     "open_issues": 1,
     "closed_issues_sampled": 0,
-    "contributors_12mo": 1,
-    "top_author_commit_share": 1.0,
-    "top_author": {
-      "login": "melMass",
-      "account_created_at": "2014-03-23T23:03:57Z",
-      "other_repos_star_sum": 826
-    },
+    "contributors_12mo": 0,
+    "top_author_commit_share": 0.0,
+    "top_author": null,
     "has_ci": true,
     "has_tests": false,
     "readme_len": 3498
   },
   "slow_fetched_at": "2026-11-15T11:21:11.886164844Z",
-  "commits_etag": "\"66de2037ce328ae378cf46a1b50107132fe3a4306bf27d7fd387798f9801a8ab\"",
-  "releases_etag": "\"d9af6ff631ffa6ff3dd0c02c129945c282846dbc538ed2e43fa8e43cef3a25f2\""
+  "commits_etag": "\"231c661fca2794b1081f5d1a3d327dffc13cebf96d3b62de88635be349c786c3\"",
+  "releases_etag": "\"154625986e6f7040b398bf30c31197f1952915cafbd7b1d045a52a5340a62df4\""
 }

@@ -1,6 +1,6 @@
 {
   "slug": "jbyuki/carrot.nvim",
-  "fetched_at": "2026-11-26T13:00:18.527210820Z",
+  "fetched_at": "2026-11-27T12:42:28.094429767Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 1966
   },
   "slow_fetched_at": "2026-11-14T10:46:00.064181537Z",
-  "commits_etag": "\"93411fc91ffb3aa8d0b76997b12784c5affd22d84b440fb633a8f6890799d2b8\"",
-  "releases_etag": "\"07560434939fa4e1e7ef75c3702731d9c5dde8a35d13d3a0108045b06a53179d\""
+  "commits_etag": "\"71cd79b27e3c4ddb8e4695a34b8b2064998969a0b739fe109b6a9c3ec33ccfd9\"",
+  "releases_etag": "\"b3f677ec8dc33fbe5733cec2d7ab93227b43d921ba1ffde58057ea7eb75ef7aa\""
 }

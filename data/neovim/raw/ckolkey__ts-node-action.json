@@ -1,10 +1,10 @@
 {
   "slug": "ckolkey/ts-node-action",
-  "fetched_at": "2026-11-26T12:44:58.141939647Z",
+  "fetched_at": "2026-11-27T12:29:09.137897552Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 379,
+    "stars": 380,
     "forks": 22,
     "description": "Neovim Plugin for running functions on nodes.",
     "license_spdx": "MIT",
@@ -27,6 +27,6 @@
     "readme_len": 11561
   },
   "slow_fetched_at": "2026-11-13T11:13:06.663905431Z",
-  "commits_etag": "\"873e6aa41b7a37dfdd680a767f9c6070a19987162b40ef50d917f2725440a581\"",
-  "releases_etag": "\"07560434939fa4e1e7ef75c3702731d9c5dde8a35d13d3a0108045b06a53179d\""
+  "commits_etag": "\"d6800ba7325aa155adcee7eef391440f642f2bca6e41d5411bd299eca9b7552a\"",
+  "releases_etag": "\"b3f677ec8dc33fbe5733cec2d7ab93227b43d921ba1ffde58057ea7eb75ef7aa\""
 }

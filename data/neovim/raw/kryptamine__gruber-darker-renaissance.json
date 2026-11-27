@@ -1,6 +1,6 @@
 {
   "slug": "kryptamine/gruber-darker-renaissance",
-  "fetched_at": "2026-11-26T13:05:41.974433700Z",
+  "fetched_at": "2026-11-27T12:46:38.197766146Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 5726
   },
   "slow_fetched_at": "2026-11-14T10:50:34.480786813Z",
-  "commits_etag": "\"09cc0eb3069abaa9a77f30f0bdd2c29e59ce9d74f3f029c65a37d439b0f631f3\"",
-  "releases_etag": "\"07560434939fa4e1e7ef75c3702731d9c5dde8a35d13d3a0108045b06a53179d\""
+  "commits_etag": "\"fda7f8ebfda09eb5511f24341dde8dd973ed9237d762295d6a5ec0dd4954a92d\"",
+  "releases_etag": "\"b3f677ec8dc33fbe5733cec2d7ab93227b43d921ba1ffde58057ea7eb75ef7aa\""
 }

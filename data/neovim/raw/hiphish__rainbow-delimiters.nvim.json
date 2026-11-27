@@ -1,6 +1,6 @@
 {
   "slug": "hiphish/rainbow-delimiters.nvim",
-  "fetched_at": "2026-11-26T12:57:15.017292184Z",
+  "fetched_at": "2026-11-27T12:39:51.728693640Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 8392
   },
   "slow_fetched_at": "2026-11-13T11:27:43.165673395Z",
-  "commits_etag": "\"aa1db05b956de1d30ef9e2a397c74ab178edbf3acb0a6cbcd105b2a58a5b9aae\"",
-  "releases_etag": "\"07560434939fa4e1e7ef75c3702731d9c5dde8a35d13d3a0108045b06a53179d\""
+  "commits_etag": "\"5391df3eaba1b95b4e4524fe1bad5db482a132c4f79ee95338b622ef164db418\"",
+  "releases_etag": "\"b3f677ec8dc33fbe5733cec2d7ab93227b43d921ba1ffde58057ea7eb75ef7aa\""
 }

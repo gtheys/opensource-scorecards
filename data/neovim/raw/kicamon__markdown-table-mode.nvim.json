@@ -1,6 +1,6 @@
 {
   "slug": "kicamon/markdown-table-mode.nvim",
-  "fetched_at": "2026-11-26T13:04:19.060906516Z",
+  "fetched_at": "2026-11-27T12:45:37.761009566Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -18,15 +18,15 @@
     "contributors_12mo": 2,
     "top_author_commit_share": 0.5,
     "top_author": {
-      "login": "Kicamon",
-      "account_created_at": "2021-12-28T14:53:11Z",
-      "other_repos_star_sum": 231
+      "login": "allisnulll",
+      "account_created_at": "2023-05-13T11:49:35Z",
+      "other_repos_star_sum": 20
     },
     "has_ci": false,
     "has_tests": false,
     "readme_len": 832
   },
   "slow_fetched_at": "2026-11-14T10:49:23.641412175Z",
-  "commits_etag": "\"1b3fcc3d66ac7e1e0782840438ff9e8d05e3599481c2c4e830ee388a0e4b1b9c\"",
-  "releases_etag": "\"07560434939fa4e1e7ef75c3702731d9c5dde8a35d13d3a0108045b06a53179d\""
+  "commits_etag": "\"9f133656946e9aad581581866ede9cbd3aeb31628f0922706ab3a18edfafa251\"",
+  "releases_etag": "\"b3f677ec8dc33fbe5733cec2d7ab93227b43d921ba1ffde58057ea7eb75ef7aa\""
 }

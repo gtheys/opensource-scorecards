@@ -1,6 +1,6 @@
 {
   "slug": "nfrid/treesitter-utils",
-  "fetched_at": "2026-11-26T13:19:06.074407946Z",
+  "fetched_at": "2026-11-27T12:58:12.407540511Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 216
   },
   "slow_fetched_at": "2026-11-17T12:31:28.196373174Z",
-  "commits_etag": "\"0c9ae5e689b641f430ce58c0ac31c2c1e0a50cb1693e3dcbd1609bed52b3752e\"",
-  "releases_etag": "\"07560434939fa4e1e7ef75c3702731d9c5dde8a35d13d3a0108045b06a53179d\""
+  "commits_etag": "\"b2f613d4ac40c999d9ea9c1f94b9fff82945fc85d25d0d05f8d352fee914cb0d\"",
+  "releases_etag": "\"b3f677ec8dc33fbe5733cec2d7ab93227b43d921ba1ffde58057ea7eb75ef7aa\""
 }

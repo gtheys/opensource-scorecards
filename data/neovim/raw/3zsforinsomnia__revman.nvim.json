@@ -1,6 +1,6 @@
 {
   "slug": "3zsforinsomnia/revman.nvim",
-  "fetched_at": "2026-11-26T12:34:51.127759340Z",
+  "fetched_at": "2026-11-27T12:20:37.277457039Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 5401
   },
   "slow_fetched_at": "2026-11-13T11:02:14.705075702Z",
-  "commits_etag": "\"bfae618e6a5fe7cf06f0aa7b59e95834400326b09767108f821ab004ca17fb48\"",
-  "releases_etag": "\"07560434939fa4e1e7ef75c3702731d9c5dde8a35d13d3a0108045b06a53179d\""
+  "commits_etag": "\"0679c09e50c108dfd36fd33f9fdb926448a6c69318b91ae6b6ebb469d5c72816\"",
+  "releases_etag": "\"b3f677ec8dc33fbe5733cec2d7ab93227b43d921ba1ffde58057ea7eb75ef7aa\""
 }

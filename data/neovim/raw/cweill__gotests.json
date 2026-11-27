@@ -1,6 +1,6 @@
 {
   "slug": "cweill/gotests",
-  "fetched_at": "2026-11-26T12:46:51.457197278Z",
+  "fetched_at": "2026-11-27T12:30:49.137610069Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -8,15 +8,15 @@
     "forks": 355,
     "description": "Automatically generate Go test boilerplate from your source code.",
     "license_spdx": "Apache-2.0",
-    "last_commit_at": "2026-11-26T05:46:53Z",
-    "commits_90d": 5,
+    "last_commit_at": "2026-11-27T07:45:23Z",
+    "commits_90d": 6,
     "releases_365d": 1,
-    "median_issue_close_days": 1375.2570138888889,
+    "median_issue_close_days": 1703.7758912037036,
     "median_pr_close_days": 770.0801388888889,
-    "open_issues": 39,
+    "open_issues": 38,
     "closed_issues_sampled": 19,
-    "contributors_12mo": 2,
-    "top_author_commit_share": 0.8,
+    "contributors_12mo": 3,
+    "top_author_commit_share": 0.6666666666666666,
     "top_author": {
       "login": "cweill",
       "account_created_at": "2012-09-14T02:24:41Z",
@@ -27,6 +27,6 @@
     "readme_len": 13100
   },
   "slow_fetched_at": "2026-11-13T11:15:12.780163969Z",
-  "commits_etag": "\"78c5aa1a43ee925ed049a9f3daf13077e8f8f712973b8e100551a6cf2630c13f\"",
-  "releases_etag": "\"4d7b1446156e99ad644bd7c527a72a8b9d581ac7574b5737965dec476b2fdbad\""
+  "commits_etag": "\"ff36865f6467b0f61f936b51fa32ea4dd4eba7619f875a45689e9193bed69d70\"",
+  "releases_etag": "\"63f62f28ddeabef58b2c3fc232490f41f80f288ba3ec4434034c0a27e3b1ef22\""
 }

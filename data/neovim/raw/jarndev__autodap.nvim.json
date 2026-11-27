@@ -1,6 +1,6 @@
 {
   "slug": "jarndev/autodap.nvim",
-  "fetched_at": "2026-11-26T13:00:00.866780054Z",
+  "fetched_at": "2026-11-27T12:42:15.016085253Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 13882
   },
   "slow_fetched_at": "2026-11-14T10:45:45.282355367Z",
-  "commits_etag": "\"b3dd9c5594b0d9865b9df39c587937b13179bcb8c85130d71e5363b8b85a56d9\"",
-  "releases_etag": "\"a268e7560b30672b261a83847e73cfef516cb0394597d93e0bace1900d8e16e7\""
+  "commits_etag": "\"1219d0167986a573b3f6c26fabdce5b1cb616eb2b9ef104a9f891c209bd859d8\"",
+  "releases_etag": "\"17cc474c9ba12fd41008800521765afb8eccec69f7d930e434cba094dbcf76f2\""
 }

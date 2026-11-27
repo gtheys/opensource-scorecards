@@ -1,6 +1,6 @@
 {
   "slug": "9seconds/repolink.nvim",
-  "fetched_at": "2026-11-26T12:35:03.644443201Z",
+  "fetched_at": "2026-11-27T12:20:46.898080495Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 5895
   },
   "slow_fetched_at": "2026-11-13T11:02:28.279228599Z",
-  "commits_etag": "\"b91a6d155b46be7c5b3c632496cc5dc683a34b5915f64f5b6653e0b1e29d6758\"",
-  "releases_etag": "\"07560434939fa4e1e7ef75c3702731d9c5dde8a35d13d3a0108045b06a53179d\""
+  "commits_etag": "\"c1455b9172590f6fc3b452e4a2879a15b15ab76b2f1164ff46d746bcec9c8f8c\"",
+  "releases_etag": "\"b3f677ec8dc33fbe5733cec2d7ab93227b43d921ba1ffde58057ea7eb75ef7aa\""
 }

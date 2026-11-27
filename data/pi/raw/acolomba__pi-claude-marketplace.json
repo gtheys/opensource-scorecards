@@ -1,6 +1,6 @@
 {
   "slug": "acolomba/pi-claude-marketplace",
-  "fetched_at": "2026-11-26T13:19:27.632264532Z",
+  "fetched_at": "2026-11-27T12:58:24.885527773Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 25730
   },
   "slow_fetched_at": "2026-11-13T11:30:34.197066975Z",
-  "commits_etag": "\"a3e8b95ea66c19d7c9e4ffe7096b4361ac19d28decb21c4ee0be2ed8e056b93e\"",
-  "releases_etag": "\"b5764e84edd6a6c6458260200e820b886bc8b9fe589beb92576097b697893b2b\""
+  "commits_etag": "\"80d5ad9e04faa0a5bba7366577b3b15cafe66eb90d4f15f51e74f053662cdacb\"",
+  "releases_etag": "\"805b7b10cc2970537e50cf21fd7bb0eaf290ee433009c86ef05a7fa691f7f328\""
 }
