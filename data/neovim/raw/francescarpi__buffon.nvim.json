@@ -1,6 +1,6 @@
 {
   "slug": "francescarpi/buffon.nvim",
-  "fetched_at": "2026-11-27T12:37:19.571486999Z",
+  "fetched_at": "2026-11-28T12:02:59.702625650Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 9505
   },
   "slow_fetched_at": "2026-11-13T11:24:22.920820822Z",
-  "commits_etag": "\"f57f675217ac8795266fee94d85f3cd2e0ad0be41a01b5222adff2b59b89b9d8\"",
-  "releases_etag": "\"fe0a742479773cf96e2ac48957a9286a2d21a3dc723d3d47fc41a61ce38671e5\""
+  "commits_etag": "\"b64759e21306ee52b305452a83c1ebc80b27db245a56d6fb6b21d7dab2e22403\"",
+  "releases_etag": "\"13153584ee7b0704f1174a2c363287499f18bdffdd9ccb7be32d6b032ab173e9\""
 }

@@ -1,6 +1,6 @@
 {
   "slug": "da-moon/telescope-toggleterm.nvim",
-  "fetched_at": "2026-11-27T12:31:06.059205157Z",
+  "fetched_at": "2026-11-28T11:57:14.943438280Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 2385
   },
   "slow_fetched_at": "2026-11-13T11:15:39.052579651Z",
-  "commits_etag": "\"a2b04c4d4addb32cf6c376e6f5c9748a122b4a75abb3630e8cfc928601a01ed3\"",
-  "releases_etag": "\"b3f677ec8dc33fbe5733cec2d7ab93227b43d921ba1ffde58057ea7eb75ef7aa\""
+  "commits_etag": "\"776f9df9010eb0cd0f2962284f1cffaebbc71e65d9a704d91aca91cc36361e67\"",
+  "releases_etag": "\"59e3ac7754bdda702e8baef983057dfac028d88c5fdd11caa6fd5683ba4d5f19\""
 }

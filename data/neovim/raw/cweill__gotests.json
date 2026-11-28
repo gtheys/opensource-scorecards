@@ -1,6 +1,6 @@
 {
   "slug": "cweill/gotests",
-  "fetched_at": "2026-11-27T12:30:49.137610069Z",
+  "fetched_at": "2026-11-28T11:56:58.652412679Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 13100
   },
   "slow_fetched_at": "2026-11-13T11:15:12.780163969Z",
-  "commits_etag": "\"ff36865f6467b0f61f936b51fa32ea4dd4eba7619f875a45689e9193bed69d70\"",
-  "releases_etag": "\"63f62f28ddeabef58b2c3fc232490f41f80f288ba3ec4434034c0a27e3b1ef22\""
+  "commits_etag": "\"a770e8b7daab3f7be31172e35a9fb182aac51f85c03e1b40caf42f9a3ed65f87\"",
+  "releases_etag": "\"3378b9254ae19a20dadacfb8caec96b87b27f658dd3f1e582c00844524070bef\""
 }

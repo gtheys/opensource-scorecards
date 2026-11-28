@@ -1,6 +1,6 @@
 {
   "slug": "carcuis/dap-breakpoints.nvim",
-  "fetched_at": "2026-11-27T12:26:55.779024348Z",
+  "fetched_at": "2026-11-28T11:53:28.889633171Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 6444
   },
   "slow_fetched_at": "2026-11-13T11:10:23.622446863Z",
-  "commits_etag": "\"82907a9b56b6da0c7fe339c8fa57448b0f25dd0af138c91ceae38e3caefd79df\"",
-  "releases_etag": "\"b3f677ec8dc33fbe5733cec2d7ab93227b43d921ba1ffde58057ea7eb75ef7aa\""
+  "commits_etag": "\"78ed547b5c236254aea729f1d62ac2b3132458c2746e2146e9bc91575b1a56c1\"",
+  "releases_etag": "\"59e3ac7754bdda702e8baef983057dfac028d88c5fdd11caa6fd5683ba4d5f19\""
 }

@@ -1,10 +1,10 @@
 {
   "slug": "folke/lazydev.nvim",
-  "fetched_at": "2026-11-27T12:36:31.465568114Z",
+  "fetched_at": "2026-11-28T12:02:12.152526036Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 1587,
+    "stars": 1589,
     "forks": 48,
     "description": "Faster LuaLS setup for Neovim",
     "license_spdx": "Apache-2.0",
@@ -27,6 +27,6 @@
     "readme_len": 6113
   },
   "slow_fetched_at": "2026-11-13T11:23:23.461746702Z",
-  "commits_etag": "\"63b1bc473cf07e0576c149edaefa65681b1f0809c1dda69ad4af1058a41b5438\"",
-  "releases_etag": "\"11827c479c404a25a4cc6992524815079abda1376e0220b8ec50ef18f9a43e87\""
+  "commits_etag": "\"a662cb44463dbf580a2bfff2c69f282e87d99b3c84c392232fe0001e2b7ce226\"",
+  "releases_etag": "\"98675d8a4f852abd076b688e6f7bf4b4e60a0479ca3f1e7e1dbde9050c6cf2e9\""
 }

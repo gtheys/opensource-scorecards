@@ -1,6 +1,6 @@
 {
   "slug": "inlyne-project/inlyne",
-  "fetched_at": "2026-11-27T12:41:13.189370412Z",
+  "fetched_at": "2026-11-28T12:06:35.934746446Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -8,15 +8,15 @@
     "forks": 52,
     "description": "a GPU powered yet browserless tool to view markdown files in the blink of an eye",
     "license_spdx": "MIT",
-    "last_commit_at": "2026-08-06T09:27:52Z",
-    "commits_90d": 0,
+    "last_commit_at": "2026-11-28T03:35:21Z",
+    "commits_90d": 5,
     "releases_365d": 4,
-    "median_issue_close_days": 41.20331597222222,
-    "median_pr_close_days": 0.009467592592592593,
+    "median_issue_close_days": 32.8512037037037,
+    "median_pr_close_days": 0.008912037037037038,
     "open_issues": 68,
-    "closed_issues_sampled": 10,
+    "closed_issues_sampled": 9,
     "contributors_12mo": 4,
-    "top_author_commit_share": 0.9,
+    "top_author_commit_share": 0.9111111111111111,
     "top_author": {
       "login": "CosmicHorrorDev",
       "account_created_at": "2017-07-19T22:36:54Z",
@@ -27,6 +27,6 @@
     "readme_len": 5353
   },
   "slow_fetched_at": "2026-11-13T11:29:22.518037660Z",
-  "commits_etag": "\"91a8cbbf7cf6277e94606c1d1b3822cc5445fe0cabcb9f6a376c564f534e87e6\"",
-  "releases_etag": "\"110958f1019a4d545c411aec64f0615f52aa6c2c509bddd5c645b93f7589b218\""
+  "commits_etag": "\"99d023ceffad37d59ea161ba5c2f3c089ae3c0c1be2ad145584fc40d4f564246\"",
+  "releases_etag": "\"5df807964fe2fc57bb85884c22da6b3e19bfee4596e546f19d7d09a5d1cf8342\""
 }

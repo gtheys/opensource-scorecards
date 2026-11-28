@@ -1,6 +1,6 @@
 {
   "slug": "mluders/comfy-line-numbers.nvim",
-  "fetched_at": "2026-11-27T12:54:14.508624985Z",
+  "fetched_at": "2026-11-28T12:17:50.854746003Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -18,15 +18,15 @@
     "contributors_12mo": 2,
     "top_author_commit_share": 0.5,
     "top_author": {
-      "login": "mluders",
-      "account_created_at": "2014-06-10T17:31:39Z",
-      "other_repos_star_sum": 149
+      "login": "armagidon-exception",
+      "account_created_at": "2018-08-13T18:11:41Z",
+      "other_repos_star_sum": 14
     },
     "has_ci": false,
     "has_tests": true,
     "readme_len": 2603
   },
   "slow_fetched_at": "2026-11-15T11:23:09.506026761Z",
-  "commits_etag": "\"da4fd07a11137b7121a79b5c1a047d3e3ecc639c8907835b5186f698b2ba46e0\"",
-  "releases_etag": "\"b3f677ec8dc33fbe5733cec2d7ab93227b43d921ba1ffde58057ea7eb75ef7aa\""
+  "commits_etag": "\"627513a8984a2bb8544bf1316b574281e4607be7f8354636e77dd2fbe1cfec5d\"",
+  "releases_etag": "\"59e3ac7754bdda702e8baef983057dfac028d88c5fdd11caa6fd5683ba4d5f19\""
 }

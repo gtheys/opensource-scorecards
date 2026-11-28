@@ -1,6 +1,6 @@
 {
   "slug": "csessh/stopinsert.nvim",
-  "fetched_at": "2026-11-27T12:30:32.219793754Z",
+  "fetched_at": "2026-11-28T11:56:45.647922906Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 3504
   },
   "slow_fetched_at": "2026-11-13T11:14:48.486274487Z",
-  "commits_etag": "\"6d151346a9021141ad908a0abd99cadfa009e7541fc234c3f6debc478c49a773\"",
-  "releases_etag": "\"f5bebceb5c402f4c36b81696f4285a818d6c94c6ff4c6a66f53a352fd2a79851\""
+  "commits_etag": "\"f7da69a9bc3664ad5d44921da1b1ad6fccdcded0027c50bfb33a24d0ac2b30cc\"",
+  "releases_etag": "\"08964df73cc5d092f25442ccd4cde389d3f0992f4278edf4704208bb5b678ad1\""
 }

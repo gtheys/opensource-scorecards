@@ -1,6 +1,6 @@
 {
   "slug": "kuri-sun/todoage.nvim",
-  "fetched_at": "2026-11-27T12:46:46.090592823Z",
+  "fetched_at": "2026-11-28T12:11:40.042351588Z",
   "status": "ok",
   "data": {
     "archived": true,
@@ -27,6 +27,6 @@
     "readme_len": 3292
   },
   "slow_fetched_at": "2026-11-14T10:50:43.078655833Z",
-  "commits_etag": "\"ba44d1db7e38d98cfb468b7582fdf7a1cea293a84361f9b632044a450e667e57\"",
-  "releases_etag": "\"3ead8c2f403bd84e28f4f766251b7f0fe80584cd9147c0fc7cb9c9799f09f99b\""
+  "commits_etag": "\"eca75bfe9cc8c89f7e89072239825c8e842ed89126dca1f4b3aeb05d2f893df7\"",
+  "releases_etag": "\"0a67fa5dfffbbc54725a4e5696ad2a4223ab0001a104c140869258db367118bc\""
 }

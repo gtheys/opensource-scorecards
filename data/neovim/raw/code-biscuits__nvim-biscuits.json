@@ -1,6 +1,6 @@
 {
   "slug": "code-biscuits/nvim-biscuits",
-  "fetched_at": "2026-11-27T12:29:19.306042562Z",
+  "fetched_at": "2026-11-28T11:55:42.233865764Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 7953
   },
   "slow_fetched_at": "2026-11-13T11:13:20.903991061Z",
-  "commits_etag": "\"388f48d771601a7b44aa95ae37bd2fba23bd8556a9a4746025bfbfe72aef61fe\"",
-  "releases_etag": "\"b3f677ec8dc33fbe5733cec2d7ab93227b43d921ba1ffde58057ea7eb75ef7aa\""
+  "commits_etag": "\"05a2ce4eda4e64c998f6824203f640487a0d946fd6976aaff35d12f61c019db9\"",
+  "releases_etag": "\"59e3ac7754bdda702e8baef983057dfac028d88c5fdd11caa6fd5683ba4d5f19\""
 }

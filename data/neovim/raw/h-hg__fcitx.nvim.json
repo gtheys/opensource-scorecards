@@ -1,6 +1,6 @@
 {
   "slug": "h-hg/fcitx.nvim",
-  "fetched_at": "2026-11-27T12:39:00.202205519Z",
+  "fetched_at": "2026-11-28T12:04:33.775626030Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 918
   },
   "slow_fetched_at": "2026-11-13T11:26:34.429192995Z",
-  "commits_etag": "\"8ad43ae1afc58a526440c5f5ca658b07eb047e2ae6b2733d08e23d66c1695fd5\"",
-  "releases_etag": "\"b3f677ec8dc33fbe5733cec2d7ab93227b43d921ba1ffde58057ea7eb75ef7aa\""
+  "commits_etag": "\"bbc2aba34c724f2aa188a83d76fe32d9e00c1ffd3eee26d38b68d575deafa643\"",
+  "releases_etag": "\"59e3ac7754bdda702e8baef983057dfac028d88c5fdd11caa6fd5683ba4d5f19\""
 }

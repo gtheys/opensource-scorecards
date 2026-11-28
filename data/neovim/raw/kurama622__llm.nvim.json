@@ -1,6 +1,6 @@
 {
   "slug": "kurama622/llm.nvim",
-  "fetched_at": "2026-11-27T12:46:41.391114962Z",
+  "fetched_at": "2026-11-28T12:11:35.806928915Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 32182
   },
   "slow_fetched_at": "2026-11-14T10:50:37.895996080Z",
-  "commits_etag": "\"e4324fd70258ebd811a5f07b5a52e6118110bd69570c695bbfb488beed438b15\"",
-  "releases_etag": "\"f214b7818e90559a9d35dac616185ae9bd28469fba6bd712bb58278190cc9690\""
+  "commits_etag": "\"ccec08a685966a1cb54ac7a78f5d9a42f1f24b7dfd94d53fe2256d591d66651b\"",
+  "releases_etag": "\"c4e710c0abd03dbd9344af6d61651d15e3f6d4598064715fea8279b220fe99dd\""
 }

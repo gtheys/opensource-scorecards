@@ -1,6 +1,6 @@
 {
   "slug": "mfussenegger/nvim-lint",
-  "fetched_at": "2026-11-27T12:52:05.139698351Z",
+  "fetched_at": "2026-11-28T12:16:18.966040832Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 33168
   },
   "slow_fetched_at": "2026-11-15T11:21:26.071866809Z",
-  "commits_etag": "\"e9c50255fb409b26450f7f30cb1c87ab11643a34c8ac3a25896f64d63a9df691\"",
-  "releases_etag": "\"b3f677ec8dc33fbe5733cec2d7ab93227b43d921ba1ffde58057ea7eb75ef7aa\""
+  "commits_etag": "\"f305825c5ada832f1e40b376ae21cb33f63a129307a7a2fe47a83f412e12a911\"",
+  "releases_etag": "\"59e3ac7754bdda702e8baef983057dfac028d88c5fdd11caa6fd5683ba4d5f19\""
 }

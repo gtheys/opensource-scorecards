@@ -1,6 +1,6 @@
 {
   "slug": "mpas/marp-nvim",
-  "fetched_at": "2026-11-27T12:55:01.194821873Z",
+  "fetched_at": "2026-11-28T12:18:29.585190815Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 2369
   },
   "slow_fetched_at": "2026-11-15T11:23:54.161839991Z",
-  "commits_etag": "\"7d32edecc091ba8f14163ebdb73d7c8b5cee96a92b9ae18a1f8f0d6e6d746afb\"",
-  "releases_etag": "\"b3f677ec8dc33fbe5733cec2d7ab93227b43d921ba1ffde58057ea7eb75ef7aa\""
+  "commits_etag": "\"35c62c5a49a7df95df92b452165145b12ed6de281fdc93796c474fba45da6af9\"",
+  "releases_etag": "\"59e3ac7754bdda702e8baef983057dfac028d88c5fdd11caa6fd5683ba4d5f19\""
 }

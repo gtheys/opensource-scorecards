@@ -1,6 +1,6 @@
 {
   "slug": "moyiz/blink-emoji.nvim",
-  "fetched_at": "2026-11-27T12:54:53.611571894Z",
+  "fetched_at": "2026-11-28T12:18:23.599047660Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 1276
   },
   "slow_fetched_at": "2026-11-15T11:23:46.865065517Z",
-  "commits_etag": "\"32abd9781af9ef2155034addab8f84e3f13b231a2d19b33e1e6dcf78d15a9567\"",
-  "releases_etag": "\"b3f677ec8dc33fbe5733cec2d7ab93227b43d921ba1ffde58057ea7eb75ef7aa\""
+  "commits_etag": "\"85d17c973cccec42377ef489e17c31b8d467524bd296726120a0695810d52498\"",
+  "releases_etag": "\"59e3ac7754bdda702e8baef983057dfac028d88c5fdd11caa6fd5683ba4d5f19\""
 }

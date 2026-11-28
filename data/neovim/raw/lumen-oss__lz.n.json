@@ -1,6 +1,6 @@
 {
   "slug": "lumen-oss/lz.n",
-  "fetched_at": "2026-11-27T12:49:38.615083175Z",
+  "fetched_at": "2026-11-28T12:14:13.531812808Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -9,7 +9,7 @@
     "description": "🦥 A dead simple lazy-loading Lua library for Neovim plugins.",
     "license_spdx": "GPL-2.0",
     "last_commit_at": "2026-11-22T06:16:52Z",
-    "commits_90d": 15,
+    "commits_90d": 14,
     "releases_365d": 6,
     "median_issue_close_days": 0.40087962962962964,
     "median_pr_close_days": 0.0009490740740740741,
@@ -27,6 +27,6 @@
     "readme_len": 22195
   },
   "slow_fetched_at": "2026-11-14T10:53:48.323904952Z",
-  "commits_etag": "\"6e9fff58da1eadf5af906d8466e86af760f9f9b7e65a3fedb72d5f2b128b15fe\"",
-  "releases_etag": "\"f843278bed5a6975dff74e6452aa82bcef30fd07c40b5d8f079f288491d6907e\""
+  "commits_etag": "\"39c74bf9942842aa1af1ce541576332fef5e656689cce021433fe57f0ecca02c\"",
+  "releases_etag": "\"af3ab56fabd614c7ac23f971242647c256a3d286b6134d1a24a0a55b8d0bb4e7\""
 }

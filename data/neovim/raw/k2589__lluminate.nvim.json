@@ -1,6 +1,6 @@
 {
   "slug": "k2589/lluminate.nvim",
-  "fetched_at": "2026-11-27T12:44:34.498808764Z",
+  "fetched_at": "2026-11-28T12:09:39.849333563Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 4722
   },
   "slow_fetched_at": "2026-11-14T10:48:18.236927440Z",
-  "commits_etag": "\"426a802c4649aec06f7873a6ea5e4a382cfaa28808261f186a19e2b703100668\"",
-  "releases_etag": "\"03d7f9bce79e2ace49bf85fa686e60d27ed69d2ffb17b45478cecc16cdb1e01a\""
+  "commits_etag": "\"02b80c22c40043d1dab9e0d0195c791a622cdd2fa7216178256a0dc761b32c1a\"",
+  "releases_etag": "\"b3e68fb6b89760f13e07d3aaef2f3c7aa393fae57c1911b349594e12dbd76068\""
 }

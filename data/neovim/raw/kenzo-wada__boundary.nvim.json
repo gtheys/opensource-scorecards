@@ -1,6 +1,6 @@
 {
   "slug": "kenzo-wada/boundary.nvim",
-  "fetched_at": "2026-11-27T12:45:17.783374802Z",
+  "fetched_at": "2026-11-28T12:10:15.437162343Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 4743
   },
   "slow_fetched_at": "2026-11-14T10:49:01.287082042Z",
-  "commits_etag": "\"a7d58b60bd0d893b198525e802e56c721d95f14109f4d7cd0dcc2d71472b3db5\"",
-  "releases_etag": "\"0d30a2d071b4719ba84f40dfedc5dc4623ca16255ec50383f276807ad083b039\""
+  "commits_etag": "\"e3a4d7f0c9a83e10e10eafdd269f6ea32b06e63ef988a949e9af9d25c2936f05\"",
+  "releases_etag": "\"ac82da32abe3bf32de1a3c19c3eb3d961f7ca495208d0ed09b72f7a88b0350b9\""
 }

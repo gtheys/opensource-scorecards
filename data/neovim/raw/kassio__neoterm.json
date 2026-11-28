@@ -1,6 +1,6 @@
 {
   "slug": "kassio/neoterm",
-  "fetched_at": "2026-11-27T12:44:51.338640930Z",
+  "fetched_at": "2026-11-28T12:09:54.767523056Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 6351
   },
   "slow_fetched_at": "2026-11-14T10:48:37.315122608Z",
-  "commits_etag": "\"c494661c955bef15811dfc83569636fdc7f1f2bf8442c5b346835c5488e1176a\"",
-  "releases_etag": "\"b3f677ec8dc33fbe5733cec2d7ab93227b43d921ba1ffde58057ea7eb75ef7aa\""
+  "commits_etag": "\"cbfa446918966fe89673f779215ee934c406fbc17edce2f623b319206bd45810\"",
+  "releases_etag": "\"59e3ac7754bdda702e8baef983057dfac028d88c5fdd11caa6fd5683ba4d5f19\""
 }

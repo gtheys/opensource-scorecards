@@ -1,6 +1,6 @@
 {
   "slug": "massix/termux.nvim",
-  "fetched_at": "2026-11-27T12:51:03.850409202Z",
+  "fetched_at": "2026-11-28T12:15:30.750460957Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 7365
   },
   "slow_fetched_at": "2026-11-14T10:55:13.930586777Z",
-  "commits_etag": "\"5556decc7f8c312afdccb05f40308566667a2ed94bda804d099ffad88bd932a9\"",
-  "releases_etag": "\"b3f677ec8dc33fbe5733cec2d7ab93227b43d921ba1ffde58057ea7eb75ef7aa\""
+  "commits_etag": "\"675181f44fe9a825baadd4083afe8ba976284c8a1b4aaf6b194a32f2ce516ef5\"",
+  "releases_etag": "\"59e3ac7754bdda702e8baef983057dfac028d88c5fdd11caa6fd5683ba4d5f19\""
 }

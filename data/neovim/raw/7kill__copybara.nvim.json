@@ -1,6 +1,6 @@
 {
   "slug": "7kill/copybara.nvim",
-  "fetched_at": "2026-11-27T12:20:45.779831832Z",
+  "fetched_at": "2026-11-28T11:47:50.812195882Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 2899
   },
   "slow_fetched_at": "2026-11-13T11:02:26.530781627Z",
-  "commits_etag": "\"d5e1c6e98669bb698943ac7e6e300f44c58001bd8ec0ee1a80d816994835f4f8\"",
-  "releases_etag": "\"b3f677ec8dc33fbe5733cec2d7ab93227b43d921ba1ffde58057ea7eb75ef7aa\""
+  "commits_etag": "\"b3174d37fd35c94f2a50a2eefc61841418e40466fba80374c7b54a2b74ea6c9b\"",
+  "releases_etag": "\"59e3ac7754bdda702e8baef983057dfac028d88c5fdd11caa6fd5683ba4d5f19\""
 }

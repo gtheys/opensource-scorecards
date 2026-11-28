@@ -1,6 +1,6 @@
 {
   "slug": "goolord/alpha-nvim",
-  "fetched_at": "2026-11-27T12:38:40.965858170Z",
+  "fetched_at": "2026-11-28T12:04:16.317104667Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 4410
   },
   "slow_fetched_at": "2026-11-13T11:26:09.639492051Z",
-  "commits_etag": "\"665714ca6ffdecdc4fc9aa2755253382efdbd187d0146f88f7ed4295f64e3dec\"",
-  "releases_etag": "\"b3f677ec8dc33fbe5733cec2d7ab93227b43d921ba1ffde58057ea7eb75ef7aa\""
+  "commits_etag": "\"fddeea6ad8574be78419a0c7574b6c967b25bcb283f246f76a31d478aec92bf8\"",
+  "releases_etag": "\"59e3ac7754bdda702e8baef983057dfac028d88c5fdd11caa6fd5683ba4d5f19\""
 }

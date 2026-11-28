@@ -1,6 +1,6 @@
 {
   "slug": "milanglacier/yarepl.nvim",
-  "fetched_at": "2026-11-27T12:53:22.383738280Z",
+  "fetched_at": "2026-11-28T12:17:09.968383779Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 50457
   },
   "slow_fetched_at": "2026-11-15T11:22:22.877293246Z",
-  "commits_etag": "\"de1d725033d1bf5a338f56e7085ceadb86c8d51b05037f664ca3ebb43e697fa1\"",
-  "releases_etag": "\"99a5a2ef975380c4ef7796f8c0651b504f343dba24b9838c63d6d9cc475f52ef\""
+  "commits_etag": "\"d57c4db5804f9627519e1a7685aa2b472ed599daf708c3db868f60876163ea67\"",
+  "releases_etag": "\"9965e444bd3f1111e5d53aff8af4c12805f6eb758e3108cefc56b92a8761ad28\""
 }

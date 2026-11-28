@@ -1,6 +1,6 @@
 {
   "slug": "irdis/swimd",
-  "fetched_at": "2026-11-27T12:41:19.499625435Z",
+  "fetched_at": "2026-11-28T12:06:41.497319271Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 2501
   },
   "slow_fetched_at": "2026-11-24T14:13:11.181315790Z",
-  "commits_etag": "\"61967b25e035abf9b0a36180cdd6316c8b28ad3cfbe8b69ea93bef72f70d449d\"",
-  "releases_etag": "\"b3f677ec8dc33fbe5733cec2d7ab93227b43d921ba1ffde58057ea7eb75ef7aa\""
+  "commits_etag": "\"3f1c8cde1e1aa4a5495948c4f8908174753b7aabb8c56806baa39d13f3042748\"",
+  "releases_etag": "\"59e3ac7754bdda702e8baef983057dfac028d88c5fdd11caa6fd5683ba4d5f19\""
 }

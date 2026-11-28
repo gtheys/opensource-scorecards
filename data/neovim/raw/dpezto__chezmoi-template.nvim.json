@@ -1,6 +1,6 @@
 {
   "slug": "dpezto/chezmoi-template.nvim",
-  "fetched_at": "2026-11-27T12:33:12.249897062Z",
+  "fetched_at": "2026-11-28T11:59:11.951221597Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 24739
   },
   "slow_fetched_at": "2026-11-13T11:18:48.515808482Z",
-  "commits_etag": "\"99cfa3c2bb0ec5e21f701c29f6ee590f24dde473b7448cbe0b58cafc0aba7670\"",
-  "releases_etag": "\"3c43a68fd8aa1c449e76cd26305bca3ed9264ce32e3e67e42e7b3349ec44775c\""
+  "commits_etag": "\"a7b50aed9b55a3447acafcd82a6b06a4ca0c649e91d52c1c95d1f87f51762821\"",
+  "releases_etag": "\"46e23606675599b23cbd08f74d176834d139ba580be84ae3130cda60b2105d4c\""
 }

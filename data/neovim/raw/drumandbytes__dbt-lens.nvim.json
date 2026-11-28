@@ -1,6 +1,6 @@
 {
   "slug": "drumandbytes/dbt-lens.nvim",
-  "fetched_at": "2026-11-27T12:33:45.825150604Z",
+  "fetched_at": "2026-11-28T11:59:41.619416444Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 9745
   },
   "slow_fetched_at": "2026-11-27T12:33:45.825150604Z",
-  "commits_etag": "\"994f325bb30be5dd9555c84dd2d044424f17e379026d350d3e2234f793c52632\"",
-  "releases_etag": "\"3c7982e502d0f50757d8b3237e079f884dbbfaf10bdfe68a274f9851e0070eaf\""
+  "commits_etag": "\"42826d8383bac91785b01d554bcd66511360faff3f140b2e652abaa741fc9ebd\"",
+  "releases_etag": "\"e9184bf68e63018b836010407e9f463f935a7c390394f935daf6ed7cebcfa504\""
 }

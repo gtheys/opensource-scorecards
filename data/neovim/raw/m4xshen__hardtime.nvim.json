@@ -1,10 +1,10 @@
 {
   "slug": "m4xshen/hardtime.nvim",
-  "fetched_at": "2026-11-27T12:50:22.731565437Z",
+  "fetched_at": "2026-11-28T12:14:52.398121847Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 3900,
+    "stars": 3903,
     "forks": 49,
     "description": "Break bad habits, master Vim motions",
     "license_spdx": "MIT",
@@ -27,6 +27,6 @@
     "readme_len": 11249
   },
   "slow_fetched_at": "2026-11-14T10:54:30.031656701Z",
-  "commits_etag": "\"99ed8c4b067b9b49654c773972f8945afd87502a57746a7353e68cfa14a58677\"",
-  "releases_etag": "\"4c089c65d13a7546d5149b587a71b64a48613662e29a3c5ea64114072bedc11f\""
+  "commits_etag": "\"b2914e98c9940ba96f4ecc610c1258f8a2d32fc18352b545afe08bfe12942426\"",
+  "releases_etag": "\"f2ab13cd77924f31a939ee10ea7604fe6392a16639392f2b1725f88ff19c236d\""
 }

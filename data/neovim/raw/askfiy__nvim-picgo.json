@@ -1,6 +1,6 @@
 {
   "slug": "askfiy/nvim-picgo",
-  "fetched_at": "2026-11-27T12:24:00.642823759Z",
+  "fetched_at": "2026-11-28T11:50:52.651803298Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 3580
   },
   "slow_fetched_at": "2026-11-13T11:06:37.175494745Z",
-  "commits_etag": "\"d048fb312af4514cdd0f3c433b5e72049a1308f56780471f660e8055aac3dc2e\"",
-  "releases_etag": "\"b3f677ec8dc33fbe5733cec2d7ab93227b43d921ba1ffde58057ea7eb75ef7aa\""
+  "commits_etag": "\"32fd64716c1a4d4f72a1d0440d50f9cd62d90130d756fd900ea1244b160818a9\"",
+  "releases_etag": "\"59e3ac7754bdda702e8baef983057dfac028d88c5fdd11caa6fd5683ba4d5f19\""
 }

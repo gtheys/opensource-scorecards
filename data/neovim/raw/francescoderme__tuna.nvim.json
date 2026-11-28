@@ -1,6 +1,6 @@
 {
   "slug": "francescoderme/tuna.nvim",
-  "fetched_at": "2026-11-27T12:37:23.120892868Z",
+  "fetched_at": "2026-11-28T12:03:03.147852856Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -8,15 +8,15 @@
     "forks": 2,
     "description": "Neovim plugin for competitive programming 🐟",
     "license_spdx": "MIT",
-    "last_commit_at": "2026-11-26T11:15:02Z",
-    "commits_90d": 145,
+    "last_commit_at": "2026-11-27T17:40:14Z",
+    "commits_90d": 144,
     "releases_365d": 3,
     "median_issue_close_days": 0.7761226851851852,
     "median_pr_close_days": 0.35983796296296294,
     "open_issues": 0,
     "closed_issues_sampled": 8,
     "contributors_12mo": 2,
-    "top_author_commit_share": 0.9950738916256158,
+    "top_author_commit_share": 0.9950980392156863,
     "top_author": {
       "login": "FrancescoDerme",
       "account_created_at": "2020-10-29T20:11:26Z",
@@ -27,6 +27,6 @@
     "readme_len": 17810
   },
   "slow_fetched_at": "2026-11-13T11:24:26.995506175Z",
-  "commits_etag": "\"33b6aeda107beb0192c0088927b2ee31ef93bf3d7a9e44c0b2ec34f8742d554a\"",
-  "releases_etag": "\"839df95c2d784bf692f7a0f6e3d87a18b9775c68832b42d0a294ba078df86eaf\""
+  "commits_etag": "\"b05265d12fc2071572521487ba8a9fea7cf6782c363f346f360e254503cec0d1\"",
+  "releases_etag": "\"1bf8c4dfed1dbc11cac594c52681ff9b22605fccb6516862b3e92e59dc269426\""
 }

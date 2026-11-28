@@ -1,6 +1,6 @@
 {
   "slug": "mrjones2014/smart-splits.nvim",
-  "fetched_at": "2026-11-27T12:55:55.056694528Z",
+  "fetched_at": "2026-11-28T12:19:11.582971772Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -11,10 +11,10 @@
     "last_commit_at": "2026-11-09T18:08:13Z",
     "commits_90d": 52,
     "releases_365d": 3,
-    "median_issue_close_days": 32.278067129629626,
-    "median_pr_close_days": 0.004733796296296297,
+    "median_issue_close_days": 31.96337384259259,
+    "median_pr_close_days": 0.0037847222222222223,
     "open_issues": 0,
-    "closed_issues_sampled": 19,
+    "closed_issues_sampled": 18,
     "contributors_12mo": 9,
     "top_author_commit_share": 0.83125,
     "top_author": {
@@ -27,6 +27,6 @@
     "readme_len": 21491
   },
   "slow_fetched_at": "2026-11-15T11:24:41.429927624Z",
-  "commits_etag": "\"615867136e6a6b0ce2a01f77bb927ee4ab17cdc7ec9d4acf13d609fc2904fb40\"",
-  "releases_etag": "\"3aa37fbb5a7153f813f5ac8088528e5e0c19702ede56bee30990ad7336189c2a\""
+  "commits_etag": "\"ebe2d40b38a690b009f0911031f18a0e93de6b1e5e30bfec67d11e65a0902a27\"",
+  "releases_etag": "\"aef13b46f04fc3ba145601d7fd49ea34999d3b5daaa6d059da7860854594d3af\""
 }

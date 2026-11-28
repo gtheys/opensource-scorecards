@@ -1,10 +1,10 @@
 {
   "slug": "cbochs/portal.nvim",
-  "fetched_at": "2026-11-27T12:27:17.587044212Z",
+  "fetched_at": "2026-11-28T11:53:48.094709139Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 366,
+    "stars": 367,
     "forks": 9,
     "description": "Neovim plugin for improved location list navigation",
     "license_spdx": "MIT",
@@ -23,6 +23,6 @@
     "readme_len": 19111
   },
   "slow_fetched_at": "2026-11-13T11:10:48.880875874Z",
-  "commits_etag": "\"3970a45a9d7e753113a4575d066cef0f03cf2a4db8e1379f413b6048d40ffdea\"",
-  "releases_etag": "\"e49d7aae63ff23ce217f2d9374d35d0656b2eb3fa553f9b75177623f72355276\""
+  "commits_etag": "\"6270c93b58daa9670899bd5a6df621b93cc51a3f61071e029a8d88a1de9a12fb\"",
+  "releases_etag": "\"d42afa0c7e690cb678d4cbd207643955516c5e2f4fc0ba634a294c2936fa89c4\""
 }

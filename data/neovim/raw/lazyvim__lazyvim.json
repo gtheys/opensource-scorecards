@@ -1,10 +1,10 @@
 {
   "slug": "lazyvim/lazyvim",
-  "fetched_at": "2026-11-27T12:47:04.401114518Z",
+  "fetched_at": "2026-11-28T12:11:57.273463710Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 27936,
+    "stars": 27939,
     "forks": 1832,
     "description": "Neovim config for the lazy",
     "license_spdx": "Apache-2.0",
@@ -27,6 +27,6 @@
     "readme_len": 5463
   },
   "slow_fetched_at": "2026-11-14T10:51:03.416052199Z",
-  "commits_etag": "\"4ac3469d0e92929900893d0da0bfa92b0f6b15f6d6620cf7d998e317a7fbbbda\"",
-  "releases_etag": "\"e13f3a902ca4e8828168f05d03aa40babb6737171e50dab4b225f4c0feb32a8f\""
+  "commits_etag": "\"e6b1df4c93bf691dbcfe3aec0ca81c4d4b2ca812f18f3f2a7e590bceec7bc583\"",
+  "releases_etag": "\"97aa697e2e1a590b5d4251c0f2da311550d5af48ec1f15bdd531737009b847f8\""
 }

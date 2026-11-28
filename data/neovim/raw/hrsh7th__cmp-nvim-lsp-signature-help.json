@@ -1,6 +1,6 @@
 {
   "slug": "hrsh7th/cmp-nvim-lsp-signature-help",
-  "fetched_at": "2026-11-27T12:40:14.495100406Z",
+  "fetched_at": "2026-11-28T12:05:42.184744087Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 348
   },
   "slow_fetched_at": "2026-11-13T11:28:09.345448693Z",
-  "commits_etag": "\"5ff8b2b652f840c284e4f3272f6d7eaa11a5615d59686d282baebedeb124b772\"",
-  "releases_etag": "\"b3f677ec8dc33fbe5733cec2d7ab93227b43d921ba1ffde58057ea7eb75ef7aa\""
+  "commits_etag": "\"3ed796a62e66c8428638ec73c751be0f4a6f4cefde956cfcb43c78918576bc1e\"",
+  "releases_etag": "\"59e3ac7754bdda702e8baef983057dfac028d88c5fdd11caa6fd5683ba4d5f19\""
 }

@@ -1,6 +1,6 @@
 {
   "slug": "mfussenegger/nvim-dap",
-  "fetched_at": "2026-11-27T12:51:56.902588121Z",
+  "fetched_at": "2026-11-28T12:16:11.394582638Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 6070
   },
   "slow_fetched_at": "2026-11-15T11:21:17.874671873Z",
-  "commits_etag": "\"c9322da57ccd45c4969db0b380e39270b200a012fde45eeee7a94a498be5d258\"",
-  "releases_etag": "\"2d62f533dad2dc3a8919dc309a276de2a2015b681e4c19233b9227e475a88ad9\""
+  "commits_etag": "\"b1e6740e84d119c38975d385a55496e0f1a2ade6e21abba2799e93075b116112\"",
+  "releases_etag": "\"d81921bb525e8adfd74817bbc8650abbd0154398fd1cb725a71fc1679e08cfd3\""
 }

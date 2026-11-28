@@ -1,6 +1,6 @@
 {
   "slug": "nexmean/caskey.nvim",
-  "fetched_at": "2026-11-27T12:58:06.733022920Z",
+  "fetched_at": "2026-11-28T12:20:48.334471147Z",
   "status": "ok",
   "data": {
     "archived": true,
@@ -23,6 +23,6 @@
     "readme_len": 4104
   },
   "slow_fetched_at": "2026-11-17T12:31:20.516289572Z",
-  "commits_etag": "\"26cb1bbe47b641ddd7130c16306d458c2d28a71e08faa6bd1ebd230556e96ecd\"",
-  "releases_etag": "\"82f40a65dafd9a126dcdbacea92d3ee31d1b0453c71996ab6b34814e1eeb6f19\""
+  "commits_etag": "\"3a1c89d7fabc7502789230b06d28e7ae8fc451a7e44f1bcacedb530f7e41984c\"",
+  "releases_etag": "\"233e4d5427eef38e47242edb79a9b84fb7779b6e0a65af139f0a3b7eb7f3e24d\""
 }

@@ -1,10 +1,10 @@
 {
   "slug": "iwe-org/iwe.nvim",
-  "fetched_at": "2026-11-27T12:41:42.707545744Z",
+  "fetched_at": "2026-11-28T12:07:03.358485741Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 53,
+    "stars": 54,
     "forks": 2,
     "description": "Neovim plugin for IWE — markdown notes with LSP: search, backlinks, extract/inline refactoring, knowledge-graph navigation",
     "license_spdx": "Apache-2.0",
@@ -27,6 +27,6 @@
     "readme_len": 11333
   },
   "slow_fetched_at": "2026-11-13T11:29:57.131444100Z",
-  "commits_etag": "\"5c3834fd553b5b6ba0410865ae9543cab087a6ac958f7c709e963fe8d2d4687f\"",
-  "releases_etag": "\"b3f677ec8dc33fbe5733cec2d7ab93227b43d921ba1ffde58057ea7eb75ef7aa\""
+  "commits_etag": "\"fc69b879893b22e2ecc5a0f124cd365d686302fe5c277d4fbf3c67e58c2fe161\"",
+  "releases_etag": "\"59e3ac7754bdda702e8baef983057dfac028d88c5fdd11caa6fd5683ba4d5f19\""
 }

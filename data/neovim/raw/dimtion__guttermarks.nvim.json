@@ -1,6 +1,6 @@
 {
   "slug": "dimtion/guttermarks.nvim",
-  "fetched_at": "2026-11-27T12:32:26.265855048Z",
+  "fetched_at": "2026-11-28T11:58:28.804917042Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -16,7 +16,7 @@
     "open_issues": 2,
     "closed_issues_sampled": 3,
     "contributors_12mo": 3,
-    "top_author_commit_share": 0.9375,
+    "top_author_commit_share": 0.9285714285714286,
     "top_author": {
       "login": "dimtion",
       "account_created_at": "2012-07-12T16:39:54Z",
@@ -27,6 +27,6 @@
     "readme_len": 6302
   },
   "slow_fetched_at": "2026-11-13T11:17:43.728614145Z",
-  "commits_etag": "\"1e6b612507f27ac35617334b3903adb9cb4d362e9049b7abc39c946abd928371\"",
-  "releases_etag": "\"b3f677ec8dc33fbe5733cec2d7ab93227b43d921ba1ffde58057ea7eb75ef7aa\""
+  "commits_etag": "\"863cd34e7389cc37cbd26b93dc59815490494883f5ad70003b45c8160a197789\"",
+  "releases_etag": "\"59e3ac7754bdda702e8baef983057dfac028d88c5fdd11caa6fd5683ba4d5f19\""
 }

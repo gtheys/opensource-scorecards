@@ -1,6 +1,6 @@
 {
   "slug": "abstract-ide/abstract",
-  "fetched_at": "2026-11-27T12:21:11.230523019Z",
+  "fetched_at": "2026-11-28T11:48:13.488533383Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 3262
   },
   "slow_fetched_at": "2026-11-13T11:02:57.919712022Z",
-  "commits_etag": "\"ad949207b72d10aeedcc04ddef67c4d45590180f4a8e96d29b25e5fadf9ad4f2\"",
-  "releases_etag": "\"4d2c9a4334cd5381a4f057f8213cf9c28378126d995be9b4353d13681401da3c\""
+  "commits_etag": "\"f42a6494afd0858b239ded9455c4aa9860a41546ac67661e0a9dfdce525a4272\"",
+  "releases_etag": "\"7ac4f4c8cda328e39540b51a4670d12c09f32a419837cace80f07c86b2301178\""
 }

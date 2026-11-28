@@ -1,11 +1,11 @@
 {
   "slug": "gbprod/yanky.nvim",
-  "fetched_at": "2026-11-27T12:37:45.788177725Z",
+  "fetched_at": "2026-11-28T12:03:24.050822538Z",
   "status": "ok",
   "data": {
     "archived": false,
     "stars": 1294,
-    "forks": 30,
+    "forks": 31,
     "description": "Improved Yank and Put functionalities for Neovim",
     "license_spdx": "WTFPL",
     "last_commit_at": "2026-11-03T06:35:18Z",
@@ -13,7 +13,7 @@
     "releases_365d": 0,
     "median_issue_close_days": 59.88913773148148,
     "median_pr_close_days": 0.42660879629629633,
-    "open_issues": 33,
+    "open_issues": 35,
     "closed_issues_sampled": 28,
     "contributors_12mo": 7,
     "top_author_commit_share": 0.5789473684210527,
@@ -27,6 +27,6 @@
     "readme_len": 27396
   },
   "slow_fetched_at": "2026-11-13T11:24:59.078848093Z",
-  "commits_etag": "\"e20ed3b980aa66ce3b23c5395f95ab71191607eb2530749711c1f8d033c2c0dd\"",
-  "releases_etag": "\"4a9c63e9538f33c32959d2acc8d9dba7bc2da706f39f9e2cd8301388f216737c\""
+  "commits_etag": "\"e25188514416a30106663a2107066603c59313c4463be2143e7b6bcae4b3a66f\"",
+  "releases_etag": "\"b57425640150248171fff9bda948a066418752e101c8966f0850edabc038e4ad\""
 }

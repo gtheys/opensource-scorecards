@@ -1,10 +1,10 @@
 {
   "slug": "lukas-reineke/indent-blankline.nvim",
-  "fetched_at": "2026-11-27T12:49:22.657513140Z",
+  "fetched_at": "2026-11-28T12:13:58.632303815Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 5012,
+    "stars": 5013,
     "forks": 127,
     "description": "Indent guides  for Neovim",
     "license_spdx": "MIT",
@@ -27,6 +27,6 @@
     "readme_len": 5110
   },
   "slow_fetched_at": "2026-11-14T10:53:31.004072640Z",
-  "commits_etag": "\"c051b57d7585cba5beb61d51bfde69865ac574f140a10411d8ae7ab3fa353161\"",
-  "releases_etag": "\"61c9366f6a07ef781b4787c7db15e02660496ac4a641b8e3ebd1c9c7b259c695\""
+  "commits_etag": "\"9523cd3d4add28d10e56dbd22fb47d116498afe3d4eb65ccf0e17589ed2cf268\"",
+  "releases_etag": "\"890c514c4dbf51487aa1c5e9cc3a35356ce43a74ecd734a685562078fd0b464f\""
 }

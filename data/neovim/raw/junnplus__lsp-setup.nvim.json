@@ -1,6 +1,6 @@
 {
   "slug": "junnplus/lsp-setup.nvim",
-  "fetched_at": "2026-11-27T12:44:20.865465307Z",
+  "fetched_at": "2026-11-28T12:09:26.952486459Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 9227
   },
   "slow_fetched_at": "2026-11-14T10:48:02.558025588Z",
-  "commits_etag": "\"80bc2380204109f39e66f98f75149c2d724d42947891932ae5c86f840990f6b2\"",
-  "releases_etag": "\"b3f677ec8dc33fbe5733cec2d7ab93227b43d921ba1ffde58057ea7eb75ef7aa\""
+  "commits_etag": "\"b4cec0eb9ffc3afa9a422b595ea6ef86575c917838f729a325fe88a5463143e1\"",
+  "releases_etag": "\"59e3ac7754bdda702e8baef983057dfac028d88c5fdd11caa6fd5683ba4d5f19\""
 }

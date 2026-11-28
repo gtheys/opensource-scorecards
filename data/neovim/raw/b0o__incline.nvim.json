@@ -1,6 +1,6 @@
 {
   "slug": "b0o/incline.nvim",
-  "fetched_at": "2026-11-27T12:24:48.752700694Z",
+  "fetched_at": "2026-11-28T11:51:35.483305398Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 8982
   },
   "slow_fetched_at": "2026-11-13T11:07:41.654891142Z",
-  "commits_etag": "\"9ac67562bdb572b35a337ce4462415fad665b86f987fe4dc146a2dd8a82c59f6\"",
-  "releases_etag": "\"5cdb42c19c2ae141bf28d744a3c588c3620a121858d977a8c1a8cb00969f7669\""
+  "commits_etag": "\"2ab2d101c6beac72631dc759d1ee5cacb3da75f364ef6b59ad56356719ea653c\"",
+  "releases_etag": "\"4c721f5a415413f1457bfca316c492726349bff25f376979520ebe6fbdfc138e\""
 }

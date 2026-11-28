@@ -1,6 +1,6 @@
 {
   "slug": "gbprod/nord.nvim",
-  "fetched_at": "2026-11-27T12:37:37.684372342Z",
+  "fetched_at": "2026-11-28T12:03:16.963215155Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 7186
   },
   "slow_fetched_at": "2026-11-13T11:24:46.869826872Z",
-  "commits_etag": "\"7ece8d85e40601e400d95d1810f7b0864f81d2de3e89662a7f1137a8637c239c\"",
-  "releases_etag": "\"a501f488e3410675bcf057e199a4d12d5cb3992ebfbd2a6f461f7d05157ab48f\""
+  "commits_etag": "\"3d6fc9afd16d5cb87564821f5ae863c0d897cd17d57beb525edd3de75a5dd707\"",
+  "releases_etag": "\"9622b8dd37ed238b0fe497098d3d58332ffed2119cead91de45bf520bdada1fb\""
 }

@@ -1,10 +1,10 @@
 {
   "slug": "mhinz/vim-startify",
-  "fetched_at": "2026-11-27T12:52:19.634997590Z",
+  "fetched_at": "2026-11-28T12:16:30.747075068Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 5376,
+    "stars": 5377,
     "forks": 181,
     "description": ":link: The fancy start screen for Vim.",
     "license_spdx": "MIT",
@@ -23,6 +23,6 @@
     "readme_len": 1794
   },
   "slow_fetched_at": "2026-11-15T11:21:39.901013474Z",
-  "commits_etag": "\"23c625d2d45e1c2ed4d4bbe6d8fa9f82e825abf2c7ff3192beceaf8ea5b3b1b0\"",
-  "releases_etag": "\"b3f677ec8dc33fbe5733cec2d7ab93227b43d921ba1ffde58057ea7eb75ef7aa\""
+  "commits_etag": "\"81168381c0c86081db7b7ce60e567900bafd49ec799a06b0a57bfed3329c26a8\"",
+  "releases_etag": "\"59e3ac7754bdda702e8baef983057dfac028d88c5fdd11caa6fd5683ba4d5f19\""
 }

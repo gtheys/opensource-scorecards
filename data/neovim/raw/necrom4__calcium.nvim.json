@@ -1,6 +1,6 @@
 {
   "slug": "necrom4/calcium.nvim",
-  "fetched_at": "2026-11-27T12:57:20.289364172Z",
+  "fetched_at": "2026-11-28T12:20:11.802708110Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -16,7 +16,7 @@
     "open_issues": 0,
     "closed_issues_sampled": 2,
     "contributors_12mo": 3,
-    "top_author_commit_share": 0.75,
+    "top_author_commit_share": 0.7058823529411765,
     "top_author": {
       "login": "Necrom4",
       "account_created_at": "2024-03-06T13:26:08Z",
@@ -27,6 +27,6 @@
     "readme_len": 3761
   },
   "slow_fetched_at": "2026-11-16T11:59:11.250240600Z",
-  "commits_etag": "\"560ff044364832a7bbe41f73427f407c45807734f8bbbf3d7a72ecacce618678\"",
-  "releases_etag": "\"b3f677ec8dc33fbe5733cec2d7ab93227b43d921ba1ffde58057ea7eb75ef7aa\""
+  "commits_etag": "\"ec0296b89974ee8c424736022b0755e8793b62d1e672ca2b281a922843914dc9\"",
+  "releases_etag": "\"59e3ac7754bdda702e8baef983057dfac028d88c5fdd11caa6fd5683ba4d5f19\""
 }

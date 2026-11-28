@@ -1,6 +1,6 @@
 {
   "slug": "meanderingprogrammer/treesitter-modules.nvim",
-  "fetched_at": "2026-11-27T12:51:48.370568323Z",
+  "fetched_at": "2026-11-28T12:16:04.192706903Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 8006
   },
   "slow_fetched_at": "2026-11-15T11:21:07.815803438Z",
-  "commits_etag": "\"7d8ae48b1e6190a8f25d81f12ae28febf6e2e961a0caf6175ff60afaae146493\"",
-  "releases_etag": "\"b3f677ec8dc33fbe5733cec2d7ab93227b43d921ba1ffde58057ea7eb75ef7aa\""
+  "commits_etag": "\"827e0d122c355bc27394efacefd002d5fa74278efd76bfb365a98e3ab1ae075a\"",
+  "releases_etag": "\"59e3ac7754bdda702e8baef983057dfac028d88c5fdd11caa6fd5683ba4d5f19\""
 }

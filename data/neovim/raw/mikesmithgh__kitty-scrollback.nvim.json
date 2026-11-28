@@ -1,10 +1,10 @@
 {
   "slug": "mikesmithgh/kitty-scrollback.nvim",
-  "fetched_at": "2026-11-27T12:53:10.917723435Z",
+  "fetched_at": "2026-11-28T12:17:02.426877048Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 933,
+    "stars": 934,
     "forks": 27,
     "description": "😽 Open your Kitty scrollback buffer with Neovim. Ameowzing!",
     "license_spdx": "Apache-2.0",
@@ -27,6 +27,6 @@
     "readme_len": 62143
   },
   "slow_fetched_at": "2026-11-15T11:22:14.299528370Z",
-  "commits_etag": "\"d1f500f15a2f99d12bd3188c02cfe2b311e54899d76d16ba723a8dde3fa11280\"",
-  "releases_etag": "\"25fc5a3adb3dabb8760ca6af8005fe93048c8795bc334fa8494c76387975b0cc\""
+  "commits_etag": "\"8a53e00d840e5203afebaa0c350bce2029df63e1f00a0e52cd512169c9a77265\"",
+  "releases_etag": "\"d5c6d3426a38de9b2bb29f891c5e3808772efa4cc86f3e8ff1d05842cc11e0d0\""
 }

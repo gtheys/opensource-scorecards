@@ -1,6 +1,6 @@
 {
   "slug": "leo-alvarenga/quoth.nvim",
-  "fetched_at": "2026-11-27T12:47:33.973468073Z",
+  "fetched_at": "2026-11-28T12:12:22.382459162Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 8210
   },
   "slow_fetched_at": "2026-11-14T10:51:32.449580105Z",
-  "commits_etag": "\"7b5ac9583f14b2d8203f42452eea2616e9d5444c38114817210804e97d7de868\"",
-  "releases_etag": "\"98d53ea5a3f419c64432044153314b67d73de6c0869e3c88fd877624f0fcf9b8\""
+  "commits_etag": "\"b5cfd8fb2b03975cc8d22ce37477529e5e10f7e0e49d2a8219b7927b05082abf\"",
+  "releases_etag": "\"42839bae34b5ac0d3b4130037f5a120bd08ad3b72cb8192c756202c65e6f6517\""
 }

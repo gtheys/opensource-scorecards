@@ -1,6 +1,6 @@
 {
   "slug": "artemave/workspace-diagnostics.nvim",
-  "fetched_at": "2026-11-27T12:23:51.026772487Z",
+  "fetched_at": "2026-11-28T11:50:44.189197255Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 3443
   },
   "slow_fetched_at": "2026-11-13T11:06:25.140230662Z",
-  "commits_etag": "\"2f8e395e2aafaefb3196dbd73fdc43a32c7cbf9437b8ebc0231f379b8911bd8b\"",
-  "releases_etag": "\"b3f677ec8dc33fbe5733cec2d7ab93227b43d921ba1ffde58057ea7eb75ef7aa\""
+  "commits_etag": "\"e43372f88b4f98848f630bf2bad7e46293e7f0df6cd5f0ffa7cfa38188419ae8\"",
+  "releases_etag": "\"59e3ac7754bdda702e8baef983057dfac028d88c5fdd11caa6fd5683ba4d5f19\""
 }

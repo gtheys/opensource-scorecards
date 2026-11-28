@@ -1,10 +1,10 @@
 {
   "slug": "civitasv/cmake-tools.nvim",
-  "fetched_at": "2026-11-27T12:29:03.006128762Z",
+  "fetched_at": "2026-11-28T11:55:27.691868371Z",
   "status": "ok",
   "data": {
     "archived": false,
-    "stars": 566,
+    "stars": 567,
     "forks": 108,
     "description": "CMake integration in Neovim",
     "license_spdx": "GPL-3.0",
@@ -27,6 +27,6 @@
     "readme_len": 11703
   },
   "slow_fetched_at": "2026-11-13T11:12:59.301645405Z",
-  "commits_etag": "\"8cd11c2d8a5bbd04b6f183a3e9bb4746966ea54993967a9e98bfca61336999a8\"",
-  "releases_etag": "\"b3f677ec8dc33fbe5733cec2d7ab93227b43d921ba1ffde58057ea7eb75ef7aa\""
+  "commits_etag": "\"200498045c731d70297b6f725b303c332c324dbe692e2be7c91dab6d87ec232a\"",
+  "releases_etag": "\"59e3ac7754bdda702e8baef983057dfac028d88c5fdd11caa6fd5683ba4d5f19\""
 }

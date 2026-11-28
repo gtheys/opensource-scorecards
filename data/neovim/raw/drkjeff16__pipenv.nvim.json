@@ -1,6 +1,6 @@
 {
   "slug": "drkjeff16/pipenv.nvim",
-  "fetched_at": "2026-11-27T12:33:22.554317287Z",
+  "fetched_at": "2026-11-28T11:59:20.153292204Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 16617
   },
   "slow_fetched_at": "2026-11-13T11:19:03.036061943Z",
-  "commits_etag": "\"2ea67a054f63f10b17ebf083a7964ef8fe46b3ca41f3e50114cae3dc9b5bf071\"",
-  "releases_etag": "\"a8f52ac3a1b6867e45d86b7f5c4ca11c3d9c32664abb8ff33f5956cfdd5ec506\""
+  "commits_etag": "\"75b1c53af78de028a5f716b13cf66263cb62ff19a70e8205ae819fb467d5ea43\"",
+  "releases_etag": "\"ff655097cbad982b8fdfcd2b60a0c0f006a012812a00b3bb51c219732d9e1925\""
 }

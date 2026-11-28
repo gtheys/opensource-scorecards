@@ -1,6 +1,6 @@
 {
   "slug": "drkjeff16/wezterm-types",
-  "fetched_at": "2026-11-27T12:33:34.307546812Z",
+  "fetched_at": "2026-11-28T11:59:31.679694512Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -16,7 +16,7 @@
     "open_issues": 2,
     "closed_issues_sampled": 2,
     "contributors_12mo": 6,
-    "top_author_commit_share": 0.9179389312977099,
+    "top_author_commit_share": 0.9176245210727969,
     "top_author": {
       "login": "DrKJeff16",
       "account_created_at": "2020-09-29T00:05:14Z",
@@ -27,6 +27,6 @@
     "readme_len": 44358
   },
   "slow_fetched_at": "2026-11-13T11:19:20.714373785Z",
-  "commits_etag": "\"dd85ed41fedc7abcc7a74e56b9acbad56c659ab764b035b69c1efc4c074b1ebc\"",
-  "releases_etag": "\"cfc2abdd56897adeaa283985ab150b864e0c908e757ea95ec2a323be2dccce4f\""
+  "commits_etag": "\"d7be8977f3d9be183857f941e5fdf8c5702300e18dd20c73b82bc2157f5e4325\"",
+  "releases_etag": "\"882adb85bb583271a811a54a3c55519773b32289b622711e943409f27242029a\""
 }

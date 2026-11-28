@@ -1,10 +1,10 @@
 {
   "slug": "0x48piraj/fadblock",
-  "fetched_at": "2026-11-27T12:58:31.906662269Z",
+  "fetched_at": "2026-11-28T12:21:11.630165776Z",
   "status": "ok",
   "data": {
     "archived": true,
-    "stars": 2385,
+    "stars": 2384,
     "forks": 109,
     "description": "Friendly Adblock for YouTube: A fast, lightweight, and undetectable YouTube Ads Blocker for Chrome, Opera and Firefox.",
     "license_spdx": null,
@@ -27,6 +27,6 @@
     "readme_len": 0
   },
   "slow_fetched_at": "2026-11-15T11:25:05.665691117Z",
-  "commits_etag": "\"a06d22e26fa600432115a5396c96acf1cea1e9d3e7cbd1cb7d791c7f7bfc5352\"",
-  "releases_etag": "\"f0a8748cf2dffaec432df8d32c474fc928acda98a6620ab2c6faaa1881ca3262\""
+  "commits_etag": "\"0d5f9ebba5c1f982f3b648c2ea85b49b9657d558c1fce5cad41140b70d14fd1c\"",
+  "releases_etag": "\"f488f288da30fefb33f9699006e24e9e2919d7f6caf09d29191119f7a8caf95f\""
 }

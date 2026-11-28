@@ -1,6 +1,6 @@
 {
   "slug": "mellow-theme/mellow.nvim",
-  "fetched_at": "2026-11-27T12:51:50.034527788Z",
+  "fetched_at": "2026-11-28T12:16:05.779086669Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 5218
   },
   "slow_fetched_at": "2026-11-15T11:21:09.732602310Z",
-  "commits_etag": "\"62af78a312179cd538209d2ca27f91f362defa88e6007c2b100bf0bf9a7aabf5\"",
-  "releases_etag": "\"b3f677ec8dc33fbe5733cec2d7ab93227b43d921ba1ffde58057ea7eb75ef7aa\""
+  "commits_etag": "\"fa8bd53792182c9852e80f570193be4e33a994cfd83ef1fc6c9fcdf47c3ca0e6\"",
+  "releases_etag": "\"59e3ac7754bdda702e8baef983057dfac028d88c5fdd11caa6fd5683ba4d5f19\""
 }

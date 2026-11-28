@@ -1,6 +1,6 @@
 {
   "slug": "maxmx03/fluoromachine.nvim",
-  "fetched_at": "2026-11-27T12:51:36.868127953Z",
+  "fetched_at": "2026-11-28T12:15:54.472270953Z",
   "status": "ok",
   "data": {
     "archived": true,
@@ -23,6 +23,6 @@
     "readme_len": 6362
   },
   "slow_fetched_at": "2026-11-15T11:20:56.276293225Z",
-  "commits_etag": "\"e3ec71f26e0de95cafcca76cf7e9831e205006bddccfa119c56982716ce962c5\"",
-  "releases_etag": "\"b3f677ec8dc33fbe5733cec2d7ab93227b43d921ba1ffde58057ea7eb75ef7aa\""
+  "commits_etag": "\"6a0f5fc3a4305baa39b51cf81c656119417d68eb634681c349440ca623dfb045\"",
+  "releases_etag": "\"59e3ac7754bdda702e8baef983057dfac028d88c5fdd11caa6fd5683ba4d5f19\""
 }

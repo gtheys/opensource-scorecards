@@ -1,6 +1,6 @@
 {
   "slug": "kkew3/jieba.vim",
-  "fetched_at": "2026-11-27T12:46:03.809266763Z",
+  "fetched_at": "2026-11-28T12:11:00.446480710Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -8,15 +8,15 @@
     "forks": 6,
     "description": "基于 jieba 的 Vim/Nvim 按词跳转插件",
     "license_spdx": "Apache-2.0",
-    "last_commit_at": "2026-11-27T12:29:16Z",
-    "commits_90d": 130,
-    "releases_365d": 7,
-    "median_issue_close_days": 11.252164351851851,
-    "median_pr_close_days": 0.08690972222222222,
+    "last_commit_at": "2026-11-28T03:17:14Z",
+    "commits_90d": 133,
+    "releases_365d": 8,
+    "median_issue_close_days": 10.568032407407408,
+    "median_pr_close_days": 0.07453125,
     "open_issues": 2,
-    "closed_issues_sampled": 11,
+    "closed_issues_sampled": 10,
     "contributors_12mo": 5,
-    "top_author_commit_share": 0.9892280071813285,
+    "top_author_commit_share": 0.9892857142857143,
     "top_author": {
       "login": "kkew3",
       "account_created_at": "2015-07-09T23:26:44Z",
@@ -27,6 +27,6 @@
     "readme_len": 10946
   },
   "slow_fetched_at": "2026-11-14T10:49:55.638063122Z",
-  "commits_etag": "\"8b2ee400d7dffddb4832f25acfbd9b05f87310c18fe85d3933c131cb1d83db51\"",
-  "releases_etag": "\"d1f173f8416c7576f7521b27cda7e5d4dfe0ffade92f07b2221e7b4e58a6fb3a\""
+  "commits_etag": "\"83d2f77c9a5126d37e0b87b9b617c6732b60cc0e31480821afcaa396ce38ca60\"",
+  "releases_etag": "\"ba43890926f24e0a9258698101ef9b0fefea3579790234d48d9564255fd46cd7\""
 }

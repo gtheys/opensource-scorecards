@@ -1,6 +1,6 @@
 {
   "slug": "krissen/blink-cmp-bibtex",
-  "fetched_at": "2026-11-27T12:46:35.558189376Z",
+  "fetched_at": "2026-11-28T12:11:30.580094786Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -27,6 +27,6 @@
     "readme_len": 32488
   },
   "slow_fetched_at": "2026-11-14T10:50:31.867171016Z",
-  "commits_etag": "\"ce57bdd30d308867b91d5bdf5ca0e69421b0ca1aca39fd2ec12fe0990faedd93\"",
-  "releases_etag": "\"6fe27a95b398739a71751003095b7fd170bc5a1c7caaef7714f6cfed2f8e526d\""
+  "commits_etag": "\"b55cad22f9e188afafea584128f742cdeb5cb4856adc041258dd9589acdff48a\"",
+  "releases_etag": "\"49f947608137e08c88034f68ff0d470be4d1284a44e54f5b8c4e176e0a382e6f\""
 }

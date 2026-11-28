@@ -1,6 +1,6 @@
 {
   "slug": "aaronik/gptmodels.nvim",
-  "fetched_at": "2026-11-27T12:20:57.340966684Z",
+  "fetched_at": "2026-11-28T11:48:01.175132612Z",
   "status": "ok",
   "data": {
     "archived": false,
@@ -23,6 +23,6 @@
     "readme_len": 7648
   },
   "slow_fetched_at": "2026-11-13T11:02:41.993817077Z",
-  "commits_etag": "\"d8021d73b766a952efe319884bb363fd81ce691c60c48b2e4f6400abee72f45c\"",
-  "releases_etag": "\"b3f677ec8dc33fbe5733cec2d7ab93227b43d921ba1ffde58057ea7eb75ef7aa\""
+  "commits_etag": "\"696e37436d0404e789353f43b25db29d989a523b97de2c25d70bb5e3a092ec4e\"",
+  "releases_etag": "\"59e3ac7754bdda702e8baef983057dfac028d88c5fdd11caa6fd5683ba4d5f19\""
 }
